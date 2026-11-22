@@ -201,7 +201,7 @@ File: `sutraani/data.txt` (github.com/ashtadhyayi-com/data). Found while generat
 
 ### 6.2.21 आशङ्काबाधनेदीयस्सु संभावने
 
-- Now: `आशङ्क-आबाध-नेदियस्सु` → suggested: `आशङ्का-आबाध-नेदीयस्सु` — the sūtra has आशङ्काबाधनेदीयस्सु (आशङ्का, नेदीयस्).
+- Now: `आशङ्क-आबाध-नेदियस्सु` → suggested: `आशङ्क-आबाध-नेदीयस्सु` — नेदियस् is a typo for नेदीयस् (the sūtra has …नेदीयस्सु). आशङ्क is right: the Kāśikā and the prathamāvṛtti read आशङ्क (corrected 2026-11-22 — the earlier entry also changed it to आशङ्का).
 - sūtra: “आशङ्काबाधनेदीयस्सु संभावने”
 - prathamāvṛtti padaccheda: “आशङ्काबाधनेदीयस्सु ७।३। संभावने ७।१।”
 
@@ -270,12 +270,6 @@ File: `sutraani/data.txt` (github.com/ashtadhyayi-com/data). Found while generat
 - Now: `अशनायोदन्यधनाया` → suggested: `अशनायोदन्यधनायाः` — the pada is written with its final sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself.
 - sūtra: “अशनायोदन्यधनाया बुभुक्षापिपासागर्द्धेषु”
 - prathamāvṛtti padaccheda: “अशनायोदन्यधनायाः १।३॥ बुभुक्षापिपासागधेषु ७।३॥”
-
-### 7.4.46 दो दद् घोः
-
-- Now: `दथ्` → suggested: `दद्` — the sūtra is दो दद् घोः; the replacement is दद्.
-- sūtra: “दो दद् घोः”
-- prathamāvṛtti padaccheda: “दः ६।१॥ दद् १।१॥ घोः ६।१॥ अनु०-ति क्किति, अङ्गस्य ॥”
 
 ### 8.1.55 आम एकान्तरमामन्त्रितमनन्तिके
 

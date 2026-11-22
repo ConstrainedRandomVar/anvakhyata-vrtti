@@ -1,5 +1,5 @@
 {
- "_about": "Corrections to the ashtadhyayi.com sūtra data (sutraani/data.txt), found while generating vṛttis. build.js applies the 'an' (anuvṛtti) entries; each entry quotes the evidence. Hand to the ashtadhyayi.com maintainers; the readable list is ASHTADHYAYI-COM-ERRATA.md.",
+ "_about": "Corrections to the ashtadhyayi.com sūtra data (sutraani/data.txt), found while generating vṛttis. build.js applies the 'an' (anuvṛtti) entries; each entry quotes the evidence. Hand to the ashtadhyayi.com maintainers; the readable list is ASHTADHYAYI-COM-ERRATA.md. 2026-11-22: checked again for ashtadhyayi.com (the cited, checked list is work/share-nilesh/errata/ and the public repo anvakhyata-vrtti): 74046 (दथ् → दद्) withdrawn — the data is right, the Mahābhāṣya on 7.4.46 settles थान्त; 62021 keeps only नेदियस् → नेदीयस्.",
  "64120": {
   "field": "an",
   "drop": [
@@ -481,8 +481,8 @@
   "pc": [
    {
     "from": "आशङ्क-आबाध-नेदियस्सु",
-    "to": "आशङ्का-आबाध-नेदीयस्सु",
-    "why": "the sūtra has आशङ्काबाधनेदीयस्सु (आशङ्का, नेदीयस्)."
+    "to": "आशङ्क-आबाध-नेदीयस्सु",
+    "why": "नेदियस् is a typo for नेदीयस् (the sūtra has …नेदीयस्सु). आशङ्क is right: the Kāśikā and the prathamāvṛtti read आशङ्क (corrected 2026-11-22 — the earlier entry also changed it to आशङ्का)."
    }
   ],
   "evidence": {
@@ -594,21 +594,6 @@
   "evidence": {
    "sūtra": "विभाषा चिण्णमुलोः",
    "prathamāvṛtti padaccheda": "विभाषा १।१। चिण्णमुल्योः ७।२।"
-  },
-  "applied": "in build.js (pc errata applied to the words)"
- },
- "74046": {
-  "field": "pc",
-  "pc": [
-   {
-    "from": "दथ्",
-    "to": "दद्",
-    "why": "the sūtra is दो दद् घोः; the replacement is दद्."
-   }
-  ],
-  "evidence": {
-   "sūtra": "दो दद् घोः",
-   "prathamāvṛtti padaccheda": "दः ६।१॥ दद् १।१॥ घोः ६।१॥ अनु०-ति क्किति, अङ्गस्य ॥"
   },
   "applied": "in build.js (pc errata applied to the words)"
  },

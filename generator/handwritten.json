@@ -2977,5 +2977,20 @@
     "quote": "ततः परोऽनुस्वार आगमो भवति संहितायां विषये"
    }
   ]
+ },
+ "7.4.46": {
+  "keep": true,
+  "c": "तकारादौ किति प्रत्यये परे दा इत्येतस्य घुसंज्ञकस्य अङ्गस्य स्थाने दथ् आदेशः भवति",
+  "note": "The substitute ends in थ्: the sūtra's दद् is दथ् with थ् → द् before घोः (8.4.53). The Mahābhāṣya on 7.4.46 settles it — “थान्तेऽदोषस्तस्मात्थान्तः” — and the Kāśikā says “अयमादेशः थान्तः इष्यते”; the prathamāvṛtti writes दद्. (2026-11-22: the vṛtti said दद्, following an erratum of ours that was withdrawn on checking.)",
+  "quotes": [
+   {
+    "ref": "KV",
+    "quote": "दा इत्येतस्य घुसंज्ञकस्य ददित्ययमादेशो भवति तकारादौ किति प्रत्यय परतः"
+   },
+   {
+    "ref": "KV",
+    "quote": "अयमादेशः थान्तः इष्यते"
+   }
+  ]
  }
 }
