@@ -1472,6 +1472,11 @@
   "c": "तवैप्रत्ययस्य अन्तः उदात्तः भवति, गतिः च अनन्तरः पूर्वपदम् प्रकृतिस्वरम् भवति, युगपत् च एतत् उभयम् भवति",
   "steps": [
    [
+    "PIS 23",
+    "तवै names a suffix: the final of तवै is the final of the word ending in it — the Siddhānta-kaumudī reads it so (“तवैप्रत्ययान्तस्यान्त उदात्तो”); the prathamāvṛtti and the Kāśikā speak of the suffix's own final (“तवैप्रत्ययस्यान्त”) — the same vowel",
+    "तवैप्रत्ययस्य (= तवैप्रत्ययान्तस्य) अन्तः"
+   ],
+   [
     "",
     "two accents at once (युगपत्): उदात्त on the end of तवै, and its own accent on the गति",
     "अन्तः उदात्तः … गतिः प्रकृतिस्वरम् … युगपत्"
@@ -1481,6 +1486,10 @@
    {
     "ref": "PV",
     "quote": "तवैप्रत्ययस्य अन्त उदात्तो भवति गतिश्चानन्तरः पूर्वपदं प्रकृतिस्वरं भवति युगपच्चैतदुभयं स्यात्"
+   },
+   {
+    "ref": "SK",
+    "quote": "तवैप्रत्ययान्तस्यान्त उदात्तो"
    }
   ]
  },

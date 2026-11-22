@@ -295,7 +295,9 @@ const lastStem = (g, kind) => {
 const listOf = (segs, kind) => segs.map((g, i) => i === segs.length - 1 ? ((LEX[g] && LEX[g].stem) || lastStem(g, kind)) : g).join('_');
 // ───────────────────────── per-sūtra analysis ─────────────────────────
 function parseWords(s) {
-  return s.pc.split('##').filter(Boolean).map(w => { const [form, , c, n] = w.split('$'); return { form, segs: form.split('-'), wcase: +c || 0, num: +n || 0 }; });
+  // a pada written without its ending (166 in the data) carries its case in the 5th slot — न$S$$$6 (6.4.7, PV “न अविभक्त्यन्तं पदम्”),
+  // आदिनी$S$$$7 (8.4.48, PV “आदिनि लुप्तसप्तम्यन्तनिर्देशः”), शे$S$$$1 (1.1.13). Read since 2026-11-22 (before, these words had no case).
+  return s.pc.split('##').filter(Boolean).map(w => { const [form, , c, n, lc] = w.split('$'); return Object.assign({ form, segs: form.split('-'), wcase: +c || +lc || 0, num: +n || 0 }, !+c && +lc ? { lupta: true } : {}); });
 }
 const tadantaStem = st => {
   if (st === 'अन्') return 'अन्नन्त';   // अनः (6.4.134 अल्लोपोऽनः) → अन्नन्तस्य
@@ -1231,7 +1233,7 @@ const autoOf = (id, form) => { // first occurrence of a word form in sūtra id �
   const sx = BYID[id]; if (!sx || !AUTO[id]) return null;
   const ws = sx.pc.split('##').filter(Boolean); let i = ws.findIndex(w => w.split('$')[0] === form);
   if (i < 0 && /ः$/.test(form)) i = ws.findIndex(w => w.split('$')[0] === form.slice(0, -1));   // carried सुपः = सुप (visarga lost to sandhi)
-  return i < 0 ? null : { pieces: AUTO[id][i], cs: +ws[i].split('$')[2] || 0 };
+  return i < 0 ? null : { pieces: AUTO[id][i], cs: +ws[i].split('$')[2] || +ws[i].split('$')[4] || 0 };   // 5th slot: case of a pada written without its ending
 };
 const RES = [];
 const DHATU_CLASS_RULES = []; // general rules for 3.1.94
@@ -1249,7 +1251,7 @@ for (const s of SUTRAS) {
   anFix(s.i, s.an || '').split('##').filter(Boolean).forEach(x => { const [w, nid] = x.split('$'); const f = CAR_LEX[num(nid)] && CAR_LEX[num(nid)][w]; if (f) { overridden.push([w, LEX[w]]); LEX[w] = f; } });
   if (!inRange) {
     const ctxA = { pilot: false, inAnga: idn >= 64001 && idn <= 74097, opsSec: idn >= 61001 };
-    s.pc.split('##').filter(Boolean).forEach((w, wi) => { const [f, , c] = w.split('$'); const segs = f.split('-'); (AUTO[s.i] && AUTO[s.i][wi] || []).forEach((r, si) => { const m = mapAuto(r, si === segs.length - 1 ? +c || 0 : 0, si === segs.length - 1, ctxA); inject(segs[si], m); if (segs.length === 1) inject(f, m);
+    s.pc.split('##').filter(Boolean).forEach((w, wi) => { const [f, , c0, , lc] = w.split('$'), c = c0 || lc; const segs = f.split('-'); (AUTO[s.i] && AUTO[s.i][wi] || []).forEach((r, si) => { const m = mapAuto(r, si === segs.length - 1 ? +c || 0 : 0, si === segs.length - 1, ctxA); inject(segs[si], m); if (segs.length === 1) inject(f, m);
       // a compound in the 7th whose last member names what follows (त-थासोः, इष्ठ-इमन्-ईयस्सु): the whole word does
       else if (si === segs.length - 1 && m && m.kind === 'nimitta') inject(f, Object.assign({}, m, { parts: segs.map((g, j) => j === segs.length - 1 ? g : g + (m.sfx ? '' : '')).map((g, j, arr) => j === arr.length - 1 ? g : g) , compound: true })); }); });
     // in the operation chapters a carried 7th-case word names what follows (नामि, डिति, शिति) unless it is a domain / scope word
@@ -1260,11 +1262,10 @@ for (const s of SUTRAS) {
   }
   const id = s.i, words = parseWords(s), notes = [], P = [];
   // word-level data fixes (the data's पदच्छेद misreads a word), and readings (`reading: true`) of padas written without their ending, whose case
-  // the data gives in the 5th pc slot ($S$$$<case>), which the parser does not read yet: 6.4.7 न = नः (6th of the sound न्), 8.4.48 आदिनी (7th).
-  // OPEN (2026-11-22): reading that slot for all 166 such padas moves 12 (6th/7th only) to 29 (all) paribhāṣā credits the audit has not seen.
+  // the data gives in the 5th pc slot ($S$$$<case>, read by parseWords): 6.4.7 न is voiced नः (the 6th of the sound न्).
   // a sūtra-local reading the lexicon gets wrong: 3.1.146 गः is the dhātu गै (PV “गायतेर्धातोः”, Kāśikā “गायतेः”), not the sound ग्
   const LEXFIX = { '31146': { 'गः': { kind: 'dhatu', root: 'गै' } } };
-  const PC_FIX = { '61062': { 'अचि': { wcase: 7, why: 'the data codes अचि as 6th; it is the 7th singular of अच् (Kāśikā “आजादौ तद्धिते”)' } }, '33144': { 'लिङ्लृटौ': { form: 'लिङ्-लृटौ', segs: ['लिङ्', 'लृटौ'], wcase: 1, num: 2, why: 'a dvandva of the lakāras लिङ् and लृट् (PV “लिङ् लुटौ प्रत्ययौ”)' } }, '32066': { 'हव्येः': { form: 'हव्ये', segs: ['हव्ये'], wcase: 7, num: 1, why: 'the data reads हव्येः; the sūtra has हव्ये (7th of हव्य, हव्येऽनन्तःपादम्) — PV “हव्यसुबन्त उपपदे”' } }, '84048': { 'आदिनी': { form: 'आदिनी', segs: ['आदिनी'], wcase: 7, num: 1, reading: true, why: 'आदिनी is written without its ending; the data marks it as a 7th in its fifth pc slot (आदिनी$S$$$7) — the 7th of आदिन् (Kāśikā: “आदिनी परतः”; prathamāvṛtti: “आदिनि लुप्तसप्तम्यन्तनिर्देशः”)' } }, '64007': { 'न': { form: 'नः', segs: ['नः'], wcase: 6, num: 1, reading: true, why: 'न is the sound न् written without its ending; the data marks it as a 6th in its fifth pc slot (न$S$$$6) — read नः, the 6th of the sound न् (Kāśikā: “नान्तस्याङ्गस्य”; prathamāvṛtti: “न अविभक्त्यन्तं पदम्”)' } } };
+  const PC_FIX = { '61062': { 'अचि': { wcase: 7, why: 'the data codes अचि as 6th; it is the 7th singular of अच् (Kāśikā “आजादौ तद्धिते”)' } }, '33144': { 'लिङ्लृटौ': { form: 'लिङ्-लृटौ', segs: ['लिङ्', 'लृटौ'], wcase: 1, num: 2, why: 'a dvandva of the lakāras लिङ् and लृट् (PV “लिङ् लुटौ प्रत्ययौ”)' } }, '32066': { 'हव्येः': { form: 'हव्ये', segs: ['हव्ये'], wcase: 7, num: 1, why: 'the data reads हव्येः; the sūtra has हव्ये (7th of हव्य, हव्येऽनन्तःपादम्) — PV “हव्यसुबन्त उपपदे”' } }, '64007': { 'न': { form: 'नः', segs: ['नः'], num: 1, reading: true, why: 'न is the sound न् written without its ending — the data gives it the 6th (न$S$$$6); voiced नः, the 6th of the sound न् (Kāśikā: “नान्तस्याङ्गस्य”; prathamāvṛtti: “न अविभक्त्यन्तं पदम्”)' } } };
   // ashtadhyayi.com padaccheda corrections (ashtadhyayi-errata.json, field pc): the pada as it stands in the sūtra
   for (const e of [ERRATA[id], ERRATA[id + '-pc']]) if (e && e.field === 'pc') for (const x of (e.pc || (e.from ? [e] : [])).filter(x => !x.noBuild)) words.forEach((w, i) => { if (w.form === x.from) words[i] = Object.assign({}, w, { form: x.to, segs: x.to.split('-') }); });
   if (PC_FIX[id]) words.forEach((w, i) => { const f = PC_FIX[id][w.form]; if (f) { words[i] = Object.assign({}, w, f); notes.push((f.reading ? 'reading: ' : '⚠ data fix: ') + f.why); if (LEX['नः'] === undefined) { LEX['नः'] = { kind: 'varna', stem: 'न्', cons: true }; injected.push('नः'); } } });
@@ -3314,6 +3315,7 @@ const AUDIT = (() => { try { return JSON.parse(fs.readFileSync(path.join(__dirna
   }
   stat['stray citations removed'] = stray;
   console.log(`paribhāṣā audit: applied ${Object.entries(stat).map(([k, n]) => `${k} ${n}`).join(' · ') || 'nothing'}`);
+  fs.writeFileSync('/tmp/vg-unaudited.json', JSON.stringify(unaudited));   // the full list (the log line shows 20)
   console.log(`paribhāṣā audit: UNAUDITED credits ${unaudited.length}${unaudited.length ? ' — ' + unaudited.slice(0, 20).join(', ') : ''}`);
 }
 // ── 1.1.72 / PIS 23 cards name the viśeṣya (Harsha 2026-11-20, on 3.1.97): tadanta works only for a qualifier agreeing with a qualified word —

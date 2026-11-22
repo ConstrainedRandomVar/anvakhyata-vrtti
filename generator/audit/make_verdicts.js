@@ -55,7 +55,7 @@ for (const f of fs.readdirSync(D).filter(f => /-audit\.json$/.test(f))) {
     }
     for (const u of g.unsure || []) { const n = typeof u === 'string' ? u : u.n; if ((OV[pid] || {})[n]) continue; unsure.push(typeof u === 'string' ? { n: u } : u); }   // a ruled unsure leaves the list
   }
-  for (const [n, ov] of Object.entries(OV[pid] || {})) if (ov.verdict === 'not licensed' && !V[n]) V[n] = [{ layer: ov.layer || 2, word: ov.word || '', to: ov.to || null, why: ov.why, quote: ov.quote || null }];
+  for (const [n, ov] of Object.entries(OV[pid] || {})) if (ov.verdict === 'not licensed' && !V[n]) V[n] = [{ layer: ov.layer || 2, word: ov.word || '', to: ov.to || null, act: ov.act || null, why: ov.why, quote: ov.quote || null }];   // act: 'derivation' | 'deny' as for auditor verdicts (2026-11-22)
   const missedOther = (A.missed || []).filter(m => m.pid ? m.pid !== pid : /^(PIS|[0-9.]+ ) ?\S* ?miss|^PIS \d+/.test(m.why) && !m.why.startsWith(pid)).map(m => ({ n: m.n, pid: m.pid || '', why: m.why }));   // newer audits name the rule (m.pid)   // a miss of ANOTHER rule — for that rule's audit
   for (const n of (MISSED_AS_DENY[pid] || [])) { const m = (A.missed || []).find(x => x.n === n); if (m && !V[n]) V[n] = [{ layer: 0, word: '', to: null, act: 'deny', why: m.why, quote: (m.quotes || [])[0] || null }]; }
   const missed = (A.missed || []).filter(m => /^\d+\.\d+\.\d+$/.test(m.n) && !(MISSED_AS_DENY[pid] || []).includes(m.n) && !missedOther.some(o => o.n === m.n) && !((OV[pid] || {})[m.n] && OV[pid][m.n].verdict === 'not licensed')).map(m => ({ n: m.n, why: m.why, quote: (m.quotes || [])[0] || null }));
