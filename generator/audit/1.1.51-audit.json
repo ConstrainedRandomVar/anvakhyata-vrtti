@@ -1,0 +1,1407 @@
+{
+ "pid": "1.1.51",
+ "audited": "2026-11-20",
+ "totals": {
+  "firings": 92,
+  "licensed": 33,
+  "not licensed": 58,
+  "unsure": 1,
+  "not_licensed_by_should_be": {
+   "none": 53,
+   "1.1.52": 5
+  },
+  "not_licensed_by_reason": {
+   "STHANIN_NOT_R": 21,
+   "NISHEDHA": 9,
+   "COMMENTATOR_DENIES": 2,
+   "MISNUMBERED_REF": 13,
+   "NOT_SUBSTITUTE": 1,
+   "UNRELATED": 4,
+   "DERIVATION_ONLY": 5,
+   "COUNTERFACTUAL": 2,
+   "JNAPAKA": 1
+  }
+ },
+ "reason_codes": {
+  "STHANIN_NOT_R": "the sound replaced can only be अ/इ/उ (or listed words without ऋ)",
+  "NISHEDHA": "prohibition",
+  "MISNUMBERED_REF": "commentator's [[1.1.51]] = 1.1.52 (or 1.1.50)",
+  "COMMENTATOR_DENIES": "the passage says rapara does not apply",
+  "DERIVATION_ONLY": "only in the derivation of an example form",
+  "COUNTERFACTUAL": "only to explain a word of the sūtra / a hypothetical",
+  "UNRELATED": "passage about another sūtra or a stray reference",
+  "JNAPAKA": "the form of the sūtra text used as an indicator",
+  "NOT_SUBSTITUTE": "no अण् substitute for ऋ in this sūtra"
+ },
+ "conditions": [
+  {
+   "text": "C1 — An अण् that comes in place of ऋ (ऋ standing for ऋ/ॠ/ऌ) comes with र् (ल् for ऌ) after it, at the moment it is enjoined.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11051",
+     "quote": "उः स्थानेऽण् प्रसज्यमान एव रपरो वेदितव्यः।"
+    },
+    {
+     "file": "kaumudi",
+     "id": "11051",
+     "quote": "तत्स्थाने योऽण् स रपरः सन्नेव प्रवर्तते ।"
+    }
+   ]
+  },
+  {
+   "text": "C2 — The sthānin must be ऋ; elsewhere nothing is added. Kāśikā examples: कर्ता, हर्ता (guṇa), किरति, गिरति (7.1.100), द्वैमातुरः (4.1.115).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11051",
+     "quote": "उरिति किम्? खेयम्। गेयम्।"
+    },
+    {
+     "file": "kashika",
+     "id": "11051",
+     "quote": "कर्ता। हर्ता। किरति। गिरति। द्वैमातुरः। त्रैमातुरः।"
+    }
+   ]
+  },
+  {
+   "text": "C3 — अण् is the earlier अण् (अ इ उ), so a substitute like र् (yaṇ) or ऋ itself takes nothing.",
+   "quotes": [
+    {
+     "file": "balamanorama",
+     "id": "64003",
+     "quote": "वस्तुतस्तु 'उरण्रपरः' इत्यत्राऽजिति वक्तव्ये अण्ग्रहणसामर्थ्दाण्पूर्वेणैवेत्युक्तं भाष्ये ।"
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | operation | X",
+   "count": 58,
+   "verdict": "mixed",
+   "counts": {
+    "licensed": 27,
+    "not licensed": 30,
+    "unsure": 1
+   },
+   "how_checked": "All 58 read. For each, the sthānin the sūtra allows was checked: an इक्/अच् class or an ऋ-word → licensed (conditional credit is right). Where the sūtra names अ/इ/उ (or a closed list of words, none with ऋ in the affected vowel) or is a prohibition → not licensed.",
+   "licensed": [
+    "7.2.1",
+    "7.2.3",
+    "7.2.114",
+    "7.2.115",
+    "7.2.117",
+    "7.2.118",
+    "7.3.12",
+    "7.3.13",
+    "7.3.14",
+    "7.3.17",
+    "7.3.19",
+    "7.3.21",
+    "7.3.24",
+    "7.3.26",
+    "7.3.83",
+    "7.3.84",
+    "7.3.85",
+    "7.3.86",
+    "7.3.108",
+    "7.3.109",
+    "7.3.110",
+    "7.4.10",
+    "7.4.11",
+    "7.4.16",
+    "7.4.29",
+    "7.4.30",
+    "7.4.82"
+   ],
+   "not_licensed": [
+    {
+     "n": "6.4.146",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "STHANIN_NOT_R",
+     "why": "The sound replaced here cannot be ऋ/ऌ: ओः = उवर्ण. 1.1.51 only adds र्/ल् to an अण् that replaces ऋ/ऌ (Kāśikā: “उरिति किम्? खेयम्”).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "64146",
+       "quote": "उवर्णान्तस्य भस्य गुणो भवति तद्धिते परतः।"
+      },
+      {
+       "file": "kashika",
+       "id": "11051",
+       "quote": "उरिति किम्? खेयम्। गेयम्।"
+      }
+     ]
+    },
+    {
+     "n": "6.4.156",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "STHANIN_NOT_R",
+     "why": "The sound replaced here cannot be ऋ/ऌ: the पूर्व parts स्थूल, दूर, युव, ह्रस्व, क्षिप्र, क्षुद्र have ऊ, उ, अ, इ, उ. 1.1.51 only adds र्/ल् to an अण् that replaces ऋ/ऌ (Kāśikā: “उरिति किम्? खेयम्”).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "64156",
+       "quote": "स्थूल दूर युव ह्रस्व क्षिप्र क्षुद्र इत्येतेषां यणादिपरं लुप्यत इष्ठेमेयस्सु परतः, पूर्वस्य च गुणो भवति।"
+      },
+      {
+       "file": "kashika",
+       "id": "11051",
+       "quote": "उरिति किम्? खेयम्। गेयम्।"
+      }
+     ]
+    },
+    {
+     "n": "7.2.4",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "NISHEDHA",
+     "why": "A prohibition: no guṇa/vṛddhi is enjoined by this sūtra, so there is no अण् substitute to take र्/ल्.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72004",
+       "quote": "इडादौ सिचि हलन्तस्याङ्गस्य वृद्धिर्न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "7.2.5",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "NISHEDHA",
+     "why": "A prohibition: no guṇa/vṛddhi is enjoined by this sūtra, so there is no अण् substitute to take र्/ल्.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72005",
+       "quote": "हकारान्तानां मकारान्तानां यकारान्तानामङ्गानां क्षण श्वस जागृ णि श्वि इत्येतेषामेदितां च इडादौ सिचि परस्मैपदे परतो वृद्धिर्न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "7.2.6",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "NISHEDHA",
+     "why": "A prohibition: no guṇa/vṛddhi is enjoined by this sūtra, so there is no अण् substitute to take र्/ल्.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72006",
+       "quote": "ऊर्णोतेरिडादौ सिचि परस्मैपदपरे परतो विभाषा वृद्धिर्न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "7.2.7",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "NISHEDHA",
+     "why": "A prohibition: no guṇa/vṛddhi is enjoined by this sūtra, so there is no अण् substitute to take र्/ल्.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72007",
+       "quote": "हलादेरङ्गस्य लघोरकारस्येडादौ सिचि परस्मैपदपरे परतो विभाषा वृद्धिर्न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "7.2.116",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "STHANIN_NOT_R",
+     "why": "The sound replaced here cannot be ऋ/ऌ: अतः = अ only. 1.1.51 only adds र्/ल् to an अण् that replaces ऋ/ऌ (Kāśikā: “उरिति किम्? खेयम्”).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72116",
+       "quote": "अङ्गोपधाया अकारस्य स्थाने ञिति णिति च प्रत्यये वृद्धिर्भवति।"
+      },
+      {
+       "file": "kashika",
+       "id": "11051",
+       "quote": "उरिति किम्? खेयम्। गेयम्।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.1",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "STHANIN_NOT_R",
+     "why": "The sound replaced here cannot be ऋ/ऌ: the substitute is the named आ, and the five words have ए/इ/इ/ई/ए as first vowel. 1.1.51 only adds र्/ल् to an अण् that replaces ऋ/ऌ (Kāśikā: “उरिति किम्? खेयम्”).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73001",
+       "quote": "देविका शिंशपा दित्यवाट् दीर्घसत्र श्रेयस् इत्येतेषामङ्गानामचामादेरचः स्थाने वृद्धिप्रसङ्ग आकारो भवति ञिति णिति किति  तद्धिते परतः।"
+      },
+      {
+       "file": "kashika",
+       "id": "11051",
+       "quote": "उरिति किम्? खेयम्। गेयम्।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.11",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "STHANIN_NOT_R",
+     "why": "The sound replaced here cannot be ऋ/ऌ: the season words (वसन्त, ग्रीष्म, वर्षा, शरद्, हेमन्त, शिशिर) have no ऋ as first vowel. 1.1.51 only adds र्/ल् to an अण् that replaces ऋ/ऌ (Kāśikā: “उरिति किम्? खेयम्”).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73011",
+       "quote": "अवयववाचिन उत्तरस्य ऋतुवाचिन उत्तरपदस्याचामादेरचो वृद्धिर्भवति तद्धिते ञिति णिति किति च परतः।"
+      },
+      {
+       "file": "kashika",
+       "id": "11051",
+       "quote": "उरिति किम्? खेयम्। गेयम्।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.15",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "STHANIN_NOT_R",
+     "why": "The sound replaced here cannot be ऋ/ऌ: संवत्सर and the number words have no ऋ as first vowel. 1.1.51 only adds र्/ल् to an अण् that replaces ऋ/ऌ (Kāśikā: “उरिति किम्? खेयम्”).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73015",
+       "quote": "संख्याया उत्तरपदस्य संवत्सरशब्दस्य संख्यायाश्चाचामादेरचः स्थाने वृद्धिर्भवति तद्धिते ञिति णिति किति च परतः।"
+      },
+      {
+       "file": "kashika",
+       "id": "11051",
+       "quote": "उरिति किम्? खेयम्। गेयम्।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.16",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "STHANIN_NOT_R",
+     "why": "The sound replaced here cannot be ऋ/ऌ: only वर्ष (अ). 1.1.51 only adds र्/ल् to an अण् that replaces ऋ/ऌ (Kāśikā: “उरिति किम्? खेयम्”).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73016",
+       "quote": "संख्याया उत्तरस्य वर्षशब्दस्याचामादेरचो वृद्धिर्भवति तद्धिते ञिति णिति किति च परतः, स चेत् तद्धितो भविष्यत्यर्थे न भवति।"
+      },
+      {
+       "file": "kashika",
+       "id": "11051",
+       "quote": "उरिति किम्? खेयम्। गेयम्।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.18",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "STHANIN_NOT_R",
+     "why": "The sound replaced here cannot be ऋ/ऌ: the second member is पद (अ). 1.1.51 only adds र्/ल् to an अण् that replaces ऋ/ऌ (Kāśikā: “उरिति किम्? खेयम्”).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73018",
+       "quote": "ज इति जातार्थो निर्दिश्यते।"
+      },
+      {
+       "file": "kashika",
+       "id": "11051",
+       "quote": "उरिति किम्? खेयम्। गेयम्।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.22",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "NISHEDHA",
+     "why": "A prohibition: no guṇa/vṛddhi is enjoined by this sūtra, so there is no अण् substitute to take र्/ल्.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73022",
+       "quote": "इन्द्रशब्दस्य परस्य यदुक्तंतद् न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.27",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "STHANIN_NOT_R",
+     "why": "The sound replaced here cannot be ऋ/ऌ: अतः = the अ of the parimāṇa word (and अर्ध). 1.1.51 only adds र्/ल् to an अण् that replaces ऋ/ऌ (Kāśikā: “उरिति किम्? खेयम्”).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73027",
+       "quote": "अर्धात् परस्य परिमाणाकारस्य वृद्धिर्न भवति, पूर्वस्य तु वा भवति तद्धिते ञिति णिति किति च परतः।"
+      },
+      {
+       "file": "kashika",
+       "id": "11051",
+       "quote": "उरिति किम्? खेयम्। गेयम्।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.28",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "STHANIN_NOT_R",
+     "why": "The sound replaced here cannot be ऋ/ऌ: प्रवाहण: प्र and वाहण (अ, आ). 1.1.51 only adds र्/ल् to an अण् that replaces ऋ/ऌ (Kāśikā: “उरिति किम्? खेयम्”).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73028",
+       "quote": "प्रवाहणस्य ढे परत उत्तरपदस्याचामादेरचो वृद्धिर्भवति, पूर्वपदस्य वा भवति।"
+      },
+      {
+       "file": "kashika",
+       "id": "11051",
+       "quote": "उरिति किम्? खेयम्। गेयम्।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.29",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "STHANIN_NOT_R",
+     "why": "The sound replaced here cannot be ऋ/ऌ: the same प्रवाहण. 1.1.51 only adds र्/ल् to an अण् that replaces ऋ/ऌ (Kāśikā: “उरिति किम्? खेयम्”).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73029",
+       "quote": "ढक्प्रत्ययान्तस्य प्रवाहणशब्दस्य तद्धितेषु परत उत्तरपदस्याचामादेरचो वृद्धिर्भवति, पूर्वस्य तु वा।"
+      },
+      {
+       "file": "kashika",
+       "id": "11051",
+       "quote": "उरिति किम्? खेयम्। गेयम्।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.30",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "STHANIN_NOT_R",
+     "why": "The sound replaced here cannot be ऋ/ऌ: नञ् (अ) and शुचि, ईश्वर, क्षेत्रज्ञ, कुशल, निपुण (उ, ई, ए, उ, इ). 1.1.51 only adds र्/ल् to an अण् that replaces ऋ/ऌ (Kāśikā: “उरिति किम्? खेयम्”).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73030",
+       "quote": "नञ उत्तरेषां शुचि ईश्वर क्षेत्रज्ञ कुशल निपुण इत्येतेषामचामादेरचो वृद्धिर्भवति पूर्वपदस्य वा भवति तद्धिते ञिति णिति किति च परतः।"
+      },
+      {
+       "file": "kashika",
+       "id": "11051",
+       "quote": "उरिति किम्? खेयम्। गेयम्।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.31",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "STHANIN_NOT_R",
+     "why": "The sound replaced here cannot be ऋ/ऌ: यथातथ, यथापुर (अ). 1.1.51 only adds र्/ल् to an अण् that replaces ऋ/ऌ (Kāśikā: “उरिति किम्? खेयम्”).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73031",
+       "quote": "यथातथ यथापुर इत्येतयोर्नञ उत्तरयोः पर्यायेणाचामादेरचो वृद्धिर्भवति तद्धिते ञिति णिति किति च परतः।"
+      },
+      {
+       "file": "kashika",
+       "id": "11051",
+       "quote": "उरिति किम्? खेयम्। गेयम्।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.34",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "NISHEDHA",
+     "why": "A prohibition: no guṇa/vṛddhi is enjoined by this sūtra, so there is no अण् substitute to take र्/ल्.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73034",
+       "quote": "उदात्तोपदेशस्य मान्तस्याङ्गस्याचमिवर्जितस्य चिणि कृति च ञ्णिति यदुक्तंतद् न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.35",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "NISHEDHA",
+     "why": "A prohibition: no guṇa/vṛddhi is enjoined by this sūtra, so there is no अण् substitute to take र्/ल्.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73035",
+       "quote": "जनि वधि इत्येतयोश्चिणि कृति च ञ्णिति यदुक्तं तद् न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.82",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "STHANIN_NOT_R",
+     "why": "The sound replaced here cannot be ऋ/ऌ: the इक् of मिद् is इ. 1.1.51 only adds र्/ल् to an अण् that replaces ऋ/ऌ (Kāśikā: “उरिति किम्? खेयम्”).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73082",
+       "quote": "मिदेरङ्गस्येको गुणो भवति शिति प्रत्यये परतः।"
+      },
+      {
+       "file": "kashika",
+       "id": "11051",
+       "quote": "उरिति किम्? खेयम्। गेयम्।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.87",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "NISHEDHA",
+     "why": "A prohibition: no guṇa/vṛddhi is enjoined by this sūtra, so there is no अण् substitute to take र्/ल्.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73087",
+       "quote": "अभ्यस्तसंज्ञकस्याङ्गस्य लघूपधस्याजादौ पिति सार्वधातुके गुणो न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.88",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "NISHEDHA",
+     "why": "A prohibition: no guṇa/vṛddhi is enjoined by this sūtra, so there is no अण् substitute to take र्/ल्.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73088",
+       "quote": "भू सू इत्येतयोस्तिङि सार्वधातुके गुणो न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.89",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "STHANIN_NOT_R",
+     "why": "The sound replaced here cannot be ऋ/ऌ: उतः = उ. 1.1.51 only adds र्/ल् to an अण् that replaces ऋ/ऌ (Kāśikā: “उरिति किम्? खेयम्”).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73089",
+       "quote": "सार्वधातुके पितीति वर्तते।"
+      },
+      {
+       "file": "kashika",
+       "id": "11051",
+       "quote": "उरिति किम्? खेयम्। गेयम्।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.90",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "STHANIN_NOT_R",
+     "why": "The sound replaced here cannot be ऋ/ऌ: ऊर्णु (उ). 1.1.51 only adds र्/ल् to an अण् that replaces ऋ/ऌ (Kāśikā: “उरिति किम्? खेयम्”).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73090",
+       "quote": "ऊर्णोतेर्विभाषा वृद्धिर्भवति हलादौ पिति सार्वधातुके।"
+      },
+      {
+       "file": "kashika",
+       "id": "11051",
+       "quote": "उरिति किम्? खेयम्। गेयम्।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.91",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "STHANIN_NOT_R",
+     "why": "The sound replaced here cannot be ऋ/ऌ: ऊर्णु (उ). 1.1.51 only adds र्/ल् to an अण् that replaces ऋ/ऌ (Kāśikā: “उरिति किम्? खेयम्”).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73091",
+       "quote": "ऊर्णोतेर्धारतोरपृक्ते हलि पिति सार्वधातुके गुणो भवति।"
+      },
+      {
+       "file": "kashika",
+       "id": "11051",
+       "quote": "उरिति किम्? खेयम्। गेयम्।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.111",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "STHANIN_NOT_R",
+     "why": "The sound replaced here cannot be ऋ/ऌ: घि = इ/उ-ending. 1.1.51 only adds र्/ल् to an अण् that replaces ऋ/ऌ (Kāśikā: “उरिति किम्? खेयम्”).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73111",
+       "quote": "घ्यन्तस्याङ्गस्य ङिति प्रत्यये परतो गुणो भवति।"
+      },
+      {
+       "file": "kashika",
+       "id": "11051",
+       "quote": "उरिति किम्? खेयम्। गेयम्।"
+      }
+     ]
+    },
+    {
+     "n": "7.4.21",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "STHANIN_NOT_R",
+     "why": "The sound replaced here cannot be ऋ/ऌ: शीङ् (ई). 1.1.51 only adds र्/ल् to an अण् that replaces ऋ/ऌ (Kāśikā: “उरिति किम्? खेयम्”).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "74021",
+       "quote": "शीङः अङ्गस्य सार्वधातुके परतः गुणो भवति।"
+      },
+      {
+       "file": "kashika",
+       "id": "11051",
+       "quote": "उरिति किम्? खेयम्। गेयम्।"
+      }
+     ]
+    },
+    {
+     "n": "7.4.57",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "STHANIN_NOT_R",
+     "why": "The sound replaced here cannot be ऋ/ऌ: मुच् (उ). 1.1.51 only adds र्/ल् to an अण् that replaces ऋ/ऌ (Kāśikā: “उरिति किम्? खेयम्”).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "74057",
+       "quote": "मुचोऽकर्मकस्य गुणो वा भवति सनि सकारादौ परतः।"
+      },
+      {
+       "file": "kashika",
+       "id": "11051",
+       "quote": "उरिति किम्? खेयम्। गेयम्।"
+      }
+     ]
+    },
+    {
+     "n": "7.4.75",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "should_be": "none",
+     "reason": "STHANIN_NOT_R",
+     "why": "The sound replaced here cannot be ऋ/ऌ: निज्, विज्, विष् — the abhyāsa has इ. 1.1.51 only adds र्/ल् to an अण् that replaces ऋ/ऌ (Kāśikā: “उरिति किम्? खेयम्”).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "74075",
+       "quote": "निजादीनां त्रयाणां अभ्यासस्य गुणो भवति श्लौ सति।"
+      },
+      {
+       "file": "kashika",
+       "id": "11051",
+       "quote": "उरिति किम्? खेयम्। गेयम्।"
+      }
+     ]
+    }
+   ],
+   "unsure": [
+    {
+     "n": "7.3.20",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "why": "Closed gaṇa (अनुशतिकादि); I did not check every member for an ऋ in the affected vowel.",
+     "quotes": []
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G2",
+   "group": "named by a commentator | ādeśa | X",
+   "count": 7,
+   "verdict": "mixed",
+   "counts": {
+    "licensed": 1,
+    "not licensed": 6,
+    "unsure": 0
+   },
+   "how_checked": "Every member read with its sūtra, generated vṛtti and Kāśikā; commentator passages read in context.",
+   "licensed": [
+    "6.4.126"
+   ],
+   "not_licensed": [
+    {
+     "n": "6.3.25",
+     "word": "named by पदमञ्जरी",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "PM: the न् of आनङ् is there precisely so that no रपरत्व arises; the substitute is not a bare अण्.",
+     "quotes": [
+      {
+       "file": "padamanjari",
+       "id": "63025",
+       "quote": "असति नकारे उः स्थानेऽणेव शिष्यते इति उरण् रपरः इति रपरत्वं स्यात्, तस्मिश्च न्यमणेव शिष्यते, किं तर्हि थाण् चान्यच्चेति, नास्ति रपरत्वप्रसङ्गः"
+      }
+     ]
+    },
+    {
+     "n": "7.2.100",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "MISNUMBERED_REF",
+     "why": "The Nyāsa's “[[1.1.51]]” here is अलोऽन्त्यस्य (1.1.52) — the Nyāsa numbers one higher. And the substitute र् is not an अण्. The Nyāsa argues by 1.1.52 that the ऋ is final anyway — no credit needed for reading the sūtra.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "72100",
+       "quote": "तौ च ऋकारान्तावेवेत्यलोऽन्त्यपरिभाषया  [[1.1.51]]  ऋत एव भविष्यति।"
+      }
+     ]
+    },
+    {
+     "n": "7.2.108",
+     "word": "named by न्यासः",
+     "should_be": "1.1.52",
+     "reason": "MISNUMBERED_REF",
+     "why": "The Nyāsa's “[[1.1.51]]” here is अलोऽन्त्यस्य (1.1.52) — the Nyāsa numbers one higher. The Nyāsa applies 1.1.52 (the म् replaces the final म् of इदम्).",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "72108",
+       "quote": "अलोऽन्त्यपरिभाषया  [[1.1.51]]  मकारस्यैवानेन मकारेण भवितव्यम्, न च मकरसय मकारादेशे कृते विशेषोऽस्ति, तत्किमर्थं मकारस्य मकारः इत्युच्यते?  - इत्येतच्चोद्यं निराकर्तुमाह - `मकारस्य` इत्यादि।"
+      }
+     ]
+    },
+    {
+     "n": "7.4.7",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "NOT_SUBSTITUTE",
+     "why": "The substitute here is ऋ (not an अण्); the Nyāsa names उरण्रपरः only for the rules 7.4.7 overrides (इर्/अर्/आर्).",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "74007",
+       "quote": "`उपघायाश्च`  [[7.1.101]]  इतीकारः, `पुगन्तलघूपघस्य`  [[7.3.86]]  इति गुणोऽकारः, `मृजेर्बृद्धिः`  [[7.2.114]]  इत्याकारः - इत्येते च ऋकारस्य स्थाने `उरण्रपरः`  [[1.1.50]]  इति रपरा भवन्तो यताक्रममिररारो भवन्ति, तेषामपवादः।"
+      }
+     ]
+    },
+    {
+     "n": "8.2.80",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "MISNUMBERED_REF",
+     "why": "The Nyāsa's “[[1.1.51]]” here is अलोऽन्त्यस्य (1.1.52) — the Nyāsa numbers one higher. A hypothetical (“if दात् were not said…”); not needed to read the sūtra.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82080",
+       "quote": "अत्र यदि दादिति नोच्येत तदा <<आङि चापः>> [[7.3.105]] , `ओसि च`  [[7.3.104]]  इति ङित्येत्वे कृते तस्य चायादेशेऽलोन्त्यपरिभाषया  [[1.1.51]]  यकारस्यैवोत्वं स्यात्।"
+      }
+     ]
+    },
+    {
+     "n": "8.3.23",
+     "word": "named by न्यासः",
+     "should_be": "1.1.52",
+     "reason": "MISNUMBERED_REF",
+     "why": "The Nyāsa's “[[1.1.51]]” here is अलोऽन्त्यस्य (1.1.52) — the Nyāsa numbers one higher. The Nyāsa applies 1.1.52 (anusvāra on the म् of a म्-final pada).",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "83023",
+       "quote": "पदस्येति स्थानषष्ठी, तच्च पदं मकारेण विशेष्यते, विशेषणेन त तदन्तविधिर्भवतीति मकारान्तपदस्यानुस्वारो विधीयमानोऽलोऽत्यपरिभाषया  [[1.1.51]]  मकारस्यैव विज्ञायते, इत्याह -`मकारान्तस्य पदस्य`[`मकारस्य पदान्तस्य` -काशिका, पदमञ्जरी च] पदस्य` इति॥"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "licensed_with_caveat": [
+    {
+     "n": "6.4.126",
+     "note": "PM uses 1.1.51 to explain which अ counts as “guṇa-produced” (the अ of अर् from ऋ). Needed for the word “गुणशब्देनाभिनिर्वृत्त”.",
+     "quotes": [
+      {
+       "file": "padamanjari",
+       "id": "64126",
+       "quote": "उरण् रपरः इत्यत्र सिद्धं तु प्रसङ्गे रपरत्वात् इति वचनाद्गुणो भवन्नेव रेफशिरस्कोऽभिनिर्वर्तते, एवमभिनिर्वृतस्यार्शब्दस्यावयवोऽकारः"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G3",
+   "group": "named by a commentator | operation | X",
+   "count": 5,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 5,
+    "unsure": 0
+   },
+   "how_checked": "Every member read with its sūtra, generated vṛtti and Kāśikā; commentator passages read in context.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "6.1.37",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "MISNUMBERED_REF",
+     "why": "The Nyāsa's “[[1.1.51]]” here is अलोऽन्त्यस्य (1.1.52) — the Nyāsa numbers one higher. And the Nyāsa says that paribhāṣā cannot apply here at all.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "61037",
+       "quote": "ननु चालोऽन्त्यपरिभाषया  [[1.1.51]]  अन्त्यस्यैव भविष्यति, नानन्त्यस्य? नैतदस्ति; न ह्रनया परिभाषया शक्यमिहोपस्थातुम्।"
+      }
+     ]
+    },
+    {
+     "n": "6.4.3",
+     "word": "named by बालमनोरमा",
+     "should_be": "none",
+     "reason": "UNRELATED",
+     "why": "The BM/TB lines are about other words in the declension section printed under this id (गम्ऌ: guṇa “लपर”; कॄ → कीर् by 7.1.100). 6.4.3 lengthens a vowel before नाम्; ॠ is not an अण्.",
+     "quotes": [
+      {
+       "file": "balamanorama",
+       "id": "64003",
+       "quote": "'उरण्रपरः' इत्यत्र रप्रत्याहारग्रहणादिति भावः ।"
+      },
+      {
+       "file": "tattvabodhini",
+       "id": "64003",
+       "quote": "ऋत इद्धातोः॑इतीत्वेउरण्रपरः॑इति रपरत्वम् ।"
+      }
+     ]
+    },
+    {
+     "n": "8.2.23",
+     "word": "named by न्यासः",
+     "should_be": "1.1.52",
+     "reason": "MISNUMBERED_REF",
+     "why": "The Nyāsa's “[[1.1.51]]” here is अलोऽन्त्यस्य (1.1.52) — the Nyāsa numbers one higher. 1.1.52 makes the lopa fall on the last sound.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82023",
+       "quote": "हल्ङ्यादिलोपे कृतेऽलोऽन्त्यस्य लोपः  [[1.1.51]] , <<अत्वसन्तस्य चाधातोः>> [[6.4.14]]  इति दीर्घः।"
+      }
+     ]
+    },
+    {
+     "n": "8.2.24",
+     "word": "named by काशिका",
+     "should_be": "none",
+     "reason": "DERIVATION_ONLY",
+     "why": "Kāśikā uses 1.1.51 only in deriving its example मातुः/पितुः (6.1.111 + rapara), to show where the र् before स् comes from. Not needed to read 8.2.24 (fits ↪).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "82024",
+       "quote": "मातुः, पितुरिति <<ऋत उत्>>[[६.१.१११]] इत्युत्वे कृते रपरत्वे [[१.१.५१]] च सति रात् सस्येति सलोपः।"
+      }
+     ]
+    },
+    {
+     "n": "8.2.82",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "MISNUMBERED_REF",
+     "why": "The Nyāsa's “[[1.1.51]]” here is अलोऽन्त्यस्य (1.1.52) — the Nyāsa numbers one higher. A hypothetical about why टि is said.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82082",
+       "quote": "विनापि तेनाचा वाक्ये विशेषिते तस्याजन्तस्य प्लुतो भवन्नलोऽन्त्यपरिभाषया  [[1.1.51]] ऽन्त्यस्याचः सिध्यति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G4",
+   "group": "named by a commentator | vidhi | X (English)",
+   "count": 4,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 4,
+    "unsure": 0
+   },
+   "how_checked": "Every member read with its sūtra, generated vṛtti and Kāśikā; commentator passages read in context.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "3.1.135",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "DERIVATION_ONLY",
+     "why": "Vasu derives the example किर from कॄ (7.1.100 + 1.1.51); the sūtra already names किर.",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "31135",
+       "quote": "= किर् + अ [[1.1.51]]"
+      }
+     ]
+    },
+    {
+     "n": "3.2.104",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "DERIVATION_ONLY",
+     "why": "Vasu's derivation of जीर्ण; 3.2.104 only adds अतृन्.",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "32104",
+       "quote": "जृ + क्त = जिर् + त [[7.1.100]] and [[1.1.51]]"
+      }
+     ]
+    },
+    {
+     "n": "3.3.94",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "DERIVATION_ONLY",
+     "why": "Vasu's derivation of कीर्णि under a vārttika; 3.3.94 adds क्तिन्.",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "33094",
+       "quote": "= किर् + ति [[1.1.51]]"
+      }
+     ]
+    },
+    {
+     "n": "4.4.24",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "UNRELATED",
+     "why": "Stray “[[1.1.51]]” after लवणा यवगूः in Vasu; 4.4.24 is a luk rule.",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "44024",
+       "quote": "लवणा यवगूः [[1.1.51]]"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G5",
+   "group": "named by a commentator | vidhi | X",
+   "count": 3,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 3,
+    "unsure": 0
+   },
+   "how_checked": "Every member read with its sūtra, generated vṛtti and Kāśikā; commentator passages read in context.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "3.1.80",
+     "word": "named by न्यासः",
+     "should_be": "1.1.52",
+     "reason": "MISNUMBERED_REF",
+     "why": "The Nyāsa's “[[1.1.51]]” here is अलोऽन्त्यस्य (1.1.52) — the Nyāsa numbers one higher. The अ substitute (अन्तादेश) replaces the last sound — 1.1.52.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "31080",
+       "quote": "अलोऽन्त्यस्य  [[1.1.51]]  परिभाषया"
+      }
+     ]
+    },
+    {
+     "n": "4.1.73",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "MISNUMBERED_REF",
+     "why": "The Nyāsa's “[[1.1.51]]” here is अलोऽन्त्यस्य (1.1.52) — the Nyāsa numbers one higher. About the gaṇasūtra vṛddhi of नृ (नारी), not reading 4.1.73.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "41073",
+       "quote": "वृद्धिश्च तयोर्भवति, सा च नृशब्दस्यालोऽन्त्यपरिभाषया  [[1.1.51]]  ऋकारस्यस्थाने भवति"
+      }
+     ]
+    },
+    {
+     "n": "5.4.1",
+     "word": "named by न्यासः",
+     "should_be": "1.1.52",
+     "reason": "MISNUMBERED_REF",
+     "why": "The Nyāsa's “[[1.1.51]]” here is अलोऽन्त्यस्य (1.1.52) — the Nyāsa numbers one higher. The vṛtti's “अन्तस्य लोपः” is 1.1.52.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "54001",
+       "quote": "अलोऽन्त्यपरिभाषया  [[1.1.51]]"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G6",
+   "group": "named by a commentator | ādeśa | X (English)",
+   "count": 3,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 3,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "Every member read with its sūtra, generated vṛtti and Kāśikā; commentator passages read in context.",
+   "licensed": [
+    "7.1.100",
+    "7.4.55",
+    "7.4.66"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "licensed_with_caveat": [
+    {
+     "n": "7.1.100",
+     "note": "Strong: इ for ॠ comes as इर् (Kāśikā on 1.1.51: किरति, गिरति).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "11051",
+       "quote": "किरति। गिरति। द्वैमातुरः।"
+      }
+     ]
+    },
+    {
+     "n": "7.4.55",
+     "note": "ई for the vowel of ऋध् comes as ईर् (ईर्त्सति).",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "74055",
+       "quote": "ऋध्-ईर्त्सति [[1.1.51]]"
+      }
+     ]
+    },
+    {
+     "n": "7.4.66",
+     "note": "अ for the ऋ of the abhyāsa comes as अर्.",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "74066",
+       "quote": "अर् -- उरण् रपरः [[1.1.51]] is substituted for the ऋ or ॠ of the reduplicate."
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G7",
+   "group": "named by a commentator | saṃjñā | X",
+   "count": 2,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 2,
+    "unsure": 0
+   },
+   "how_checked": "Every member read with its sūtra, generated vṛtti and Kāśikā; commentator passages read in context.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "1.1.9",
+     "word": "named by महाभाष्यम्",
+     "should_be": "none",
+     "reason": "COUNTERFACTUAL",
+     "why": "The Bhāṣya discusses a consequence of ऋ/ऌ being savarṇa (would ऌ also get रपर?). Not needed to read the saṃjñā 1.1.9.",
+     "quotes": [
+      {
+       "file": "bhashya",
+       "id": "11009",
+       "quote": "उरण् रपरः ऌकारस्यापि रपरत्वं प्राप्नोति ।"
+      }
+     ]
+    },
+    {
+     "n": "1.4.110",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "JNAPAKA",
+     "why": "The Nyāsa uses the wording of the sūtra text “उरण् रपरः” (र् not made visarga) as a jñāpaka for 1.4.110; 1.1.51 is not applied.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "14110",
+       "quote": "तदनुपस्थाने च परेण रेफेण रेफान्तस्य रथ इत्येतस्य पदस्य पूर्वो यो रेफस्तस्य व्यवहितस्यापि विसर्जनीयः स्यात्, नैष दोषः; ज्ञापकान्न भविष्यति, यदयं <<उरण् रपरः>> [[1.1.51]]  इति व्यवहितस्य रेफस्य विसर्जनीयमकृत्वा निर्देशं करोति, तज्ज्ञापयति- व्यवहितस्य रेफस्य विसर्जनीयो न भवतीति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G8",
+   "group": "named by a commentator | atideśa | X",
+   "count": 2,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 2,
+    "unsure": 0
+   },
+   "how_checked": "Every member read with its sūtra, generated vṛtti and Kāśikā; commentator passages read in context.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "1.2.16",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "MISNUMBERED_REF",
+     "why": "The Nyāsa's “(1.1.51)” here is स्थानेऽन्तरतमः (1.1.50), and the remark is about a long vowel, not रपर. 1.2.16 is a kidvat atideśa.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "12016",
+       "quote": "स्थानेऽन्तरतमपरिभाषया( 1.1.51) दीर्घस्यैव स्थाने दीर्घ एव विधीयते।"
+      }
+     ]
+    },
+    {
+     "n": "7.1.95",
+     "word": "named by पदमञ्जरी",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "PM: in the “āhatya” view the atideśa of 7.1.95 does NOT bring in रपरत्व (it is not taught by the word तृच्). Not needed to read 7.1.95.",
+     "quotes": [
+      {
+       "file": "padamanjari",
+       "id": "71095",
+       "quote": "तत्राहत्येति पक्षे अप्तृन्तृच् इति दीर्घत्वमेकमतिदिष्ट्ंअ स्यादनङ्गुणरपरत्वान्यनतिदिष्टानि - अनङ् ऋदुशनस्पुरुदं सोऽनेहसां च, ऋतो ङिसर्वनामस्थानयोः, उरण् रपरः इति, नह्यएतानि तृच्संशब्दनेन विधीयन्ते ।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G9",
+   "group": "named by a commentator | ekādeśa | X",
+   "count": 2,
+   "verdict": "mixed",
+   "counts": {
+    "licensed": 1,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read with its sūtra, generated vṛtti and Kāśikā; commentator passages read in context.",
+   "licensed": [
+    "6.1.111"
+   ],
+   "not_licensed": [
+    {
+     "n": "6.1.105",
+     "word": "named by तत्त्वबोधिनी",
+     "should_be": "none",
+     "reason": "COUNTERFACTUAL",
+     "why": "A prohibition; TB lists forms that would fail under a rejected view (उपार्छति etc.).",
+     "quotes": [
+      {
+       "file": "tattvabodhini",
+       "id": "61105",
+       "quote": "किंचउपार्छती॑त्यादौउरण्रपरः,॑नैषादकर्षुकः॑ इत्यादौइसुसु॑गिति ठस्य कादेशः,अमीषा॑मित्यादौ इणः परस्य सस्य च षत्वं न सिध्यतीति दिक् ।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "licensed_with_caveat": [
+    {
+     "n": "6.1.111",
+     "note": "Strong: the Kāśikā on 6.1.111 itself applies रपरत्व to the उ (मातुः).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61111",
+       "quote": "द्वयोः षष्ठीनिर्दिष्टयोः स्थाने यः स लभतेऽन्यतरव्यपदेशमिति <<उरण् रपरः>> [[१.१.५१]] इति रपरत्वमत्र कृत्वा <<रात् सस्य>> [[८.२.२४]] इति सलोपः कर्तव्यः॥"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G10",
+   "group": "named by a commentator | operation | X (English)",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read with its sūtra, generated vṛtti and Kāśikā; commentator passages read in context.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "6.1.68",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "DERIVATION_ONLY",
+     "why": "Vasu's derivation of अबिभः; 6.1.68 is a lopa rule.",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "61068",
+       "quote": "= अ + भर् + भृ + त् [[7.4.66]] and [[1.1.51]]"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G11",
+   "group": "named by a commentator | ekādeśa | X (English)",
+   "count": 1,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 1,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "Every member read with its sūtra, generated vṛtti and Kāśikā; commentator passages read in context.",
+   "licensed": [
+    "6.1.87"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "licensed_with_caveat": [
+    {
+     "n": "6.1.87",
+     "note": "Licensed: अ+ऋ → अर् (SK on 1.1.51: कृष्णर्द्धिः, the guṇa ekādeśa of 6.1.87).",
+     "quotes": [
+      {
+       "file": "kaumudi",
+       "id": "11051",
+       "quote": "तत्रान्तरतम्यात् कृष्णर्द्धिरित्यत्राऽर् ।"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G12",
+   "group": "named by a commentator | āgama | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read with its sūtra, generated vṛtti and Kāśikā; commentator passages read in context.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "7.1.59",
+     "word": "named by तत्त्वबोधिनी",
+     "should_be": "none",
+     "reason": "UNRELATED",
+     "why": "TB's “उरण् रपरः” is in an uṇādi passage (कुरु from कृ) printed under this id; 7.1.59 adds the augment नुम्.",
+     "quotes": [
+      {
+       "file": "tattvabodhini",
+       "id": "71059",
+       "quote": "डुकृञ् करणे,गृ शब्दे, आभ्यां कुः स्यादुकारोऽन्तादेशश्च ।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G13",
+   "group": "named by a commentator | āgama | X (English)",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read with its sūtra, generated vṛtti and Kāśikā; commentator passages read in context.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "7.2.10",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "UNRELATED",
+     "why": "Stray numbers in Vasu's root list; 7.2.10 prohibits इट्.",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "72010",
+       "quote": "भृञ्ज् 'to fry' [[1.1.1]] भ्रष्टा or भर्ष्टा"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G14",
+   "group": "named by a commentator | svara | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read with its sūtra, generated vṛtti and Kāśikā; commentator passages read in context.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "8.2.89",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "MISNUMBERED_REF",
+     "why": "The Nyāsa's “[[1.1.51]]” here is अलोऽन्त्यस्य (1.1.52) — the Nyāsa numbers one higher. A hypothetical about why टि is said.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82089",
+       "quote": "असत्यत्र टिग्रहणे व्यञ्जनान्तेष्वलोऽन्त्यपरिभाषयाऽ [[1.1.51]] न्त्यस्यैव स्यात्।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G15",
+   "group": "named by a commentator | ṣatva | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read with its sūtra, generated vṛtti and Kāśikā; commentator passages read in context.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "8.3.56",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "MISNUMBERED_REF",
+     "why": "The Nyāsa's “[[1.1.51]]” here is अलोऽन्त्यस्य (1.1.52) — the Nyāsa numbers one higher. About why ṣatva is said for स् (not the final ड्).",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "83056",
+       "quote": "एवं मन्यते -अलोऽन्त्यपरिभाषया  [[1.1.51]]  अन्तस्य तावङ्डकारेण भवितव्यम्, अन्तस्य भवन्नान्तरतम्याडुकारः स्यात्, एतच्चायुक्तम्; डकारस्य डकारविधाने प्रयोजनाभावात्।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  }
+ ],
+ "missed": [
+  {
+   "n": "4.1.115",
+   "pid": "1.1.51",
+   "why": "मातुरुत्… — उ for the ऋ of मातृ → मातुर्: the Kāśikā's own example द्वैमातुरः.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11051",
+     "quote": "द्वैमातुरः। त्रैमातुरः। उरिति किम्? खेयम्।"
+    }
+   ]
+  },
+  {
+   "n": "7.1.101",
+   "pid": "1.1.51",
+   "why": "उपधायाश्च — इ for upadhā ॠ comes as इर् (कीर्तयति); the Nyāsa lists it among the rules where रपर applies.",
+   "quotes": [
+    {
+     "file": "nyaas",
+     "id": "74007",
+     "quote": "`उपघायाश्च`  [[7.1.101]]  इतीकारः, `पुगन्तलघूपघस्य`  [[7.3.86]]  इति गुणोऽकारः, `मृजेर्बृद्धिः`  [[7.2.114]]  इत्याकारः - इत्येते च ऋकारस्य स्थाने `उरण्रपरः`  [[1.1.50]]  इति रपरा भवन्तो यताक्रममिररारो भवन्ति, तेषामपवादः।"
+    }
+   ]
+  },
+  {
+   "n": "7.1.102",
+   "pid": "1.1.51",
+   "why": "उदोष्ठ्यपूर्वस्य — उ for ॠ → उर् (पूर्ति, पुपूर्षति).",
+   "quotes": []
+  }
+ ],
+ "missed_note": "Clear misses (substitute अ/इ/उ for ऋ, no 1.1.51 credit):"
+}

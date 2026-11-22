@@ -1,0 +1,507 @@
+{
+ "pid": "1.1.54",
+ "howGrouped": "case of the triggering word (own sūtra words only) | rule kind | start of the engine trigger text; member = \"<sūtra> <word>  ⟨engine effect⟩\"",
+ "applies": 55,
+ "consideredNotApplicable": 6,
+ "groups": [
+  {
+   "id": "G1",
+   "group": "named by a commentator | ādeśa | X",
+   "count": 19,
+   "sutras": [
+    "3.4.82 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "5.4.135 named by बालमनोरमा  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "6.3.97 named by बालमनोरमा  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "6.4.103 named by तत्त्वबोधिनी  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "6.4.159 named by बालमनोरमा  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "6.4.160 named by सिद्धान्तकौमुदी  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "7.1.12 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "7.1.21 named by बालमनोरमा  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "7.1.24 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "7.1.25 named by पदमञ्जरी  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "7.1.27 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "7.1.29 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "7.1.40 named by पदमञ्जरी  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "7.2.83 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "7.3.57 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "7.4.47 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "8.2.3 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "8.2.42 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "8.4.61 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.4.82",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "after a 5th-case condition the replacement replaces the FIRST sound",
+     "sutra": "परस्मैपदानां णलतुसुस्थलथुसणल्वमाः",
+     "ourVrtti": "लिटः आदेशानाम् परस्मैपदसंज्ञकानाम् तिबादीनाम् स्थाने णल् अतुस् उस् थल् अथुस् अ णल् व म इत्येते नव आदेशाः यथासङ्ख्यम् भवति",
+     "kashika": "लिडादेशानां परस्मैपदसंज्ञकानां यथासंख्यं तिबादीनां णलादयो नवादेशा भवन्ति।",
+     "prathamavrtti": "लिडादेशानां परस्मैपदसंज्ञकानां तिबादीनां स्थाने यथासंख्यं णल्, अतुस्, उस्, थल्, अथुस्, अ, णल्, व, म इत्येते नव आदेशा भवन्ति ॥"
+    },
+    {
+     "n": "7.1.12",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "after a 5th-case condition the replacement replaces the FIRST sound",
+     "sutra": "टाङसिङसामिनात्स्याः",
+     "ourVrtti": "अङ्गात् परस्य अदन्तात् टा ङसि ङस् इत्येतेषां स्थाने इन्-आत्-स्य आदेशाः यथासङ्ख्यम् भवति",
+     "kashika": "अकारान्तादङ्गादुत्तरेषां टाङसिङसाम् इन आत् स्य इत्येत आदेशा भवन्ति यथासंख्यम्।",
+     "prathamavrtti": "अदन्तादङ्गादुत्तरेषां टा, ङसि, ङस् इत्येतेषां स्थाने यथासङ्ख्यं इन्, आत्, स्य इत्येते आदेशा भवन्ति॥"
+    },
+    {
+     "n": "7.1.40",
+     "word": "named by पदमञ्जरी",
+     "trigger": "named by पदमञ्जरी",
+     "effect": "after a 5th-case condition the replacement replaces the FIRST sound",
+     "sutra": "अमो मश्",
+     "ourVrtti": "छन्दसि विषये अमः स्थाने अङ्गस्य स्थाने मश् आदेशः भवति",
+     "kashika": "तस्य छन्दसि विषये मशादेशो भवति।",
+     "prathamavrtti": "अमः स्थाने मश् आदेशो भवति छन्दसि विषये । 'अम्' इति मिबादेशो गृह्यते ॥"
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "group": "named by a commentator | operation | X",
+   "count": 10,
+   "sutras": [
+    "5.4.138 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "5.4.148 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "6.1.2 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "6.1.69 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "6.4.49 named by काशिका  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "6.4.50 named by सिद्धान्तकौमुदी  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "6.4.153 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "6.4.156 named by तत्त्वबोधिनी  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "6.4.158 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "7.1.23 named by बालमनोरमा  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩"
+   ],
+   "samples": [
+    {
+     "n": "5.4.138",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "after a 5th-case condition the replacement replaces the FIRST sound",
+     "sutra": "पादस्य लोपोऽहस्त्यादिभ्यः",
+     "ourVrtti": "बहुव्रीहौ समासे उपमानात् परस्य हस्त्यादिवर्जितात् पादशब्दस्य स्थाने लोपः भवति",
+     "kashika": "उपमानाद् हस्त्यादिवर्जितात् परस्य पादशब्दस्य लोपो भवति समासान्तो बहुव्रीहौ समासे।",
+     "prathamavrtti": "उपमानवाचकात् हस्त्या-दिवर्जितात् परस्य पादशब्दस्य लोपो भवति समासान्तो बहुव्रीहौ समासे ॥"
+    },
+    {
+     "n": "6.1.69",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "after a 5th-case condition the replacement replaces the FIRST sound",
+     "sutra": "एङ्ह्रस्वात् सम्बुद्धेः",
+     "ourVrtti": "एङन्तात् ह्रस्वान्तात् च सम्बुद्धेः हल् स्थाने लोपः भवति",
+     "kashika": "एङन्तात् प्रातिपदिकाद् ह्रस्वान्तात् च परो हल् लुप्यते स चेत् संबुद्धेर्भवति।",
+     "prathamavrtti": "एङन्तात् ह्रस्वन्ताच्च प्रातिपदिकादुत्तरस्य हल् लुप्यते स चेत् सम्बुद्धेर्भवति ॥"
+    },
+    {
+     "n": "6.4.153",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "after a 5th-case condition the replacement replaces the FIRST sound",
+     "sutra": "बिल्वकादिभ्यश्छस्य लुक्",
+     "ourVrtti": "तद्धिते परे बिल्वकादिभ्यः परस्य भसंज्ञकस्य छस्य अङ्गस्य स्थाने लुक् भवति",
+     "kashika": "<<नडादीनां कुक् च>> [[४.२.९१]] इति कृतकुगागमा बिल्वकादयो भवन्ति।",
+     "prathamavrtti": "बिल्वकादिभ्य उत्तरस्य भसंज्ञकस्य छस्य तद्धिते परतो लुक् भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G3",
+   "group": "carried / not a sūtra word | ādeśa | X",
+   "count": 5,
+   "sutras": [
+    "6.3.97 after a 5th-case word  ⟨the ई replaces the first sound of अप् after द्वि/अन्तर्/an upasarga (B⟩",
+    "6.4.159 after a 5th-case word  ⟨the elision takes the first sound of इष्ठ after बहु (BM)⟩",
+    "6.4.160 after a 5th-case word  ⟨आ replaces the first sound of ईयस् after ज्य (SK)⟩",
+    "7.1.29 after a 5th-case word  ⟨न् replaces the first sound of शस् after युष्मद्/अस्मद् (SK)⟩",
+    "7.2.83 after a 5th-case word  ⟨ई replaces the first sound of आन after आस् (SK: “आसः परस्यानस्य ईत्स्य⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.3.97",
+     "word": "after a 5th-case word",
+     "trigger": "after a 5th-case word",
+     "effect": "the ई replaces the first sound of अप् after द्वि/अन्तर्/an upasarga (BM)",
+     "sutra": "द्व्यन्तरुपसर्गेभ्योऽप ईत्",
+     "ourVrtti": "द्वि अन्तर इत्येताभ्याम् उपसर्गेभ्यश्च परस्य अप् इत्येतस्य स्थाने ईकारादेशः भवति",
+     "kashika": "द्वि अन्तरित्येताभ्यामुपसर्गात् चोत्तरस्याबित्येतस्य ईकारादेशो भवति।",
+     "prathamavrtti": "द्वि अन्तर इत्येताभ्यामुपसर्गाच्चोत्तरस्य ‘अप्’ इत्येतस्य ईकारादेशो भवति ॥"
+    },
+    {
+     "n": "6.4.159",
+     "word": "after a 5th-case word",
+     "trigger": "after a 5th-case word",
+     "effect": "the elision takes the first sound of इष्ठ after बहु (BM)",
+     "sutra": "इष्ठस्य यिट् च",
+     "ourVrtti": "बहोः उत्तरस्य इष्ठस्य यिट् आगमः भवति, बहोः च भूः आदेशः भवति",
+     "kashika": "बहोरुत्तरस्येष्ठस्य यिडागमो भवति, बहोश्च भूरादेशो भवति।",
+     "prathamavrtti": "बहोः परस्य इष्ठन् इत्येतस्य यिट् आगमो भवति, बहोश्च भूरादेशो भवति॥"
+    },
+    {
+     "n": "6.4.160",
+     "word": "after a 5th-case word",
+     "trigger": "after a 5th-case word",
+     "effect": "आ replaces the first sound of ईयस् after ज्य (SK)",
+     "sutra": "ज्यादादीयसः",
+     "ourVrtti": "ज्यात् परस्य ईयसः अङ्गस्य स्थाने आकारः आदेशः भवति",
+     "kashika": "ज्यादुत्तरस्येयस आकार आदेशो भवति।",
+     "prathamavrtti": "ज्यात् उत्तरस्य ईयस आकार आदेशो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G4",
+   "group": "named by a commentator | āgama | X",
+   "count": 3,
+   "sutras": [
+    "4.2.91 named by तत्त्वबोधिनी  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "5.2.58 named by बालमनोरमा  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "7.1.6 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩"
+   ],
+   "samples": [
+    {
+     "n": "4.2.91",
+     "word": "named by तत्त्वबोधिनी",
+     "trigger": "named by तत्त्वबोधिनी",
+     "effect": "after a 5th-case condition the replacement replaces the FIRST sound",
+     "sutra": "नडादीनां कुक् च",
+     "ourVrtti": "नडादीनां शब्दानाम् चातुरर्थिकेषु अर्थेषु कुक् आगमः छः प्रत्ययः भवति",
+     "kashika": "नड इत्येवमादीनां कुगागमो भवति, छश्च प्रत्ययश्चातुरर्थिकः।",
+     "prathamavrtti": "नडादीनां शब्दानां कुक् आगमो भवति छश्च प्रत्ययश्चातुरर्थिकः॥"
+    },
+    {
+     "n": "5.2.58",
+     "word": "named by बालमनोरमा",
+     "trigger": "named by बालमनोरमा",
+     "effect": "after a 5th-case condition the replacement replaces the FIRST sound",
+     "sutra": "षष्ट्यादेश्चासंख्यादेः",
+     "ourVrtti": "षष्ट्यादेः प्रातिपदिकात् परस्य असंख्यादेः संख्यावाचिनः डटः प्रत्ययस्य षष्ठीसमर्थात् नित्यम् तमट् आगमः भवति",
+     "kashika": "षष्ट्यादेः संख्याशब्दादसंख्यादेः परस्य डटो नित्यं तमडागमो भवति।",
+     "prathamavrtti": "षष्ठीसमर्थादसङ्ख्यादेः सङ्ख्यावाचिनः षष्ट्यादेः प्रातिपदिकात् परस्य पूरणेऽर्थे विहितो यो डट् तस्य नित्यं तमडागमो भवति ॥"
+    },
+    {
+     "n": "7.1.6",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "after a 5th-case condition the replacement replaces the FIRST sound",
+     "sutra": "शीङो रुट्",
+     "ourVrtti": "शीङः अङ्गात् उत्तरस्य अङ्गात् झकारादेशस्य अतः रुट् आगमः भवति",
+     "kashika": "शीङोऽङ्गादुत्तरस्य झादेशस्यातो रुडागमो भवति।",
+     "prathamavrtti": "शीङोऽङ्गादुत्तरस्य झकारादेशस्यातो रुट् आगमो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G5",
+   "group": "carried / not a sūtra word | operation | X",
+   "count": 3,
+   "sutras": [
+    "6.4.49 after a 5th-case word  ⟨on the reading of हलः as a 5th case, the य् right after the consonant ⟩",
+    "6.4.50 after a 5th-case word  ⟨the elision takes the first sound of क्य after the consonant (SK)⟩",
+    "6.4.158 after a 5th-case word  ⟨the elision takes the first sound of इष्ठ/इमन्/ईयस् after बहु (BM: “प्⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.49",
+     "word": "after a 5th-case word",
+     "trigger": "after a 5th-case word",
+     "effect": "on the reading of हलः as a 5th case, the य् right after the consonant is elided (KV: “हल इति वा पञ्चमीनिर्देशः, तत्र आदेः परस्य इति यकारोऽनेन लुप्यते”)",
+     "sutra": "यस्य हलः",
+     "ourVrtti": "आर्धधातुके हलः उत्तरस्य यशब्दस्य अङ्गस्य स्थाने लोपः भवति",
+     "kashika": "हल उत्तरस्य यशब्दस्यार्धधातुके लोपो भवति।",
+     "prathamavrtti": "हल उत्तरस्य यशब्दस्य आर्धधातुके लोपो भवति ॥"
+    },
+    {
+     "n": "6.4.50",
+     "word": "after a 5th-case word",
+     "trigger": "after a 5th-case word",
+     "effect": "the elision takes the first sound of क्य after the consonant (SK)",
+     "sutra": "क्यस्य विभाषा",
+     "ourVrtti": "आर्धधातुके हलः उत्तरस्य क्यप्रत्ययस्य अङ्गस्य स्थाने विकल्पेन लोपः भवति",
+     "kashika": "क्यस्य हल उत्तरस्य विभाषा लोपो भवत्यार्धधातुके।",
+     "prathamavrtti": "हल उत्तरस्य क्यस्य विभाषा लोपो भवति ॥"
+    },
+    {
+     "n": "6.4.158",
+     "word": "after a 5th-case word",
+     "trigger": "after a 5th-case word",
+     "effect": "the elision takes the first sound of इष्ठ/इमन्/ईयस् after बहु (BM: “प्रत्ययोरादिलोपः”)",
+     "sutra": "बहोर्लोपो भू च बहोः",
+     "ourVrtti": "बहोः उत्तरेषाम् इष्ठेमेयसाम् लोपः भवति, तस्य च बहोः स्थाने भू इति अयम् आदेशः भवति",
+     "kashika": "बहोरुत्तरेषामिष्ठेमेयसां लोपो भवति, तस्य च बहोः स्थाने भू इत्ययमादेशो भवति।",
+     "prathamavrtti": "बहोरुत्तरेषामिष्टेमेयसां लोपो भवति, तस्य च बहोः स्थाने भू इत्ययमादेशो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G6",
+   "group": "named by a commentator | atideśa | X",
+   "count": 2,
+   "sutras": [
+    "1.2.1 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "1.2.6 named by प्रक्रियासर्वस्वम्  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.2.1",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "after a 5th-case condition the replacement replaces the FIRST sound",
+     "sutra": "गाङ्कुटादिभ्योऽञ्णिन्ङित्",
+     "ourVrtti": "ञित्-णित्-भिन्नाः गाङ्-कुटादिभ्यः धातुभ्यः प्रत्ययाः ङिद्वत् भवति",
+     "kashika": "एभ्यो गाङ्कुटादिभ्यः परेऽञ्णितः प्रत्यया ङितो भवन्ति, ङिद्वद् भवन्तीत्यर्थः।",
+     "prathamavrtti": "गाङ्घातोः कुटादिभ्यश्च धातुभ्यः परे ये ञित्णित्भिन्नप्रत्ययास्ते ङिद्वद् भवन्ति। गाङ् इत्यनेन इङादेशो गाङ् गृह्यते, यो विभाषा लुङ्लृङोः (२।४।५०) इत्यनेन सम्पद्यते। कुटादयोऽपि (तुदा०) कुट कौटिल्ये इत्यारभ्य कुड् शब्दे इति यावद् गृह्यन्ते।"
+    },
+    {
+     "n": "1.2.6",
+     "word": "named by प्रक्रियासर्वस्वम्",
+     "trigger": "named by प्रक्रियासर्वस्वम्",
+     "effect": "after a 5th-case condition the replacement replaces the FIRST sound",
+     "sutra": "इन्धिभवतिभ्यां च",
+     "ourVrtti": "इन्धि-भवतिभ्याम् धातुभ्याम् लिट् प्रत्ययः किद्वत् भवति",
+     "kashika": "इन्धि-भवति इत्येताभ्यां परो लिट् प्रत्ययः किद् भवति।",
+     "prathamavrtti": "इन्धि भवति इत्येताभ्यां परो लिट् प्रत्ययः किद्वद् भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G7",
+   "group": "named by a commentator | vidhi | X",
+   "count": 2,
+   "sutras": [
+    "5.2.40 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "5.3.83 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩"
+   ],
+   "samples": [
+    {
+     "n": "5.2.40",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "after a 5th-case condition the replacement replaces the FIRST sound",
+     "sutra": "किमिदंभ्यां वो घः",
+     "ourVrtti": "परिमाणे वर्तमानाभ्याम् किम्-इदम्-प्रातिपदिकाभ्याम् प्रथमासमर्थाभ्याम् अस्य परिमाणम् इत्यर्थे वतुप्-प्रत्ययः परः च भवति, वकारस्य स्थाने घकारादेशः च भवति",
+     "kashika": "किमिदंभ्यामुत्तरस्य वतुपो वकारस्य घकारादेशो भवति।",
+     "prathamavrtti": "किम्, इदम् प्रातिपदिकाभ्यां प्रथमासमर्थाभ्यां परिमाणे वर्तमानाभ्याम् अस्य परिमाणम् इत्येतस्मिन्नर्थे वतुप् प्रत्ययो भवति तस्य च वकारस्य घकारादेशः ॥"
+    },
+    {
+     "n": "5.3.83",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "after a 5th-case condition the replacement replaces the FIRST sound",
+     "sutra": "ठाजादावूर्ध्वं द्वितीयादचः",
+     "ourVrtti": "ठाजादौ प्रत्यये परे अचः परस्य द्वितीयात् ऊर्ध्वस्य शब्दरूपस्य स्थाने अङ्गस्य लोपः भवति",
+     "kashika": "अस्मिन् प्रकरणे यष्ठोऽजादिश्च प्रत्ययः, तस्मिन् परतः प्रकृतेर्द्वितीयादच ऊर्ध्वं यच्छब्दरूपं तस्य लोपो भवति।",
+     "prathamavrtti": "अस्मिन् प्रकरणे यष्टः अजादिश्च प्रत्ययस्तस्मिन् परतो द्वितीयादच ऊर्ध्वं यच्छब्दरूपं तस्य लोपो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G8",
+   "group": "named by a commentator | nipātana | X",
+   "count": 2,
+   "sutras": [
+    "5.3.17 named by तत्त्वबोधिनी  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "6.3.98 named by बालमनोरमा  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩"
+   ],
+   "samples": [
+    {
+     "n": "5.3.17",
+     "word": "named by तत्त्वबोधिनी",
+     "trigger": "named by तत्त्वबोधिनी",
+     "effect": "after a 5th-case condition the replacement replaces the FIRST sound",
+     "sutra": "अधुना",
+     "ourVrtti": "इदमः स्थाने अश्-आदेशः अधुना इति निपात्यते इदमः सप्तम्यन्तात् काले अर्थे",
+     "kashika": "इदमोऽश्भावो धुना च प्रत्ययः।",
+     "prathamavrtti": "अधुना इति निपात्यते । सप्तम्यन्तस्य इदमः स्थानेऽश् आदेशो निपात्यते धुना च प्रत्ययः, अथवा इदमऽधुना च प्रत्ययः ॥"
+    },
+    {
+     "n": "6.3.98",
+     "word": "named by बालमनोरमा",
+     "trigger": "named by बालमनोरमा",
+     "effect": "after a 5th-case condition the replacement replaces the FIRST sound",
+     "sutra": "ऊदनोर्देशे",
+     "ourVrtti": "अनोः परस्य अप् इत्येतस्य स्थाने देशे वाच्ये ऊकारादेशः भवति",
+     "kashika": "अनोरुत्तरस्याप ऊकारादेशो भवति देशाभिधाने।",
+     "prathamavrtti": "अनोः उत्तरस्य अप् इत्येतस्य ऊकारादेशो भवति देशे वाच्ये ॥"
+    }
+   ]
+  },
+  {
+   "id": "G9",
+   "group": "named by a commentator | āgama | X (English)",
+   "count": 2,
+   "sutras": [
+    "7.2.10 named by Vasu  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+    "8.2.16 named by Vasu  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.2.10",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "after a 5th-case condition the replacement replaces the FIRST sound",
+     "sutra": "एकाच उपदेशेऽनुदात्तात्",
+     "ourVrtti": "उपदेशे एकाचः धातोः परस्य अनुदात्तात् इट् आगमः न भवति",
+     "kashika": "उपदेशे य एकाच् धातुरनुदात्तश्च तस्मादिडागमो न भवति।",
+     "prathamavrtti": "उपदेशे यो धातुरेकाच् अनुदात्तश्च तस्माद् इडागमो न भवति।"
+    },
+    {
+     "n": "8.2.16",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "after a 5th-case condition the replacement replaces the FIRST sound",
+     "sutra": "अनो नुट्",
+     "ourVrtti": "छन्दसि विषये अनन्तात् उत्तरस्य मतोः नुट् आगमः भवति",
+     "kashika": "अनन्तादुत्तरस्य मतोर्नुडागमो भवति छन्दसि विषये।",
+     "prathamavrtti": "छन्दसि विषयेऽनन्तादुत्तरस्य मतोर्नुडागमो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G10",
+   "group": "named by a commentator | saṃjñā | X",
+   "count": 1,
+   "sutras": [
+    "2.3.49 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.3.49",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "after a 5th-case condition the replacement replaces the FIRST sound",
+     "sutra": "एकवचनं संबुद्धिः",
+     "ourVrtti": "आमन्त्रितस्य प्रथमायाः एकवचनम् 'सम्बुद्धिसञ्ज्ञकम्' इति संज्ञा भवति",
+     "kashika": "आमन्त्रितप्रथमाया यदेकवचनं तत् संबुद्धिसंज्ञं भवति।",
+     "prathamavrtti": "आमन्त्रित-प्रथमाविभक्तेर्यद् एकवचनं तत्सम्बुद्धिसञ्ज्ञकं भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G11",
+   "group": "named by a commentator | adhikāra | X",
+   "count": 1,
+   "sutras": [
+    "3.1.91 named by महाभाष्यम्  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.91",
+     "word": "named by महाभाष्यम्",
+     "trigger": "named by महाभाष्यम्",
+     "effect": "after a 5th-case condition the replacement replaces the FIRST sound",
+     "sutra": "धातोः",
+     "ourVrtti": "धातोः इति अधिकारः",
+     "kashika": "धातोरित्ययमधिकारो वेदितव्यः।",
+     "prathamavrtti": "आ तृतीयाध्यायपरिसमाप्तेः (३।४।११७), धातोरित्ययमधिकारो वेदितव्यः॥"
+    }
+   ]
+  },
+  {
+   "id": "G12",
+   "group": "named by a commentator | ekādeśa | X",
+   "count": 1,
+   "sutras": [
+    "6.1.107 named by तत्त्वबोधिनी  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.107",
+     "word": "named by तत्त्वबोधिनी",
+     "trigger": "named by तत्त्वबोधिनी",
+     "effect": "after a 5th-case condition the replacement replaces the FIRST sound",
+     "sutra": "अमि पूर्वः",
+     "ourVrtti": "अमि अकः पूर्वपरयोः स्थाने पूर्वरूपम् आदेशः एकः आदेशः भवति",
+     "kashika": "अमि परतोऽकः पूर्वपरयोः स्थाने पूर्वरूपम् एकादेशो भवति।",
+     "prathamavrtti": "अक उत्तरस्यामि परतः पूर्वपरयोः स्थाने पूर्वरूपमेकादेशो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G13",
+   "group": "carried / not a sūtra word | nipātana | X",
+   "count": 1,
+   "sutras": [
+    "6.3.98 after a 5th-case word  ⟨the ऊ replaces the first sound of अप् (BM)⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.3.98",
+     "word": "after a 5th-case word",
+     "trigger": "after a 5th-case word",
+     "effect": "the ऊ replaces the first sound of अप् (BM)",
+     "sutra": "ऊदनोर्देशे",
+     "ourVrtti": "अनोः परस्य अप् इत्येतस्य स्थाने देशे वाच्ये ऊकारादेशः भवति",
+     "kashika": "अनोरुत्तरस्याप ऊकारादेशो भवति देशाभिधाने।",
+     "prathamavrtti": "अनोः उत्तरस्य अप् इत्येतस्य ऊकारादेशो भवति देशे वाच्ये ॥"
+    }
+   ]
+  },
+  {
+   "id": "G14",
+   "group": "named by a commentator | svara | X (English)",
+   "count": 1,
+   "sutras": [
+    "8.1.18 named by Vasu  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.1.18",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "after a 5th-case condition the replacement replaces the FIRST sound",
+     "sutra": "अनुदात्तं सर्वमपादादौ",
+     "ourVrtti": "अनुदात्तम् सर्वम् अपादादौ इति अधिकारः",
+     "kashika": "एतत् त्रयमधिकृतं वेदितव्यमापादपरिसमाप्तेः।",
+     "prathamavrtti": "अयम्प्यधिकारः तिङि चोदात्तवति, (८।१।७१) इत्येतत्पर्यन्तम्। इत उत्तरं यद् वक्ष्यामस्तद् 'अनुदात्तं सर्वमपादादौ' इत्येवं तद् वेदितव्यम् ॥"
+    }
+   ]
+  },
+  {
+   "id": "G15",
+   "group": "named by a commentator | svara | X",
+   "count": 1,
+   "sutras": [
+    "8.2.92 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.2.92",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "after a 5th-case condition the replacement replaces the FIRST sound",
+     "sutra": "अग्नीत्प्रेषणे परस्य च",
+     "ourVrtti": "यज्ञकर्मणि अग्नीधः प्रेषणे आदेः प्लुतः उदात्तः भवति, तस्मात् परस्य च",
+     "kashika": "तत्रादेः प्लुतो भवति परस्य च।",
+     "prathamavrtti": "अग्नीधः प्रेषणे आदेः प्लुतोदात्तो भवति तस्मात् परस्य च, यज्ञकर्मणि ॥"
+    }
+   ]
+  },
+  {
+   "id": "G16",
+   "group": "carried / not a sūtra word | ādeśa | X (…)",
+   "count": 1,
+   "sutras": [
+    "8.4.61 उदः is 5th case, so the substitute takes the first sound of what follows — the स् of स्था/स्तम्भ  ⟨स्था स्तम्भ इत्येतयोः आदेः पूर्वसवर्णः⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.4.61",
+     "word": "उदः is 5th case, so the substitute takes the first sound of what follows — the स् of स्था/स्तम्भ",
+     "trigger": "उदः is 5th case, so the substitute takes the first sound of what follows — the स् of स्था/स्तम्भ (उत्थानम्)",
+     "effect": "स्था स्तम्भ इत्येतयोः आदेः पूर्वसवर्णः",
+     "sutra": "उदः स्थास्तम्भोः पूर्वस्य",
+     "ourVrtti": "उदः उत्तरयोः स्था स्तम्भ इत्येतयोः पूर्वसवर्णादेशः भवति",
+     "kashika": "उद उत्तरयोः स्था स्तम्भ इत्येतयोः पूर्वसवर्णादेशो भवति।",
+     "prathamavrtti": "उद उत्तरयोः स्था स्तम्भ इत्येतयोः पूर्वसवर्णोदेशो भवति॥"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,247 @@
+{
+ "pid": "1.1.3",
+ "howGrouped": "case of the triggering word (own sūtra words only) | rule kind | start of the engine trigger text; member = \"<sūtra> <word>  ⟨engine effect⟩\"",
+ "applies": 36,
+ "consideredNotApplicable": 0,
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | operation | X",
+   "count": 25,
+   "sutras": [
+    "6.4.156 गुण is named with no sound to replace  ⟨इकः is supplied⟩",
+    "7.2.1 वृद्धि is named with no sound to replace  ⟨इकः is supplied⟩",
+    "7.2.5 वृद्धि is named with no sound to replace  ⟨इकः is supplied⟩",
+    "7.2.6 वृद्धि is named with no sound to replace  ⟨इकः is supplied⟩",
+    "7.2.114 वृद्धि is named with no sound to replace  ⟨इकः is supplied⟩",
+    "7.3.16 वृद्धि is named with no sound to replace  ⟨इकः is supplied⟩",
+    "7.3.26 वृद्धि is named with no sound to replace  ⟨इकः is supplied⟩",
+    "7.3.34 वृद्धि is named with no sound to replace  ⟨इकः is supplied⟩",
+    "7.3.35 वृद्धि is named with no sound to replace  ⟨इकः is supplied⟩",
+    "7.3.82 गुण is named with no sound to replace  ⟨इकः is supplied⟩",
+    "7.3.83 गुण is named with no sound to replace  ⟨इकः is supplied⟩",
+    "7.3.84 गुण is named with no sound to replace  ⟨इकः is supplied⟩",
+    "7.3.85 गुण is named with no sound to replace  ⟨इकः is supplied⟩",
+    "7.3.86 गुण is named with no sound to replace  ⟨इकः is supplied⟩",
+    "7.3.87 गुण is named with no sound to replace  ⟨इकः is supplied⟩",
+    "7.3.88 गुण is named with no sound to replace  ⟨इकः is supplied⟩",
+    "7.3.90 वृद्धि is named with no sound to replace  ⟨इकः is supplied⟩",
+    "7.3.91 गुण is named with no sound to replace  ⟨इकः is supplied⟩",
+    "7.3.111 गुण is named with no sound to replace  ⟨इकः is supplied⟩",
+    "7.4.11 गुण is named with no sound to replace  ⟨इकः is supplied⟩",
+    "7.4.16 गुण is named with no sound to replace  ⟨इकः is supplied⟩",
+    "7.4.21 गुण is named with no sound to replace  ⟨इकः is supplied⟩",
+    "7.4.57 गुण is named with no sound to replace  ⟨इकः is supplied⟩",
+    "7.4.75 गुण is named with no sound to replace  ⟨इकः is supplied⟩",
+    "7.4.82 गुण is named with no sound to replace  ⟨इकः is supplied⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.156",
+     "word": "गुण is named with no sound to replace",
+     "trigger": "गुण is named with no sound to replace",
+     "effect": "इकः is supplied",
+     "sutra": "स्थूलदूरयुवह्रस्वक्षिप्रक्षुद्राणां यणादिपरं पूर्वस्य च गुणः",
+     "ourVrtti": "स्थूल दूर युव ह्रस्व क्षिप्र क्षुद्र इत्येतेषाम् यणादिपरम् लुप्यते इष्ठेमेयस्सु परतः, पूर्वस्य च गुणः भवति",
+     "kashika": "स्थूल दूर युव ह्रस्व क्षिप्र क्षुद्र इत्येतेषां यणादिपरं लुप्यत इष्ठेमेयस्सु परतः, पूर्वस्य च गुणो भवति।",
+     "prathamavrtti": "स्थूल, दूर, युव, ह्रस्व, क्षिप्र, क्षुद्र इत्येतेषां यणादिपरं लुप्यते, इष्ठेमेयस्सु परतः, पूर्वस्य च गुणो भवति ॥"
+    },
+    {
+     "n": "7.3.35",
+     "word": "वृद्धि is named with no sound to replace",
+     "trigger": "वृद्धि is named with no sound to replace",
+     "effect": "इकः is supplied",
+     "sutra": "जनिवध्योश्च",
+     "ourVrtti": "चिणि कृति च ञिति णिति जनि-वध्योः धात्वोः वृद्धिः आदेशः न भवति",
+     "kashika": "जनि वधि इत्येतयोश्चिणि कृति च ञ्णिति यदुक्तं तद् न भवति।",
+     "prathamavrtti": "जनि वधि इत्येतयोश्चिणि कृति ञ्णिति च वृद्धिर्न भवति॥"
+    },
+    {
+     "n": "7.3.90",
+     "word": "वृद्धि is named with no sound to replace",
+     "trigger": "वृद्धि is named with no sound to replace",
+     "effect": "इकः is supplied",
+     "sutra": "ऊर्णोतेर्विभाषा",
+     "ourVrtti": "सार्वधातुके परे हलादौ पिति ऊर्णोतेः अङ्गस्य स्थाने विकल्पेन वृद्धिः आदेशः भवति",
+     "kashika": "ऊर्णोतेर्विभाषा वृद्धिर्भवति हलादौ पिति सार्वधातुके।",
+     "prathamavrtti": "ऊर्णोतेर्विभाषा वृद्धिर्भवति हलादौ पिति सार्वधातुके परतः॥"
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "group": "carried / not a sūtra word | niṣedha | X",
+   "count": 3,
+   "sutras": [
+    "1.1.4 इकः and गुण-वृद्धी are carried from 1.1.3  ⟨so this blocks only the guṇa/vṛddhi that 1.1.3 supplies (class 57; SK:⟩",
+    "1.1.5 इकः and गुण-वृद्धी are carried from 1.1.3  ⟨so this blocks only the guṇa/vṛddhi that 1.1.3 supplies (class 57; SK:⟩",
+    "1.1.6 इकः and गुण-वृद्धी are carried from 1.1.3  ⟨so this blocks only the guṇa/vṛddhi that 1.1.3 supplies (class 57; SK:⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.1.4",
+     "word": "इकः and गुण-वृद्धी are carried from 1.1.3",
+     "trigger": "इकः and गुण-वृद्धी are carried from 1.1.3",
+     "effect": "so this blocks only the guṇa/vṛddhi that 1.1.3 supplies (class 57; SK: “इग्लक्षणे”)",
+     "sutra": "न धातुलोप आर्धधातुके",
+     "ourVrtti": "धातुलोपे आर्धधातुके परे इकः स्थाने गुणवृद्धी आदेशः न भवति",
+     "kashika": "धात्वेकदेशो धातुः, तस्य लोपो यस्मिन्नार्धधातुके तदार्धधातुकं धातुलोपं, तत्र ये गुणवृद्धी प्राप्नुतः ते न भवतः।",
+     "prathamavrtti": "यस्मिन्नार्द्धधातुके धात्तोरवयवस्य लोपो भवति, तस्मिन्नेवार्द्धधातुके इकः स्थाने ये गुणवृद्धी प्राप्नुतस्ते न भवतः ॥"
+    },
+    {
+     "n": "1.1.5",
+     "word": "इकः and गुण-वृद्धी are carried from 1.1.3",
+     "trigger": "इकः and गुण-वृद्धी are carried from 1.1.3",
+     "effect": "so this blocks only the guṇa/vṛddhi that 1.1.3 supplies (class 57; SK: “इग्लक्षणे”)",
+     "sutra": "क्ङिति च",
+     "ourVrtti": "क्ङिति परे इकः स्थाने गुणवृद्धी आदेशः न भवति",
+     "kashika": "क्ङिन्निमित्ते ये गुणवृद्धी प्राप्नुतः ते न भवतः (म० भा०)।",
+     "prathamavrtti": "गित्-कित्-ङित्-निमित्तके इकः स्थाने ये गुणवृद्धी प्राप्नुतस्ते न भवतः ।"
+    },
+    {
+     "n": "1.1.6",
+     "word": "इकः and गुण-वृद्धी are carried from 1.1.3",
+     "trigger": "इकः and गुण-वृद्धी are carried from 1.1.3",
+     "effect": "so this blocks only the guṇa/vṛddhi that 1.1.3 supplies (class 57; SK: “इग्लक्षणे”)",
+     "sutra": "दीधीवेवीटाम्",
+     "ourVrtti": "दीधीवेव्योः इटश्च इकः स्थाने गुणवृद्धी आदेशः न भवति",
+     "kashika": "दीधीवेव्योरिटश्च ये गुणवृद्धी प्राप्नुतः ते न भवतः।",
+     "prathamavrtti": "दीधीङ् (दीप्तिदेवनयोः), वेवीङ् (वेतिना तुल्ये) छान्दसौ धातू अदादिगणे पठितौ स्तः। दीधीवेव्योः इटश्च इकः स्थाने ये गुणवृद्धी प्राप्नुतस्ते न भवतः॥"
+    }
+   ]
+  },
+  {
+   "id": "G3",
+   "group": "named by a commentator | operation | X",
+   "count": 3,
+   "sutras": [
+    "1.2.47 named by बालमनोरमा  ⟨guṇa/vṛddhi named without a sound to replace → supply इकः⟩",
+    "6.1.13 named by महाभाष्यम्  ⟨guṇa/vṛddhi named without a sound to replace → supply इकः⟩",
+    "6.4.155 named by पदमञ्जरी  ⟨guṇa/vṛddhi named without a sound to replace → supply इकः⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.2.47",
+     "word": "named by बालमनोरमा",
+     "trigger": "named by बालमनोरमा",
+     "effect": "guṇa/vṛddhi named without a sound to replace → supply इकः",
+     "sutra": "ह्रस्वो नपुंसके प्रातिपदिकस्य",
+     "ourVrtti": "अजन्तस्य प्रातिपदिकस्य स्थाने नपुंसकलिङ्गे अर्थे ह्रस्वादेशः भवति",
+     "kashika": "नपुंसकलिङ्गेऽर्थे यत्प्रातिपदिकं वर्तते, तस्य ह्रस्वो भवत्यादेशोऽलोऽन्त्यस्याचः।",
+     "prathamavrtti": "नपुंसकलिङ्गेऽर्थे वर्त्तमानं यत् प्रातिपदिकं तस्य ह्रस्वो भवति ॥"
+    },
+    {
+     "n": "6.1.13",
+     "word": "named by महाभाष्यम्",
+     "trigger": "named by महाभाष्यम्",
+     "effect": "guṇa/vṛddhi named without a sound to replace → supply इकः",
+     "sutra": "ष्यङः सम्प्रसारणं पुत्रपत्योस्तत्पुरुषे",
+     "ourVrtti": "तत्पुरुषे समासे पुत्र पति इत्येतयोः उत्तरपदयोः परे ष्यङः स्थाने सम्प्रसारणम् आदेशः भवति",
+     "kashika": "पुत्र पति इत्येतयोरुत्तरपदयोस्तत्पुरुषे समासे ष्यङः संप्रसारणं भवति।",
+     "prathamavrtti": "पुत्र, पति इत्येतयोरुत्तरपदयोः ष्यङः सम्प्रसारणं भवति तत्पुरुषे समासे ॥"
+    },
+    {
+     "n": "6.4.155",
+     "word": "named by पदमञ्जरी",
+     "trigger": "named by पदमञ्जरी",
+     "effect": "guṇa/vṛddhi named without a sound to replace → supply इकः",
+     "sutra": "टेः",
+     "ourVrtti": "इष्ठेमेयस्सु परे भसंज्ञकस्य अङ्गस्य टेः स्थाने लोपः भवति",
+     "kashika": "भस्य टेर्लोपो भवतीष्ठेमेयस्सु परतः।",
+     "prathamavrtti": "इष्ठेमेयस्सु परतः भसंज्ञकस्याङ्गस्य टेर्लोपो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G4",
+   "group": "named by a commentator | vidhi | X",
+   "count": 2,
+   "sutras": [
+    "3.1.11 named by बालमनोरमा  ⟨guṇa/vṛddhi named without a sound to replace → supply इकः⟩",
+    "3.2.101 named by तत्त्वबोधिनी  ⟨guṇa/vṛddhi named without a sound to replace → supply इकः⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.11",
+     "word": "named by बालमनोरमा",
+     "trigger": "named by बालमनोरमा",
+     "effect": "guṇa/vṛddhi named without a sound to replace → supply इकः",
+     "sutra": "कर्तुः क्यङ् सलोपश्च",
+     "ourVrtti": "कर्तृवाचिनः उपमानवाचिनः सुबन्तात् आचारेऽर्थे विकल्पेन क्यङ् प्रत्ययः परः च भवति, सकारस्य लोपः च भवति",
+     "kashika": "उपमानात् कर्तुःसुबन्तादाचारेऽर्थे वा क्यङ् प्रत्ययो भवति, सकारस्य च लोपो भवति।",
+     "prathamavrtti": "उपमानवाचिनः कर्तुः सुबन्तादाचारेऽर्थे वा क्यङ् प्रत्ययः परश्च भवति, तत्र च सकारान्तो यः शब्दस्तस्य सकारस्य वा लोपो भवति॥"
+    },
+    {
+     "n": "3.2.101",
+     "word": "named by तत्त्वबोधिनी",
+     "trigger": "named by तत्त्वबोधिनी",
+     "effect": "guṇa/vṛddhi named without a sound to replace → supply इकः",
+     "sutra": "अन्येष्वपि दृश्यते",
+     "ourVrtti": "अन्येषु उपपदेषु जनेः अपि दृश्यते डः प्रत्ययः परः च भवति",
+     "kashika": "तेन धात्वन्तरादपि भवति, कारकान्तरेऽपि।",
+     "prathamavrtti": "अन्येषु कारकेषूपपदेष्वपि जनेर्डः प्रत्ययो दृश्यते ॥"
+    }
+   ]
+  },
+  {
+   "id": "G5",
+   "group": "named by a commentator | saṃjñā | X",
+   "count": 1,
+   "sutras": [
+    "1.1.1 named by न्यासः  ⟨guṇa/vṛddhi named without a sound to replace → supply इकः⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.1.1",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "guṇa/vṛddhi named without a sound to replace → supply इकः",
+     "sutra": "वृद्धिरादैच्",
+     "ourVrtti": "आ ऐ औ इति एतेषाम् वर्णानाम् 'वृद्धिः' इति संज्ञा भवति",
+     "kashika": "वृद्धि-शब्दः संज्ञात्वेन विधीयते प्रत्येकमादैचां वर्णानां सामान्येन तद्भावितानाम्, अतद्भावितानाञ्च।",
+     "prathamavrtti": "आ ऐ औ इत्येतेषां वर्णानां वृद्धिसंज्ञा भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G6",
+   "group": "named by a commentator | nipātana | X",
+   "count": 1,
+   "sutras": [
+    "6.4.28 named by न्यासः  ⟨guṇa/vṛddhi named without a sound to replace → supply इकः⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.28",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "guṇa/vṛddhi named without a sound to replace → supply इकः",
+     "sutra": "स्यदो जवे",
+     "ourVrtti": "स्यद (स्यन्देः नलोपः, वृद्ध्यभावः) इति निपात्यते घञि परतः जवे अर्थे",
+     "kashika": "जवेऽभिधेये स्यद इति घञि निपात्यते।",
+     "prathamavrtti": "जवेऽभिधेये घञि परतः स्यद् इति निपात्यते । निपातनेन स्यन्देर्नलोपो वृद्धयभावश्च भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G7",
+   "group": "named by a commentator | ṣatva | X",
+   "count": 1,
+   "sutras": [
+    "8.3.112 named by तत्त्वबोधिनी  ⟨guṇa/vṛddhi named without a sound to replace → supply इकः⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.3.112",
+     "word": "named by तत्त्वबोधिनी",
+     "trigger": "named by तत्त्वबोधिनी",
+     "effect": "guṇa/vṛddhi named without a sound to replace → supply इकः",
+     "sutra": "सिचो यङि",
+     "ourVrtti": "यङि परे इण्कोः उत्तरस्य सिचः सकारस्य मूर्धन्यादेशः न भवति",
+     "kashika": "सिचः सकारस्य यङि परतो मूर्धन्यादेशो न भवति।",
+     "prathamavrtti": "इण्कोरुत्तरस्य सिचः सकारस्य यङि परतो मूर्धन्यादेशो न भवति॥"
+    }
+   ]
+  }
+ ]
+}

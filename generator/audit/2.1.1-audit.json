@@ -1,0 +1,291 @@
+{
+ "pid": "2.1.1",
+ "audited": "2026-11-20",
+ "totals": {
+  "firings": 25,
+  "licensed": 24,
+  "not licensed": 0,
+  "unsure": 1,
+  "not_licensed_by_should_be": {},
+  "not_licensed_by_reason": {}
+ },
+ "reason_codes": {},
+ "conditions": [
+  {
+   "text": "C1 — 2.1.1 is a paribhāṣā: every padavidhi (samāsa etc.) operates only on words that are समर्थ — able to express the vigraha meaning / connected in meaning.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "21001",
+     "quote": "परिभाषेयम्।"
+    },
+    {
+     "file": "kashika",
+     "id": "21001",
+     "quote": "यः कश्चिदिह शास्त्रे पदविधिः श्रूयते स सर्वः समर्थो वेदितव्यः।"
+    },
+    {
+     "file": "kaumudi",
+     "id": "21001",
+     "quote": "पदसम्बन्धी यो विधिः स समर्थाश्रितो बोध्यः ॥"
+    }
+   ]
+  },
+  {
+   "text": "C2 — Its scope is padavidhi — samāsa first (Kāśikā example 2.1.24 कष्टश्रितः), but also taddhita (BM on 4.1.82).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "21001",
+     "quote": "स पुनः समासादिः।"
+    },
+    {
+     "file": "balamanorama",
+     "id": "41082",
+     "quote": "एवंच 'प्राग्दिशः' इत्यादिषु स्वार्थिकप्रत्ययविधिषु नाऽस्य प्रवृत्तिरिति लभ्यते इत्याहुः ननु सुबन्तात्तद्धितोत्पत्तेर्वक्ष्यमाणत्वेन तद्धितविधीनां पदविधितयासमर्थः पदविंधि॑रिति परिभाषयैव एकार्थीभावरूपसामर्थ्यलाभादिह समर्थग्रहणं व्यर्थमित्यत आह — सामर्थ्यं परिनिष्ठितत्वमिति ।"
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | samāsa | X: prakriti",
+   "count": 9,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 9,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "All 9 read; each vṛtti has “समर्थेन/समर्थैः … सह”, and the Kāśikā of the sūtras writes the samāsa with a समर्थ subanta (2.1.6: “समर्थन सुबन्तेन”; 2.2.18/2.2.19: “समर्थेन शब्दान्तरेण”).",
+   "licensed": [
+    "2.1.6",
+    "2.1.7",
+    "2.1.8",
+    "2.1.24",
+    "2.1.26",
+    "2.2.9",
+    "2.2.11",
+    "2.2.18",
+    "2.2.19"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "licensed_with_caveat": [
+    {
+     "n": "2.1.24",
+     "note": "The Kāśikā on 2.1.1 uses this sūtra as its example.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "21001",
+       "quote": "वक्ष्यति — <<द्वितीया श्रितातीतपतितगतात्यस्तप्राप्तापन्नैः>> [[२.१.२४]] — कष्टं श्रितः, कष्टश्रितः।"
+      }
+     ]
+    },
+    {
+     "n": "2.2.11",
+     "note": "A prohibition (no samāsa of the 6th with पूरण etc.), but the vṛtti still restricts the words as समर्थ; kept licensed.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "22011",
+       "quote": "पूरणगुणसुहितार्थ सद् अव्यय तव्य समानाधिकरण इत्येतैः सह षष्ठी न समस्यते।"
+      }
+     ]
+    },
+    {
+     "n": "2.2.19",
+     "note": "Kāśikā itself: “समर्थेन शब्दान्तरेण सह”.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "22019",
+       "quote": "उपपदमतिङन्तं समर्थेन शब्दान्तरेण सह समस्यते नित्यम्, तत्पुरुषश्च समासो भवति।"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G2",
+   "group": "carried / not a sūtra word | samāsa | X: other",
+   "count": 6,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 6,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "All 6 read; samāsa vidhis with “समर्थेन … सह” in the vṛtti.",
+   "licensed": [
+    "2.1.36",
+    "2.1.38",
+    "2.1.46",
+    "2.1.47",
+    "2.2.6",
+    "2.2.8"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G3",
+   "group": "own word, data case 3 | samāsa | X: prakriti",
+   "count": 3,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 3,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "All 3 read.",
+   "licensed": [
+    "2.1.25",
+    "2.1.70",
+    "2.2.1"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G4",
+   "group": "own word, data case 3 | samāsa | X: other",
+   "count": 3,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 3,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "All 3 read.",
+   "licensed": [
+    "2.1.37",
+    "2.1.40",
+    "2.1.45"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G5",
+   "group": "own word, data case 3 | samāsa | X: qualifier",
+   "count": 2,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 2,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "Both read (avyayībhāva with वंश्य/नदी words).",
+   "licensed": [
+    "2.1.19",
+    "2.1.20"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G6",
+   "group": "carried / not a sūtra word | samāsa | X: sthani",
+   "count": 1,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 1,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "Read.",
+   "licensed": [
+    "2.1.29"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G7",
+   "group": "carried / not a sūtra word | paribhāṣā | X",
+   "count": 1,
+   "verdict": "unsure",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 0,
+    "unsure": 1
+   },
+   "how_checked": "Every member read: sūtra, generated vṛtti (“समर्थेन …”), Kāśikā.",
+   "licensed": [],
+   "not_licensed": [],
+   "unsure": [
+    {
+     "n": "4.1.82",
+     "word": "4.1.82",
+     "why": "Sources split. The Kāśikā glosses समर्थानाम् as among words connected in meaning (“कम्बल उपगोः” excluded), i.e. the 2.1.1 sense. SK says समर्थ here means परिनिष्ठित (sandhi already done), and BM explains why: 2.1.1 already gives taddhitas their sāmarthya, so the word in 4.1.82 must mean something else. The engine effect “among the words connected in meaning” follows the Kāśikā only.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41082",
+       "quote": "समर्थानामिति किम्? कम्बल उपगोः, अपत्यं देवदत्तस्य।"
+      },
+      {
+       "file": "kaumudi",
+       "id": "41082",
+       "quote": "सामर्थ्यं परिनिष्ठितत्वम् ।"
+      },
+      {
+       "file": "balamanorama",
+       "id": "41082",
+       "quote": "एवंच 'प्राग्दिशः' इत्यादिषु स्वार्थिकप्रत्ययविधिषु नाऽस्य प्रवृत्तिरिति लभ्यते इत्याहुः ननु सुबन्तात्तद्धितोत्पत्तेर्वक्ष्यमाणत्वेन तद्धितविधीनां पदविधितयासमर्थः पदविंधि॑रिति परिभाषयैव एकार्थीभावरूपसामर्थ्यलाभादिह समर्थग्रहणं व्यर्थमित्यत आह — सामर्थ्यं परिनिष्ठितत्वमिति ।"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  }
+ ],
+ "missed": [
+  {
+   "n": "2.1.4",
+   "pid": "2.1.1",
+   "why": "सह सुपा — the adhikāra that brings सुप् सुपा into every samāsa rule; Kāśikā on 2.1.1 explains sāmarthya for exactly these.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "21004",
+     "quote": "सुबिति वर्तते।"
+    }
+   ]
+  },
+  {
+   "n": "2.2.14",
+   "pid": "2.1.1",
+   "why": "कर्मणि च — the vṛtti writes “समर्थेन सुबन्तेन सह” but the credit is missing.",
+   "quotes": []
+  },
+  {
+   "n": "2.1.57",
+   "pid": "2.1.1",
+   "why": "विशेषणं विशेष्येण बहुलम् — karmadhāraya; padavidhi like the rest.",
+   "quotes": []
+  },
+  {
+   "n": "2.2.24",
+   "pid": "2.1.1",
+   "why": "अनेकमन्यपदार्थे — bahuvrīhi; padavidhi.",
+   "quotes": []
+  },
+  {
+   "n": "2.2.29",
+   "pid": "2.1.1",
+   "why": "चार्थे द्वन्द्वः — dvandva; padavidhi.",
+   "quotes": []
+  }
+ ],
+ "missed_note": "Common: 83 sūtras in 2.1.4–2.2.38 have no 2.1.1 credit, about 70 of them samāsa vidhis (e.g. 2.1.30, 2.1.57, 2.2.24, 2.2.29). The credit appears only where the generated vṛtti writes “समर्थेन”; 2.2.14 writes “समर्थेन” and still has none. Recompute: recs 2.1.4–2.2.38 lacking P pid 2.1.1."
+}

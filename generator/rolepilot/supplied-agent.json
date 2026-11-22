@@ -1,0 +1,402 @@
+[
+ {
+  "key": "1.3.15|धातुभ्यः",
+  "kind": "convention",
+  "sutra": "",
+  "explain": "गतिहिंसार्थेभ्यः is itself an adjective (roots meaning motion or injury); the commentary simply names the noun it describes, roots (धातुभ्यः), since this whole rule is about verbs.",
+  "ref": "KV",
+  "quote": "धातुभ्यः कर्मव्यतिहारे आत्मनेपदं न भव"
+ },
+ {
+  "key": "1.3.16|धातोः",
+  "kind": "convention",
+  "sutra": "",
+  "explain": "उपपदात् needs a noun to go with it; the commentary supplies धातोः (root) because this rule, like the one before it, is about verbs taking or not taking आत्मनेपद.",
+  "ref": "KV",
+  "quote": "पदाद्धातोः कर्मव्यतिहारे"
+ },
+ {
+  "key": "2.3.35|तृतीया",
+  "kind": "carried",
+  "sutra": "",
+  "explain": "The Bālamanoramā says the sūtra's च reaches back and pulls in तृतीया from an earlier, non-adjacent rule, the same way it pulls in पञ्चमी.",
+  "ref": "BM",
+  "quote": "चकारो व्यवहितयोरपि पञ्चमीतृतीययोः समुच्चयार्थः"
+ },
+ {
+  "key": "3.2.164|गमः",
+  "kind": "convention",
+  "sutra": "",
+  "explain": "गत्वर is an irregularly formed (निपातन) word; the commentary just names which root it is built from, गम् (to go) — that is not borrowed from another sūtra.",
+  "ref": "KV",
+  "quote": "गत्वर इति निपात्यते। गमेरनुनासिकलोपः क्वरप्"
+ },
+ {
+  "key": "4.1.30|ङीप्",
+  "kind": "carried",
+  "sutra": "",
+  "explain": "The Bālamanoramā states outright that ङीप् continues here by anuवृत्ति from the earlier rule संख्याव्ययादेर्ङीप्.",
+  "ref": "BM",
+  "quote": "देर्ङी॑बित्यतो ङीबित्यनुवर्तते"
+ },
+ {
+  "key": "4.1.31|ङीप्",
+  "kind": "unclear",
+  "sutra": "",
+  "explain": "The excerpts (BM is blank here) just use ङीप् without saying where it continues from.",
+  "ref": "",
+  "quote": ""
+ },
+ {
+  "key": "4.1.32|ङीप्",
+  "kind": "carried",
+  "sutra": "4.1.5",
+  "explain": "The Kāśikā says ङीप् is not newly stated here but is 'already accomplished' (सिद्धः) simply because the word ends in न् — exactly the condition of ऋन्नेभ्यो ङीप् (4.1.5).",
+  "ref": "KV",
+  "quote": "ङीप् च प्रत्ययः, स तु नकारान्तत्वादेव सिद्धः"
+ },
+ {
+  "key": "4.1.35|ङीप्",
+  "kind": "carried",
+  "sutra": "",
+  "explain": "The Kāśikā says ङीप् 'is obtained anyway' (लभ्यते एव) from an earlier rule — this sūtra only adds that it is obligatory and changes पति to पत्नी.",
+  "ref": "KV",
+  "quote": "ङीप् तु लभ्यत एव। पूर्वेण विकल्पे प्राप्ते वचन"
+ },
+ {
+  "key": "4.1.36|ङीप्",
+  "kind": "unclear",
+  "sutra": "",
+  "explain": "Every excerpt (BM included) just uses ङीप् in deriving पूतक्रतायी without stating where the suffix itself comes from.",
+  "ref": "",
+  "quote": ""
+ },
+ {
+  "key": "4.1.37|ङीप्",
+  "kind": "unclear",
+  "sutra": "",
+  "explain": "The excerpts explain the ऐ-vowel and accent but never say where ङीप् itself is carried from.",
+  "ref": "",
+  "quote": ""
+ },
+ {
+  "key": "4.1.38|ङीप्",
+  "kind": "carried",
+  "sutra": "",
+  "explain": "The Bālamanoramā explicitly lists ङीप् among the words continuing by anuवृत्ति into this rule, along with ऐ च and उदात्तः.",
+  "ref": "BM",
+  "quote": "उदात्त इति, ङीबिति चानुवर्तते"
+ },
+ {
+  "key": "4.1.39|ङीप्",
+  "kind": "carried",
+  "sutra": "",
+  "explain": "The Bālamanoramā explicitly says वा and ङीप् both continue here by anuवृत्ति from the earlier rules.",
+  "ref": "BM",
+  "quote": "वेति ङीबिति चानुवर्तते"
+ },
+ {
+  "key": "4.3.102|छन्दसि",
+  "kind": "carried",
+  "sutra": "4.3.106",
+  "explain": "The Kāśikā says छन्दसि is drawn in by anuवृत्ति from the later rule शौनकादिभ्यश्छन्दसि (4.3.106).",
+  "ref": "KV",
+  "quote": "शौनकादिभ्यश्छन्दसि>> [[४.३.१०६]] इत्यत्रास्यानुवृत्तेः"
+ },
+ {
+  "key": "5.1.15|चतुर्थीसमर्थात्",
+  "kind": "convention",
+  "sutra": "",
+  "explain": "The Bālamanoramā itself flags this as a filled-in ellipsis ('...न्तात् इति शेषः') — the standard reading that a thing's purpose is expressed by the 4th case, not a word borrowed from a numbered rule shown here.",
+  "ref": "BM",
+  "quote": "न्ता॑दिति शेषः । अञ्स्यादिति "
+ },
+ {
+  "key": "5.1.99|तृतीयासमर्थात्",
+  "kind": "carried",
+  "sutra": "",
+  "explain": "The Kāśikā opens by saying 'तेन इत्येव' — the word तेन (and so the 3rd-case condition) continues here by anuवृत्ति from an earlier rule.",
+  "ref": "KV",
+  "quote": "तेनेत्येव। तृतीयासमर्थात् संपादिन्यभिधेये ठञ्"
+ },
+ {
+  "key": "5.1.100|तृतीयासमर्थाभ्याम्",
+  "kind": "unclear",
+  "sutra": "",
+  "explain": "This item's own excerpts just state the rule directly; unlike the previous sūtra (which says तेनेत्येव), none of these say explicitly that तृतीया continues here.",
+  "ref": "",
+  "quote": ""
+ },
+ {
+  "key": "5.1.121|भावप्रत्ययाः",
+  "kind": "carried",
+  "sutra": "5.1.119",
+  "explain": "The Bālamanoramā glosses 'इतः परम्' (from here on) as 'त्वतल्विधेः ऊर्ध्वम्' — after the rule teaching त्वतल् (5.1.119, तस्य भावस्त्वतलौ) — identifying भावप्रत्ययाः as those bhāva-suffixes.",
+  "ref": "BM",
+  "quote": "त्वतल्विधेरूध्र्वमित्यर्थः"
+ },
+ {
+  "key": "5.2.41|अस्य",
+  "kind": "carried",
+  "sutra": "",
+  "explain": "The Bālamanoramā states outright, 'तदस्य इति अनुवर्तते' — अस्य continues here by anuवृत्ति from an earlier rule.",
+  "ref": "BM",
+  "quote": "तदस्येत्यनुवर्तते"
+ },
+ {
+  "key": "5.2.42|अस्य",
+  "kind": "carried",
+  "sutra": "",
+  "explain": "The Kāśikā opens with 'तदस्य इत्येव' — अस्य is carried on here by anuवृत्ति, the same word noted for the previous sūtra.",
+  "ref": "KV",
+  "quote": "तदस्येत्येव। संख्याया अवयवे वर्तमानाया अस्येति"
+ },
+ {
+  "key": "5.2.53|डटि",
+  "kind": "carried",
+  "sutra": "",
+  "explain": "The Kāśikā opens 'डट् इति एव' — डट् (hence डटि, its locative) continues here by anuवृत्ति from an earlier rule that taught it.",
+  "ref": "KV",
+  "quote": "डडित्येव। वतोर्डटि परत इथुगागमो भवति"
+ },
+ {
+  "key": "5.3.117|स्वार्थे",
+  "kind": "convention",
+  "sutra": "",
+  "explain": "No special meaning is named for अण्/अञ् here, so by the standard convention the suffix is simply read in the sense of the base word itself (स्वार्थे).",
+  "ref": "KV",
+  "quote": "आयुधजीविसंघवाचिभ्यः स्वार्थेऽणञौ प्रत्ययौ भवतः"
+ },
+ {
+  "key": "6.1.12|छन्दसि भाषायां च",
+  "kind": "convention",
+  "sutra": "",
+  "explain": "The sūtra only lists the three words; the Kāśikā adds, on its own reading, that they are निपातन 'अविशेषेण' (without restriction) — i.e. in both Vedic and the classical language.",
+  "ref": "KV",
+  "quote": "येते शब्दाश्छन्दसि भाषायां चाविशेषेण निपात्यन्ते"
+ },
+ {
+  "key": "6.1.63|छन्दसि",
+  "kind": "unclear",
+  "sutra": "",
+  "explain": "The Kāśikā itself notes commentators disagree here — some carry छन्दसि over by anuवृत्ति from elsewhere, others take it as applying by default without restriction — so no single source is shown.",
+  "ref": "",
+  "quote": ""
+ },
+ {
+  "key": "6.1.131|पदस्य",
+  "kind": "carried",
+  "sutra": "6.1.109",
+  "explain": "The Kāśikā says explicitly that पद continues by anuवृत्ति from एङः पदान्तादति (6.1.109).",
+  "ref": "KV",
+  "quote": "पदान्तादति>> [[६.१.१०९]] इत्यतः पदग्रहणमनुवर्तते"
+ },
+ {
+  "key": "6.1.161|आदिः",
+  "kind": "convention",
+  "sutra": "",
+  "explain": "The Kāśikā explains that this word 'अनुदात्तस्य' is read with आदिः because, on its own, 'अन्त' (not आदि) would already be the default reading from context — a deliberate choice, not a borrowed word.",
+  "ref": "KV",
+  "quote": "तदेतदनुदात्तग्रहणमादेरनुदात्तस्योदात्तार्थम्"
+ },
+ {
+  "key": "6.1.194|अभ्यस्तानाम्",
+  "kind": "unclear",
+  "sutra": "",
+  "explain": "None of the excerpts (BM is blank) say where अभ्यस्तानाम् is carried from; they just apply it directly.",
+  "ref": "",
+  "quote": ""
+ },
+ {
+  "key": "6.1.195|धातोः",
+  "kind": "convention",
+  "sutra": "",
+  "explain": "उपदेशे (in the original root-list) inherently concerns roots; the Kāśikā simply names धातवः as what is being talked about, not as a word fetched from a different numbered rule.",
+  "ref": "KV",
+  "quote": "धातवस्तेषां कर्तृयक्यन्यतरस्यामादिरुदात्तो भवति। लूय"
+ },
+ {
+  "key": "6.1.195|उपदेशे",
+  "kind": "carried",
+  "sutra": "",
+  "explain": "The Kāśikā opens 'उपदेशः इति वर्तते' — उपदेशे continues here by anuवृत्ति from an earlier rule.",
+  "ref": "KV",
+  "quote": "उपदेश इति वर्तते। अजन्ता ये उपदेशे धातवस्तेषां"
+ },
+ {
+  "key": "6.2.28|उदात्तः",
+  "kind": "unclear",
+  "sutra": "",
+  "explain": "The excerpts (BM blank) just state the accent result directly; none say explicitly where उदात्तः is carried from.",
+  "ref": "",
+  "quote": ""
+ },
+ {
+  "key": "6.2.51|उदात्तः",
+  "kind": "unclear",
+  "sutra": "",
+  "explain": "Same pattern — the excerpts state the result directly without naming a source for उदात्तः.",
+  "ref": "",
+  "quote": ""
+ },
+ {
+  "key": "6.2.160|उदात्तः",
+  "kind": "unclear",
+  "sutra": "",
+  "explain": "The excerpts just state अन्तोदात्त directly; no sourcing for उदात्तः is given.",
+  "ref": "",
+  "quote": ""
+ },
+ {
+  "key": "6.2.161|उदात्तः",
+  "kind": "unclear",
+  "sutra": "",
+  "explain": "The excerpts just state the accent result; no sourcing for उदात्तः is shown.",
+  "ref": "",
+  "quote": ""
+ },
+ {
+  "key": "6.2.162|उदात्तः",
+  "kind": "unclear",
+  "sutra": "",
+  "explain": "The excerpts just state अन्त उदात्तः directly, without saying where it is carried from.",
+  "ref": "",
+  "quote": ""
+ },
+ {
+  "key": "6.2.163|उदात्तः",
+  "kind": "unclear",
+  "sutra": "",
+  "explain": "The excerpts just state the result; no sourcing for उदात्तः is shown.",
+  "ref": "",
+  "quote": ""
+ },
+ {
+  "key": "6.2.164|उदात्तः",
+  "kind": "unclear",
+  "sutra": "",
+  "explain": "The excerpts just state the result; no sourcing for उदात्तः is shown.",
+  "ref": "",
+  "quote": ""
+ },
+ {
+  "key": "6.2.165|उदात्तः",
+  "kind": "unclear",
+  "sutra": "",
+  "explain": "The excerpts just state the result; no sourcing for उदात्तः is shown.",
+  "ref": "",
+  "quote": ""
+ },
+ {
+  "key": "6.2.196|उदात्तः",
+  "kind": "unclear",
+  "sutra": "",
+  "explain": "The excerpts just state the result; no sourcing for उदात्तः is shown.",
+  "ref": "",
+  "quote": ""
+ },
+ {
+  "key": "6.2.197|उदात्तः",
+  "kind": "unclear",
+  "sutra": "",
+  "explain": "The excerpts just state the result; no sourcing for उदात्तः is shown.",
+  "ref": "",
+  "quote": ""
+ },
+ {
+  "key": "6.2.198|उदात्तः",
+  "kind": "unclear",
+  "sutra": "",
+  "explain": "The excerpts just state the result; no sourcing for उदात्तः is shown.",
+  "ref": "",
+  "quote": ""
+ },
+ {
+  "key": "6.2.199|उदात्तः",
+  "kind": "unclear",
+  "sutra": "",
+  "explain": "The excerpts just state the result (बहुलम्); no sourcing for उदात्तः is shown.",
+  "ref": "",
+  "quote": ""
+ },
+ {
+  "key": "6.3.26|पूर्वपदस्य",
+  "kind": "convention",
+  "sutra": "",
+  "explain": "A compound-internal replacement rule like this one targets the first member (पूर्वपद) by default unless told otherwise; the Kāśikā simply states it that way, not as a word fetched from elsewhere.",
+  "ref": "KV",
+  "quote": "द्वन्द्वस्तत्रोत्तरपदे पूर्वपदस्यानङादेशो भवति"
+ },
+ {
+  "key": "6.3.88|यति",
+  "kind": "carried",
+  "sutra": "",
+  "explain": "The Bālamanoramā explains the Siddhānta-kaumudī's 'इत्येव' as meaning this condition 'continues by anuवृत्ति alone' (अनुवर्तते एव).",
+  "ref": "BM",
+  "quote": "इत्येवेति । अनुवर्तत एवेत्यर्थः"
+ },
+ {
+  "key": "6.3.116|पूर्वपदस्य",
+  "kind": "convention",
+  "sutra": "",
+  "explain": "A compound-internal lengthening rule like this one targets the first member (पूर्वपद) by default; the Kāśikā simply states it so, not as a word fetched from a numbered rule shown here.",
+  "ref": "KV",
+  "quote": "पूर्वपदस्य दीर्घो भवति"
+ },
+ {
+  "key": "6.4.26|नकारस्य",
+  "kind": "unclear",
+  "sutra": "",
+  "explain": "The Kāśikā explains why this is its own separate rule (for the sake of what follows) but does not say where नकारस्य itself is carried from.",
+  "ref": "",
+  "quote": ""
+ },
+ {
+  "key": "6.4.27|नकारस्य",
+  "kind": "unclear",
+  "sutra": "",
+  "explain": "The excerpts state the rule directly; none say explicitly that नकारस्य is carried from an earlier rule.",
+  "ref": "",
+  "quote": ""
+ },
+ {
+  "key": "6.4.37|अनुनासिक",
+  "kind": "convention",
+  "sutra": "",
+  "explain": "The Siddhānta-kaumudī says outright that 'अनुनासिक' here is read with its 6th-case ending dropped (लुप्तषष्ठीकम्), as a qualifier of वनति and the तनादि roots — the commentary's own construal of the sūtra's own word, not an anuवृत्ति.",
+  "ref": "SK",
+  "quote": "अनुनासिक-इति लुप्तषष्ठीकं वनतीतरेषां विशेषणम्"
+ },
+ {
+  "key": "6.4.82|धातोः",
+  "kind": "carried",
+  "sutra": "6.4.77",
+  "explain": "The Bālamanoramā says धातोः continues by anuवृत्ति, picked out separately from the dvandva 'श्नुधातुभ्रुवाम्' in the earlier rule (अचि श्नुधातुभ्रुवां य्वोरियङुवङौ, 6.4.77).",
+  "ref": "BM",
+  "quote": "द्वन्द्वनिर्देशेऽपि धातोरिति पृथक्कृत्य षष्ठन्तमनुवर्तते"
+ },
+ {
+  "key": "6.4.83|धातोः",
+  "kind": "carried",
+  "sutra": "6.4.82",
+  "explain": "The Bālamanoramā says the whole previous rule एरनेकाचः (6.4.82) continues here except एः itself — so धातोः carries forward from it too.",
+  "ref": "BM",
+  "quote": "एरनेकाचः' इति सूत्रं, एरितिवर्जमनुवर्तते"
+ },
+ {
+  "key": "7.2.69|छन्दसि",
+  "kind": "convention",
+  "sutra": "",
+  "explain": "The Kāśikā says this निपातन 'is understood to be Vedic' (छन्दसि इदं निपातनं विज्ञायते) because in ordinary language the word would be सेनिवांस instead — the commentary's own inference from usage, not a borrowed word.",
+  "ref": "KV",
+  "quote": "छन्दसीदं निपातनं विज्ञायते। भाषायां सेनिवांसमिति"
+ },
+ {
+  "key": "8.1.26|आदेशाः",
+  "kind": "convention",
+  "sutra": "",
+  "explain": "आदेशाः is simply the commentary's standing name for the class of substitutes (वाम्, नौ, त्वा, मा, ते, मे, etc.) taught a few rules earlier, used here as their collective label rather than a word fetched by anuवृत्ति.",
+  "ref": "BM",
+  "quote": "वां-नावाद्यादेशा अनन्वादेशे पाक्षिकाः"
+ }
+]

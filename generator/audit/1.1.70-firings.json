@@ -1,0 +1,1036 @@
+{
+ "pid": "1.1.70",
+ "howGrouped": "case of the triggering word (own sūtra words only) | rule kind | start of the engine trigger text; member = \"<sūtra> <word>  ⟨engine effect⟩\"",
+ "applies": 138,
+ "consideredNotApplicable": 0,
+ "groups": [
+  {
+   "id": "G1",
+   "group": "own word, data case 1 | ādeśa | X: … with … after it (…)",
+   "count": 37,
+   "sutras": [
+    "1.2.50 इत्  ⟨only the short इ, not its other lengths⟩",
+    "3.4.106 अत्  ⟨only the short अ, not its other lengths⟩",
+    "5.4.135 इत्  ⟨only the short इ, not its other lengths⟩",
+    "6.1.45 आत्  ⟨only the long आ, not its other lengths⟩",
+    "6.3.27 ईत्  ⟨only the long ई, not its other lengths⟩",
+    "6.3.46 आत्  ⟨only the long आ, not its other lengths⟩",
+    "6.3.97 ईत्  ⟨only the long ई, not its other lengths⟩",
+    "6.4.34 इत्  ⟨only the short इ, not its other lengths⟩",
+    "6.4.65 ईत्  ⟨only the long ई, not its other lengths⟩",
+    "6.4.70 इत्  ⟨only the short इ, not its other lengths⟩",
+    "6.4.89 ऊत्  ⟨only the long ऊ, not its other lengths⟩",
+    "6.4.114 इत्  ⟨only the short इ, not its other lengths⟩",
+    "6.4.139 ईत्  ⟨only the long ई, not its other lengths⟩",
+    "6.4.160 आत्  ⟨only the long आ, not its other lengths⟩",
+    "7.1.4 अत्  ⟨only the short अ, not its other lengths⟩",
+    "7.1.31 अत्  ⟨only the short अ, not its other lengths⟩",
+    "7.1.84 औत्  ⟨only the short औ, not its other lengths⟩",
+    "7.1.85 आत्  ⟨only the long आ, not its other lengths⟩",
+    "7.1.86 अत्  ⟨only the short अ, not its other lengths⟩",
+    "7.1.100 इत्  ⟨only the short इ, not its other lengths⟩",
+    "7.2.83 ईत्  ⟨only the long ई, not its other lengths⟩",
+    "7.3.44 इत्  ⟨only the short इ, not its other lengths⟩",
+    "7.3.49 आत्  ⟨only the long आ, not its other lengths⟩",
+    "7.3.103 एत्  ⟨only the short ए, not its other lengths⟩",
+    "7.3.118 औत्  ⟨only the short औ, not its other lengths⟩",
+    "7.3.119 अत्  ⟨only the short अ, not its other lengths⟩",
+    "7.4.4 ईत्  ⟨only the long ई, not its other lengths⟩",
+    "7.4.5 इत्  ⟨only the short इ, not its other lengths⟩",
+    "7.4.7 ऋत्  ⟨only the short ऋ, not its other lengths⟩",
+    "7.4.37 आत्  ⟨only the long आ, not its other lengths⟩",
+    "7.4.40 इत्  ⟨only the short इ, not its other lengths⟩",
+    "7.4.55 ईत्  ⟨only the long ई, not its other lengths⟩",
+    "7.4.56 इत्  ⟨only the short इ, not its other lengths⟩",
+    "7.4.66 अत्  ⟨only the short अ, not its other lengths⟩",
+    "7.4.76 इत्  ⟨only the short इ, not its other lengths⟩",
+    "7.4.95 अत्  ⟨only the short अ, not its other lengths⟩",
+    "8.2.81 ईत्  ⟨only the long ई, not its other lengths⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.2.50",
+     "word": "इत्",
+     "trigger": "इत्: इ with त् after it (तपर)",
+     "effect": "only the short इ, not its other lengths",
+     "sutra": "इद्गोण्याः",
+     "ourVrtti": "तद्धितलुकि सति गोणीशब्दस्य स्थाने इकारादेशः भवति",
+     "kashika": "गोण्यास्तद्धितलुकि सतीकारादेशो भवति।",
+     "prathamavrtti": "तद्धितलुकि सति गोणीशब्दस्येकारादेशो भवति ॥"
+    },
+    {
+     "n": "6.4.139",
+     "word": "ईत्",
+     "trigger": "ईत्: ई with त् after it (तपर)",
+     "effect": "only the long ई, not its other lengths",
+     "sutra": "उद ईत्",
+     "ourVrtti": "उदः परस्य भसंज्ञकस्य अचः अङ्गस्य स्थाने ईकारादेशः भवति",
+     "kashika": "उद उत्तरस्याच ईकारादेशो भवति।",
+     "prathamavrtti": "उद उत्तरस्य भसंज्ञकस्याच ईकारादेशो भवति ॥"
+    },
+    {
+     "n": "7.3.118",
+     "word": "औत्",
+     "trigger": "औत्: औ with त् after it (तपर)",
+     "effect": "only the short औ, not its other lengths",
+     "sutra": "औत्",
+     "ourVrtti": "इदुद्भ्याम् ङेः अङ्गस्य स्थाने औत् आदेशः भवति",
+     "kashika": "इदुद्भ्यामुत्तरस्य ङेरौकारादेशो भवति।",
+     "prathamavrtti": "१इदुद्भ्यामुत्तरस्य ङेरौकारादेशो भवति घिसंज्ञकस्य अकारादेशश्च भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "group": "own word, data case 5 | vidhi | X: … with … after it (…)",
+   "count": 22,
+   "sutras": [
+    "3.1.136 आतः  ⟨only the short आ⟩",
+    "3.1.141 श्या-आत्-व्यध-आस्रु-संस्रु-अतीण्-अवसा-अवहृ-लिह-श्लिष-श्वसः  ⟨only the short आ⟩",
+    "3.2.3 आतः  ⟨only the short आ⟩",
+    "3.2.74 आतः  ⟨only the short आ⟩",
+    "3.3.106 आतः  ⟨only the short आ⟩",
+    "3.3.128 आतः  ⟨only the short आ⟩",
+    "4.1.4 अजादि-अतः  ⟨only the short अ⟩",
+    "4.1.5 ऋत्-नेभ्यः  ⟨only the short ऋ⟩",
+    "4.1.44 उतः  ⟨only the short उ⟩",
+    "4.1.65 इतः  ⟨only the short इ⟩",
+    "4.1.66 उतः  ⟨only the short उ⟩",
+    "4.1.95 अतः  ⟨only the short अ⟩",
+    "4.1.122 इतः  ⟨only the short इ⟩",
+    "4.1.171 वृद्ध-इत्-कोसल-अजादात्  ⟨only the short इ⟩",
+    "4.3.72 द्व्यच्-ऋत्-ब्राह्मण-ऋक्-प्रथम-अध्वर-पुरश्चरण-नाम-आख्यातात्  ⟨only the short ऋ⟩",
+    "4.3.78 ऋतः  ⟨only the short ऋ⟩",
+    "4.4.49 ऋतः  ⟨only the short ऋ⟩",
+    "5.1.105 ऋतोः  ⟨only the short ऋ⟩",
+    "5.2.96 आतः  ⟨only the short आ⟩",
+    "5.2.115 अतः  ⟨only the short अ⟩",
+    "5.4.11 किम्-एत्-तिङ्-अव्यय-घात्  ⟨only the short ए⟩",
+    "5.4.158 ऋतः  ⟨only the short ऋ⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.136",
+     "word": "आतः",
+     "trigger": "आतः: आ with त् after it (तपर)",
+     "effect": "only the short आ",
+     "sutra": "आतश्चोपसर्गे",
+     "ourVrtti": "उपसर्गे उपपदे आकारान्तेभ्यः धातुभ्यः कः प्रत्ययः परः च भवति",
+     "kashika": "आकारान्तेभ्यो धातुभ्य उपसर्ग उपपदे कप्रत्ययो भवति।",
+     "prathamavrtti": "आकारान्तेभ्यो धातुभ्य उपसर्ग उपपदे कः प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "4.1.5",
+     "word": "ऋत्-नेभ्यः",
+     "trigger": "ऋत्-नेभ्यः: ऋ with त् after it (तपर)",
+     "effect": "only the short ऋ",
+     "sutra": "ऋन्नेभ्यो ङीप्",
+     "ourVrtti": "ऋकारान्तेभ्यः नकारान्तेभ्यश्च प्रातिपदिकेभ्यः स्त्रियाम् ङीप् प्रत्ययः परः च भवति",
+     "kashika": "ऋकारान्तेभ्यो नकारान्तेभ्यश्च प्रातिपदिकेभ्यः स्त्रियां ङीप् प्रत्ययो भवति।",
+     "prathamavrtti": "ऋकारान्तेभ्यो नकारान्तेभ्यश्च प्रातिपदिकेभ्यः स्त्रियां ङीप् प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "4.3.72",
+     "word": "द्व्यच्-ऋत्-ब्राह्मण-ऋक्-प्रथम-अध्वर-पुरश्चरण-नाम-आख्यातात्",
+     "trigger": "द्व्यच्-ऋत्-ब्राह्मण-ऋक्-प्रथम-अध्वर-पुरश्चरण-नाम-आख्यातात्: ऋ with त् after it (तपर)",
+     "effect": "only the short ऋ",
+     "sutra": "द्व्यजृद्ब्राह्मणर्क्प्रथमाध्वरपुरश्चरणनामाख्याताट्ठक्",
+     "ourVrtti": "व्याख्यातव्यनामभ्यः द्व्यजादिभ्यः प्रातिपदिकेभ्यः सप्तमीसमर्थेभ्यः षष्ठीसमर्थेभ्यः भवे अर्थे व्याख्याने अर्थे ठक् प्रत्ययः परः च भवति",
+     "kashika": "द्व्यजादिभ्यः प्रातिपदिकेभ्यो व्याख्यातव्यनामभ्यो भवव्याख्यानयोरर्थयोष्ठक् प्रत्ययो भवति।",
+     "prathamavrtti": "षष्ठीसप्तमीसमर्थेभ्यो व्याख्यातव्यनामभ्यो द्व्यच ऋत् (ऋकारान्त) ब्राह्मण, ऋक्, प्रथम, अध्वर, पुरश्चरण, नाम, आख्यात इत्येतेभ्यः प्रातिपदिकेभ्यो भवव्याख्यानयोरर्थयोः ठक् प्रत्ययो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G3",
+   "group": "own word, data case 6 | operation | X: …",
+   "count": 16,
+   "sutras": [
+    "3.4.100 इतः  ⟨only the short इ⟩",
+    "6.4.48 अतः  ⟨only the short अ⟩",
+    "6.4.64 आतः  ⟨only the short आ⟩",
+    "6.4.112 आतः  ⟨only the short आ⟩",
+    "6.4.140 आतः  ⟨only the short आ⟩",
+    "7.2.7 अतः  ⟨only the short अ⟩",
+    "7.2.116 अतः  ⟨only the short अ⟩",
+    "7.3.11 ऋतोः  ⟨only the short ऋ⟩",
+    "7.3.27 अतः  ⟨only the short अ⟩",
+    "7.3.71 ओतः  ⟨only the short ओ⟩",
+    "7.3.89 उतः  ⟨only the short उ⟩",
+    "7.3.101 अतः  ⟨only the short अ⟩",
+    "7.3.110 ऋतः  ⟨only the short ऋ⟩",
+    "7.4.10 ऋतः  ⟨only the short ऋ⟩",
+    "7.4.70 अतः  ⟨only the short अ⟩",
+    "7.4.92 ऋतः  ⟨only the short ऋ⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.4.100",
+     "word": "इतः",
+     "trigger": "इतः: तपर",
+     "effect": "only the short इ",
+     "sutra": "इतश्च",
+     "ourVrtti": "ङितः लकारस्य इकारस्य स्थाने नित्यम् लोपः भवति",
+     "kashika": "ङिल्लकारसंबन्धिन इकारस्य नित्यं लोपो भवति।",
+     "prathamavrtti": "ङित्-लकारसम्बन्धिन इकारस्य नित्यं लोपो भवति ॥"
+    },
+    {
+     "n": "7.2.7",
+     "word": "अतः",
+     "trigger": "अतः: तपर",
+     "effect": "only the short अ",
+     "sutra": "अतो हलादेर्लघोः",
+     "ourVrtti": "सिचि हलादेः लघोः इडादौ परस्मैपदेषु परे अकारस्य अङ्गस्य विभाषा वृद्धिः आदेशः न भवति",
+     "kashika": "हलादेरङ्गस्य लघोरकारस्येडादौ सिचि परस्मैपदपरे परतो विभाषा वृद्धिर्न भवति।",
+     "prathamavrtti": "हलादेरङ्गस्य लघोरकारस्य इडादौ सिचि परस्मैपदेषु परतो विभाषा वृद्धिर्न भवति ॥"
+    },
+    {
+     "n": "7.3.89",
+     "word": "उतः",
+     "trigger": "उतः: तपर",
+     "effect": "only the short उ",
+     "sutra": "उतो वृद्धिर्लुकि हलि",
+     "ourVrtti": "हलादौ लुकि सति सार्वधातुके परे पिति अङ्गस्य उकारान्तस्य स्थाने वृद्धिः आदेशः भवति",
+     "kashika": "उकारान्तस्याङ्गस्य वृद्धिर्भवति लुकि सति हलादौ पिति सार्वधातुके।",
+     "prathamavrtti": "उकारान्तस्याङ्गस्य वृद्धिर्भवति लुकि सति हलादौ पिति सार्वधातुके परतः॥"
+    }
+   ]
+  },
+  {
+   "id": "G4",
+   "group": "carried / not a sūtra word | operation | X: …",
+   "count": 11,
+   "sutras": [
+    "6.4.42 आत्  ⟨only the short आ⟩",
+    "6.4.43 आत्  ⟨only the short आ⟩",
+    "6.4.45 आत्  ⟨only the short आ⟩",
+    "6.4.107 उतः  ⟨only the short उ⟩",
+    "6.4.108 उतः  ⟨only the short उ⟩",
+    "6.4.109 उतः  ⟨only the short उ⟩",
+    "7.3.102 अतः  ⟨only the short अ⟩",
+    "7.4.29 ऋतः  ⟨only the short ऋ⟩",
+    "7.4.30 ऋतः  ⟨only the short ऋ⟩",
+    "7.4.77 इत्  ⟨only the short इ⟩",
+    "7.4.78 इत्  ⟨only the short इ⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.42",
+     "word": "आत्",
+     "trigger": "आत्: तपर",
+     "effect": "only the short आ",
+     "sutra": "जनसनखनां सञ्झलोः",
+     "ourVrtti": "सनि झलादौ च प्रत्यये परे क्ङिति जन-सन-खन-इत्येतेषाम् अङ्गानाम् अङ्गस्य स्थाने आकारः आदेशः भवति",
+     "kashika": "जन सन खन इत्येतेषामङ्गानां सनि झलादौ क्ङिति झलादौ प्रत्यये परत आकार आदेशो भवति।",
+     "prathamavrtti": "जन सन खन इत्येतेषामङ्गानामाकारादेशो भवति, झलादौ सनि झलादौ च क्ङिति परतः ॥"
+    },
+    {
+     "n": "6.4.107",
+     "word": "उतः",
+     "trigger": "उतः: तपर",
+     "effect": "only the short उ",
+     "sutra": "लोपश्चास्यान्यतरस्यां म्वोः",
+     "ourVrtti": "मकारादौ वकारादौ च प्रत्यये परे उकारान्तस्य असंयोगपूर्वस्य प्रत्ययस्य अस्य प्रत्ययस्य स्थाने अङ्गस्य स्थाने विकल्पेन लोपः आदेशः भवति",
+     "kashika": "योऽयमुकारोऽसंयोगपूर्वस्तदन्तस्य प्रत्ययस्यान्यतरस्यां लोपो भवति वकारमकारादौ प्रत्यये परतः।",
+     "prathamavrtti": "असंयोगपूर्वो योऽयमुकारो तदन्तस्य प्रत्ययस्य लोपो भवति विकल्पेन, मकारादौ वकारादौ च प्रत्यये परतः ॥"
+    },
+    {
+     "n": "7.3.102",
+     "word": "अतः",
+     "trigger": "अतः: तपर",
+     "effect": "only the short अ",
+     "sutra": "सुपि च",
+     "ourVrtti": "सुपि परे यञादौ अकारान्तस्य स्थाने अङ्गस्य दीर्घः आदेशः भवति",
+     "kashika": "सुपि च यञादौ परतोऽकारान्तस्याङ्गस्य दीर्घो भवति।",
+     "prathamavrtti": "अकारान्तस्याङ्गस्य दीर्घो भवति यञादौ सुपि च परतः॥"
+    }
+   ]
+  },
+  {
+   "id": "G5",
+   "group": "named by a commentator | saṃjñā | X",
+   "count": 4,
+   "sutras": [
+    "1.1.1 named by न्यासः  ⟨a sound with त् after it denotes only its own length⟩",
+    "1.1.9 named by बालमनोरमा  ⟨a sound with त् after it denotes only its own length⟩",
+    "1.1.11 named by महाभाष्यम्  ⟨a sound with त् after it denotes only its own length⟩",
+    "1.2.27 named by पदमञ्जरी  ⟨a sound with त् after it denotes only its own length⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.1.1",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a sound with त् after it denotes only its own length",
+     "sutra": "वृद्धिरादैच्",
+     "ourVrtti": "आ ऐ औ इति एतेषाम् वर्णानाम् 'वृद्धिः' इति संज्ञा भवति",
+     "kashika": "वृद्धि-शब्दः संज्ञात्वेन विधीयते प्रत्येकमादैचां वर्णानां सामान्येन तद्भावितानाम्, अतद्भावितानाञ्च।",
+     "prathamavrtti": "आ ऐ औ इत्येतेषां वर्णानां वृद्धिसंज्ञा भवति ॥"
+    },
+    {
+     "n": "1.1.9",
+     "word": "named by बालमनोरमा",
+     "trigger": "named by बालमनोरमा",
+     "effect": "a sound with त् after it denotes only its own length",
+     "sutra": "तुल्यास्यप्रयत्नं सवर्णम्",
+     "ourVrtti": "तुल्यास्यप्रयत्नं वर्णजातम् 'सवर्णम्' इति संज्ञा भवति",
+     "kashika": "तुल्य आस्ये प्रयत्नो यस्य वर्णस्य येन वर्णेन सह, स समानजातीयं प्रति सवर्णसंज्ञो भवति।",
+     "prathamavrtti": "तुल्य आस्ये प्रयत्नो येषां, ते वर्णाः परस्परं सवर्णसंज्ञका भवन्ति ॥"
+    },
+    {
+     "n": "1.1.11",
+     "word": "named by महाभाष्यम्",
+     "trigger": "named by महाभाष्यम्",
+     "effect": "a sound with त् after it denotes only its own length",
+     "sutra": "ईदूदेद्द्विवचनं प्रगृह्यम्",
+     "ourVrtti": "ईदूदेदन्तम् द्विवचनं रूपम् 'प्रगृह्यम्' इति संज्ञा भवति",
+     "kashika": "ईत् ऊत् एत् इत्येवमन्तं द्विवचनं शब्दरूपं प्रगृह्यसंज्ञं भवति।",
+     "prathamavrtti": "ईदायन्तं द्विवचनं शब्दरूपं प्रगृह्यसंज्ञं भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G6",
+   "group": "named by a commentator | operation | X",
+   "count": 4,
+   "sutras": [
+    "6.3.112 named by पदमञ्जरी  ⟨a sound with त् after it denotes only its own length⟩",
+    "6.3.122 named by न्यासः  ⟨a sound with त् after it denotes only its own length⟩",
+    "6.3.137 named by बालमनोरमा  ⟨a sound with त् after it denotes only its own length⟩",
+    "6.4.146 named by तत्त्वबोधिनी  ⟨a sound with त् after it denotes only its own length⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.3.112",
+     "word": "named by पदमञ्जरी",
+     "trigger": "named by पदमञ्जरी",
+     "effect": "a sound with त् after it denotes only its own length",
+     "sutra": "सहिवहोरोदवर्णस्य",
+     "ourVrtti": "ढ्रलोपे सति सह्-वह्-धात्वोः अवर्णस्य स्थाने ओकारः आदेशः भवति",
+     "kashika": "सहि वहि इत्येतयोरवर्णस्यौकार आदेशो भवति ढ्रलोपे।",
+     "prathamavrtti": "ढ्रलोपे सह् वह् इत्येतयोरवर्णस्यौकार आदेशो भवति॥"
+    },
+    {
+     "n": "6.3.122",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a sound with त् after it denotes only its own length",
+     "sutra": "उपसर्गस्य घञ्यमनुष्ये बहुलम्",
+     "ourVrtti": "घञन्ते उत्तरपदे परे उत्तरपदे उपसर्गस्य स्थाने अमनुष्ये वाच्ये बहुलम् दीर्घः आदेशः भवति",
+     "kashika": "उपसर्गस्य घञन्त उत्तरपदेऽमनुष्येऽभिधेये बहुलं दीर्घो भवति।",
+     "prathamavrtti": "घञन्त उत्तरपदेऽमनुष्येऽभिधेय उपसर्गस्याणो बहुलं दीर्घो भवति ॥"
+    },
+    {
+     "n": "6.3.137",
+     "word": "named by बालमनोरमा",
+     "trigger": "named by बालमनोरमा",
+     "effect": "a sound with त् after it denotes only its own length",
+     "sutra": "अन्येषामपि दृश्यते",
+     "ourVrtti": "अन्येषाम् स्थाने शिष्टप्रयोगात् दृश्यते दीर्घः आदेशः भवति",
+     "kashika": "अन्येषामपि दीर्घो दृश्यते, स शिष्टप्रयोगादनुगन्तव्यः।",
+     "prathamavrtti": "अन्येषामपि दीर्घो दृश्यते॥"
+    }
+   ]
+  },
+  {
+   "id": "G7",
+   "group": "carried / not a sūtra word | saṃjñā | X: … with … after it (…)",
+   "count": 3,
+   "sutras": [
+    "1.1.1 आत्  ⟨only the long आ, not its other lengths⟩",
+    "1.1.2 अत्  ⟨only the short अ, not its other lengths⟩",
+    "1.1.11 ईत्  ⟨only the long ई, not its other lengths⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.1.1",
+     "word": "आत्",
+     "trigger": "आत्: आ with त् after it (तपर)",
+     "effect": "only the long आ, not its other lengths",
+     "sutra": "वृद्धिरादैच्",
+     "ourVrtti": "आ ऐ औ इति एतेषाम् वर्णानाम् 'वृद्धिः' इति संज्ञा भवति",
+     "kashika": "वृद्धि-शब्दः संज्ञात्वेन विधीयते प्रत्येकमादैचां वर्णानां सामान्येन तद्भावितानाम्, अतद्भावितानाञ्च।",
+     "prathamavrtti": "आ ऐ औ इत्येतेषां वर्णानां वृद्धिसंज्ञा भवति ॥"
+    },
+    {
+     "n": "1.1.2",
+     "word": "अत्",
+     "trigger": "अत्: अ with त् after it (तपर)",
+     "effect": "only the short अ, not its other lengths",
+     "sutra": "अदेङ् गुणः",
+     "ourVrtti": "अ ए ओ इति एतेषाम् वर्णानाम् 'गुणः' इति संज्ञा भवति",
+     "kashika": "गुणशब्दः संज्ञात्वेन विधीयते प्रत्येकमदेङां वर्णानां सामान्येन तद्भावितानाम्, अतद्भावितानां च।",
+     "prathamavrtti": "अ ए ओ इत्येषां वर्णानां गुणसंज्ञा भवति ॥"
+    },
+    {
+     "n": "1.1.11",
+     "word": "ईत्",
+     "trigger": "ईत्: ई with त् after it (तपर)",
+     "effect": "only the long ई, not its other lengths",
+     "sutra": "ईदूदेद्द्विवचनं प्रगृह्यम्",
+     "ourVrtti": "ईदूदेदन्तम् द्विवचनं रूपम् 'प्रगृह्यम्' इति संज्ञा भवति",
+     "kashika": "ईत् ऊत् एत् इत्येवमन्तं द्विवचनं शब्दरूपं प्रगृह्यसंज्ञं भवति।",
+     "prathamavrtti": "ईदायन्तं द्विवचनं शब्दरूपं प्रगृह्यसंज्ञं भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G8",
+   "group": "carried / not a sūtra word | operation | X: … with … after it (…)",
+   "count": 3,
+   "sutras": [
+    "2.4.80 आत्  ⟨only the long आ, not its other lengths⟩",
+    "6.4.134 अत्  ⟨only the short अ, not its other lengths⟩",
+    "7.1.39 आत्  ⟨only the long आ, not its other lengths⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.4.80",
+     "word": "आत्",
+     "trigger": "आत्: आ with त् after it (तपर)",
+     "effect": "only the long आ, not its other lengths",
+     "sutra": "मन्त्रे घसह्वरणशवृदहाद्वृच्कृगमिजनिभ्यो लेः",
+     "ourVrtti": "मन्त्रे विषये घस्-ह्वर्-णश्-वृ-दह्-आद्-वृज्-कृ-गम्-जन्-इत्येतेभ्यः धातुभ्यः परस्य लेः स्थाने लुक् भवति",
+     "kashika": "मन्त्रविषये घस ह्वर णश वृ दह आत् वृच् कृ गमि जनि इत्येतेभ्य उत्तरस्य लेर्लुग् भवति।",
+     "prathamavrtti": "मन्त्रविषये घस, ह्वर, णश, वृ, दह, आत्, वृज्, कृ, गमि, जनि इत्येतेभ्यो धातुभ्य उत्तरस्य लेः=च्लिप्रत्ययस्य लुग् भवति ॥"
+    },
+    {
+     "n": "6.4.134",
+     "word": "अत्",
+     "trigger": "अत्: अ with त् after it (तपर)",
+     "effect": "only the short अ, not its other lengths",
+     "sutra": "अल्लोपोऽनः",
+     "ourVrtti": "भसंज्ञकस्य अन्नन्तस्य स्थाने अकारलोपः भवति",
+     "kashika": "अनित्येवमन्तस्य भस्याकारलोपो भवति।",
+     "prathamavrtti": "अन इत्येवमन्तस्याङ्गस्य भस्य अकारलोपो भवति ॥"
+    },
+    {
+     "n": "7.1.39",
+     "word": "आत्",
+     "trigger": "आत्: आ with त् after it (तपर)",
+     "effect": "only the long आ, not its other lengths",
+     "sutra": "सुपां सुलुक्पूर्वसवर्णाऽऽच्छेयाडाड्यायाजालः",
+     "ourVrtti": "छन्दसि विषये सुपां स्थाने अङ्गस्य स्थाने सु-लुक्-पूर्वसवर्ण-आ-आत्-शे-या-डा-ड्या-याच्-आल् आदेशाः भवन्ति",
+     "kashika": "छन्दसि विषये सुपां स्थाने सु लुक्  पूर्वसवर्ण आ आत् शे या डा ड्या याच् आल् इत्येत आदेशा भवन्ति।",
+     "prathamavrtti": "छन्दसि विषये सुपां स्थाने सु, लुक्, पूर्वसवर्ण, आ, आत्, शे, या, डा, ड्या, याच्, आल् इत्येते आदेशा भवन्ति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G9",
+   "group": "own word, data case 6 | vidhi | X: … with … after it (…)",
+   "count": 3,
+   "sutras": [
+    "3.4.96 एतः  ⟨only the short ए⟩",
+    "4.1.177 अतः  ⟨only the short अ⟩",
+    "4.2.123 र-उपधा-इतोः  ⟨only the short इ⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.4.96",
+     "word": "एतः",
+     "trigger": "एतः: ए with त् after it (तपर)",
+     "effect": "only the short ए",
+     "sutra": "वैतोऽन्यत्र",
+     "ourVrtti": "आत ऐ इत्येतद्विषयं वर्जयित्वा अन्यत्र लेट्-सम्बन्धिनः एकारस्य स्थाने विकल्पेन ऐकारादेशः भवति",
+     "kashika": "लेट्संबन्धिन एकारस्य वैकारादेशो भवति।",
+     "prathamavrtti": "लेट्-सम्बन्धिन एकारस्य स्थाने वा ऐकारादेशो भवत्यन्यत्र, अर्थात् 'आत ऐ' इत्येतत्सूत्र-विषयं वर्जयित्वा ॥"
+    },
+    {
+     "n": "4.1.177",
+     "word": "अतः",
+     "trigger": "अतः: अ with त् after it (तपर)",
+     "effect": "only the short अ",
+     "sutra": "अतश्च",
+     "ourVrtti": "तद्राजस्य अकारप्रत्ययस्य स्थाने स्त्रियाम् अभिधेयायाम् लुक् भवति",
+     "kashika": "अकारप्रत्ययस्य तद्राजस्य स्त्रियामभिधेयायां लुग् भवति।",
+     "prathamavrtti": "जनपदशब्दात् क्षत्रियाद्विहितस्य तद्राजसंज्ञकस्याकारप्रत्ययस्य स्त्रियामभिधेयायां लुग्भवति॥"
+    },
+    {
+     "n": "4.2.123",
+     "word": "र-उपधा-इतोः",
+     "trigger": "र-उपधा-इतोः: इ with त् after it (तपर)",
+     "effect": "only the short इ",
+     "sutra": "रोपधेतोः प्राचाम्",
+     "ourVrtti": "रोपधात् ईकारान्ताच्च प्राग्देशवाचिनः वृद्धात् प्रातिपदिकात् समर्थात् शेषेषु अर्थेषु वुञ् प्रत्ययः परः च भवति",
+     "kashika": "रोपधादीकारान्तात् च प्राग्देशवाचिनो वृद्धाद् वुञ् प्रत्ययो भवति शैषिकः।",
+     "prathamavrtti": "रोपधात् ईकारान्ताच्च वृद्धसंज्ञकात् प्राग्देशवाचिनः प्रातिपदिकाच्छैषिको वुञ् प्रत्ययो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G10",
+   "group": "carried / not a sūtra word | ādeśa | X: … with … after it (…)",
+   "count": 3,
+   "sutras": [
+    "6.1.59 ऋत्  ⟨only the short ऋ, not its other lengths⟩",
+    "7.1.12 आत्  ⟨only the long आ, not its other lengths⟩",
+    "8.3.41 इत्  ⟨only the short इ, not its other lengths⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.59",
+     "word": "ऋत्",
+     "trigger": "ऋत्: ऋ with त् after it (तपर)",
+     "effect": "only the short ऋ, not its other lengths",
+     "sutra": "अनुदात्तस्य चर्दुपधस्यान्यतरस्याम्",
+     "ourVrtti": "उपदेशे झलादौ प्रत्यये परे अनुदात्तस्य कित्-भिन्ने ऋदुपधस्य धातोः विकल्पेन अम् आगमः भवति",
+     "kashika": "उपदेशेऽनुदात्तस्य धातोर्ऋकारोपधस्य झलादावकिति प्रत्यये परतोऽन्यतरस्याममागमो भवति।",
+     "prathamavrtti": "उपदेशेऽनुदात्तस्य ऋकारोपधस्य धातोर्झलादावकिति प्रत्यये परतो विकल्पेनामागमो भवति ॥"
+    },
+    {
+     "n": "7.1.12",
+     "word": "आत्",
+     "trigger": "आत्: आ with त् after it (तपर)",
+     "effect": "only the long आ, not its other lengths",
+     "sutra": "टाङसिङसामिनात्स्याः",
+     "ourVrtti": "अङ्गात् परस्य अदन्तात् टा ङसि ङस् इत्येतेषां स्थाने इन्-आत्-स्य आदेशाः यथासङ्ख्यम् भवति",
+     "kashika": "अकारान्तादङ्गादुत्तरेषां टाङसिङसाम् इन आत् स्य इत्येत आदेशा भवन्ति यथासंख्यम्।",
+     "prathamavrtti": "अदन्तादङ्गादुत्तरेषां टा, ङसि, ङस् इत्येतेषां स्थाने यथासङ्ख्यं इन्, आत्, स्य इत्येते आदेशा भवन्ति॥"
+    },
+    {
+     "n": "8.3.41",
+     "word": "इत्",
+     "trigger": "इत्: इ with त् after it (तपर)",
+     "effect": "only the short इ, not its other lengths",
+     "sutra": "इदुदुपधस्य चाप्रत्ययस्य",
+     "ourVrtti": "कुप्वोः परे इकारोपधस्य उकारोपधस्य अप्रत्ययस्य विसर्जनीयस्य स्थाने षकारादेशः भवति",
+     "kashika": "इकारोपधस्य उकारोपधस्य चाप्रत्ययस्य विसर्जनीयस्य षकार आदेशो भवति कुप्वोः परतः।",
+     "prathamavrtti": "इकारोपधस्य उकारोपधस्य चाप्रत्ययस्य विसर्जनीयस्य षकार आदेशो भवति, कुप्वोः परतः ॥"
+    }
+   ]
+  },
+  {
+   "id": "G11",
+   "group": "named by a commentator | ādeśa | X",
+   "count": 3,
+   "sutras": [
+    "6.1.131 named by महाभाष्यम्  ⟨a sound with त् after it denotes only its own length⟩",
+    "7.1.85 named by न्यासः  ⟨a sound with त् after it denotes only its own length⟩",
+    "7.2.84 named by महाभाष्यम्  ⟨a sound with त् after it denotes only its own length⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.131",
+     "word": "named by महाभाष्यम्",
+     "trigger": "named by महाभाष्यम्",
+     "effect": "a sound with त् after it denotes only its own length",
+     "sutra": "दिव उत्",
+     "ourVrtti": "पदस्य दिवः प्रातिपदिकस्य स्थाने उकारादेशः भवति",
+     "kashika": "दिवः पदस्योकारादेशो भवति।",
+     "prathamavrtti": "दिवः पदस्य उकारादेशो भवति ॥"
+    },
+    {
+     "n": "7.1.85",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a sound with त् after it denotes only its own length",
+     "sutra": "पथिमथ्यृभुक्षामात्",
+     "ourVrtti": "सौ परे अङ्गानाम् पथिमथ्यृभुक्षाम् स्थाने अङ्गस्य स्थाने आकारः आदेशः भवति",
+     "kashika": "पथिन् मथिन् ऋभुक्षिन् इत्येतेषामङ्गानां सौ परत आकार आदेशो भवति।",
+     "prathamavrtti": "पथिन्, मथिन्, ऋभुक्षिन् इत्येतेषामङ्गानां सौ परत आकारादेशो भवति॥"
+    },
+    {
+     "n": "7.2.84",
+     "word": "named by महाभाष्यम्",
+     "trigger": "named by महाभाष्यम्",
+     "effect": "a sound with त् after it denotes only its own length",
+     "sutra": "अष्टन आ विभक्तौ",
+     "ourVrtti": "विभक्तौ परे अष्टन्-शब्दस्य अङ्गस्य स्थाने आकारादेशः भवति",
+     "kashika": "विकल्पेनायमाकारो भवति, एतद् ज्ञापितम् <<अष्टनो दीर्घात्>> [[६.१.१७२]] इति दीर्घग्रहणाद्, <<अष्टाभ्य औश्>> [[७.१.२१]] इति च कृतात्वस्य निर्देशात्।",
+     "prathamavrtti": "अष्टनो विभक्तौ परत आकारादेशो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G12",
+   "group": "own word, data case 1 | operation | X: … with … after it (…)",
+   "count": 3,
+   "sutras": [
+    "6.3.28 इत्  ⟨only the short इ, not its other lengths⟩",
+    "6.3.112 ओत्  ⟨only the short ओ, not its other lengths⟩",
+    "6.4.119 एत्  ⟨only the short ए, not its other lengths⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.3.28",
+     "word": "इत्",
+     "trigger": "इत्: इ with त् after it (तपर)",
+     "effect": "only the short इ, not its other lengths",
+     "sutra": "इद्वृद्धौ",
+     "ourVrtti": "देवताद्वन्द्वे कृतवृद्धौ उत्तरपदे अग्नेः स्थाने इकारादेशः भवति",
+     "kashika": "कृतवृद्धावुत्तरपदे देवताद्वन्द्वेऽग्नेरिकारादेशो भवति।",
+     "prathamavrtti": "देवताद्वन्द्वे कृतवृद्धावुत्तरपदे ऽग्नेरिकारादेशो भवति ॥"
+    },
+    {
+     "n": "6.3.112",
+     "word": "ओत्",
+     "trigger": "ओत्: ओ with त् after it (तपर)",
+     "effect": "only the short ओ, not its other lengths",
+     "sutra": "सहिवहोरोदवर्णस्य",
+     "ourVrtti": "ढ्रलोपे सति सह्-वह्-धात्वोः अवर्णस्य स्थाने ओकारः आदेशः भवति",
+     "kashika": "सहि वहि इत्येतयोरवर्णस्यौकार आदेशो भवति ढ्रलोपे।",
+     "prathamavrtti": "ढ्रलोपे सह् वह् इत्येतयोरवर्णस्यौकार आदेशो भवति॥"
+    },
+    {
+     "n": "6.4.119",
+     "word": "एत्",
+     "trigger": "एत्: ए with त् after it (तपर)",
+     "effect": "only the short ए, not its other lengths",
+     "sutra": "घ्वसोरेद्धावभ्यासलोपश्च",
+     "ourVrtti": "हौ परे अङ्गानाम् क्ङिति घुसंज्ञकानाम् अस्तेः च अङ्गस्य स्थाने एकारादेशः अभ्यासलोपः भवति",
+     "kashika": "घुसंज्ञकानामङ्गानामस्तेश्च एकारादेशो भवति हौ परतोऽभ्यासलोपश्च।",
+     "prathamavrtti": "घुसंज्ञकानामङ्गानामस्तेश्च एकारादेशो भवति हौ क्ङिति परतोऽभ्यासलोपश्च।"
+    }
+   ]
+  },
+  {
+   "id": "G13",
+   "group": "carried / not a sūtra word | āgama | X: …",
+   "count": 3,
+   "sutras": [
+    "7.1.51 आत्  ⟨only the short आ⟩",
+    "7.1.52 आत्  ⟨only the short आ⟩",
+    "7.2.82 अतः  ⟨only the short अ⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.1.51",
+     "word": "आत्",
+     "trigger": "आत्: तपर",
+     "effect": "only the short आ",
+     "sutra": "अश्वक्षीरवृषलवणानामात्मप्रीतौ क्यचि",
+     "ourVrtti": "आत्मप्रीति-विषये क्यचि परे अङ्गानाम् अश्व-क्षीर-वृष-लवण-शब्दानाम् अङ्गस्य असुक् आगमः भवति",
+     "kashika": "अश्व क्षीर वृष लवण इत्येतेषामङ्गानामात्मप्रीतिविषये क्यचि परतोऽसुगागमो भवति।",
+     "prathamavrtti": "अश्व, क्षीर, वृष, लवण इत्येतेषामङ्गानामात्मप्रीतिविषये क्यचि परतोऽसुक् आगमो भवति ॥"
+    },
+    {
+     "n": "7.1.52",
+     "word": "आत्",
+     "trigger": "आत्: तपर",
+     "effect": "only the short आ",
+     "sutra": "आमि सर्वनाम्नः सुट्",
+     "ourVrtti": "सर्वनाम्नः उत्तरस्य अवर्णान्तात् आमः अङ्गस्य सुट् आगमः भवति",
+     "kashika": "अवर्णात् सर्वनाम्न उत्तरस्यामः सुडागमो भवति।",
+     "prathamavrtti": "अवर्णान्तात् सर्वनाम्न उत्तरस्यामः सुट् आगमो भवति ॥"
+    },
+    {
+     "n": "7.2.82",
+     "word": "अतः",
+     "trigger": "अतः: तपर",
+     "effect": "only the short अ",
+     "sutra": "आने मुक्",
+     "ourVrtti": "आने परे अङ्गस्य अकारान्तस्य मुक् आगमः भवति",
+     "kashika": "आने परतोऽङ्गस्यातो मुमागमो भवति।",
+     "prathamavrtti": "आने परतोऽङ्गस्यातो मुक् आगमो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G14",
+   "group": "carried / not a sūtra word | vidhi | X: the sound has … after it (…)",
+   "count": 2,
+   "sutras": [
+    "3.1.98 अत्  ⟨अ of that length only⟩",
+    "3.1.110 ऋत्  ⟨ऋ of that length only⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.98",
+     "word": "अत्",
+     "trigger": "अत्: the sound has त् after it (तपर)",
+     "effect": "अ of that length only",
+     "sutra": "पोरदुपधात्",
+     "ourVrtti": "पवर्गान्तात् अदुपधात् धातोः यत् प्रत्ययः परः च भवति",
+     "kashika": "पवर्गान्ताद् धातोरकारोपधाद् यत् प्रत्ययो भवति।",
+     "prathamavrtti": "अदुपधात् पवर्गान्ताद्धातोर्यत् प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "3.1.110",
+     "word": "ऋत्",
+     "trigger": "ऋत्: the sound has त् after it (तपर)",
+     "effect": "ऋ of that length only",
+     "sutra": "ऋदुपधाच्चाकॢपिचृतेः",
+     "ourVrtti": "ऋकारोपधात् कॢपिचृती वर्जयित्वा धातोः क्यप् प्रत्ययः परः च भवति",
+     "kashika": "ऋकारोपधाच्च धातोः क्यप् प्रत्ययो भवति क्ऌपिचृती वर्जयित्वा।",
+     "prathamavrtti": "ऋकारोपधाद्धातोः क्यप् प्रत्ययो भवति, कॢपिचृती वर्जयित्वा॥"
+    }
+   ]
+  },
+  {
+   "id": "G15",
+   "group": "named by a commentator | vidhi | X",
+   "count": 2,
+   "sutras": [
+    "3.2.171 named by न्यासः  ⟨a sound with त् after it denotes only its own length⟩",
+    "3.3.57 named by न्यासः  ⟨a sound with त् after it denotes only its own length⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.2.171",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a sound with त् after it denotes only its own length",
+     "sutra": "आदृगमहनजनः किकिनौ लिट् च",
+     "ourVrtti": "छन्दसि विषये आकारान्तेभ्यः ऋकारान्तेभ्यो गम-हन-जन-धातुभ्यः तच्छीलादिषु कर्तृषु किकिनौ प्रत्ययौ लिड्वत् परौ च भवतः",
+     "kashika": "आकारान्तेभ्य ऋवर्णान्तेभ्यो गम हन जन इत्येतेभ्यश्च छन्दसि विषये तच्छीलादिषु किकिनौ प्रत्ययौ भवतः।",
+     "prathamavrtti": "छन्दसि विषये आत् = आकारान्तेभ्यः, ऋ = ऋकारान्तेभ्यः, गम, हन, जन इत्येतेभ्यश्च धातुभ्यः तच्छीलादिषु कर्त्तृषु वर्त्तमाने काले किकिनौ प्रत्ययौ भवतः, लिड्वत् च तौ प्रत्ययौ भवतः ॥"
+    },
+    {
+     "n": "3.3.57",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a sound with त् after it denotes only its own length",
+     "sutra": "ॠदोरप्",
+     "ourVrtti": "संज्ञायाम् ऋकारान्तेभ्यः उवर्णान्तेभ्यश्च धातुभ्यः भावे कर्तृवर्जिते कारके अप् प्रत्ययः परः च भवति",
+     "kashika": "ॠकारान्तेभ्य उवर्णान्तेभ्यश्च अप् प्रत्ययो भवति।",
+     "prathamavrtti": "ऋकारान्तेभ्यः उवर्णान्तेभ्यश्च धातुभ्यः कर्त्तृवर्जिते कारके संज्ञायां विषये भावे चाप् प्रत्ययो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G16",
+   "group": "own word, data case 1 | vidhi | X: … with … after it (…)",
+   "count": 2,
+   "sutras": [
+    "4.2.25 इत्  ⟨only the short इ, not its other lengths⟩",
+    "5.3.12 अत्  ⟨only the short अ, not its other lengths⟩"
+   ],
+   "samples": [
+    {
+     "n": "4.2.25",
+     "word": "इत्",
+     "trigger": "इत्: इ with त् after it (तपर)",
+     "effect": "only the short इ, not its other lengths",
+     "sutra": "कस्येत्",
+     "ourVrtti": "देवतावाचिनः प्रथमासमर्थात् षष्ठ्यर्थे अण् प्रत्ययः परः च भवति, क-शब्दस्य स्थाने इकारादेशः च भवति",
+     "kashika": "कस्येकारादेशो भवति प्रत्ययसन्नियोगेन।",
+     "prathamavrtti": "कशब्दः प्रजापतेर्वाचकः। प्रथमासमर्थाद्देवतावाचिनो कशब्दात् षष्ठ्यर्थेऽण् प्रत्ययो भवति, तत्सन्नियोगेन चेकारादेशो भवति ॥"
+    },
+    {
+     "n": "5.3.12",
+     "word": "अत्",
+     "trigger": "अत्: अ with त् after it (तपर)",
+     "effect": "only the short अ, not its other lengths",
+     "sutra": "किमोऽत्",
+     "ourVrtti": "किमः सप्तम्यन्तात् अत् प्रत्ययः परः च भवति",
+     "kashika": "किमः सप्तम्यन्तादत् प्रत्ययो भवति।",
+     "prathamavrtti": "सप्तम्यन्तात् किमोऽत् प्रत्ययो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G17",
+   "group": "own word, data case 5 | ekādeśa | X: … with … after it (…)",
+   "count": 2,
+   "sutras": [
+    "6.1.87 आत्  ⟨only the long आ, not its other lengths⟩",
+    "6.1.104 आत्  ⟨only the long आ, not its other lengths⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.87",
+     "word": "आत्",
+     "trigger": "आत्: आ with त् after it (तपर)",
+     "effect": "only the long आ, not its other lengths",
+     "sutra": "आद्गुणः",
+     "ourVrtti": "संहितायां विषये अचि परे अवर्णात् एकः पूर्वपरयोः स्थाने गुणः आदेशः भवति",
+     "kashika": "अवर्णात् परो योऽच् अचि च पूर्वो योऽवर्णः, तयोः पूर्वपरयोरवर्णाचोः स्थान एको गुण आदेशो भवति।",
+     "prathamavrtti": "अचि पूर्वो योऽवर्णः, अवर्णाच्च परो योऽच्, तयोः द्वयोः पूर्वपरयोः स्थान एको गुणादेशो भवति संहितायां विषये ॥"
+    },
+    {
+     "n": "6.1.104",
+     "word": "आत्",
+     "trigger": "आत्: आ with त् after it (तपर)",
+     "effect": "only the long आ, not its other lengths",
+     "sutra": "नादिचि",
+     "ourVrtti": "इचि आत् दीर्घः पूर्वपरयोः पूर्वसवर्णः आदेशः न भवति",
+     "kashika": "अवर्णादिचि पूर्वसवर्णदीर्घो न भवति।",
+     "prathamavrtti": "अवर्णादुत्तरस्य इचि परतः पूर्वपरयोः स्थाने पूर्वसवर्णदीर्घो न भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G18",
+   "group": "own word, data case 5 | operation | X: … with … after it (…)",
+   "count": 2,
+   "sutras": [
+    "6.4.41 आत्  ⟨only the long आ, not its other lengths⟩",
+    "7.3.1 आत्  ⟨only the long आ, not its other lengths⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.41",
+     "word": "आत्",
+     "trigger": "आत्: आ with त् after it (तपर)",
+     "effect": "only the long आ, not its other lengths",
+     "sutra": "विड्वनोरनुनासिकस्यात्",
+     "ourVrtti": "विटि वनि च प्रत्यये परे अनुनासिकान्तस्य अङ्गस्य स्थाने आकारः आदेशः भवति",
+     "kashika": "विटि वनि च प्रत्यये परतोऽनुनासिकान्तस्याङ्गस्याकार आदेशो भवति।",
+     "prathamavrtti": "अनुनासिकान्तस्याङ्गस्य विटि वनि च प्रत्यये परत आकारादेशो भवति ॥"
+    },
+    {
+     "n": "7.3.1",
+     "word": "आत्",
+     "trigger": "आत्: आ with त् after it (तपर)",
+     "effect": "only the long आ, not its other lengths",
+     "sutra": "देविकाशिंशपादित्यवाड्दीर्घसत्रश्रेयसामात्",
+     "ourVrtti": "तद्धिते ञिति णिति किति अचाम् आदेः देविका-शिंशपा-दित्यवाट्-दीर्घसत्र-श्रेयसाम् अङ्गानाम् अङ्गस्य अचः स्थाने आकारः आदेशः भवति",
+     "kashika": "देविका शिंशपा दित्यवाट् दीर्घसत्र श्रेयस् इत्येतेषामङ्गानामचामादेरचः स्थाने वृद्धिप्रसङ्ग आकारो भवति ञिति णिति किति  तद्धिते परतः।",
+     "prathamavrtti": "देविका, शिंशपा, दित्यवाट्, दीर्घसत्र, श्रेयस् इत्येते- मचामादेरचः स्थाने ञिति णिति किति तद्धिते परतो वृद्धि- कारो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G19",
+   "group": "own word, data case 5 | āgama | X: … with … after it (…)",
+   "count": 2,
+   "sutras": [
+    "7.1.50 आत्  ⟨only the long आ, not its other lengths⟩",
+    "7.1.80 आत्  ⟨only the long आ, not its other lengths⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.1.50",
+     "word": "आत्",
+     "trigger": "आत्: आ with त् after it (तपर)",
+     "effect": "only the long आ, not its other lengths",
+     "sutra": "आज्जसेरसुक्",
+     "ourVrtti": "छन्दसि विषये अङ्गात् उत्तरस्य अवर्णान्तात् जसेः असुक् आगमः भवति",
+     "kashika": "अवर्णान्तादङ्गादुत्तरस्य जसेरसुगागमो भवति छन्दसि विषये।",
+     "prathamavrtti": "अवर्णान्तादङ्गादुत्तरस्य जसेरसुक् आगमो भवति छन्दसि विषये ॥"
+    },
+    {
+     "n": "7.1.80",
+     "word": "आत्",
+     "trigger": "आत्: आ with त् after it (तपर)",
+     "effect": "only the long आ, not its other lengths",
+     "sutra": "आच्छीनद्योर्नुम्",
+     "ourVrtti": "शीनद्योः परे अवर्णान्तात् अङ्गात् परस्य अङ्गात् शतुः विकल्पेन नुम् आगमः भवति",
+     "kashika": "अवर्णान्तादङ्गादुत्तरस्य शतुर्वा नुमागमो भवति शीनद्योः परतः।",
+     "prathamavrtti": "अवर्णान्तादङ्गादुत्तरस्य शतुर्वा नुमागमो भवति शीनद्योः परतः॥"
+    }
+   ]
+  },
+  {
+   "id": "G20",
+   "group": "own word, data case 1 | saṃjñā | X: … with … after it (…)",
+   "count": 1,
+   "sutras": [
+    "1.1.15 ओत्  ⟨only the short ओ, not its other lengths⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.1.15",
+     "word": "ओत्",
+     "trigger": "ओत्: ओ with त् after it (तपर)",
+     "effect": "only the short ओ, not its other lengths",
+     "sutra": "ओत्",
+     "ourVrtti": "ओदन्तः निपातः 'प्रगृह्यम्' इति संज्ञा भवति",
+     "kashika": "ओदन्तो यो निपातः स प्रगृह्यसंज्ञो भवति ।",
+     "prathamavrtti": "ओदन्तो निपातः प्रगृह्यसंज्ञको भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G21",
+   "group": "own word, data case 1 | atideśa | X: … with … after it (…)",
+   "count": 1,
+   "sutras": [
+    "1.2.17 इत्  ⟨only the short इ, not its other lengths⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.2.17",
+     "word": "इत्",
+     "trigger": "इत्: इ with त् after it (तपर)",
+     "effect": "only the short इ, not its other lengths",
+     "sutra": "स्था घ्वोरिच्च",
+     "ourVrtti": "आत्मनेपदेषु परे सिच्-प्रत्ययः किद्वत् परः च भवति, स्थाधातोः घुसंज्ञकानां च स्थाने इकारादेशः च भवति",
+     "kashika": "तिष्ठतेर्धातोर्घुसंज्ञकानां च इकारश्चान्तादेशः सिच्च किद् भवत्यात्मनेपदेषु परतः।",
+     "prathamavrtti": "स्थाधातोः घुसंज्ञकेभ्यश्च परः सिच् किद्वद् भवति, इकारश्चान्त्यादेशः॥"
+    }
+   ]
+  },
+  {
+   "id": "G22",
+   "group": "named by a commentator | samāsa | X (English)",
+   "count": 1,
+   "sutras": [
+    "2.2.33 named by Vasu  ⟨a sound with त् after it denotes only its own length⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.2.33",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "a sound with त् after it denotes only its own length",
+     "sutra": "अजाद्यदन्तम्",
+     "ourVrtti": "द्वन्द्वे समासे अजाद्यदन्तं शब्दरूपम् पूर्वम् भवति",
+     "kashika": "अजाद्यदन्तं शब्दरूपं द्वन्द्वे समासे पूर्वं प्रयोक्तव्यम्।",
+     "prathamavrtti": "द्वन्द्वसमासे अजाद्यदन्तं शब्दरूपं पूर्वं प्रयोक्त-व्यम् ॥"
+    }
+   ]
+  },
+  {
+   "id": "G23",
+   "group": "carried / not a sūtra word | samāsa | X: … with … after it (…)",
+   "count": 1,
+   "sutras": [
+    "2.2.33 अत्  ⟨only the short अ, not its other lengths⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.2.33",
+     "word": "अत्",
+     "trigger": "अत्: अ with त् after it (तपर)",
+     "effect": "only the short अ, not its other lengths",
+     "sutra": "अजाद्यदन्तम्",
+     "ourVrtti": "द्वन्द्वे समासे अजाद्यदन्तं शब्दरूपम् पूर्वम् भवति",
+     "kashika": "अजाद्यदन्तं शब्दरूपं द्वन्द्वे समासे पूर्वं प्रयोक्तव्यम्।",
+     "prathamavrtti": "द्वन्द्वसमासे अजाद्यदन्तं शब्दरूपं पूर्वं प्रयोक्त-व्यम् ॥"
+    }
+   ]
+  },
+  {
+   "id": "G24",
+   "group": "named by a commentator | vidhi | X (English)",
+   "count": 1,
+   "sutras": [
+    "4.3.151 named by Vasu  ⟨a sound with त् after it denotes only its own length⟩"
+   ],
+   "samples": [
+    {
+     "n": "4.3.151",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "a sound with त् after it denotes only its own length",
+     "sutra": "नोत्वद्वर्ध्रबिल्वात्",
+     "ourVrtti": "उत्वतः वर्ध्रबिल्वाभ्यां च प्रातिपदिकात् षष्ठीसमर्थात् विकारे अवयवे च मयट् प्रत्ययः न भवति",
+     "kashika": "उत्वतः प्रातिपदिकाद् वर्ध्रबिल्वशब्दाभ्यां च मयट् प्रत्ययो न भवति।",
+     "prathamavrtti": "षष्ठीसमर्थाद् द्व्यच उकारवतः प्रातिपदिकाद् वद्द्रबिल्वशब्दाभ्यां च विकारावयवयोर्थयोः मयट् प्रत्ययो न भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G25",
+   "group": "named by a commentator | svara | X",
+   "count": 1,
+   "sutras": [
+    "6.1.185 named by पदमञ्जरी  ⟨a sound with त् after it denotes only its own length⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.185",
+     "word": "named by पदमञ्जरी",
+     "trigger": "named by पदमञ्जरी",
+     "effect": "a sound with त् after it denotes only its own length",
+     "sutra": "तित्स्वरितम्",
+     "ourVrtti": "तित् स्वरितम् भवति",
+     "kashika": "तित् स्वरितं भवति।",
+     "prathamavrtti": "तित्स्वरितं भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G26",
+   "group": "own word, data case 1 | svara | X: … with … after it (…)",
+   "count": 1,
+   "sutras": [
+    "6.1.219 आत्  ⟨only the long आ, not its other lengths⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.219",
+     "word": "आत्",
+     "trigger": "आत्: आ with त् after it (तपर)",
+     "effect": "only the long आ, not its other lengths",
+     "sutra": "मतोः पूर्वमात् संज्ञायां स्त्रियाम्",
+     "ourVrtti": "संज्ञायाम् स्त्रियाम् मतोः पूर्वः आकारः उदात्तः भवति",
+     "kashika": "मतोः पूर्व आकार उदात्तो भवति, तत् चेद् मत्वन्तं स्त्रीलिङ्गे संज्ञा भवति।",
+     "prathamavrtti": "मतोः पूर्वो य आकार स उदात्तो भवति, तच्चेत् मत्वन्तं शब्दरूपं स्त्रीलिङ्गे संज्ञा स्यात् ॥"
+    }
+   ]
+  },
+  {
+   "id": "G27",
+   "group": "own word, data case 1 | nipātana | X: … with … after it (…)",
+   "count": 1,
+   "sutras": [
+    "6.3.98 ऊत्  ⟨only the long ऊ, not its other lengths⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.3.98",
+     "word": "ऊत्",
+     "trigger": "ऊत्: ऊ with त् after it (तपर)",
+     "effect": "only the long ऊ, not its other lengths",
+     "sutra": "ऊदनोर्देशे",
+     "ourVrtti": "अनोः परस्य अप् इत्येतस्य स्थाने देशे वाच्ये ऊकारादेशः भवति",
+     "kashika": "अनोरुत्तरस्याप ऊकारादेशो भवति देशाभिधाने।",
+     "prathamavrtti": "अनोः उत्तरस्य अप् इत्येतस्य ऊकारादेशो भवति देशे वाच्ये ॥"
+    }
+   ]
+  },
+  {
+   "id": "G28",
+   "group": "named by a commentator | atideśa | X",
+   "count": 1,
+   "sutras": [
+    "7.1.90 named by न्यासः  ⟨a sound with त् after it denotes only its own length⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.1.90",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a sound with त् after it denotes only its own length",
+     "sutra": "गोतो णित्",
+     "ourVrtti": "गोशब्दात् परम् सर्वनामस्थानम् णिद्वत् भवति",
+     "kashika": "गोशब्दात् परं सर्वनामस्थानं णिद् भवति।",
+     "prathamavrtti": "गोशब्द सर्वनामस्थानं णित् भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G29",
+   "group": "own word, data case 6 | āgama | X: …",
+   "count": 1,
+   "sutras": [
+    "7.3.33 आतः  ⟨only the short आ⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.3.33",
+     "word": "आतः",
+     "trigger": "आतः: तपर",
+     "effect": "only the short आ",
+     "sutra": "आतो युक् चिण्कृतोः",
+     "ourVrtti": "चिणि कृति च ञिति णिति च प्रत्यये परे आकारान्तस्य अङ्गस्य युक् आगमः भवति",
+     "kashika": "आकारान्तस्याङ्गस्य चिणि कृति ञ्णिति युगागमो भवति।",
+     "prathamavrtti": "आकारान्तस्याङ्गस्य चिणि कृति ञ्णिति च प्रत्यये परतो युक् आगमो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G30",
+   "group": "carried / not a sūtra word | ṇatva | X: … with … after it (…)",
+   "count": 1,
+   "sutras": [
+    "8.4.26 ऋत्  ⟨only the short ऋ, not its other lengths⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.4.26",
+     "word": "ऋत्",
+     "trigger": "ऋत्: ऋ with त् after it (तपर)",
+     "effect": "only the short ऋ, not its other lengths",
+     "sutra": "छन्दस्यृदवग्रहात्",
+     "ourVrtti": "छन्दसि विषये ऋकारान्तात् अवग्रहात् पूर्वपदात् नकारस्य स्थाने णकारादेशः भवति",
+     "kashika": "ऋकारान्तादवग्रहात् पूर्वपदादुत्तरस्य  णकारादेशो भवति ।",
+     "prathamavrtti": "छन्दसि विषये ऋकारान्तादवग्रहात् पूर्वपदादुत्तरस्य णकारादेशो भवति॥"
+    }
+   ]
+  }
+ ]
+}

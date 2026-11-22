@@ -1,0 +1,3360 @@
+{
+ "pid": "PIS 23",
+ "howGrouped": "case of the triggering word (own sūtra words only) | rule kind | start of the engine trigger text; member = \"<sūtra> <word>  ⟨engine effect⟩\"",
+ "applies": 562,
+ "consideredNotApplicable": 9,
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | samāsa | X: a suffix (or case ending) named",
+   "count": 102,
+   "sutras": [
+    "2.1.6 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.7 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.8 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.9 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.10 सुबन्ताः  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.11 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.12 सुबन्ताः  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.13 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.14 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.15 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.16 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.17 सुबन्ताः  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.18 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.19 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.20 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.21 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.24 द्वितीयान्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.25 द्वितीयान्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.26 द्वितीयान्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.27 द्वितीयान्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.28 द्वितीयान्ताः  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.29 द्वितीयान्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.30 तृतीयान्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.31 तृतीयान्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.32 तृतीयान्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.33 तृतीयान्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.34 तृतीयान्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.35 तृतीयान्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.36 चतुर्थ्यन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.37 पञ्चम्यन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.38 पञ्चम्यन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.39 पञ्चम्यन्ताः  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.40 सप्तम्यन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.41 सप्तम्यन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.42 सप्तम्यन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.43 सप्तम्यन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.44 सप्तम्यन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.45 सप्तम्यन्ताः  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.46 सप्तम्यन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.47 सप्तम्यन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.48 सप्तम्यन्ताः  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.49 सुबन्ताः  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.50 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.51 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.52 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.53 सुबन्ताः  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.54 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.55 सुबन्ताः  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.56 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.57 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.58 सुबन्ताः  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.59 सुबन्ताः  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.60 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.61 सुबन्ताः  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.62 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.63 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.64 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.65 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.66 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.67 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.68 सुबन्ताः  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.69 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.70 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.71 सुबन्ताः  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.1.72 सुबन्ताः  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.1 सुबन्ताः  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.2 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.3 सुबन्ताः  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.4 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.5 सुबन्ताः  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.6 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.7 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.8 षष्ठ्यन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.9 षष्ठ्यन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.10 षष्ठ्यन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.11 षष्ठ्यन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.12 षष्ठ्यन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.13 षष्ठ्यन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.14 षष्ठ्यन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.15 षष्ठ्यन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.16 षष्ठ्यन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.17 षष्ठ्यन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.18 सुबन्ताः  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.19 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.20 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.21 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.22 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.24 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.25 सुबन्ताः  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.26 सुबन्ताः  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.27 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.28 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.30 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.32 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.33 सुबन्ताः  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.34 सुबन्ताः  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.35 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.36 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.37 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.2.38 सुबन्ताः  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.4.18 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩",
+    "2.4.19 सुबन्तम्  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.1.6",
+     "word": "सुबन्तम्",
+     "trigger": "सुबन्तम्: a suffix (or case ending) named",
+     "effect": "what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … तदन्तस्य ग्रहणम्)",
+     "sutra": "अव्ययं विभक्तिसमीपसमृद्धिव्यृद्ध्यर्थाभावात्ययासम्प्रतिशब्दप्रादुर्भावपश्चाद्यथानुपूर्व्ययौगपद्यसादृश्यसम्पत्तिसाकल्यान्तवचनेषु",
+     "ourVrtti": "अव्ययम् समर्थेन सुबन्तेन सह विभक्त्यादिष्वर्थेषु 'समासः' इति संज्ञा 'अव्ययीभावः' इति संज्ञा भवति",
+     "kashika": "विभक्त्यादिष्वर्थेषु यदव्ययं वर्तते, तत् समर्थन सुबन्तेन सह समस्यते, अव्ययीभावश्च समासो भवति।",
+     "prathamavrtti": "विभक्ति, समीप, समृद्धि (ऋद्धेराधिक्यम्), व्यृद्धि (ऋद्धेरभावः), अर्थाभाव (वस्तुनोऽभावः), अत्यय (भूतत्वमतिक्रमः), असम्प्रति, शब्दप्रादुर्भाव (प्रकाशता शब्दस्य) पश्चात्, यथार्थ, आनुपूर्व्य, यौगपद्य, सादृश्य, सम्पत्ति, साकल्य, अन्तवचन इत्येतेष्वर्थेषु य"
+    },
+    {
+     "n": "2.1.42",
+     "word": "सप्तम्यन्तम्",
+     "trigger": "सप्तम्यन्तम्: a suffix (or case ending) named",
+     "effect": "what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … तदन्तस्य ग्रहणम्)",
+     "sutra": "ध्वाङ्क्षेण क्षेपे",
+     "ourVrtti": "ध्वाङ्क्षवाचिना सुबन्तेन सह सप्तम्यन्तं सुबन्तम् क्षेपे गम्यमाने विभाषा 'समासः' इति संज्ञा 'तत्पुरुषः' इति संज्ञा भवति",
+     "kashika": "ध्वाङ्क्षवाचिना सुबन्तेन सह सप्तम्यन्तं सुबन्तं समस्यते, तत्पुरुषश्च समासो भवति, क्षेपे गम्यमाने।",
+     "prathamavrtti": "सप्तम्यन्तं सुबन्तं ध्वाङ्क्षवाचिना समर्थेन सुबन्तेन सह क्षेपे गम्यमाने विभाषा समस्यते, तत्पुरुषश्च समासो भवति ॥"
+    },
+    {
+     "n": "2.2.4",
+     "word": "सुबन्तम्",
+     "trigger": "सुबन्तम्: a suffix (or case ending) named",
+     "effect": "what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … तदन्तस्य ग्रहणम्)",
+     "sutra": "प्राप्तापन्ने च द्वितीयया",
+     "ourVrtti": "प्राप्त-आपन्नौ सुबन्तौ द्वितीयान्तेन सुबन्तेन सह विकल्पेन 'तत्पुरुषः' इति संज्ञा 'समासः' इति संज्ञा भवति",
+     "kashika": "समासविधानात् सोऽपि भवति।",
+     "prathamavrtti": "प्राप्त आपन्न इत्येतौ सुबन्तौ द्वितीयान्तेन सुबन्तेन सह विभाषा समस्येते, तत्पुरुषश्च समासो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "group": "carried / not a sūtra word | nipātana | X (carried): the suffix the forms are ma",
+   "count": 57,
+   "sutras": [
+    "3.1.23 यङ्  ⟨यङ्प्रत्ययान्तः — forms ENDING in it⟩",
+    "3.1.101 यत्  ⟨यत्प्रत्ययान्ताः — forms ENDING in it⟩",
+    "3.1.102 यत्  ⟨यत्प्रत्ययान्तः — forms ENDING in it⟩",
+    "3.1.103 यत्  ⟨यत्प्रत्ययान्तः — forms ENDING in it⟩",
+    "3.1.104 यत्  ⟨यत्प्रत्ययान्तः — forms ENDING in it⟩",
+    "3.1.105 यत्  ⟨यत्प्रत्ययान्तः — forms ENDING in it⟩",
+    "3.1.114 क्यप्  ⟨क्यप्प्रत्ययान्ताः — forms ENDING in it⟩",
+    "3.1.115 क्यप्  ⟨क्यप्प्रत्ययान्तौ — forms ENDING in it⟩",
+    "3.1.116 क्यप्  ⟨क्यप्प्रत्ययान्तौ — forms ENDING in it⟩",
+    "3.1.117 क्यप्  ⟨क्यप्प्रत्ययान्ताः — forms ENDING in it⟩",
+    "3.1.121 क्यप्  ⟨क्यप्प्रत्ययान्तः — forms ENDING in it⟩",
+    "3.1.127 ण्यत्  ⟨ण्यत्प्रत्ययान्तः — forms ENDING in it⟩",
+    "3.1.128 ण्यत्  ⟨ण्यत्प्रत्ययान्तः — forms ENDING in it⟩",
+    "3.1.129 ण्यत्  ⟨ण्यत्प्रत्ययान्ताः — forms ENDING in it⟩",
+    "3.1.130 ण्यत्  ⟨ण्यत्प्रत्ययान्तौ — forms ENDING in it⟩",
+    "3.1.131 ण्यत्  ⟨ण्यत्प्रत्ययान्ताः — forms ENDING in it⟩",
+    "3.2.26 इन्  ⟨इन्प्रत्ययान्तः — forms ENDING in it⟩",
+    "3.2.37 खश्  ⟨खश्प्रत्ययान्ताः — forms ENDING in it⟩",
+    "3.2.109 क्वसु  ⟨क्वसुप्रत्ययान्तः — forms ENDING in it⟩",
+    "3.2.164 क्वरप्  ⟨क्वरप्प्रत्ययान्तः — forms ENDING in it⟩",
+    "3.2.169 उ  ⟨उप्रत्ययान्तः — forms ENDING in it⟩",
+    "3.3.68 अप्  ⟨अप्प्रत्ययान्तौ — forms ENDING in it⟩",
+    "3.3.70 अप्  ⟨अप्प्रत्ययान्तः — forms ENDING in it⟩",
+    "3.3.78 अप्  ⟨अप्प्रत्ययान्तः — forms ENDING in it⟩",
+    "3.3.79 अप्  ⟨अप्प्रत्ययान्तः — forms ENDING in it⟩",
+    "3.3.80 अप्  ⟨अप्प्रत्ययान्तः — forms ENDING in it⟩",
+    "3.3.81 अप्  ⟨अप्प्रत्ययान्तः — forms ENDING in it⟩",
+    "3.3.85 अप्  ⟨अप्प्रत्ययान्तः — forms ENDING in it⟩",
+    "3.3.86 अप्  ⟨अप्प्रत्ययान्तौ — forms ENDING in it⟩",
+    "3.3.122 घञ्  ⟨घञ्प्रत्ययान्ताः — forms ENDING in it⟩",
+    "3.3.123 घञ्  ⟨घञ्प्रत्ययान्तः — forms ENDING in it⟩",
+    "3.3.124 घञ्  ⟨घञ्प्रत्ययान्तः — forms ENDING in it⟩",
+    "3.4.46 णमुल्  ⟨णमुल्प्रत्ययान्तः — forms ENDING in it⟩",
+    "4.1.46 ङीष्  ⟨ङीष्प्रत्ययान्तः — forms ENDING in it⟩",
+    "4.1.62 ङीष्  ⟨ङीष्प्रत्ययान्तः — forms ENDING in it⟩",
+    "5.2.14 ख  ⟨खप्रत्ययान्तः — forms ENDING in it⟩",
+    "5.2.20 खञ्  ⟨खञ्प्रत्ययान्तौ — forms ENDING in it⟩",
+    "5.2.22 खञ्  ⟨खञ्प्रत्ययान्तः — forms ENDING in it⟩",
+    "5.2.23 खञ्  ⟨खञ्प्रत्ययान्तः — forms ENDING in it⟩",
+    "5.2.71 कन्  ⟨कन्प्रत्ययान्तौ — forms ENDING in it⟩",
+    "5.2.73 कन्  ⟨कन्प्रत्ययान्तः — forms ENDING in it⟩",
+    "5.2.74 कन्  ⟨कन्प्रत्ययान्ताः — forms ENDING in it⟩",
+    "5.2.80 कन्  ⟨कन्प्रत्ययान्तः — forms ENDING in it⟩",
+    "5.2.89 इनि  ⟨इनिप्रत्ययान्तौ — forms ENDING in it⟩",
+    "5.2.90 इनि  ⟨इनिप्रत्ययान्तः — forms ENDING in it⟩",
+    "5.2.105 अण्  ⟨अण्प्रत्ययान्तः — forms ENDING in it⟩",
+    "5.2.114 मतुप्  ⟨मतुप्प्रत्ययान्ताः — forms ENDING in it⟩",
+    "5.2.126 मतुप्  ⟨मतुप्प्रत्ययान्तः — forms ENDING in it⟩",
+    "5.4.77 अच्  ⟨अच्प्रत्ययान्ताः — forms ENDING in it⟩",
+    "5.4.83 अच्  ⟨अच्प्रत्ययान्तः — forms ENDING in it⟩",
+    "5.4.84 अच्  ⟨अच्प्रत्ययान्तः — forms ENDING in it⟩",
+    "5.4.120 अच्  ⟨अच्प्रत्ययान्तः — forms ENDING in it⟩",
+    "5.4.123 असिच्  ⟨असिच्प्रत्ययान्तः — forms ENDING in it⟩",
+    "5.4.126 अनिच्  ⟨अनिच्प्रत्ययान्तः — forms ENDING in it⟩",
+    "5.4.160 कप्  ⟨कप्प्रत्ययान्तः — forms ENDING in it⟩",
+    "7.1.48 क्त्वा  ⟨क्त्वाप्रत्ययान्तः — forms ENDING in it⟩",
+    "8.2.13 मतुप्  ⟨मतुप्प्रत्ययान्तः — forms ENDING in it⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.23",
+     "word": "यङ्",
+     "trigger": "यङ् (carried over): the suffix the forms are made with",
+     "effect": "यङ्प्रत्ययान्तः — forms ENDING in it",
+     "sutra": "नित्यं कौटिल्ये गतौ",
+     "ourVrtti": "गत्यर्थात् धातोः कौटिल्ये गम्यमाने नित्यम् यङ् प्रत्ययः परः च भवति",
+     "kashika": "गतिवचनाद् धातोःकौटिल्ये गम्यमाने नित्यं यङ्  प्रत्ययो भवति।",
+     "prathamavrtti": "गत्यर्थेभ्यो धातुभ्यो नित्यं कौटिल्ये गम्यमाने यङ् प्रत्ययो भवति, न तु समभिहारे ॥"
+    },
+    {
+     "n": "3.2.164",
+     "word": "क्वरप्",
+     "trigger": "क्वरप् (carried over): the suffix the forms are made with",
+     "effect": "क्वरप्प्रत्ययान्तः — forms ENDING in it",
+     "sutra": "गत्वरश्च",
+     "ourVrtti": "गत्वरः इति निपात्यते गम्-धातोः तच्छीलादिषु अर्थेषु वर्तमाने काले क्वरप् प्रत्ययः",
+     "kashika": "गत्वर इति निपात्यते।",
+     "prathamavrtti": "गत्त्वर इति निपात्यते । गमधातोः क्वरप् प्रत्ययः अनुनासिकलोपश्च निपात्यते तच्छीलादिष्वर्थेषु वर्त्तमाने काले ॥"
+    },
+    {
+     "n": "5.2.23",
+     "word": "खञ्",
+     "trigger": "खञ् (carried over): the suffix the forms are made with",
+     "effect": "खञ्प्रत्ययान्तः — forms ENDING in it",
+     "sutra": "हैयंगवीनं संज्ञायाम्",
+     "ourVrtti": "हियङ्गु-आदेशः ह्योगोदोहशब्दस्य स्थाने खञ्-प्रत्ययः हैयङ्गवीनम् इति निपात्यते संज्ञायां विषये तस्य विकारे अर्थे",
+     "kashika": "हैयङ्गवीनं निपात्यते संज्ञायां विषये।",
+     "prathamavrtti": "संज्ञायां विषये हैयङ्गवीनमिति निपात्यते। ह्योगोदोहशब्दस्य स्थाने हियङ्गु आदेशः खञ् प्रत्ययश्च तस्य विकारेऽर्थे निपात्यते॥"
+    }
+   ]
+  },
+  {
+   "id": "G3",
+   "group": "carried / not a sūtra word | vidhi | X",
+   "count": 50,
+   "sutras": [
+    "3.1.106 सुप् is a suffix group  ⟨सुबन्त (the word ending in a sup suffix)⟩",
+    "3.1.107 सुप् is a suffix group  ⟨सुबन्त (the word ending in a sup suffix)⟩",
+    "3.1.108 सुप् is a suffix group  ⟨सुबन्त (the word ending in a sup suffix)⟩",
+    "3.2.4 सुप् is a suffix group  ⟨सुबन्त (the word ending in a sup suffix)⟩",
+    "3.2.15 सुप् is a suffix group  ⟨सुबन्त (the word ending in a sup suffix)⟩",
+    "3.2.16 सुप् is a suffix group  ⟨सुबन्त (the word ending in a sup suffix)⟩",
+    "3.2.28 सुप् is a suffix group  ⟨सुबन्त (the word ending in a sup suffix)⟩",
+    "3.2.57 सुप् is a suffix group  ⟨सुबन्त (the word ending in a sup suffix)⟩",
+    "3.2.59 सुप् is a suffix group  ⟨सुबन्त (the word ending in a sup suffix)⟩",
+    "3.2.62 सुप् is a suffix group  ⟨सुबन्त (the word ending in a sup suffix)⟩",
+    "3.2.63 सुप् is a suffix group  ⟨सुबन्त (the word ending in a sup suffix)⟩",
+    "3.2.64 सुप् is a suffix group  ⟨सुबन्त (the word ending in a sup suffix)⟩",
+    "3.2.67 सुप् is a suffix group  ⟨सुबन्त (the word ending in a sup suffix)⟩",
+    "3.2.68 सुप् is a suffix group  ⟨सुबन्त (the word ending in a sup suffix)⟩",
+    "3.2.70 सुप् is a suffix group  ⟨सुबन्त (the word ending in a sup suffix)⟩",
+    "3.2.71 सुप् is a suffix group  ⟨सुबन्त (the word ending in a sup suffix)⟩",
+    "3.2.72 सुप् is a suffix group  ⟨सुबन्त (the word ending in a sup suffix)⟩",
+    "3.2.73 सुप् is a suffix group  ⟨सुबन्त (the word ending in a sup suffix)⟩",
+    "3.2.74 सुप् is a suffix group  ⟨सुबन्त (the word ending in a sup suffix)⟩",
+    "3.2.75 सुप् is a suffix group  ⟨सुबन्त (the word ending in a sup suffix)⟩",
+    "3.2.76 सुप् is a suffix group  ⟨सुबन्त (the word ending in a sup suffix)⟩",
+    "3.2.77 सुप् is a suffix group  ⟨सुबन्त (the word ending in a sup suffix)⟩",
+    "3.2.78 सुप् is a suffix group  ⟨सुबन्त (the word ending in a sup suffix)⟩",
+    "3.2.79 सुप् is a suffix group  ⟨सुबन्त (the word ending in a sup suffix)⟩",
+    "3.2.80 सुप् is a suffix group  ⟨सुबन्त (the word ending in a sup suffix)⟩",
+    "3.2.81 सुप् is a suffix group  ⟨सुबन्त (the word ending in a sup suffix)⟩",
+    "3.2.82 सुप् is a suffix group  ⟨सुबन्त (the word ending in a sup suffix)⟩",
+    "3.2.83 सुप् is a suffix group  ⟨सुबन्त (the word ending in a sup suffix)⟩",
+    "5.3.72 the base word in the षष्ठी  ⟨षष्ठ्यन्तात् — a word ending in that case ending (4.1.82 no longer run⟩",
+    "5.3.82 the base word in the षष्ठी  ⟨षष्ठ्यन्तात् — a word ending in that case ending (4.1.82 no longer run⟩",
+    "5.3.92 the base word in the पञ्चमी  ⟨पञ्चम्यन्तात् — a word ending in that case ending (4.1.82 no longer ru⟩",
+    "5.3.93 the base word in the षष्ठी  ⟨षष्ठ्यन्तात् — a word ending in that case ending (4.1.82 no longer run⟩",
+    "5.3.113 the base word in the षष्ठी  ⟨षष्ठ्यन्तात् — a word ending in that case ending (4.1.82 no longer run⟩",
+    "5.4.1 the base word in the षष्ठी  ⟨षष्ठ्यन्तात् — a word ending in that case ending (4.1.82 no longer run⟩",
+    "5.4.12 the base word in the पञ्चमी  ⟨पञ्चम्यन्तात् — a word ending in that case ending (4.1.82 no longer ru⟩",
+    "5.4.21 the base word in the द्वितीया  ⟨द्वितीयान्तात् — a word ending in that case ending (4.1.82 no longer r⟩",
+    "5.4.23 the base word in the प्रथमा  ⟨प्रथमान्तात् — a word ending in that case ending (4.1.82 no longer run⟩",
+    "5.4.24 the base word in the प्रथमा  ⟨प्रथमान्तात् — a word ending in that case ending (4.1.82 no longer run⟩",
+    "5.4.25 the base word in the प्रथमा  ⟨प्रथमान्तात् — a word ending in that case ending (4.1.82 no longer run⟩",
+    "5.4.53 the base word in the तृतीया  ⟨तृतीयान्तात् — a word ending in that case ending (4.1.82 no longer run⟩",
+    "5.4.74 the base word in the षष्ठी  ⟨षष्ठ्यन्तात् — a word ending in that case ending (4.1.82 no longer run⟩",
+    "5.4.86 the base word in the षष्ठी  ⟨षष्ठ्यन्तात् — a word ending in that case ending (4.1.82 no longer run⟩",
+    "5.4.89 the base word in the षष्ठी  ⟨षष्ठ्यन्तात् — a word ending in that case ending (4.1.82 no longer run⟩",
+    "5.4.94 the base word in the षष्ठी  ⟨षष्ठ्यन्तात् — a word ending in that case ending (4.1.82 no longer run⟩",
+    "5.4.116 the base word in the षष्ठी  ⟨षष्ठ्यन्तात् — a word ending in that case ending (4.1.82 no longer run⟩",
+    "5.4.122 the base word in the षष्ठी  ⟨षष्ठ्यन्तात् — a word ending in that case ending (4.1.82 no longer run⟩",
+    "5.4.131 the base word in the षष्ठी  ⟨षष्ठ्यन्तात् — a word ending in that case ending (4.1.82 no longer run⟩",
+    "5.4.132 the base word in the षष्ठी  ⟨षष्ठ्यन्तात् — a word ending in that case ending (4.1.82 no longer run⟩",
+    "5.4.140 the base word in the षष्ठी  ⟨षष्ठ्यन्तात् — a word ending in that case ending (4.1.82 no longer run⟩",
+    "5.4.159 the base word in the षष्ठी  ⟨षष्ठ्यन्तात् — a word ending in that case ending (4.1.82 no longer run⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.106",
+     "word": "सुप् is a suffix group",
+     "trigger": "सुप् is a suffix group",
+     "effect": "सुबन्त (the word ending in a sup suffix)",
+     "sutra": "वदः सुपि क्यप् च",
+     "ourVrtti": "सुबन्ते उपपदे अनुपसर्गे वदेः धातोः क्यप् यत् प्रत्ययः च प्रत्ययौ परौ च भवतः",
+     "kashika": "अनुपसर्ग इति वर्तते, वदेर्धातोः सुबन्त उपपदेऽनुपसर्गे क्यप् प्रत्ययो भवति, चकाराद् यच्च।",
+     "prathamavrtti": "वद धातो रुपसर्गरहिते सुबन्त उपपदे क्यप् प्रत्ययो भवति, चकाराद् यत् च ॥"
+    },
+    {
+     "n": "3.2.72",
+     "word": "सुप् is a suffix group",
+     "trigger": "सुप् is a suffix group",
+     "effect": "सुबन्त (the word ending in a sup suffix)",
+     "sutra": "अवे यजः",
+     "ourVrtti": "मन्त्रे विषये अव उपपदे यजेः धातोः ण्विन् प्रत्ययः परः च भवति",
+     "kashika": "अव उपपदे यजेर्धातोर्ण्विन् प्रत्ययो भवति मन्त्रे विषये।",
+     "prathamavrtti": "अव उपपदे यजघातोर्मन्त्रविषये ण्विन् प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "5.3.113",
+     "word": "the base word in the षष्ठी",
+     "trigger": "the base word in the षष्ठी",
+     "effect": "षष्ठ्यन्तात् — a word ending in that case ending (4.1.82 no longer runs after 5.2)",
+     "sutra": "व्रातच्फञोरस्त्रियाम्",
+     "ourVrtti": "अस्त्रियाम् विषये व्रातवाचिभ्यः च्फञन्तेभ्यश्च प्रातिपदिकेभ्यः स्वार्थे ञ्यः प्रत्ययः परः च भवति",
+     "kashika": "व्रातवाचिभ्यः प्रातिपदिकेभ्यः च्फञन्तेभ्यः च स्वार्थे ञ्यः प्रत्ययो भवत्यस्त्रियाम्।",
+     "prathamavrtti": "व्रातवाचिभ्यः प्रातिपदिकेभ्यः छफञ् प्रत्ययान्तेभ्यश्च स्वार्थे ञ्यः प्रत्ययो भवत्यस्त्रियाम् ॥"
+    }
+   ]
+  },
+  {
+   "id": "G4",
+   "group": "own word, data case 5 | vidhi | X: a suffix named as the base",
+   "count": 31,
+   "sutras": [
+    "3.1.8 सुपः  ⟨सुबन्तात् — what ends in it (with what it was added to)⟩",
+    "3.2.56 ख्युन्  ⟨ख्युन्नन्तात् — what ends in it (with what it was added to)⟩",
+    "3.2.166 यङः  ⟨यङन्तात् — what ends in it (with what it was added to)⟩",
+    "3.2.170 क्यात्  ⟨क्यष्शब्दान्तात् — what ends in it (with what it was added to)⟩",
+    "3.2.176 यङः  ⟨यङन्तात् — what ends in it (with what it was added to)⟩",
+    "3.3.22 रुवः  ⟨र्वन्तात् — what ends in it (with what it was added to)⟩",
+    "3.3.114 क्तः  ⟨क्दन्तात् — what ends in it (with what it was added to)⟩",
+    "3.4.75 ताभ्याम्  ⟨तान्तात् — what ends in it (with what it was added to)⟩",
+    "4.1.15 टित्-ढ-अण्-अञ्-द्वयसच्-दघ्नच्-मात्रच्-तयप्-ठक्-ठञ्-कञ्-क्वरपः  ⟨टित् ढ अण् अञ् द्वयसच् दघ्नच् मात्रच् तयप् ठक् ठञ् कञ् क्वरप् इत्येवमन⟩",
+    "4.1.51 क्तात्  ⟨क्तान्तात् — what ends in it (with what it was added to)⟩",
+    "4.1.73 अञः  ⟨अञन्तात् — what ends in it (with what it was added to)⟩",
+    "4.1.74 यङः  ⟨यङन्तात् — what ends in it (with what it was added to)⟩",
+    "4.1.100 अञः  ⟨अञन्तात् — what ends in it (with what it was added to)⟩",
+    "4.2.58 घञः  ⟨घञन्तात् — what ends in it (with what it was added to)⟩",
+    "4.2.64 प्रोक्तात्  ⟨प्रोक्तान्तात् — what ends in it (with what it was added to)⟩",
+    "4.2.72 मतोः  ⟨मतुबन्तात् — what ends in it (with what it was added to)⟩",
+    "4.2.112 इञः  ⟨इञन्तात् — what ends in it (with what it was added to)⟩",
+    "4.3.67 ठञ्  ⟨ठञन्तात् — what ends in it (with what it was added to)⟩",
+    "4.3.82 मयट्  ⟨मयडन्तात् — what ends in it (with what it was added to)⟩",
+    "4.4.20 क्त्रेः  ⟨क्त्र्यन्तात् — what ends in it (with what it was added to)⟩",
+    "4.4.140 वसोः  ⟨वस्वन्तात् — what ends in it (with what it was added to)⟩",
+    "5.1.18 वतेः  ⟨वत्यन्तात् — what ends in it (with what it was added to)⟩",
+    "5.3.19 तदः  ⟨तदन्तात् — what ends in it (with what it was added to)⟩",
+    "5.3.48 तीयात्  ⟨तीयान्तात् — what ends in it (with what it was added to)⟩",
+    "5.3.56 तिङः  ⟨तिङन्तात् — what ends in it (with what it was added to)⟩",
+    "5.3.68 सुपः  ⟨सुबन्तात् — what ends in it (with what it was added to)⟩",
+    "5.4.4 क्तात्  ⟨क्तान्तात् — what ends in it (with what it was added to)⟩",
+    "5.4.14 णचः  ⟨णजन्तात् — what ends in it (with what it was added to)⟩",
+    "5.4.15 इनुणः  ⟨इनुणन्तात् — what ends in it (with what it was added to)⟩",
+    "5.4.71 नञः  ⟨नञन्तात् — what ends in it (with what it was added to)⟩",
+    "5.4.152 इनः  ⟨इन्नन्तात् — what ends in it (with what it was added to)⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.8",
+     "word": "सुपः",
+     "trigger": "सुपः: a suffix named as the base",
+     "effect": "सुबन्तात् — what ends in it (with what it was added to)",
+     "sutra": "सुप आत्मनः क्यच्",
+     "ourVrtti": "आत्मसम्बन्धिनः इषिकर्मणः सुबन्तात् इच्छायामर्थे विकल्पेन क्यच् प्रत्ययः परः च भवति",
+     "kashika": "इषिकर्मण एषितुरेवात्मसंबन्धिनः सुबन्ताद् इच्छायामर्थे वा क्यच् प्रत्ययो भवति।",
+     "prathamavrtti": "एषितुः आत्मसम्बन्धिनः इषिकर्मणः सुबन्ताद् इच्छायामर्थे वा क्यच् प्रत्ययो भवति परश्च ॥"
+    },
+    {
+     "n": "4.1.73",
+     "word": "अञः",
+     "trigger": "अञः: a suffix named as the base",
+     "effect": "अञन्तात् — what ends in it (with what it was added to)",
+     "sutra": "शार्ङ्गरवाद्यञो ङीन्",
+     "ourVrtti": "अनुपसर्जनेभ्यः जातिवाचिभ्यः शार्ङ्गरवादिभ्यः अञन्तेभ्यश्च प्रातिपदिकेभ्यः स्त्रियाम् ङीन् प्रत्ययः परः च भवति",
+     "kashika": "शार्ङ्गरवादिभ्योऽञन्तेभ्यश्च प्रातिपदिकेभ्यः स्त्रियां ङीन् प्रत्ययो भवति।",
+     "prathamavrtti": "जातिवाचिभ्योऽनुपसर्जनेभ्यः शार्ङ्गरवादिभ्योऽञन्तेभ्यश्च प्रातिपदिकेभ्यः स्त्रियां ङीन् प्रत्ययो भवति॥"
+    },
+    {
+     "n": "4.4.140",
+     "word": "वसोः",
+     "trigger": "वसोः: a suffix named as the base",
+     "effect": "वस्वन्तात् — what ends in it (with what it was added to)",
+     "sutra": "वसोः समूहे च",
+     "ourVrtti": "छन्दसि विषये वसुप्रातिपदिकात् समर्थात् समूहे वाच्ये मयेऽर्थे यत् प्रत्ययः परः च भवति",
+     "kashika": "वसुशब्दात् समूहे वाच्ये यत् प्रत्ययो भवति चकाराद् मयडर्थे च।",
+     "prathamavrtti": "वसुप्रातिपदिकात् समूहे वाच्ये मयेऽर्थे च यत् प्रत्ययो भवति छन्दसि विषये ॥"
+    }
+   ]
+  },
+  {
+   "id": "G5",
+   "group": "carried / not a sūtra word | svara | X: sthani",
+   "count": 25,
+   "sutras": [
+    "8.1.30 तिङ्  ⟨“तिङन्तम्”⟩",
+    "8.1.31 तिङ्  ⟨“तिङन्तम्”⟩",
+    "8.1.32 तिङ्  ⟨“तिङन्तम्”⟩",
+    "8.1.33 तिङ्  ⟨“तिङन्तम्”⟩",
+    "8.1.34 तिङ्  ⟨“तिङन्तम्”⟩",
+    "8.1.35 तिङ्  ⟨“तिङन्तम्”⟩",
+    "8.1.36 तिङ्  ⟨“तिङन्तम्”⟩",
+    "8.1.37 तिङ्  ⟨“तिङन्तम्”⟩",
+    "8.1.38 तिङ्  ⟨“तिङन्तम्”⟩",
+    "8.1.39 तिङ्  ⟨“तिङन्तम्”⟩",
+    "8.1.40 तिङ्  ⟨“तिङन्तम्”⟩",
+    "8.1.41 तिङ्  ⟨“तिङन्तम्”⟩",
+    "8.1.42 तिङ्  ⟨“तिङन्तम्”⟩",
+    "8.1.43 तिङ्  ⟨“तिङन्तम्”⟩",
+    "8.1.44 तिङ्  ⟨“तिङन्तम्”⟩",
+    "8.1.45 तिङ्  ⟨“तिङन्तम्”⟩",
+    "8.1.47 तिङ्  ⟨“तिङन्तम्”⟩",
+    "8.1.48 तिङ्  ⟨“तिङन्तं”⟩",
+    "8.1.49 तिङ्  ⟨“तिङन्तस्य”⟩",
+    "8.1.50 तिङ्  ⟨“तिङन्तस्य”⟩",
+    "8.1.56 तिङ्  ⟨“तिङन्तम्”⟩",
+    "8.1.57 तिङ्  ⟨“तिङन्तम्”⟩",
+    "8.1.58 तिङ्  ⟨“तिङन्तम्”⟩",
+    "8.1.66 तिङ्  ⟨“तिङन्तस्य”⟩",
+    "8.1.69 तिङ्  ⟨“तिङन्तम्”⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.1.30",
+     "word": "तिङ्",
+     "trigger": "तिङ्: sthani",
+     "effect": "“तिङन्तम्”",
+     "sutra": "निपातैर्यद्यदिहन्तकुविन्नेच्चेच्चण्कच्चिद्यत्रयुक्तम्",
+     "ourVrtti": "निपातैः यत् यदि हन्त कुवित् नेत् चेत् चण् कच्चित् यत्र इत्येतैः युक्तम् तिङन्तम् अनुदात्तम् न भवति",
+     "kashika": "यत् यदि हन्त कुवित् नेत् चेत् चण् कच्चित् यत्र इत्येतैर्निपातैर्युक्तं तिङन्तं नानुदात्तं भवति।",
+     "prathamavrtti": "यत्, यदि, हन्त, कुवित्, नेत्, चेत्, चण्, कच्चित्, यत्र इत्येतैर्निपातैर्युक्तं तिङन्तं नानुदात्तं भवति॥"
+    },
+    {
+     "n": "8.1.38",
+     "word": "तिङ्",
+     "trigger": "तिङ्: sthani",
+     "effect": "“तिङन्तम्”",
+     "sutra": "उपसर्गव्यपेतं च",
+     "ourVrtti": "पूजायां विषये उपसर्गेण व्यपेतम् यावद्यथाभ्यां युक्तम् तिङन्तम् नानुदात्तम् न भवति",
+     "kashika": "यावद्यथाभ्यां युक्तम् उपसर्गव्यपेतं च पूजायां विषये नानुदात्तं न भवति।",
+     "prathamavrtti": "यावद्यथाभ्यां युक्तमुपसर्गेण व्यपेतं = व्यवहितं चानन्तरं तिङन्तं पूजायां विषये नानुदात्तं न भवति, अर्थादनुदात्तमेव॥"
+    },
+    {
+     "n": "8.1.47",
+     "word": "तिङ्",
+     "trigger": "तिङ्: sthani",
+     "effect": "“तिङन्तम्”",
+     "sutra": "जात्वपूर्वम्",
+     "ourVrtti": "जातु इत्यनेन युक्तम् अविद्यमानपूर्वेण तिङन्तम् अनुदात्तम् न भवति",
+     "kashika": "जातु इत्येतदविद्यमानपूर्वम्, तेन युक्तं  तिङन्तं नानुदात्तं भवति।",
+     "prathamavrtti": "अविद्यमानपूर्वेण जातु इत्यनेन युक्तं तिङन्तं नानुदात्तं भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G6",
+   "group": "carried / not a sūtra word | vidhi | X (carried)): a suffix / case ending des",
+   "count": 24,
+   "sutras": [
+    "5.3.72 तिङः  ⟨तिङन्तात् च — what ENDS in it⟩",
+    "5.3.73 तिङः  ⟨तिङन्तात् च — what ENDS in it⟩",
+    "5.3.74 तिङः  ⟨तिङन्तात् च — what ENDS in it⟩",
+    "5.3.75 तिङः  ⟨तिङन्तात् च — what ENDS in it⟩",
+    "5.3.76 तिङः  ⟨तिङन्तात् च — what ENDS in it⟩",
+    "5.3.77 तिङः  ⟨तिङन्तात् च — what ENDS in it⟩",
+    "5.3.78 तिङः  ⟨तिङन्तात् च — what ENDS in it⟩",
+    "5.3.79 तिङः  ⟨तिङन्तात् च — what ENDS in it⟩",
+    "5.3.80 तिङः  ⟨तिङन्तात् च — what ENDS in it⟩",
+    "5.3.81 तिङः  ⟨तिङन्तात् च — what ENDS in it⟩",
+    "5.3.82 तिङः  ⟨तिङन्तात् च — what ENDS in it⟩",
+    "5.3.83 तिङः  ⟨तिङन्तात् च — what ENDS in it⟩",
+    "5.3.84 तिङः  ⟨तिङन्तात् च — what ENDS in it⟩",
+    "5.3.85 तिङः  ⟨तिङन्तात् च — what ENDS in it⟩",
+    "5.3.86 तिङः  ⟨तिङन्तात् च — what ENDS in it⟩",
+    "5.3.87 तिङः  ⟨तिङन्तात् च — what ENDS in it⟩",
+    "5.3.88 तिङः  ⟨तिङन्तात् च — what ENDS in it⟩",
+    "5.3.89 तिङः  ⟨तिङन्तात् च — what ENDS in it⟩",
+    "5.3.90 तिङः  ⟨तिङन्तात् च — what ENDS in it⟩",
+    "5.3.91 तिङः  ⟨तिङन्तात् च — what ENDS in it⟩",
+    "5.3.92 तिङः  ⟨तिङन्तात् च — what ENDS in it⟩",
+    "5.3.93 तिङः  ⟨तिङन्तात् च — what ENDS in it⟩",
+    "5.3.94 तिङः  ⟨तिङन्तात् च — what ENDS in it⟩",
+    "5.3.95 तिङः  ⟨तिङन्तात् च — what ENDS in it⟩"
+   ],
+   "samples": [
+    {
+     "n": "5.3.72",
+     "word": "तिङः",
+     "trigger": "तिङः (carried over from 5.3.56 (Kāśikā on 5.3.71: इत्येव)): a suffix / case ending describing the base",
+     "effect": "तिङन्तात् च — what ENDS in it",
+     "sutra": "कस्य च दः",
+     "ourVrtti": "अकच्सन्नियोगेन ककारान्तस्य प्रातिपदिकस्य स्थाने दकारादेशः भवति",
+     "kashika": "ककारान्तस्य प्रातिपदिकस्याकच्सन्नियोगेन दकारादेशो भवति।",
+     "prathamavrtti": "ककारान्तस्याव्ययस्य प्रातिपदिकस्याकच्सन्नियोगेन दकारादेशो भवति॥"
+    },
+    {
+     "n": "5.3.80",
+     "word": "तिङः",
+     "trigger": "तिङः (carried over from 5.3.56 (Kāśikā on 5.3.71: इत्येव)): a suffix / case ending describing the base",
+     "effect": "तिङन्तात् च — what ENDS in it",
+     "sutra": "प्राचामुपादेरडज्वुचौ च",
+     "ourVrtti": "उपशब्द-आदेः बह्वचः तद्युक्तात् मनुष्यनाम्नः प्रातिपदिकात् अनुकम्पायाम् नीतौ प्राचाम् आचार्याणाम् मतेन अडच् वुच् इत्येतौ घन्-इलचौ च ठच् च प्रत्ययाः पराः च भवन्ति",
+     "kashika": "उपशब्द आदिर्यस्य तस्मादुपादेः प्रातिपदिकाद् बह्वचो मनुष्यनाम्नोऽडज्वुच्प्रत्ययौ भवतः।",
+     "prathamavrtti": "उपादेः बह्वचो मनुष्यनाम्नः प्रातिपदिकात् अडच्, वुच्, घन्, इलच्, च प्रत्ययाः भवन्ति ठच् च विकल्पेन भवति तद्युक्तान् नीतौ अनुकम्पायां च गम्यमानायाम् प्राचामाचार्याणां मतेन, तेन षाड्रूप्य सम्पद्यते ॥"
+    },
+    {
+     "n": "5.3.88",
+     "word": "तिङः",
+     "trigger": "तिङः (carried over from 5.3.56 (Kāśikā on 5.3.71: इत्येव)): a suffix / case ending describing the base",
+     "effect": "तिङन्तात् च — what ENDS in it",
+     "sutra": "कुटीशमीशुण्डाभ्यो रः",
+     "ourVrtti": "कुटी शमी शुण्डा इत्येतेभ्यः प्रातिपदिकेभ्यः ह्रस्वे अर्थे रः प्रत्ययः परः च भवति",
+     "kashika": "कुटीशमीशुण्डाभ्यो ह्रस्वार्थे द्योत्ये रः प्रत्ययो भवति।",
+     "prathamavrtti": "ह्रस्वार्थे द्योत्ये कुटी, शमी, शुण्डा इत्येतेभ्यः प्रातिपदिकेभ्यो रः प्रत्ययो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G7",
+   "group": "carried / not a sūtra word | vidhi | X (carried): a suffix / case ending desc",
+   "count": 23,
+   "sutras": [
+    "4.2.66 प्रोक्तात्  ⟨प्रोक्तान्तात् — what ENDS in it⟩",
+    "4.4.126 मतोः  ⟨मतुबन्तात् — what ENDS in it⟩",
+    "5.3.11 सप्तम्याः  ⟨सप्तम्यन्तात् — what ENDS in it⟩",
+    "5.3.12 सप्तम्याः  ⟨सप्तम्यन्तात् — what ENDS in it⟩",
+    "5.3.13 सप्तम्याः  ⟨सप्तम्यन्तात् — what ENDS in it⟩",
+    "5.3.14 सप्तम्याः  ⟨सप्तम्यन्तात् — what ENDS in it⟩",
+    "5.3.15 सप्तम्याः  ⟨सप्तम्यन्तात् — what ENDS in it⟩",
+    "5.3.16 सप्तम्याः  ⟨सप्तम्यन्तात् — what ENDS in it⟩",
+    "5.3.21 सप्तम्याः  ⟨सप्तम्यन्तात् — what ENDS in it⟩",
+    "5.3.22 सप्तम्याः  ⟨सप्तम्यन्तात् — what ENDS in it⟩",
+    "5.3.28 सप्तमी-पञ्चमी-प्रथमाभ्यः  ⟨सप्तम्यन्तेभ्यः पञ्चम्यन्तेभ्यः प्रथमान्तेभ्यः च — what ENDS in it⟩",
+    "5.3.34 सप्तमी-पञ्चमी-प्रथमाभ्यः  ⟨सप्तम्यन्तेभ्यः पञ्चम्यन्तेभ्यः प्रथमान्तेभ्यः च — what ENDS in it⟩",
+    "5.3.35 सप्तमी-पञ्चमी-प्रथमाभ्यः  ⟨सप्तम्यन्तेभ्यः पञ्चम्यन्तेभ्यः प्रथमान्तेभ्यः च — what ENDS in it⟩",
+    "5.3.36 सप्तमी-पञ्चमी-प्रथमाभ्यः  ⟨सप्तम्यन्तेभ्यः पञ्चम्यन्तेभ्यः प्रथमान्तेभ्यः च — what ENDS in it⟩",
+    "5.3.58 तिङः  ⟨तिङन्तात् च — what ENDS in it⟩",
+    "5.3.69 तिङः  ⟨तिङन्तात् च — what ENDS in it⟩",
+    "5.3.69 सुपः  ⟨सुबन्तात् — what ENDS in it⟩",
+    "5.3.70 तिङः  ⟨तिङन्तात् च — what ENDS in it⟩",
+    "5.3.71 तिङः  ⟨तिङन्तात् च — what ENDS in it⟩",
+    "5.4.5 क्तात्  ⟨क्तान्तात् — what ENDS in it⟩",
+    "5.4.45 पञ्चम्याः  ⟨पञ्चम्यन्तात् — what ENDS in it⟩",
+    "5.4.47 तृतीयायाः  ⟨तृतीयान्तात् — what ENDS in it⟩",
+    "5.4.49 षष्ठ्याः  ⟨षष्ठ्यन्तात् — what ENDS in it⟩"
+   ],
+   "samples": [
+    {
+     "n": "4.2.66",
+     "word": "प्रोक्तात्",
+     "trigger": "प्रोक्तात् (carried over from 4.2.64): a suffix / case ending describing the base",
+     "effect": "प्रोक्तान्तात् — what ENDS in it",
+     "sutra": "छन्दोब्राह्मणानि च तद्विषयाणि",
+     "ourVrtti": "अध्येतृवेदितृप्रत्ययविषयाणि एव प्रोक्तप्रत्ययान्तानि छन्दांसि ब्राह्मणानि च प्रातिपदिकानि भवति",
+     "kashika": "छन्दांसि ब्राह्मणानि च प्रोक्तप्रत्ययान्तानि तद्विषयाण्येव भवन्ति।",
+     "prathamavrtti": "प्रोक्तप्रत्ययान्तानि छन्दांसि ब्राह्मणानि च तद्विषयाण्येव = अध्येतृवेदितृप्रत्ययविषयाण्येव भवन्ति॥"
+    },
+    {
+     "n": "5.3.16",
+     "word": "सप्तम्याः",
+     "trigger": "सप्तम्याः (carried over from 5.3.10): a suffix / case ending describing the base",
+     "effect": "सप्तम्यन्तात् — what ENDS in it",
+     "sutra": "इदमो र्हिल्",
+     "ourVrtti": "इदमः सप्तम्यन्तात् काले अर्थे र्हिल् प्रत्ययः परः च भवति",
+     "kashika": "इदमः सप्तम्यन्तात् काले वर्तमानाद् र्हिल् प्रत्ययो भवति।",
+     "prathamavrtti": "सप्तम्यन्ताद् इदमोर्र्हिल् प्रत्ययो भवति कालेऽर्थे ॥"
+    },
+    {
+     "n": "5.3.58",
+     "word": "तिङः",
+     "trigger": "तिङः (carried over from 5.3.56): a suffix / case ending describing the base",
+     "effect": "तिङन्तात् च — what ENDS in it",
+     "sutra": "अजादी गुणवचनादेव",
+     "ourVrtti": "गुणवचनात् प्रातिपदिकात् एव अजादी प्रत्ययौ भवतः",
+     "kashika": "इष्ठन्नीयसुनावजादी सामान्येन विहितौ, तयोरयं विषयनियमः क्रियते — गुणवचनादेव भवतस्तौ, नान्यस्मादिति।",
+     "prathamavrtti": "अजादी = इष्ठन् ईयसुन् इत्येतौ प्रत्ययौ गुणवचनाद् एव भवतः॥"
+    }
+   ]
+  },
+  {
+   "id": "G8",
+   "group": "carried / not a sūtra word | vidhi | X (carried): a suffix named as the base",
+   "count": 18,
+   "sutras": [
+    "3.1.9 सुपः  ⟨सुबन्तात् — what ends in it⟩",
+    "3.1.10 सुपः  ⟨सुबन्तात् — what ends in it⟩",
+    "3.1.11 सुपः  ⟨सुबन्तात् — what ends in it⟩",
+    "3.1.13 अच्वेः  ⟨अ-च्व्यन्तात् — what ends in it⟩",
+    "4.1.52 क्तात्  ⟨क्तान्तात् — what ends in it⟩",
+    "4.2.65 प्रोक्तात्  ⟨प्रोक्तान्तात् — what ends in it⟩",
+    "4.2.66 प्रोक्तात्  ⟨प्रोक्तान्तात् — what ends in it⟩",
+    "4.4.126 मतोः  ⟨मतुबन्तात् — what ends in it⟩",
+    "5.3.57 तिङः  ⟨तिङन्तात् — what ends in it⟩",
+    "5.3.58 तिङः  ⟨तिङन्तात् — what ends in it⟩",
+    "5.3.66 तिङः  ⟨तिङन्तात् — what ends in it⟩",
+    "5.3.69 तिङः  ⟨तिङन्तात् — what ends in it⟩",
+    "5.3.69 सुपः  ⟨सुबन्तात् — what ends in it⟩",
+    "5.3.70 तिङः  ⟨तिङन्तात् — what ends in it⟩",
+    "5.3.71 तिङः  ⟨तिङन्तात् — what ends in it⟩",
+    "5.4.5 क्तात्  ⟨क्तान्तात् — what ends in it⟩",
+    "5.4.16 इनुणः  ⟨इनुणन्तात् — what ends in it⟩",
+    "5.4.72 नञः  ⟨नञन्तात् — what ends in it⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.9",
+     "word": "सुपः",
+     "trigger": "सुपः (carried over): a suffix named as the base",
+     "effect": "सुबन्तात् — what ends in it",
+     "sutra": "काम्यच्च",
+     "ourVrtti": "आत्मसम्बन्धिनः कर्मणः सुबन्तात् इच्छायामर्थे विकल्पेन काम्यच् प्रत्ययः परः च भवति",
+     "kashika": "सुबन्तात् कर्मण आत्मेच्छायां काम्यच् प्रत्ययो भवति।",
+     "prathamavrtti": "आत्मसम्बन्धिनः सुबन्तात्कर्मणः इच्छायामर्थे वा काम्यच् प्रत्ययो भवात् परश्च ॥"
+    },
+    {
+     "n": "4.2.66",
+     "word": "प्रोक्तात्",
+     "trigger": "प्रोक्तात् (carried over): a suffix named as the base",
+     "effect": "प्रोक्तान्तात् — what ends in it",
+     "sutra": "छन्दोब्राह्मणानि च तद्विषयाणि",
+     "ourVrtti": "अध्येतृवेदितृप्रत्ययविषयाणि एव प्रोक्तप्रत्ययान्तानि छन्दांसि ब्राह्मणानि च प्रातिपदिकानि भवति",
+     "kashika": "छन्दांसि ब्राह्मणानि च प्रोक्तप्रत्ययान्तानि तद्विषयाण्येव भवन्ति।",
+     "prathamavrtti": "प्रोक्तप्रत्ययान्तानि छन्दांसि ब्राह्मणानि च तद्विषयाण्येव = अध्येतृवेदितृप्रत्ययविषयाण्येव भवन्ति॥"
+    },
+    {
+     "n": "5.3.69",
+     "word": "सुपः",
+     "trigger": "सुपः (carried over): a suffix named as the base",
+     "effect": "सुबन्तात् — what ends in it",
+     "sutra": "प्रकारवचने जातीयर्",
+     "ourVrtti": "प्रातिपदिकात् प्रकारवचने अर्थे जातीयर् प्रत्ययः परः च भवति",
+     "kashika": "सुबन्तात् प्रकारविशिष्टेऽर्थे वर्तमानात् प्रातिपदिकात् स्वार्थे जातीयर् प्रत्ययो भवति।",
+     "prathamavrtti": "प्रकारविशिष्टेऽर्थे वर्त्तमानात् प्रातिपदिकात् स्वार्थे जातीयर् प्रत्ययो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G9",
+   "group": "carried / not a sūtra word | vidhi | X: PIS 23 … … … … (not 1.1.72 — paribhāṣ",
+   "count": 14,
+   "sutras": [
+    "3.2.168 सन्  ⟨what ENDS in it, as the prathamāvṛtti, Kāśikā read it⟩",
+    "3.4.57 द्वितीयायाम्  ⟨“द्वितीयान्तेषु”⟩",
+    "3.4.58 द्वितीयायाम्  ⟨“द्वितीयान्ते”⟩",
+    "4.1.16 यञः qualifies प्रातिपदिकात् and names a sound group  ⟨यञन्तात् (what ends in it)⟩",
+    "4.1.17 यञः  ⟨यञन्तात् — what ENDS in it⟩",
+    "4.1.18 यञः  ⟨यञन्तेभ्यः — what ENDS in it, as the prathamāvṛtti, Siddhānta-kaumudī ⟩",
+    "4.1.156 अणः qualifies प्रातिपदिकात् and names a sound group  ⟨अणन्तात् (what ends in it)⟩",
+    "4.3.155 तत्प्रत्ययात्  ⟨“तदन्तात् प्रातिपदिकात्”⟩",
+    "4.4.127 मतुबन्तात् → मूर्धन् ending in मतुप्  ⟨मतुबन्तात् मूर्धन्-शब्दात्⟩",
+    "5.3.27 सप्तमीपञ्चमीप्रथमाभ्यः  ⟨“सप्तमीपञ्चमीप्रथमान्तेभ्यः”⟩",
+    "5.3.59 तुः qualifies प्रातिपदिकात् and names a sound  ⟨तवर्गान्तात् (what ends in it)⟩",
+    "5.3.118 अभिजित्-विदभृत्-शालावत्-शिखावत्-शमीवत्-ऊर्णावत्-श्रुमत्-अणः qualifies प्रातिपदिकात् and names a sound group  ⟨अणन्तात् (what ends in it)⟩",
+    "5.4.11 किम्-एत्-तिङ्-अव्यय-घात् qualifies प्रातिपदिकात् and names a sound group  ⟨तिङन्तात् (what ends in it)⟩",
+    "5.4.56 द्वितीयासप्तम्योः  ⟨“द्वितीयासप्तम्यन्तेभ्यः”⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.2.168",
+     "word": "सन्",
+     "trigger": "सन्: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, niṣṭhā",
+     "effect": "what ENDS in it, as the prathamāvṛtti, Kāśikā read it",
+     "sutra": "सनाशंसभिक्ष उः",
+     "ourVrtti": "सन्नन्तेभ्यः आशंसेः भिक्षेश्च धातुभ्यः तच्छीलादिषु कर्तृषु वर्तमाने काले उः प्रत्ययः परः च भवति",
+     "kashika": "सन्नन्तेभ्यो धातुभ्य आशंसेर्भिक्षेश्च तच्छीलादिषु कर्तृषु उः प्रत्ययो भवति।",
+     "prathamavrtti": "सन् इति सन्नन्तस्य ग्रहणं, न तु सन् धातोः । सन्नन्तेभ्यो धातुभ्य आङः शसि इच्छायाम् (भ्वा० आ०), भिक्ष भिक्षायां लाभे अलाभे च (भ्वा० आ०) इत्येताभ्यां च धातुभ्याम् उः प्रत्ययो भवति तच्छीलादिषु कर्तृषु वर्त्तमाने काले ॥"
+    },
+    {
+     "n": "4.1.17",
+     "word": "यञः",
+     "trigger": "यञः: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, niṣṭhā",
+     "effect": "यञन्तात् — what ENDS in it",
+     "sutra": "प्राचां ष्फ तद्धितः",
+     "ourVrtti": "अनुपसर्जनेभ्यः यञन्तेभ्यः प्रातिपदिकेभ्यः स्त्रियाम् प्राचाम् आचार्याणाम् मतेन ष्फः प्रत्ययः 'तद्धितसंज्ञकः' इति संज्ञा परः च भवति",
+     "kashika": "प्राचामाचार्याणां मतेन यञन्तात् स्त्रियां ष्फः प्रत्ययो भवति, स च तद्धितसंज्ञः।",
+     "prathamavrtti": "अनुपसर्जनेभ्यो यञन्तेभ्यः प्रातिपदिकेभ्यः प्राचामाचार्याणां मतेन स्त्रियां ष्फः प्रत्ययो भवति, स च तद्धितसंज्ञको भवति ॥"
+    },
+    {
+     "n": "4.4.127",
+     "word": "मतुबन्तात् → मूर्धन् ending in मतुप्",
+     "trigger": "मतुबन्तात् → मूर्धन् ending in मतुप्: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vib",
+     "effect": "मतुबन्तात् मूर्धन्-शब्दात्",
+     "sutra": "वयस्यासु मूर्ध्नो मतुप्",
+     "ourVrtti": "छन्दसि विषये मूर्धन्-प्रातिपदिकात् समर्थात् वयस्यासु इष्टकासु अभिधेयासु मतुप्-प्रत्ययः परः च भवति, मतोः स्थाने लुक् आदेशः च भवति",
+     "kashika": "वयस्वानुपधानो मन्त्रो यासां ता वयस्याः, तास्वभिधेयासु मूर्ध्नो मतुप् प्रत्ययो भवति।",
+     "prathamavrtti": "उपधानमन्त्रसमानाधिकरणात् प्रथमासमर्थात् मतुबन्तात् मूर्धन् इति प्रातिपदिकाद् वयस्यास्विष्टकास्वभिधेयासु छन्दसि विषये मतुप् प्रत्ययो भवति, लुक् च मतोः॥"
+    }
+   ]
+  },
+  {
+   "id": "G10",
+   "group": "own word, data case 1 | svara | X: PIS 23 … … … … (not 1.1.72 — paribhāṣ",
+   "count": 11,
+   "sutras": [
+    "6.1.205 निष्ठा  ⟨“निष्ठान्तम्”⟩",
+    "6.2.43 चतुर्थी  ⟨“चतुर्थ्यन्तम्”⟩",
+    "6.2.46 अनिष्ठा  ⟨“अनिष्ठान्तम्”⟩",
+    "6.2.47 द्वितीया  ⟨“द्वितीयान्तम्”⟩",
+    "6.2.48 तृतीया  ⟨“तृतीयान्तम्”⟩",
+    "6.2.60 षष्ठी  ⟨“षष्ठ्यन्तः”⟩",
+    "6.2.110 निष्ठा  ⟨“निष्ठान्तम्”⟩",
+    "8.1.29 लुट्  ⟨“लुडन्तम्”⟩",
+    "8.1.46 लृट्  ⟨“लृडन्ते”⟩",
+    "8.1.51 लृट्  ⟨“लृडन्तस्य”⟩",
+    "8.1.52 लोट्  ⟨“लोडन्तस्य”⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.205",
+     "word": "निष्ठा",
+     "trigger": "निष्ठा: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, niṣ",
+     "effect": "“निष्ठान्तम्”",
+     "sutra": "निष्ठा च द्व्यजनात्",
+     "ourVrtti": "संज्ञायां विषये निष्ठान्तम् आकारवर्जम् द्व्यच् आदिः उदात्तः भवति",
+     "kashika": "निष्ठान्तं च द्व्यच् संज्ञायां विषय आद्युदात्तं भवति, स चेदादिराकारो न भवति।",
+     "prathamavrtti": "निष्ठान्तं च द्व्यच् संज्ञायां विषये आद्युदात्तं भवति, न त्वाकारः ॥"
+    },
+    {
+     "n": "6.2.47",
+     "word": "द्वितीया",
+     "trigger": "द्वितीया: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, n",
+     "effect": "“द्वितीयान्तम्”",
+     "sutra": "अहीने द्वितीया",
+     "ourVrtti": "क्तान्ते उत्तरपदे द्वितीयान्तम् पूर्वपदम् अहीनवाचिनि समासे प्रकृत्या भवति",
+     "kashika": "अहीनवाचिनि समासे क्तान्त उत्तरपदे द्वितीयान्तं पूर्वपदं प्रकृतिस्वरं भवति।",
+     "prathamavrtti": "अहीनवाचिनि समासे क्तान्त उत्तरपदे द्वितीयान्तं पूर्वपदं प्रकृतिस्वरं भवति ॥"
+    },
+    {
+     "n": "6.2.110",
+     "word": "निष्ठा",
+     "trigger": "निष्ठा: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, niṣ",
+     "effect": "“निष्ठान्तम्”",
+     "sutra": "निष्ठोपसर्गपूर्वमन्यतरस्याम्",
+     "ourVrtti": "बहुव्रीहौ समासे निष्ठान्तम् उपसर्गपूर्वम् अन्तः पूर्वपदम् अन्यतरस्याम् उदात्तः भवति",
+     "kashika": "बहुव्रीहौ समासे निष्ठान्तमुपसर्गपूर्वं पूर्वपदमन्यतरस्यामन्तोदात्तं भवति।",
+     "prathamavrtti": "बहुव्रीहौ समासे निष्ठान्तमुपसर्गपूर्वं पूर्वपदं विकल्पेनान्तोदात्तं भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G11",
+   "group": "carried / not a sūtra word | pada | X (carried): a suffix in the 5th",
+   "count": 9,
+   "sutras": [
+    "1.3.58 सनः  ⟨सन्नन्तात् धातोः (a dhātu ending in it)⟩",
+    "1.3.59 सनः  ⟨सन्नन्तात् धातोः (a dhātu ending in it)⟩",
+    "1.3.68 णेः  ⟨ण्यन्तात् धातोः (a dhātu ending in it)⟩",
+    "1.3.69 णेः  ⟨ण्यन्तात् धातोः (a dhātu ending in it)⟩",
+    "1.3.70 णेः  ⟨ण्यन्तात् धातोः (a dhātu ending in it)⟩",
+    "1.3.71 णेः  ⟨ण्यन्तात् धातोः (a dhātu ending in it)⟩",
+    "1.3.87 णेः  ⟨ण्यन्तात् धातोः (a dhātu ending in it)⟩",
+    "1.3.88 णेः  ⟨ण्यन्तात् धातोः (a dhātu ending in it)⟩",
+    "1.3.89 णेः  ⟨ण्यन्तात् धातोः (a dhātu ending in it)⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.3.58",
+     "word": "सनः",
+     "trigger": "सनः (carried over from 1.3.57): a suffix in the 5th",
+     "effect": "सन्नन्तात् धातोः (a dhātu ending in it)",
+     "sutra": "नानोर्ज्ञः",
+     "ourVrtti": "अनुपूर्वात् सन्नन्तात् ज्ञा-धातोः आत्मनेपदम् प्रत्ययः न भवति",
+     "kashika": "अनुपूर्वाज्जानातेः सन्नन्तादात्मनेपदं न भवति।",
+     "prathamavrtti": "अनुपूर्वात् सन्नन्तात् ज्ञा-धातोरात्मनेपदं न भवति॥"
+    },
+    {
+     "n": "1.3.69",
+     "word": "णेः",
+     "trigger": "णेः (carried over from 1.3.67): a suffix in the 5th",
+     "effect": "ण्यन्तात् धातोः (a dhātu ending in it)",
+     "sutra": "गृधिवञ्च्योः प्रलम्भने",
+     "ourVrtti": "ण्यन्तयोः गृधि वञ्चि इत्येतयोः धात्वोः प्रलम्भने अर्थे आत्मनेपदम् प्रत्ययः भवति",
+     "kashika": "<<गृधु अभिकाङ्क्षायाम्>> (धा० पा० १२४७) , <<वञ्चु गतौ>> (धा० पा० १८९)  इत्येतयोर्ण्यन्तयोः प्रलम्भने वर्तमानयोरात्मनेपदं भवति।",
+     "prathamavrtti": "'गृधु अभिकांक्षायाम्,' 'वञ्चु गतौ' इत्येतयोर्ण्यन्तयोः प्रलम्भनेऽर्थे वर्त्तमानयोरात्मनेपदं भवति॥"
+    },
+    {
+     "n": "1.3.87",
+     "word": "णेः",
+     "trigger": "णेः (carried over from 1.3.86): a suffix in the 5th",
+     "effect": "ण्यन्तात् धातोः (a dhātu ending in it)",
+     "sutra": "निगरणचलनार्थेभ्यश्च",
+     "ourVrtti": "ण्यन्तेभ्यः निगरणार्थेभ्यः चलनार्थेभ्यश्च धातुभ्यः परस्मैपदम् प्रत्ययः भवति",
+     "kashika": "निगरणार्थेभ्यश्च धातुभ्यो ण्यन्तेभ्यः परस्मैपदं भवति।",
+     "prathamavrtti": "निगरणार्थेभ्यः चलनार्थेभ्यश्च ण्यन्तेभ्यो धातुभ्यः परस्मैपदं भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G12",
+   "group": "carried / not a sūtra word | operation | X",
+   "count": 9,
+   "sutras": [
+    "6.4.45 सनः qualifies अङ्गस्य  ⟨सन्नन्तस्य (what ends in it)⟩",
+    "6.4.50 क्यस्य qualifies अङ्गस्य  ⟨क्यष्शब्दान्तस्य (what ends in it)⟩",
+    "6.4.105 हेः qualifies अङ्गस्य  ⟨ह्यन्तस्य (what ends in it)⟩",
+    "6.4.131 वसोः qualifies अङ्गस्य  ⟨वस्वन्तस्य (what ends in it)⟩",
+    "6.4.153 छस्य qualifies अङ्गस्य  ⟨छान्तस्य (what ends in it)⟩",
+    "7.3.22 परस्य qualifies अङ्गस्य  ⟨परान्तस्य (what ends in it)⟩",
+    "7.3.27 परस्य qualifies अङ्गस्य  ⟨परान्तस्य (what ends in it)⟩",
+    "7.3.72 क्सस्य qualifies अङ्गस्य  ⟨क्सान्तस्य (what ends in it)⟩",
+    "8.2.24 सस्य qualifies पदस्य  ⟨सान्तस्य (what ends in it)⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.45",
+     "word": "सनः qualifies अङ्गस्य",
+     "trigger": "सनः qualifies अङ्गस्य",
+     "effect": "सन्नन्तस्य (what ends in it)",
+     "sutra": "सनः क्तिचि लोपश्चास्यान्यतरस्याम्",
+     "ourVrtti": "क्तिचि प्रत्यये परे सनोतेः अङ्गस्य अस्य स्थाने अन्यतरस्याम् लोपश्च आकारादेशः भवति",
+     "kashika": "सनोतेरङ्गस्य क्ति चि प्रत्यये परत आकार आदेशो भवति, लोपश्चास्यान्यतरस्याम्।",
+     "prathamavrtti": "क्तिचि प्रत्यये परतः सनोतेरङ्गस्य आकारादेशो भवति, लोपश्च विकल्पेन ॥"
+    },
+    {
+     "n": "6.4.131",
+     "word": "वसोः qualifies अङ्गस्य",
+     "trigger": "वसोः qualifies अङ्गस्य",
+     "effect": "वस्वन्तस्य (what ends in it)",
+     "sutra": "वसोः सम्प्रसारणम्",
+     "ourVrtti": "भस्य अङ्गस्य वस्वन्तस्य स्थाने सम्प्रसारणम् आदेशः भवति",
+     "kashika": "वस्वन्तस्य भस्य संप्रसारणं भवति।",
+     "prathamavrtti": "वस्वन्तस्याङ्गस्य भस्य सम्प्रसारणं भवति॥"
+    },
+    {
+     "n": "7.3.27",
+     "word": "परस्य qualifies अङ्गस्य",
+     "trigger": "परस्य qualifies अङ्गस्य",
+     "effect": "परान्तस्य (what ends in it)",
+     "sutra": "नातः परस्य",
+     "ourVrtti": "अर्धात् परस्य परिमाणवाचिनः अकारस्य वृद्धिः न भवति, पूर्वपदस्य तु वा भवति, तद्धिते ञिति णिति किति च परतः",
+     "kashika": "अर्धात् परस्य परिमाणाकारस्य वृद्धिर्न भवति, पूर्वस्य तु वा भवति तद्धिते ञिति णिति किति च परतः।",
+     "prathamavrtti": "अर्द्धात् परस्य परिमाणवाचिनोऽकारस्य वृद्धिर्न भवति, पूर्वपदस्य तु वा भवति, तद्धिते ञिति णिति किति च परतः ॥"
+    }
+   ]
+  },
+  {
+   "id": "G13",
+   "group": "own word, data case 5 | vidhi | X: a case named",
+   "count": 7,
+   "sutras": [
+    "5.3.7 पञ्चम्याः  ⟨पञ्चम्यन्तात् — a word ending in that case ending⟩",
+    "5.3.10 सप्तम्याः  ⟨सप्तम्यन्तात् — a word ending in that case ending⟩",
+    "5.3.54 षष्ठ्याः  ⟨षष्ठ्यन्तात् — a word ending in that case ending⟩",
+    "5.3.84 तृतीयात्  ⟨तृतीयान्तात् — a word ending in that case ending⟩",
+    "5.4.44 पञ्चम्याः  ⟨पञ्चम्यन्तात् — a word ending in that case ending⟩",
+    "5.4.46 तृतीयायाः  ⟨तृतीयान्तात् — a word ending in that case ending⟩",
+    "5.4.48 षष्ठ्याः  ⟨षष्ठ्यन्तात् — a word ending in that case ending⟩"
+   ],
+   "samples": [
+    {
+     "n": "5.3.7",
+     "word": "पञ्चम्याः",
+     "trigger": "पञ्चम्याः: a case named",
+     "effect": "पञ्चम्यन्तात् — a word ending in that case ending",
+     "sutra": "पञ्चम्यास्तसिल्",
+     "ourVrtti": "किंसर्वनामबहुभ्यः पञ्चम्यन्तेभ्यः तसिल् प्रत्ययः परः च भवति",
+     "kashika": "पञ्चम्यन्तेभ्यः किंसर्वनामबहुभ्यस्तसिल् प्रत्ययो भवति।",
+     "prathamavrtti": "कि, सर्वनाम, बहु इत्येतेभ्यः पञ्चम्यन्तेभ्यः प्रातिपदिकेभ्यस्तसिल् प्रत्ययो भवति॥"
+    },
+    {
+     "n": "5.3.54",
+     "word": "षष्ठ्याः",
+     "trigger": "षष्ठ्याः: a case named",
+     "effect": "षष्ठ्यन्तात् — a word ending in that case ending",
+     "sutra": "षष्ठ्या रूप्य च",
+     "ourVrtti": "प्रातिपदिकात् षष्ठ्यन्तात् भूतपूर्वे अर्थे रूप्य चरट् प्रत्ययौ परौ च भवतः",
+     "kashika": "षष्ठ्यन्तात् प्रातिपदिकाद् रूप्यः प्रत्ययो भवति, चकारात् चरट् च।",
+     "prathamavrtti": "षष्ठ्यन्तात् प्रातिपदिकात् रूप्यः प्रत्ययो भवति चरट् च भूतपूर्वेऽर्थे ॥"
+    },
+    {
+     "n": "5.4.44",
+     "word": "पञ्चम्याः",
+     "trigger": "पञ्चम्याः: a case named",
+     "effect": "पञ्चम्यन्तात् — a word ending in that case ending",
+     "sutra": "प्रतियोगे पञ्चम्यास्तसिः",
+     "ourVrtti": "प्रतिना योगे पञ्चम्यन्तात् अन्यतरस्याम् तसिः प्रत्ययः परः च भवति",
+     "kashika": "प्रतिना कर्मप्रवचनीयेन योगे या पञ्चमी विहिता तदन्तात् तसिः प्रत्ययो भवति।",
+     "prathamavrtti": "कर्मप्रवचनीयसंज्ञकेन प्रतिना योगे या पञ्चमी विहिता तदन्तात् तसिः प्रत्ययोऽन्यतरस्यां भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G14",
+   "group": "carried / not a sūtra word | svara | X: PIS 23 … … … … (not 1.1.72 — paribhāṣ",
+   "count": 7,
+   "sutras": [
+    "6.1.197 ञिति निति → a word ending in a ञित्/नित् suffix  ⟨ञिदन्तस्य निदन्तस्य च आदिः⟩",
+    "6.2.2 तुल्यार्थतृतीयासप्तम्युपमानाव्ययद्वितीयाकृत्याः  ⟨“तुल्यार्थ-तृतीयान्त-सप्तम्यन्त-उपमानवाचि-अव्यय-द्वितीयान्त-कृत्यान्ता⟩",
+    "6.2.34 राजन्यबहुवचनद्वन्द्वे  ⟨“राजन्यवाचिनां बहुवचनान्तानां द्वन्द्वे”⟩",
+    "6.2.44 चतुर्थी  ⟨“चतुर्थ्यन्तम्”⟩",
+    "8.1.23 एकवचनस्य  ⟨“एकवचनान्तयोः”⟩",
+    "8.1.53 लोट्  ⟨“लोडन्तस्य”⟩",
+    "8.1.54 लोट्  ⟨“लोडन्तम्”⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.197",
+     "word": "ञिति निति → a word ending in a ञित्/नित् suffix",
+     "trigger": "ञिति निति → a word ending in a ञित्/नित् suffix: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix",
+     "effect": "ञिदन्तस्य निदन्तस्य च आदिः",
+     "sutra": "ञ्नित्यादिर्नित्यम्",
+     "ourVrtti": "ञिति निति च प्रत्यये परे आदिः स्वरः नित्यम् उदात्तः भवति",
+     "kashika": "ञिति निति च नित्यमादिरुदात्तो भवति।",
+     "prathamavrtti": "ञिति निति च नित्यमादिरुदात्तो भवति ॥"
+    },
+    {
+     "n": "6.2.34",
+     "word": "राजन्यबहुवचनद्वन्द्वे",
+     "trigger": "राजन्यबहुवचनद्वन्द्वे: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, ",
+     "effect": "“राजन्यवाचिनां बहुवचनान्तानां द्वन्द्वे”",
+     "sutra": "राजन्यबहुवचनद्वन्द्वेऽन्धकवृष्णिषु",
+     "ourVrtti": "राजन्यवाचिनां बहुवचनान्तानां द्वन्द्वे पूर्वपदम् अन्धकवृष्णिषु वाच्येषु प्रकृत्या भवति",
+     "kashika": "राजन्यवाचिनां बहुवचनान्तानां यो द्वन्द्वोऽन्धकवृष्णिषु वर्तते, तत्र पूर्वपदं प्रकृतिस्वरं भवति।",
+     "prathamavrtti": "राजन्यवाचिनां बहुवचनान्तानां यो द्वन्द्वोऽन्धकवृष्णिषु वर्त्तते तत्र पूर्वपदं प्रकृतिस्वरं भवति॥"
+    },
+    {
+     "n": "8.1.23",
+     "word": "एकवचनस्य",
+     "trigger": "एकवचनस्य: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, n",
+     "effect": "“एकवचनान्तयोः”",
+     "sutra": "त्वामौ द्वितीयायाः",
+     "ourVrtti": "द्वितीयायाः एकवचनान्तयोः अपादादौ वर्तमानयोः युष्मदस्मदोः पदयोः स्थाने त्वा मा इत्यादेशौ अनुदात्तौ यथासङ्ख्यम् भवतः",
+     "kashika": "द्वितीयाया यदेकवचनं तदन्तयोर्युष्मदस्मदोर्यथासंख्यं त्वा मा इत्येतावादेशौ भवतः।",
+     "prathamavrtti": "द्वितीयाया यदेकवचनं तदन्तयोरपादादौ वर्त्तमानयोर्युष्मदस्मदोः पदयोर्यथासङ्ख्यं त्वा मा इत्येतावादेशौ भवतोऽनुदात्तौ च तौ ॥"
+    }
+   ]
+  },
+  {
+   "id": "G15",
+   "group": "own word, data case 5 | pada | X: a suffix named in the 5th",
+   "count": 6,
+   "sutras": [
+    "1.3.57 सनः  ⟨सन्नन्तात् धातोः (a dhātu ending in it)⟩",
+    "1.3.67 णेः  ⟨ण्यन्तात् धातोः (a dhātu ending in it)⟩",
+    "1.3.74 णिचः  ⟨णिजन्तात् धातोः (a dhātu ending in it)⟩",
+    "1.3.81 वहः  ⟨वहेन्तात् धातोः (a dhātu ending in it)⟩",
+    "1.3.86 णेः  ⟨ण्यन्तात् धातोः (a dhātu ending in it)⟩",
+    "1.3.90 क्यषः  ⟨क्यष्शब्दान्तात् धातोः (a dhātu ending in it)⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.3.57",
+     "word": "सनः",
+     "trigger": "सनः: a suffix named in the 5th",
+     "effect": "सन्नन्तात् धातोः (a dhātu ending in it)",
+     "sutra": "ज्ञाश्रुस्मृदृशां सनः",
+     "ourVrtti": "सन्नन्तानाम् ज्ञा-श्रु-स्मृ-दृश् इत्येतेषाम् आत्मनेपदम् प्रत्ययः भवति",
+     "kashika": "ज्ञा श्रु स्मृ दृश् इत्येतेषां सन्नन्तानामात्मनेपदं भवति।",
+     "prathamavrtti": "ज्ञा श्रु स्मृ दृश् इत्येतेषां सन्नन्तानाम् आत्मनेपदं भवति॥"
+    },
+    {
+     "n": "1.3.74",
+     "word": "णिचः",
+     "trigger": "णिचः: a suffix named in the 5th",
+     "effect": "णिजन्तात् धातोः (a dhātu ending in it)",
+     "sutra": "णिचश्च",
+     "ourVrtti": "कर्त्रभिप्राये णिजन्तात् धातोः क्रियाफले आत्मनेपदम् प्रत्ययः भवति",
+     "kashika": "णिजन्तादात्मनेपदं भवति कर्त्रभिप्राये क्रियाफले।",
+     "prathamavrtti": "णिजन्ताद्धातोः कर्त्रभिप्राये क्रियाफले आत्मनेपदं भवति ॥"
+    },
+    {
+     "n": "1.3.86",
+     "word": "णेः",
+     "trigger": "णेः: a suffix named in the 5th",
+     "effect": "ण्यन्तात् धातोः (a dhātu ending in it)",
+     "sutra": "बुधयुधनशजनेङ्प्रुद्रुस्रुभ्यो णेः",
+     "ourVrtti": "ण्यन्तेभ्यः बुध युध नश जन इङ् प्रु द्रु स्रु इत्येतेभ्यः धातुभ्यः परस्मैपदम् प्रत्ययः भवति",
+     "kashika": "बुध युध नश जन इङ् प्रु द्रु स्रु इत्येतेभ्यो ण्यन्तेभ्यः परस्मैपदं भवति।",
+     "prathamavrtti": "बुध, युध, नश, जन, इङ्, प्रु, द्रु, स्रु इत्येतेभ्यो ण्यन्तेभ्यो धातुभ्यः परस्मैपदं भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G16",
+   "group": "carried / not a sūtra word | operation | X: PIS 23 … … … … (not 1.1.72 — paribhāṣ",
+   "count": 6,
+   "sutras": [
+    "2.4.58 ण्य  ⟨what ENDS in it, as the prathamāvṛtti, Siddhānta-kaumudī, Kāśikā read ⟩",
+    "6.3.44 a word ending in ङी  ⟨ङ्यन्तस्य नद्याः⟩",
+    "6.4.11 तृन्  ⟨what ENDS in it, as the Kāśikā reads it⟩",
+    "7.3.114 आपः  ⟨आबन्तस्य अङ्गस्य (an aṅga ending in it)⟩",
+    "7.3.115 आपः  ⟨आबन्तस्य अङ्गस्य (an aṅga ending in it)⟩",
+    "7.4.15 आपः qualifies अङ्गस्य  ⟨आबन्तस्य अङ्गस्य (an aṅga ending in it)⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.4.58",
+     "word": "ण्य",
+     "trigger": "ण्य: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, niṣṭhā",
+     "effect": "what ENDS in it, as the prathamāvṛtti, Siddhānta-kaumudī, Kāśikā read it",
+     "sutra": "ण्यक्षत्रियार्षञितो यूनि लुगणिञोः",
+     "ourVrtti": "ण्यान्तात् क्षत्रियगोत्राद् आर्षाद् ञितश्च परयोः अणिञोः प्रत्यययोः स्थाने युवापत्ये वाच्ये लुक् आदेशः भवति",
+     "kashika": "ण्यान्तात् क्षत्रियगोत्राद् आर्षाद् ञितश्च परयोरणिञोर्यूनि लुग् भवति।",
+     "prathamavrtti": "ण्यन्तात् गोत्रप्रत्ययान्तात् क्षत्रियवाचिगोत्रप्रत्ययान्तात्, ऋषिवाचिगोत्रप्रत्ययान्तात्, ञिद्गोत्रप्रत्ययान्ताच्च युवापत्ये विहितयोः अणिञोर्लुग् भवति॥"
+    },
+    {
+     "n": "6.4.11",
+     "word": "तृन्",
+     "trigger": "तृन्: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, niṣṭh",
+     "effect": "what ENDS in it, as the Kāśikā reads it",
+     "sutra": "अप्तृन्तृच्स्वसृनप्तृनेष्टृत्वष्टृक्षत्तृहोतृपोतृप्रशास्तॄणाम्",
+     "ourVrtti": "सर्वनामस्थाने परे असम्बुद्धौ अप् तृन् तृच् स्वसृ नप्तृ नेष्टृ त्वष्टृ क्षत्तृ होतृ पोतृ प्रशास्तृ इत्येतेषाम् अङ्गानाम् उपधायाः अङ्गस्य स्थाने दीर्घः आदेशः भवति",
+     "kashika": "अप् इत्येतस्य तृनन्तस्य स्वसृ नप्तृ नेष्टृ त्वष्टृ क्षत्तृ होतृ पोतृ प्रशास्तृ इत्येतेषां चाङ्गानामुपधाया दीर्घो भवति सर्वनामस्थाने परतोऽसंबुद्धौ।",
+     "prathamavrtti": "अप्, तृन्, तृच्, स्वसृ, नप्तृ, नेष्टृ, त्वष्टृ, क्षत्तृ, होतृ, पोतृ, प्रशास्तृ इत्येतेषामङ्गानामुपधायाः सम्बुद्धिभिन्ने सर्वनामस्थाने परतो दीर्घो भवति॥"
+    },
+    {
+     "n": "7.3.115",
+     "word": "आपः",
+     "trigger": "आपः: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, niṣṭhā",
+     "effect": "आबन्तस्य अङ्गस्य (an aṅga ending in it)",
+     "sutra": "विभाषा द्वितीयातृतीयाभ्याम्",
+     "ourVrtti": "द्वितीयातृतीयाभ्याम् ङितः प्रत्ययस्य अङ्गस्य विकल्पेन स्याडागमः ह्रस्वः आदेशः भवति",
+     "kashika": "द्वितीया तृतीया इत्येताभ्यामुत्तरस्य ङितः प्रत्ययस्य विभाषा स्याडागमो भवति, द्वितीयातृतीययोश्च ह्रस्वो भवति।",
+     "prathamavrtti": "द्वितीया तृतीया इत्येताभ्यामुत्तरस्य ङितः प्रत्ययस्य विभाषा स्याडागमो भवति, द्वितीयातृतीययोः ह्रस्वश्च भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G17",
+   "group": "carried / not a sūtra word | svara | X: qualifier",
+   "count": 6,
+   "sutras": [
+    "4.1.53 क्तात्  ⟨“क्तान्तात्”⟩",
+    "6.2.144 थाथघञ्क्ताजबित्रकाणाम्  ⟨“थ-अथ-घञ्-क्त-अच्-अप्-इत्र-क-प्रत्ययान्तानाम्”⟩",
+    "6.2.146 क्तः  ⟨“क्तान्तम्”⟩",
+    "6.2.147 क्तः  ⟨“क्तान्तम्”⟩",
+    "6.2.148 क्तः  ⟨“क्तान्तयोः”⟩",
+    "6.2.149 क्तः  ⟨“क्तान्तम्”⟩"
+   ],
+   "samples": [
+    {
+     "n": "4.1.53",
+     "word": "क्तात्",
+     "trigger": "क्तात्: qualifier",
+     "effect": "“क्तान्तात्”",
+     "sutra": "अस्वाङ्गपूर्वपदाद्वा",
+     "ourVrtti": "अस्वाङ्गपूर्वपदात् अन्तोदात्तात् क्तान्तात् बहुव्रीहेः स्त्रियाम् विकल्पेन ङीष् प्रत्ययः परः च भवति",
+     "kashika": "अस्वाङ्गपूर्वपदादन्तोदात्तात् क्तान्ताद् बहुव्रीहेः स्त्रियां वा ङीष् प्रत्ययो भवति।",
+     "prathamavrtti": "अस्वाङ्गपूर्वपदादन्तोदात्तात् क्तान्तात् बहुव्रीहेः स्त्रियां विकल्पेन ङीष् प्रत्ययो भवति॥"
+    },
+    {
+     "n": "6.2.146",
+     "word": "क्तः",
+     "trigger": "क्तः: qualifier",
+     "effect": "“क्तान्तम्”",
+     "sutra": "संज्ञायामनाचितादीनाम्",
+     "ourVrtti": "संज्ञायां विषये गतिकारकोपपदात् परम् आचितादीन् वर्जयित्वा क्तान्तम् उत्तरपदम् अन्तोदात्तम् भवति",
+     "kashika": "संज्ञायां विषये गतिकारकोपपदात् क्तान्तमुत्तरपदमन्तोदात्तं भवति आचितादीन् वर्जयित्वा।",
+     "prathamavrtti": "गतिकारकोपपदात् परं क्तान्तमुत्तरपदमन्तोदात्तं भवति संज्ञायां विषय आचितादीन् वर्जयित्वा ॥"
+    },
+    {
+     "n": "6.2.148",
+     "word": "क्तः",
+     "trigger": "क्तः: qualifier",
+     "effect": "“क्तान्तयोः”",
+     "sutra": "कारकाद्दत्तश्रुतयोरेवाशिषि",
+     "ourVrtti": "संज्ञायाम् विषये कारकात् क्तान्तयोः दत्तश्रुतयोः आशिषि गम्यमानायाम् अन्त उदात्तः भवति",
+     "kashika": "संज्ञायां विषय आशिषि गम्यमानायां कारकादुत्तरयोर्दत्तश्रुतयोरेव क्त ान्तयोरन्त उदात्तो भवति।",
+     "prathamavrtti": "आशिषि गम्यमानायां संज्ञायां विषये कारकादुत्तरयोर्दत्तश्रुतयोरेव क्तान्तयोरन्त उदात्तो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G18",
+   "group": "own word, data case 5 | vidhi | X: PIS 23 … … … … (not 1.1.72 — paribhāṣ",
+   "count": 6,
+   "sutras": [
+    "4.1.94 गोत्रात्  ⟨गोत्रप्रत्ययान्तात् — what ENDS in it, as the Siddhānta-kaumudī, Laghu⟩",
+    "4.1.120 स्त्रीभ्यः  ⟨स्त्रीप्रत्ययान्तेभ्यः — what ENDS in it, as the prathamāvṛtti, Siddhā⟩",
+    "4.1.149 फेः  ⟨फिञन्तात् — what ENDS in it, as the prathamāvṛtti and Kāśikā read it⟩",
+    "4.3.80 गोत्रात्  ⟨गोत्रप्रत्ययान्तात् — what ENDS in it, as the prathamāvṛtti and Kāśikā⟩",
+    "5.2.130 पूरणात्  ⟨पूरणप्रत्ययान्तात् — what ENDS in it, as the prathamāvṛtti and Kāśikā ⟩",
+    "5.4.156 ईयसः  ⟨ईयसशब्दान्तात् समासात् — a samāsānta suffix comes after a compound end⟩"
+   ],
+   "samples": [
+    {
+     "n": "4.1.94",
+     "word": "गोत्रात्",
+     "trigger": "गोत्रात्: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, n",
+     "effect": "गोत्रप्रत्ययान्तात् — what ENDS in it, as the Siddhānta-kaumudī, Laghu-kaumudī reads it",
+     "sutra": "गोत्राद्यून्यस्त्रियाम्",
+     "ourVrtti": "स्त्रीलिङ्गवर्जिते गोत्रप्रत्ययान्तात् प्रातिपदिकात् युवापत्ये अर्थे प्रत्ययः भवति",
+     "kashika": "यून्यपत्ये विवक्षिते गोत्रादेव प्रत्ययो भवति, न परमप्रकृत्यनन्तरयुवभ्यः।",
+     "prathamavrtti": "यून्यपत्ये विवक्षिते गोत्रादेव प्रत्ययो भवत्यस्त्रियाम् ॥"
+    },
+    {
+     "n": "4.1.149",
+     "word": "फेः",
+     "trigger": "फेः: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, niṣṭhā",
+     "effect": "फिञन्तात् — what ENDS in it, as the prathamāvṛtti and Kāśikā read it",
+     "sutra": "फेश्छ च",
+     "ourVrtti": "सौवीरेषु विषये फिञन्तात् प्रातिपदिकात् षष्ठ्यन्तात् कुत्सने गम्यमाने अपत्ये अर्थे बहुलम् छ ठक् प्रत्ययौ परौ च भवतः",
+     "kashika": "फिञन्तात् प्रातिपदिकात् सौवीरगोत्रादपत्ये छः प्रत्ययो भवति, चकाराट् ठक्, कुत्सने गम्यमाने।",
+     "prathamavrtti": "फिञन्तात् वृद्धसंज्ञकात् प्रातिपदिकात् सौवीरगोत्रादपत्ये कुत्सिते गम्यमाने छः प्रत्ययो बहुलम् भवति, चकाराट्ठक् च ॥"
+    },
+    {
+     "n": "5.2.130",
+     "word": "पूरणात्",
+     "trigger": "पूरणात्: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, ni",
+     "effect": "पूरणप्रत्ययान्तात् — what ENDS in it, as the prathamāvṛtti and Kāśikā read it",
+     "sutra": "वयसि पूरणात्",
+     "ourVrtti": "पूरणप्रत्ययान्तात् प्रातिपदिकात् प्रथमासमर्थात् वयसि गम्यमाने मत्वर्थे इनिः प्रत्ययः परः च भवति",
+     "kashika": "पूरणप्रत्ययान्तात् प्रातिपदिकादिनिः प्रत्ययो भवति मत्वर्थे वयसि द्योत्ये।",
+     "prathamavrtti": "पूरणप्रत्ययान्तात् प्रातिपदिकाद् वयसि गम्यमाने मत्वर्थे इनिः प्रत्ययो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G19",
+   "group": "own word, data case 7 | vidhi | X: PIS 23 … … … … (not 1.1.72 — paribhāṣ",
+   "count": 5,
+   "sutras": [
+    "3.2.97 सप्तम्याम्  ⟨“सप्तम्यन्ते उपपदे”⟩",
+    "3.2.98 पञ्चम्याम्  ⟨“पञ्चम्यन्ते उपपदे”⟩",
+    "3.4.47 तृतीयायाम्  ⟨“तृतीयान्ते उपपदे”⟩",
+    "3.4.49 सप्तम्याम्  ⟨“सप्तम्यन्ते उपपदे”⟩",
+    "3.4.53 द्वितीयायाम्  ⟨“द्वितीयान्ते उपपदे”⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.2.97",
+     "word": "सप्तम्याम्",
+     "trigger": "सप्तम्याम्: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya,",
+     "effect": "“सप्तम्यन्ते उपपदे”",
+     "sutra": "सप्तम्यां जनेर्डः",
+     "ourVrtti": "सप्तम्यन्ते उपपदे जनेः धातोः भूते काले डः प्रत्ययः परः च भवति",
+     "kashika": "सप्तम्यन्त उपपदे जनेर्धातोर्डः प्रत्ययो भवति।",
+     "prathamavrtti": "सप्तम्यन्त उपपदे जनेर्धातोर्डः प्रत्ययो भवति भूते काले ॥"
+    },
+    {
+     "n": "3.2.98",
+     "word": "पञ्चम्याम्",
+     "trigger": "पञ्चम्याम्: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya,",
+     "effect": "“पञ्चम्यन्ते उपपदे”",
+     "sutra": "पञ्चम्यामजातौ",
+     "ourVrtti": "जातिवर्जिते पञ्चम्यन्ते उपपदे जनेः धातोः भूते काले डः प्रत्ययः परः च भवति",
+     "kashika": "पञ्चम्यन्त उपपदे जातिवर्जिते जनेर्डः प्रत्ययो भवति।",
+     "prathamavrtti": "अजातिवाचिनि पञ्चम्यन्त उपपदे जनेर्धातोर्डः प्रत्ययो भवति भूते काले ॥"
+    },
+    {
+     "n": "3.4.47",
+     "word": "तृतीयायाम्",
+     "trigger": "तृतीयायाम्: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya,",
+     "effect": "“तृतीयान्ते उपपदे”",
+     "sutra": "उपदंशस्तृतीयायाम्",
+     "ourVrtti": "तृतीयान्ते उपपदे उपपूर्वाद् दंशेः धातोः णमुल् प्रत्ययः परः च भवति",
+     "kashika": "<<दंश दशने>> अस्माद् धातोरुपपूर्वात् तृतीयान्त उपपदे णमुल् प्रत्ययो भवति।",
+     "prathamavrtti": "तृतीयान्त उपपदे उपपूर्वाद् ‘दंश दशने’ इत्यस्माद् धातोर्णमुल् प्रत्ययो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G20",
+   "group": "carried / not a sūtra word | nipātana | X: PIS 23 … … … … (not 1.1.72 — paribhāṣ",
+   "count": 5,
+   "sutras": [
+    "4.1.2 ङ्याप्प्रातिपदिकात्  ⟨“ङ्यन्तात् आबन्तात् प्रातिपदिकात् च”⟩",
+    "5.3.17 सप्तम्याः  ⟨“सप्तम्यन्तात्”⟩",
+    "5.3.18 सप्तम्याः  ⟨“सप्तम्यन्तात्”⟩",
+    "5.3.67 तिङः  ⟨“तिङन्तात्”⟩",
+    "7.2.27 णेः  ⟨“ण्यन्तानाम्”⟩"
+   ],
+   "samples": [
+    {
+     "n": "4.1.2",
+     "word": "ङ्याप्प्रातिपदिकात्",
+     "trigger": "ङ्याप्प्रातिपदिकात्: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛ",
+     "effect": "“ङ्यन्तात् आबन्तात् प्रातिपदिकात् च”",
+     "sutra": "स्वौजसमौट्छष्टाभ्याम्भिस्ङेभ्याम्भ्यस्ङसिभ्याम्भ्यस्ङसोसाङ्ङ्योस्सुप्",
+     "ourVrtti": "परे ङ्यन्तात् आबन्तात् प्रातिपदिकात् च स्वादयः एकविंशतिः प्रत्ययाः पराः च भवन्ति",
+     "kashika": "ङ्याप्प्रातिपदिकात् स्वादयः प्रत्यया भवन्ति।",
+     "prathamavrtti": "सु, औ, जस्, अम्, औट्, शस्, टा, भ्याम्, भिस्, ङे, भ्याम्, भ्यस्, ङसि, भ्याम्, भ्यस्, ङस्, ओस्, आम्, ङि, ओस्, सुप्, इत्येते प्रत्ययाः ङ्याप्प्रातिपदिकाद् भवन्ति॥"
+    },
+    {
+     "n": "5.3.17",
+     "word": "सप्तम्याः",
+     "trigger": "सप्तम्याः: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, ",
+     "effect": "“सप्तम्यन्तात्”",
+     "sutra": "अधुना",
+     "ourVrtti": "इदमः स्थाने अश्-आदेशः अधुना इति निपात्यते इदमः सप्तम्यन्तात् काले अर्थे",
+     "kashika": "इदमोऽश्भावो धुना च प्रत्ययः।",
+     "prathamavrtti": "अधुना इति निपात्यते । सप्तम्यन्तस्य इदमः स्थानेऽश् आदेशो निपात्यते धुना च प्रत्ययः, अथवा इदमऽधुना च प्रत्ययः ॥"
+    },
+    {
+     "n": "5.3.18",
+     "word": "सप्तम्याः",
+     "trigger": "सप्तम्याः: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, ",
+     "effect": "“सप्तम्यन्तात्”",
+     "sutra": "दानीं च",
+     "ourVrtti": "इदमः सप्तम्यन्तात् काले अर्थे दानीम् प्रत्ययः परः च भवति",
+     "kashika": "इदमः सप्तम्यन्तात् काले वर्तमानाद् दानीं प्रत्ययो भवति।",
+     "prathamavrtti": "काले वर्त्तमानात् सप्तम्यान्ताद् इदमो दानीं प्रत्ययो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G21",
+   "group": "own word, data case 7 | svara | X: nimitta",
+   "count": 5,
+   "sutras": [
+    "6.2.45 क्ते  ⟨“क्तान्ते उत्तरपदे”⟩",
+    "6.2.61 क्ते  ⟨“क्तान्ते उत्तरपदे परतः”⟩",
+    "6.2.73 अके  ⟨“अक-प्रत्ययान्ते उत्तरपदे”⟩",
+    "6.2.75 अणि  ⟨“अणन्ते उत्तरपदे”⟩",
+    "6.2.79 णिनि  ⟨“णिन्यन्ते उत्तरपदे”⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.2.45",
+     "word": "क्ते",
+     "trigger": "क्ते: nimitta",
+     "effect": "“क्तान्ते उत्तरपदे”",
+     "sutra": "क्ते च",
+     "ourVrtti": "क्तान्ते उत्तरपदे चतुर्थ्यन्तम् पूर्वपदम् प्रकृत्या भवति",
+     "kashika": "क्तान्ते चोत्तरपदे चतुर्थ्यन्तं पूर्वपदं प्रकृतिस्वरं भवति।",
+     "prathamavrtti": "क्तान्ते चोत्तरपदे चतुर्थ्यन्तं पूर्वपदं प्रकृतिस्वरं भवति ॥"
+    },
+    {
+     "n": "6.2.61",
+     "word": "क्ते",
+     "trigger": "क्ते: nimitta",
+     "effect": "“क्तान्ते उत्तरपदे परतः”",
+     "sutra": "क्ते नित्यार्थे",
+     "ourVrtti": "क्तान्ते उत्तरपदे परे पूर्वपदम् नित्यार्थे समासे अन्यतरस्याम् प्रकृत्या भवति",
+     "kashika": "क्तान्त उत्तरपदे नित्यार्थे समासे पूर्वपदमन्यतरस्यां प्रकृतिस्वरं भवति।",
+     "prathamavrtti": "क्तान्त उत्तरपदे, नित्यार्थे समासे पूर्वपदमन्यतरस्यां प्रकृतिस्वरं भवति ॥"
+    },
+    {
+     "n": "6.2.73",
+     "word": "अके",
+     "trigger": "अके: nimitta",
+     "effect": "“अक-प्रत्ययान्ते उत्तरपदे”",
+     "sutra": "अके जीविकाऽर्थे",
+     "ourVrtti": "अक-प्रत्ययान्ते उत्तरपदे पूर्वपदम् जीविकार्थवाचिनि समासे आदिः उदात्तः भवति",
+     "kashika": "अकप्रत्ययान्त उत्तरपदे जीविकार्थवाचिनि समासे पूर्वपदमाद्युदात्तं भवति।",
+     "prathamavrtti": "जीविकाशब्देन तद्वान् अत्र लक्ष्यते। जीविकार्थवाचिनि समासे अकप्रत्ययान्तशब्द उत्तरपदे पूर्वपदमाद्युदात्तं भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G22",
+   "group": "own word, data case 1 | svara | X: qualifier",
+   "count": 5,
+   "sutras": [
+    "6.2.145 क्तः  ⟨“क्तान्तम्”⟩",
+    "6.2.150 अनः  ⟨“अनप्रत्ययान्तम्”⟩",
+    "6.2.155 तद्धिताः  ⟨“तद्धितान्तानि”⟩",
+    "6.2.157 अच्कौ  ⟨“अच्प्रत्ययान्तं कप्रत्ययान्तं च”⟩",
+    "8.2.104 तिङ्  ⟨“तिङन्तस्य पदस्य”⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.2.145",
+     "word": "क्तः",
+     "trigger": "क्तः: qualifier",
+     "effect": "“क्तान्तम्”",
+     "sutra": "सूपमानात् क्तः",
+     "ourVrtti": "सु इत्येतस्मात् उपमानात् च परम् क्तान्तम् उत्तरपदम् अन्तोदात्तम् भवति",
+     "kashika": "सु इत्येतस्मादुपमानात् च परं क्तान्तमुत्तरपदमन्तोदात्तं भवति।",
+     "prathamavrtti": "सोः उपमानाच्च परं क्तान्तमुत्तरपदमन्तोदात्तं भवति ॥"
+    },
+    {
+     "n": "6.2.150",
+     "word": "अनः",
+     "trigger": "अनः: qualifier",
+     "effect": "“अनप्रत्ययान्तम्”",
+     "sutra": "अनो भावकर्मवचनः",
+     "ourVrtti": "कारकात् परम् अनप्रत्ययान्तम् उत्तरपदम् भाववचनं कर्मवचनं च अन्तोदात्तम् भवति",
+     "kashika": "अनप्रत्ययान्तमुत्तरपदं भाववचनं कर्मवचनं च कारकात् परमन्तोदात्तं भवति।",
+     "prathamavrtti": "कारकात् परं भाववचनं कर्मवचनं चानप्रत्ययान्तमुत्तरपदमन्तोदात्तं भवति॥"
+    },
+    {
+     "n": "6.2.155",
+     "word": "तद्धिताः",
+     "trigger": "तद्धिताः: qualifier",
+     "effect": "“तद्धितान्तानि”",
+     "sutra": "नञो गुणप्रतिषेधे सम्पाद्यर्हहितालमर्थास्तद्धिताः",
+     "ourVrtti": "नञः परस्य सम्पाद्यर्हहितालमर्थाः तद्धितान्तानि उत्तरपदानि गुणप्रतिषेधे वर्तमानात् अन्तोदात्तानि भवति",
+     "kashika": "संपादि अर्ह हित अलम् इत्येवमर्था ये तद्धितास्तदन्तान्युत्तरपदानि नञो गुणप्रतिषेधे वर्तमानात् पराण्यन्तोदात्तानि भवन्ति।",
+     "prathamavrtti": "सम्पदादि, अर्ह, हित, अलम् इत्येवमर्था ये तद्धितास्तदन्तान्युत्तरपदानि गुणप्रतिषेधे वर्त्तमानात् नञः पराण्यन्तोदात्तानि भवन्ति।"
+    }
+   ]
+  },
+  {
+   "id": "G23",
+   "group": "carried / not a sūtra word | vibhakti | X: PIS 23 … … … … (not 1.1.72 — paribhāṣ",
+   "count": 4,
+   "sutras": [
+    "5.3.29 सप्तमी-पञ्चमी-प्रथमाभ्यः  ⟨सप्तमी पञ्चमी प्रथमान्तेभ्यः — what ENDS in it, as the नैलेश-वृत्तिः r⟩",
+    "5.3.37 सप्तमी-पञ्चमी-प्रथमाभ्यः  ⟨सप्तमी पञ्चमी प्रथमान्तात् — what ENDS in it, as the नैलेश-वृत्तिः rea⟩",
+    "5.3.38 सप्तमी-पञ्चमी-प्रथमाभ्यः  ⟨सप्तमी पञ्चमी प्रथमान्तात् — what ENDS in it, as the नैलेश-वृत्तिः rea⟩",
+    "5.3.39 सप्तमी-पञ्चमी-प्रथमाभ्यः  ⟨सप्तमी पञ्चमी प्रथमान्तेभ्यः — what ENDS in it, as the नैलेश-वृत्तिः r⟩"
+   ],
+   "samples": [
+    {
+     "n": "5.3.29",
+     "word": "सप्तमी-पञ्चमी-प्रथमाभ्यः",
+     "trigger": "सप्तमी-पञ्चमी-प्रथमाभ्यः: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakār",
+     "effect": "सप्तमी पञ्चमी प्रथमान्तेभ्यः — what ENDS in it, as the नैलेश-वृत्तिः reads it",
+     "sutra": "विभाषा परावराभ्याम्",
+     "ourVrtti": "परावरशब्दाभ्याम् सप्तमीपञ्चमीप्रथमान्ताभ्याम् दिग्देशकालेषु विभाषा अतसुच् प्रत्ययः परः च भवति",
+     "kashika": "परावरशब्दाभ्यां विभाषातसुच् प्रत्ययो भवत्यस्तातेरर्थे।",
+     "prathamavrtti": "सप्तमीपञ्चमीप्रथमान्ताभ्यां दिग्देशकालेषु वर्त्तमानाभ्यां पर, अवर इत्येताभ्यां शब्दाभ्यां विभाषाऽतसुच् प्रत्ययो भवति, पक्षे अस्तातिः॥"
+    },
+    {
+     "n": "5.3.37",
+     "word": "सप्तमी-पञ्चमी-प्रथमाभ्यः",
+     "trigger": "सप्तमी-पञ्चमी-प्रथमाभ्यः: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakār",
+     "effect": "सप्तमी पञ्चमी प्रथमान्तात् — what ENDS in it, as the नैलेश-वृत्तिः reads it",
+     "sutra": "आहि च दूरे",
+     "ourVrtti": "अपञ्चम्यन्तात् दक्षिणशब्दात् दूरे वाच्ये अस्तातेरर्थे आहि आच् प्रत्ययौ परौ च भवतः",
+     "kashika": "दक्षिणशब्दादाहिः प्रत्ययो भवत्यस्तातेरर्थे, चकारादाच् दूरे चेदवधिमानवधेर्भवति।",
+     "prathamavrtti": "अपञ्चम्यन्ताद् दक्षिणशब्दाद् आहि प्रत्ययो भवत्याच् च, अस्तातेरर्थे दूरे वाच्ये ॥"
+    },
+    {
+     "n": "5.3.38",
+     "word": "सप्तमी-पञ्चमी-प्रथमाभ्यः",
+     "trigger": "सप्तमी-पञ्चमी-प्रथमाभ्यः: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakār",
+     "effect": "सप्तमी पञ्चमी प्रथमान्तात् — what ENDS in it, as the नैलेश-वृत्तिः reads it",
+     "sutra": "उत्तराच्च",
+     "ourVrtti": "अपञ्चम्यन्तात् उत्तरशब्दात् दूरे वाच्ये अस्तातेरर्थे आच् आहि प्रत्ययौ परौ च भवतः",
+     "kashika": "उत्तरशब्दादाजाही प्रत्ययौ भवतोऽस्तातेरर्थे, दूरे चेदवधिमानवधेर्भवति।",
+     "prathamavrtti": "अपञ्चम्यन्ताद् उत्तरशब्दात् आच्, आहि इत्येतौ प्रत्ययौ भवतो दूरे वाच्येऽस्तातेरर्थे ॥"
+    }
+   ]
+  },
+  {
+   "id": "G24",
+   "group": "own word, data case 5 | svara | X: a suffix named in the 5th",
+   "count": 4,
+   "sutras": [
+    "6.1.173 शतुः  ⟨शत्रन्तात् — a word ENDING in it⟩",
+    "6.1.173 शतुः  ⟨शत्रन्तात् — a word ENDING in it⟩",
+    "6.1.178 ङ्याः  ⟨ङ्यन्तात् — a word ENDING in it⟩",
+    "8.1.27 तिङः  ⟨तिङन्तात् — a word ENDING in it⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.173",
+     "word": "शतुः",
+     "trigger": "शतुः: a suffix named in the 5th",
+     "effect": "शत्रन्तात् — a word ENDING in it",
+     "sutra": "शतुरनुमो नद्यजादी",
+     "ourVrtti": "अनुमः अन्तोदात्तात् असर्वनामस्थानम् शतृप्रत्ययान्तात् नदी अजादिर्विभक्तिश्च विभक्तिः उदात्ता भवति",
+     "kashika": "अनुम् यः शतृप्रत्ययस्तदन्तादन्तोदात्तात् पर नद्यजादिर्वि — भक्ति रसर्वनामस्थानमुदात्ता भवति।",
+     "prathamavrtti": "अनुम् यः शतृप्रत्ययस्तदन्तादन्तोदात्तात् परा नदी, अजायसर्वनामस्थानविभक्तिश्चोदात्ता भवति॥"
+    },
+    {
+     "n": "6.1.173",
+     "word": "शतुः",
+     "trigger": "शतुः: a suffix named in the 5th",
+     "effect": "शत्रन्तात् — a word ENDING in it",
+     "sutra": "शतुरनुमो नद्यजादी",
+     "ourVrtti": "अनुमः अन्तोदात्तात् असर्वनामस्थानम् शतृप्रत्ययान्तात् नदी अजादिर्विभक्तिश्च विभक्तिः उदात्ता भवति",
+     "kashika": "अनुम् यः शतृप्रत्ययस्तदन्तादन्तोदात्तात् पर नद्यजादिर्वि — भक्ति रसर्वनामस्थानमुदात्ता भवति।",
+     "prathamavrtti": "अनुम् यः शतृप्रत्ययस्तदन्तादन्तोदात्तात् परा नदी, अजायसर्वनामस्थानविभक्तिश्चोदात्ता भवति॥"
+    },
+    {
+     "n": "6.1.178",
+     "word": "ङ्याः",
+     "trigger": "ङ्याः: a suffix named in the 5th",
+     "effect": "ङ्यन्तात् — a word ENDING in it",
+     "sutra": "ङ्याश्छन्दसि बहुलम्",
+     "ourVrtti": "छन्दसि विषये ङ्यन्तात् नाम् बहुलम् उदात्तः भवति",
+     "kashika": "ङ्यन्ताच्छन्दसि विषये नामुदात्तो भवति बहुलम्।",
+     "prathamavrtti": "छन्दसि विषये ङ्यन्तात् परो नाम् उदात्तो भवति बहुलम् ॥"
+    }
+   ]
+  },
+  {
+   "id": "G25",
+   "group": "own word, data case 6 | svara | X: a suffix named in the 6th",
+   "count": 4,
+   "sutras": [
+    "6.1.213 यतः  ⟨यदन्तस्य — a word ENDING in it⟩",
+    "6.1.213 यतः  ⟨यदन्तस्य — a word ENDING in it⟩",
+    "6.1.214 ण्यतः  ⟨ण्यदन्तस्य — a word ENDING in it⟩",
+    "6.1.214 ण्यतः  ⟨ण्यदन्तस्य — a word ENDING in it⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.213",
+     "word": "यतः",
+     "trigger": "यतः: a suffix named in the 6th",
+     "effect": "यदन्तस्य — a word ENDING in it",
+     "sutra": "यतोऽनावः",
+     "ourVrtti": "नौशब्दात् परः न चेत् द्व्यचः यत्प्रत्ययान्तस्य आदिः उदात्तः भवति",
+     "kashika": "यत्प्रत्ययान्तस्यद्व्यच आदिरुदात्तो भवति, न चेद् नौशब्दात् परो भवति।",
+     "prathamavrtti": "यत्प्रत्ययान्तस्य द्व्यच आदिरुदात्तो भवति, न चेत् नौशब्दात् परो भवति ॥"
+    },
+    {
+     "n": "6.1.213",
+     "word": "यतः",
+     "trigger": "यतः: a suffix named in the 6th",
+     "effect": "यदन्तस्य — a word ENDING in it",
+     "sutra": "यतोऽनावः",
+     "ourVrtti": "नौशब्दात् परः न चेत् द्व्यचः यत्प्रत्ययान्तस्य आदिः उदात्तः भवति",
+     "kashika": "यत्प्रत्ययान्तस्यद्व्यच आदिरुदात्तो भवति, न चेद् नौशब्दात् परो भवति।",
+     "prathamavrtti": "यत्प्रत्ययान्तस्य द्व्यच आदिरुदात्तो भवति, न चेत् नौशब्दात् परो भवति ॥"
+    },
+    {
+     "n": "6.1.214",
+     "word": "ण्यतः",
+     "trigger": "ण्यतः: a suffix named in the 6th",
+     "effect": "ण्यदन्तस्य — a word ENDING in it",
+     "sutra": "ईडवन्दवृशंसदुहां ण्यतः",
+     "ourVrtti": "ण्यदन्तस्य ईड-वन्द-वृ-शंस-दुह् इत्येतेषां धातूनां आदिः उदात्तः भवति",
+     "kashika": "ईड वन्द वृ शंस दुह् इत्येतेषां यो ण्यत् तदन्तस्यादिरुदात्तो भवति।",
+     "prathamavrtti": "ईड, वन्द, वृ, शंस, दुह इत्येतेषां यो ण्यत् तदन्तस्यादिरुदात्तो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G26",
+   "group": "own word, data case 7 | svara | X: PIS 23 … … … … (not 1.1.72 — paribhāṣ",
+   "count": 4,
+   "sutras": [
+    "6.1.217 रिति  ⟨रित्प्रत्ययान्तस्य — what ENDS in it, as the Siddhānta-kaumudī reads i⟩",
+    "6.1.218 चङि  ⟨चङन्तस्य — what ENDS in it, as the prathamāvṛtti reads it⟩",
+    "6.2.32 सप्तमी  ⟨“सप्तम्यन्तम्”⟩",
+    "8.1.71 तिङि  ⟨“तिङन्ते परतः”⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.217",
+     "word": "रिति",
+     "trigger": "रिति: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, niṣṭh",
+     "effect": "रित्प्रत्ययान्तस्य — what ENDS in it, as the Siddhānta-kaumudī reads it",
+     "sutra": "उपोत्तमं रिति",
+     "ourVrtti": "उपोत्तमम् रिदन्तस्य उदात्तम् भवति",
+     "kashika": "रिदन्तस्योपोत्तममुदात्तं भवति।",
+     "prathamavrtti": "रिदन्तस्य उपोत्तममुदात्तं भवति ॥"
+    },
+    {
+     "n": "6.1.218",
+     "word": "चङि",
+     "trigger": "चङि: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, niṣṭhā",
+     "effect": "चङन्तस्य — what ENDS in it, as the prathamāvṛtti reads it",
+     "sutra": "चङ्यन्यतरस्याम्",
+     "ourVrtti": "चङन्तस्य उपोत्तमम् अन्यतरस्याम् उदात्तः भवति",
+     "kashika": "चङन्तेऽन्यतरस्यामुपोत्तममुदात्तं भवति।",
+     "prathamavrtti": "चङन्तस्याऽन्यतरस्यामुपोत्तममुदात्तं भवति ॥"
+    },
+    {
+     "n": "6.2.32",
+     "word": "सप्तमी",
+     "trigger": "सप्तमी: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, niṣ",
+     "effect": "“सप्तम्यन्तम्”",
+     "sutra": "सप्तमी सिद्धशुष्कपक्वबन्धेष्वकालात्",
+     "ourVrtti": "सप्तम्यन्तम् सिद्ध शुष्क पक्व बन्ध इत्येतेषु उत्तरपदेषु अकालवाचिनः पूर्वपदम् प्रकृत्या भवति",
+     "kashika": "सप्तम्यन्तं पूर्वपदं सिद्ध शुष्क पक्व बन्ध इत्येतेषूत्तरपदेषु प्रकृतिस्वरं भवति, सा चेत् सप्तमी कालाद् न भवति।",
+     "prathamavrtti": "—सिद्ध, शुष्क, पक्व, बन्ध इत्येतेषूत्तरपदेष्वकालवाचि सप्तम्यन्तं पूर्वपदं प्रकृतिस्वरं भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G27",
+   "group": "own word, data case 5 | svara | X: a case named in the 5th",
+   "count": 4,
+   "sutras": [
+    "6.2.134 अ-प्राणि-षष्ठ्याः  ⟨अप्राणिषष्ठ्यन्तात् — a word ENDING in that case ending⟩",
+    "6.2.152 सप्तम्याः  ⟨सप्तम्यन्तात् — a word ENDING in that case ending⟩",
+    "6.2.153 तृतीयायाः  ⟨तृतीयान्तात् — a word ENDING in that case ending⟩",
+    "8.1.26 प्रथमायाः  ⟨प्रथमान्तात् — a word ENDING in that case ending⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.2.134",
+     "word": "अ-प्राणि-षष्ठ्याः",
+     "trigger": "अ-प्राणि-षष्ठ्याः: a case named in the 5th",
+     "effect": "अप्राणिषष्ठ्यन्तात् — a word ENDING in that case ending",
+     "sutra": "चूर्णादीन्यप्राणिषष्ठ्याः",
+     "ourVrtti": "तत्पुरुषे समासे अप्राणिवाचिनः षष्ठ्यन्तात् पराणि उत्तरपदस्य आदिः चूर्णादीनि उत्तरपदानि उदात्तः भवति",
+     "kashika": "चूर्णादीन्युत्तरपदानि अप्राणिवाचिनः षष्ठ्यन्तात् पराणि तत्पुरुषे समास आद्युदात्तानि भवन्ति।",
+     "prathamavrtti": "अप्राणिवाचिनः षष्ठ्यन्तात् पराणि चूर्णादीन्युत्तरपदानि तत्पुरुषे समास आद्युदात्तानि भवन्ति॥"
+    },
+    {
+     "n": "6.2.152",
+     "word": "सप्तम्याः",
+     "trigger": "सप्तम्याः: a case named in the 5th",
+     "effect": "सप्तम्यन्तात् — a word ENDING in that case ending",
+     "sutra": "सप्तम्याः पुण्यम्",
+     "ourVrtti": "सप्तम्यन्तात् परम् उत्तरपदम् पुण्यम् अन्तोदात्तम् भवति",
+     "kashika": "सप्तम्यन्तात् परं पुण्यमित्येतदुत्तरपदमन्तोदात्तं भवति।",
+     "prathamavrtti": "सप्तम्यन्तात् परं पुण्यमित्येतदुत्तरपदमन्तोदात्तं भवति॥"
+    },
+    {
+     "n": "6.2.153",
+     "word": "तृतीयायाः",
+     "trigger": "तृतीयायाः: a case named in the 5th",
+     "effect": "तृतीयान्तात् — a word ENDING in that case ending",
+     "sutra": "ऊनार्थकलहं तृतीयायाः",
+     "ourVrtti": "तृतीयान्तात् परम् उत्तरपदानि ऊनार्थानि कलहशब्दश्च अन्तोदात्तानि भवति",
+     "kashika": "ऊनार्थान्युत्तरपदानि कलहशब्दश्च तृतीयान्तात् पराण्यन्तोदात्तानि भवन्ति।",
+     "prathamavrtti": "तृतीयान्तात् पराण्यूना-र्थान्युत्तरपदानि कलहशब्दश्चान्तोदात्तानि भवन्ति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G28",
+   "group": "own word, data case 1 | svara | X: sthani",
+   "count": 4,
+   "sutras": [
+    "6.2.139 कृत्  ⟨“कृदन्तम् उत्तरपदम्”⟩",
+    "6.2.170 क्तः  ⟨“क्तप्रत्ययान्तम् उत्तरपदम्”⟩",
+    "8.1.68 तिङ्  ⟨“तिङन्तम्”⟩",
+    "8.2.96 तिङ्  ⟨“तिङन्तम्”⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.2.139",
+     "word": "कृत्",
+     "trigger": "कृत्: sthani",
+     "effect": "“कृदन्तम् उत्तरपदम्”",
+     "sutra": "गतिकारकोपपदात् कृत्",
+     "ourVrtti": "तत्पुरुषे समासे गतेः कारकाद् उपपदाच्च परम् कृदन्तम् उत्तरपदम् प्रकृतिस्वरम् भवति",
+     "kashika": "गतेः कारकादुपपदात् च कृदन्तमुत्तरपदं तत्पुरुषे समासे प्रकृतिस्वरं भवति।",
+     "prathamavrtti": "गतेः कारकाद् उपपदाच्च परं कृदन्तमुत्तरपदं तत्पुरुषे समासे प्रकृतिस्वरं भवति॥"
+    },
+    {
+     "n": "6.2.170",
+     "word": "क्तः",
+     "trigger": "क्तः: sthani",
+     "effect": "“क्तप्रत्ययान्तम् उत्तरपदम्”",
+     "sutra": "जातिकालसुखादिभ्योऽनाच्छादनात् क्तोऽकृतमितप्रतिपन्नाः",
+     "ourVrtti": "बहुव्रीहौ समासे जाति काल सुखादि इत्येतेभ्यः आच्छादनवर्जितात् कृतमितप्रतिपन्नान् वर्जयित्वा क्तप्रत्ययान्तम् उत्तरपदम् अन्तोदात्तः भवति",
+     "kashika": "जातिवाचिन आच्छादनवर्जितात् कालवाचिनः सुखादिभ्यश्च परं क्तान्तं कृतमितप्रतिपन्नान् वर्जयित्वा बहुव्रीहौ समासेऽन्तोदात्तं भवति।",
+     "prathamavrtti": "बहुव्रीहौ समासे आच्छादनवर्जितात् जातिवाचिनः कालवाचिनः सुखादिभ्यश्च परं क्तान्तमुत्तरपदं कृतमितप्रतिपन्नान् वर्जयित्वाऽन्तोदात्तं भवति ॥"
+    },
+    {
+     "n": "8.1.68",
+     "word": "तिङ्",
+     "trigger": "तिङ्: sthani",
+     "effect": "“तिङन्तम्”",
+     "sutra": "सगतिरपि तिङ्",
+     "ourVrtti": "पूजनात् परम् सगतिकम् पूजितम् तिङन्तम् अपि अनुदात्तम् भवति",
+     "kashika": "सगतिरगतिरपि पूजनेभ्यः काष्ठादिभ्यः परं पूजितं तिङन्तमनुदात्तं भवति।",
+     "prathamavrtti": "पूजनात् परं सगतिरगतिरपि पूजितं तिङन्तमनुदात्तं भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G29",
+   "group": "own word, data case 6 | operation | X: describes the pūrvapada (uttarapada s",
+   "count": 4,
+   "sutras": [
+    "6.3.43 ङ्यः  ⟨ङ्यन्तस्य — a pūrvapada ENDING in it⟩",
+    "6.3.61 अङ्यः  ⟨अङ्यन्तस्य — a pūrvapada ENDING in it⟩",
+    "6.3.63 ङि-आपोः  ⟨ङ्यन्तस्य — a pūrvapada ENDING in it⟩",
+    "6.3.135 तिङः  ⟨तिङन्तस्य — a pūrvapada ENDING in it⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.3.43",
+     "word": "ङ्यः",
+     "trigger": "ङ्यः: describes the pūrvapada (uttarapada section)",
+     "effect": "ङ्यन्तस्य — a pūrvapada ENDING in it",
+     "sutra": "घरूपकल्पचेलड्ब्रुवगोत्रमतहतेषु ङ्योऽनेकाचो ह्रस्वः",
+     "ourVrtti": "घरूपकल्पचेलड्ब्रुवगोत्रमतहतेषु परे भाषितपुंस्कात् परस्य अनेकाचः ङ्यन्तस्य स्थाने ह्रस्वः आदेशः भवति",
+     "kashika": "घ रूप कल्प चेलट् ब्रुव गोत्र मत हत इत्येतेषु परतो भाषितपुंस्कात्  परो यो ङीप्रत्ययस्तदन्तस्यानेकाचो ह्रस्वो भवति।",
+     "prathamavrtti": "भाषितपुंस्कात् परो यो ङीप्रत्ययस्तदन्तस्यानेकाचो ह्रस्वो भवति घ रूप कल्प चेलट् ब्रुव गोत्र मत हत इत्येतेषु परतः॥"
+    },
+    {
+     "n": "6.3.61",
+     "word": "अङ्यः",
+     "trigger": "अङ्यः: describes the pūrvapada (uttarapada section)",
+     "effect": "अङ्यन्तस्य — a pūrvapada ENDING in it",
+     "sutra": "इको ह्रस्वोऽङ्यो गालवस्य",
+     "ourVrtti": "उत्तरपदे परे अङ्यन्तस्य इगन्तस्य स्थाने गालवस्य आचार्यस्य मतेन विकल्पेन ह्रस्वः आदेशः भवति",
+     "kashika": "इगन्तस्याङ्यन्तस्योत्तरपदे ह्रस्वो भवति गालवस्याचार्यस्य मतेनान्यतरस्याम्।",
+     "prathamavrtti": "अङ्यन्तस्येगन्तस्योत्तरपदे ह्रस्वो भवति विकल्पेन गालवस्याचार्यस्य मतेन ॥"
+    },
+    {
+     "n": "6.3.63",
+     "word": "ङि-आपोः",
+     "trigger": "ङि-आपोः: describes the pūrvapada (uttarapada section)",
+     "effect": "ङ्यन्तस्य — a pūrvapada ENDING in it",
+     "sutra": "ङ्यापोः संज्ञाछन्दसोर्बहुलम्",
+     "ourVrtti": "संज्ञायां विषये छन्दसि विषये च उत्तरपदे परे ङ्यन्तस्य आबन्तस्य च स्थाने बहुलम् ह्रस्वः आदेशः भवति",
+     "kashika": "ङ्यन्तस्याबन्तस्य च संज्ञाछन्दसोर्बहुलं ह्रस्वो भवति।",
+     "prathamavrtti": "ङ्यन्तस्य आबन्तस्य च उत्तरपदे परतः संज्ञायां विषये छन्दसि विषये च बहुलं ह्रस्वो भवति।"
+    }
+   ]
+  },
+  {
+   "id": "G30",
+   "group": "carried / not a sūtra word | ādeśa | X: PIS 23 … … … … (not 1.1.72 — paribhāṣ",
+   "count": 4,
+   "sutras": [
+    "6.4.110 उतः  ⟨उदन्तात् अङ्गात् (an aṅga ending in it)⟩",
+    "6.4.113 श्ना-अभ्यस्तयोः  ⟨“श्नान्तानाम् अभ्यस्तानां च”⟩",
+    "7.3.105 आपः qualifies अङ्गस्य  ⟨आबन्तस्य अङ्गस्य (an aṅga ending in it)⟩",
+    "7.3.106 आपः  ⟨आबन्तस्य — what ENDS in it, as the नैलेश-वृत्तिः, prathamāvṛtti, Kāśik⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.110",
+     "word": "उतः",
+     "trigger": "उतः: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, niṣṭhā",
+     "effect": "उदन्तात् अङ्गात् (an aṅga ending in it)",
+     "sutra": "अत उत् सार्वधातुके",
+     "ourVrtti": "उकारप्रत्ययान्तस्य करोतेः अकारस्य स्थाने उकारः आदेशः भवति, क्ङिति सार्वधातुके परतः",
+     "kashika": "उकारप्रत्ययान्तस्य करोतेरकारस्य स्थान उकार आदेशो भवति सार्वधातुके क्ङिति परतः।",
+     "prathamavrtti": "उकारप्रत्ययान्तस्य करोतेरकारस्य स्थाने उकार आदेशो भवति, क्ङिति सार्वधातुके परतः ॥"
+    },
+    {
+     "n": "6.4.113",
+     "word": "श्ना-अभ्यस्तयोः",
+     "trigger": "श्ना-अभ्यस्तयोः: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, k",
+     "effect": "“श्नान्तानाम् अभ्यस्तानां च”",
+     "sutra": "ई हल्यघोः",
+     "ourVrtti": "हलादौ परे सार्वधातुके परे घुवर्जितानाम् श्नान्तानाम् अभ्यस्तानां च क्ङिति आकारस्य स्थाने अङ्गानाम् अङ्गस्य स्थाने ईकारादेशः भवति",
+     "kashika": "श्नान्तानामङ्गानामभ्यस्तानां च घुवर्जितानामात ईकारादेशो भवति इलादौ सार्वधातुके क्ङिति परतः।",
+     "prathamavrtti": "घुवर्जितानां श्नान्तानामङ्गानामभ्यस्तानाञ्चातः स्थाने ईकारादेशो भवति हलादौ क्ङिति सार्वधातुके परतः ॥"
+    },
+    {
+     "n": "7.3.105",
+     "word": "आपः qualifies अङ्गस्य",
+     "trigger": "आपः qualifies अङ्गस्य: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, ",
+     "effect": "आबन्तस्य अङ्गस्य (an aṅga ending in it)",
+     "sutra": "आङि चापः",
+     "ourVrtti": "आङि परे ओसि परे आबन्तस्य अङ्गस्य स्थाने एकारादेशः भवति",
+     "kashika": "तस्मिन्नाङि परतश्चकारादोसि चाबन्तस्याङ्गस्यैकारादेशो भवति।",
+     "prathamavrtti": "आबन्तस्याङ्गस्य आङि परतश्चकारादोसि च परत एकारादेशो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G31",
+   "group": "own word, data case 5 | ādeśa | X: a suffix (…) among the members in the",
+   "count": 3,
+   "sutras": [
+    "3.1.48 णि-श्रि-द्रु-स्रुभ्यः  ⟨ण्यन्तेभ्यः — what ENDS in it⟩",
+    "3.4.109 सिच्-अभ्यस्त-विदिभ्यः  ⟨सिजन्तेभ्यः — what ENDS in it⟩",
+    "7.3.51 इस्-उस्-उक्-त-अन्तात्  ⟨उस्शब्दान्तेभ्यः — what ENDS in it⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.48",
+     "word": "णि-श्रि-द्रु-स्रुभ्यः",
+     "trigger": "णि-श्रि-द्रु-स्रुभ्यः: a suffix (णि) among the members in the 5th",
+     "effect": "ण्यन्तेभ्यः — what ENDS in it",
+     "sutra": "णिश्रिद्रुस्रुभ्यः कर्तरि चङ्",
+     "ourVrtti": "लुङि परे ण्यन्तेभ्यः श्रि-द्रु-स्रुभ्यश्च धातुभ्यः च्लेः स्थाने कर्तरि अर्थे चङ्-आदेशः भवति",
+     "kashika": "ण्यन्तेभ्यो धातुभ्यः श्रि द्रु स्रु इत्येतेभ्यश्च परस्य च्लेश्चङादेशो भवति कर्तृवाचिनि लुङि परतः।",
+     "prathamavrtti": "ण्यन्तेभ्यः, श्रि द्रु स्रु इत्येतेभ्यश्च धातुभ्य उत्तरस्य च्लेः स्थाने चङ् आदेशो भवति कर्त्तरि लुङि परतः ॥"
+    },
+    {
+     "n": "3.4.109",
+     "word": "सिच्-अभ्यस्त-विदिभ्यः",
+     "trigger": "सिच्-अभ्यस्त-विदिभ्यः: a suffix (सिच्) among the members in the 5th",
+     "effect": "सिजन्तेभ्यः — what ENDS in it",
+     "sutra": "सिजभ्यस्तविदिभ्यश्च",
+     "ourVrtti": "सिचः अभ्यस्तेभ्यः वेत्तेश्च परस्य ङितः झेः स्थाने जुस् आदेशः भवति",
+     "kashika": "सिचः परस्य, अभ्यस्तसंज्ञकेभ्यो वेत्तेश्चोत्तरस्य झेर्जुसादेशो भवति।",
+     "prathamavrtti": "सिचः परस्य, अभ्यस्तसंज्ञकेभ्यो वेत्तेश्चोत्तरस्य ङितो झेर्जुसादेशो भवति ॥"
+    },
+    {
+     "n": "7.3.51",
+     "word": "इस्-उस्-उक्-त-अन्तात्",
+     "trigger": "इस्-उस्-उक्-त-अन्तात्: a suffix (उस्) among the members in the 5th",
+     "effect": "उस्शब्दान्तेभ्यः — what ENDS in it",
+     "sutra": "इसुसुक्तान्तात् कः",
+     "ourVrtti": "अङ्गात् परस्य इसुसुक्तान्तात् ठस्य स्थाने ककारादेशः भवति",
+     "kashika": "इस् उस् इत्येवमन्तानामुगन्तानां तान्तानां चाङ्गानामुत्तरस्य ठस्य क इत्ययमादेशो भवति।",
+     "prathamavrtti": "इसन्तात्, उसन्तात्, उगन्तात्, तकारान्तात् चाङ्गादुत्तरस्य ठस्य स्थाने क इत्ययमादेशो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G32",
+   "group": "own word, data case 6 | vidhi | X: a suffix named as the base",
+   "count": 3,
+   "sutras": [
+    "4.1.91 फक्-फिञोः  ⟨फगन्तात् फिञन्तात् च — what ends in it (with what it was added to)⟩",
+    "4.1.101 यञ्-इञोः  ⟨यञन्तात् इञन्तात् च — what ends in it (with what it was added to)⟩",
+    "4.3.127 अञ्-यञ्-इञाम्  ⟨अञन्तात् यञन्तात् इञन्तात् च — what ends in it (with what it was added⟩"
+   ],
+   "samples": [
+    {
+     "n": "4.1.91",
+     "word": "फक्-फिञोः",
+     "trigger": "फक्-फिञोः: a suffix named as the base",
+     "effect": "फगन्तात् फिञन्तात् च — what ends in it (with what it was added to)",
+     "sutra": "फक्फिञोरन्यतरस्याम्",
+     "ourVrtti": "अजादौ प्रत्यये परे युवप्रत्यययोः फक्-फिञोः युवप्रत्यययोः स्थाने विकल्पेन लुक् भवति",
+     "kashika": "फक् फिञोर्युवप्रत्यययोः प्राग्दीव्यतीयेऽजादौ प्रत्यये विवक्षितेऽन्यतरस्यां लुग् भवति।",
+     "prathamavrtti": "प्राग्दीव्यतीयेऽजादौ प्रत्यये विवक्षिते फक्फिञोर्युवप्रत्यययोर्विकल्पेन लुक् भवति॥"
+    },
+    {
+     "n": "4.1.101",
+     "word": "यञ्-इञोः",
+     "trigger": "यञ्-इञोः: a suffix named as the base",
+     "effect": "यञन्तात् इञन्तात् च — what ends in it (with what it was added to)",
+     "sutra": "यञिञोश्च",
+     "ourVrtti": "गोत्रे विहितयोः यञन्तात् इञन्तात् च षष्ठीसमर्थात् अपत्ये फक् प्रत्ययः परः च भवति",
+     "kashika": "यञन्ताद् इञन्तात् च प्रातिपादिकादपत्ये फक् प्रत्ययो भवति।",
+     "prathamavrtti": "गोत्रे विहितौ यौ यञिञौ प्रत्ययौ तदन्ताद् अपत्ये फक् प्रत्ययो भवति॥"
+    },
+    {
+     "n": "4.3.127",
+     "word": "अञ्-यञ्-इञाम्",
+     "trigger": "अञ्-यञ्-इञाम्: a suffix named as the base",
+     "effect": "अञन्तात् यञन्तात् इञन्तात् च — what ends in it (with what it was added to)",
+     "sutra": "संघाङ्कलक्षणेष्वञ्यञिञामण्",
+     "ourVrtti": "अञ्-यञ्-इञन्तेभ्यः प्रातिपदिकेभ्यः षष्ठीसमर्थेभ्यः संघादिष्वभिधेयेषु इदमर्थे अण् प्रत्ययः परः च भवति",
+     "kashika": "संघादिषु प्रत्ययार्थविशेषणेष्वञन्ताद्, यञन्ताद्, इञन्तात् च प्रातिपदिकादण् प्रत्ययो भवति तस्येदमित्येतस्मिन् विषये।",
+     "prathamavrtti": "संघ, अङ्क, लक्षण, इत्येतेष्वभिधेयेषु षष्ठीसमर्थादबन्तान् यञन्तादिञन्ताच गोत्रप्रत्ययान्तात् प्रातिपदिकादिदमित्येतस्मिन्नर्थेऽण् प्रत्ययो भवति। यथासंख्यमत्र न भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G33",
+   "group": "carried / not a sūtra word | svara | X: nimitta",
+   "count": 3,
+   "sutras": [
+    "6.2.76 अणि  ⟨“अणन्ते उत्तरपदे”⟩",
+    "6.2.77 अणि  ⟨“अणन्ते उत्तरपदे”⟩",
+    "6.2.80 णिनि  ⟨“णिनन्ते उत्तरपदे”⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.2.76",
+     "word": "अणि",
+     "trigger": "अणि: nimitta",
+     "effect": "“अणन्ते उत्तरपदे”",
+     "sutra": "शिल्पिनि चाकृञः",
+     "ourVrtti": "अणन्ते उत्तरपदे कृञ्-व्यतिरिक्तात् आदिः पूर्वपदम् शिल्पिवाचिनि समासे उदात्तः भवति",
+     "kashika": "शिल्पिवाचिनि समासेऽणन्त उत्तरपदे पूर्वपदमाद्युदात्तं भवति, स चेदण् कृञो न भवति।",
+     "prathamavrtti": "अणन्त उत्तरपदे शिल्पिवाचिनि समासे पूर्वपदमाद्युदात्तं भवति, स चेदण् क्रुञो न भवति ॥"
+    },
+    {
+     "n": "6.2.77",
+     "word": "अणि",
+     "trigger": "अणि: nimitta",
+     "effect": "“अणन्ते उत्तरपदे”",
+     "sutra": "संज्ञायां च",
+     "ourVrtti": "संज्ञायाम् विषये अणन्ते उत्तरपदे अकृञः पूर्वपदम् आद्युदात्तम् भवति",
+     "kashika": "संज्ञायां विषयेऽणन्त उत्तरपदेऽकृञः पूर्वपदमाद्युदात्तं भवति।",
+     "prathamavrtti": "अक्रुञोऽणन्त उत्तरपदे संज्ञायां विषये पूर्वपदमाद्युदात्तं भवति ॥"
+    },
+    {
+     "n": "6.2.80",
+     "word": "णिनि",
+     "trigger": "णिनि: nimitta",
+     "effect": "“णिनन्ते उत्तरपदे”",
+     "sutra": "उपमानं शब्दार्थप्रकृतावेव",
+     "ourVrtti": "उपमानवाचि पूर्वपदम् शब्दार्थप्रकृतौ एव णिनन्ते उत्तरपदे आद्युदात्तम् भवति",
+     "kashika": "उपमानवाचि पूर्वपदं शब्दार्थप्रकृतावेव णिनन्त उत्तरपद आद्युदात्तं भवति।",
+     "prathamavrtti": "शब्दार्थप्रकृतावेव णिनन्त उत्तरपद उपमानवाचि पूर्वपदमाद्युदात्तं भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G34",
+   "group": "own word, data case 7 | operation | X: PIS 23 … … … … (not 1.1.72 — paribhāṣ",
+   "count": 3,
+   "sutras": [
+    "6.3.14 कृति  ⟨“कृदन्ते उत्तरपदे”⟩",
+    "6.3.66 खिति  ⟨“खिदन्ते उत्तरपदे परतः”⟩",
+    "6.3.122 घञि  ⟨“घञन्ते उत्तरपदे परतः”⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.3.14",
+     "word": "कृति",
+     "trigger": "कृति: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, niṣṭh",
+     "effect": "“कृदन्ते उत्तरपदे”",
+     "sutra": "तत्पुरुषे कृति बहुलम्",
+     "ourVrtti": "तत्पुरुषे समासे कृदन्ते उत्तरपदे सप्तम्याः बहुलम् अलुग् आदेशः भवति",
+     "kashika": "तत्पुरुषे समासे कृदन्त उत्तरपदे सप्तम्या बहुलमलुग् भवति।",
+     "prathamavrtti": "तत्पुरुषे समासे कृदन्त उत्तरपदे बहुलं सप्तम्या अलुग्- भवति ॥"
+    },
+    {
+     "n": "6.3.66",
+     "word": "खिति",
+     "trigger": "खिति: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, niṣṭh",
+     "effect": "“खिदन्ते उत्तरपदे परतः”",
+     "sutra": "खित्यनव्ययस्य",
+     "ourVrtti": "खिदन्ते उत्तरपदे परे उत्तरपदे अनव्ययस्य पूर्वपदस्य स्थाने ह्रस्वः आदेशः भवति",
+     "kashika": "खिदन्त उत्तरपदेऽनव्ययस्य ह्रस्वो भवति।",
+     "prathamavrtti": "खिदन्त उत्तरपदेऽनव्ययस्य ह्रस्वो भवति।"
+    },
+    {
+     "n": "6.3.122",
+     "word": "घञि",
+     "trigger": "घञि: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, niṣṭhā",
+     "effect": "“घञन्ते उत्तरपदे परतः”",
+     "sutra": "उपसर्गस्य घञ्यमनुष्ये बहुलम्",
+     "ourVrtti": "घञन्ते उत्तरपदे परे उत्तरपदे उपसर्गस्य स्थाने अमनुष्ये वाच्ये बहुलम् दीर्घः आदेशः भवति",
+     "kashika": "उपसर्गस्य घञन्त उत्तरपदेऽमनुष्येऽभिधेये बहुलं दीर्घो भवति।",
+     "prathamavrtti": "घञन्त उत्तरपदेऽमनुष्येऽभिधेय उपसर्गस्याणो बहुलं दीर्घो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G35",
+   "group": "own word, data case 5 | operation | X: a suffix in the 5th describing the aṅ",
+   "count": 3,
+   "sutras": [
+    "6.4.23 श्नात्  ⟨श्नमन्तात् अङ्गात् — an aṅga ENDING in it⟩",
+    "6.4.104 चिणः  ⟨चिणन्तात् अङ्गात् — an aṅga ENDING in it⟩",
+    "7.3.30 नञः  ⟨नञन्तात् अङ्गात् — an aṅga ENDING in it⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.23",
+     "word": "श्नात्",
+     "trigger": "श्नात्: a suffix in the 5th describing the aṅga",
+     "effect": "श्नमन्तात् अङ्गात् — an aṅga ENDING in it",
+     "sutra": "श्नान्नलोपः",
+     "ourVrtti": "श्नादुत्तरस्य नकारस्य अङ्गस्य स्थाने लोपः भवति",
+     "kashika": "तत उत्तरस्य नकारस्य लोपो भवति।",
+     "prathamavrtti": "श्नादुत्तरस्य नकारस्य लोपो भवति ॥"
+    },
+    {
+     "n": "6.4.104",
+     "word": "चिणः",
+     "trigger": "चिणः: a suffix in the 5th describing the aṅga",
+     "effect": "चिणन्तात् अङ्गात् — an aṅga ENDING in it",
+     "sutra": "चिणो लुक्",
+     "ourVrtti": "चिणः उत्तरस्य तस्य प्रत्ययस्य स्थाने अङ्गस्य स्थाने लुक् आदेशः भवति",
+     "kashika": "चिण उत्तरस्य प्रत्ययस्य लुग् भवति।",
+     "prathamavrtti": "चिण उत्तरस्य प्रत्ययस्य लुग् भवति ॥"
+    },
+    {
+     "n": "7.3.30",
+     "word": "नञः",
+     "trigger": "नञः: a suffix in the 5th describing the aṅga",
+     "effect": "नञन्तात् अङ्गात् — an aṅga ENDING in it",
+     "sutra": "नञः शुचीश्वरक्षेत्रज्ञकुशलनिपुणानाम्",
+     "ourVrtti": "नञः उत्तरेषाम् शुचि ईश्वर क्षेत्रज्ञ कुशल निपुण इत्येतेषाम् अचाम् आदेः अचः स्थाने वृद्धिः भवति, पूर्वपदस्य तु वा भवति, तद्धिते ञिति णिति किति च परतः",
+     "kashika": "नञ उत्तरेषां शुचि ईश्वर क्षेत्रज्ञ कुशल निपुण इत्येतेषामचामादेरचो वृद्धिर्भवति पूर्वपदस्य वा भवति तद्धिते ञिति णिति किति च परतः।",
+     "prathamavrtti": "नञ उत्तरेषां शुचि, ईश्वर, क्षेत्रज्ञ, कुशल, निपुण इत्येतेषामचामादेरचः स्थाने वृद्धिर्भवति, पूर्वपदस्य तु वा भवति तद्धिते ञिति णिति किति च परतः॥"
+    }
+   ]
+  },
+  {
+   "id": "G36",
+   "group": "own word, data case 5 | ādeśa | X: PIS 23 … … … … (not 1.1.72 — paribhāṣ",
+   "count": 3,
+   "sutras": [
+    "7.1.18 आपः  ⟨आबन्तात् (what ends in it)⟩",
+    "7.3.96 अस्तिसिचः  ⟨“अस्तेः अङ्गात् सिजन्ताच्च उत्तरस्य”⟩",
+    "7.3.113 आपः  ⟨आबन्तात् (what ends in it)⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.1.18",
+     "word": "आपः",
+     "trigger": "आपः: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, niṣṭhā",
+     "effect": "आबन्तात् (what ends in it)",
+     "sutra": "औङ आपः",
+     "ourVrtti": "आबन्तात् अङ्गात् औङः स्थाने शी आदेशः भवति",
+     "kashika": "आबन्तादङ्गादुत्तरस्यौङः शीत्ययमादेशो भवति।",
+     "prathamavrtti": "आबन्तादङ्गादुत्तरस्य औङः स्थाने शी इत्ययमादेशो भवति ॥"
+    },
+    {
+     "n": "7.3.96",
+     "word": "अस्तिसिचः",
+     "trigger": "अस्तिसिचः: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, ",
+     "effect": "“अस्तेः अङ्गात् सिजन्ताच्च उत्तरस्य”",
+     "sutra": "अस्तिसिचोऽपृक्ते",
+     "ourVrtti": "अपृक्तस्य अस्तेः अङ्गात् सिजन्ताच्च उत्तरस्य हलादेः सार्वधातुकस्य ईट् आगमः भवति",
+     "kashika": "अस्तेरङ्गात् सिजन्तात् च परस्यापृक्तस्य सार्वधातुकस्य ईडागमो भवति।",
+     "prathamavrtti": "अस्तेरङ्गात् सिजन्ताच्च उत्तरस्यापृक्तस्य हलादेः सार्वधातुकस्य ईडागमो भवति॥"
+    },
+    {
+     "n": "7.3.113",
+     "word": "आपः",
+     "trigger": "आपः: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, niṣṭhā",
+     "effect": "आबन्तात् (what ends in it)",
+     "sutra": "याडापः",
+     "ourVrtti": "आबन्तात् अङ्गात् ङितः प्रत्ययस्य याडागमः भवति",
+     "kashika": "आबन्तादङ्गादुत्तरस्य ङित प्रत्ययस्य याडागमो भवति।",
+     "prathamavrtti": "आबन्तादङ्गादुत्तरस्य ङितः प्रत्ययस्य याडागमो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G37",
+   "group": "own word, data case 1 | saṃjñā | X: samjni",
+   "count": 2,
+   "sutras": [
+    "1.1.23 बहु-गण-वतु-डति  ⟨“बहु-गण-शब्दौ वतु-डति-प्रत्ययान्तौ च शब्दौ”⟩",
+    "1.1.38 तद्धितः  ⟨“तद्धितप्रत्ययान्तः शब्दः”⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.1.23",
+     "word": "बहु-गण-वतु-डति",
+     "trigger": "बहु-गण-वतु-डति: samjni",
+     "effect": "“बहु-गण-शब्दौ वतु-डति-प्रत्ययान्तौ च शब्दौ”",
+     "sutra": "बहुगणवतुडति संख्या",
+     "ourVrtti": "बहु-गण-शब्दौ वतु-डति-प्रत्ययान्तौ च शब्दौ 'संख्या' इति संज्ञा भवति",
+     "kashika": "बहु गण वतु डति इत्येते संख्यासंज्ञा भवन्ति।",
+     "prathamavrtti": "बहुगणशब्दौ, वतुडतिप्रत्ययान्तौ च शब्दौ संख्या-संज्ञका भवन्ति॥"
+    },
+    {
+     "n": "1.1.38",
+     "word": "तद्धितः",
+     "trigger": "तद्धितः: samjni",
+     "effect": "“तद्धितप्रत्ययान्तः शब्दः”",
+     "sutra": "तद्धितश्चासर्वविभक्तिः",
+     "ourVrtti": "असर्वविभक्तिः तद्धितप्रत्ययान्तः शब्दः 'अव्ययसंज्ञकः' इति संज्ञा भवति",
+     "kashika": "तद्धितान्तः शब्दोऽसर्वविभक्तिरव्ययसंज्ञो भवति।",
+     "prathamavrtti": "असर्वविभक्तिस्तद्धितप्रत्ययान्तः शब्दोऽव्ययसंज्ञको भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G38",
+   "group": "own word, data case 6 | operation | X: qualifier",
+   "count": 2,
+   "sutras": [
+    "1.2.48 गो-स्त्रियोः  ⟨“उपसर्जनगोशब्दान्तस्य उपसर्जनस्त्रीप्रत्ययान्तस्य च”⟩",
+    "7.3.29 तत्प्रत्ययस्य  ⟨“ढक्प्रत्ययान्तस्य”⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.2.48",
+     "word": "गो-स्त्रियोः",
+     "trigger": "गो-स्त्रियोः: qualifier",
+     "effect": "“उपसर्जनगोशब्दान्तस्य उपसर्जनस्त्रीप्रत्ययान्तस्य च”",
+     "sutra": "गोस्त्रियोरुपसर्जनस्य",
+     "ourVrtti": "उपसर्जनगोशब्दान्तस्य उपसर्जनस्त्रीप्रत्ययान्तस्य च उपसर्जनस्य प्रातिपदिकस्य स्थाने ह्रस्वः आदेशः भवति",
+     "kashika": "उपसर्जनगोशब्दान्तस्य उपसर्जनस्त्रीप्रत्ययान्तान्तस्य च प्रातिपदिकस्य ह्रस्वो भवति।",
+     "prathamavrtti": "उपसर्जनगोशब्दान्तस्य प्रातिपदिकस्य, उपसर्जनस्त्रीप्रत्ययान्तस्य च प्रातिपदिकस्य ह्रस्वो भवति ॥"
+    },
+    {
+     "n": "7.3.29",
+     "word": "तत्प्रत्ययस्य",
+     "trigger": "तत्प्रत्ययस्य: qualifier",
+     "effect": "“ढक्प्रत्ययान्तस्य”",
+     "sutra": "तत्प्रत्ययस्य च",
+     "ourVrtti": "ढक्प्रत्ययान्तस्य प्रवाहण-अङ्गस्य उत्तरपदस्य अचाम् आदेः अचः स्थाने वृद्धिः भवति, पूर्वपदस्य तु वा भवति, तद्धिते ञिति णिति किति च परतः",
+     "kashika": "ढक्प्रत्ययान्तस्य प्रवाहणशब्दस्य तद्धितेषु परत उत्तरपदस्याचामादेरचो वृद्धिर्भवति, पूर्वस्य तु वा।",
+     "prathamavrtti": "ढक्प्रत्ययान्तस्य प्रवाहणाङ्गस्योत्तरपदस्याचामादेरचः स्थाने वृद्धिर्भवति, पूर्वपदस्य तु वा भवति, तद्धिते ञिति णिति किति च परतः ॥"
+    }
+   ]
+  },
+  {
+   "id": "G39",
+   "group": "carried / not a sūtra word | saṃjñā | X: PIS 23 … … … … (not 1.1.72 — paribhāṣ",
+   "count": 2,
+   "sutras": [
+    "1.4.52 अणि  ⟨“अण्यन्तानाम्”⟩",
+    "1.4.61 ऊर्यादिच्विडाचः  ⟨“ऊर्यादयः च्व्यन्ताः डाजन्ताश्च”⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.4.52",
+     "word": "अणि",
+     "trigger": "अणि: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, niṣṭhā",
+     "effect": "“अण्यन्तानाम्”",
+     "sutra": "गतिबुद्धिप्रत्यवसानार्थशब्दकर्माकर्मकाणामणि कर्ता स णौ",
+     "ourVrtti": "अण्यन्तानाम् ण्यन्तानाम् गत्यर्थ-बुद्ध्यर्थ-प्रत्यवसानार्थ-शब्दकर्मक-अकर्मकाणां धातूनाम् कर्ता सः 'कर्म' इति संज्ञा भवति",
+     "kashika": "गत्यर्थानां बुद्ध्यर्थानां प्रत्यवसानार्थानां च धातूनां तथा शब्दकर्मकाणामकर्मकाणां चाण्यन्तानां यः कर्ता, स ण्यन्तानां कर्मसंज्ञो भवति।",
+     "prathamavrtti": "गत्यर्थानां बुद्धयर्थानां प्रत्यवसानार्थानां शब्दकर्मकाणामकर्मकाणाञ्च अण्यन्तावस्थायां यः कर्त्ता स ण्यन्तावस्थायां कर्मसंज्ञको भवति ॥"
+    },
+    {
+     "n": "1.4.61",
+     "word": "ऊर्यादिच्विडाचः",
+     "trigger": "ऊर्यादिच्विडाचः: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, k",
+     "effect": "“ऊर्यादयः च्व्यन्ताः डाजन्ताश्च”",
+     "sutra": "ऊर्यादिच्विडाचश्च",
+     "ourVrtti": "क्रियायोगे ऊर्यादयः च्व्यन्ताः डाजन्ताश्च 'गतिः' इति संज्ञा 'निपाताः' इति संज्ञा भवति",
+     "kashika": "ऊर्यादयः शब्दाः च्व्यन्ता डाजन्ताश्च क्रियायोगे गतिसंज्ञा भवन्ति।",
+     "prathamavrtti": "ऊर्यादयः शब्दा च्व्यन्ता डाजन्ताश्च क्रियायोगे गतिसंज्ञका निपातसंज्ञकाश्च भवन्ति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G40",
+   "group": "own word, data case 6 | vibhakti | X: a suffix named in the 6th",
+   "count": 2,
+   "sutras": [
+    "2.3.67 क्तस्य  ⟨क्तप्रत्ययान्तस्य — a word ENDING in it, used with the word⟩",
+    "2.3.70 अक-इनोः  ⟨अकप्रत्ययान्तस्य इन्प्रत्ययान्तस्य — a word ENDING in it, used with th⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.3.67",
+     "word": "क्तस्य",
+     "trigger": "क्तस्य: a suffix named in the 6th",
+     "effect": "क्तप्रत्ययान्तस्य — a word ENDING in it, used with the word",
+     "sutra": "क्तस्य च वर्तमाने",
+     "ourVrtti": "क्तप्रत्ययान्तस्य प्रयोगे वर्तमाने काले षष्ठी विभक्तिः प्रत्ययः भवति",
+     "kashika": "क्तस्य वर्तमानकालविहितस्य प्रयोगे षष्ठी विभक्तिर्भवति।",
+     "prathamavrtti": "वर्त्तमाने काले विहितस्य क्तप्रत्ययान्तस्य प्रयोगे षष्ठी विभक्तिर्भवति ॥"
+    },
+    {
+     "n": "2.3.70",
+     "word": "अक-इनोः",
+     "trigger": "अक-इनोः: a suffix named in the 6th",
+     "effect": "अकप्रत्ययान्तस्य इन्प्रत्ययान्तस्य — a word ENDING in it, used with the word",
+     "sutra": "अकेनोर्भविष्यदाधमर्ण्ययोः",
+     "ourVrtti": "अकस्य इनश्च प्रयोगे भविष्यति आधमर्ण्ये च अर्थयोः षष्ठी विभक्तिः प्रत्ययः न भवति",
+     "kashika": "अकस्य भविष्यति काले विहितस्य, इनस्तु भविष्यति चाधमर्ण्ये च विहितस्य प्रयोगे षष्ठी विभक्तिर्न भवति।",
+     "prathamavrtti": "भविष्यति आधमर्ण्ये च विहितस्य अकान्तस्य इन्प्रत्ययान्तस्य च प्रयोगे षष्ठी विभक्तिर्न भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G41",
+   "group": "own word, data case 5 | operation | X: 5th case",
+   "count": 2,
+   "sutras": [
+    "2.4.60 इञः  ⟨इञन्तात् — what ENDS in it, as the prathamāvṛtti, Siddhānta-kaumudī an⟩",
+    "3.1.12 अच्वेः  ⟨अच्व्यन्तेभ्यः — what ENDS in it, as the prathamāvṛtti reads it⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.4.60",
+     "word": "इञः",
+     "trigger": "इञः: 5th case",
+     "effect": "इञन्तात् — what ENDS in it, as the prathamāvṛtti, Siddhānta-kaumudī and Kāśikā read it",
+     "sutra": "इञः प्राचाम्",
+     "ourVrtti": "प्राचां गोत्रे विहितः यः इञ् तदन्तात् युव-प्रत्ययस्य लुक् भवति",
+     "kashika": "गोत्रे य इञ् तदन्ताद् युवप्रत्ययस्य लुग्  भवति।",
+     "prathamavrtti": "प्राचां गोत्रे विहितो य इञ् तदन्तात् युवप्रत्ययस्य लुग् भवति ॥"
+    },
+    {
+     "n": "3.1.12",
+     "word": "अच्वेः",
+     "trigger": "अच्वेः: 5th case",
+     "effect": "अच्व्यन्तेभ्यः — what ENDS in it, as the prathamāvṛtti reads it",
+     "sutra": "भृशादिभ्यो भुव्यच्वेर्लोपश्च हलः",
+     "ourVrtti": "अच्व्यन्तेभ्यः भृशादिभ्यः शब्देभ्यः भवत्यर्थे क्यङ् प्रत्ययः परः च भवति, हलः स्थाने लोपः च भवति",
+     "kashika": "भृश इत्येवमादिभ्यः प्रातिपदिकेभ्योऽच्व्यन्तेभ्यो भुवि भवत्यर्थे क्यङ् प्रत्ययो भवति, हलन्तानां च लोपः।",
+     "prathamavrtti": "अच्व्यन्तेभ्यो भृशादिभ्यः शब्देभ्यः भुवि=भवत्यर्थे क्यङ् प्रत्ययः परश्च भवति, यश्च हलन्तः शब्दस्तस्य हलो लोपो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G42",
+   "group": "own word, data case 7 | vidhi | X: upapada",
+   "count": 2,
+   "sutras": [
+    "3.4.61 तस्-प्रत्यये  ⟨“तस्-प्रत्ययान्ते उपपदे”⟩",
+    "3.4.62 ना-धा-अर्थप्रत्यये  ⟨“ना-धा-अर्थ-प्रत्ययान्ते उपपदे”⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.4.61",
+     "word": "तस्-प्रत्यये",
+     "trigger": "तस्-प्रत्यये: upapada",
+     "effect": "“तस्-प्रत्ययान्ते उपपदे”",
+     "sutra": "स्वाङ्गे तस्प्रत्यये कृभ्वोः",
+     "ourVrtti": "स्वाङ्गवाचिनि तस्-प्रत्ययान्ते उपपदे कृ-भू इत्येताभ्याम् धातुभ्याम् क्त्वा-णमुलौ प्रत्ययौ परौ च भवतः",
+     "kashika": "तस्प्रत्यये स्वाङ्गवाचिन्युपपदे करोतेर्भवतेश्च धात्वोः क्त्वाणमुलौ प्रत्ययौ भवतः।",
+     "prathamavrtti": "तस्प्रत्ययान्ते स्वाङ्गवाचिनि शब्द उपपदे कृ भू इत्येताभ्यां धातुभ्यां क्त्वाणमुलौ प्रत्ययौ भवतः॥"
+    },
+    {
+     "n": "3.4.62",
+     "word": "ना-धा-अर्थप्रत्यये",
+     "trigger": "ना-धा-अर्थप्रत्यये: upapada",
+     "effect": "“ना-धा-अर्थ-प्रत्ययान्ते उपपदे”",
+     "sutra": "नाधाऽर्थप्रत्यये च्व्यर्थे",
+     "ourVrtti": "ना-धा-अर्थ-प्रत्ययान्ते उपपदे कृ-भू इत्येताभ्याम् धात्वोः च्व्यर्थे क्त्वा-णमुलौ प्रत्ययौ परौ च भवतः",
+     "kashika": "नाधार्थप्रत्यये शब्दे च्वयर्थ उपपदे कृभ्वोर्धात्वोः क्त्वाणमुलौ प्रत्ययौ भवतः।",
+     "prathamavrtti": "च्व्यर्थे नाधार्थप्रत्ययान्ते उपपदे कृभ्वोर्धात्वोः क्त्वाणमुलौ प्रत्ययौ भवतः॥"
+    }
+   ]
+  },
+  {
+   "id": "G43",
+   "group": "carried / not a sūtra word | vidhi | X: prakriti",
+   "count": 2,
+   "sutras": [
+    "4.1.121 स्त्रीभ्यः  ⟨“स्त्रीप्रत्ययान्तात्”⟩",
+    "5.3.49 पूरणात्  ⟨“पूरणप्रत्ययान्तेभ्यः”⟩"
+   ],
+   "samples": [
+    {
+     "n": "4.1.121",
+     "word": "स्त्रीभ्यः",
+     "trigger": "स्त्रीभ्यः: prakriti",
+     "effect": "“स्त्रीप्रत्ययान्तात्”",
+     "sutra": "द्व्यचः",
+     "ourVrtti": "द्व्यचः स्त्रीप्रत्ययान्तात् षष्ठीसमर्थात् अपत्ये अर्थे ढक् प्रत्ययः परः च भवति",
+     "kashika": "द्व्यचः स्त्रीप्रत्ययान्तादपत्ये ढक्  प्रत्ययो भवति।",
+     "prathamavrtti": "द्व्यचः स्त्रीप्रत्ययान्तादपत्ये ढक् प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "5.3.49",
+     "word": "पूरणात्",
+     "trigger": "पूरणात्: prakriti",
+     "effect": "“पूरणप्रत्ययान्तेभ्यः”",
+     "sutra": "प्रागेकादशभ्योऽच्छन्दसि",
+     "ourVrtti": "अच्छन्दसि विषये प्राक् एकादशभ्यः पूर्वेभ्यः पूरणप्रत्ययान्तेभ्यः भागे वर्तमानेभ्यः अन् प्रत्ययः परः च भवति",
+     "kashika": "प्रागेकादशभ्यः संख्याशब्देभ्यः पूरणप्रत्ययान्तेभ्यो भागे वर्तमानेभ्यः स्वार्थेऽन् प्रत्ययो भवति अच्छन्दसि विषये।",
+     "prathamavrtti": "प्राक् एकादशभ्यः सङ्ख्यावाचिभ्यः पूरणप्रत्ययान्तेभ्यः भागे वर्त्तमानेभ्यः प्रातिपदिकेभ्योऽन् प्रत्ययो भवति स्वार्थे छन्दोविषयं वर्जयित्वा ॥"
+    }
+   ]
+  },
+  {
+   "id": "G44",
+   "group": "own word, data case 6 | svara | X: 6th case",
+   "count": 2,
+   "sutras": [
+    "6.1.159 घञः  ⟨घञन्तस्य — what ENDS in it, as the prathamāvṛtti, Siddhānta-kaumudī an⟩",
+    "6.1.187 सिचः  ⟨सिजन्तस्य — what ENDS in it, as the prathamāvṛtti, Siddhānta-kaumudī a⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.159",
+     "word": "घञः",
+     "trigger": "घञः: 6th case",
+     "effect": "घञन्तस्य — what ENDS in it, as the prathamāvṛtti, Siddhānta-kaumudī and Kāśikā read it",
+     "sutra": "कर्षात्वतो घञोऽन्त उदात्तः",
+     "ourVrtti": "कर्षतेः आकारवतश्च धातोः अन्तः घञन्तस्य उदात्तः भवति",
+     "kashika": "कर्षतेर्धातोराकारवतश्च घञन्तस्यान्त उदात्तो भवति।",
+     "prathamavrtti": "कर्पतेर्धातोरकारवतश्च घञन्तस्यान्त उदात्तो भवति ॥"
+    },
+    {
+     "n": "6.1.187",
+     "word": "सिचः",
+     "trigger": "सिचः: 6th case",
+     "effect": "सिजन्तस्य — what ENDS in it, as the prathamāvṛtti, Siddhānta-kaumudī and Kāśikā read it",
+     "sutra": "आदिः सिचोऽन्यतरस्याम्",
+     "ourVrtti": "आदिः सिजन्तस्य विकल्पेन उदात्तः भवति",
+     "kashika": "सिजन्तस्यान्यतरस्यामादिरुदात्तो भवति।",
+     "prathamavrtti": "सिजन्तस्य विकल्पेनादिरुदात्तो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G45",
+   "group": "own word, data case 6 | svara | X: sthani",
+   "count": 2,
+   "sutras": [
+    "6.1.164 तद्धितस्य  ⟨“तद्धितस्य”⟩",
+    "6.2.162 प्रथमपूरणयोः  ⟨“प्रथमशब्दस्य पूरणप्रत्ययान्तस्य च”⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.164",
+     "word": "तद्धितस्य",
+     "trigger": "तद्धितस्य: sthani",
+     "effect": "“तद्धितस्य”",
+     "sutra": "तद्धितस्य",
+     "ourVrtti": "चितः अन्तः तद्धितस्य उदात्तः भवति",
+     "kashika": "चितस्तद्धितस्यान्त उदात्तो भवति।",
+     "prathamavrtti": "चितस्तद्धितस्यान्त उदात्तो भवति ॥"
+    },
+    {
+     "n": "6.2.162",
+     "word": "प्रथमपूरणयोः",
+     "trigger": "प्रथमपूरणयोः: sthani",
+     "effect": "“प्रथमशब्दस्य पूरणप्रत्ययान्तस्य च”",
+     "sutra": "बहुव्रीहाविदमेतत्तद्भ्यः प्रथमपूरणयोः क्रियागणने",
+     "ourVrtti": "बहुव्रीहौ समासे इदम्-एतद्-तद् इत्येतेभ्यः उत्तरेषाम् अन्तः प्रथमशब्दस्य पूरणप्रत्ययान्तस्य च क्रियागणने वर्तमाने उदात्तः भवति",
+     "kashika": "बहुव्रीहौ समास इदम् एतद् तदित्येतेभ्य उत्तरस्य प्रथमशब्दस्य पूरणप्रत्ययान्तस्य च क्रियागणने वर्तमानस्यान्त उदात्तो भवति।",
+     "prathamavrtti": "बहुव्रीहौ समासे इदम्, एतद्, तद् इत्येतेभ्य उत्तरस्य क्रियागणने वर्त्तमानस्य प्रथमशब्दस्य पूरणप्रत्ययान्तस्य च शब्दस्यान्तोदात्तो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G46",
+   "group": "own word, data case 0 | svara | X: PIS 23 … … … … (not 1.1.72 — paribhāṣ",
+   "count": 2,
+   "sutras": [
+    "6.1.200 तवै  ⟨तवैप्रत्ययान्तस्य — what ENDS in it, as the prathamāvṛtti, Siddhānta-k⟩",
+    "6.2.51 तवै  ⟨तवैप्रत्ययान्तस्य — what ENDS in it, as the Siddhānta-kaumudī reads it⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.200",
+     "word": "तवै",
+     "trigger": "तवै: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, niṣṭhā",
+     "effect": "तवैप्रत्ययान्तस्य — what ENDS in it, as the prathamāvṛtti, Siddhānta-kaumudī and Kāśikā read it",
+     "sutra": "अन्तश्च तवै युगपत्",
+     "ourVrtti": "अन्तः स्वरः तवैप्रत्ययान्तस्य शब्दस्य आदिः स्वरः युगपत् उदात्तः भवति",
+     "kashika": "तवैप्रत्ययान्तस्यान्तश्चशब्दादादिश्च युगपदुदात्तौ भवतः।",
+     "prathamavrtti": "तवैप्रत्ययान्तस्य शब्दस्यान्तश्चादिश्च युगपद् उदात्तो भवति ॥"
+    },
+    {
+     "n": "6.2.51",
+     "word": "तवै",
+     "trigger": "तवै: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, niṣṭhā",
+     "effect": "तवैप्रत्ययान्तस्य — what ENDS in it, as the Siddhānta-kaumudī reads it",
+     "sutra": "तवै चान्तश्च युगपत्",
+     "ourVrtti": "तवैप्रत्ययस्य अन्तः उदात्तः भवति, गतिः च अनन्तरः पूर्वपदम् प्रकृतिस्वरम् भवति, युगपत् च एतत् उभयम् भवति",
+     "kashika": "तवैप्रत्ययस्यान्त उदात्तो भवति गतिश्चानन्तरः प्रकृतिस्वर इति एतदुभयं युगपद् भवति।",
+     "prathamavrtti": "तवैप्रत्ययस्य अन्त उदात्तो भवति गतिश्चानन्तरः पूर्वपदं प्रकृतिस्वरं भवति युगपच्चैतदुभयं स्यात्॥"
+    }
+   ]
+  },
+  {
+   "id": "G47",
+   "group": "carried / not a sūtra word | svara | X (carried): a case named in the 5th",
+   "count": 2,
+   "sutras": [
+    "6.2.135 अ-प्राणि-षष्ठ्याः  ⟨अप्राणिषष्ठ्यन्तात् — a word ENDING in that case ending⟩",
+    "6.2.154 तृतीयायाः  ⟨तृतीयान्तात् — a word ENDING in that case ending⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.2.135",
+     "word": "अ-प्राणि-षष्ठ्याः",
+     "trigger": "अ-प्राणि-षष्ठ्याः (carried over from 6.2.134): a case named in the 5th",
+     "effect": "अप्राणिषष्ठ्यन्तात् — a word ENDING in that case ending",
+     "sutra": "षट् च काण्डादीनि",
+     "ourVrtti": "अप्राणिवाचिनः षष्ठ्यन्तात् पराणि षट् पूर्वोक्तानि उत्तरपदस्य आदिः काण्डादीनि उत्तरपदानि उदात्तः भवति",
+     "kashika": "षट् पूर्वोक्तानि काण्डादीन्युत्तरपदान्यप्राणिषष्ठ्या आद्युदात्तानि भवन्ति।",
+     "prathamavrtti": "पूर्वोक्तानि षट् काण्डादीन्युत्तरपदानि अप्राणिवाचिनः षष्ठ्यन्तात् पराण्याद्युदात्तानि भवन्ति॥"
+    },
+    {
+     "n": "6.2.154",
+     "word": "तृतीयायाः",
+     "trigger": "तृतीयायाः (carried over from 6.2.153): a case named in the 5th",
+     "effect": "तृतीयान्तात् — a word ENDING in that case ending",
+     "sutra": "मिश्रं चानुपसर्गमसंधौ",
+     "ourVrtti": "तृतीयान्तात् मिश्र-शब्दः अनुपसर्गम् उत्तरपदम् असन्धौ गम्यमाने अन्तोदात्तम् भवति",
+     "kashika": "तेन मिश्रश्लक्ष्णैः [[२.१.३१]] इति सोपसर्गेणापि मिश्रशब्देन तृतीयासमासो भवति।",
+     "prathamavrtti": "तृतीयान्तात्परं मिश्र इत्येतदनुपसर्गमुत्त-रपदमन्तोदात्तं भवति, असन्धौ गम्यमाने ॥"
+    }
+   ]
+  },
+  {
+   "id": "G48",
+   "group": "own word, data case 5 | svara | X: PIS 23 … … … … (not 1.1.72 — paribhāṣ",
+   "count": 2,
+   "sutras": [
+    "6.2.169 निष्ठोपमानात्  ⟨“निष्ठान्तात् उपमानवाचिनश्च परम्”⟩",
+    "8.1.28 अतिङः  ⟨अतिङन्तात् — what ENDS in it, as the prathamāvṛtti, Siddhānta-kaumudī ⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.2.169",
+     "word": "निष्ठोपमानात्",
+     "trigger": "निष्ठोपमानात्: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛt",
+     "effect": "“निष्ठान्तात् उपमानवाचिनश्च परम्”",
+     "sutra": "निष्ठोपमानादन्यतरस्याम्",
+     "ourVrtti": "बहुव्रीहौ समासे निष्ठान्तात् उपमानवाचिनश्च परम् स्वाङ्गवाचि मुखम् उत्तरपदम् विकल्पेन अन्तोदात्तः भवति",
+     "kashika": "निष्ठान्तादुपमानवाचिनश्च मुखं स्वाङ्गमुत्तरपदमन्यतरस्यां बहुव्रीहौ समासेऽन्तोदात्तं भवति।",
+     "prathamavrtti": "बहुव्रीहौ समासे निष्ठा-न्तादुपमानवाचिनश्च स्वाङ्गं मुखमुत्तरपदं विकल्पेनान्तोदात्तं भवति॥"
+    },
+    {
+     "n": "8.1.28",
+     "word": "अतिङः",
+     "trigger": "अतिङः: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, niṣṭ",
+     "effect": "अतिङन्तात् — what ENDS in it, as the prathamāvṛtti, Siddhānta-kaumudī reads it",
+     "sutra": "तिङ्ङतिङः",
+     "ourVrtti": "अतिङन्तात् पदात् परस्य तिङन्तं पदम् अनुदात्तं भवति",
+     "kashika": "तिङन्तं पदमतिङन्तात् पदात् परमनुदात्तं भवति।",
+     "prathamavrtti": "अतिङन्तात् पदादुत्तरं तिङन्तं पदमनुदात्तं भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G49",
+   "group": "own word, data case 7 | operation | X: qualifier",
+   "count": 2,
+   "sutras": [
+    "6.3.6 पूरणे  ⟨“पूरणप्रत्ययान्ते उत्तरपदे”⟩",
+    "6.3.116 क्वौ  ⟨“क्विप्प्रत्ययान्तेषु”⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.3.6",
+     "word": "पूरणे",
+     "trigger": "पूरणे: qualifier",
+     "effect": "“पूरणप्रत्ययान्ते उत्तरपदे”",
+     "sutra": "आत्मनश्च पूरणे",
+     "ourVrtti": "आत्मनः उत्तरस्याः तृतीयायाः पूरणप्रत्ययान्ते उत्तरपदे अलुक् भवति",
+     "kashika": "आत्मन उत्तरस्यास्तृतीयायाः पूरणप्रत्ययान्त उत्तरपदेऽलुग् भवति।",
+     "prathamavrtti": "आत्मनश्च उत्तरस्यास्तृतीयाया अलुग् भवति उत्तरपदे परतः ॥"
+    },
+    {
+     "n": "6.3.116",
+     "word": "क्वौ",
+     "trigger": "क्वौ: qualifier",
+     "effect": "“क्विप्प्रत्ययान्तेषु”",
+     "sutra": "नहिवृतिवृषिव्यधिरुचिसहितनिषु क्वौ",
+     "ourVrtti": "संहितायाम् विषये क्विप्प्रत्ययान्तेषु नहि वृति वृषि व्यधि रुचि सहि तनि इत्येतेषु परेषु उत्तरपदेषु पूर्वपदस्य स्थाने दीर्घः आदेशः भवति",
+     "kashika": "नहि वृति वृषि व्यधि रुचि सहि तनि इत्येतेषु क्विप्रत्ययान्तेषूत्तरपदेषु पूर्वपदस्य दीर्घो भवति संहितायां विषये।",
+     "prathamavrtti": "नहि, वृति, वृषि, व्यधि, रुचि, सहि, तनि, इत्येतेषु क्विप्प्रत्ययान्तेषूत्तरपदेषु पूर्वस्याणो दीर्घो भवति संहितायां विषये।"
+    }
+   ]
+  },
+  {
+   "id": "G50",
+   "group": "named by a commentator | ādeśa | X (English)",
+   "count": 2,
+   "sutras": [
+    "7.1.37 named by Vasu  ⟨a suffix named = the word from its base up to the suffix⟩",
+    "8.3.45 named by Vasu  ⟨a suffix named = the word from its base up to the suffix⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.1.37",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "a suffix named = the word from its base up to the suffix",
+     "sutra": "समासेऽनञ्पूर्वे क्त्वो ल्यप्",
+     "ourVrtti": "समासे विषये अनञ्पूर्वे क्त्वा-प्रत्ययस्य स्थाने अङ्गस्य स्थाने ल्यप् आदेशः भवति",
+     "kashika": "समासेऽनञ्पूर्वे क्त्वा इत्येतस्य ल्यबित्ययमादेशो भवति।",
+     "prathamavrtti": "अनञ्पूर्वे समासे क्त्वा इत्येतस्य स्थाने ल्यप् इत्ययमादेशो भवति॥"
+    },
+    {
+     "n": "8.3.45",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "a suffix named = the word from its base up to the suffix",
+     "sutra": "नित्यं समासेऽनुत्तरपदस्थस्य",
+     "ourVrtti": "समासे विषये कुप्वोः परे अनुत्तरपदस्थस्य इसुसोः विसर्जनीयस्य स्थाने नित्यम् षकारादेशः भवति",
+     "kashika": "समासविषय इसुसोर्विसर्जनीयस्यानुत्तरपदस्थस्य नित्यं षत्वं भवति कुप्वोः परतः।",
+     "prathamavrtti": "समासे इसुसोरनुत्तरपदस्थस्य विसर्जनीयस्य नित्यं षत्वं भवति कुप्वोः परतः॥"
+    }
+   ]
+  },
+  {
+   "id": "G51",
+   "group": "carried / not a sūtra word | āgama | X: describes the aṅga",
+   "count": 2,
+   "sutras": [
+    "7.1.79 शतुः  ⟨शत्रन्तस्य अङ्गस्य — an aṅga ENDING in it⟩",
+    "7.1.80 शतुः  ⟨शत्रन्तस्य अङ्गस्य — an aṅga ENDING in it⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.1.79",
+     "word": "शतुः",
+     "trigger": "शतुः: describes the aṅga",
+     "effect": "शत्रन्तस्य अङ्गस्य — an aṅga ENDING in it",
+     "sutra": "वा नपुंसकस्य",
+     "ourVrtti": "सर्वनामस्थाने परे अभ्यस्तात् अङ्गात् शतृप्रत्ययान्तस्य नपुंसकस्य विकल्पेन नुम् आगमः भवति",
+     "kashika": "अभ्यस्तादङ्गादुत्तरो यः शतृप्रत्ययस्तदन्तस्य नपुंसकस्य वा नुमागमो भवति।",
+     "prathamavrtti": "अभ्यस्तादङ्गादुत्तरो यः शतृप्रत्ययस्तदन्तस्य नपुंसकस्य वा नुमागमो भवति ॥"
+    },
+    {
+     "n": "7.1.80",
+     "word": "शतुः",
+     "trigger": "शतुः: describes the aṅga",
+     "effect": "शत्रन्तस्य अङ्गस्य — an aṅga ENDING in it",
+     "sutra": "आच्छीनद्योर्नुम्",
+     "ourVrtti": "शीनद्योः परे अवर्णान्तात् अङ्गात् परस्य अङ्गात् शतुः विकल्पेन नुम् आगमः भवति",
+     "kashika": "अवर्णान्तादङ्गादुत्तरस्य शतुर्वा नुमागमो भवति शीनद्योः परतः।",
+     "prathamavrtti": "अवर्णान्तादङ्गादुत्तरस्य शतुर्वा नुमागमो भवति शीनद्योः परतः॥"
+    }
+   ]
+  },
+  {
+   "id": "G52",
+   "group": "own word, data case 6 | svara | X: PIS 23 … … … … (not 1.1.72 — paribhāṣ",
+   "count": 2,
+   "sutras": [
+    "8.1.21 बहुवचनस्य  ⟨“बहुवचनान्तयोः”⟩",
+    "8.1.22 एकवचनस्य  ⟨“एकवचनान्तयोः”⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.1.21",
+     "word": "बहुवचनस्य",
+     "trigger": "बहुवचनस्य: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, ",
+     "effect": "“बहुवचनान्तयोः”",
+     "sutra": "बहुवचनस्य वस्नसौ",
+     "ourVrtti": "पदात् उत्तरयोः बहुवचनान्तयोः षष्ठीचतुर्थीद्वितीयास्थयोः पदयोः अपादादौ वर्तमानयोः युष्मदस्मदोः स्थाने वस् नस् आदेशः अनुदात्तौ यथासङ्ख्यम् भवतः",
+     "kashika": "बहुवचनान्तयोर्युष्मदस्मदोः षष्ठीचतुर्थीद्वितीयास्थयोर्यथासंख्यं वस् नस् इत्येतावादेशौ भवतः।",
+     "prathamavrtti": "पदादुत्तरयोर्बहुवचनान्तयो षष्ठीचतुर्थीद्वितीयास्थयोरपादादौ वर्त्तमानयोर्युष्मदस्मदोः पदयोर्यथासङ्ख्यं वस् नस् इत्येतावादेशौ भवतोऽनुदात्तौ च तौ भवतः ॥"
+    },
+    {
+     "n": "8.1.22",
+     "word": "एकवचनस्य",
+     "trigger": "एकवचनस्य: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, n",
+     "effect": "“एकवचनान्तयोः”",
+     "sutra": "तेमयावेकवचनस्य",
+     "ourVrtti": "पदात् उत्तरयोः एकवचनान्तयोः षष्ठीचतुर्थीस्थयोः पदयोः अपादादौ वर्तमानयोः युष्मदस्मदोः स्थाने ते मे आदेशः अनुदात्तौ यथासङ्ख्यम् भवतः",
+     "kashika": "युष्मदस्मदोरेकवचनान्तयोः षष्ठीचतुर्थीस्थयोर्यथासंख्यं ते मे इत्येतावादेशौ भवतः।",
+     "prathamavrtti": "पदादुत्तरयोरेकवचनान्तयोः षष्ठीचतुर्थीस्थयोरपादादौ वर्त्तमानयोर्युष्मदस्मदोः पदयोर्यथासङ्ख्यं ते मे इत्येतावादेशौ भवतोऽनुदात्तौ च तौ भवतः ॥"
+    }
+   ]
+  },
+  {
+   "id": "G53",
+   "group": "carried / not a sūtra word | ādeśa | X: a suffix qualifying …",
+   "count": 2,
+   "sutras": [
+    "8.2.72 वसु  ⟨वस्वन्तस्य पदस्य (a pada ending in it)⟩",
+    "8.3.1 मतु  ⟨मत्वन्तस्य पदस्य (a pada ending in it)⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.2.72",
+     "word": "वसु",
+     "trigger": "वसु: a suffix qualifying पदस्य",
+     "effect": "वस्वन्तस्य पदस्य (a pada ending in it)",
+     "sutra": "वसुस्रंसुध्वंस्वनडुहां दः",
+     "ourVrtti": "सकारान्तस्य पदस्य वस्वन्तस्य स्रंसु-ध्वंसु-अनडुहाम् च स्थाने दकारादेशः भवति",
+     "kashika": "वस्वन्तस्य पदस्य सकारान्तस्य, स्रंसु, ध्वंसु, अनडुह् इत्येतेषां च दकारादेशो भवति।",
+     "prathamavrtti": "सकारान्तस्य वस्वन्तस्य पदस्य स्रंसु ध्वंसु, अनडुह् इत्येतेषां च दकारादेशो भवति ॥"
+    },
+    {
+     "n": "8.3.1",
+     "word": "मतु",
+     "trigger": "मतु: a suffix qualifying पदस्य",
+     "effect": "मत्वन्तस्य पदस्य (a pada ending in it)",
+     "sutra": "मतुवसो रु सम्बुद्धौ छन्दसि",
+     "ourVrtti": "छन्दसि विषये संहितायां विषये सम्बुद्धौ परे पदस्य मत्वन्तस्य वस्वन्तस्य च स्थाने रु-आदेशः भवति",
+     "kashika": "मत्वन्तस्य वस्वन्तस्य च पदस्य रुरित्ययमादेशो भवति संबुद्धौ परतश्छन्दसि विषये।",
+     "prathamavrtti": "मत्वन्तस्य वस्वन्तस्य च पदस्य रुरित्ययमादेशो भवति संहितायां सम्बुद्धौ परतः छन्दसि विषये ॥"
+    }
+   ]
+  },
+  {
+   "id": "G54",
+   "group": "own word, data case 1 | saṃjñā | X: qualifier",
+   "count": 1,
+   "sutras": [
+    "1.1.25 डति  ⟨“डतिप्रत्ययान्ता”⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.1.25",
+     "word": "डति",
+     "trigger": "डति: qualifier",
+     "effect": "“डतिप्रत्ययान्ता”",
+     "sutra": "डति च",
+     "ourVrtti": "डतिप्रत्ययान्ता संख्या 'षट्' इति संज्ञा भवति",
+     "kashika": "डत्यन्ता च या संख्या सा षट्संज्ञा भवति।",
+     "prathamavrtti": "डतिप्रत्ययान्ता संख्या षट्संज्ञिका भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G55",
+   "group": "own word, data case 1 | saṃjñā | X: suffixes named",
+   "count": 1,
+   "sutras": [
+    "1.1.40 क्त्वा-तोसुन्-कसुनः  ⟨the term covers words ENDING in them (“इत्येवमन्ताः”)⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.1.40",
+     "word": "क्त्वा-तोसुन्-कसुनः",
+     "trigger": "क्त्वा-तोसुन्-कसुनः: suffixes named",
+     "effect": "the term covers words ENDING in them (“इत्येवमन्ताः”)",
+     "sutra": "क्त्वातोसुन्कसुनः",
+     "ourVrtti": "क्त्वा-तोसुन्-कसुन्-प्रत्ययान्ताः शब्दाः 'अव्ययसंज्ञकाः' इति संज्ञा भवति",
+     "kashika": "क्त्वा तोसुन् कसुन् इत्येवमन्तं शब्दरूपमव्ययसंज्ञं भवति।",
+     "prathamavrtti": "क्त्वा तोसुन् कसुन् इत्येवमन्ताः शब्दा अव्ययसंज्ञका भवन्ति।"
+    }
+   ]
+  },
+  {
+   "id": "G56",
+   "group": "carried / not a sūtra word | saṃjñā | X: samjni",
+   "count": 1,
+   "sutras": [
+    "1.2.46 कृत्तद्धितसमासाः  ⟨“कृदन्ताः तद्धितान्ताः समासाश्च”⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.2.46",
+     "word": "कृत्तद्धितसमासाः",
+     "trigger": "कृत्तद्धितसमासाः: samjni",
+     "effect": "“कृदन्ताः तद्धितान्ताः समासाश्च”",
+     "sutra": "कृत्तद्धितसमासाश्च",
+     "ourVrtti": "कृदन्ताः तद्धितान्ताः समासाश्च 'प्रातिपदिकसंज्ञकाः' इति संज्ञा भवति",
+     "kashika": "कृतस्तद्धिताः समासाश्च प्रातिपदिकसंज्ञा भवन्ति।",
+     "prathamavrtti": "कृत्प्रत्ययान्तास्तद्धितप्रत्ययान्ताः समासाश्च प्रातिपदिकसंज्ञका भवन्ति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G57",
+   "group": "own word, data case 1 | atideśa | X: sthani",
+   "count": 1,
+   "sutras": [
+    "1.2.66 स्त्री  ⟨“स्त्रीप्रत्ययान्तः शब्दः”⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.2.66",
+     "word": "स्त्री",
+     "trigger": "स्त्री: sthani",
+     "effect": "“स्त्रीप्रत्ययान्तः शब्दः”",
+     "sutra": "स्त्री पुंवच्च",
+     "ourVrtti": "वृद्धा स्त्री यूना सह शिष्यते, युवा निवर्तते, सा च स्त्री पुंवत् भवति, तल्लक्षणः चेत् एव विशेषः",
+     "kashika": "स्त्र्यर्थः पुमर्थवद् भवति।",
+     "prathamavrtti": "वृद्धा=गोत्रप्रत्ययान्ता स्त्री यूना सह शिष्यते, युवा निवर्त्तते, सा च स्त्री पुंवद् भवति, वृद्धयुवनििमत्तकमेव चेत् वैरूप्यं स्यात्॥"
+    }
+   ]
+  },
+  {
+   "id": "G58",
+   "group": "own word, data case 5 | atideśa | X: 5th case",
+   "count": 1,
+   "sutras": [
+    "1.3.62 सनः  ⟨सन्नन्तात् — what ENDS in it, as the prathamāvṛtti, Siddhānta-kaumudī,⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.3.62",
+     "word": "सनः",
+     "trigger": "सनः: 5th case",
+     "effect": "सन्नन्तात् — what ENDS in it, as the prathamāvṛtti, Siddhānta-kaumudī, Laghu-kaumudī reads it",
+     "sutra": "पूर्ववत् सनः",
+     "ourVrtti": "सन्नन्तात् धातोः सनः पूर्वेण धातुना तुल्यम् आत्मनेपदम् प्रत्ययः भवति",
+     "kashika": "सनः पूर्वो यो धातुरात्मनेपदी, तद्वत्सन्नन्तादात्मनेपदं भवति।",
+     "prathamavrtti": "सनः पूर्वो यो धातुः ‘आत्मनेपदी’ तद्वत् सन्नन्तादपि आत्मनेपदं भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G59",
+   "group": "own word, data case 1 | atideśa | X: PIS 23 … … … … (not 1.1.72 — paribhāṣ",
+   "count": 1,
+   "sutras": [
+    "2.1.2 सुप्  ⟨सुबन्तम् — what ENDS in it, as the नैलेश-वृत्तिः reads it⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.1.2",
+     "word": "सुप्",
+     "trigger": "सुप्: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, niṣṭh",
+     "effect": "सुबन्तम् — what ENDS in it, as the नैलेश-वृत्तिः reads it",
+     "sutra": "सुबामन्त्रिते पराङ्गवत् स्वरे",
+     "ourVrtti": "स्वरे कर्तव्ये आमन्त्रिते पदे परे सुबन्तम् परस्य अङ्गवत् भवति",
+     "kashika": "सुबन्तमामन्त्रिते परतः परस्याङ्गवद् भवति, स्वरे स्वरलक्षणे कर्तव्ये।",
+     "prathamavrtti": "आमन्त्रिते पदे परतः सुबन्तं पराङ्गवद् भवति स्वरे कर्त्तव्ये ॥"
+    }
+   ]
+  },
+  {
+   "id": "G60",
+   "group": "carried / not a sūtra word | adhikāra | X: sthani",
+   "count": 1,
+   "sutras": [
+    "2.1.4 सुप्  ⟨“सुबन्तम्”⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.1.4",
+     "word": "सुप्",
+     "trigger": "सुप्: sthani",
+     "effect": "“सुबन्तम्”",
+     "sutra": "सह सुपा",
+     "ourVrtti": "सुप् सुपा सह समस्यते इति अधिकारः",
+     "kashika": "सुबिति सहेति सुपेति च त्रयमप्यधिकृतं वेदितव्यम्।",
+     "prathamavrtti": "सुपा सह सुप् समस्यते, इत्यधिकारो वेदितव्यः ॥"
+    }
+   ]
+  },
+  {
+   "id": "G61",
+   "group": "carried / not a sūtra word | saṃjñā | X (carried) is a suffix named: it stands",
+   "count": 1,
+   "sutras": [
+    "2.2.29 सुप्  ⟨अनेकं सुबन्तम्⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.2.29",
+     "word": "सुप्",
+     "trigger": "सुप् (carried from 2.1.2) is a suffix named: it stands for the word ending in it (PIS 23) — “सुबन्तम्”, as the prathamāvṛtti reads it",
+     "effect": "अनेकं सुबन्तम्",
+     "sutra": "चार्थे द्वन्द्वः",
+     "ourVrtti": "अनेकं सुबन्तम् चार्थे विभाषा 'द्वन्द्वः' इति संज्ञा 'समासः' इति संज्ञा भवति",
+     "kashika": "अनेकं सुबन्तं चार्थे वर्तमानं समस्यते, द्वन्द्वसंज्ञश्च समासो भवति।",
+     "prathamavrtti": "चार्थे वर्त्तमानम् अनेकं सुबन्तम् परस्परं विभाषा समस्यते, द्वन्द्वश्च समासो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G62",
+   "group": "own word, data case 5 | vibhakti | X: PIS 23 … … … … (not 1.1.72 — paribhāṣ",
+   "count": 1,
+   "sutras": [
+    "2.3.15 भाववचनात्  ⟨भाववचनप्रत्ययान्तात् — what ENDS in it, as the prathamāvṛtti reads it⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.3.15",
+     "word": "भाववचनात्",
+     "trigger": "भाववचनात्: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, ",
+     "effect": "भाववचनप्रत्ययान्तात् — what ENDS in it, as the prathamāvṛtti reads it",
+     "sutra": "तुमर्थाच्च भाववचनात्",
+     "ourVrtti": "तुमर्थात् भाववचनप्रत्ययान्तात् प्रातिपदिकात् चतुर्थी विभक्तिः प्रत्ययः भवति",
+     "kashika": "तुमर्थभाववचनप्रत्ययान्तात् प्रातिपदिकाच् चतुर्थी विभक्तिर्भवति।",
+     "prathamavrtti": "तुमर्थाद् भाववचनप्रत्ययान्तात् प्रातिपदिकात् चतुर्थी विभक्तिर्भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G63",
+   "group": "own word, data case 3 | vibhakti | X: nimitta",
+   "count": 1,
+   "sutras": [
+    "2.3.31 एनपा  ⟨“एनप्-प्रत्ययान्तेन योगे”⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.3.31",
+     "word": "एनपा",
+     "trigger": "एनपा: nimitta",
+     "effect": "“एनप्-प्रत्ययान्तेन योगे”",
+     "sutra": "एनपा द्वितीया",
+     "ourVrtti": "एनप्-प्रत्ययान्तेन योगे द्वितीया विभक्तिः प्रत्ययः भवति",
+     "kashika": "तेन युक्ते द्वितीया विभक्तिर्भवति।",
+     "prathamavrtti": "एनप्प्रत्ययान्तेन योगे द्वितीया विभक्तिर्भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G64",
+   "group": "carried / not a sūtra word | vibhakti | X (carried): a suffix in the 6th",
+   "count": 1,
+   "sutras": [
+    "2.3.68 क्तस्य  ⟨क्तप्रत्ययान्तस्य प्रयोगे — a word ENDING in it⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.3.68",
+     "word": "क्तस्य",
+     "trigger": "क्तस्य (carried over from 2.3.67): a suffix in the 6th",
+     "effect": "क्तप्रत्ययान्तस्य प्रयोगे — a word ENDING in it",
+     "sutra": "अधिकरणवाचिनश्च",
+     "ourVrtti": "क्तप्रत्ययान्तस्य प्रयोगे अधिकरणवाचिनः षष्ठी विभक्तिः प्रत्ययः भवति",
+     "kashika": "तस्य प्रयोगे षष्ठी विभक्तिर्भवति।",
+     "prathamavrtti": "अधिकरणवाचिनः क्तप्रत्ययान्तस्य प्रयोगे षष्ठी विभक्तिर्भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G65",
+   "group": "own word, data case 6 | vibhakti | X: PIS 23 … … … … (not 1.1.72 — paribhāṣ",
+   "count": 1,
+   "sutras": [
+    "2.3.71 कृत्यानाम्  ⟨कृत्यप्रत्ययान्तानाम् — what ENDS in it, as the prathamāvṛtti reads it⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.3.71",
+     "word": "कृत्यानाम्",
+     "trigger": "कृत्यानाम्: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya,",
+     "effect": "कृत्यप्रत्ययान्तानाम् — what ENDS in it, as the prathamāvṛtti reads it",
+     "sutra": "कृत्यानां कर्तरि वा",
+     "ourVrtti": "कृत्यप्रत्ययान्तानां प्रयोगे कर्तरि कारके विकल्पेन षष्ठी विभक्तिः प्रत्ययः भवति",
+     "kashika": "कृत्यानां प्रयोगे कर्तरि वा षष्ठी विभक्तिर्भवति, न कर्मणि।",
+     "prathamavrtti": "कृत्यप्रत्ययान्तानां प्रयोगे अनभिहिते कर्त्तरि विकल्पेन षष्ठी विभक्तिर्भवति, न कर्मणि ॥"
+    }
+   ]
+  },
+  {
+   "id": "G66",
+   "group": "carried / not a sūtra word | vidhi | X (SK: …)",
+   "count": 1,
+   "sutras": [
+    "3.1.14 कष्टाय is in the 4th case → from a word ending in the 4th-case ending  ⟨चतुर्थ्यन्तात् कष्टशब्दात्⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.14",
+     "word": "कष्टाय is in the 4th case → from a word ending in the 4th-case ending",
+     "trigger": "कष्टाय is in the 4th case → from a word ending in the 4th-case ending (SK: चतुर्थ्यन्तात्)",
+     "effect": "चतुर्थ्यन्तात् कष्टशब्दात्",
+     "sutra": "कष्टाय क्रमणे",
+     "ourVrtti": "चतुर्थीसमर्थात् कष्टशब्दात् क्रमणे अनार्जवेऽर्थे क्यङ् प्रत्ययः परः च भवति",
+     "kashika": "कष्टशब्दाच् चतुर्थीसमर्थात् क्रमणेऽर्थेऽनार्जवे क्यङ्  प्रत्ययो भवति।",
+     "prathamavrtti": "चतुर्थीसमर्थात् कष्टशब्दात् क्रमणे=अनार्जवेऽर्थे वर्त्तमानात् क्यङ् प्रत्ययो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G67",
+   "group": "own word, data case 5 | vidhi | X: prakriti",
+   "count": 1,
+   "sutras": [
+    "3.1.35 कास्प्रत्ययात्  ⟨“कास्-धातोः प्रत्ययान्तात् च धातोः”⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.35",
+     "word": "कास्प्रत्ययात्",
+     "trigger": "कास्प्रत्ययात्: prakriti",
+     "effect": "“कास्-धातोः प्रत्ययान्तात् च धातोः”",
+     "sutra": "कास्प्रत्ययादाममन्त्रे लिटि",
+     "ourVrtti": "अमन्त्रविषये लिटि परे कास्-धातोः प्रत्ययान्तात् च धातोः आम् प्रत्ययः परः च भवति",
+     "kashika": "<<कासृ शब्दकुत्सायाम्>> ततः प्रत्ययान्तेभ्यश्च धातुभ्य आम् प्रत्ययो भवति लिटि परतोऽमन्त्रविषये।",
+     "prathamavrtti": "कासृ शब्दकुत्सायाम् तस्मात् प्रत्ययान्ताच्च धातोः 'आम्' प्रत्ययो भवति लिटि परतः अमन्त्रविषये = लौकिकप्रयोगविषये ॥"
+    }
+   ]
+  },
+  {
+   "id": "G68",
+   "group": "own word, data case 5 | vidhi | X (carried): a suffix / case ending desc",
+   "count": 1,
+   "sutras": [
+    "3.2.137 णेः  ⟨ण्यन्तात् — what ENDS in it⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.2.137",
+     "word": "णेः",
+     "trigger": "णेः (carried over from the sūtra itself): a suffix / case ending describing the base",
+     "effect": "ण्यन्तात् — what ENDS in it",
+     "sutra": "णेश्छन्दसि",
+     "ourVrtti": "छन्दसि विषये ण्यन्तात् धातोः तच्छीलादिषु कर्तृषु वर्तमाने काले इष्णुच् प्रत्ययः परः च भवति",
+     "kashika": "ण्यन्ताद् धातोश्छन्दसि विषये तच्छीलादिषु कर्तृषु इष्णुच् प्रत्ययो भवति।",
+     "prathamavrtti": "ण्यन्ताद् धातोर्वेदविषये तच्छीलादिषु कर्तृ षु वर्त्तमाने काल इष्णुच् प्रत्ययो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G69",
+   "group": "own word, data case 5 | vidhi | X: qualifier",
+   "count": 1,
+   "sutras": [
+    "3.3.102 प्रत्ययात्  ⟨“प्रत्ययान्तेभ्यः”⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.3.102",
+     "word": "प्रत्ययात्",
+     "trigger": "प्रत्ययात्: qualifier",
+     "effect": "“प्रत्ययान्तेभ्यः”",
+     "sutra": "अ प्रत्ययात्",
+     "ourVrtti": "प्रत्ययान्तेभ्यः धातुभ्यः स्त्रियाम् भावे कर्तृभिन्ने कारके संज्ञायाम् अ प्रत्ययः परः च भवति",
+     "kashika": "प्रत्ययान्तेभ्यो धातुभ्यः स्त्रियामकारः प्रत्ययो भवति।",
+     "prathamavrtti": "प्रत्ययान्तेभ्यो धातुभ्यः स्त्रीलिङ्गे कर्तृभिन्ने कारके संज्ञायां भावे च 'अ' प्रत्ययो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G70",
+   "group": "carried / not a sūtra word | vidhi | X: qualifier",
+   "count": 1,
+   "sutras": [
+    "3.3.107 ण्यासश्रन्थः  ⟨“ण्यन्तेभ्यः आस-श्रन्थ्-धातुभ्यां च”⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.3.107",
+     "word": "ण्यासश्रन्थः",
+     "trigger": "ण्यासश्रन्थः: qualifier",
+     "effect": "“ण्यन्तेभ्यः आस-श्रन्थ्-धातुभ्यां च”",
+     "sutra": "ण्यासश्रन्थो युच्",
+     "ourVrtti": "ण्यन्तेभ्यः आस-श्रन्थ्-धातुभ्यां च धातोः स्त्रियाम् युच् प्रत्ययः परः च भवति",
+     "kashika": "ण्यन्तेभ्यो धातुभ्यः, आस श्रन्थ इत्येताभ्यां च स्त्रियां युच् प्रत्ययो भवति।",
+     "prathamavrtti": "ण्यन्तेभ्यो धातुभ्य आस श्रन्थ इत्येताभ्यां च धातुभ्यां स्त्रियां युच् प्रत्ययो भवति कर्तृ भिन्ने कारके संज्ञायां भावे च॥"
+    }
+   ]
+  },
+  {
+   "id": "G71",
+   "group": "own word, data case 1 | nipātana | X: nipatana",
+   "count": 1,
+   "sutras": [
+    "3.4.68 भव्य-गेय-प्रवचनीय-उपस्थानीय-जन्य-आप्लाव्य-आपात्याः  ⟨“भव्य गेय प्रवचनीय उपस्थानीय जन्य आप्लाव्य आपात्याः कृत्यप्रत्ययान्ताः⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.4.68",
+     "word": "भव्य-गेय-प्रवचनीय-उपस्थानीय-जन्य-आप्लाव्य-आपात्याः",
+     "trigger": "भव्य-गेय-प्रवचनीय-उपस्थानीय-जन्य-आप्लाव्य-आपात्याः: nipatana",
+     "effect": "“भव्य गेय प्रवचनीय उपस्थानीय जन्य आप्लाव्य आपात्याः कृत्यप्रत्ययान्ताः शब्दाः”",
+     "sutra": "भव्यगेयप्रवचनीयोपस्थानीयजन्याप्लाव्यापात्या वा",
+     "ourVrtti": "भव्य गेय प्रवचनीय उपस्थानीय जन्य आप्लाव्य आपात्याः कृत्यप्रत्ययान्ताः शब्दाः निपात्यन्ते कर्तरि कारके विकल्पेन",
+     "kashika": "भव्यादयः शब्दाः कर्तरि वा निपात्यन्ते।",
+     "prathamavrtti": "भव्यादयः शब्दाः कृत्यप्रत्ययान्ताः कर्त्तरि वा निपात्यन्ते ॥"
+    }
+   ]
+  },
+  {
+   "id": "G72",
+   "group": "carried / not a sūtra word | adhikāra | X: PIS 23 … … … … (not 1.1.72 — paribhāṣ",
+   "count": 1,
+   "sutras": [
+    "4.1.1 ङ्याप्प्रातिपदिकात्  ⟨“ङ्यन्तात् आबन्तात् प्रातिपदिकात् च इत्यधिक्रियते”⟩"
+   ],
+   "samples": [
+    {
+     "n": "4.1.1",
+     "word": "ङ्याप्प्रातिपदिकात्",
+     "trigger": "ङ्याप्प्रातिपदिकात्: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛ",
+     "effect": "“ङ्यन्तात् आबन्तात् प्रातिपदिकात् च इत्यधिक्रियते”",
+     "sutra": "ङ्याप्प्रातिपदिकात्",
+     "ourVrtti": "ङ्यन्तात् आबन्तात् प्रातिपदिकात् च इत्यधिक्रियते इति अधिकारः",
+     "kashika": "यदित ऊर्ध्वमनुक्रमिष्याम आ पञ्चमाध्यायपरिसमाप्तेर्ङ्याप्प्रातिपदिकादित्येवं तद् वेदितव्यम्।",
+     "prathamavrtti": "अधिक shellारोऽयम्, आपञ्चमाध्यायपरिसमाप्तेः, इतोऽग्रे ङ्यन्तात्, आबन्तात्, प्रातिपदिकाच्च वक्ष्यमाणाः प्रत्ययाः भवन्ति॥"
+    }
+   ]
+  },
+  {
+   "id": "G73",
+   "group": "named by a commentator | vidhi | X",
+   "count": 1,
+   "sutras": [
+    "4.1.7 named by सिद्धान्तकौमुदी  ⟨a suffix named = the word from its base up to the suffix⟩"
+   ],
+   "samples": [
+    {
+     "n": "4.1.7",
+     "word": "named by सिद्धान्तकौमुदी",
+     "trigger": "named by सिद्धान्तकौमुदी",
+     "effect": "a suffix named = the word from its base up to the suffix",
+     "sutra": "वनो र च",
+     "ourVrtti": "वन्नन्तात् प्रातिपदिकात् स्त्रियाम् ङीप् प्रत्ययः परः च भवति, वनः [अन्तस्य] स्थाने रेफादेशः च भवति",
+     "kashika": "वन्नन्तात् प्रातिपदिकाद् स्त्रियां ङीप् प्रत्ययो भवति, रेफश्चान्तादेशः।",
+     "prathamavrtti": "वन्नन्तात् प्रातिपदिकात् स्त्रियां ङीप् प्रत्ययो भवति, रेफश्चान्तादेशो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G74",
+   "group": "own word, data case 7 | vidhi | X: qualifier",
+   "count": 1,
+   "sutras": [
+    "4.2.111 गोत्रे  ⟨“गोत्रे विहितप्रत्ययान्तेभ्यः”⟩"
+   ],
+   "samples": [
+    {
+     "n": "4.2.111",
+     "word": "गोत्रे",
+     "trigger": "गोत्रे: qualifier",
+     "effect": "“गोत्रे विहितप्रत्ययान्तेभ्यः”",
+     "sutra": "कण्वादिभ्यो गोत्रे",
+     "ourVrtti": "गोत्रे विहितप्रत्ययान्तेभ्यः कण्वादिभ्यः समर्थात् शेषे अर्थे अण् प्रत्ययः परः च भवति",
+     "kashika": "तर्ह्येवं संबध्यते — कण्वादिभ्यो गोत्रे यः प्रत्ययो विहितः, तदन्तेभ्य एवाण् प्रत्ययो भवति शैषिकः।",
+     "prathamavrtti": "कण्वादिभ्यः प्रातिपदिकेभ्यो गोत्रे यो विहित प्रत्ययस्तदन्तात् प्रातिपदिकादण् प्रत्ययो भवति शैषिकः ॥"
+    }
+   ]
+  },
+  {
+   "id": "G75",
+   "group": "own word, data case 1 | ādeśa | X: PIS 23 … … … … (not 1.1.72 — paribhāṣ",
+   "count": 1,
+   "sutras": [
+    "4.4.125 तद्वान्  ⟨“प्रथमासमर्थात् मतुबन्तात् प्रातिपदिकात्”⟩"
+   ],
+   "samples": [
+    {
+     "n": "4.4.125",
+     "word": "तद्वान्",
+     "trigger": "तद्वान्: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, ni",
+     "effect": "“प्रथमासमर्थात् मतुबन्तात् प्रातिपदिकात्”",
+     "sutra": "तद्वानासामुपधानो मन्त्र इतीष्टकासु लुक् च मतोः",
+     "ourVrtti": "छन्दसि विषये इष्टकासु उपधाने मन्त्रे प्रथमासमर्थात् मतुबन्तात् प्रातिपदिकात् आसाम् इति षष्ठ्यर्थे इति यत्-प्रत्ययः परः च भवति, मतुप्-प्रत्ययस्य स्थाने लुक् आदेशः च भवति",
+     "kashika": "मतुबन्तात् प्रातिपदिकात् प्रथमासमर्थादासामिति षष्ठ्यर्थे यत् प्रत्ययो भवति, यत् प्रथमासमर्थमुपधानो मन्त्रश्चेत् स भवति, यत् तदासामिति निर्दिष्टमिष्टकाश्चेत् ता भवन्ति।",
+     "prathamavrtti": "उपधानमन्त्रसमानाधिकरणात् प्रथमा-समर्थात् मतुबन्तात् प्रातिपदिकाद् आसामिति षष्ठ्यर्थे यत् प्रत्ययो भवति, यत्तदासामिति निर्दिष्टम् इष्टकाश्चेत् ता भवन्ति, प्रकृत्यन्तर्गतस्य मतोश्च लुक् भवति छन्दसि विषये ॥"
+    }
+   ]
+  },
+  {
+   "id": "G76",
+   "group": "own word, data case 5 | āgama | X: 5th case",
+   "count": 1,
+   "sutras": [
+    "5.1.23 वतोः  ⟨वत्वन्तात् — what ENDS in it, as the prathamāvṛtti, Siddhānta-kaumudī ⟩"
+   ],
+   "samples": [
+    {
+     "n": "5.1.23",
+     "word": "वतोः",
+     "trigger": "वतोः: 5th case",
+     "effect": "वत्वन्तात् — what ENDS in it, as the prathamāvṛtti, Siddhānta-kaumudī reads it",
+     "sutra": "वतोरिड्वा",
+     "ourVrtti": "वतोः परस्य कनः आर्हीयेषु अर्थेषु विकल्पेन इडागमः भवति",
+     "kashika": "वतोः परस्य कनो वा इडागमो भवत्यार्हीयेष्वर्थेषु।",
+     "prathamavrtti": "वत्वन्तात् सङ्ख्यावाचिनः प्रातिपदिकाद् आर्हीयेष्वर्थेषु कन् प्रत्ययो भवति, तस्य च कनो वा इडागमो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G77",
+   "group": "own word, data case 6 | āgama | X: 6th case",
+   "count": 1,
+   "sutras": [
+    "5.2.53 वतोः  ⟨वत्वन्तस्य — what ENDS in it, as the prathamāvṛtti reads it⟩"
+   ],
+   "samples": [
+    {
+     "n": "5.2.53",
+     "word": "वतोः",
+     "trigger": "वतोः: 6th case",
+     "effect": "वत्वन्तस्य — what ENDS in it, as the prathamāvṛtti reads it",
+     "sutra": "वतोरिथुक्",
+     "ourVrtti": "डटि प्रत्यये परे संख्यावाचिनः वत्वन्तस्य प्रातिपदिकस्य पूरणे अर्थे इथुक् आगमः भवति",
+     "kashika": "वतोर्डटि परत इथुगागमो भवति।",
+     "prathamavrtti": "संख्यावाचिनो वत्वन्तस्य प्रातिपदिकस्य पूरणार्थे डटि परत इथुग् आगमो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G78",
+   "group": "own word, data case 1 | vidhi | X: prakriti",
+   "count": 1,
+   "sutras": [
+    "5.2.77 तावतिथम्  ⟨“पूरणप्रत्ययान्तात् प्रातिपदिकात्”⟩"
+   ],
+   "samples": [
+    {
+     "n": "5.2.77",
+     "word": "तावतिथम्",
+     "trigger": "तावतिथम्: prakriti",
+     "effect": "“पूरणप्रत्ययान्तात् प्रातिपदिकात्”",
+     "sutra": "तावतिथं ग्रहणमिति लुग्वा",
+     "ourVrtti": "पूरणप्रत्ययान्तात् ग्रहणसमानाधिकरणात् प्रातिपदिकात् स्वार्थे कन् प्रत्ययः भवति, तस्य च पूरणप्रत्ययस्य वा लुक् भवति",
+     "kashika": "पूरणप्रत्ययान्तात् प्रातिपदिकाद् ग्रहणोपाधिकात् स्वार्थे कन् प्रत्ययो भवति।",
+     "prathamavrtti": "—पूरणप्रत्ययान्तात् ग्रहणसमानाधिकरणात् प्रातिपदिकात् स्वार्थे कन् प्रत्ययो भवति तस्य च पूरणप्रत्ययस्य वा लुग् भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G79",
+   "group": "carried / not a sūtra word | vibhakti | X (PV: …)",
+   "count": 1,
+   "sutras": [
+    "5.3.40 from bases ending in the 7th-, 5th- and 1st-case endings  ⟨सप्तमी-पञ्चमी-प्रथमान्तानाम्⟩"
+   ],
+   "samples": [
+    {
+     "n": "5.3.40",
+     "word": "from bases ending in the 7th-, 5th- and 1st-case endings",
+     "trigger": "from bases ending in the 7th-, 5th- and 1st-case endings (PV: सप्तमीपञ्चमीप्रथमान्तानाम्)",
+     "effect": "सप्तमी-पञ्चमी-प्रथमान्तानाम्",
+     "sutra": "अस्ताति च",
+     "ourVrtti": "अस्तातिप्रत्यये परे पूर्वादीनाम् स्थाने पुरादयः आदेशाः यथासङ्ख्यम् भवति",
+     "kashika": "अस्तातिप्रत्यये परतः पूर्वादीनां यथासंख्यं पुरादय आदेशा भवन्ति।",
+     "prathamavrtti": "अस्ताति प्रत्यये च परतः सप्तमीपञ्चमीप्रथमान्तानां पूर्वादीनां यथाक्रमं पुरादय आदेशा भवन्ति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G80",
+   "group": "carried / not a sūtra word | vidhi | X: pratyaya",
+   "count": 1,
+   "sutras": [
+    "5.4.125 अनिच्  ⟨“अनिच्-प्रत्ययान्तः”⟩"
+   ],
+   "samples": [
+    {
+     "n": "5.4.125",
+     "word": "अनिच्",
+     "trigger": "अनिच्: pratyaya",
+     "effect": "“अनिच्-प्रत्ययान्तः”",
+     "sutra": "जम्भा सुहरिततृणसोमेभ्यः",
+     "ourVrtti": "जम्भा इति निपात्यते बहुव्रीहौ समासे सु, हरित, तृण, सोम इत्येतेभ्यः उत्तरेभ्यः अनिच्-प्रत्ययान्तः",
+     "kashika": "बहुव्रीहौ समासे स्वादिभ्यः परं जम्भेति कृतसमासान्तमुत्तरपदं निपात्यते।",
+     "prathamavrtti": "बहुव्रीहौ समासे सु, हरित, तृण, सोम इत्येतेभ्य उत्तरजम्भा इति अनिच्प्रत्ययान्तं कृतसमासान्तं निपात्यते । जम्भ शब्दोऽभ्यवहार्यवाची दन्तवाची च ॥"
+    }
+   ]
+  },
+  {
+   "id": "G81",
+   "group": "carried / not a sūtra word | vidhi | X: a suffix named stands for the word en",
+   "count": 1,
+   "sutras": [
+    "5.4.128 the nipātana forms end in the suffix इच्  ⟨इच्-प्रत्ययान्ताः⟩"
+   ],
+   "samples": [
+    {
+     "n": "5.4.128",
+     "word": "the nipātana forms end in the suffix इच्",
+     "trigger": "the nipātana forms end in the suffix इच्: a suffix named stands for the word ending in it (PIS 23) — Kāśikā “इच्प्रत्ययान्ताः”",
+     "effect": "इच्-प्रत्ययान्ताः",
+     "sutra": "द्विदण्ड्यादिभ्यश्च",
+     "ourVrtti": "द्विदण्ड्यादयः शब्दाः निपात्यन्ते इच्-प्रत्ययान्ताः",
+     "kashika": "द्विदण्ड्यादयः शब्दा इच्प्रत्ययान्ताः साधवो भवन्ति।",
+     "prathamavrtti": "द्विदण्डादयः शब्दा इच् प्रत्ययान्ता निपात्यन्ते ॥"
+    }
+   ]
+  },
+  {
+   "id": "G82",
+   "group": "own word, data case 6 | operation | X: suffixes named in the 6th qualify the",
+   "count": 1,
+   "sutras": [
+    "6.1.9 सन्-यङोः  ⟨सन्नन्तस्य यङन्तस्य — a dhātu ENDING in it⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.9",
+     "word": "सन्-यङोः",
+     "trigger": "सन्-यङोः: suffixes named in the 6th qualify the dhātu",
+     "effect": "सन्नन्तस्य यङन्तस्य — a dhātu ENDING in it",
+     "sutra": "सन्यङोः",
+     "ourVrtti": "सन्नन्तस्य यङन्तस्य च धातोः अनभ्यासस्य प्रथमस्य एकाचः अजादेः द्वितीयस्य एकाचः द्वे भवति",
+     "kashika": "सन्नन्तस्य यङन्तस्य चानभ्यासस्य धातोरवयवस्य प्रथमस्यैकाचो द्वितीयस्य वा यथायोगं द्वे भवतः।",
+     "prathamavrtti": "सन्नन्तस्य यङन्तस्य चानभ्यासस्य धातोरवयवस्य प्रथमस्यैकाचोऽजादेर्द्वितीयस्य वा द्वे भवतः॥"
+    }
+   ]
+  },
+  {
+   "id": "G83",
+   "group": "own word, data case 6 | operation | X: 6th case",
+   "count": 1,
+   "sutras": [
+    "6.1.13 ष्यङः  ⟨ष्यङन्तस्य — what ENDS in it, as the Siddhānta-kaumudī reads it⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.13",
+     "word": "ष्यङः",
+     "trigger": "ष्यङः: 6th case",
+     "effect": "ष्यङन्तस्य — what ENDS in it, as the Siddhānta-kaumudī reads it",
+     "sutra": "ष्यङः सम्प्रसारणं पुत्रपत्योस्तत्पुरुषे",
+     "ourVrtti": "तत्पुरुषे समासे पुत्र पति इत्येतयोः उत्तरपदयोः परे ष्यङः स्थाने सम्प्रसारणम् आदेशः भवति",
+     "kashika": "पुत्र पति इत्येतयोरुत्तरपदयोस्तत्पुरुषे समासे ष्यङः संप्रसारणं भवति।",
+     "prathamavrtti": "पुत्र, पति इत्येतयोरुत्तरपदयोः ष्यङः सम्प्रसारणं भवति तत्पुरुषे समासे ॥"
+    }
+   ]
+  },
+  {
+   "id": "G84",
+   "group": "own word, data case 5 | operation | X: a suffix in the 5th describing the wo",
+   "count": 1,
+   "sutras": [
+    "6.1.68 हल्-ङि-आब्भ्यः  ⟨हलन्तेभ्यः ङ्यन्तेभ्यः आबन्तेभ्यः च (what ends in it)⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.68",
+     "word": "हल्-ङि-आब्भ्यः",
+     "trigger": "हल्-ङि-आब्भ्यः: a suffix in the 5th describing the word it goes with",
+     "effect": "हलन्तेभ्यः ङ्यन्तेभ्यः आबन्तेभ्यः च (what ends in it)",
+     "sutra": "हल्ङ्याब्भ्यो दीर्घात् सुतिस्यपृक्तं हल्",
+     "ourVrtti": "हलन्तात् ङ्यन्तात् आबन्तात् च दीर्घात् सु, ति, सि इत्येतेषाम् अपृक्तम् हल् स्थाने लोपः भवति",
+     "kashika": "तदिह लौकिकेनार्थेनार्थवत् कर्मसाधनं द्रष्टव्यम्।",
+     "prathamavrtti": "हलन्ताद् ङ्यन्ताद् आबन्ताच्च दीर्घात् परं सु, ति, सि इत्येतदपृक्तं हल् लुप्यते ॥"
+    }
+   ]
+  },
+  {
+   "id": "G85",
+   "group": "own word, data case 7 | svara | X: qualifier",
+   "count": 1,
+   "sutras": [
+    "6.2.52 वप्रत्यये  ⟨“वप्रत्ययान्ते”⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.2.52",
+     "word": "वप्रत्यये",
+     "trigger": "वप्रत्यये: qualifier",
+     "effect": "“वप्रत्ययान्ते”",
+     "sutra": "अनिगन्तोऽञ्चतौ वप्रत्यये",
+     "ourVrtti": "वप्रत्ययान्ते अञ्चतौ परे अनिगन्तः गतिः प्रकृत्या भवति",
+     "kashika": "अनिगन्तो गतिः प्रकृतिस्वरो भवत्यञ्चतौ वप्रत्यये परतः।",
+     "prathamavrtti": "—अनिगन्तो गतिर्वप्रत्ययान्तेऽञ्चतौ परतः प्रकृतिस्वरो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G86",
+   "group": "own word, data case 6 | svara | X: qualifier",
+   "count": 1,
+   "sutras": [
+    "6.2.156 ययतोः  ⟨“य-यत्-प्रत्ययान्तस्य”⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.2.156",
+     "word": "ययतोः",
+     "trigger": "ययतोः: qualifier",
+     "effect": "“य-यत्-प्रत्ययान्तस्य”",
+     "sutra": "ययतोश्चातदर्थे",
+     "ourVrtti": "नञः परस्य य-यत्-प्रत्ययान्तस्य गुणप्रतिषेधे वर्तमानात् तद्धितयोः उत्तरपदस्य तदर्थे न वर्तमाने अन्तः उदात्तः भवति",
+     "kashika": "य यत् इत्येतौ यौ तद्धितावतदर्थे वर्तेते, तदन्तस्योत्तरपदस्य नञो गुणप्रतिषेधविषयादन्त उदात्तो भवति।",
+     "prathamavrtti": "गुणप्रतिषेधे वर्त्तमानान् नञः परौ य, यत् इत्येतौ यौ तद्धितावतदर्थे वर्त्तेते तदन्तस्योत्तरपदस्यान्त उदात्तो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G87",
+   "group": "named by a commentator | operation | X (English)",
+   "count": 1,
+   "sutras": [
+    "6.3.17 named by Vasu  ⟨a suffix named = the word from its base up to the suffix⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.3.17",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "a suffix named = the word from its base up to the suffix",
+     "sutra": "घकालतनेषु कालनाम्नः",
+     "ourVrtti": "घसंज्ञके प्रत्यये कालशब्दे तनप्रत्यये च परे कालनाम्नः उत्तरस्याः सप्तम्याः अलुक् विभाषा भवति",
+     "kashika": "घसंज्ञके प्रत्यये कालशब्दे तनप्रत्यये च परतः कालनाम्न उत्तरस्याः सप्तम्या विभाषालुग् भवति।",
+     "prathamavrtti": "कालनाम्न उत्तरस्याः सप्तम्याः घसंज्ञके प्रत्यये कालशब्दे तनप्रत्यये च परतो विभाषाऽलुग्भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G88",
+   "group": "own word, data case 6 | atideśa | X: qualifier",
+   "count": 1,
+   "sutras": [
+    "6.3.39 तद्धितस्य  ⟨“तद्धितान्तस्य”⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.3.39",
+     "word": "तद्धितस्य",
+     "trigger": "तद्धितस्य: qualifier",
+     "effect": "“तद्धितान्तस्य”",
+     "sutra": "वृद्धिनिमित्तस्य च तद्धितस्यारक्तविकारे",
+     "ourVrtti": "रक्ते विकारे चार्थे अविहितस्य वृद्धिनिमित्तस्य तद्धितान्तस्य स्त्रीशब्दस्य पुंवत् न भवति",
+     "kashika": "वृद्धेर्निमित्तं यस्मिन् स वृद्धिनिमित्तस्तद्धितः, स यदि रक्ते ऽर्थे विकारे च न विहितः, तदन्तस्य स्त्रीशब्दस्य न पुंवद् भवति।",
+     "prathamavrtti": "स्वाङ्गादुत्तरो य ईकारस्तदन्तायाः स्त्रियाः न पुंवद् भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G89",
+   "group": "own word, data case 7 | ādeśa | X: PIS 23 … … … … (not 1.1.72 — paribhāṣ",
+   "count": 1,
+   "sutras": [
+    "6.3.72 कृति  ⟨“कृदन्ते उत्तरपदे”⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.3.72",
+     "word": "कृति",
+     "trigger": "कृति: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, niṣṭh",
+     "effect": "“कृदन्ते उत्तरपदे”",
+     "sutra": "रात्रेः कृति विभाषा",
+     "ourVrtti": "कृदन्ते उत्तरपदे रात्रिशब्दस्य विभाषा मुम् आगमः भवति",
+     "kashika": "रात्रेः कृदन्त उत्तरपदे विभाषा मुमागमो भवति।",
+     "prathamavrtti": "कृदन्त उत्तरपदे रात्रिशब्दस्य विभाषा मुमागमो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G90",
+   "group": "carried / not a sūtra word | āgama | X: PIS 23 … … … … (not 1.1.72 — paribhāṣ",
+   "count": 1,
+   "sutras": [
+    "6.4.77 श्नु  ⟨what ENDS in it, as the prathamāvṛtti, Siddhānta-kaumudī, Kāśikā read ⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.77",
+     "word": "श्नु",
+     "trigger": "श्नु: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, niṣṭh",
+     "effect": "what ENDS in it, as the prathamāvṛtti, Siddhānta-kaumudī, Kāśikā read it",
+     "sutra": "अचि श्नुधातुभ्रुवां य्वोरियङुवङौ",
+     "ourVrtti": "अचि परे श्नुप्रत्ययान्तस्य धातोः भ्रूवश्च अङ्गस्य इवर्णोवर्णयोः स्थाने इयङ् उवङ् आदेशौ यथासङ्ख्यम् भवतः",
+     "kashika": "श्नुप्रत्ययान्तस्याङ्गस्य धातोरिवर्णोवर्णान्तस्य भ्रू इत्येतस्य च इयङ् उवङ् इत्येतावादेशौ भवतोऽजादौ प्रत्यये परतः।",
+     "prathamavrtti": "श्नुप्रत्ययान्तस्य इवर्णोवर्णान्तधातोः भ्रू इत्येतस्य चाङ्गस्य इयङ् उवङ् इत्येतावादेशौ भवतोऽचि परतः॥"
+    }
+   ]
+  },
+  {
+   "id": "G91",
+   "group": "own word, data case 6 | ādeśa | X: PIS 23 … … … … (not 1.1.72 — paribhāṣ",
+   "count": 1,
+   "sutras": [
+    "6.4.87 हु-श्नुवोः  ⟨हु श्नुप्रत्ययान्तस्य — what ENDS in it, as the prathamāvṛtti, Siddhān⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.87",
+     "word": "हु-श्नुवोः",
+     "trigger": "हु-श्नुवोः: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya,",
+     "effect": "हु श्नुप्रत्ययान्तस्य — what ENDS in it, as the prathamāvṛtti, Siddhānta-kaumudī and Kāśikā read it",
+     "sutra": "हुश्नुवोः सार्वधातुके",
+     "ourVrtti": "सार्वधातुके प्रत्यये परे अजादौ अनेकाचः अङ्गस्य असंयोगपूर्वस्य उकारस्य हु इत्येतस्य श्नुप्रत्ययान्तस्य च स्थाने यणादेशः भवति",
+     "kashika": "हु  इत्येतस्याङ्गस्य श्नुप्रत्ययान्तस्य चानेकाचोऽसंयोगपूर्वस्याजादौ सार्वधातुके परतो यणादेशो भवति।",
+     "prathamavrtti": "हु इत्येतस्य श्नुप्रत्ययान्तस्य चानेकाचोऽङ्गस्य योऽसंयोगपूर्व उकारस्तस्य स्थाने यणादेशो भवति अजादौ सार्वधातुके परतः॥"
+    }
+   ]
+  },
+  {
+   "id": "G92",
+   "group": "carried / not a sūtra word | operation | X: a suffix (or case ending) named",
+   "count": 1,
+   "sutras": [
+    "7.1.39 सुबन्तस्य  ⟨what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … त⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.1.39",
+     "word": "सुबन्तस्य",
+     "trigger": "सुबन्तस्य: a suffix (or case ending) named",
+     "effect": "what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … तदन्तस्य ग्रहणम्)",
+     "sutra": "सुपां सुलुक्पूर्वसवर्णाऽऽच्छेयाडाड्यायाजालः",
+     "ourVrtti": "छन्दसि विषये सुपां स्थाने अङ्गस्य स्थाने सु-लुक्-पूर्वसवर्ण-आ-आत्-शे-या-डा-ड्या-याच्-आल् आदेशाः भवन्ति",
+     "kashika": "छन्दसि विषये सुपां स्थाने सु लुक्  पूर्वसवर्ण आ आत् शे या डा ड्या याच् आल् इत्येत आदेशा भवन्ति।",
+     "prathamavrtti": "छन्दसि विषये सुपां स्थाने सु, लुक्, पूर्वसवर्ण, आ, आत्, शे, या, डा, ड्या, याच्, आल् इत्येते आदेशा भवन्ति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G93",
+   "group": "own word, data case 5 | āgama | X: a suffix in the 5th describing the aṅ",
+   "count": 1,
+   "sutras": [
+    "7.1.54 ह्रस्व-नदी-आपः  ⟨ह्रस्वान्तात् नद्यन्तात् आबन्तात् च अङ्गात् — an aṅga ENDING in it⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.1.54",
+     "word": "ह्रस्व-नदी-आपः",
+     "trigger": "ह्रस्व-नदी-आपः: a suffix in the 5th describing the aṅga",
+     "effect": "ह्रस्वान्तात् नद्यन्तात् आबन्तात् च अङ्गात् — an aṅga ENDING in it",
+     "sutra": "ह्रस्वनद्यापो नुट्",
+     "ourVrtti": "ह्रस्वान्तात् नद्यन्तात् आबन्तात् च अङ्गात् आमः नुट् आगमः भवति",
+     "kashika": "ह्रस्वान्ताद् नद्यन्तादाबन्ताच्चोत्तरस्यामो नुडागमो भवति।",
+     "prathamavrtti": "ह्रस्वान्तात् नद्यन्तात् आबन्ताच्चाङ्गादुत्तरस्यामो नुट् आगमो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G94",
+   "group": "carried / not a sūtra word | āgama | X",
+   "count": 1,
+   "sutras": [
+    "7.1.78 शतुः qualifies अङ्गस्य  ⟨शत्रन्तस्य (what ends in it)⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.1.78",
+     "word": "शतुः qualifies अङ्गस्य",
+     "trigger": "शतुः qualifies अङ्गस्य",
+     "effect": "शत्रन्तस्य (what ends in it)",
+     "sutra": "नाभ्यस्ताच्छतुः",
+     "ourVrtti": "अभ्यस्तात् अङ्गात् परस्य अङ्गात् शतुः नुम् आगमः न भवति",
+     "kashika": "अभ्यस्तादङ्गादुत्तरस्य शतुर्नुम् न भवति।",
+     "prathamavrtti": "अभ्यस्तादङ्गादुत्तरस्य शतुर्नुम्न भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G95",
+   "group": "own word, data case 6 | āgama | X: describes the aṅga",
+   "count": 1,
+   "sutras": [
+    "7.1.78 शतुः  ⟨शत्रन्तस्य अङ्गस्य — an aṅga ENDING in it⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.1.78",
+     "word": "शतुः",
+     "trigger": "शतुः: describes the aṅga",
+     "effect": "शत्रन्तस्य अङ्गस्य — an aṅga ENDING in it",
+     "sutra": "नाभ्यस्ताच्छतुः",
+     "ourVrtti": "अभ्यस्तात् अङ्गात् परस्य अङ्गात् शतुः नुम् आगमः न भवति",
+     "kashika": "अभ्यस्तादङ्गादुत्तरस्य शतुर्नुम् न भवति।",
+     "prathamavrtti": "अभ्यस्तादङ्गादुत्तरस्य शतुर्नुम्न भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G96",
+   "group": "carried / not a sūtra word | ādeśa | X: 6th case",
+   "count": 1,
+   "sutras": [
+    "7.1.81 शतुः  ⟨शतृन्तस्य — what ENDS in it, as the Siddhānta-kaumudī, Laghu-kaumudī r⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.1.81",
+     "word": "शतुः",
+     "trigger": "शतुः: 6th case",
+     "effect": "शतृन्तस्य — what ENDS in it, as the Siddhānta-kaumudī, Laghu-kaumudī reads it",
+     "sutra": "शप्श्यनोर्नित्यम्",
+     "ourVrtti": "शी-नद्योः परे शप् श्यन् इत्येतयोः शतुः अङ्गस्य नित्यम् नुम् आगमः भवति",
+     "kashika": "शप् श्यन् इत्येतयोः शतुः शीनद्योः परतो नित्यं नुमागमो भवति।",
+     "prathamavrtti": "शप् श्यन् इत्येतयोः शतुः शीनद्योः परतो नित्यं नुमागमो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G97",
+   "group": "own word, data case 6 | nipātana | X: PIS 23 … … … … (not 1.1.72 — paribhāṣ",
+   "count": 1,
+   "sutras": [
+    "7.2.26 णेः  ⟨“ण्यन्तात् वृत्तेः धातोः”⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.2.26",
+     "word": "णेः",
+     "trigger": "णेः: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, niṣṭhā",
+     "effect": "“ण्यन्तात् वृत्तेः धातोः”",
+     "sutra": "णेरध्ययने वृत्तम्",
+     "ourVrtti": "वृत्तम् इति निपात्यते निष्ठायाम् परतः ण्यन्तात् वृत्तेः धातोः अध्ययने गम्यमाने",
+     "kashika": "ण्यन्तस्य वृतेर्निष्ठायाम् अध्ययनार्थे वृत्तमितीडभावो णिलुक् च निपात्यते।",
+     "prathamavrtti": "निष्ठायां परतो ण्यन्तात् वृत्तेः वृत्तमिति इड् णिलुक् च निपात्यते अध्ययने गम्यमाने॥"
+    }
+   ]
+  },
+  {
+   "id": "G98",
+   "group": "own word, data case 5 | ādeśa | X: a suffix named as what precedes",
+   "count": 1,
+   "sutras": [
+    "7.3.94 यङः  ⟨यङन्तात् (what ends in it)⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.3.94",
+     "word": "यङः",
+     "trigger": "यङः: a suffix named as what precedes",
+     "effect": "यङन्तात् (what ends in it)",
+     "sutra": "यङो वा",
+     "ourVrtti": "यङः उत्तरस्य हलादेः पितः सार्वधातुकस्य अङ्गस्य विकल्पेन ईट् आगमः भवति",
+     "kashika": "यङ उत्तरस्य हलादेः पितः सार्वधातुकस्येडागमो भवति वा।",
+     "prathamavrtti": "यङ उत्तरस्य हलादेः पितः सार्वधातुकस्य ईडागमो विकल्पेन भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G99",
+   "group": "own word, data case 7 | ādeśa | X: qualifier",
+   "count": 1,
+   "sutras": [
+    "8.3.25 क्वौ  ⟨“क्विप्प्रत्ययान्ते”⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.3.25",
+     "word": "क्वौ",
+     "trigger": "क्वौ: qualifier",
+     "effect": "“क्विप्प्रत्ययान्ते”",
+     "sutra": "मो राजि समः क्वौ",
+     "ourVrtti": "क्विप्प्रत्ययान्ते राज्धातौ परे सम्-इत्यस्य मकारस्य स्थाने मकारः आदेशः भवति",
+     "kashika": "समो मकारस्य मकार आदेशो भवति राजतौ क्विप्प्रत्ययान्ते परतः।",
+     "prathamavrtti": "समो मकारस्य मकार आदेशो भवति, क्विप्प्रत्ययान्ते राज्धातौ परतः ॥"
+    }
+   ]
+  },
+  {
+   "id": "G100",
+   "group": "own word, data case 5 | ṇatva | X: PIS 23 … … … … (not 1.1.72 — paribhāṣ",
+   "count": 1,
+   "sutras": [
+    "8.4.30 णेः  ⟨ण्यन्तात् — what ENDS in it, as the prathamāvṛtti, Siddhānta-kaumudī a⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.4.30",
+     "word": "णेः",
+     "trigger": "णेः: PIS 23 प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम् (not 1.1.72 — paribhāṣā audit: A suffix (or suffix class: vibhakti, lakāra, kṛt, kṛtya, niṣṭhā",
+     "effect": "ण्यन्तात् — what ENDS in it, as the prathamāvṛtti, Siddhānta-kaumudī and Kāśikā read it",
+     "sutra": "णेर्विभाषा",
+     "ourVrtti": "उपसर्गस्थात् निमित्तात् उत्तरस्य अचः उत्तरस्य कृत्प्रत्ययस्थस्य ण्यन्तात् धातोः विहितस्य नकारस्य स्थाने विभाषा णकारादेशः भवति",
+     "kashika": "ण्यन्ताद् यो विहितः कृत्प्रत्ययः तत्स्थस्य नकारस्योपसर्गस्थाद् निमित्तादुत्तरस्य विभाषा णकारादेशो भवति।",
+     "prathamavrtti": "उपसर्गस्थान्निमित्तादुत्तरस्य ण्यन्ताद् यो विहितः कृत्यत्ययस्तत्स्थस्या- जुत्तरस्य नकारस्य विभाषा णकारादेशो भवति॥"
+    }
+   ]
+  }
+ ]
+}

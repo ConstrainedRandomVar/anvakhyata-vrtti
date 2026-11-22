@@ -1,0 +1,455 @@
+{
+ "pid": "1.1.71",
+ "howGrouped": "case of the triggering word (own sūtra words only) | rule kind | start of the engine trigger text; member = \"<sūtra> <word>  ⟨engine effect⟩\"",
+ "applies": 99,
+ "consideredNotApplicable": 0,
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | operation | X: a sound group",
+   "count": 34,
+   "sutras": [
+    "6.4.138 अच्  ⟨first sound + final marker = everything in between⟩",
+    "6.4.156 इक्  ⟨इ उ ऋ ऌ⟩",
+    "7.1.39 सुप्  ⟨first sound + final marker = everything in between⟩",
+    "7.2.1 इक्  ⟨इ उ ऋ ऌ⟩",
+    "7.2.4 अच्  ⟨first sound + final marker = everything in between⟩",
+    "7.2.5 इक्  ⟨इ उ ऋ ऌ⟩",
+    "7.2.6 इक्  ⟨इ उ ऋ ऌ⟩",
+    "7.2.114 इक्  ⟨इ उ ऋ ऌ⟩",
+    "7.2.115 अच्  ⟨first sound + final marker = everything in between⟩",
+    "7.3.16 इक्  ⟨इ उ ऋ ऌ⟩",
+    "7.3.26 इक्  ⟨इ उ ऋ ऌ⟩",
+    "7.3.34 इक्  ⟨इ उ ऋ ऌ⟩",
+    "7.3.35 इक्  ⟨इ उ ऋ ऌ⟩",
+    "7.3.82 इक्  ⟨इ उ ऋ ऌ⟩",
+    "7.3.83 इक्  ⟨इ उ ऋ ऌ⟩",
+    "7.3.84 इक्  ⟨इ उ ऋ ऌ⟩",
+    "7.3.85 इक्  ⟨इ उ ऋ ऌ⟩",
+    "7.3.86 इक्  ⟨इ उ ऋ ऌ⟩",
+    "7.3.87 इक्  ⟨इ उ ऋ ऌ⟩",
+    "7.3.88 इक्  ⟨इ उ ऋ ऌ⟩",
+    "7.3.90 इक्  ⟨इ उ ऋ ऌ⟩",
+    "7.3.91 इक्  ⟨इ उ ऋ ऌ⟩",
+    "7.3.111 इक्  ⟨इ उ ऋ ऌ⟩",
+    "7.3.114 आप्  ⟨first sound + final marker = everything in between⟩",
+    "7.3.115 आप्  ⟨first sound + final marker = everything in between⟩",
+    "7.4.11 इक्  ⟨इ उ ऋ ऌ⟩",
+    "7.4.13 अण्  ⟨first sound + final marker = everything in between⟩",
+    "7.4.15 आप्  ⟨first sound + final marker = everything in between⟩",
+    "7.4.16 इक्  ⟨इ उ ऋ ऌ⟩",
+    "7.4.21 इक्  ⟨इ उ ऋ ऌ⟩",
+    "7.4.57 इक्  ⟨इ उ ऋ ऌ⟩",
+    "7.4.69 इण्  ⟨first sound + final marker = everything in between⟩",
+    "7.4.75 इक्  ⟨इ उ ऋ ऌ⟩",
+    "7.4.82 इक्  ⟨इ उ ऋ ऌ⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.138",
+     "word": "अच्",
+     "trigger": "अच्: a sound group",
+     "effect": "first sound + final marker = everything in between",
+     "sutra": "अचः",
+     "ourVrtti": "लुप्तनकारस्य अञ्चतेः तदन्तस्य भसंज्ञकस्य अकारस्य अङ्गस्य स्थाने लोपः भवति",
+     "kashika": "तदन्तस्य भस्याकारस्य लोपो भवति।",
+     "prathamavrtti": "अच इत्ययमञ्चतौ लुप्तनकारो गृह्यते, तदन्तस्याञ्चतेर्भस्य अकारस्य लोपो भवति ॥"
+    },
+    {
+     "n": "7.3.34",
+     "word": "इक्",
+     "trigger": "इक्: a sound group",
+     "effect": "इ उ ऋ ऌ",
+     "sutra": "नोदात्तोपदेशस्य मान्तस्यानाचमेः",
+     "ourVrtti": "चिणि कृति च ञिति णिति उदात्तोपदेशस्य आचमि-वर्जितस्य मकारान्तस्य अङ्गस्य वृद्धिः आदेशः न भवति",
+     "kashika": "उदात्तोपदेशस्य मान्तस्याङ्गस्याचमिवर्जितस्य चिणि कृति च ञ्णिति यदुक्तंतद् न भवति।",
+     "prathamavrtti": "उदात्तोपदेशस्य मकारान्तस्याङ्गस्याचमिवर्जितस्य चिणि कृति ञ्णिति च वृद्धिर्न भवति॥"
+    },
+    {
+     "n": "7.3.111",
+     "word": "इक्",
+     "trigger": "इक्: a sound group",
+     "effect": "इ उ ऋ ऌ",
+     "sutra": "घेर्ङिति",
+     "ourVrtti": "ङिति प्रत्यये परे घ्यन्तस्य सुपि अङ्गस्य गुणः आदेशः भवति",
+     "kashika": "घ्यन्तस्याङ्गस्य ङिति प्रत्यये परतो गुणो भवति।",
+     "prathamavrtti": "घ्यन्तस्याङ्गस्य गुणो भवति ङिति सुपि प्रत्यये परतः॥"
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "group": "carried / not a sūtra word | vidhi | X: a sound group",
+   "count": 30,
+   "sutras": [
+    "3.1.21 हल्  ⟨first sound + final marker = everything in between⟩",
+    "3.1.97 अच्  ⟨first sound + final marker = everything in between⟩",
+    "3.1.124 हल्  ⟨first sound + final marker = everything in between⟩",
+    "3.2.136 चर्  ⟨first sound + final marker = everything in between⟩",
+    "3.2.157 इण्  ⟨first sound + final marker = everything in between⟩",
+    "3.2.163 इण्  ⟨first sound + final marker = everything in between⟩",
+    "3.2.184 चर्  ⟨first sound + final marker = everything in between⟩",
+    "3.3.38 इण्  ⟨first sound + final marker = everything in between⟩",
+    "3.3.103 हल्  ⟨first sound + final marker = everything in between⟩",
+    "3.3.121 हल्  ⟨first sound + final marker = everything in between⟩",
+    "3.4.16 इण्  ⟨first sound + final marker = everything in between⟩",
+    "4.1.16 यञ्  ⟨first sound + final marker = everything in between⟩",
+    "4.1.156 अण्  ⟨first sound + final marker = everything in between⟩",
+    "4.2.72 अच्  ⟨first sound + final marker = everything in between⟩",
+    "4.2.73 अच्  ⟨first sound + final marker = everything in between⟩",
+    "4.2.109 अच्  ⟨first sound + final marker = everything in between⟩",
+    "4.2.113 अच्  ⟨first sound + final marker = everything in between⟩",
+    "4.2.123 र  ⟨first sound + final marker = everything in between⟩",
+    "4.2.141 अक्  ⟨first sound + final marker = everything in between⟩",
+    "4.2.141 इक्  ⟨first sound + final marker = everything in between⟩",
+    "4.3.67 अच्  ⟨first sound + final marker = everything in between⟩",
+    "4.3.124 हल्  ⟨first sound + final marker = everything in between⟩",
+    "4.3.144 शर्  ⟨first sound + final marker = everything in between⟩",
+    "4.3.150 अच्  ⟨first sound + final marker = everything in between⟩",
+    "4.4.64 अच्  ⟨first sound + final marker = everything in between⟩",
+    "4.4.81 हल्  ⟨first sound + final marker = everything in between⟩",
+    "5.3.83 अच्  ⟨first sound + final marker = everything in between⟩",
+    "5.3.118 अण्  ⟨first sound + final marker = everything in between⟩",
+    "5.4.11 तिङ्  ⟨first sound + final marker = everything in between⟩",
+    "5.4.111 झय्  ⟨first sound + final marker = everything in between⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.21",
+     "word": "हल्",
+     "trigger": "हल्: a sound group",
+     "effect": "first sound + final marker = everything in between",
+     "sutra": "मुण्डमिश्रश्लक्ष्णलवणव्रतवस्त्रहलकलकृततूस्तेभ्यो णिच्",
+     "ourVrtti": "मुण्ड-मिश्र-श्लक्ष्ण-लवण-व्रत-वस्त्र-हल-कल-कृत-तूस्त-शब्देभ्यः कर्मभ्यः करोत्यर्थे णिच् प्रत्ययः परः च भवति",
+     "kashika": "मुण्ड मिश्र श्लक्ष्ण लवण व्रत वस्त्र हल कल कृत तूस्त इत्येतेभ्येः करणे णिच् प्रत्ययो भवति।",
+     "prathamavrtti": "मुण्ड, मिश्र, श्लक्ष्ण, लवण, व्रत, वस्त्र, हल, कल, कृत, तूस्त इत्येतेभ्यः कर्मभ्यः करोत्यर्थे णिच् प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "3.4.16",
+     "word": "इण्",
+     "trigger": "इण्: a sound group",
+     "effect": "first sound + final marker = everything in between",
+     "sutra": "भावलक्षणे स्थेण्कृञ्वदिचरिहुतमिजनिभ्यस्तोसुन्",
+     "ourVrtti": "छन्दसि विषये धातुभ्यः स्था-इण्-कृञ्-वदि-चरि-हु-तमि-जनिभ्यः भावलक्षणे अर्थे तुमर्थे तोसुन् प्रत्ययः परः च भवति",
+     "kashika": "भावो लक्ष्यते येन तस्मिन्नर्थे वर्तमानेभ्यः स्थादिभ्यो धातुभ्यश्छन्दसि विषये तुमर्थे तोसुन् प्रत्ययो भवति।",
+     "prathamavrtti": "भावलक्षणे वर्त्तमानेभ्यः स्था, इण्, कृञ्, वदि, चरि, हु, तमि, जनि इत्येतेभ्यो धातुभ्यश्छन्दसि विषये तुमर्थे तोसुन् प्रत्ययो भवति॥"
+    },
+    {
+     "n": "4.3.67",
+     "word": "अच्",
+     "trigger": "अच्: a sound group",
+     "effect": "first sound + final marker = everything in between",
+     "sutra": "बह्वचोऽन्तोदात्ताट्ठञ्",
+     "ourVrtti": "बह्वचः अन्तोदात्तात् व्याख्यातव्यनाम्नः प्रातिपदिकात् षष्ठीसमर्थात् भवे अर्थे व्याख्याने च अर्थे ठञ् प्रत्ययः परः च भवति",
+     "kashika": "बह्वचो व्याख्यातव्यनाम्नः प्रातिपदिकादन्तोदात्ताद् भवव्याख्यानयोष्ठञ् प्रत्ययो भवति।",
+     "prathamavrtti": "बह्वचोऽन्तोदात्तात् व्याख्यातव्यनाम्नः प्रातिपदिकात् भवव्याख्यानयोरर्थयोः ठञ् प्रत्ययो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G3",
+   "group": "carried / not a sūtra word | ādeśa | X: a sound group",
+   "count": 14,
+   "sutras": [
+    "3.1.45 शल्  ⟨first sound + final marker = everything in between⟩",
+    "3.1.62 अच्  ⟨first sound + final marker = everything in between⟩",
+    "3.1.83 हल्  ⟨first sound + final marker = everything in between⟩",
+    "6.4.57 आप्  ⟨first sound + final marker = everything in between⟩",
+    "7.1.18 आप्  ⟨first sound + final marker = everything in between⟩",
+    "7.2.61 अच्  ⟨first sound + final marker = everything in between⟩",
+    "7.3.44 अ-सुप्  ⟨first sound + final marker = everything in between⟩",
+    "7.3.113 आप्  ⟨first sound + final marker = everything in between⟩",
+    "7.4.47 अच्  ⟨first sound + final marker = everything in between⟩",
+    "8.2.10 झय्  ⟨first sound + final marker = everything in between⟩",
+    "8.2.40 झष्  ⟨first sound + final marker = everything in between⟩",
+    "8.3.33 मय्  ⟨first sound + final marker = everything in between⟩",
+    "8.3.39 इण्  ⟨first sound + final marker = everything in between⟩",
+    "8.4.62 झय्  ⟨first sound + final marker = everything in between⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.45",
+     "word": "शल्",
+     "trigger": "शल्: a sound group",
+     "effect": "first sound + final marker = everything in between",
+     "sutra": "शल इगुपधादनिटः क्सः",
+     "ourVrtti": "लुङि परे शलन्तात् इगुपधात् अनिटः धातोः च्लेः स्थाने क्स-आदेशः भवति",
+     "kashika": "शलन्तो यो धातुरिगुपधः, तस्मात् परस्य च्लेरनिटः क्स आदेशो भवति।",
+     "prathamavrtti": "शलन्तो यो धातुः इगुपधः तस्मा-दनिटः च्लेः स्थाने 'क्स' आदेशो भवति लुङि परतः ॥"
+    },
+    {
+     "n": "7.1.18",
+     "word": "आप्",
+     "trigger": "आप्: a sound group",
+     "effect": "first sound + final marker = everything in between",
+     "sutra": "औङ आपः",
+     "ourVrtti": "आबन्तात् अङ्गात् औङः स्थाने शी आदेशः भवति",
+     "kashika": "आबन्तादङ्गादुत्तरस्यौङः शीत्ययमादेशो भवति।",
+     "prathamavrtti": "आबन्तादङ्गादुत्तरस्य औङः स्थाने शी इत्ययमादेशो भवति ॥"
+    },
+    {
+     "n": "7.4.47",
+     "word": "अच्",
+     "trigger": "अच्: a sound group",
+     "effect": "first sound + final marker = everything in between",
+     "sutra": "अच उपसर्गात्तः",
+     "ourVrtti": "किति प्रत्यये परे उपसर्गात् परस्य अजन्तात् घुसंज्ञकस्य तकारादौ दा इत्येतस्य अङ्गस्य स्थाने तः आदेशः भवति",
+     "kashika": "अजन्तादुपसर्गादुत्तरस्य दा इत्येतस्य घुसंज्ञकस्य त इत्ययमादेशो भवति तकारादौ किति।",
+     "prathamavrtti": "अजन्तादुपसर्गादुत्तरस्य घुसंज्ञकस्य दा इत्येतस्याङ्गस्य त इत्ययमादेशो भवति, तकारादौ क्किति प्रत्यये परतः ॥"
+    }
+   ]
+  },
+  {
+   "id": "G4",
+   "group": "carried / not a sūtra word | saṃjñā | X: a sound/suffix group",
+   "count": 6,
+   "sutras": [
+    "1.1.1 ऐच्  ⟨first item + final marker = everything in between⟩",
+    "1.1.2 एङ्  ⟨first item + final marker = everything in between⟩",
+    "1.1.10 अच्  ⟨first item + final marker = everything in between⟩",
+    "1.1.39 एच्  ⟨first item + final marker = everything in between⟩",
+    "1.4.14 सुप्  ⟨first item + final marker = everything in between⟩",
+    "3.4.113 तिङ्  ⟨first item + final marker = everything in between⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.1.1",
+     "word": "ऐच्",
+     "trigger": "ऐच्: a sound/suffix group",
+     "effect": "first item + final marker = everything in between",
+     "sutra": "वृद्धिरादैच्",
+     "ourVrtti": "आ ऐ औ इति एतेषाम् वर्णानाम् 'वृद्धिः' इति संज्ञा भवति",
+     "kashika": "वृद्धि-शब्दः संज्ञात्वेन विधीयते प्रत्येकमादैचां वर्णानां सामान्येन तद्भावितानाम्, अतद्भावितानाञ्च।",
+     "prathamavrtti": "आ ऐ औ इत्येतेषां वर्णानां वृद्धिसंज्ञा भवति ॥"
+    },
+    {
+     "n": "1.1.10",
+     "word": "अच्",
+     "trigger": "अच्: a sound/suffix group",
+     "effect": "first item + final marker = everything in between",
+     "sutra": "नाज्झलौ",
+     "ourVrtti": "अच्-हलौ 'सवर्णसंज्ञकौ' इति संज्ञा न भवति",
+     "kashika": "तुल्यास्यप्रयत्नावपि अज्झलौ परस्परं सवर्णसंज्ञौ न भवतः।",
+     "prathamavrtti": "तुल्यास्यप्रयत्नावपि अच्-हलौ परस्परं सवर्णसंज्ञकौ न भवतः ॥"
+    },
+    {
+     "n": "1.4.14",
+     "word": "सुप्",
+     "trigger": "सुप्: a sound/suffix group",
+     "effect": "first item + final marker = everything in between",
+     "sutra": "सुप्तिङन्तं पदम्",
+     "ourVrtti": "सुबन्तं तिङन्तं च शब्दरूपम् 'पदसंज्ञम्' इति संज्ञा भवति",
+     "kashika": "सुबन्तं तिङन्तं च शब्दरूपं पदसंज्ञं भवति।",
+     "prathamavrtti": "सुबन्तं तिङन्तं च शब्दरूपं पदसंज्ञं भवति। सुप्-तिङ् इति प्रत्याहारग्रहणम्।"
+    }
+   ]
+  },
+  {
+   "id": "G5",
+   "group": "own word, data case 1 | saṃjñā | X: a sound/suffix group",
+   "count": 6,
+   "sutras": [
+    "1.1.43 सुट्  ⟨first item + final marker = everything in between⟩",
+    "1.1.45 इक्  ⟨first item + final marker = everything in between⟩",
+    "1.1.75 एङ्  ⟨first item + final marker = everything in between⟩",
+    "1.2.27 अच्  ⟨first item + final marker = everything in between⟩",
+    "1.3.2 अच्  ⟨first item + final marker = everything in between⟩",
+    "1.3.3 हल्  ⟨first item + final marker = everything in between⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.1.43",
+     "word": "सुट्",
+     "trigger": "सुट्: a sound/suffix group",
+     "effect": "first item + final marker = everything in between",
+     "sutra": "सुडनपुंसकस्य",
+     "ourVrtti": "नपुंसकभिन्नस्य सुट्-प्रत्याहारः 'सर्वनामस्थानम्' इति संज्ञा भवति",
+     "kashika": "'सुट्' इति पञ्च वचनानि सर्वनामस्थानसंज्ञानि भवन्ति नपुंसकादन्यत्र।",
+     "prathamavrtti": "नपुंसकभिन्नसम्बन्धी यः सुट् तस्य सर्वनामस्थानसंज्ञा भवति ॥"
+    },
+    {
+     "n": "1.1.75",
+     "word": "एङ्",
+     "trigger": "एङ्: a sound/suffix group",
+     "effect": "first item + final marker = everything in between",
+     "sutra": "एङ् प्राचां देशे",
+     "ourVrtti": "यस्य समुदायस्य अचाम् आदिः एङ् (ए ओ) तस्य प्राचाम् देश-अभिधाने 'वृद्धम्' इति संज्ञा भवति",
+     "kashika": "एङ् यस्याचामादिस्तत् प्राचां देशाभिधाने वृद्धसंज्ञं भवति।",
+     "prathamavrtti": "यस्य समुदायस्य अचां आदिः 'एङ्', तस्य प्राचां देशाभिधाने वृद्धसंज्ञा भवति ॥"
+    },
+    {
+     "n": "1.3.2",
+     "word": "अच्",
+     "trigger": "अच्: a sound/suffix group",
+     "effect": "first item + final marker = everything in between",
+     "sutra": "उपदेशेऽजनुनासिक इत्",
+     "ourVrtti": "उपदेशे अनुनासिकः अच् 'इत्संज्ञकः' इति संज्ञा भवति",
+     "kashika": "तत्र योऽनुनासिकः स इत्संज्ञो भवति।",
+     "prathamavrtti": "उपदेशे योऽनुनासिकोऽच् तस्य इत्संज्ञा भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G6",
+   "group": "carried / not a sūtra word | paribhāṣā | X",
+   "count": 2,
+   "sutras": [
+    "1.1.3 1.1.3  ⟨इक् = इ उ ऋ ऌ (a pratyāhāra)⟩",
+    "1.1.69 1.1.69  ⟨अण् = अ इ उ ऋ ऌ (the pratyāhāra with the earlier ण्)⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.1.3",
+     "word": "1.1.3",
+     "trigger": "1.1.3",
+     "effect": "इक् = इ उ ऋ ऌ (a pratyāhāra)",
+     "sutra": "इको गुणवृद्धी",
+     "ourVrtti": "वृद्धिः गुणः इति शब्दाभ्याम् यत्र गुणवृद्धी विधीयेते तत्र इकः स्थाने इति उपतिष्ठते",
+     "kashika": "वृद्धिगुणौ स्वसंज्ञया शिष्यमाणौ इकः एव स्थाने वेदितव्यौ।",
+     "prathamavrtti": "वृद्धिः स्यात्, गुणः स्यात् इति गुणवृद्धिशब्दाभ्यां यत्र गुणवृद्धी विधीयेते, तत्र 'इकः' इति षष्ठ्यन्तं पदमुपस्थितं द्रष्टव्यम् = तत्रे कः स्थाने भवत इत्यर्थः ॥"
+    },
+    {
+     "n": "1.1.69",
+     "word": "1.1.69",
+     "trigger": "1.1.69",
+     "effect": "अण् = अ इ उ ऋ ऌ (the pratyāhāra with the earlier ण्)",
+     "sutra": "अणुदित् सवर्णस्य चाप्रत्ययः",
+     "ourVrtti": "अण् उदित् च सवर्णस्य ग्राहकः भवति स्वस्य च रूपस्य प्रत्ययम् वर्जयित्वा",
+     "kashika": "अण् गृह्यमाण उदिच्च सवर्णानां ग्राहको भवति, स्वस्य च रूपस्य, प्रत्ययं वर्जयित्वा।",
+     "prathamavrtti": "अण्प्रत्याहारः उदित् च सवर्णस्य ग्राहको भवति स्वस्य च रूपस्य, प्रत्ययं वर्जयित्वा ॥"
+    }
+   ]
+  },
+  {
+   "id": "G7",
+   "group": "carried / not a sūtra word | atideśa | X: a sound group",
+   "count": 2,
+   "sutras": [
+    "1.2.9 इक्  ⟨first sound + final marker = everything in between⟩",
+    "1.2.26 रल्  ⟨first sound + final marker = everything in between⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.2.9",
+     "word": "इक्",
+     "trigger": "इक्: a sound group",
+     "effect": "first sound + final marker = everything in between",
+     "sutra": "इको झल्",
+     "ourVrtti": "झलादिः इगन्तात् धातोः सन् प्रत्ययः किद्वत् भवति",
+     "kashika": "इगन्ताद्धातोः परो झलादिः सन् किद् भवति।",
+     "prathamavrtti": "इगन्ताद् धातोः परो झलादिः सन् किद्वद् भवति ॥"
+    },
+    {
+     "n": "1.2.26",
+     "word": "रल्",
+     "trigger": "रल्: a sound group",
+     "effect": "first sound + final marker = everything in between",
+     "sutra": "रलो व्युपधाद्धलादेः संश्च",
+     "ourVrtti": "उकारोपधात् इकारोपधात् च रलन्तात् हलादेः धातोः परः सेट् सन् क्त्वा च विकल्पेन कितौ भवतः",
+     "kashika": "उकारोपधादिकारोपधाच्च धातोः रलन्ताद्धलादेः परः संश्च क्त्वा च सेटौ वा कितौ भवतः।",
+     "prathamavrtti": "उकारोपधाद् इकारोपधाच्च रलन्ताद्धलादेः धातोः परः सेट् सन्, सेट् क्त्वा च वा कितौ न भवतः॥"
+    }
+   ]
+  },
+  {
+   "id": "G8",
+   "group": "named by a commentator | ekaśeṣa | X",
+   "count": 1,
+   "sutras": [
+    "1.2.71 named by बालमनोरमा  ⟨a sound group: first sound + final marker = all in between⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.2.71",
+     "word": "named by बालमनोरमा",
+     "trigger": "named by बालमनोरमा",
+     "effect": "a sound group: first sound + final marker = all in between",
+     "sutra": "श्वशुरः श्वश्र्वा",
+     "ourVrtti": "श्वश्र्वा सहवचने अन्यतरस्याम् श्वशुरः शिष्यते आदेशः भवति",
+     "kashika": "श्वश्र्वा सहवचने श्वशुरशब्दः शिष्यतेऽन्यतरस्याम्।",
+     "prathamavrtti": "श्वश्रूशब्देन सहवचने श्वशुरः शिष्यते विकल्पेन, श्वश्रूः निवर्त्तते ॥"
+    }
+   ]
+  },
+  {
+   "id": "G9",
+   "group": "own word, data case 2 | saṃjñā | X: a sound/suffix group",
+   "count": 1,
+   "sutras": [
+    "1.4.32 यम्  ⟨first item + final marker = everything in between⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.4.32",
+     "word": "यम्",
+     "trigger": "यम्: a sound/suffix group",
+     "effect": "first item + final marker = everything in between",
+     "sutra": "कर्मणा यमभिप्रैति स सम्प्रदानम्",
+     "ourVrtti": "करणभूतेन कर्मणा यम् अभिप्रैति तत् कारकम् सः 'सम्प्रदानम्' इति संज्ञा भवति",
+     "kashika": "कर्मणा करणभूतेन कर्ता यमभिप्रैति, तत् कारकं संप्रदानसंज्ञं भवति।",
+     "prathamavrtti": "—करणभूतेन कर्मणा यस्याभिप्रायं साधयति (यमुद्दिशति), तत् कारकं संप्रदानसंज्ञकं भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G10",
+   "group": "named by a commentator | nipātana | X",
+   "count": 1,
+   "sutras": [
+    "6.1.157 named by बालमनोरमा  ⟨a sound group: first sound + final marker = all in between⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.157",
+     "word": "named by बालमनोरमा",
+     "trigger": "named by बालमनोरमा",
+     "effect": "a sound group: first sound + final marker = all in between",
+     "sutra": "पारस्करप्रभृतीनि च संज्ञायाम्",
+     "ourVrtti": "पारस्करप्रभृतीनि शब्दरूपाणि निपात्यते संज्ञायां विषये सुट् आगमः",
+     "kashika": "पारस्करप्रभृतीनि च शब्दरूपाणि निपात्यन्ते संज्ञायां विषये।",
+     "prathamavrtti": "पारस्करप्रभृतीनि च शब्दरूपाणि सुट्सहितानि निपात्यन्ते संज्ञायां विषये ॥"
+    }
+   ]
+  },
+  {
+   "id": "G11",
+   "group": "named by a commentator | ādeśa | X",
+   "count": 1,
+   "sutras": [
+    "7.1.37 named by न्यासः  ⟨a sound group: first sound + final marker = all in between⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.1.37",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a sound group: first sound + final marker = all in between",
+     "sutra": "समासेऽनञ्पूर्वे क्त्वो ल्यप्",
+     "ourVrtti": "समासे विषये अनञ्पूर्वे क्त्वा-प्रत्ययस्य स्थाने अङ्गस्य स्थाने ल्यप् आदेशः भवति",
+     "kashika": "समासेऽनञ्पूर्वे क्त्वा इत्येतस्य ल्यबित्ययमादेशो भवति।",
+     "prathamavrtti": "अनञ्पूर्वे समासे क्त्वा इत्येतस्य स्थाने ल्यप् इत्ययमादेशो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G12",
+   "group": "carried / not a sūtra word | āgama | X: a sound group",
+   "count": 1,
+   "sutras": [
+    "7.1.73 इक्  ⟨first sound + final marker = everything in between⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.1.73",
+     "word": "इक्",
+     "trigger": "इक्: a sound group",
+     "effect": "first sound + final marker = everything in between",
+     "sutra": "इकोऽचि विभक्तौ",
+     "ourVrtti": "अजादौ विभक्तौ परे इगन्तस्य नपुंसकस्य अङ्गस्य नुम् आगमः भवति",
+     "kashika": "इगन्तस्य नपुंसकस्याङ्गस्याजादौ विभक्तौ नुमागमो भवति।",
+     "prathamavrtti": "इगन्तस्य नपुंसकस्याङ्गस्याजादौ विभक्तौ परतो नुमागमो भवति॥"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2090 @@
+[
+ {
+  "n": "3.1.111#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "4.1.166#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.134#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The group ‹पचादि› from the sūtra word ‹नन्दिग्रहिपचादिभ्यः› is dropped.",
+  "should": "नन्द्यादिभ्यः ग्रहादिभ्यः पचादिभ्यः च धातुभ्यः यथासङ्ख्यं ल्यु णिनि अच् प्रत्ययाः भवन्ति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.110#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.89#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "6.4.12#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.88#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.124#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.20#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.40#b",
+  "verdict": "defect",
+  "type": "kind",
+  "problem": "The rule describes an auxiliary addition ‹अनुप्रयुज्यते› after ‹आम्›, not a nipātana ‹निपात्यते›.",
+  "should": "आम्-प्रत्ययात् परतः कृञ् अनुप्रयुज्यते लिटि परतः",
+  "confidence": "high"
+ },
+ {
+  "n": "1.4.110#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "5.4.123#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.80#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "Dropped the sūtra word 'अ' ('अकारः च अन्तादेशः भवति').",
+  "should": "कर्तरि सार्वधातुके प्रत्यये परे धिन्वि-कृण्व्योः धातोः उ-प्रत्ययः भवति, अकारः च अन्तादेशः भवति।",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.26#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.13#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "6.4.78#b",
+  "verdict": "defect",
+  "type": "kind",
+  "problem": "'इयङ्-उवङौ' are substitutes ('आदेशौ'), not augments ('आगमः').",
+  "should": "असवर्णे अचि परे इवर्णान्तस्य उवर्णान्तस्य च अभ्यासस्य इयङ्-उवङौ आदेशौ भवतः।",
+  "confidence": "high"
+ },
+ {
+  "n": "3.3.74#b",
+  "verdict": "defect",
+  "type": "kind",
+  "problem": "Sūtra nipātayati 'आहावः' with 'अप्' and 'वृद्धि' in the sense of 'निपानम्', which OUR GLOSS completely misses.",
+  "should": "आङ्पूर्वात् ह्वेञ्-धातोः निपाने अभिधेये अप्-प्रत्ययः सम्प्रसारणं वृद्धिश्च निपात्यन्ते।",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.82#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "Dropped the root 'स्कुञ्' from the sūtra list 'स्तन्भुस्तुन्भुस्कन्भुस्कुन्भुस्कुञ्भ्यः'.",
+  "should": "कर्तरि सार्वधातुके प्रत्यये परे स्तन्भु-स्तुन्भु-स्कन्भु-स्कुन्भु-स्कुञ्-धातुभ्यः श्ना श्नु च प्रत्ययौ भवतः।",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.63#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "Dropped the carried condition 'कर्मकर्तरि' (and 'तशब्दे परे') given in PV.",
+  "should": "कर्मकर्तरि तशब्दे परे दुहः धातोः उत्तरस्य च्लेः स्थाने चिण् आदेशः विकल्पेन भवति।",
+  "confidence": "medium"
+ },
+ {
+  "n": "8.3.11#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.47#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.8#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.143#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "7.3.37#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.117#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.121#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.139#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.94#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.144#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "1.4.67#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "4.3.84#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.2#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.40#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The sūtra words 'कृञ्' and 'अनुप्रयुज्यते' are completely omitted from the gloss.",
+  "should": "लिटि परे आम्प्रत्ययान्तात् परतः कृञ् अनुप्रयुज्यते",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.120#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.130#a",
+  "verdict": "defect",
+  "type": "slot",
+  "problem": "The word 'कुण्डपाय्य' is formed with 'यत्' rather than 'ण्यत्', so describing both words as 'ण्यत्प्रत्ययान्तौ' is incorrect.",
+  "should": "क्रतौ अभिधेये कुण्डपाय्य संचाय्य इत्येतौ शब्दौ निपात्येते",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.33#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.39#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The operation 'श्लुवत्' is dropped and the roots and suffix are corrupted ('हु,वै इत्येतयोः', 'आम् ?').",
+  "should": "लिटि परे भी ह्री भृ हु इत्येतेभ्यो धातुभ्यो विकल्पेन आम् प्रत्ययो भवति श्लुवच्च एषां कार्यं भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "4.3.126#b",
+  "verdict": "defect",
+  "type": "slot",
+  "problem": "The base should be 'षष्ठीसमर्थेभ्यः गोत्रवाचिभ्यः चरणवाचिभ्यश्च' in the sense 'तस्य इदम्', not 'प्रथमासमर्थात् गोत्रचरणशब्दात्'.",
+  "should": "षष्ठीसमर्थेभ्यो गोत्रवाचिभ्यश्चरणवाचिभ्यश्च प्रातिपदिकेभ्यः तस्येदम् इत्यर्थे वुञ् प्रत्ययो भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.69#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.59#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.73#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.93#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.67#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.106#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.17#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "Our gloss omits the sūtra words ‹वैर›, ‹कलह›, ‹कण्व›, and ‹मेघ›.",
+  "should": "शब्द-वैर-कलह-अभ्र-कण्व-मेघ इत्येतेभ्यः कर्मभ्यः करणे अर्थे क्यङ् प्रत्ययः परः च भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.24#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "7.4.52#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.149#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "8.2.54#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "4.1.173#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.34#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.60#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The sūtra word ‹ते› (तशब्दे परे) is dropped.",
+  "should": "तशब्दे परे पदः उत्तरस्य च्लेः स्थाने चिण् आदेशः भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.144#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "1.2.63#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The sūtra word ‹नित्यम्› is dropped.",
+  "should": "नक्षत्रद्वन्द्वे तिष्यपुनर्वस्वोः बहुवचनस्य स्थाने नित्यं द्विवचनम् आदेशः भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.125#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.148#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.76#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "7.1.69#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.143#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.150#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.127#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.32#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.127#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.142#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.92#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.114#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.133#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "7.2.43#b",
+  "verdict": "defect",
+  "type": "role",
+  "problem": "The word ‹संयोगादेः› qualifies the base ‹धातोः›, but our gloss treats it as qualifying the following suffixes ‹लिङ्-सिचोः›.",
+  "should": "ऋदन्तात् संयोगादेः धातोः परयोः लिङ्सिचोः आत्मनेपदेषु विकल्पेन इडागमो भवति।",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.30#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.95#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The gloss drops the boundary condition of the adhikāra ‹ण्वुलः प्राक्› / ‹ण्वुल्तृचौ इति यावत्›.",
+  "should": "इत ऊर्ध्वं ण्वुलः प्राक् विधीयमानाः प्रत्ययाः कृत्यसंज्ञकाः भवन्ति।",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.138#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The stems and condition 'अनुपसर्गात् लिम्पविन्दधारिपारिवेद्युदेजिचेतिसातिसाहिभ्यः' from the sūtra are completely omitted.",
+  "should": "अनुपसर्गेभ्यो लिम्पविन्दधारिपारिवेद्युदेजिचेतिसातिसाहिभ्यो धातुभ्यः श प्रत्ययः परः च भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "7.4.42#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.4#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.5#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.86#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.45#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.54#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.119#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.125#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "4.3.126#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.38#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.32#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "1.4.110#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.122#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The base 'अमापूर्वात् वस् धातोः' and the nipātana details 'ण्यति परे वृद्ध्यभावः' are dropped.",
+  "should": "अमापूर्वाद् वस् धातोः काले अधिकरणे ण्यति परे अन्यतरस्यां वृद्ध्यभावः निपात्यते",
+  "confidence": "high"
+ },
+ {
+  "n": "7.3.104#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.90#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The sūtra provision 'परस्मैपदं च' is completely dropped.",
+  "should": "कर्मकर्तरि विषये कुषि-रञ्जोः धात्वोः प्राचामाचार्याणां मतेन श्यन् प्रत्ययः परस्मैपदं च भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.112#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.7#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The base specification 'इषिकर्मणः समानकर्तृकात् धातोः' is completely dropped.",
+  "should": "इषिकर्मणः समानकर्तृकात् धातोः इच्छायामर्थे वा सन् प्रत्ययः परः च भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.73#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The sūtra word 'स्वादिभ्यः' is dropped and replaced with generic 'धातोः'.",
+  "should": "कर्तरि सार्वधातुके प्रत्यये परे स्वादिभ्यः धातुभ्यः श्नु प्रत्ययः परः च भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "5.2.137#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.140#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "7.1.75#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.99#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.3.124#b",
+  "verdict": "defect",
+  "type": "role",
+  "problem": "‹आनायः› is the nipātana and ‹जालम्› is the meaning, but the gloss reverses them.",
+  "should": "जाले वाच्ये आनायः इति घञ्प्रत्ययान्तः शब्दः निपात्यते",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.4#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.41#b",
+  "verdict": "defect",
+  "type": "kind",
+  "problem": "The rule is a nipātana of ‹विदाङ्कुर्वन्तु›, not a suffix rule with '?', which is wrongly stated.",
+  "should": "लोटि परतः विदाङ्कुर्वन्तु इति रूपं विकल्पेन निपात्यते",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.100#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.84#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "7.1.63#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.23#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The sūtra word ‹नित्यम्› is dropped in the gloss.",
+  "should": "गत्यर्थात् धातोः कौटिल्ये गम्यमाने नित्यं यङ् प्रत्ययः परः च भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.130#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.12#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The suffix ‹क्यङ्› is missing from the gloss.",
+  "should": "अच्व्यन्तेभ्यो भृशादिभ्यः प्रातिपदिकेभ्यो भुवि भवत्यर्थे क्यङ् प्रत्ययः भवति हलन्तानां च हलः लोपः भवति।",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.34#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.70#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.5#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The base ‹कित्› is dropped from the gloss.",
+  "should": "गुप् तिज् कित् इत्येतेभ्यो धातुभ्यः सन् प्रत्ययः परश्च भवति।",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.64#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.117#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "7.3.104#b",
+  "verdict": "defect",
+  "type": "other",
+  "problem": "The condition ‹झलादौ› is incorrectly carried over to ‹ओसि›, which is an ac-ādi suffix.",
+  "should": "ओसि प्रत्यये परे अदन्तस्य अङ्गस्य एकारादेशः भवति।",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.1#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The sūtra word ‹प्रत्ययः› and the adhikāra statement are completely dropped.",
+  "should": "आ पञ्चमाध्यायपरिसमाप्तेः प्रत्ययः इत्यधिक्रियते।",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.79#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.114#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "6.4.31#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.98#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.52#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.39#a",
+  "verdict": "defect",
+  "type": "role",
+  "problem": "The word ‹श्लुवत्› is construed as modifying the suffixation of ‹आम्› rather than as an atideśa of operations on the roots (श्लौ इव कार्यं भवति).",
+  "should": "अमन्त्रे विषये लिटि परे भी-ह्री-भृ-हु-इत्येतेभ्यः धातुभ्यः विकल्पेन आम् प्रत्ययः भवति, एषां श्लौ इव कार्यं च भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.123#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.138#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.35#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The gloss drops the sūtra word ‹कास्प्रत्ययात्›, making the rule apply to all roots instead of ‹कासृ› and pratyayānta roots.",
+  "should": "अमन्त्रे विषये लिटि परे कासृ-धातोः प्रत्ययान्तात् च धातोः आम् प्रत्ययः परः च भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "4.4.34#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.136#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "7.3.22#b",
+  "verdict": "defect",
+  "type": "role",
+  "problem": "‹देवताद्वन्द्वे› (a compound) is misconstrued as a following suffix (‹प्रत्यये परे›), and ‹परस्य› (latter member) as ‹परान्तस्य›.",
+  "should": "तद्धितेषु ञिति णिति च प्रत्यये परे देवताद्वन्द्वे समासे परस्य इन्द्रशब्दस्य आदेः अचः वृद्धिः न भवति।",
+  "confidence": "high"
+ },
+ {
+  "n": "4.3.84#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.25#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The bases ‹सत्याप›, ‹पाश›, ‹वीणा›, ‹सेना›, ‹लोम›, ‹वर्म›, and ‹चुरादि› from the sūtra are omitted.",
+  "should": "सत्याप-पाश-रूप-वीणा-तूल-श्लोक-सेना-लोम-त्वच-वर्म-वर्ण-चूर्ण इत्येतेभ्यः चुरादिभ्यश्च धातुभ्यः णिच् प्रत्ययः परः च भवति।",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.76#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.13#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The sūtra bases ‹लोहितादिभ्यः डाजन्तेभ्यश्च› are completely omitted from the gloss.",
+  "should": "अच्व्यन्तेभ्यो लोहितादिभ्यो डाजन्तेभ्यश्च शब्देभ्यो भवत्यर्थे क्यष् प्रत्ययः परः च भवति।",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.78#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.19#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.121#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "6.2.85#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.74#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.104#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "5.3.55#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.54#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.6#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "7.1.69#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.141#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The sūtra words 'आस्रु', 'संस्रु', 'अतीण्', 'अवसा', and 'अवहृ' are omitted.",
+  "should": "श्यै आकारान्तेभ्यः व्यध आस्रु संस्रु अतीण् अवसा अवहृ लिह श्लिष श्वस् इत्येतेभ्यः धातुभ्यः ण प्रत्ययः परः च भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.12#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "6.1.222#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.49#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "5.4.41#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The carried meaning condition 'प्रशंसायाम्' from 5.4.40 is omitted.",
+  "should": "प्रशंसायाम् अर्थे वृक-ज्येष्ठ-शब्दाभ्याम् छन्दसि विषये यथासङ्ख्यम् तिल्-तातिलौ प्रत्ययौ परौ च भवतः",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.43#b",
+  "verdict": "defect",
+  "type": "slot",
+  "problem": "The suffix 'च्लि' is replaced by a question mark '?'.",
+  "should": "लुङि प्रत्यये परे धातोः च्लि प्रत्ययः परः च भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "7.3.22#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.3#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.95#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The adhikāra scope up to 'ण्वुल्तृचौ' (3.1.133) and the entities receiving the saṃjñā are omitted.",
+  "should": "‹कृत्याः› इति अधिकारः आ ‹ण्वुल्तृचौ› (३.१.१३३)",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.135#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.147#a",
+  "verdict": "defect",
+  "type": "slot",
+  "problem": "The base 'गा' is given incorrectly as 'गः' instead of 'गा-धातोः'.",
+  "should": "गा-धातोः शिल्पिनि कर्तरि वाच्ये ण्युट् प्रत्ययः परः च भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.29#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.131#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.28#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The root 'पनि' from the sūtra is omitted.",
+  "should": "गुपू-धूप-विच्छि-पणि-पनिभ्यः धातुभ्यः आय प्रत्ययः परः च भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.100#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.14#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.137#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The carried condition 'उपसर्गे' (उपसर्ग उपपदे) is missing from the gloss.",
+  "should": "उपसर्गे उपपदे पा-घ्रा-ध्मा-धेट्-दृश्-धातुभ्यः शः प्रत्ययः परः च भवति",
+  "confidence": "low"
+ },
+ {
+  "n": "5.3.55#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.69#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The sūtra word 'दिवादिभ्यः' is dropped from the gloss.",
+  "should": "कर्तरि सार्वधातुके प्रत्यये परे दिवादिभ्यो धातुभ्यः श्यन् प्रत्ययः परः च भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.48#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.119#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.49#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.43#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.85#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The sūtra word 'व्यत्ययः' is dropped from the gloss.",
+  "should": "छन्दसि विषये विकरणानां बहुलं व्यत्ययः भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.3.2#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "6.4.31#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.51#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.60#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.38#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The verb 'जागृ' from the sūtra is omitted and an extraneous '?' is present.",
+  "should": "‹लिटि प्रत्यये परे उष विद जागृ इत्येतेभ्यः आम् प्रत्ययः परः च विकल्पेन भवति›",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.9#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.149#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The verbs 'प्रु, सृ, लू' specified by the sūtra word 'प्रुसृल्वः' are omitted.",
+  "should": "‹प्रु सृ लू इत्येतेभ्यः धातुभ्यः समभिहारे गम्यमाने वुन् प्रत्ययः परः च भवति›",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.66#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The condition 'भावकर्मणोः' from the sūtra is completely omitted.",
+  "should": "‹भावे कर्मणि च लुङि तशब्दे परतः च्लेः स्थाने चिण् आदेशः भवति›",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.59#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.31#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "6.3.50#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.123#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.128#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "5.4.123#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.131#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.22#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "Sūtra words 'एकाचः' and 'हलादेः' are dropped.",
+  "should": "एकाचः हलादेः धातोः क्रियासमभिहारे यङ् प्रत्ययः परः च भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.107#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.53#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "5.4.116#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.3.68#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.140#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "Sūtra word 'ज्वलितिकसन्तेभ्यः' is completely dropped.",
+  "should": "ज्वलितिकसन्तेभ्यो धातुभ्यः अनुपसर्गेभ्यो विभाषा ण-प्रत्ययः परः च भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.42#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.111#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.31#b",
+  "verdict": "defect",
+  "type": "kind",
+  "problem": "'आयादयः' are suffixes that optionally occur before an ārdhadhātuka affix, not nipātanas ('निपात्यते').",
+  "should": "आर्धधातुके प्रत्यये परे आयादयः प्रत्ययाः विकल्पेन भवन्ति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.65#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.18#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The base 'सुखादिभ्यः' is dropped from the gloss, and 'करणे' is erroneously added.",
+  "should": "सुखादिभ्यः कर्मभ्यः कर्तृवेदनायाम् अर्थे क्यङ् प्रत्ययः परः च भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.36#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "Sūtra words 'इजादेः', 'गुरुमतः', and 'अनृच्छः' are dropped, and an unexplained '?' is present.",
+  "should": "अमन्त्रे लिटि परे इजादेः गुरुमतः ऋच्छिवर्जितात् धातोः आम् प्रत्ययः परः च भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.105#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.87#b",
+  "verdict": "defect",
+  "type": "role",
+  "problem": "'कर्तरि' from 3.1.68 must be transformed to nominative 'कर्ता' as the subject, but it is wrongly used as a condition 'कर्तरि विषये'.",
+  "should": "कर्मस्थया क्रियया तुल्यक्रियः कर्ता कर्मवत् भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.36#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "4.3.9#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.68#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.50#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.62#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.46#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.83#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "4.1.173#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "6.2.18#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The carried condition ‹तत्पुरुषे› (from 6.2.2) is missing.",
+  "should": "ऐश्वर्यवाचिनि तत्पुरुषे समासे पतिशब्दे उत्तरपदे परे पूर्वपदं प्रकृतिस्वरं भवति।",
+  "confidence": "high"
+ },
+ {
+  "n": "1.4.67#a",
+  "verdict": "defect",
+  "type": "role",
+  "problem": "The carried saṃjñā ‹निपाताः› is used as an accusative ‹निपातम्› instead of being stated as a saṃjñā.",
+  "should": "क्रियायोगे पुरस् इत्यव्ययस्य गतिसंज्ञा निपातसंज्ञा च भवति।",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.25#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "4.4.43#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.23#a",
+  "verdict": "defect",
+  "type": "kind",
+  "problem": "The rule is a suffix rule prescribing 'यङ्' for motion verbs, not a nipātana of 'नित्यम्'.",
+  "should": "गत्यर्थात् धातोः कौटिल्ये गम्यमाने नित्यं यङ् प्रत्ययः परः च भवति ।",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.90#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The gloss completely drops 'परस्मैपदं च' from the sūtra.",
+  "should": "कुषि-रञ्जोः धात्वोः कर्मकर्तरि प्राचां मतेन श्यन् प्रत्ययः परस्मैपदं च भवति ।",
+  "confidence": "high"
+ },
+ {
+  "n": "7.1.63#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.16#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The gloss drops the base words 'बाष्पोष्मभ्याम्' from the sūtra.",
+  "should": "कर्मवाचिनोः बाष्प-ऊष्मन्-शब्दयोः उद्वमनेऽर्थे क्यङ् प्रत्ययः परः च भवति ।",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.3#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.116#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The gloss drops the bases 'पुषेः सिधेश्च धातोः' and the kāraka 'अधिकरणे'.",
+  "should": "नक्षत्रेऽभिधेये पुषेः सिधेश्च धातोः अधिकरणे क्यप्-प्रत्ययान्तौ पुष्य-सिद्ध्यौ इति निपात्येते ।",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.124#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.68#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.22#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "6.4.171#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "verdict": "error",
+  "n": "3.1.145#b"
+ },
+ {
+  "verdict": "error",
+  "n": "3.1.147#b"
+ },
+ {
+  "verdict": "error",
+  "n": "3.1.109#b"
+ },
+ {
+  "verdict": "error",
+  "n": "8.3.11#a"
+ },
+ {
+  "verdict": "error",
+  "n": "3.1.21#a"
+ },
+ {
+  "verdict": "error",
+  "n": "3.1.113#b"
+ },
+ {
+  "verdict": "error",
+  "n": "6.3.50#b"
+ },
+ {
+  "verdict": "error",
+  "n": "3.1.66#b"
+ },
+ {
+  "verdict": "error",
+  "n": "1.2.63#b"
+ },
+ {
+  "verdict": "error",
+  "n": "3.1.1#a"
+ },
+ {
+  "n": "3.1.122#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "4.1.53#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "7.4.42#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "4.3.9#b",
+  "verdict": "defect",
+  "type": "slot",
+  "problem": "The suffix is 'अ' (not 'अण्') and the base is 'मध्य' (not generic 'समर्थात् प्रातिपदिकात्').",
+  "should": "मध्यशब्दात् साम्प्रतिके अभिधेये अ प्रत्ययः परः च भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.24#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The roots 'लुप', 'दश', and 'गॄ' from the sūtra are dropped from the list.",
+  "should": "लुप सद चर जप जभ दह दश गॄ इत्येतेभ्यः धातुभ्यः भावगर्हायाम् यङ् प्रत्ययः परः च भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "4.4.43#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.16#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.83#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.71#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.105#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "1.1.38#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "2.4.42#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.14#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The base 'कष्टाय' from the sūtra is completely missing from the gloss.",
+  "should": "चतुर्थीसमर्थात् कष्टशब्दात् क्रमणे क्यङ् प्रत्ययः परः च भवति।",
+  "confidence": "high"
+ },
+ {
+  "n": "6.2.109#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.3.68#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.19#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The sūtra bases 'नमोवरिवश्चित्रङः' are completely missing from the gloss.",
+  "should": "नमस् वरिवस् चित्रङ् इत्येतेभ्यः कर्मभ्यः करणे क्यच् प्रत्ययः परः च भवति।",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.91#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "4.1.166#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.81#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.107#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "4.1.53#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The gloss drops the suffix ‹ङीष्› being enjoined.",
+  "should": "अस्वाङ्गपूर्वपदाद् अन्तोदात्तात् क्तान्ताद् बहुव्रीहेः स्त्रियां विकल्पेन ङीष् प्रत्ययो भवति।",
+  "confidence": "high"
+ },
+ {
+  "n": "7.4.57#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.126#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.67#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.135#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The gloss drops ‹इगुपधेभ्यः› and ‹किरतेः› (कॄ) from the bases.",
+  "should": "इगुपधेभ्यो ज्ञा प्रीञ् कॄ इत्येतेभ्यो धातुभ्यः कः प्रत्ययः परः च भवति।",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.108#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.79#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.145#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.6#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The gloss drops the suffix ‹सन्› enjoined after these roots.",
+  "should": "मान्-बध-दान्-शान्-भ्यो धातुभ्यः सन् प्रत्ययः परश्च भवति अभ्यासस्य च दीर्घादेशो भवति।",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.37#a",
+  "verdict": "defect",
+  "type": "slot",
+  "problem": "The gloss drops the roots ‹दय्-अय्-आस्› and has an unresolved question mark ‹?›.",
+  "should": "दय्-अय्-आस् इत्येतेभ्यो धातुभ्यो लिटि परे आम् प्रत्ययः परः च भवति।",
+  "confidence": "high"
+ },
+ {
+  "n": "7.1.75#a",
+  "verdict": "defect",
+  "type": "kind",
+  "problem": "The rule prescribes an udātta substitute ‹अनङ्›, not an augment ‹नुम् आगमः›.",
+  "should": "अस्थि-दधि-सक्थि-अक्षि इत्येतेषाम् अङ्गानां तृतीयादिषु अजादिषु विभक्तिषु परतः उदात्तः अनङ्-आदेशः भवति।",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.102#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.106#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "6.2.109#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "8.1.46#a",
+  "verdict": "defect",
+  "type": "kind",
+  "problem": "The rule prohibits anudātta accent ‹नानुदात्तं भवति› on a verb ending in लृट् when connected with ‹एहिमन्ये›, not the occurrence of ‹लृट् तिङ्›.",
+  "should": "एहिमन्ये इत्यनेन युक्ते प्रहासे गम्यमाने लृडन्तं तिङन्तं नानुदात्तं भवति।",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.87#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "6.4.78#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.139#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.27#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.26#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "1.1.38#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.150#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.141#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The sūtra roots ‹आस्रु›, ‹संस्रु›, ‹अतीण्›, ‹अवसा›, ‹अवहृ›, ‹लिह›, ‹श्लिष›, and ‹श्वस्› are omitted as ‹व्यधादिभ्यश्च›.",
+  "should": "श्यैङ्-धातोः आकारान्तेभ्यः व्यध-आस्रु-संस्रु-अतीण्-अवसा-अवहृ-लिह-श्लिष-श्वस्-धातुभ्यश्च णः प्रत्ययः परः च भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.132#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "7.2.43#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The carried condition ‹आत्मनेपदेषु› is dropped.",
+  "should": "ऋदन्तात् संयोगादेः धातोः उत्तरयोः लिङ्सिचोः आत्मनेपदेषु विकल्पेन इडागमो भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.115#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.50#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.97#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "6.1.186#b",
+  "verdict": "defect",
+  "type": "other",
+  "problem": "The mandatory rule is wrongly made optional with ‹विकल्पेन› and ‹अ हन्व इङोः नाम्› is corrupt.",
+  "should": "तासेः अनुदात्तेतः ङितः अदुपदेशात् च परं लसार्वधातुकम् अनुदात्तं भवति ह्नुङ्-इङ्-वर्जम्",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.46#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.72#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The base सम्पूर्वात् यस्-धातोः from the sūtra word संयसः is dropped.",
+  "should": "कर्तरि सार्वधातुके प्रत्यये परे सम्पूर्वात् यस्-धातोः श्यन् प्रत्ययः विकल्पेन भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.3.2#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.132#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.113#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.92#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.78#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The base रुधादिभ्यः from the sūtra is dropped.",
+  "should": "कर्तरि सार्वधातुके प्रत्यये परे रुधादिभ्यो धातुभ्यः श्नम् प्रत्ययः परः च भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.41#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.108#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.64#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The carried condition कर्मकर्तरि is dropped.",
+  "should": "कर्मकर्तरि तशब्दे परे रुधः धातोः उत्तरस्य च्लेः स्थाने चिण् आदेशः न भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.8#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The sūtra word आत्मनः (आत्मसम्बन्धिनः) is dropped.",
+  "should": "आत्मसम्बन्धिनः कर्मणः सुबन्तात् इच्छायामर्थे क्यच् प्रत्ययः परः च विकल्पेन भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.129#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.102#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.61#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The essential condition ‹तशब्दे परतः› (carried from 3.1.60) is missing.",
+  "should": "तशब्दे लुङि परे दीपजनबुधपूरितायिप्यायिभ्यः उत्तरस्य च्लेः स्थाने चिण् आदेशः विकल्पेन भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.18#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.133#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "8.2.102#a",
+  "verdict": "defect",
+  "type": "other",
+  "problem": "The rule prescribes an anudātta pluta, but the gloss states the pluta is udātta with ‹टेः प्लुतः उदात्तः भवति›.",
+  "should": "‹उपरि स्विदासीत्› इत्यस्य टेः अनुदात्तः प्लुतो भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.129#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.51#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.103#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.91#a",
+  "verdict": "defect",
+  "type": "kind",
+  "problem": "The rule is an adhikāra ‹धातोः›, but the gloss only says ‹भवति›, omitting the stem and adhikāra.",
+  "should": "आ तृतीयाध्यायपरिसमाप्तेः धातोरित्ययमधिकारो वेदितव्यः",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.65#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The essential carried condition ‹कर्मकर्तरि› is missing.",
+  "should": "अनुतापे विषये कर्मकर्तरि लुङि तशब्दे परे तपः धातोः उत्तरस्य च्लेः स्थाने चिण् आदेशः न भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.85#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "7.4.52#a",
+  "verdict": "defect",
+  "type": "slot",
+  "problem": "‹एति› means when 'e' follows (not ‹सकारादौ›), and the sthānin is ‹तासस्त्योः सकारस्य› not the entire stem.",
+  "should": "एकारे परे तासस्त्योः सकारस्य स्थाने हकारादेशः भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.48#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "8.3.48#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.112#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.9#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.44#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.103#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.96#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.142#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.45#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.118#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.7#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.61#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.2#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The sūtra word ‹परः› is omitted, stating only ‹प्रत्ययः भवति›.",
+  "should": "प्रत्ययः प्रकृतेः परश्च भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "6.4.12#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.44#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.29#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.11#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "8.2.54#a",
+  "verdict": "defect",
+  "type": "slot",
+  "problem": "The sthānin is 'निष्ठातकारस्य' rather than 'पदस्य'.",
+  "should": "प्रपूर्वात् स्त्यै-धातोः उत्तरस्य निष्ठातकारस्य स्थाने म् आदेशः विकल्पेन भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "5.4.152#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "6.2.18#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.118#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.84#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.10#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The gloss drops the sūtra word 'उपमानात्'.",
+  "should": "उपमानात् कर्मणः सुबन्तात् आचारे अर्थे क्यच् प्रत्ययः परः च विकल्पेन भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.27#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The gloss drops the sūtra word 'कण्ड्वादिभ्यः'.",
+  "should": "कण्ड्वादिभ्यः धातुभ्यः यक् प्रत्ययः परः च भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "1.2.60#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The gloss drops the sūtra condition 'नक्षत्रे'.",
+  "should": "नक्षत्रे वर्तमानाभ्यां फल्गुनी-प्रोष्ठपदा-शब्दाभ्यां द्वित्वे विवक्षिते विकल्पेन बहुवचनं भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.98#b",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.128#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "verdict": "error",
+  "n": "3.1.52#a"
+ },
+ {
+  "verdict": "error",
+  "n": "8.1.46#b"
+ },
+ {
+  "verdict": "error",
+  "n": "3.1.10#a"
+ },
+ {
+  "verdict": "error",
+  "n": "3.1.33#b"
+ },
+ {
+  "verdict": "error",
+  "n": "3.1.96#a"
+ },
+ {
+  "verdict": "error",
+  "n": "3.1.77#a"
+ },
+ {
+  "verdict": "error",
+  "n": "3.1.109#a"
+ },
+ {
+  "verdict": "error",
+  "n": "3.1.94#a"
+ },
+ {
+  "verdict": "error",
+  "n": "3.1.28#a"
+ },
+ {
+  "verdict": "error",
+  "n": "7.4.57#b"
+ },
+ {
+  "n": "3.1.63#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.81#b",
+  "verdict": "defect",
+  "type": "slot",
+  "problem": "The gloss has a '?' for the suffix and omits 'क्र्यादिभ्यः'.",
+  "should": "कर्तरि सार्वधातुके प्रत्यये परे क्र्यादिभ्यः धातुभ्यः श्ना प्रत्ययः परः च भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.126#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.101#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "5.4.41#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.17#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.11#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The gloss drops the sūtra component 'सलोपश्च' (सकारस्य लोपः).",
+  "should": "उपमानात् कर्तुः सुबन्ताद् आचारे क्यङ् प्रत्ययः परः च भवति सकारस्य च लोपः भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "4.4.34#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.21#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The gloss drops most words of the dvandva and misinterprets 'हल' as 'हलन्तात्'.",
+  "should": "मुण्ड मिश्र श्लक्ष्ण लवण व्रत वस्त्र हल कल कृत तूस्त इत्येतेभ्यः कर्मभ्यः करणे णिच् प्रत्ययः परः च भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.77#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The sūtra word 'तुदादिभ्यः' is dropped, leaving only 'धातोः'.",
+  "should": "कर्तरि सार्वधातुके प्रत्यये परे तुदादिभ्यः धातुभ्यः श प्रत्ययः परः च भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.101#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.3.124#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.136#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.35#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.82#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "6.4.171#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "2.4.42#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.89#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "6.1.222#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The gloss drops the vidheya उदात्तः, stating merely अन्तः भवति instead of पूर्वस्यान्तः उदात्तो भवति.",
+  "should": "‹चौ परतः पूर्वस्य पदस्य अन्तः उदात्तः भवति›",
+  "confidence": "high"
+ },
+ {
+  "n": "6.1.186#a",
+  "verdict": "defect",
+  "type": "other",
+  "problem": "The gloss incorrectly negates the rule with न भवति and drops the exception for ह्नुङ् and इङ्.",
+  "should": "‹तासेः अनुदात्तेतः ङितः अदुपदेशात् च परम् लसार्वधातुकम् अनुदात्तं भवति ह्नुङ्-इङ्-वर्जम्›",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.134#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.99#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "6.2.85#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "1.2.60#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.115#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.104#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "7.3.106#a",
+  "verdict": "defect",
+  "type": "other",
+  "problem": "The gloss wrongly carries ‹झलादौ› and ‹आङि› as conditions on the following suffix.",
+  "should": "सम्बुद्धौ प्रत्यये परे आबन्तस्य अङ्गस्य स्थाने ए आदेशः भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.62#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "5.2.137#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.3.74#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.75#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.146#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.15#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.116#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.74#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The substitute ‹शृ› prescribed by the sūtra for the root ‹श्रु› is omitted.",
+  "should": "‹कर्तरि सार्वधातुके परे श्रु-धातोः श्नु-प्रत्ययः भवति तस्य च शृ-आदेशः भवति›",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.93#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.37#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "8.2.102#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.71#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The sūtra condition ‹अनुपसर्गात्› is omitted from the gloss.",
+  "should": "‹कर्तरि सार्वधातुके प्रत्यये परे अनुपसर्गात् यसो धातोः विकल्पेन श्यन् प्रत्ययो भवति›",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.80#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "7.3.37#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.137#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.72#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "5.4.116#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The required condition ‹बहुव्रीहेः› is omitted and replaced with the erroneous ‹समासात् षष्ठ्यन्तात् वा›.",
+  "should": "पूरण्यन्तात् प्रमाण्यन्तात् च बहुव्रीहेः समासान्तः अप् प्रत्ययः भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.88#b",
+  "verdict": "defect",
+  "type": "kind",
+  "problem": "The rule teaches atideśa (कर्मवद्भाव), not a suffix rule with an unknown ‹? प्रत्ययः›.",
+  "should": "तपःकर्मकस्यैव तपः-धातोः कर्ता कर्मवद् भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.47#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.58#b",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.15#b",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The bases ‹रोमन्थतपोभ्याम्› and the role ‹कर्मणः› are completely missing.",
+  "should": "रोमन्थ-तपः-शब्दाभ्यां कर्मभ्यां वर्ति-चरोः अर्थयोः यथासङ्ख्यं क्यङ् प्रत्ययः भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.53#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.20#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The bases ‹पुच्छ-भाण्ड-चीवरेभ्यः› are completely omitted from the gloss.",
+  "should": "पुच्छ-भाण्ड-चीवर-इत्येतेभ्यः कर्मभ्यः करणविशेषे णिङ् प्रत्ययः भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.86#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.110#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "8.3.48#b",
+  "verdict": "defect",
+  "type": "slot",
+  "problem": "The substitute is incorrectly given only as ‹ष्› instead of ‹सकारः षकारो वा यथायोगम्›.",
+  "should": "कस्कादिषु कुप्वोः परतः विसर्जनीयस्य स्थाने यथायोगं सकारः षकारः वा आदेशः भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.70#a",
+  "verdict": "ok",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.75#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.30#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.42#a",
+  "verdict": "defect",
+  "type": "dropped",
+  "problem": "The nipātanas ‹पावयांक्रियात्› and ‹विदामक्रन्› are dropped and the other forms are mangled with ‹चेत्›.",
+  "should": "छन्दसि विषये अभ्युत्सादयामकः प्रजनयामकः चिकयामकः रमयामकः पावयांक्रियात् विदामक्रन् एते शब्दाः निपात्यन्ते",
+  "confidence": "high"
+ },
+ {
+  "n": "3.1.97#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.146#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.120#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.58#a",
+  "verdict": "ok"
+ },
+ {
+  "n": "3.1.148#b",
+  "verdict": "defect",
+  "type": "role",
+  "problem": "‹व्रीहिकालयोः› is the denotation of the agent rather than an upapada, and ‹हः› is हा-धातु rather than a हकारान्त धातु.",
+  "should": "व्रीहौ काले च कर्तरि हा-धातोः ण्युट् प्रत्ययः परः च भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "5.4.152#b",
+  "verdict": "defect",
+  "type": "other",
+  "problem": "The rule prescribes an obligatory suffix, but our gloss makes it optional with ‹वा›.",
+  "should": "इन्नन्तात् बहुव्रीहेः स्त्रियां कप् प्रत्ययः भवति",
+  "confidence": "high"
+ },
+ {
+  "n": "7.3.106#b",
+  "verdict": "ok"
+ }
+]

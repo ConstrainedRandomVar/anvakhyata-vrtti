@@ -1,0 +1,3943 @@
+{
+ "pid": "4.1.82",
+ "generated": "2026-11-20",
+ "input": "audit/4.1.82-firings.json",
+ "totals_by_firing": {
+  "licensed": 755,
+  "not licensed": 57,
+  "unsure": 2,
+  "licensed_with_effect_defect": 110
+ },
+ "totals_by_group": {
+  "licensed": 15,
+  "not licensed": 7,
+  "mixed": 6,
+  "unsure": 0
+ },
+ "not_licensed_by_should_be": {
+  "none": 57
+ },
+ "not_licensed_by_reason": {
+  "LUK": 30,
+  "ADESHA_ONLY": 13,
+  "NO_SUFFIX": 2,
+  "NEG": 4,
+  "MENTION": 7,
+  "BOUNDARY": 1
+ },
+ "conditions": [
+  {
+   "id": "C1",
+   "text": "Scope. 4.1.82 is an adhikāra of three separate items — समर्थानाम्, प्रथमात्, वा — running from 4.1.83 up to (not including) 5.3.1 प्राग्दिशो विभक्तिः, i.e. through 5.2.140. It is not a vidhi of its own.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "41082",
+     "quote": "त्रयमप्यधिक्रियते समर्थानामिति च, प्रथमादिति च, वेति च। स्वार्थिकप्रत्ययावधिश्चायमधिकारः, <<प्राग् दिशो विभक्तिः>>[[५.३.१]] इति यावत्।"
+    },
+    {
+     "file": "balamanorama",
+     "id": "41082",
+     "quote": "विधेयस्याऽदर्शनान्नायं स्वतन्त्रविधिरिति मत्वाह — इदं पदत्रयमधिक्रियत इति ।"
+    },
+    {
+     "file": "kaumudi",
+     "id": "41082",
+     "quote": "इदं पदत्रयमधिक्रियते । प्राद्गिश- इति यावत् ।"
+    }
+   ]
+  },
+  {
+   "id": "C2",
+   "text": "What it does. In the defining (lakṣaṇa) sentences of the section — तस्यापत्यम्, तेन रक्तं रागात्, तत्र भवः … — the suffix comes, optionally, after the FIRST-NAMED of the semantically connected words, i.e. the word standing in the case the sentence names (the samartha-vibhakti). Checkable predicate: the rule (or the lakṣaṇa-sentence it inherits) introduces a taddhita suffix, and the base of that suffix is the word in the named case.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "41082",
+     "quote": "लक्षणवाक्यानि <<तस्यापत्यम्>> [[४.१.९२]] <<तेन रक्तं रागात्>> [[४.२.१]] <<तत्र भवः>> [[४.३.५३]] इत्येवमादीनि भविष्यन्ति। तेषु सामर्थ्ये सति प्रथमनिर्दिष्टादेव विकल्पेन प्रत्ययो भवतीति वेदितव्यम्।"
+    },
+    {
+     "file": "kashika",
+     "id": "41082",
+     "quote": "समर्थानामिति निर्धारणे षष्ठी। समर्थानां मध्ये प्रथमः प्रत्ययप्रकृतित्वेन निर्धार्यते।"
+    }
+   ]
+  },
+  {
+   "id": "C3",
+   "text": "'प्रथम' = first uttered in the rule's own sentence (the samartha-vibhakti word: तस्य, तेन, तत्र, सा/सः/तत्, तस्मै …), NOT the other words of that sentence. In particular the word naming the suffix's MEANING (अस्य, अस्मिन्, अस्मै, एषाम्, अनेन, इदम्, अपत्यम् …) is the pratyayārtha, not the samartha; and a word naming a suffix (यत्, इन, य …) is not a samartha word at all.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "41082",
+     "quote": "प्रथमादिति किम्? षष्ठ्यन्ताद् यथा स्यात् प्रथमान्ताद् मा भूत्।"
+    },
+    {
+     "file": "balamanorama",
+     "id": "41082",
+     "quote": "समर्थानां मध्ये प्रथमोच्चारितादित्यर्थः ।"
+    },
+    {
+     "file": "kashika",
+     "id": "42024",
+     "quote": "सेति प्रथमासमर्थादस्येति षष्ठ्यर्थे यथाविहितं प्रत्ययो भवति"
+    },
+    {
+     "file": "kashika",
+     "id": "42055",
+     "quote": "स इति समर्थविभक्तिः। अस्येति प्रत्ययार्थः।"
+    },
+    {
+     "file": "kashika",
+     "id": "52085",
+     "quote": "अनेनेति प्रत्ययार्थः।"
+    },
+    {
+     "file": "kashika",
+     "id": "43120",
+     "quote": "तस्येति षष्ठीसमर्थादिदमित्येतस्मिन् विषये यथाविहितं प्रत्ययो भवति।"
+    },
+    {
+     "file": "kashika",
+     "id": "44133",
+     "quote": "निर्देशादेव समर्थविभक्तिः। पूर्वशब्दात् तृतीयासमर्थात् कृतमित्येतस्मिन्नर्थ इन य इत्येतौ प्रत्ययौ भवतः।"
+    }
+   ]
+  },
+  {
+   "id": "C4",
+   "text": "'वा' (the mahāvibhāṣā) makes every taddhita of the section optional against the plain sentence (vākya).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "41082",
+     "quote": "वेति किम्? वाक्यमपि हि यथा स्यात् — उपगोरपत्यमिति।"
+    }
+   ]
+  },
+  {
+   "id": "C5",
+   "text": "Svārthika suffixes (the suffix adds no meaning beyond the base's own): समर्थ and प्रथम have nothing to work on (no second connected word), so only the वा part can apply — and even that is not uniform: some svārthikas are obligatory (Bhāṣya's list quoted by the Nyāsa).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "41082",
+     "quote": "स्वार्थिकेषु ह्यस्योपयोगो नास्ति, विकल्पोऽपि तत्रानवस्थितः। केचिन्नित्यमेव भवन्ति।"
+    },
+    {
+     "file": "nyaas",
+     "id": "41082",
+     "quote": "तस्मात् समर्थतावा अभावात् स्वार्थिकेषु समर्थानामित्येतत् तावन्नोपयुज्यते। अत एव प्रतियोगिनोऽभावात् प्रथमादित्येतदपि नोपयुज्यत एव।"
+    },
+    {
+     "file": "nyaas",
+     "id": "41082",
+     "quote": "`के पुनर्नित्याः प्रत्ययाः? तमबादयः प्राक् कात्, ञ्यादयः प्राग्वुनः, आमादयः प्राङमयटः, बृहत्या जात्यन्तात् समासान्ताश्च` इति।"
+    },
+    {
+     "file": "nyaas",
+     "id": "41082",
+     "quote": "ततश्च वाग्रहणमपि तत्रानवस्थितमेव क्वचिदनुवर्तते, क्वचिन्नेत्युक्तं भवति।"
+    }
+   ]
+  },
+  {
+   "id": "C6",
+   "text": "From 5.3.1 on, समर्थ and प्रथम stop; वा continues (making 5.3.x/5.4.x suffixes optional unless obligatory). So a credit after 5.2.140 is licensed only for the वा part.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "53001",
+     "quote": "अतः परं स्वार्थिकाः प्रत्ययाः, तेषु समर्थाधिकारः प्रथमग्रहणं च प्रतियोग्यपेक्षत्वाद् नोपयुज्यत इति द्वयमपि निवृत्तम्। वावचनं तु वर्तत एव, तेन विकल्पेन तसिलादयो भवन्ति।"
+    },
+    {
+     "file": "kashika",
+     "id": "53092",
+     "quote": "महाविभाषया चात्र प्रत्ययो विकल्प्यते।"
+    },
+    {
+     "file": "kashika",
+     "id": "53093",
+     "quote": "महाविभाषा च प्रत्ययविकल्पार्थानुवर्तत एव।"
+    },
+    {
+     "file": "kashika",
+     "id": "54023",
+     "quote": "महाविभाषया विकल्पते प्रत्ययः॥"
+    },
+    {
+     "file": "kashika",
+     "id": "54052",
+     "quote": "प्रत्ययविकल्पस्तु महाविभाषयैव सिद्धः॥"
+    }
+   ]
+  },
+  {
+   "id": "C7",
+   "text": "(Derived from C2 — auditor's reading, stated so it can be challenged.) The rule places a suffix. At a rule whose OWN operation is a luk/lup of an already-introduced suffix, an āgama or ādeśa where the suffix is supplied by an earlier rule, a prohibition (न भवति), or no operation at all (a saṃjñā, a meaning-heading), 4.1.82 does nothing — unless a commentator reads it into that rule (C8). Kāśikā marks such rules explicitly.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "41127",
+     "quote": "आदेशार्थं वचनम् प्रत्ययश्च पूर्वेणैव सिद्धः।"
+    },
+    {
+     "file": "kashika",
+     "id": "42025",
+     "quote": "ततः पूर्वेणैवाण्प्रत्ययः सिद्धः, इकारादेशार्थं वचनम्।"
+    },
+    {
+     "file": "kashika",
+     "id": "41159",
+     "quote": "पुत्रान्तमगोत्रमिति पूर्वेणैव प्रत्ययः सिद्धः, तस्मिन्ननेन कुगागमोऽन्यतरस्यां विधीयते।"
+    },
+    {
+     "file": "kashika",
+     "id": "42004",
+     "quote": "पूर्वेण विहितस्य प्रत्ययस्य लुब् भवत्यविशेषे।"
+    }
+   ]
+  },
+  {
+   "id": "C8",
+   "text": "A commentator may read part of 4.1.82 into a non-suffix rule inside the section; that is an application (licensed). Seen: Mahābhāṣya at 4.1.162 (प्रथम restricts the gotra-saṃjñā), Nyāsa at 4.1.88 (the वा makes the luk a vyavasthita-vibhāṣā). Merely NAMING 4.1.82 while discussing something else is not.",
+   "quotes": [
+    {
+     "file": "bhashya",
+     "id": "41162",
+     "quote": "न वक्तव्यम्। समर्थानां प्रथमाद्वा [[4.1.82]] इति वर्तते। समर्थानां प्रथमस्य यदपत्यं पौत्रप्रभृतीति विज्ञायते॥"
+    },
+    {
+     "file": "nyaas",
+     "id": "41088",
+     "quote": "`वेत्यनुवर्तते` इति <<समर्थानां प्रथमाद्वा>> [[4.1.82]]  इत्यतः। नन्वेवमपि सर्वत्र विकल्पेन लुक् प्राप्नोतीत्यत आह - `सा च` इत्यादि। च शब्दो हेतौ। यस्मात् सा व्यवस्थितविभाषा विज्ञायते"
+    }
+   ]
+  },
+  {
+   "id": "C9",
+   "text": "Nipātanas: the samartha-vibhakti, suffix and meaning are all learnt from the nipātana itself; the derivation is still a taddhita of this section (so the credit stands), but a samartha case carried in from a neighbouring rule is not evidence.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "42036",
+     "quote": "समर्थविभक्तिः प्रत्ययः प्रत्ययार्थोऽनुबन्ध इति सर्वं निपातनाद् विज्ञेयम्।"
+    },
+    {
+     "file": "kashika",
+     "id": "42013",
+     "quote": "कुमारीशब्दाद् द्वितीयासमर्थादुपयन्तरिः प्रत्ययः।"
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | vidhi | X: the word in the … names the samartha",
+   "count": 455,
+   "verdict": "mixed",
+   "counts": {
+    "licensed": 432,
+    "not licensed": 22,
+    "unsure": 1
+   },
+   "how_checked": "All 455 members classified by script from our vṛtti (genC) and the vendored Kāśikā: suffix-introducing vs luk/lup, prohibition, āgama/ādeśa-only, nipātana, heading; every member outside the suffix-introducing pattern read by hand (Kāśikā gloss in full). Stated samartha case compared by script with the Kāśikā (own + full comment) and prathamāvṛtti 'X-समर्थ' wording; every mismatch and every member with no independent case statement read by hand. Kāśikā searched for 'स्वार्थ', 'नियम', 'आदेशार्थ', 'पूर्वेणैव सिद्ध' over all members and each hit read.",
+   "licensed": [
+    "4.1.94",
+    "4.1.95",
+    "4.1.96",
+    "4.1.98",
+    "4.1.99",
+    "4.1.100",
+    "4.1.101",
+    "4.1.102",
+    "4.1.103",
+    "4.1.104",
+    "4.1.105",
+    "4.1.107",
+    "4.1.108",
+    "4.1.110",
+    "4.1.111",
+    "4.1.112",
+    "4.1.114",
+    "4.1.117",
+    "4.1.118",
+    "4.1.119",
+    "4.1.120",
+    "4.1.121",
+    "4.1.122",
+    "4.1.123",
+    "4.1.124",
+    "4.1.128",
+    "4.1.129",
+    "4.1.130",
+    "4.1.131",
+    "4.1.132",
+    "4.1.134",
+    "4.1.135",
+    "4.1.136",
+    "4.1.137",
+    "4.1.138",
+    "4.1.139",
+    "4.1.141",
+    "4.1.142",
+    "4.1.143",
+    "4.1.144",
+    "4.1.145",
+    "4.1.146",
+    "4.1.147",
+    "4.1.148",
+    "4.1.149",
+    "4.1.150",
+    "4.1.151",
+    "4.1.152",
+    "4.1.153",
+    "4.1.154",
+    "4.1.155",
+    "4.1.156",
+    "4.1.157",
+    "4.1.160",
+    "4.1.168",
+    "4.1.169",
+    "4.1.170",
+    "4.1.171",
+    "4.1.172",
+    "4.1.173",
+    "4.2.2",
+    "4.2.6",
+    "4.2.7",
+    "4.2.8",
+    "4.2.9",
+    "4.2.10",
+    "4.2.11",
+    "4.2.12",
+    "4.2.13",
+    "4.2.15",
+    "4.2.16",
+    "4.2.17",
+    "4.2.18",
+    "4.2.19",
+    "4.2.20",
+    "4.2.22",
+    "4.2.23",
+    "4.2.26",
+    "4.2.27",
+    "4.2.28",
+    "4.2.29",
+    "4.2.30",
+    "4.2.31",
+    "4.2.32",
+    "4.2.33",
+    "4.2.35",
+    "4.2.38",
+    "4.2.39",
+    "4.2.40",
+    "4.2.41",
+    "4.2.42",
+    "4.2.43",
+    "4.2.44",
+    "4.2.45",
+    "4.2.47",
+    "4.2.48",
+    "4.2.49",
+    "4.2.50",
+    "4.2.51",
+    "4.2.52",
+    "4.2.53",
+    "4.2.54",
+    "4.2.56",
+    "4.2.60",
+    "4.2.61",
+    "4.2.62",
+    "4.2.63",
+    "4.2.70",
+    "4.3.5",
+    "4.3.6",
+    "4.3.7",
+    "4.3.26",
+    "4.3.27",
+    "4.3.28",
+    "4.3.30",
+    "4.3.31",
+    "4.3.32",
+    "4.3.33",
+    "4.3.38",
+    "4.3.39",
+    "4.3.40",
+    "4.3.41",
+    "4.3.42",
+    "4.3.43",
+    "4.3.44",
+    "4.3.45",
+    "4.3.46",
+    "4.3.47",
+    "4.3.48",
+    "4.3.49",
+    "4.3.50",
+    "4.3.51",
+    "4.3.54",
+    "4.3.55",
+    "4.3.56",
+    "4.3.57",
+    "4.3.58",
+    "4.3.59",
+    "4.3.60",
+    "4.3.61",
+    "4.3.62",
+    "4.3.63",
+    "4.3.64",
+    "4.3.65",
+    "4.3.67",
+    "4.3.68",
+    "4.3.69",
+    "4.3.70",
+    "4.3.71",
+    "4.3.72",
+    "4.3.73",
+    "4.3.75",
+    "4.3.76",
+    "4.3.77",
+    "4.3.78",
+    "4.3.79",
+    "4.3.80",
+    "4.3.81",
+    "4.3.82",
+    "4.3.83",
+    "4.3.84",
+    "4.3.86",
+    "4.3.87",
+    "4.3.88",
+    "4.3.90",
+    "4.3.91",
+    "4.3.92",
+    "4.3.93",
+    "4.3.94",
+    "4.3.95",
+    "4.3.96",
+    "4.3.97",
+    "4.3.98",
+    "4.3.99",
+    "4.3.102",
+    "4.3.103",
+    "4.3.104",
+    "4.3.105",
+    "4.3.106",
+    "4.3.108",
+    "4.3.109",
+    "4.3.110",
+    "4.3.111",
+    "4.3.113",
+    "4.3.114",
+    "4.3.115",
+    "4.3.116",
+    "4.3.117",
+    "4.3.118",
+    "4.3.119",
+    "4.3.121",
+    "4.3.122",
+    "4.3.123",
+    "4.3.124",
+    "4.3.125",
+    "4.3.126",
+    "4.3.127",
+    "4.3.128",
+    "4.3.129",
+    "4.3.131",
+    "4.3.132",
+    "4.3.135",
+    "4.3.136",
+    "4.3.137",
+    "4.3.139",
+    "4.3.140",
+    "4.3.141",
+    "4.3.142",
+    "4.3.143",
+    "4.3.144",
+    "4.3.145",
+    "4.3.146",
+    "4.3.147",
+    "4.3.148",
+    "4.3.149",
+    "4.3.150",
+    "4.3.152",
+    "4.3.153",
+    "4.3.154",
+    "4.3.156",
+    "4.3.157",
+    "4.3.159",
+    "4.3.160",
+    "4.3.161",
+    "4.3.162",
+    "4.3.164",
+    "4.3.165",
+    "4.4.3",
+    "4.4.4",
+    "4.4.5",
+    "4.4.6",
+    "4.4.7",
+    "4.4.8",
+    "4.4.9",
+    "4.4.10",
+    "4.4.11",
+    "4.4.12",
+    "4.4.13",
+    "4.4.14",
+    "4.4.15",
+    "4.4.16",
+    "4.4.17",
+    "4.4.18",
+    "4.4.19",
+    "4.4.20",
+    "4.4.21",
+    "4.4.22",
+    "4.4.23",
+    "4.4.25",
+    "4.4.31",
+    "4.4.32",
+    "4.4.33",
+    "4.4.38",
+    "4.4.44",
+    "4.4.45",
+    "4.4.48",
+    "4.4.49",
+    "4.4.50",
+    "4.4.52",
+    "4.4.53",
+    "4.4.54",
+    "4.4.55",
+    "4.4.56",
+    "4.4.57",
+    "4.4.58",
+    "4.4.60",
+    "4.4.61",
+    "4.4.62",
+    "4.4.63",
+    "4.4.64",
+    "4.4.65",
+    "4.4.67",
+    "4.4.68",
+    "4.4.70",
+    "4.4.71",
+    "4.4.72",
+    "4.4.73",
+    "4.4.74",
+    "4.4.78",
+    "4.4.79",
+    "4.4.80",
+    "4.4.81",
+    "4.4.82",
+    "4.4.85",
+    "4.4.99",
+    "4.4.100",
+    "4.4.101",
+    "4.4.102",
+    "4.4.103",
+    "4.4.104",
+    "4.4.105",
+    "4.4.106",
+    "4.4.107",
+    "4.4.108",
+    "4.4.109",
+    "4.4.110",
+    "4.4.111",
+    "4.4.112",
+    "4.4.113",
+    "4.4.114",
+    "4.4.115",
+    "4.4.116",
+    "4.4.117",
+    "4.4.118",
+    "4.4.119",
+    "5.1.3",
+    "5.1.4",
+    "5.1.6",
+    "5.1.7",
+    "5.1.8",
+    "5.1.9",
+    "5.1.10",
+    "5.1.11",
+    "5.1.17",
+    "5.1.35",
+    "5.1.36",
+    "5.1.39",
+    "5.1.40",
+    "5.1.41",
+    "5.1.44",
+    "5.1.46",
+    "5.1.48",
+    "5.1.49",
+    "5.1.51",
+    "5.1.52",
+    "5.1.53",
+    "5.1.54",
+    "5.1.55",
+    "5.1.58",
+    "5.1.59",
+    "5.1.60",
+    "5.1.61",
+    "5.1.62",
+    "5.1.64",
+    "5.1.65",
+    "5.1.66",
+    "5.1.67",
+    "5.1.68",
+    "5.1.69",
+    "5.1.70",
+    "5.1.71",
+    "5.1.75",
+    "5.1.76",
+    "5.1.97",
+    "5.1.102",
+    "5.1.103",
+    "5.1.105",
+    "5.1.106",
+    "5.1.107",
+    "5.1.108",
+    "5.1.109",
+    "5.1.110",
+    "5.1.111",
+    "5.1.112",
+    "5.1.113",
+    "5.1.114",
+    "5.1.120",
+    "5.1.122",
+    "5.1.123",
+    "5.1.124",
+    "5.1.126",
+    "5.1.128",
+    "5.1.129",
+    "5.1.130",
+    "5.1.131",
+    "5.1.132",
+    "5.1.133",
+    "5.1.134",
+    "5.1.135",
+    "5.1.136",
+    "5.2.8",
+    "5.2.12",
+    "5.2.13",
+    "5.2.15",
+    "5.2.16",
+    "5.2.17",
+    "5.2.18",
+    "5.2.25",
+    "5.2.27",
+    "5.2.37",
+    "5.2.38",
+    "5.2.46",
+    "5.2.54",
+    "5.2.64",
+    "5.2.65",
+    "5.2.66",
+    "5.2.67",
+    "5.2.83",
+    "5.2.86",
+    "5.2.87",
+    "5.2.88",
+    "5.2.95",
+    "5.2.96",
+    "5.2.97",
+    "5.2.98",
+    "5.2.99",
+    "5.2.100",
+    "5.2.101",
+    "5.2.102",
+    "5.2.103",
+    "5.2.104",
+    "5.2.106",
+    "5.2.107",
+    "5.2.108",
+    "5.2.109",
+    "5.2.110",
+    "5.2.111",
+    "5.2.112",
+    "5.2.113",
+    "5.2.115",
+    "5.2.116",
+    "5.2.117",
+    "5.2.118",
+    "5.2.119",
+    "5.2.120",
+    "5.2.121",
+    "5.2.122",
+    "5.2.123",
+    "5.2.124",
+    "5.2.125",
+    "5.2.127",
+    "5.2.128",
+    "5.2.130",
+    "5.2.131",
+    "5.2.132",
+    "5.2.133",
+    "5.2.134",
+    "5.2.135",
+    "5.2.136",
+    "5.2.137",
+    "5.2.138",
+    "5.2.139"
+   ],
+   "not_licensed": [
+    {
+     "n": "4.1.109",
+     "word": "तस्य",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule's own operation is a luk/lup of a suffix that an earlier rule already placed; it places no suffix, so 'the suffix comes after the first samartha word' is not what this rule does (C2, C7). No commentator reads 4.1.82 into it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41109",
+       "quote": "वतण्डशब्दादाङ्गिरस्यां स्त्रियां यञ्प्रत्ययस्य लुग् भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.1.133",
+     "word": "तस्य",
+     "should_be": "none",
+     "reason": "ADESHA_ONLY",
+     "why": "A lopa of the base's end before ḍhak; the suffix is placed by another rule (C7).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41133",
+       "quote": "पितृष्वसुरपत्यप्रत्यये ढकि परतो लोपो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.1.159",
+     "word": "तस्य",
+     "should_be": "none",
+     "reason": "ADESHA_ONLY",
+     "why": "Kāśikā: the suffix comes from the previous rule; this rule only adds the kuk āgama (C7).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41159",
+       "quote": "पुत्रान्तमगोत्रमिति पूर्वेणैव प्रत्ययः सिद्धः, तस्मिन्ननेन कुगागमोऽन्यतरस्यां विधीयते।"
+      }
+     ]
+    },
+    {
+     "n": "4.1.175",
+     "word": "तस्य",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule's own operation is a luk/lup of a suffix that an earlier rule already placed; it places no suffix, so 'the suffix comes after the first samartha word' is not what this rule does (C2, C7). No commentator reads 4.1.82 into it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41175",
+       "quote": "कम्बोजात् प्रत्ययस्य लुग् भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.1.176",
+     "word": "तस्य",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule's own operation is a luk/lup of a suffix that an earlier rule already placed; it places no suffix, so 'the suffix comes after the first samartha word' is not what this rule does (C2, C7). No commentator reads 4.1.82 into it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41176",
+       "quote": "अवन्तिकुन्तिकुरुशब्देभ्य उत्पन्नस्य तद्राजस्य स्त्रियामभिधेयायां लुग् भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.4",
+     "word": "तेन",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule's own operation is a luk/lup of a suffix that an earlier rule already placed; it places no suffix, so 'the suffix comes after the first samartha word' is not what this rule does (C2, C7). No commentator reads 4.1.82 into it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42004",
+       "quote": "पूर्वेण विहितस्य प्रत्ययस्य लुब् भवत्यविशेषे।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.5",
+     "word": "तेन",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule's own operation is a luk/lup of a suffix that an earlier rule already placed; it places no suffix, so 'the suffix comes after the first samartha word' is not what this rule does (C2, C7). No commentator reads 4.1.82 into it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42005",
+       "quote": "अविशेषे लुब् विहितः पूर्वेण, विशेषार्थोऽयमारम्भः।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.64",
+     "word": "तत्",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule's own operation is a luk/lup of a suffix that an earlier rule already placed; it places no suffix, so 'the suffix comes after the first samartha word' is not what this rule does (C2, C7). No commentator reads 4.1.82 into it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42064",
+       "quote": "प्रोक्तप्रत्ययान्तादध्येतृवेदित्रोरुत्पन्नस्य लुग् भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.65",
+     "word": "तत्",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule's own operation is a luk/lup of a suffix that an earlier rule already placed; it places no suffix, so 'the suffix comes after the first samartha word' is not what this rule does (C2, C7). No commentator reads 4.1.82 into it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42065",
+       "quote": "ककारोपधादुत्पन्नस्य प्रत्ययस्य लुग् भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.66",
+     "word": "तत्",
+     "should_be": "none",
+     "reason": "NO_SUFFIX",
+     "why": "A viṣaya-niyama: texts named by a प्रोक्त-suffix are only used in the अध्येतृ/वेदितृ suffix. It places no suffix; Kāśikā even says it removes the plain-sentence option (वाक्य) here — the opposite of an application of वा.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42066",
+       "quote": "छन्दांसि ब्राह्मणानि च प्रोक्तप्रत्ययान्तानि तद्विषयाण्येव भवन्ति।"
+      },
+      {
+       "file": "kashika",
+       "id": "42066",
+       "quote": "तेन स्वातन्त्र्यमुपाध्यन्तरयोगो वाक्यं च निवर्तते।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.34",
+     "word": "तत्र",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule's own operation is a luk/lup of a suffix that an earlier rule already placed; it places no suffix, so 'the suffix comes after the first samartha word' is not what this rule does (C2, C7). No commentator reads 4.1.82 into it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43034",
+       "quote": "श्रविष्ठादिभ्यः शब्देभ्यो नक्षत्रेभ्य आगतस्य जातार्थे लुग् भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.35",
+     "word": "तत्र",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule's own operation is a luk/lup of a suffix that an earlier rule already placed; it places no suffix, so 'the suffix comes after the first samartha word' is not what this rule does (C2, C7). No commentator reads 4.1.82 into it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43035",
+       "quote": "स्थानान्तात् प्रातिपदिकाद् गोशालशब्दात् खरशालशब्दात् च जातार्थे प्रत्ययस्य लुग् भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.36",
+     "word": "तत्र",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule's own operation is a luk/lup of a suffix that an earlier rule already placed; it places no suffix, so 'the suffix comes after the first samartha word' is not what this rule does (C2, C7). No commentator reads 4.1.82 into it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43036",
+       "quote": "वत्सशालादिभ्यः परस्य जातार्थे प्रत्ययस्य लुग् वा भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.37",
+     "word": "तत्र",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule's own operation is a luk/lup of a suffix that an earlier rule already placed; it places no suffix, so 'the suffix comes after the first samartha word' is not what this rule does (C2, C7). No commentator reads 4.1.82 into it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43037",
+       "quote": "नक्षत्रेभ्य उत्तरस्य जातार्थे प्रत्ययस्य बहुलं लुग् भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.107",
+     "word": "तेन",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule's own operation is a luk/lup of a suffix that an earlier rule already placed; it places no suffix, so 'the suffix comes after the first samartha word' is not what this rule does (C2, C7). No commentator reads 4.1.82 into it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43107",
+       "quote": "कठचरकशब्दाभ्यां परस्य प्रोक्तप्रत्ययस्य लुग् भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.130",
+     "word": "इदम्",
+     "should_be": "none",
+     "reason": "NEG",
+     "why": "A prohibition (the suffix does NOT come); nothing is placed after any samartha (C2, C7).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43130",
+       "quote": "तेष्वभिधेयेषु वुञ् प्रत्ययो न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.151",
+     "word": "तस्य",
+     "should_be": "none",
+     "reason": "NEG",
+     "why": "A prohibition (the suffix does NOT come); nothing is placed after any samartha (C2, C7).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43151",
+       "quote": "उत्वतः प्रातिपदिकाद् वर्ध्रबिल्वशब्दाभ्यां च मयट् प्रत्ययो न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.163",
+     "word": "तस्य",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule's own operation is a luk/lup of a suffix that an earlier rule already placed; it places no suffix, so 'the suffix comes after the first samartha word' is not what this rule does (C2, C7). No commentator reads 4.1.82 into it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43163",
+       "quote": "विकारावयवयोरुत्पन्नस्य फले तद्विशेषे विवक्षिते लुग् भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.166",
+     "word": "तस्य",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule's own operation is a luk/lup of a suffix that an earlier rule already placed; it places no suffix, so 'the suffix comes after the first samartha word' is not what this rule does (C2, C7). No commentator reads 4.1.82 into it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43166",
+       "quote": "जम्ब्वाः फलेऽभिधेये प्रत्ययस्य वा लुब् भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.167",
+     "word": "तस्य",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule's own operation is a luk/lup of a suffix that an earlier rule already placed; it places no suffix, so 'the suffix comes after the first samartha word' is not what this rule does (C2, C7). No commentator reads 4.1.82 into it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43167",
+       "quote": "हरीतकी इत्येवमादिभ्यः शब्देभ्यः फले प्रत्ययस्य लुब् भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.4.24",
+     "word": "तेन",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule's own operation is a luk/lup of a suffix that an earlier rule already placed; it places no suffix, so 'the suffix comes after the first samartha word' is not what this rule does (C2, C7). No commentator reads 4.1.82 into it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "44024",
+       "quote": "संसृष्ट इत्यनेनोत्पन्नस्य ठको लवणशब्दाद् लुग् भवति।"
+      }
+     ]
+    },
+    {
+     "n": "5.1.121",
+     "word": "तस्य",
+     "should_be": "none",
+     "reason": "NEG",
+     "why": "A prohibition (the suffix does NOT come); nothing is placed after any samartha (C2, C7).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51121",
+       "quote": "इत उत्तरे ये भावप्रत्ययाः ते नञ्पूर्वात् तत्पुरुषाद् न भवन्ति चतुरादीन् वर्जयित्वा।"
+      }
+     ]
+    }
+   ],
+   "unsure": [
+    {
+     "n": "4.1.93",
+     "word": "तस्य",
+     "why": "एको गोत्रे is a niyama (one suffix only in gotra; or, in Kāśikā's second reading, only the first ancestor's name takes it). It places no new suffix (C7 would say not licensed), but its subject — which word of 'X's descendant' is the base — is close to what the Bhāṣya at 4.1.162 settles WITH 4.1.82 (C8). No commentator names 4.1.82 here. Needs a ruling.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41093",
+       "quote": "गोत्र एक एव प्रत्ययो भवति, सर्वेऽपत्येन युज्यन्ते।"
+      },
+      {
+       "file": "kashika",
+       "id": "41093",
+       "quote": "अथ वा गोत्रापत्ये विवक्षित एक एव शब्दः प्रथमा प्रकृतिः प्रत्ययमुत्पादयतीति प्रकृतिर्नियम्यते।"
+      }
+     ]
+    }
+   ],
+   "effect_defects": [
+    {
+     "n": "4.2.13",
+     "word": "तेन",
+     "defect": "WRONG_CASE",
+     "correct": "द्वितीया (Kāśikā's first reading)",
+     "why": "Nipātana; Kāśikā derives कौमार from कुमारी in द्वितीया, not the तृतीया carried from तेन.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42013",
+       "quote": "कुमारीशब्दाद् द्वितीयासमर्थादुपयन्तरिः प्रत्ययः।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.22",
+     "word": "अस्मिन्",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा (सा, 4.2.21)",
+     "why": "अस्मिन् (from 4.2.21 सास्मिन् पौर्णमासीति) is the meaning; the samartha is सा.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42021",
+       "quote": "सेति प्रथमासमर्थादस्मिन्निति सप्तम्यर्थे यथाविहितं प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "4.2.23",
+     "word": "अस्मिन्",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा (सा, 4.2.21)",
+     "why": "अस्मिन् (from 4.2.21 सास्मिन् पौर्णमासीति) is the meaning; the samartha is सा.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42021",
+       "quote": "सेति प्रथमासमर्थादस्मिन्निति सप्तम्यर्थे यथाविहितं प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "4.2.26",
+     "word": "अस्य",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा (सा, 4.2.24)",
+     "why": "The engine took अस्य — the suffix's MEANING ('whose deity …') — as the samartha; the samartha of सास्य देवता is सा (prathamā). Our own vṛtti already says प्रथमासमर्थात्; only the credit text says षष्ठी.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42024",
+       "quote": "सेति प्रथमासमर्थादस्येति षष्ठ्यर्थे यथाविहितं प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "4.2.27",
+     "word": "अस्य",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा (सा, 4.2.24)",
+     "why": "The engine took अस्य — the suffix's MEANING ('whose deity …') — as the samartha; the samartha of सास्य देवता is सा (prathamā). Our own vṛtti already says प्रथमासमर्थात्; only the credit text says षष्ठी.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42024",
+       "quote": "सेति प्रथमासमर्थादस्येति षष्ठ्यर्थे यथाविहितं प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "4.2.28",
+     "word": "अस्य",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा (सा, 4.2.24)",
+     "why": "The engine took अस्य — the suffix's MEANING ('whose deity …') — as the samartha; the samartha of सास्य देवता is सा (prathamā). Our own vṛtti already says प्रथमासमर्थात्; only the credit text says षष्ठी.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42024",
+       "quote": "सेति प्रथमासमर्थादस्येति षष्ठ्यर्थे यथाविहितं प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "4.2.29",
+     "word": "अस्य",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा (सा, 4.2.24)",
+     "why": "The engine took अस्य — the suffix's MEANING ('whose deity …') — as the samartha; the samartha of सास्य देवता is सा (prathamā). Our own vṛtti already says प्रथमासमर्थात्; only the credit text says षष्ठी.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42024",
+       "quote": "सेति प्रथमासमर्थादस्येति षष्ठ्यर्थे यथाविहितं प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "4.2.30",
+     "word": "अस्य",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा (सा, 4.2.24)",
+     "why": "The engine took अस्य — the suffix's MEANING ('whose deity …') — as the samartha; the samartha of सास्य देवता is सा (prathamā). Our own vṛtti already says प्रथमासमर्थात्; only the credit text says षष्ठी.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42024",
+       "quote": "सेति प्रथमासमर्थादस्येति षष्ठ्यर्थे यथाविहितं प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "4.2.31",
+     "word": "अस्य",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा (सा, 4.2.24)",
+     "why": "The engine took अस्य — the suffix's MEANING ('whose deity …') — as the samartha; the samartha of सास्य देवता is सा (prathamā). Our own vṛtti already says प्रथमासमर्थात्; only the credit text says षष्ठी.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42024",
+       "quote": "सेति प्रथमासमर्थादस्येति षष्ठ्यर्थे यथाविहितं प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "4.2.32",
+     "word": "यत्",
+     "defect": "SUFFIX_NAME",
+     "correct": "प्रथमा (सा, 4.2.24) — case right by chance",
+     "why": "The 'samartha word' यत् is the SUFFIX यत् (carried from the rule that introduced it), read as the relative pronoun in prathamā.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42032",
+       "quote": "द्यावापृथिव्यादिभ्यश्छः प्रत्ययो भवति सास्य देवतेत्यस्मिन् विषये चकाराद् यत् च।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.33",
+     "word": "अस्य",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा (सा, 4.2.24)",
+     "why": "The engine took अस्य — the suffix's MEANING ('whose deity …') — as the samartha; the samartha of सास्य देवता is सा (prathamā). Our own vṛtti already says प्रथमासमर्थात्; only the credit text says षष्ठी.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42024",
+       "quote": "सेति प्रथमासमर्थादस्येति षष्ठ्यर्थे यथाविहितं प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "4.2.35",
+     "word": "अस्य",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा (सा, 4.2.24)",
+     "why": "The engine took अस्य — the suffix's MEANING ('whose deity …') — as the samartha; the samartha of सास्य देवता is सा (prathamā). Our own vṛtti already says प्रथमासमर्थात्; only the credit text says षष्ठी.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42024",
+       "quote": "सेति प्रथमासमर्थादस्येति षष्ठ्यर्थे यथाविहितं प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "4.2.56",
+     "word": "अस्य",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा",
+     "why": "अस्य is the meaning; the samartha is prathamā (Kāśikā).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42056",
+       "quote": "प्रथमासमर्थविशेषणं प्रयोजनं योद्धारश्च।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.5",
+     "word": "यत्",
+     "defect": "SUFFIX_NAME",
+     "correct": "śaiṣika — the case of whichever śaiṣika meaning applies",
+     "why": "The 'samartha word' यत् is the SUFFIX यत् (carried from the rule that introduced it), read as the relative pronoun in prathamā.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43005",
+       "quote": "पर अवर अधम उत्तम इत्येवंपूर्वाच् चार्धाद् यत् प्रत्ययो भवति शैषिकः।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.6",
+     "word": "यत्",
+     "defect": "SUFFIX_NAME",
+     "correct": "śaiṣika — the case of whichever śaiṣika meaning applies",
+     "why": "The 'samartha word' यत् is the SUFFIX यत् (carried from the rule that introduced it), read as the relative pronoun in prathamā.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43006",
+       "quote": "दिक्पूर्वपदादर्धान्तात् प्रातिपदिकात् ठञ् प्रत्ययो भवति चकाराद् यत् च शैषिकः।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.7",
+     "word": "यत्",
+     "defect": "SUFFIX_NAME",
+     "correct": "śaiṣika — the case of whichever śaiṣika meaning applies",
+     "why": "The 'samartha word' यत् is the SUFFIX यत् (carried from the rule that introduced it), read as the relative pronoun in prathamā.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43007",
+       "quote": "ग्रामैकदेशवाचिनो जनपदैकदेशवाचिनश्च प्रातिपदिकाद् दिक्पूर्वपदादर्धान्तादञ्ठञौ प्रत्ययौ भवतः शैषिकौ यतोऽपवादौ।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.55",
+     "word": "यत्",
+     "defect": "SUFFIX_NAME",
+     "correct": "सप्तमी (तत्र भवः)",
+     "why": "The 'samartha word' यत् is the SUFFIX यत् (carried from the rule that introduced it), read as the relative pronoun in prathamā.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43055",
+       "quote": "शरीरावयववाचिनः प्रातिपदिकाद् यत् प्रत्ययो भवति तत्र भव इत्येतस्मिन् विषये।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.67",
+     "word": "तस्य",
+     "defect": "INCOMPLETE_CASE",
+     "correct": "षष्ठी (व्याख्यान) AND सप्तमी (भव)",
+     "why": "4.3.66 covers two meanings: तस्य व्याख्यानः and तत्र भवः; the credit gives only the ṣaṣṭhī.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43066",
+       "quote": "तस्येति षष्ठीसमर्थाद् व्याख्यातव्यनाम्नः प्रातिपदिकाद् व्याख्यानेऽभिधेये यथाविहितं प्रत्ययो भवति, तत्र भवे च।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.68",
+     "word": "तस्य",
+     "defect": "INCOMPLETE_CASE",
+     "correct": "षष्ठी (व्याख्यान) AND सप्तमी (भव)",
+     "why": "4.3.66 covers two meanings: तस्य व्याख्यानः and तत्र भवः; the credit gives only the ṣaṣṭhī.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43066",
+       "quote": "तस्येति षष्ठीसमर्थाद् व्याख्यातव्यनाम्नः प्रातिपदिकाद् व्याख्यानेऽभिधेये यथाविहितं प्रत्ययो भवति, तत्र भवे च।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.69",
+     "word": "तस्य",
+     "defect": "INCOMPLETE_CASE",
+     "correct": "षष्ठी (व्याख्यान) AND सप्तमी (भव)",
+     "why": "4.3.66 covers two meanings: तस्य व्याख्यानः and तत्र भवः; the credit gives only the ṣaṣṭhī.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43066",
+       "quote": "तस्येति षष्ठीसमर्थाद् व्याख्यातव्यनाम्नः प्रातिपदिकाद् व्याख्यानेऽभिधेये यथाविहितं प्रत्ययो भवति, तत्र भवे च।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.70",
+     "word": "तस्य",
+     "defect": "INCOMPLETE_CASE",
+     "correct": "षष्ठी (व्याख्यान) AND सप्तमी (भव)",
+     "why": "4.3.66 covers two meanings: तस्य व्याख्यानः and तत्र भवः; the credit gives only the ṣaṣṭhī.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43066",
+       "quote": "तस्येति षष्ठीसमर्थाद् व्याख्यातव्यनाम्नः प्रातिपदिकाद् व्याख्यानेऽभिधेये यथाविहितं प्रत्ययो भवति, तत्र भवे च।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.71",
+     "word": "तस्य",
+     "defect": "INCOMPLETE_CASE",
+     "correct": "षष्ठी (व्याख्यान) AND सप्तमी (भव)",
+     "why": "4.3.66 covers two meanings: तस्य व्याख्यानः and तत्र भवः; the credit gives only the ṣaṣṭhī.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43066",
+       "quote": "तस्येति षष्ठीसमर्थाद् व्याख्यातव्यनाम्नः प्रातिपदिकाद् व्याख्यानेऽभिधेये यथाविहितं प्रत्ययो भवति, तत्र भवे च।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.72",
+     "word": "तस्य",
+     "defect": "INCOMPLETE_CASE",
+     "correct": "षष्ठी (व्याख्यान) AND सप्तमी (भव)",
+     "why": "4.3.66 covers two meanings: तस्य व्याख्यानः and तत्र भवः; the credit gives only the ṣaṣṭhī.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43066",
+       "quote": "तस्येति षष्ठीसमर्थाद् व्याख्यातव्यनाम्नः प्रातिपदिकाद् व्याख्यानेऽभिधेये यथाविहितं प्रत्ययो भवति, तत्र भवे च।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.73",
+     "word": "तस्य",
+     "defect": "INCOMPLETE_CASE",
+     "correct": "षष्ठी (व्याख्यान) AND सप्तमी (भव)",
+     "why": "4.3.66 covers two meanings: तस्य व्याख्यानः and तत्र भवः; the credit gives only the ṣaṣṭhī.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43066",
+       "quote": "तस्येति षष्ठीसमर्थाद् व्याख्यातव्यनाम्नः प्रातिपदिकाद् व्याख्यानेऽभिधेये यथाविहितं प्रत्ययो भवति, तत्र भवे च।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.86",
+     "word": "तत्",
+     "defect": "WRONG_CASE",
+     "correct": "द्वितीया",
+     "why": "Carried तत् is द्वितीया here (object of गच्छति/अभिनिष्क्रामति/अधिकृत्य), not प्रथमा.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43086",
+       "quote": "तदिति द्वितीयासमर्थादभिनिष्क्रामतीत्येतस्मिन्नर्थे याथाविहितं प्रत्ययो भवति, यदभिनिष्क्रामति द्वारं चेत् तद् भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.87",
+     "word": "तत्",
+     "defect": "WRONG_CASE",
+     "correct": "द्वितीया",
+     "why": "Carried तत् is द्वितीया here (object of गच्छति/अभिनिष्क्रामति/अधिकृत्य), not प्रथमा.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43087",
+       "quote": "तदिति द्वितीयासमर्थादधिकृत्य कृत इत्येतस्मिन्नर्थे यथाविहितं प्रत्ययो भवति, यत् तत् कृतं ग्रन्थश्चेत् स भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.88",
+     "word": "तत्",
+     "defect": "WRONG_CASE",
+     "correct": "द्वितीया",
+     "why": "Carried तत् is द्वितीया here (object of गच्छति/अभिनिष्क्रामति/अधिकृत्य), not प्रथमा.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43088",
+       "quote": "शिशुक्रन्दादिभ्यो द्वितीयासमर्थेभ्यश्छः प्रत्ययो भवत्यधिकृत्य कृते ग्रन्थे।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.90",
+     "word": "अस्य",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा (सः, 4.3.89)",
+     "why": "अस्य (carried from 4.3.89 सोऽस्य निवासः) is the meaning; the samartha is सः (prathamā).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43089",
+       "quote": "स इति प्रथमासमर्थादस्येति षष्ठ्यर्थे यथाविहितं प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "4.3.91",
+     "word": "अस्य",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा (सः, 4.3.89)",
+     "why": "अस्य (carried from 4.3.89 सोऽस्य निवासः) is the meaning; the samartha is सः (prathamā).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43089",
+       "quote": "स इति प्रथमासमर्थादस्येति षष्ठ्यर्थे यथाविहितं प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "4.3.92",
+     "word": "अस्य",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा (सः, 4.3.89)",
+     "why": "अस्य (carried from 4.3.89 सोऽस्य निवासः) is the meaning; the samartha is सः (prathamā).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43089",
+       "quote": "स इति प्रथमासमर्थादस्येति षष्ठ्यर्थे यथाविहितं प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "4.3.93",
+     "word": "अस्य",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा (सः, 4.3.89)",
+     "why": "अस्य (carried from 4.3.89 सोऽस्य निवासः) is the meaning; the samartha is सः (prathamā).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43089",
+       "quote": "स इति प्रथमासमर्थादस्येति षष्ठ्यर्थे यथाविहितं प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "4.3.94",
+     "word": "अस्य",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा (सः, 4.3.89)",
+     "why": "अस्य (carried from 4.3.89 सोऽस्य निवासः) is the meaning; the samartha is सः (prathamā).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43089",
+       "quote": "स इति प्रथमासमर्थादस्येति षष्ठ्यर्थे यथाविहितं प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "4.3.95",
+     "word": "अस्य",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा (सः, 4.3.89)",
+     "why": "अस्य (carried from 4.3.89 सोऽस्य निवासः) is the meaning; the samartha is सः (prathamā).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43089",
+       "quote": "स इति प्रथमासमर्थादस्येति षष्ठ्यर्थे यथाविहितं प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "4.3.96",
+     "word": "अस्य",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा (सः, 4.3.89)",
+     "why": "अस्य (carried from 4.3.89 सोऽस्य निवासः) is the meaning; the samartha is सः (prathamā).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43089",
+       "quote": "स इति प्रथमासमर्थादस्येति षष्ठ्यर्थे यथाविहितं प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "4.3.97",
+     "word": "अस्य",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा (सः, 4.3.89)",
+     "why": "अस्य (carried from 4.3.89 सोऽस्य निवासः) is the meaning; the samartha is सः (prathamā).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43089",
+       "quote": "स इति प्रथमासमर्थादस्येति षष्ठ्यर्थे यथाविहितं प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "4.3.98",
+     "word": "अस्य",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा (सः, 4.3.89)",
+     "why": "अस्य (carried from 4.3.89 सोऽस्य निवासः) is the meaning; the samartha is सः (prathamā).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43089",
+       "quote": "स इति प्रथमासमर्थादस्येति षष्ठ्यर्थे यथाविहितं प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "4.3.99",
+     "word": "अस्य",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा (सः, 4.3.89)",
+     "why": "अस्य (carried from 4.3.89 सोऽस्य निवासः) is the meaning; the samartha is सः (prathamā).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43089",
+       "quote": "स इति प्रथमासमर्थादस्येति षष्ठ्यर्थे यथाविहितं प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "4.3.121",
+     "word": "इदम्",
+     "defect": "PRATYAYARTHA",
+     "correct": "षष्ठी (तस्य, 4.3.120)",
+     "why": "Carried इदम् is the meaning; the samartha of तस्येदम् is तस्य (ṣaṣṭhī). The credit says प्रथमा.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43120",
+       "quote": "तस्येति षष्ठीसमर्थादिदमित्येतस्मिन् विषये यथाविहितं प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.122",
+     "word": "इदम्",
+     "defect": "PRATYAYARTHA",
+     "correct": "षष्ठी (तस्य, 4.3.120)",
+     "why": "Carried इदम् is the meaning; the samartha of तस्येदम् is तस्य (ṣaṣṭhī). The credit says प्रथमा.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43120",
+       "quote": "तस्येति षष्ठीसमर्थादिदमित्येतस्मिन् विषये यथाविहितं प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.123",
+     "word": "इदम्",
+     "defect": "PRATYAYARTHA",
+     "correct": "षष्ठी (तस्य, 4.3.120)",
+     "why": "Carried इदम् is the meaning; the samartha of तस्येदम् is तस्य (ṣaṣṭhī). The credit says प्रथमा.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43120",
+       "quote": "तस्येति षष्ठीसमर्थादिदमित्येतस्मिन् विषये यथाविहितं प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.124",
+     "word": "इदम्",
+     "defect": "PRATYAYARTHA",
+     "correct": "षष्ठी (तस्य, 4.3.120)",
+     "why": "Carried इदम् is the meaning; the samartha of तस्येदम् is तस्य (ṣaṣṭhī). The credit says प्रथमा.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43120",
+       "quote": "तस्येति षष्ठीसमर्थादिदमित्येतस्मिन् विषये यथाविहितं प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.125",
+     "word": "इदम्",
+     "defect": "PRATYAYARTHA",
+     "correct": "षष्ठी (तस्य, 4.3.120)",
+     "why": "Carried इदम् is the meaning; the samartha of तस्येदम् is तस्य (ṣaṣṭhī). The credit says प्रथमा.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43120",
+       "quote": "तस्येति षष्ठीसमर्थादिदमित्येतस्मिन् विषये यथाविहितं प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.126",
+     "word": "इदम्",
+     "defect": "PRATYAYARTHA",
+     "correct": "षष्ठी (तस्य, 4.3.120)",
+     "why": "Carried इदम् is the meaning; the samartha of तस्येदम् is तस्य (ṣaṣṭhī). The credit says प्रथमा.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43120",
+       "quote": "तस्येति षष्ठीसमर्थादिदमित्येतस्मिन् विषये यथाविहितं प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.127",
+     "word": "इदम्",
+     "defect": "PRATYAYARTHA",
+     "correct": "षष्ठी (तस्य, 4.3.120)",
+     "why": "Carried इदम् is the meaning; the samartha of तस्येदम् is तस्य (ṣaṣṭhī). The credit says प्रथमा.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43120",
+       "quote": "तस्येति षष्ठीसमर्थादिदमित्येतस्मिन् विषये यथाविहितं प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.128",
+     "word": "इदम्",
+     "defect": "PRATYAYARTHA",
+     "correct": "षष्ठी (तस्य, 4.3.120)",
+     "why": "Carried इदम् is the meaning; the samartha of तस्येदम् is तस्य (ṣaṣṭhī). The credit says प्रथमा.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43120",
+       "quote": "तस्येति षष्ठीसमर्थादिदमित्येतस्मिन् विषये यथाविहितं प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.129",
+     "word": "इदम्",
+     "defect": "PRATYAYARTHA",
+     "correct": "षष्ठी (तस्य, 4.3.120)",
+     "why": "Carried इदम् is the meaning; the samartha of तस्येदम् is तस्य (ṣaṣṭhī). The credit says प्रथमा.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43120",
+       "quote": "तस्येति षष्ठीसमर्थादिदमित्येतस्मिन् विषये यथाविहितं प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.131",
+     "word": "इदम्",
+     "defect": "PRATYAYARTHA",
+     "correct": "षष्ठी (तस्य, 4.3.120)",
+     "why": "Carried इदम् is the meaning; the samartha of तस्येदम् is तस्य (ṣaṣṭhī). The credit says प्रथमा.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43120",
+       "quote": "तस्येति षष्ठीसमर्थादिदमित्येतस्मिन् विषये यथाविहितं प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.132",
+     "word": "इदम्",
+     "defect": "PRATYAYARTHA",
+     "correct": "षष्ठी (तस्य, 4.3.120)",
+     "why": "Carried इदम् is the meaning; the samartha of तस्येदम् is तस्य (ṣaṣṭhī). The credit says प्रथमा.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43120",
+       "quote": "तस्येति षष्ठीसमर्थादिदमित्येतस्मिन् विषये यथाविहितं प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.161",
+     "word": "यत्",
+     "defect": "SUFFIX_NAME",
+     "correct": "षष्ठी (विकार)",
+     "why": "The 'samartha word' यत् is the SUFFIX यत् (carried from the rule that introduced it), read as the relative pronoun in prathamā.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43161",
+       "quote": "द्रुशब्दाद् यत् प्रत्ययो भवति विकारावयवयोरर्थयोः।"
+      }
+     ]
+    },
+    {
+     "n": "5.1.3",
+     "word": "यत्",
+     "defect": "SUFFIX_NAME",
+     "correct": "the case of the governing lakṣaṇa-sentence (not stated by यत्)",
+     "why": "The 'samartha word' यत् is the SUFFIX यत् (carried from the rule that introduced it), read as the relative pronoun in prathamā.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51003",
+       "quote": "कम्बलात् प्राक्क्रीतीयेष्वर्थेषु यत् प्रत्ययो भवति संज्ञायां विषये।"
+      }
+     ]
+    },
+    {
+     "n": "5.1.4",
+     "word": "यत्",
+     "defect": "SUFFIX_NAME",
+     "correct": "the case of the governing lakṣaṇa-sentence (not stated by यत्)",
+     "why": "The 'samartha word' यत् is the SUFFIX यत् (carried from the rule that introduced it), read as the relative pronoun in prathamā.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51004",
+       "quote": "हविर्विशेषवाचिभ्योऽपूपादिभ्यश्च प्रातिपदिकेभ्यः प्राक्क्रीतीयेष्वर्थेषु विभाषा यत् प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "5.1.7",
+     "word": "यत्",
+     "defect": "SUFFIX_NAME",
+     "correct": "चतुर्थी (तस्मै हितम्)",
+     "why": "The 'samartha word' यत् is the SUFFIX यत् (carried from the rule that introduced it), read as the relative pronoun in prathamā.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51007",
+       "quote": "खलादिभ्यो यत् प्रत्ययो भवति तस्मै हितमित्येतस्मिन् विषये।"
+      }
+     ]
+    },
+    {
+     "n": "5.1.35",
+     "word": "यत्",
+     "defect": "SUFFIX_NAME",
+     "correct": "the case of the governing lakṣaṇa-sentence (not stated by यत्)",
+     "why": "The 'samartha word' यत् is the SUFFIX यत् (carried from the rule that introduced it), read as the relative pronoun in prathamā.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51035",
+       "quote": "शाणशब्दादध्यर्धपूर्वाद् द्विगोरार्हीयेष्वर्थेषु वा यत् प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "5.1.36",
+     "word": "यत्",
+     "defect": "SUFFIX_NAME",
+     "correct": "the case of the governing lakṣaṇa-sentence (not stated by यत्)",
+     "why": "The 'samartha word' यत् is the SUFFIX यत् (carried from the rule that introduced it), read as the relative pronoun in prathamā.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51036",
+       "quote": "द्वित्रिपूर्वात् शाणान्तात् प्रातिपदिकादार्हीयेष्वर्थेषु अण् प्रत्ययो भवति, चकाराद् यत् च वा।"
+      }
+     ]
+    },
+    {
+     "n": "5.1.40",
+     "word": "यत्",
+     "defect": "SUFFIX_NAME",
+     "correct": "षष्ठी (तस्य निमित्तम्)",
+     "why": "The 'samartha word' यत् is the SUFFIX यत् (carried from the rule that introduced it), read as the relative pronoun in prathamā.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51040",
+       "quote": "पुत्रशब्दात् छः प्रत्ययो भवति, चकाराद् यत् च, तस्य निमित्तं संयोगोत्पातावित्येतस्मिन् विषये।"
+      }
+     ]
+    },
+    {
+     "n": "5.1.66",
+     "word": "यत्",
+     "defect": "SUFFIX_NAME",
+     "correct": "द्वितीया (तदर्हति)",
+     "why": "The 'samartha word' यत् is the SUFFIX यत् (carried from the rule that introduced it), read as the relative pronoun in prathamā.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51066",
+       "quote": "दण्डादिभ्यो  द्वितीयासमर्थेभ्योऽर्हतीत्यस्मिन्नर्थे यः प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "5.1.67",
+     "word": "यत्",
+     "defect": "SUFFIX_NAME",
+     "correct": "द्वितीया (तदर्हति)",
+     "why": "The 'samartha word' यत् is the SUFFIX यत् (carried from the rule that introduced it), read as the relative pronoun in prathamā.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51067",
+       "quote": "प्रातिपदिकमात्रात् छन्दसि विषये तदर्हतीत्यस्मिन्नर्थे यत् प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "5.1.68",
+     "word": "यत्",
+     "defect": "SUFFIX_NAME",
+     "correct": "द्वितीया (तदर्हति)",
+     "why": "The 'samartha word' यत् is the SUFFIX यत् (carried from the rule that introduced it), read as the relative pronoun in prathamā.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51068",
+       "quote": "पात्रशब्दाद् घन् प्रत्ययो भवति, चकाराद् यत् च, तदर्हतीत्यस्मिन्नर्थे।"
+      }
+     ]
+    },
+    {
+     "n": "5.1.69",
+     "word": "यत्",
+     "defect": "SUFFIX_NAME",
+     "correct": "द्वितीया (तदर्हति)",
+     "why": "The 'samartha word' यत् is the SUFFIX यत् (carried from the rule that introduced it), read as the relative pronoun in prathamā.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51069",
+       "quote": "कडङ्करदक्षिणाशब्दाभ्यां छः प्रत्ययो भवति, चकाराद् यत् च, तदर्हतीत्यस्मिन् विषये।"
+      }
+     ]
+    },
+    {
+     "n": "5.1.70",
+     "word": "यत्",
+     "defect": "SUFFIX_NAME",
+     "correct": "द्वितीया (तदर्हति)",
+     "why": "The 'samartha word' यत् is the SUFFIX यत् (carried from the rule that introduced it), read as the relative pronoun in prathamā.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51070",
+       "quote": "स्थालीबिलशब्दात् छयतौ प्रत्ययौ भवतः तदर्हतीत्यस्मिन्नर्थे।"
+      }
+     ]
+    },
+    {
+     "n": "5.2.13",
+     "word": "तत्",
+     "defect": "UNSUPPORTED_CASE",
+     "correct": "known from the nipātana (C9); द्वितीया unsupported",
+     "why": "Nipātana अद्यश्वीना; Kāśikā gives no samartha case and the base is the adverb अद्यश्वः; the carried तत् (द्वितीया) is not evidence.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52013",
+       "quote": "अद्यश्वीन इति निपात्यत अवष्टब्धे विजने, आसन्ने प्रसवे।"
+      }
+     ]
+    },
+    {
+     "n": "5.2.17",
+     "word": "यत्-खौ",
+     "defect": "SUFFIX_NAME",
+     "correct": "द्वितीया",
+     "why": "The 'samartha word' यत् is the SUFFIX यत् (carried from the rule that introduced it), read as the relative pronoun in prathamā.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52017",
+       "quote": "अभ्यमित्रशब्दाद् द्वितीयासमर्थादलंगामीत्यस्मिन्नर्थे छः प्रत्ययो भवति, चकाराद् यत्खौ च।"
+      }
+     ]
+    },
+    {
+     "n": "5.2.18",
+     "word": "तत्",
+     "defect": "SVARTHIKA",
+     "correct": "only वा applies (C5)",
+     "why": "Kāśikā calls this suffix svārthika; समर्थ/प्रथम have nothing to work on there (C5). The credit stands for the वा part, which is current through 5.2.140 (and beyond, C6); the effect text (and, for 5.2.18/5.2.27, the carried द्वितीया) is wrong.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52018",
+       "quote": "गोष्ठशब्दाद् भूतपूर्वोपाधिकात् स्वार्थे खञ् प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "5.2.27",
+     "word": "तत्",
+     "defect": "SVARTHIKA",
+     "correct": "only वा applies (C5)",
+     "why": "Kāśikā calls this suffix svārthika; समर्थ/प्रथम have nothing to work on there (C5). The credit stands for the वा part, which is current through 5.2.140 (and beyond, C6); the effect text (and, for 5.2.18/5.2.27, the carried द्वितीया) is wrong.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52027",
+       "quote": "असहार्थे पृथग्भावे वर्तमानाभ्यां विनञ्भ्यां स्वार्थे नानाञौ प्रत्ययौ भवतः।"
+      }
+     ]
+    },
+    {
+     "n": "5.2.86",
+     "word": "अनेन",
+     "defect": "PRATYAYARTHA",
+     "correct": "not तृतीया (अनेन is the meaning); Kāśikā gives no case for the base",
+     "why": "Carried अनेन is the pratyayārtha (agent), not the samartha.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52086",
+       "quote": "अनेनेति प्रत्ययार्थः कर्तानुवर्तते।"
+      }
+     ]
+    },
+    {
+     "n": "5.2.87",
+     "word": "अनेन",
+     "defect": "PRATYAYARTHA",
+     "correct": "not तृतीया (अनेन is the meaning); Kāśikā gives no case for the base",
+     "why": "Carried अनेन is the pratyayārtha (agent), not the samartha.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52086",
+       "quote": "अनेनेति प्रत्ययार्थः कर्तानुवर्तते।"
+      }
+     ]
+    },
+    {
+     "n": "5.2.88",
+     "word": "अनेन",
+     "defect": "PRATYAYARTHA",
+     "correct": "not तृतीया (अनेन is the meaning); Kāśikā gives no case for the base",
+     "why": "Carried अनेन is the pratyayārtha (agent), not the samartha.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52086",
+       "quote": "अनेनेति प्रत्ययार्थः कर्तानुवर्तते।"
+      }
+     ]
+    }
+   ],
+   "note": "4.1.94: Niyama on the base of the yuvan suffix (only a gotra-word): it governs which samartha takes the suffix. 4.3.80: atideśa of suffixes. 4.3.156: atideśa of suffixes. 5.1.55: suffixes introduced (+ luk). 5.1.59: Nipātana (C9). 5.1.60: Nipātana (C9). 5.1.113: Nipātana (C9). 5.1.114: Nipātana (C9). 5.1.120: Heading that introduces tva/tal."
+  },
+  {
+   "id": "G2",
+   "group": "carried / not a sūtra word | vidhi | X",
+   "count": 179,
+   "verdict": "mixed",
+   "counts": {
+    "licensed": 165,
+    "not licensed": 14,
+    "unsure": 0
+   },
+   "how_checked": "All 179 members classified by script from our vṛtti (genC) and the vendored Kāśikā: suffix-introducing vs luk/lup, prohibition, āgama/ādeśa-only, nipātana, heading; every member outside the suffix-introducing pattern read by hand (Kāśikā gloss in full). Stated samartha case compared by script with the Kāśikā (own + full comment) and prathamāvṛtti 'X-समर्थ' wording; every mismatch and every member with no independent case statement read by hand. Kāśikā searched for 'स्वार्थ', 'नियम', 'आदेशार्थ', 'पूर्वेणैव सिद्ध' over all members and each hit read.",
+   "licensed": [
+    "4.1.83",
+    "4.1.84",
+    "4.1.85",
+    "4.1.86",
+    "4.1.87",
+    "4.2.36",
+    "4.2.71",
+    "4.2.72",
+    "4.2.73",
+    "4.2.74",
+    "4.2.75",
+    "4.2.76",
+    "4.2.77",
+    "4.2.78",
+    "4.2.79",
+    "4.2.80",
+    "4.2.84",
+    "4.2.85",
+    "4.2.86",
+    "4.2.87",
+    "4.2.88",
+    "4.2.89",
+    "4.2.90",
+    "4.2.93",
+    "4.2.94",
+    "4.2.95",
+    "4.2.96",
+    "4.2.97",
+    "4.2.98",
+    "4.2.99",
+    "4.2.100",
+    "4.2.101",
+    "4.2.102",
+    "4.2.103",
+    "4.2.104",
+    "4.2.105",
+    "4.2.106",
+    "4.2.107",
+    "4.2.108",
+    "4.2.109",
+    "4.2.110",
+    "4.2.111",
+    "4.2.112",
+    "4.2.114",
+    "4.2.115",
+    "4.2.116",
+    "4.2.117",
+    "4.2.118",
+    "4.2.119",
+    "4.2.120",
+    "4.2.121",
+    "4.2.122",
+    "4.2.124",
+    "4.2.125",
+    "4.2.126",
+    "4.2.127",
+    "4.2.128",
+    "4.2.129",
+    "4.2.130",
+    "4.2.132",
+    "4.2.133",
+    "4.2.135",
+    "4.2.136",
+    "4.2.137",
+    "4.2.138",
+    "4.2.139",
+    "4.2.141",
+    "4.2.142",
+    "4.2.143",
+    "4.2.144",
+    "4.2.145",
+    "4.3.4",
+    "4.3.8",
+    "4.3.9",
+    "4.3.10",
+    "4.3.11",
+    "4.3.12",
+    "4.3.13",
+    "4.3.14",
+    "4.3.15",
+    "4.3.16",
+    "4.3.17",
+    "4.3.18",
+    "4.3.19",
+    "4.3.20",
+    "4.3.21",
+    "4.3.22",
+    "4.3.23",
+    "4.3.24",
+    "4.4.1",
+    "4.4.75",
+    "4.4.89",
+    "4.4.91",
+    "4.4.92",
+    "4.4.93",
+    "4.4.94",
+    "4.4.96",
+    "4.4.97",
+    "4.4.122",
+    "4.4.124",
+    "4.4.126",
+    "4.4.127",
+    "4.4.128",
+    "4.4.129",
+    "4.4.130",
+    "4.4.131",
+    "4.4.132",
+    "4.4.136",
+    "4.4.138",
+    "4.4.139",
+    "4.4.140",
+    "4.4.141",
+    "4.4.142",
+    "4.4.144",
+    "5.1.1",
+    "5.1.2",
+    "5.1.12",
+    "5.1.13",
+    "5.1.18",
+    "5.1.19",
+    "5.1.20",
+    "5.1.21",
+    "5.1.22",
+    "5.1.24",
+    "5.1.25",
+    "5.1.26",
+    "5.1.27",
+    "5.1.32",
+    "5.1.33",
+    "5.1.34",
+    "5.1.50",
+    "5.1.81",
+    "5.1.82",
+    "5.1.83",
+    "5.1.84",
+    "5.1.85",
+    "5.1.86",
+    "5.1.87",
+    "5.1.88",
+    "5.1.91",
+    "5.1.92",
+    "5.1.99",
+    "5.1.118",
+    "5.2.3",
+    "5.2.4",
+    "5.2.5",
+    "5.2.28",
+    "5.2.29",
+    "5.2.30",
+    "5.2.33",
+    "5.2.34",
+    "5.2.35",
+    "5.2.39",
+    "5.2.40",
+    "5.2.41",
+    "5.2.42",
+    "5.2.47",
+    "5.2.59",
+    "5.2.61",
+    "5.2.62",
+    "5.2.70",
+    "5.2.72",
+    "5.2.77",
+    "5.2.81",
+    "5.2.91"
+   ],
+   "not_licensed": [
+    {
+     "n": "4.1.89",
+     "word": "a taddhita suffix",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule blocks a luk (aluk) of a suffix already placed; it places no suffix (C2, C7).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41089",
+       "quote": "<<यस्कादिभ्यो गोत्रे>> [[२.४.६३]] इत्यादिना येषां गोत्रप्रत्ययानां लुगुक्तः, तेषामजादौ प्राग्दीव्यतीये विषयभूते प्रतिषिध्यते।"
+      }
+     ]
+    },
+    {
+     "n": "4.1.90",
+     "word": "a taddhita suffix",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule's own operation is a luk/lup of a suffix that an earlier rule already placed; it places no suffix, so 'the suffix comes after the first samartha word' is not what this rule does (C2, C7). No commentator reads 4.1.82 into it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41090",
+       "quote": "प्राग्दीव्यतीयेऽजादौ प्रत्यये विवक्षिते बुद्धिस्थेऽनुत्पन्न एव युवप्रत्ययस्य लुग् भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.1.91",
+     "word": "a taddhita suffix",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule's own operation is a luk/lup of a suffix that an earlier rule already placed; it places no suffix, so 'the suffix comes after the first samartha word' is not what this rule does (C2, C7). No commentator reads 4.1.82 into it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41091",
+       "quote": "फक् फिञोर्युवप्रत्यययोः प्राग्दीव्यतीयेऽजादौ प्रत्यये विवक्षितेऽन्यतरस्यां लुग् भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.1.177",
+     "word": "a taddhita suffix",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule's own operation is a luk/lup of a suffix that an earlier rule already placed; it places no suffix, so 'the suffix comes after the first samartha word' is not what this rule does (C2, C7). No commentator reads 4.1.82 into it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41177",
+       "quote": "अकारप्रत्ययस्य तद्राजस्य स्त्रियामभिधेयायां लुग् भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.1.178",
+     "word": "a taddhita suffix",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule blocks a luk (aluk) of a suffix already placed; it places no suffix (C2, C7).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41178",
+       "quote": "प्राच्येभ्यो भर्गादिभ्यो यौधेयादिभ्यश्चोत्पन्नस्य लुग् न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.81",
+     "word": "a taddhita suffix",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule's own operation is a luk/lup of a suffix that an earlier rule already placed; it places no suffix, so 'the suffix comes after the first samartha word' is not what this rule does (C2, C7). No commentator reads 4.1.82 into it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42081",
+       "quote": "देशे तन्नाम्नीति यश्चातुरर्थिकः प्रत्ययो भवति, तस्य देशविशेषे जनपदेऽभिधेये लुब् भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.82",
+     "word": "a taddhita suffix",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule's own operation is a luk/lup of a suffix that an earlier rule already placed; it places no suffix, so 'the suffix comes after the first samartha word' is not what this rule does (C2, C7). No commentator reads 4.1.82 into it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42082",
+       "quote": "वरण इत्येवमादिभ्य उत्पन्नस्य चातुरर्थिकस्य प्रत्ययस्य लुब् भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.83",
+     "word": "a taddhita suffix",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule's own operation is a luk/lup of a suffix that an earlier rule already placed; it places no suffix, so 'the suffix comes after the first samartha word' is not what this rule does (C2, C7). No commentator reads 4.1.82 into it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42083",
+       "quote": "शर्कराशब्दादुत्पन्नस्य चातुरर्थिकस्य प्रत्ययस्य वा लुब् भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.92",
+     "word": "a taddhita suffix",
+     "should_be": "none",
+     "reason": "NO_SUFFIX",
+     "why": "A meaning-heading (शेषे): it places no suffix and names no samartha case; the suffixes come in the rules under it, which carry the credit themselves.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42092",
+       "quote": "शेष इत्यधिकारोऽयम्। यानित ऊर्ध्वं प्रत्ययाननुक्रमिष्यामः, शेषेऽर्थे ते वेदितव्याः।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.113",
+     "word": "a taddhita suffix",
+     "should_be": "none",
+     "reason": "NEG",
+     "why": "A prohibition (the suffix does NOT come); nothing is placed after any samartha (C2, C7).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42113",
+       "quote": "द्व्यचः प्रातिपदिकात् प्राच्यभरतगोत्रादिञन्तादण् प्रत्ययो न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "5.1.29",
+     "word": "a taddhita suffix",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule's own operation is a luk/lup of a suffix that an earlier rule already placed; it places no suffix, so 'the suffix comes after the first samartha word' is not what this rule does (C2, C7). No commentator reads 4.1.82 into it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51029",
+       "quote": "अध्यर्धपूर्वाद् द्विगोश्च कार्षापणसहस्रान्तादुत्तरस्यार्हीयप्रत्ययस्य विभाषा लुग् भवति।"
+      }
+     ]
+    },
+    {
+     "n": "5.1.30",
+     "word": "a taddhita suffix",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule's own operation is a luk/lup of a suffix that an earlier rule already placed; it places no suffix, so 'the suffix comes after the first samartha word' is not what this rule does (C2, C7). No commentator reads 4.1.82 into it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51030",
+       "quote": "द्वित्रिपूर्वाद  द्विगोर्निष्कान्तादार्हीयप्रत्ययस्य विभाषा लुग् भवति।"
+      }
+     ]
+    },
+    {
+     "n": "5.1.31",
+     "word": "a taddhita suffix",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule's own operation is a luk/lup of a suffix that an earlier rule already placed; it places no suffix, so 'the suffix comes after the first samartha word' is not what this rule does (C2, C7). No commentator reads 4.1.82 into it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51031",
+       "quote": "द्वित्रिपूर्वाद् बिस्तान्ताद् द्विगोः परस्यार्हीयप्रत्ययस्य विभाषा लुग् भवति।"
+      }
+     ]
+    },
+    {
+     "n": "5.1.89",
+     "word": "a taddhita suffix",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule's own operation is a luk/lup of a suffix that an earlier rule already placed; it places no suffix, so 'the suffix comes after the first samartha word' is not what this rule does (C2, C7). No commentator reads 4.1.82 into it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51089",
+       "quote": "चित्तवति प्रत्ययार्थेऽभिधेये वर्षशब्दान्ताद् द्विगोर्निर्वृत्तादिष्वर्थेषूत्पन्नस्य प्रत्ययस्य नित्यं लुग् भवति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "effect_defects": [
+    {
+     "n": "4.4.141",
+     "word": "a taddhita suffix",
+     "defect": "SVARTHIKA",
+     "correct": "only वा applies (C5)",
+     "why": "Kāśikā calls this suffix svārthika; समर्थ/प्रथम have nothing to work on there (C5). The credit stands for the वा part, which is current through 5.2.140 (and beyond, C6); the effect text (and, for 5.2.18/5.2.27, the carried द्वितीया) is wrong.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "44141",
+       "quote": "नक्षत्रशब्दाद् घः प्रत्ययो भवति स्वार्थे।"
+      }
+     ]
+    },
+    {
+     "n": "4.4.142",
+     "word": "a taddhita suffix",
+     "defect": "SVARTHIKA",
+     "correct": "only वा applies (C5)",
+     "why": "Kāśikā calls this suffix svārthika; समर्थ/प्रथम have nothing to work on there (C5). The credit stands for the वा part, which is current through 5.2.140 (and beyond, C6); the effect text (and, for 5.2.18/5.2.27, the carried द्वितीया) is wrong.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "44142",
+       "quote": "सर्वदेवशब्दाभ्यां तातिल् प्रत्ययो भवति छन्दसि विषये स्वार्थिकः।"
+      }
+     ]
+    },
+    {
+     "n": "5.1.118",
+     "word": "a taddhita suffix",
+     "defect": "SVARTHIKA",
+     "correct": "only वा applies (C5)",
+     "why": "Kāśikā calls this suffix svārthika; समर्थ/प्रथम have nothing to work on there (C5). The credit stands for the वा part, which is current through 5.2.140 (and beyond, C6); the effect text (and, for 5.2.18/5.2.27, the carried द्वितीया) is wrong.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51118",
+       "quote": "उपसर्गात् ससाधने धात्वर्थे वर्तमानात् स्वार्थे वतिः प्रत्ययो भवति छन्दसि विषये।"
+      }
+     ]
+    },
+    {
+     "n": "5.2.28",
+     "word": "a taddhita suffix",
+     "defect": "SVARTHIKA",
+     "correct": "only वा applies (C5)",
+     "why": "Kāśikā calls this suffix svārthika; समर्थ/प्रथम have nothing to work on there (C5). The credit stands for the वा part, which is current through 5.2.140 (and beyond, C6); the effect text (and, for 5.2.18/5.2.27, the carried द्वितीया) is wrong.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52028",
+       "quote": "ससाधनक्रियावचनादुपसर्गात् स्वार्थे प्रत्ययौ भवतः।"
+      }
+     ]
+    },
+    {
+     "n": "5.2.34",
+     "word": "a taddhita suffix",
+     "defect": "SVARTHIKA",
+     "correct": "only वा applies (C5)",
+     "why": "Kāśikā calls this suffix svārthika; समर्थ/प्रथम have nothing to work on there (C5). The credit stands for the वा part, which is current through 5.2.140 (and beyond, C6); the effect text (and, for 5.2.18/5.2.27, the carried द्वितीया) is wrong.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52034",
+       "quote": "उप अधि इत्येताभ्यां यथासंख्यमासन्नारूढयोर्वर्तमानाभ्यां स्वार्थे त्यकन् प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "5.2.77",
+     "word": "a taddhita suffix",
+     "defect": "SVARTHIKA",
+     "correct": "only वा applies (C5)",
+     "why": "Kāśikā calls this suffix svārthika; समर्थ/प्रथम have nothing to work on there (C5). The credit stands for the वा part, which is current through 5.2.140 (and beyond, C6); the effect text (and, for 5.2.18/5.2.27, the carried द्वितीया) is wrong.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52077",
+       "quote": "पूरणप्रत्ययान्तात् प्रातिपदिकाद् ग्रहणोपाधिकात् स्वार्थे कन् प्रत्ययो भवति।"
+      }
+     ]
+    }
+   ],
+   "note": "4.1.83: Heading that is also the default (utsarga) suffix aṇ. 4.2.36: Nipātana (C9). 4.3.15: ṭhañ introduced with tuṭ. 4.3.23: ṭyu/ṭyul introduced with tuṭ. 4.3.24: as 4.3.23. 4.4.1: Heading + default suffix. 4.4.75: Heading + default suffix. 4.4.89: Nipātana (C9). 5.1.1: Heading + default suffix. 5.1.18: Heading + default suffix. 5.1.19: Heading + default suffix. 5.2.33: inac, piṭac introduced (+ ādeśa)."
+  },
+  {
+   "id": "G3",
+   "group": "own word, data case 6 | vidhi | X: the word in the … names the samartha",
+   "count": 55,
+   "verdict": "mixed",
+   "counts": {
+    "licensed": 50,
+    "not licensed": 5,
+    "unsure": 0
+   },
+   "how_checked": "All 55 members classified by script from our vṛtti (genC) and the vendored Kāśikā: suffix-introducing vs luk/lup, prohibition, āgama/ādeśa-only, nipātana, heading; every member outside the suffix-introducing pattern read by hand (Kāśikā gloss in full). Stated samartha case compared by script with the Kāśikā (own + full comment) and prathamāvṛtti 'X-समर्थ' wording; every mismatch and every member with no independent case statement read by hand. Kāśikā searched for 'स्वार्थ', 'नियम', 'आदेशार्थ', 'पूर्वेणैव सिद्ध' over all members and each hit read.",
+   "licensed": [
+    "4.1.88",
+    "4.1.92",
+    "4.1.97",
+    "4.1.106",
+    "4.1.116",
+    "4.1.125",
+    "4.1.126",
+    "4.2.37",
+    "4.2.55",
+    "4.2.69",
+    "4.2.123",
+    "4.2.131",
+    "4.3.1",
+    "4.3.29",
+    "4.3.66",
+    "4.3.89",
+    "4.3.100",
+    "4.3.120",
+    "4.3.133",
+    "4.3.134",
+    "4.3.158",
+    "4.3.168",
+    "4.4.47",
+    "4.4.59",
+    "4.4.88",
+    "4.4.95",
+    "4.4.120",
+    "4.4.121",
+    "4.4.123",
+    "4.4.143",
+    "5.1.14",
+    "5.1.15",
+    "5.1.38",
+    "5.1.42",
+    "5.1.45",
+    "5.1.56",
+    "5.1.95",
+    "5.1.116",
+    "5.1.119",
+    "5.1.127",
+    "5.2.1",
+    "5.2.2",
+    "5.2.6",
+    "5.2.19",
+    "5.2.24",
+    "5.2.31",
+    "5.2.48",
+    "5.2.78",
+    "5.2.79",
+    "5.2.140"
+   ],
+   "not_licensed": [
+    {
+     "n": "4.1.115",
+     "word": "मातुः",
+     "should_be": "none",
+     "reason": "ADESHA_ONLY",
+     "why": "Kāśikā: the rule exists for the उ ādeśa; aṇ itself comes from the general rule (C7).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41115",
+       "quote": "उकारादेशार्थं वचनम्, प्रत्ययः पुनरुत्सर्गेणैव सिद्धः"
+      }
+     ]
+    },
+    {
+     "n": "4.1.127",
+     "word": "कुलटायाः",
+     "should_be": "none",
+     "reason": "ADESHA_ONLY",
+     "why": "Kāśikā: the suffix (ḍhak) is already given by the previous rule; this rule exists for the इनङ् ādeśa (C7).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41127",
+       "quote": "आदेशार्थं वचनम् प्रत्ययश्च पूर्वेणैव सिद्धः।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.25",
+     "word": "कस्य",
+     "should_be": "none",
+     "reason": "ADESHA_ONLY",
+     "why": "Kāśikā: aṇ already comes by the previous rule (4.2.24); this rule only substitutes इ for क. The engine also reads कस्य (sthāna-ṣaṣṭhī) as a ṣaṣṭhī samartha, but the samartha here is prathamā (सा, 4.2.24).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42025",
+       "quote": "ततः पूर्वेणैवाण्प्रत्ययः सिद्धः, इकारादेशार्थं वचनम्।"
+      },
+      {
+       "file": "kashika",
+       "id": "42025",
+       "quote": "कस्येकारादेशो भवति प्रत्ययसन्नियोगेन।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.140",
+     "word": "राज्ञः",
+     "should_be": "none",
+     "reason": "ADESHA_ONLY",
+     "why": "Kāśikā: only the क-ādeśa is taught here; cha comes from 4.2.114 वृद्धाच्छः (C7).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42140",
+       "quote": "आदेशमात्रमिह विधेयम्, प्रत्ययस्तु <<वृद्धाच्छः>>[[४.२.११४]] इत्येव सिद्धः"
+      }
+     ]
+    },
+    {
+     "n": "5.1.28",
+     "word": "अध्यर्धपूर्व-द्विगोः",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule's own operation is a luk/lup of a suffix that an earlier rule already placed; it places no suffix, so 'the suffix comes after the first samartha word' is not what this rule does (C2, C7). No commentator reads 4.1.82 into it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51028",
+       "quote": "अध्यर्धशब्दः पूर्वो यस्मिन् तस्मादध्यर्धपूर्वात् प्रातिपदिकाद् द्विगोश्च परस्यार्हीयस्य लुग् भवत्यसंज्ञायां विषये।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "effect_defects": [
+    {
+     "n": "4.1.88",
+     "word": "द्विगोः",
+     "defect": "VA_ONLY",
+     "correct": "Nyāsa: वा continues here as a vyavasthita-vibhāṣā on the luk",
+     "why": "Licensed only through the Nyāsa (C8). द्विगोः is not a samartha (Kāśikā: 'द्विगोरिति षष्ठी। द्विगोर्यः संबन्धी …'); the credit's 'suffix comes after the ṣaṣṭhī word' is wrong — the rule is a luk.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41088",
+       "quote": "द्विगोरिति षष्ठी। द्विगोर्यः संबन्धी निमित्तत्वेन तद्धितः प्राग्दीव्यतीयोऽपत्यप्रत्ययं वर्जयित्वा, तस्य लुग् भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.55",
+     "word": "अस्य",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा",
+     "why": "Own word अस्य is the meaning (pratyayārtha); the samartha is the prathamā word (सः/तत्/मूलम्/शृङ्खलम्).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42055",
+       "quote": "स इति समर्थविभक्तिः। अस्येति प्रत्ययार्थः।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.123",
+     "word": "प्राचाम्",
+     "defect": "SHAISHIKA",
+     "correct": "the case of whichever śaiṣika meaning applies (तत्र जातः, तत आगतः …) — not a fixed षष्ठी",
+     "why": "Śaiṣika suffix (शेषे); the ṣaṣṭhī word names the base (or, in 4.2.123, qualifies the region), not a samartha case.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42123",
+       "quote": "रोपधादीकारान्तात् च प्राग्देशवाचिनो वृद्धाद् वुञ् प्रत्ययो भवति शैषिकः।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.131",
+     "word": "मद्र-वृज्योः",
+     "defect": "SHAISHIKA",
+     "correct": "the case of whichever śaiṣika meaning applies (तत्र जातः, तत आगतः …) — not a fixed षष्ठी",
+     "why": "Śaiṣika suffix (शेषे); the ṣaṣṭhī word names the base (or, in 4.2.123, qualifies the region), not a samartha case.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42131",
+       "quote": "मद्रवृजिशब्दाभ्यां कन् प्रत्ययो भवति शैषिकः।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.1",
+     "word": "युष्मद्-अस्मदोः",
+     "defect": "SHAISHIKA",
+     "correct": "the case of whichever śaiṣika meaning applies (तत्र जातः, तत आगतः …) — not a fixed षष्ठी",
+     "why": "Śaiṣika suffix (शेषे); the ṣaṣṭhī word names the base (or, in 4.2.123, qualifies the region), not a samartha case.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43001",
+       "quote": "युष्मदस्मदोः खञ् प्रत्ययो भवति शैषिकः।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.29",
+     "word": "पथः",
+     "defect": "WRONG_CASE",
+     "correct": "सप्तमी (तत्र जातः)",
+     "why": "पथः is the sthāna of the पन्थ ādeśa and names the base; the meaning is तत्र जातः.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43029",
+       "quote": "पथिशब्दाद् वुन् प्रत्ययो भवति तत्र जात इत्येतस्मिन् विषये"
+      }
+     ]
+    },
+    {
+     "n": "4.3.66",
+     "word": "तस्य",
+     "defect": "INCOMPLETE_CASE",
+     "correct": "षष्ठी (व्याख्यान) AND सप्तमी (भव)",
+     "why": "4.3.66 covers two meanings: तस्य व्याख्यानः and तत्र भवः; the credit gives only the ṣaṣṭhī.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43066",
+       "quote": "तस्येति षष्ठीसमर्थाद् व्याख्यातव्यनाम्नः प्रातिपदिकाद् व्याख्यानेऽभिधेये यथाविहितं प्रत्ययो भवति, तत्र भवे च।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.89",
+     "word": "अस्य",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा",
+     "why": "Own word अस्य is the meaning (pratyayārtha); the samartha is the prathamā word (सः/तत्/मूलम्/शृङ्खलम्).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43089",
+       "quote": "स इति प्रथमासमर्थादस्येति षष्ठ्यर्थे यथाविहितं प्रत्ययो भवति, यत् प्रथमासमर्थं निवासश्चेत् स भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.100",
+     "word": "जनपदिनाम्",
+     "defect": "WRONG_CASE",
+     "correct": "प्रथमा (सोऽस्य भक्तिः)",
+     "why": "जनपदिनाम् names the bases; the atideśa works in the सोऽस्य भक्तिः meaning, whose samartha is prathamā.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43100",
+       "quote": "जनपदिनो ये बहुवचने जनपदेन समानशब्दाः, तेषां जनपदवत् सर्वं भवति, प्रत्ययः प्रकृतिश्च, सोऽस्य भक्तिरित्येतस्मिन् विषये।"
+      }
+     ]
+    },
+    {
+     "n": "4.4.59",
+     "word": "शक्ति-यष्ट्योः",
+     "defect": "WRONG_CASE",
+     "correct": "प्रथमा (तदस्य प्रहरणम्)",
+     "why": "शक्तियष्ट्योः names the bases; the samartha of तदस्य प्रहरणम् is prathamā.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "44059",
+       "quote": "शक्तियष्टिशब्दाभ्यामीकक् प्रत्ययो भवति तदस्य प्रहरणमित्येतस्मिन् विषये।"
+      }
+     ]
+    },
+    {
+     "n": "4.4.88",
+     "word": "अस्य",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा",
+     "why": "Own word अस्य is the meaning (pratyayārtha); the samartha is the prathamā word (सः/तत्/मूलम्/शृङ्खलम्).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "44088",
+       "quote": "मूलशब्दात् प्रथमासमर्थादाबर्हीत्येवमुपाधिकादस्येति षष्ठ्यर्थे यत् प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "5.1.14",
+     "word": "ऋषभ-उपानहोः",
+     "defect": "WRONG_CASE",
+     "correct": "the तदर्थम् relation of 5.1.12 (not षष्ठी)",
+     "why": "The ṣaṣṭhī word only names the bases; the meaning is 'for that (vikṛti)' (तदर्थं विकृतेः प्रकृतौ).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51014",
+       "quote": "ऋषभ उपानह् इत्येताभ्यां ञ्यः प्रत्ययो भवति तदर्थं विकृतेः प्रकृतावित्येतस्मिन् विषये।"
+      }
+     ]
+    },
+    {
+     "n": "5.1.15",
+     "word": "चर्मणः",
+     "defect": "WRONG_CASE",
+     "correct": "the तदर्थम् relation of 5.1.12 (not षष्ठी)",
+     "why": "The ṣaṣṭhī word only names the bases; the meaning is 'for that (vikṛti)' (तदर्थं विकृतेः प्रकृतौ).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51015",
+       "quote": "चर्मणो या विकृतिः तद्वाचिनः प्रातिपदिकादञ् प्रत्ययो भवति तदर्थं विकृतेः प्रकृतावित्येतस्मिन् विषये।"
+      }
+     ]
+    },
+    {
+     "n": "5.1.56",
+     "word": "अस्य",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा",
+     "why": "Own word अस्य is the meaning (pratyayārtha); the samartha is the prathamā word (सः/तत्/मूलम्/शृङ्खलम्).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51056",
+       "quote": "स इति प्रथमासमर्थादस्येति षष्ठ्यर्थे यथाविहितं प्रत्ययो भवति, यत् तत् प्रथमासमर्थमंशवस्नभृतयश्चेत् ता भवन्ति।"
+      }
+     ]
+    },
+    {
+     "n": "5.2.31",
+     "word": "नासिकायाः",
+     "defect": "WRONG_CASE",
+     "correct": "not षष्ठी: नासिकायाः is part of the meaning ('the bend of the nose'); the base is अव",
+     "why": "",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52031",
+       "quote": "नासिकायाः संबन्धिनि नतेऽभिधेये टीटच् नाटच् भ्रटच् इत्येते प्रत्यया भवन्ति संज्ञायां विषये।"
+      }
+     ]
+    },
+    {
+     "n": "5.2.78",
+     "word": "एषाम्",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा (सः)",
+     "why": "एषाम् is the meaning; the samartha is सः.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52078",
+       "quote": "स इति प्रथमासमर्थादेषामिति षष्ठ्यर्थे कन् प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "5.2.79",
+     "word": "अस्य",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा",
+     "why": "Own word अस्य is the meaning (pratyayārtha); the samartha is the prathamā word (सः/तत्/मूलम्/शृङ्खलम्).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52079",
+       "quote": "शृङ्खलशब्दात् प्रथमासमर्थादस्येति षष्ठ्यर्थे कन् प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "5.2.140",
+     "word": "अहं-शुभमोः",
+     "defect": "WRONG_CASE",
+     "correct": "प्रथमा (मत्वर्थ)",
+     "why": "अहंशुभमोः names the bases; the suffix is मत्वर्थीय, whose samartha is prathamā (तदस्यास्ति).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52140",
+       "quote": "ताभ्यां युस् प्रत्ययो भवति मत्वर्थे।"
+      }
+     ]
+    }
+   ],
+   "note": "4.1.125: ḍhak introduced (via च) with vuk. 4.1.126: Kāśikā: for non-feminine members the rule gives the suffix too (उभयार्थम्). 4.3.134: Lakṣaṇa-sentence (तस्य विकारः) — exactly where Kāśikā 4.1.82 says the rule works. 4.3.168: yañ/añ introduced (+ luk of base)."
+  },
+  {
+   "id": "G4",
+   "group": "own word, data case 2 | vidhi | X: the word in the … names the samartha",
+   "count": 30,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 30,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "All 30 members classified by script from our vṛtti (genC) and the vendored Kāśikā: suffix-introducing vs luk/lup, prohibition, āgama/ādeśa-only, nipātana, heading; every member outside the suffix-introducing pattern read by hand (Kāśikā gloss in full). Stated samartha case compared by script with the Kāśikā (own + full comment) and prathamāvṛtti 'X-समर्थ' wording; every mismatch and every member with no independent case statement read by hand. Kāśikā searched for 'स्वार्थ', 'नियम', 'आदेशार्थ', 'पूर्वेणैव सिद्ध' over all members and each hit read.",
+   "licensed": [
+    "4.2.59",
+    "4.4.28",
+    "4.4.29",
+    "4.4.30",
+    "4.4.34",
+    "4.4.35",
+    "4.4.36",
+    "4.4.37",
+    "4.4.39",
+    "4.4.40",
+    "4.4.41",
+    "4.4.42",
+    "4.4.43",
+    "4.4.46",
+    "4.4.76",
+    "4.4.84",
+    "4.4.86",
+    "4.4.133",
+    "4.4.137",
+    "5.1.63",
+    "5.1.72",
+    "5.1.73",
+    "5.1.74",
+    "5.1.80",
+    "5.1.117",
+    "5.2.7",
+    "5.2.9",
+    "5.2.10",
+    "5.2.11",
+    "5.2.69"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [
+    {
+     "n": "4.4.133",
+     "word": "इन-यौ",
+     "defect": "SUFFIX_NAME",
+     "correct": "तृतीया (पूर्वैः)",
+     "why": "The own word taken as the samartha names the suffixes (यत्-ढकञ्, यत्-ढक्, यत्, इन-य), not a samartha word.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "44133",
+       "quote": "निर्देशादेव समर्थविभक्तिः।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G5",
+   "group": "own word, data case 3 | vidhi | X: the word in the … names the samartha",
+   "count": 25,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 25,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "All 25 members classified by script from our vṛtti (genC) and the vendored Kāśikā: suffix-introducing vs luk/lup, prohibition, āgama/ādeśa-only, nipātana, heading; every member outside the suffix-introducing pattern read by hand (Kāśikā gloss in full). Stated samartha case compared by script with the Kāśikā (own + full comment) and prathamāvṛtti 'X-समर्थ' wording; every mismatch and every member with no independent case statement read by hand. Kāśikā searched for 'स्वार्थ', 'नियम', 'आदेशार्थ', 'पूर्वेणैव सिद्ध' over all members and each hit read.",
+   "licensed": [
+    "4.2.1",
+    "4.2.3",
+    "4.2.68",
+    "4.3.101",
+    "4.3.112",
+    "4.4.2",
+    "4.4.26",
+    "4.4.27",
+    "4.4.83",
+    "4.4.90",
+    "4.4.134",
+    "4.4.135",
+    "5.1.37",
+    "5.1.77",
+    "5.1.79",
+    "5.1.90",
+    "5.1.93",
+    "5.1.98",
+    "5.1.115",
+    "5.2.21",
+    "5.2.26",
+    "5.2.68",
+    "5.2.75",
+    "5.2.76",
+    "5.2.85"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [
+    {
+     "n": "4.4.83",
+     "word": "अ-धनुषा",
+     "defect": "WRONG_CASE",
+     "correct": "द्वितीया",
+     "why": "अधनुषा is the excluded instrument, not the samartha.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "44083",
+       "quote": "तदिति द्वितीयासमर्थाद् विध्यतीत्येतस्मिन्नर्थे यत् प्रत्ययो  भवति, न चेद् धनुष् करणं भवति।"
+      }
+     ]
+    },
+    {
+     "n": "5.2.85",
+     "word": "अनेन",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा (श्राद्धम्)",
+     "why": "अनेन is the meaning (the agent); the samartha/base is श्राद्धम्.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52085",
+       "quote": "श्राद्धमिति प्रकृतिः। अनेनेति प्रत्ययार्थः।"
+      }
+     ]
+    }
+   ],
+   "note": "5.1.90: Nipātana; Kāśikā तृतीयासमर्थात् (C9)."
+  },
+  {
+   "id": "G6",
+   "group": "own word, data case 1 | vidhi | X: the word in the … names the samartha",
+   "count": 19,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 19,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "All 19 members classified by script from our vṛtti (genC) and the vendored Kāśikā: suffix-introducing vs luk/lup, prohibition, āgama/ādeśa-only, nipātana, heading; every member outside the suffix-introducing pattern read by hand (Kāśikā gloss in full). Stated samartha case compared by script with the Kāśikā (own + full comment) and prathamāvṛtti 'X-समर्थ' wording; every mismatch and every member with no independent case statement read by hand. Kāśikā searched for 'स्वार्थ', 'नियम', 'आदेशार्थ', 'पूर्वेणैव सिद्ध' over all members and each hit read.",
+   "licensed": [
+    "4.1.140",
+    "4.2.21",
+    "4.2.24",
+    "4.2.57",
+    "4.2.58",
+    "4.2.67",
+    "4.3.52",
+    "4.3.85",
+    "4.4.51",
+    "4.4.66",
+    "4.4.77",
+    "5.1.16",
+    "5.1.47",
+    "5.1.57",
+    "5.1.94",
+    "5.1.104",
+    "5.2.36",
+    "5.2.82",
+    "5.2.94"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [
+    {
+     "n": "4.1.140",
+     "word": "यत्-ढकञौ",
+     "defect": "SUFFIX_NAME",
+     "correct": "षष्ठी (तस्यापत्यम्)",
+     "why": "The own word taken as the samartha names the suffixes (यत्-ढकञ्, यत्-ढक्, यत्, इन-य), not a samartha word.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41140",
+       "quote": "अपूर्वपदात् कुलशब्दादन्यतरस्यां यत् ढकञ् इत्येतौ प्रत्ययौ भवतः।"
+      }
+     ]
+    },
+    {
+     "n": "4.4.66",
+     "word": "तत्",
+     "defect": "WRONG_CASE",
+     "correct": "प्रथमा",
+     "why": "तत् is the subject of दीयते (prathamā), not द्वितीया.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "44066",
+       "quote": "तदिति प्रथमासमर्थाद् अस्मा इति चतुर्थ्यर्थे ठक्  प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "4.4.77",
+     "word": "यत्-ढकौ",
+     "defect": "SUFFIX_NAME",
+     "correct": "द्वितीया",
+     "why": "The own word taken as the samartha names the suffixes (यत्-ढकञ्, यत्-ढक्, यत्, इन-य), not a samartha word.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "44077",
+       "quote": "धुर् इत्येतस्माद् द्वितीयासमर्थाद् वहतीत्येतस्मिन्नर्थे यत् ढक् इत्येतौ प्रत्ययौ भवतः।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G7",
+   "group": "own word, data case 0 | vidhi | X: the word in the … names the samartha",
+   "count": 9,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 9,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "All 9 member(s) read by hand: sūtra, our vṛtti, Kāśikā (and, for commentator credits, the quoted commentary in context).",
+   "licensed": [
+    "4.2.14",
+    "4.3.25",
+    "4.3.53",
+    "4.3.74",
+    "4.4.69",
+    "4.4.98",
+    "5.1.43",
+    "5.1.96",
+    "5.2.63"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [],
+   "note": "5.1.96: atideśa of suffixes; Kāśikā सप्तमीसमर्थात्."
+  },
+  {
+   "id": "G8",
+   "group": "named by a commentator | vidhi | X (English)",
+   "count": 6,
+   "verdict": "mixed",
+   "counts": {
+    "licensed": 5,
+    "not licensed": 0,
+    "unsure": 1
+   },
+   "how_checked": "All 6 member(s) read by hand: sūtra, our vṛtti, Kāśikā (and, for commentator credits, the quoted commentary in context).",
+   "licensed": [
+    "5.3.93",
+    "5.4.21",
+    "5.4.23",
+    "5.4.25",
+    "5.4.52"
+   ],
+   "not_licensed": [],
+   "unsure": [
+    {
+     "n": "5.4.34",
+     "word": "named by Vasu",
+     "why": "Outside 4.1.82–5.2.140, so only the वा can apply (C6). Kāśikā says the suffix is optional 'by the word विभाषा' without saying which विभाषा; no other विभाषा is current near 5.4.34 and ठक् here is not on the Bhāṣya's list of obligatory svārthikas (C5), which points to the mahāvibhāṣā as Vasu says — but the Kāśikā does not say so in words.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "54034",
+       "quote": "विभाषाग्रहणेन विकल्प्यते प्रत्ययः॥"
+      }
+     ]
+    }
+   ],
+   "effect_defects": [
+    {
+     "n": "5.3.93",
+     "word": "named by Vasu",
+     "defect": "VA_ONLY",
+     "correct": "only वा applies (C6)",
+     "why": "Outside the samartha/prathama span; Kāśikā says the option here comes from the mahāvibhāṣā (वा of 4.1.82). The credit's effect text describes the samartha/prathama part instead.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "53093",
+       "quote": "महाविभाषा च प्रत्ययविकल्पार्थानुवर्तत एव।"
+      }
+     ]
+    },
+    {
+     "n": "5.4.21",
+     "word": "named by Vasu",
+     "defect": "VA_ONLY",
+     "correct": "वा (C6); the samartha case here comes from the sūtra's own wording, not from the adhikāra",
+     "why": "After 5.3.1 the samartha/prathama adhikāra has stopped (Kāśikā 5.3.1); Kāśikā still states a samartha case from the sūtra's own words. The suffix is not on the Bhāṣya's obligatory list (C5), so the वा is what 4.1.82 contributes.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "54021",
+       "quote": "तदिति प्रथमा समर्थविभक्तिः।"
+      }
+     ]
+    },
+    {
+     "n": "5.4.23",
+     "word": "named by Vasu",
+     "defect": "VA_ONLY",
+     "correct": "only वा applies (C6)",
+     "why": "Outside the samartha/prathama span; Kāśikā says the option here comes from the mahāvibhāṣā (वा of 4.1.82). The credit's effect text describes the samartha/prathama part instead.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "54023",
+       "quote": "महाविभाषया विकल्पते प्रत्ययः॥"
+      }
+     ]
+    },
+    {
+     "n": "5.4.25",
+     "word": "named by Vasu",
+     "defect": "VA_ONLY",
+     "correct": "वा (C6); the samartha case here comes from the sūtra's own wording, not from the adhikāra",
+     "why": "After 5.3.1 the samartha/prathama adhikāra has stopped (Kāśikā 5.3.1); Kāśikā still states a samartha case from the sūtra's own words. The suffix is not on the Bhāṣya's obligatory list (C5), so the वा is what 4.1.82 contributes.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "54025",
+       "quote": "पादार्घशब्दाभ्यां चतुर्थीसमर्थाभ्यां तादर्थ्येऽभिधेये यत् प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "5.4.52",
+     "word": "named by Vasu",
+     "defect": "VA_ONLY",
+     "correct": "only वा applies (C6)",
+     "why": "Outside the samartha/prathama span; Kāśikā says the option here comes from the mahāvibhāṣā (वा of 4.1.82). The credit's effect text describes the samartha/prathama part instead.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "54052",
+       "quote": "प्रत्ययविकल्पस्तु महाविभाषयैव सिद्धः॥"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G9",
+   "group": "carried / not a sūtra word | āgama | X (5.2.48, carried in sense): the base o",
+   "count": 5,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 5,
+    "unsure": 0
+   },
+   "how_checked": "All 5 member(s) read by hand: sūtra, our vṛtti, Kāśikā (and, for commentator credits, the quoted commentary in context).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "5.2.49",
+     "word": "तस्य",
+     "should_be": "none",
+     "reason": "ADESHA_ONLY",
+     "why": "An āgama (मट्/थट्/तमट्) added to the ḍaṭ suffix of 5.2.48; the suffix is placed by 5.2.48, not here (C7). (Uncredited siblings 5.2.51–5.2.53 thuk/tithuk/ithuk are treated that way already.)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52049",
+       "quote": "नकारान्तात् संख्यावाचिनः प्रातिपदिकादसंख्यादेः परस्य डटो मडागमो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "5.2.50",
+     "word": "तस्य",
+     "should_be": "none",
+     "reason": "ADESHA_ONLY",
+     "why": "An āgama (मट्/थट्/तमट्) added to the ḍaṭ suffix of 5.2.48; the suffix is placed by 5.2.48, not here (C7). (Uncredited siblings 5.2.51–5.2.53 thuk/tithuk/ithuk are treated that way already.)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52050",
+       "quote": "नान्तादसंख्यादेः परस्य डटश्छन्दसि विषये थडागमो भवति चकारात् पक्षे मडपि भवति।"
+      }
+     ]
+    },
+    {
+     "n": "5.2.56",
+     "word": "तस्य",
+     "should_be": "none",
+     "reason": "ADESHA_ONLY",
+     "why": "An āgama (मट्/थट्/तमट्) added to the ḍaṭ suffix of 5.2.48; the suffix is placed by 5.2.48, not here (C7). (Uncredited siblings 5.2.51–5.2.53 thuk/tithuk/ithuk are treated that way already.)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52056",
+       "quote": "विंशत्यादिभ्यः परस्य डटस्तमडागमो भवत्यन्यतरस्याम्।"
+      }
+     ]
+    },
+    {
+     "n": "5.2.57",
+     "word": "तस्य",
+     "should_be": "none",
+     "reason": "ADESHA_ONLY",
+     "why": "An āgama (मट्/थट्/तमट्) added to the ḍaṭ suffix of 5.2.48; the suffix is placed by 5.2.48, not here (C7). (Uncredited siblings 5.2.51–5.2.53 thuk/tithuk/ithuk are treated that way already.)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52057",
+       "quote": "शतादिभ्यो मासार्धमाससंवत्सरशब्देभ्यश्च परस्य डटो नित्यं तमडागमो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "5.2.58",
+     "word": "तस्य",
+     "should_be": "none",
+     "reason": "ADESHA_ONLY",
+     "why": "An āgama (मट्/थट्/तमट्) added to the ḍaṭ suffix of 5.2.48; the suffix is placed by 5.2.48, not here (C7). (Uncredited siblings 5.2.51–5.2.53 thuk/tithuk/ithuk are treated that way already.)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52058",
+       "quote": "षष्ट्यादेः संख्याशब्दादसंख्यादेः परस्य डटो नित्यं तमडागमो भवति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "effect_defects": []
+  },
+  {
+   "id": "G10",
+   "group": "named by a commentator | saṃjñā | X",
+   "count": 3,
+   "verdict": "mixed",
+   "counts": {
+    "licensed": 1,
+    "not licensed": 2,
+    "unsure": 0
+   },
+   "how_checked": "All 3 member(s) read by hand: sūtra, our vṛtti, Kāśikā (and, for commentator credits, the quoted commentary in context).",
+   "licensed": [
+    "4.1.162"
+   ],
+   "not_licensed": [
+    {
+     "n": "1.2.45",
+     "word": "named by पदमञ्जरी",
+     "should_be": "none",
+     "reason": "MENTION",
+     "why": "Padamañjarī names 4.1.82 only as the reason taddhitas are wanted after words that already end in a suffix, while arguing about the अप्रत्ययः clause of the prātipadika definition. 1.2.45 is a saṃjñā outside the section; nothing is placed after a samartha here.",
+     "quotes": [
+      {
+       "file": "padamanjari",
+       "id": "12045",
+       "quote": "तद्धितास्त्विष्यन्त एव ऽसमर्थानां प्रथमाद्वाऽ इति ।"
+      }
+     ]
+    },
+    {
+     "n": "5.3.1",
+     "word": "named by पदमञ्जरी",
+     "should_be": "none",
+     "reason": "BOUNDARY",
+     "why": "5.3.1 is the point where समर्थ and प्रथम stop (Kāśikā). It is a saṃjñā/heading and places no suffix; the वा that continues past it works in the suffix rules after it (5.3.7 ff.), not here. Padamañjarī only cross-refers to its comment on 4.1.82.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "53001",
+       "quote": "अतः परं स्वार्थिकाः प्रत्ययाः, तेषु समर्थाधिकारः प्रथमग्रहणं च प्रतियोग्यपेक्षत्वाद् नोपयुज्यत इति द्वयमपि निवृत्तम्।"
+      },
+      {
+       "file": "padamanjari",
+       "id": "53001",
+       "quote": "एतत्'समर्थानां प्रथमाद्वा'  इत्यत्रैव व्याख्यातम्"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "effect_defects": [
+    {
+     "n": "4.1.162",
+     "word": "named by महाभाष्यम्",
+     "defect": "NON_SUFFIX_APPLICATION",
+     "correct": "Bhāṣya: 'प्रथम' restricts whose descendant is called gotra",
+     "why": "Saṃjñā rule — no suffix is placed; the Bhāṣya reads प्रथम into the definition (C8).",
+     "quotes": [
+      {
+       "file": "bhashya",
+       "id": "41162",
+       "quote": "समर्थानां प्रथमस्य यदपत्यं पौत्रप्रभृतीति विज्ञायते॥"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G11",
+   "group": "own word, data case 5 | vidhi | X: the word in the … names the samartha",
+   "count": 3,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 3,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "All 3 member(s) read by hand: sūtra, our vṛtti, Kāśikā (and, for commentator credits, the quoted commentary in context).",
+   "licensed": [
+    "4.1.113",
+    "4.3.155",
+    "5.1.100"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [
+    {
+     "n": "4.1.113",
+     "word": "तत्-नामिकाभ्यः",
+     "defect": "WRONG_CASE",
+     "correct": "षष्ठी (तस्यापत्यम्)",
+     "why": "तन्नामिकाभ्यः (pañcamī) names the bases; the samartha is ṣaṣṭhī.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41113",
+       "quote": "तन्नामिकाभ्य इति सर्वनाम्ना प्रत्ययप्रकृतेः परामर्शः।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.155",
+     "word": "तत्-प्रत्ययात्",
+     "defect": "WRONG_CASE",
+     "correct": "षष्ठी (तस्य विकारः)",
+     "why": "तत्प्रत्ययात् (pañcamī) names the base; the samartha is ṣaṣṭhī.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43155",
+       "quote": "ञिद् यो विकारावयवप्रत्ययः, तदन्तात् प्रातिपदिकादञ् प्रत्ययो भवति विकारावयवयोरेव।"
+      }
+     ]
+    },
+    {
+     "n": "5.1.100",
+     "word": "यत्",
+     "defect": "SUFFIX_NAME",
+     "correct": "तृतीया",
+     "why": "The own word taken as the samartha names the suffixes (यत्-ढकञ्, यत्-ढक्, यत्, इन-य), not a samartha word.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51100",
+       "quote": "कर्मवेषशब्दाभ्यां तृतीयासमर्थाभ्यां यत् प्रत्ययो भवति संपादिनीत्येतस्मिन् विषये।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G12",
+   "group": "own word, data case 7 | vidhi | X: the word in the … names the samartha",
+   "count": 3,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 3,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "All 3 member(s) read by hand: sūtra, our vṛtti, Kāśikā (and, for commentator credits, the quoted commentary in context).",
+   "licensed": [
+    "4.2.134",
+    "4.4.87",
+    "5.2.45"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [
+    {
+     "n": "4.2.134",
+     "word": "मनुष्य-तत्-स्थयोः",
+     "defect": "SHAISHIKA",
+     "correct": "the case of the śaiṣika meaning (तत्र जातः …)",
+     "why": "मनुष्यतत्स्थयोः names the MEANING (pratyayārtha), not the samartha.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42134",
+       "quote": "मनुष्ये मनुष्यस्थे च जातादौ प्रत्ययार्थे कच्छादिभ्यो वुञ् प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.4.87",
+     "word": "अस्मिन्",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा",
+     "why": "अस्मिन् is the meaning; the samartha is prathamā (पदम् / तत्).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "44087",
+       "quote": "निर्देशादेव प्रथमा समर्थविभिक्तिः।"
+      }
+     ]
+    },
+    {
+     "n": "5.2.45",
+     "word": "अस्मिन्",
+     "defect": "PRATYAYARTHA",
+     "correct": "प्रथमा",
+     "why": "अस्मिन् is the meaning; the samartha is prathamā (पदम् / तत्).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52045",
+       "quote": "तदिति प्रथमासमर्थादस्मिन्निति सप्तम्यर्थे दशान्तात् प्रातिपदिकाद् डः प्रत्ययो भवति, यत् तत् प्रथमासमर्थमधिकं चेत् तद् भवति।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G13",
+   "group": "named by a commentator | adhikāra | X",
+   "count": 2,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 2,
+    "unsure": 0
+   },
+   "how_checked": "All 2 member(s) read by hand: sūtra, our vṛtti, Kāśikā (and, for commentator credits, the quoted commentary in context).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "2.3.1",
+     "word": "named by महाभाष्यम्",
+     "should_be": "none",
+     "reason": "MENTION",
+     "why": "The Bhāṣya uses 4.1.82 to explain why no second apatya-suffix comes after गर्ग in गर्गाः (a taddhita question), while discussing अनभिहिते. 4.1.82 is applied to that taddhita, not to 2.3.1's vibhakti rule.",
+     "quotes": [
+      {
+       "file": "bhashya",
+       "id": "23001",
+       "quote": "समर्थानां प्रथमाद्वा इति वर्तते। न चैतत्समर्थानां प्रथमम्। किं तर्हि?। द्वितीयमर्थमुपसंक्रान्तम्"
+      }
+     ]
+    },
+    {
+     "n": "4.1.1",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "MENTION",
+     "why": "Nyāsa cites the 4.1.82 adhikāra only to argue that taddhitas are bahiraṅga (they arise after case-inflected words) in a discussion of ordering with feminine suffixes. 4.1.1 is a heading before the section; no taddhita is placed by it.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "41001",
+       "quote": "<<समर्थानां प्रथमाद्वा>> [[4.1.82]]  इत्यधिकाराद्विभक्त्यन्ताते उत्पद्यन्ते"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "effect_defects": []
+  },
+  {
+   "id": "G14",
+   "group": "named by a commentator | vidhi | X",
+   "count": 2,
+   "verdict": "mixed",
+   "counts": {
+    "licensed": 1,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "All 2 member(s) read by hand: sūtra, our vṛtti, Kāśikā (and, for commentator credits, the quoted commentary in context).",
+   "licensed": [
+    "5.3.92"
+   ],
+   "not_licensed": [
+    {
+     "n": "3.2.56",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "MENTION",
+     "why": "Nyāsa explains that the cvi suffix (a taddhita, 5.4.50) is optional because वा continues from 4.1.82. That is about cvi, not about 3.2.56's kṛt suffix ख्युन्, which is outside the taddhita section.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "32056",
+       "quote": "विकल्पेन विधानं तु <<समर्थानां प्रथमाद्वा>> [[4.1.82]]  इत्यतो वाग्रहणानुवृत्तेः"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "effect_defects": [
+    {
+     "n": "5.3.92",
+     "word": "named by न्यासः",
+     "defect": "VA_ONLY",
+     "correct": "only वा applies (C6)",
+     "why": "Outside the samartha/prathama span; Kāśikā says the option here comes from the mahāvibhāṣā (वा of 4.1.82). The credit's effect text describes the samartha/prathama part instead.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "53092",
+       "quote": "महाविभाषया चात्र प्रत्ययो विकल्प्यते।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G15",
+   "group": "carried / not a sūtra word | āgama | X: samartha",
+   "count": 2,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 2,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "All 2 member(s) read by hand: sūtra, our vṛtti, Kāśikā (and, for commentator credits, the quoted commentary in context).",
+   "licensed": [
+    "4.1.161",
+    "4.3.138"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [],
+   "note": "4.1.161: añ, yat introduced with ṣuk. 4.3.138: Kāśikā: aṇ is introduced here (exception to añ) with ṣuk."
+  },
+  {
+   "id": "G16",
+   "group": "own word, data case 4 | vidhi | X: the word in the … names the samartha",
+   "count": 2,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 2,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "All 2 member(s) read by hand: sūtra, our vṛtti, Kāśikā (and, for commentator credits, the quoted commentary in context).",
+   "licensed": [
+    "5.1.5",
+    "5.1.101"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": []
+  },
+  {
+   "id": "G17",
+   "group": "carried / not a sūtra word | operation | X: samartha",
+   "count": 2,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 2,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "All 2 member(s) read by hand: sūtra, our vṛtti, Kāśikā (and, for commentator credits, the quoted commentary in context).",
+   "licensed": [
+    "5.1.125",
+    "5.2.55"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [],
+   "note": "5.1.125: yat introduced (+ na-lopa). 5.2.55: tīya introduced."
+  },
+  {
+   "id": "G18",
+   "group": "named by a commentator | operation | X",
+   "count": 2,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 2,
+    "unsure": 0
+   },
+   "how_checked": "All 2 member(s) read by hand: sūtra, our vṛtti, Kāśikā (and, for commentator credits, the quoted commentary in context).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "6.1.1",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "MENTION",
+     "why": "Nyāsa gives 4.1.82 only as an example of an adhikāra that works for the following rules and not for itself (parārtha). Doubling is not a taddhita rule.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "61001",
+       "quote": "केचित्? पुनः परार्था एवाधिकारा भवन्ति, न स्वार्थाः, यथा - <<समर्थानां प्रथमाद्वा>> [[4.1.82]]  इति"
+      }
+     ]
+    },
+    {
+     "n": "8.1.4",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "MENTION",
+     "why": "Nyāsa raises 4.1.82 in an objection about the ātiśāyika suffix and answers it by quoting the Kāśikā that the adhikāra stops before the svārthikas. Not an application at 8.1.4 (doubling).",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "81004",
+       "quote": "नैतत्; उक्तं हि तत्रैव  [[4.1.82]]  `स्वार्थिकप्रत्ययावधिश्चायमधिकारः प्राग्दिशो विभक्तिरिति  [[5.3.1]]  यावत्, स्वार्थिकेष्वस्योपयोगो नास्ति` इति"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "effect_defects": []
+  },
+  {
+   "id": "G19",
+   "group": "named by a commentator | samāsa | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "All 1 member(s) read by hand: sūtra, our vṛtti, Kāśikā (and, for commentator credits, the quoted commentary in context).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "2.2.3",
+     "word": "named by महाभाष्यम्",
+     "should_be": "none",
+     "reason": "MENTION",
+     "why": "The Bhāṣya cites the वा of 4.1.82 (with 4.1.81's अन्यतरस्याम्) as a parallel case of two options side by side, in a discussion of the samāsa rule. 4.1.82 does not apply to a samāsa (the engine's samāsa scope is 2.1.1).",
+     "quotes": [
+      {
+       "file": "bhashya",
+       "id": "22003",
+       "quote": "द्वे ह्यत्र विभाषे दैवयज्ञिशौचिवृक्षिसात्यमुग्रिकाण्ठेविद्धिभ्योऽन्यतरस्याम् समर्थानां प्रथमाद्वा इति च"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "effect_defects": []
+  },
+  {
+   "id": "G20",
+   "group": "carried / not a sūtra word | atideśa | X: samartha",
+   "count": 1,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 1,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "All 1 member(s) read by hand: sūtra, our vṛtti, Kāśikā (and, for commentator credits, the quoted commentary in context).",
+   "licensed": [
+    "4.2.46"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [],
+   "note": "4.2.46: atideśa of suffixes; Kāśikā षष्ठीसमर्थेभ्यः."
+  },
+  {
+   "id": "G21",
+   "group": "named by a commentator | ādeśa | X",
+   "count": 1,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 1,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "All 1 member(s) read by hand: sūtra, our vṛtti, Kāśikā (and, for commentator credits, the quoted commentary in context).",
+   "licensed": [
+    "4.4.125"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [],
+   "note": "4.4.125: yat introduced; Padamañjarī argues from 4.1.82's 'first-named'."
+  },
+  {
+   "id": "G22",
+   "group": "own word, data case 1 | ādeśa | X: prakriti",
+   "count": 1,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 1,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "All 1 member(s) read by hand: sūtra, our vṛtti, Kāśikā (and, for commentator credits, the quoted commentary in context).",
+   "licensed": [
+    "4.4.125"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [],
+   "note": "4.4.125: yat introduced; Padamañjarī argues from 4.1.82's 'first-named'."
+  },
+  {
+   "id": "G23",
+   "group": "carried / not a sūtra word | ādeśa | X: samartha",
+   "count": 1,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 1,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "All 1 member(s) read by hand: sūtra, our vṛtti, Kāśikā (and, for commentator credits, the quoted commentary in context).",
+   "licensed": [
+    "5.2.32"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [],
+   "note": "5.2.32: suffixes introduced."
+  },
+  {
+   "id": "G24",
+   "group": "carried / not a sūtra word | svara | X (PV: …)",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "All 1 member(s) read by hand: sūtra, our vṛtti, Kāśikā (and, for commentator credits, the quoted commentary in context).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "5.2.44",
+     "word": "उभात् → from the samartha word उभ",
+     "should_be": "none",
+     "reason": "ADESHA_ONLY",
+     "why": "An ādeśa (अयच्) for the tayap already placed after उभ by 5.2.42 (+ accent); no suffix is placed here (C7).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52044",
+       "quote": "उभशब्दात् परस्य तयपो नित्यमयजादेशो भवति, स चोदात्तः।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "effect_defects": []
+  },
+  {
+   "id": "G25",
+   "group": "carried / not a sūtra word | operation | X (…-…: …)",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "All 1 member(s) read by hand: sūtra, our vṛtti, Kāśikā (and, for commentator credits, the quoted commentary in context).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "5.2.60",
+     "word": "from the samartha word",
+     "should_be": "none",
+     "reason": "LUK",
+     "why": "The rule's own operation is a luk/lup of a suffix that an earlier rule already placed; it places no suffix, so 'the suffix comes after the first samartha word' is not what this rule does (C2, C7). No commentator reads 4.1.82 into it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52060",
+       "quote": "मत्वर्थ उत्पन्नस्य छस्य लुग् भवत्यध्यायानुवाकयोरभिधेययोः।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "effect_defects": []
+  },
+  {
+   "id": "G26",
+   "group": "carried / not a sūtra word | nipātana | X: prakriti",
+   "count": 1,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 1,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "All 1 member(s) read by hand: sūtra, our vṛtti, Kāśikā (and, for commentator credits, the quoted commentary in context).",
+   "licensed": [
+    "5.2.92"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [],
+   "note": "5.2.92: Nipātana; Kāśikā सप्तमीसमर्थात् (C9)."
+  },
+  {
+   "id": "G27",
+   "group": "carried / not a sūtra word | nipātana | X: samartha",
+   "count": 1,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 1,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "All 1 member(s) read by hand: sūtra, our vṛtti, Kāśikā (and, for commentator credits, the quoted commentary in context).",
+   "licensed": [
+    "5.2.105"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [],
+   "note": "5.2.105: ilac introduced (+ lup)."
+  },
+  {
+   "id": "G28",
+   "group": "carried / not a sūtra word | āgama | X: prakriti",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "All 1 member(s) read by hand: sūtra, our vṛtti, Kāśikā (and, for commentator credits, the quoted commentary in context).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "5.2.129",
+     "word": "वातातिसाराभ्याम्",
+     "should_be": "none",
+     "reason": "ADESHA_ONLY",
+     "why": "Kāśikā: ini already comes by the previous rule; this rule exists only for the kuk āgama (C7).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52129",
+       "quote": "वातातिसारयोरुपतापत्वात् पूर्वेणैव सिद्धे प्रत्यये कुगर्थमेवेदं वचनम्"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "effect_defects": []
+  }
+ ],
+ "missed": [
+  {
+   "n": "4.1.158",
+   "pid": "4.1.82",
+   "why": "4.1.82 missed: वाकिनादीनां कुक् च introduces phiñ (with kuk) in the apatya sense inside the section — the same shape as 4.1.161 / 4.1.125, which are credited.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "41158",
+     "quote": "वाकिन इत्येवमादिभ्यः शब्देभ्योऽपत्ये फिञ् प्रत्ययो भवति, तत्सन्नियोगेन चैषां कुगागमः।"
+    }
+   ]
+  },
+  {
+   "n": "4.2.91",
+   "pid": "4.1.82",
+   "why": "4.1.82 missed: नडादीनां कुक् च introduces cha (cāturarthika) with kuk inside the section.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "42091",
+     "quote": "नड इत्येवमादीनां कुगागमो भवति, छश्च प्रत्ययश्चातुरर्थिकः।"
+    }
+   ]
+  },
+  {
+   "n": "4.2.34",
+   "pid": "4.1.82",
+   "why": "4.1.82 missed: कालेभ्यो भववत् extends the bhava-suffixes to the सास्य देवता meaning — an atideśa of suffixes like 4.2.46 / 5.1.96, which are credited.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "42034",
+     "quote": "कालविशेषवाचिभ्यो शब्देभ्यो भववत् प्रत्यया भवन्ति सास्य देवतेत्यस्मिन् विषये।"
+    }
+   ]
+  },
+  {
+   "n": "5.3.7",
+   "pid": "4.1.82",
+   "why": "4.1.82 (वा part) missed: Kāśikā at 5.3.1 says the वा continues and makes तसिल् etc. optional, with कुतः / कस्मात् (5.3.7 पञ्चम्यास्तसिल्).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "53001",
+     "quote": "वावचनं तु वर्तत एव, तेन विकल्पेन तसिलादयो भवन्ति। कुतः, कस्मात्।"
+    }
+   ]
+  },
+  {
+   "n": "5.3.10",
+   "pid": "4.1.82",
+   "why": "4.1.82 (वा part) missed: same Kāśikā statement, with कुत्र / कस्मिन् (5.3.10 सप्तम्यास्त्रल्).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "53001",
+     "quote": "कुत्र, कस्मिन्निति॥"
+    }
+   ]
+  }
+ ],
+ "note_effect_defects": "`effect_defects` lists LICENSED credits whose trigger word or stated case is wrong (4.1.82 does govern the sūtra, but the credit names the wrong word/case, or describes the samartha part where only वा applies). They must NOT be dropped; they need their trigger/effect text fixed."
+}

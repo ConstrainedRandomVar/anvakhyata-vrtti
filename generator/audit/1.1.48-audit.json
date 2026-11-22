@@ -1,0 +1,59 @@
+{
+ "pid": "1.1.48",
+ "generated": "2026-11-20",
+ "input": "audit/1.1.48-firings.json",
+ "totals": {
+  "firings": 3,
+  "licensed": 3,
+  "not_licensed": 0,
+  "unsure": 0,
+  "groups": {
+   "licensed": 1,
+   "not licensed": 0,
+   "mixed": 0,
+   "unsure": 0
+  },
+  "not_licensed_by_should_be": {},
+  "not_licensed_by_reason": {},
+  "quotes": 3
+ },
+ "conditions": [
+  {
+   "text": "C1 — 1.1.48: when a short vowel is to replace ए/ऐ/ओ/औ, it is an इक् (इ for ए/ऐ, उ for ओ/औ). Kāśikā's examples are the 1.2.47 and 1.2.48 forms (अतिरि, अतिनु, उपगु).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11048",
+     "quote": "एचो ह्रस्वादेशे कर्त्तव्य इगेव ह्रस्वो भवति नान्यः।"
+    },
+    {
+     "file": "kashika",
+     "id": "11048",
+     "quote": "रै — अतिरि। नौ — अतिनु ([[१.२.४७]])। गो — उपगु।"
+    },
+    {
+     "file": "kaumudi",
+     "id": "11048",
+     "quote": "आदिश्यमानेषु ह्रस्वेषु एच इगेव स्यात् ।"
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | operation | X",
+   "verdict": "licensed",
+   "how_checked": "Kāśikā on 1.1.48 (examples from 1.2.47/1.2.48) and on 7.4.59 (डुढौके, तुत्रौके: औ of the abhyāsa → उ).",
+   "licensed": [
+    "1.2.47",
+    "1.2.48",
+    "7.4.59"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "licensed 3 · not licensed 0 · unsure 0 — All three licensed."
+  }
+ ],
+ "missed": []
+}

@@ -1,0 +1,5179 @@
+{
+ "1.1.3": {
+  "gloss": "guṇa/vṛddhi named without a sound to replace → supply इकः",
+  "ruleText": "इको गुणवृद्धी",
+  "generalExplanation": "guṇa or vṛddhi named without a target replaces an इक् vowel",
+  "conditions": [
+   {
+    "text": "C1 — Where guṇa/vṛddhi is enjoined by its own name, it is understood to replace an इक्; the word इकः (6th) is supplied.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11003",
+      "quote": "वृद्धिगुणौ स्वसंज्ञया शिष्यमाणौ इकः एव स्थाने वेदितव्यौ।"
+     },
+     {
+      "file": "kaumudi",
+      "id": "11003",
+      "quote": "गुणवृद्धिशब्दाभ्यां यत्र गुणवृद्धी विधीयेते तत्रेक इति षष्ठ्यन्तं पदमुपतिष्ठते ॥"
+     }
+    ]
+   },
+   {
+    "text": "C2 — Not where the sthānin is named (e.g. अत उपधायाः): such a guṇa/vṛddhi is not “इग्लक्षण”.",
+    "quotes": [
+     {
+      "file": "nyaas",
+      "id": "64028",
+      "quote": "न चेयमुपधालक्षणा वृद्धिरिग्लाक्षणा भवति, निर्दिष्टस्थानिकत्वात्।"
+     }
+    ]
+   },
+   {
+    "text": "C3 — Kāśikā's list of sūtras where the supplied इक् qualifies the aṅga.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11003",
+      "quote": "(१.४६) मिदिमृजिपुगन्तलघूपधर्च्छिदृशिक्षिप्रक्षुद्रेष्वङ्गेन इग् विशेष्यते (म० भा० [[१.१.३]] वा० ३)।"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "guṇa and vṛddhi, taught by those words, fall on an इक् vowel",
+    "n": "7.2.1",
+    "count": 7
+   },
+   {
+    "text": "guṇa or vṛddhi named without a target replaces an इक् vowel — so this blocks only the guṇa/vṛddhi that 1.1.3 supplies ( SK: “इग्लक्षणे”)",
+    "n": "1.1.4",
+    "count": 3
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "गुण is named with no sound to replace → इकः is supplied",
+    "n": "6.4.156",
+    "count": 18
+   },
+   {
+    "text": "इकः (carried from 1.1.3) → what is replaced: “इकः स्थाने” (carried in) · प्रथमावृत्तिः: “इकः स्थाने”",
+    "n": "1.1.4",
+    "count": 3
+   },
+   {
+    "text": "गुणवृद्धी (carried from 1.1.3) → the substitute: “गुणवृद्धी” (carried in) · प्रथमावृत्तिः: “ये गुणवृद्धी प्राप्नुतस्ते” — also: इकः, गुण-वृद्धी → carried in from the sūtras named — also: इकः and गुण-वृद्धी are carried from 1.1.3 → so this blocks only the guṇa/vṛddhi that 1.1.3 supplies ( SK: “इग्लक्",
+    "n": "1.1.4",
+    "count": 1
+   },
+   {
+    "text": "गुणवृद्धी (carried from 1.1.3) → the substitute: “गुणवृद्धी” (carried in) · प्रथमावृत्तिः: “ये गुणवृद्धी प्राप्नुतस्ते” — also: इकः, गुण-वृद्धी, न → carried in from the sūtras named — also: इकः and गुण-वृद्धी are carried from 1.1.3 → so this blocks only the guṇa/vṛddhi that 1.1.3 supplies ( SK: “इग्",
+    "n": "1.1.5",
+    "count": 1
+   },
+   {
+    "text": "गुणवृद्धी (carried from 1.1.3) → the substitute: “गुणवृद्धी” (carried in) · प्रथमावृत्तिः: “ये गुणवृद्धी प्राप्नुतस्ते” — also: इकः and गुण-वृद्धी are carried from 1.1.3 → so this blocks only the guṇa/vṛddhi that 1.1.3 supplies ( SK: “इग्लक्षणे”)",
+    "n": "1.1.6",
+    "count": 1
+   }
+  ]
+ },
+ "1.1.44": {
+  "gloss": "विभाषा = option",
+  "ruleText": "न वेति विभाषा",
+  "generalExplanation": "वा / विभाषा / अन्यतरस्याम् = OPTIONALLY",
+  "conditions": [
+   {
+    "text": "What the saṃjñā names: 'vibhāṣā' is a name for the two MEANINGS 'not' (pratiṣedha) and 'optionally' (vikalpa); the इति makes the meanings, not the words न/वा, the saṃjñin. So 1.1.44 itself is a definition — it applies wherever a rule is a vibhāṣā, not inside 1.1.44.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11044",
+      "quote": "नेति प्रतिषेधो वेति विकल्पः, तयोः प्रतिषेधविकल्पयोर्विभाषेति संज्ञा भवति। इतिकरणोऽर्थनिर्देशार्थः।"
+     },
+     {
+      "file": "nyaas",
+      "id": "11044",
+      "quote": "नवेति यावर्थौ प्रतीयेते प्रतिषेधविकल्पौ, तयोरेवेयं संज्ञा भवति; न नवाशब्द-योः।"
+     }
+    ]
+   },
+   {
+    "text": "How it operates: in a vibhāṣā rule both 'not' and 'optionally' are present; the 'not' first levels the domain, then the option operates. The tradition (Kāśikā, TB) says the saṃjñā is needed only for ubhayatra-vibhāṣā (both prāpta and aprāpta sub-domains); in a pure prāpta- or aprāpta-vibhāṣā the word's ordinary sense already suffices. The Bhāṣya classifies vibhāṣā rules as prāpte / aprāpte / ubhayatra.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11044",
+      "quote": "विभाषाप्रदेशेषु प्रतिषेधविकल्पावुपतिष्ठेते। तत्र प्रतिषेधेन समीकृते विषये पश्चाद् विकल्पः प्रवर्तते। उभयत्रविभाषाः प्रयोजयन्ति।"
+     },
+     {
+      "file": "tattvabodhini",
+      "id": "11044",
+      "quote": "उभयत्रविभाषार्थं चेदं सूत्रम् । प्राप्तविभाषायामप्राप्तविभाषायां च नास्योपयोगः ।"
+     }
+    ]
+   },
+   {
+    "text": "Scope beyond the word विभाषा (view-dependent — the basis on which वा / अन्यतरस्याम् credits are accepted here): the Bhāṣya itself treats अन्यतरस्याम्- and वा-sūtras (हृक्रोरन्यतरस्याम्, अनुपसर्गाद्वा, उषविदजागृभ्योऽन्यतरस्याम्) in its prāpta/aprāpta/ubhayatra survey under 1.1.44 and says Pāṇini mostly conveys this sense with other words (बहुलम्, अन्यतरस्याम्, उभयथा, वा, एकेषाम्). Bālamanoramā makes it explicit: विभाषा in the sūtra stands for every option-word; Tattvabodhinī: making the MEANING the saṃjñin is what covers हृक्रोरन्यतरस्याम्.",
+    "quotes": [
+     {
+      "file": "bhashya",
+      "id": "11044",
+      "quote": "आचार्यः खल्वपि सञ्ज्ञामारभमाणो भूयिष्ठमन्यैरपि शब्दैरेतमर्थं सम्प्रत्याययति -  बहुलमन्यतरस्यामुभयथा वा एकेषामिति।"
+     },
+     {
+      "file": "bhashya",
+      "id": "11044",
+      "quote": "॥ हृक्रोरन्यतरस्याम् । प्राप्ते अप्राप्ते उभयत्र वेति सन्देहः।"
+     }
+    ]
+   },
+   {
+    "text": "Dissent to record (not used to reject credits, since it rejects the sūtra wholesale): Bhāṣya/Nāgeśa hold the option words work as in ordinary usage and the sūtra is rejected (pratyākhyāta); Padamañjarī: on the per-instance view, अन्यतरस्याम् / वा get the right result without the saṃjñā. Nāgeśa rejects TB's 'meaning is the saṃjñā' move.",
+    "quotes": [
+     {
+      "file": "balamanorama",
+      "id": "11044",
+      "quote": "भाष्ये तु विभाषादिशब्दानां लोकवद् एव केवलविकल्पपरत्वेऽपि लक्ष्यानुरोधेनैव क्वचिद् विधिमुखेन क्वचिन्निषेधमुखेन विकल्पस्य प्रवृत्युपपत्तेरेतत्सूत्रं प्रत्याख्यातम्"
+     },
+     {
+      "file": "padamanjari",
+      "id": "11044",
+      "quote": "तता च 'हृक्रोरन्यतरस्याम्' इत्यादावन्यतरस्यांग्रहणे वा ग्रहणे चोभयत्रविभाषास्विष्टसिद्धः ।"
+     }
+    ]
+   },
+   {
+    "text": "Ācārya names and बहुलम्: they count as option words only where the commentary says so (Kāśikā: उदीचाम्/प्राचाम्/अन्यतरस्याम्/बहुलम् are all vikalpārtha; the ācārya word may be merely honorific where an option is already carried) — but an ācārya/region word is NOT an option when it only restricts (Kāśikā 2.4.60). बहुलम् is wider than option (always/never/optional/otherwise).",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "41160",
+      "quote": "उदीचां प्राचामन्यतरस्यां बहुलमिति सर्व एते विकल्पार्थास्तेषामेकेनैव सिध्यति। तत्राचार्यग्रहणं पूजार्थम्। बहुलग्रहणं वैचित्र्यार्थम्।"
+     },
+     {
+      "file": "kashika",
+      "id": "24060",
+      "quote": "गोत्रविशेषणं प्राग्ग्रहणम् ,न विकल्पार्थम्"
+     }
+    ]
+   },
+   {
+    "text": "Limit: a carried option word licenses the credit only where it is actually in force in that sūtra — the Kāśikā can say a rule is nitya inside a vibhāṣā adhikāra, or a new word (नित्यम्) / a prohibition / an obligatory placement rule overrides it. A vyavasthita-vibhāṣā is still a vibhāṣā.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "21021",
+      "quote": "विभाषाधिकारेऽपि नित्यसमास एवायम्। नहि वाक्येन संज्ञा गम्यते।"
+     },
+     {
+      "file": "kashika",
+      "id": "31143",
+      "quote": "व्यवस्थितविभाषा चेयम्।"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "वा / विभाषा / अन्यतरस्याम् = OPTIONALLY",
+    "n": "1.1.28",
+    "count": 223
+   },
+   {
+    "text": "वा / विभाषा / अन्यतरस्याम् = OPTIONALLY — विभाषा = optional (न वेति विभाषा) — the gloss keeps the term",
+    "n": "2.1.11",
+    "count": 1
+   },
+   {
+    "text": "वा / विभाषा / अन्यतरस्याम् = OPTIONALLY — विभाषा = optional (न वेति विभाषा) → “विकल्पेन”",
+    "n": "7.2.15",
+    "count": 1
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "विभाषा (carried from 2.1.11) → option: “विकल्पेन” (carried in) · प्रथमावृत्तिः: “विकल्पेन समस्यते”",
+    "n": "2.1.13",
+    "count": 42
+   },
+   {
+    "text": "विभाषा → option: “विकल्पेन” (read from its case) · प्रथमावृत्तिः: “विकल्पेन”",
+    "n": "1.2.16",
+    "count": 35
+   },
+   {
+    "text": "विभाषा → option: “विकल्पेन” (read from its case) · प्रथमावृत्तिः: “विभाषा न भवन्ति”",
+    "n": "1.1.32",
+    "count": 29
+   },
+   {
+    "text": "विभाषा → option: “विभाषा” (read from its case) · प्रथमावृत्तिः: “विभाषा भवन्ति”",
+    "n": "1.1.28",
+    "count": 22
+   },
+   {
+    "text": "विभाषा → option: “विकल्पेन” (read from its case) · प्रथमावृत्तिः: “विभाषा चङ् आदेशो भवति”",
+    "n": "3.1.49",
+    "count": 19
+   },
+   {
+    "text": "विभाषा (carried from 2.1.11) → option: “विकल्पेन” (carried in) · प्रथमावृत्तिः: “विकल्पेन”",
+    "n": "2.1.12",
+    "count": 15
+   },
+   {
+    "text": "विभाषा (carried over) → विभाषा = optional (न वेति विभाषा) — the gloss keeps the term",
+    "n": "2.1.17",
+    "count": 15
+   },
+   {
+    "text": "विभाषा (carried from 3.3.50) → option: “विकल्पेन” (carried in) · प्रथमावृत्तिः: “विकल्पेन घञ् प्रत्ययो भवति”",
+    "n": "3.3.51",
+    "count": 5
+   }
+  ]
+ },
+ "1.1.46": {
+  "gloss": "a ṭit augment goes at the BEGINNING, a kit augment at the END",
+  "ruleText": "आद्यन्तौ टकितौ",
+  "generalExplanation": "a टित् augment goes at the BEGINNING, a कित् one at the END",
+  "conditions": [
+   {
+    "text": "C1. Content: an augment marked ṭ becomes the first part, one marked k the last part, of what is named in the 6th case. It places an augment (āgama) that a sūtra teaches.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11046",
+      "quote": "आदिष्टिद् भवति अन्तःकिद् भवति षष्ठीनिर्दिष्टस्य"
+     },
+     {
+      "file": "kashika",
+      "id": "11046",
+      "quote": "टित्प्रदेशाः — <<आर्धधातुकस्येड् वलादेः>>[[७.२.३५]] इत्येवमादयः"
+     }
+    ]
+   },
+   {
+    "text": "C2. Only augments: a ṭ/k marker on a suffix or on a substitute does not bring in 1.1.46 (a suffix cannot be part of anything; इट् in the tiṅ list is a substitute of ल).",
+    "quotes": [
+     {
+      "file": "nyaas",
+      "id": "32008",
+      "quote": "टित्करणं ङीबर्थम्; न तु <<आद्यन्तौ टकितौ>> [[1.1.46]]  इत्येवमर्थम्। कुत एतत्? आद्यन्तयोरवयवत्वात्। न च प्रत्ययोऽवयवो युज्यते"
+     },
+     {
+      "file": "nyaas",
+      "id": "34078",
+      "quote": "इटोऽप्यादेशत्वं तेन भवतीति न भवति देशवनिध्यर्थष्टकारः"
+     }
+    ]
+   },
+   {
+    "text": "C3. The host: the item in the 6th case. With a 5th, the Kāśikā takes the following item (1.1.67) or, for तुक् after a long vowel, the preceding vowel.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "64063",
+      "quote": "दीङ इति पञ्चमीनिर्देशादजादेर्युडागमो भवति"
+     },
+     {
+      "file": "kashika",
+      "id": "61075",
+      "quote": "दीर्घात् परो यश्छकारस्तस्मिन् पूर्वस्य तस्यैव दीर्घस्य तुगागमो भवति"
+     }
+    ]
+   },
+   {
+    "text": "C4. A sūtra that forbids the augment (also optionally: “वा … न भवति”) places nothing, so it does not need 1.1.46. Where the absence of इट् is given as a nipātana (7.2.64) the same holds.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "72008",
+      "quote": "वशादौ कृति प्रत्यये परत इडागमो न भवति"
+     },
+     {
+      "file": "kashika",
+      "id": "72029",
+      "quote": "लोमसु वर्तमानस्य हृषेर्निष्ठायां वेडागमो न भवति"
+     }
+    ]
+   },
+   {
+    "text": "C5. सुट् (6.1.135–142) is disputed. The Kāśikā: “कात् पूर्वः” shows that सुट् is no part of anything (abhakta), and its ṭ serves 8.3.70 — so 1.1.46 is not used. The Bhāṣya (followed by the Kaumudī and the Padamañjarī): the ṭ already puts सुट् before the क of कृ, and “कात् पूर्वः” is set aside — so 1.1.46 does the work.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "61135",
+      "quote": "कात् पूर्वग्रहणं सुटोऽभक्त त्वज्ञापनार्थम्"
+     },
+     {
+      "file": "kashika",
+      "id": "61135",
+      "quote": "टित्करणं सुट्स्तुस्वञ्जाम् [[८.३.७०]] इत्यत्र विशेषणार्थम्"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "a टित् augment goes at the BEGINNING, a कित् one at the END — it goes at the BEGINNING of the place",
+    "n": "3.4.94",
+    "count": 74
+   },
+   {
+    "text": "a टित् augment goes at the BEGINNING, a कित् one at the END — it goes at the END of the place (after the last sound of the aṅga)",
+    "n": "4.1.32",
+    "count": 22
+   },
+   {
+    "text": "a ṭit augment goes at the BEGINNING, a kit augment at the END",
+    "n": "6.3.99",
+    "count": 9
+   },
+   {
+    "text": "a टित् augment goes at the BEGINNING, a कित् one at the END — इडादिः — a suffix beginning with इट्",
+    "n": "1.2.2",
+    "count": 2
+   },
+   {
+    "text": "मित् is an exception to 1.1.46: not at the beginning or the end, but after the last vowel",
+    "n": "1.1.47",
+    "count": 1
+   },
+   {
+    "text": "a टित् augment goes at the BEGINNING, a कित् one at the END — it goes at the BEGINNING of आर्धधातुकस्य",
+    "n": "7.2.35",
+    "count": 1
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "इट् (carried from 7.2.35) → the augment: “इडागमः” (carried in) · काशिका: “वेडागमो भवति” — also: इट्: ṭit augment → it goes at the BEGINNING of the place",
+    "n": "7.2.43",
+    "count": 18
+   },
+   {
+    "text": "सीयुट् → the augment: “सीयुट् आगमः” (read from its case) · प्रथमावृत्तिः: “सीयुड् आगमो भवति” — also: सीयुट्: ṭit augment → it goes at the BEGINNING of the place",
+    "n": "3.4.102",
+    "count": 12
+   },
+   {
+    "text": "कुक् → the augment: “कुक् आगमः” (read from its case) · प्रथमावृत्तिः: “कुगागमो भवति” — also: कुक्: kit augment → it goes at the END of the place (after the last sound of the aṅga)",
+    "n": "4.1.158",
+    "count": 7
+   },
+   {
+    "text": "उत्तरस्य: 6th case → names the place — the thing replaced (“स्थाने”)",
+    "n": "6.4.63",
+    "count": 7
+   },
+   {
+    "text": "the place is a whole aṅga/dhātu and the replacement is one sound → it replaces the LAST sound → अन्त्यस्य अलः",
+    "n": "7.1.6",
+    "count": 7
+   },
+   {
+    "text": "लेटः → what is replaced: “लेटः” (read from its case) · प्रथमावृत्तिः: “लेटोऽट्”",
+    "n": "3.4.94",
+    "count": 5
+   },
+   {
+    "text": "नुक् → the augment: “नुक् आगमः” (read from its case) · प्रथमावृत्तिः: “नुक् आगमो भवति” — also: नुक्: kit augment → it goes at the END of the place (after the last sound of the aṅga)",
+    "n": "4.1.32",
+    "count": 5
+   },
+   {
+    "text": "इट् → the augment: “इडागमः” (read from its case) · काशिका: “इडागमो भवत्या” — also: इट्: ṭit augment → it goes at the BEGINNING of the place",
+    "n": "5.1.23",
+    "count": 5
+   }
+  ]
+ },
+ "1.1.47": {
+  "gloss": "a mit augment goes after the last vowel",
+  "ruleText": "मिदचोऽन्त्यात्परः",
+  "generalExplanation": "a मित् augment goes after the LAST vowel",
+  "conditions": [
+   {
+    "text": "C1 — An element with म् as इत् goes after the last vowel of what it is added to (as its final part); this overrides both स्थाने (1.1.49) and “परः” of suffixes.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11047",
+      "quote": "अचां संनिविष्टानामन्त्यादचः परो मिद् भवति।"
+     },
+     {
+      "file": "kashika",
+      "id": "11047",
+      "quote": "स्थानेयोगप्रत्ययपरत्वस्य ([[३.१.१]], [[३.१.२]]) अयमपवादः।"
+     }
+    ]
+   },
+   {
+    "text": "C2 — Kāśikā examples: श्नम् (3.1.78 विरुणद्धि), नुम् (7.1.59 मुञ्चति, 7.1.72 पयांसि). Exception: for मस्ज् the नुम् is wanted before the last sound.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11047",
+      "quote": "विरुणद्धि ([[३.१.७८]]) ।"
+     },
+     {
+      "file": "kashika",
+      "id": "11047",
+      "quote": "मस्जेरन्त्यात्पूर्वं नुममिच्छन्त्यनुषङ्गसंयोगादिलोपार्थम् (म.भा. [[१.१.४८]])॥"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "a मित् augment goes after the LAST vowel — it goes right after the last vowel (मिदचोऽन्त्यात्परः)",
+    "n": "7.1.58",
+    "count": 19
+   },
+   {
+    "text": "a mit augment goes after the last vowel",
+    "n": "6.1.58",
+    "count": 7
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "नुम् (carried from 7.1.58) → the augment: “नुम् आगमः” (carried in) · प्रथमावृत्तिः: “नुमागमो भवति” — also: नुम्: mit augment → it goes right after the last vowel (मिदचोऽन्त्यात्परः)",
+    "n": "7.1.59",
+    "count": 7
+   },
+   {
+    "text": "नुम् (carried from 7.1.58) → the augment: “नुम्” (carried in) · प्रथमावृत्तिः: “नुमागमो भवति” — also: नुम्: mit augment → it goes right after the last vowel (मिदचोऽन्त्यात्परः)",
+    "n": "7.1.67",
+    "count": 4
+   },
+   {
+    "text": "सृजि-दृशोः → the base: “सृज दृशिर् इत्येतयोः धात्वोः” (read from its case) · प्रथमावृत्तिः: “इत्येतयोः धात्वोरमागमो” — 1.1.49 not applicable: not the place (a prakriti) — also: सृजि-दृशोः: 6th case → names the place — the thing replaced (“स्थाने”)",
+    "n": "6.1.58",
+    "count": 1
+   },
+   {
+    "text": "ऋत्-उपधस्य → the base: “ऋदुपधस्य धातोः” (read from its case) · प्रथमावृत्तिः: “ऋकारोपधस्य धातोर्” — 1.1.49 not applicable: not the place (a prakriti) — also: ऋत्-उपधस्य: 6th case → names the place — the thing replaced (“स्थाने”)",
+    "n": "6.1.59",
+    "count": 1
+   },
+   {
+    "text": "अरुस्-द्विषस्-अजन्तस्य → the base: “अरुस्-द्विषत्-अजन्तानाम्” (read from its case) · काशिका: “अरुस् द्विषद् इत्येतयोरजन्तानां” — also: अरुस्-द्विषस्-अजन्तस्य: 6th case → names the place — the thing replaced (“स्थाने”) — also: मुम् replaces अरुस्-द्विषस्-अजन्तस्य → the replacement is treated like wha",
+    "n": "6.3.67",
+    "count": 1
+   },
+   {
+    "text": "सत्य-अगदस्य → the base: “सत्य, अगद इत्येतयोः” (read from its case) · प्रथमावृत्तिः: “सत्य, अगद इत्येतयोर्मुमागमो भवति” — also: सत्य-अगदस्य: 6th case → names the place — the thing replaced (“स्थाने”)",
+    "n": "6.3.70",
+    "count": 1
+   },
+   {
+    "text": "श्येनतिलस्य → the base: “श्येन, तिल इत्येतयोः” (read from its case) · प्रथमावृत्तिः: “श्येन तिल इत्येतयोः” — 1.1.49 not applicable: not the place (a prakriti) — also: श्येनतिलस्य: 6th case → names the place — the thing replaced (“स्थाने”)",
+    "n": "6.3.71",
+    "count": 1
+   },
+   {
+    "text": "रात्रेः → the base: “रात्रिशब्दस्य” (read from its case) · प्रथमावृत्तिः: “रात्रिशब्दस्य” — 1.1.49 not applicable: not the place (a prakriti) — also: रात्रेः: 6th case → names the place — the thing replaced (“स्थाने”)",
+    "n": "6.3.72",
+    "count": 1
+   }
+  ]
+ },
+ "1.1.48": {
+  "gloss": "",
+  "ruleText": "",
+  "generalExplanation": "",
+  "conditions": [
+   {
+    "text": "C1 — 1.1.48: when a short vowel is to replace ए/ऐ/ओ/औ, it is an इक् (इ for ए/ऐ, उ for ओ/औ). Kāśikā's examples are the 1.2.47 and 1.2.48 forms (अतिरि, अतिनु, उपगु).",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11048",
+      "quote": "एचो ह्रस्वादेशे कर्त्तव्य इगेव ह्रस्वो भवति नान्यः।"
+     },
+     {
+      "file": "kashika",
+      "id": "11048",
+      "quote": "रै — अतिरि। नौ — अतिनु ([[१.२.४७]])। गो — उपगु।"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "where the vowel is ए/ऐ/ओ/औ, its short is इ/उ, not अ — काशिका: चित्रगुः (गो → गु)",
+    "n": "1.2.48",
+    "count": 2
+   },
+   {
+    "text": "where the vowel is ए/ऐ/ओ/औ, its short is इ/उ, not अ — काशिका: अतिरि कुलम्, अतिनु कुलम् (रै → रि, नौ → नु)",
+    "n": "1.2.47",
+    "count": 1
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "ह्रस्वः → the substitute: “ह्रस्वादेशः” (read from its case) · काशिका: “ह्रस्वो भवत्यादेशो”",
+    "n": "1.2.47",
+    "count": 1
+   },
+   {
+    "text": "ह्रस्वः (carried from 1.2.47) → the substitute: “ह्रस्वः” (carried in) · प्रथमावृत्तिः: “ह्रस्वो भवति” — also: ह्रस्वः, प्रातिपदिकस्य → carried in from the sūtras named",
+    "n": "1.2.48",
+    "count": 1
+   },
+   {
+    "text": "ह्रस्वः → the substitute: “ह्रस्वः आदेशः” (read from its case) · प्रथमावृत्तिः: “ह्रस्वो भवति”",
+    "n": "7.4.59",
+    "count": 1
+   }
+  ]
+ },
+ "1.1.49": {
+  "gloss": "6th case = the thing replaced",
+  "ruleText": "षष्ठी स्थानेयोगा",
+  "generalExplanation": "a word in the 6th case in a rule names WHAT IS REPLACED — so we read “… स्थाने”",
+  "conditions": [
+   {
+    "text": "C1. Scope: a ṣaṣṭhī uttered in the śāstra (a sūtra word, or one carried by anuvṛtti) whose relation is not otherwise fixed is read as 'in the place of' (sthāna = prasaṅga). Checkable: the word must really be a 6th in function and name a sound/form of the grammar, and the relation must be word-to-word.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11049",
+      "quote": "इह शास्त्रे या षष्ठी अनियतयोगा श्रूयते, सा स्थानेयोगैव भवति नान्ययोगा।"
+     },
+     {
+      "file": "kashika",
+      "id": "11049",
+      "quote": "स्थानशब्दश्च प्रसङ्गवाची।"
+     }
+    ]
+   },
+   {
+    "text": "C2. It is a niyama: it works only where the relation would be in doubt. If another word — in the sūtra or carried by anuvṛtti — names the part actually replaced (उपधा, एच्, अच्, ह्, अभ्यास, a visarga …), the 6th of the whole is an avayava/viśeṣaṇa-ṣaṣṭhī. Test (Bhāṣya 6.4.1): a 6th that needs a link to another word is a viśeṣaṇa-ṣaṣṭhī. Carried words count: Kāśikā 6.4.35 makes शासः a place-6th only once उपधायाः has stopped. A samānādhikaraṇa qualifier of the sthānin (e.g. अनन्त्ययोः तदोः) shares its relation and is treated here as licensed.",
+    "quotes": [
+     {
+      "file": "bhashya",
+      "id": "11049",
+      "quote": "अवयवषष्ठ्यादीनां च नियमस्याप्राप्तिः। किं कारणम्? योगस्यासंदिग्धत्वात्। सन्देहे नियमः।"
+     },
+     {
+      "file": "bhashya",
+      "id": "11049",
+      "quote": "शास इदङ् हलोरिति शासेश्चान्त्यस्य स्यादुपधामात्रस्य च। ऊदुपधाया गोहः इति गोहेश्चान्त्यस्य स्यादुपधामात्रस्य च।"
+     }
+    ]
+   },
+   {
+    "text": "C3. There must be a substitute: the relation fixed is sthāni–ādeśa. Where the rule teaches no substitute (saṃjñā, atideśa, prakṛtibhāva, asiddhatva, an affix or gender rule), and for an adhikāra used only to name, 1.1.49 has no work.",
+    "quotes": [
+     {
+      "file": "nyaas",
+      "id": "11049",
+      "quote": "योगः पुनरिह स्थान्यादेशभावलक्षणः।"
+     },
+     {
+      "file": "nyaas",
+      "id": "82002",
+      "quote": "यत्र ह्रादेशो विधीयते -<<अस्तेर्भूः>> [[2.4.52]]  इत्येवमादौ तत्रास्याः परिभाषाया व्यापारः"
+     }
+    ]
+   },
+   {
+    "text": "C4. Augments: 1.1.46 (ṭit/kit) and 1.1.47 (mit) are apavādas of 1.1.49 — the 6th in an augment rule names the host, not a place to be replaced.",
+    "quotes": [
+     {
+      "file": "nyaas",
+      "id": "11046",
+      "quote": "<<षष्ठी स्थानेयोगा>> [[1.1.49]]  इत्यस्याः परिभाषाया अयमपवादः।"
+     },
+     {
+      "file": "kashika",
+      "id": "11046",
+      "quote": "आदिष्टिद् भवति अन्तःकिद् भवति षष्ठीनिर्दिष्टस्य।"
+     }
+    ]
+   },
+   {
+    "text": "C5. Anuvāda (limit, disputed): Nyāsa, Padamañjarī and Bālamanoramā on 7.3.46 say the paribhāṣā works in a vidhi, not in an anuvāda (hence 7.3.46's explicit स्थाने); Śekhara (PIS 102) rejects that jñāpaka and calls the स्थाने merely explanatory. Padamañjarī on 1.1.45 nevertheless gets the place for anuvāda यणः from 1.1.49 as adhikāra.",
+    "quotes": [
+     {
+      "file": "nyaas",
+      "id": "73046",
+      "quote": "आदेशविधौ <<अस्तेर्भूः>> [[2.4.52]]  इत्येवमादौ <<षष्ठी स्थानेयोगा>> [[1.1.49]]  इत्येषा परिभाषोपतिष्ठते, न त्वनुवादे; विधिवाक्यशेषभूतत्वादस्याः।"
+     },
+     {
+      "file": "balamanorama",
+      "id": "73046",
+      "quote": "अनुवादे परिभाषाणामनुपस्थितेः"
+     }
+    ]
+   },
+   {
+    "text": "C6. Only what is actually uttered in the 6th is bound (Śekhara PIS 12, derived from 1.1.49): a place that is only inferred or supplied by commentary is not covered without more.",
+    "quotes": [
+     {
+      "file": "paribhashendushekhar",
+      "id": "12",
+      "quote": "षष्ठ्यन्तं निर्दिश्यमानम् = उच्चार्यमाणमुच्चार्यमाणसजातीयमेव, निर्दिश्यमानावयवरूपमेव वा स्थानेन स्थाननिरूपितसम्बन्धेन युज्यते, न तु प्रतीयमानमित्यर्थः।"
+     }
+    ]
+   },
+   {
+    "text": "C7. Doubling: in the 6.1 dvitva section dvirvacana is repeated utterance (no substitution); in the 8.1 and 8.4 sections it is substitution ('सर्वस्य स्थाने द्वे').",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "61001",
+      "quote": "द्विःप्रयोगश्च द्विर्वचनमिदम्, आवृत्तिसंख्या हि द्वे इति विधीयते। तेन स एव शब्दो द्विरुच्चार्यते, न च शब्दान्तरं तस्य स्थाने विधीयते॥"
+     },
+     {
+      "file": "balamanorama",
+      "id": "61008",
+      "quote": "द्विः प्रयोग एवात्र विधीयते, न स्थानषष्ठीमाश्रित्यादेशपक्ष इति प्रकृतसूत्रभाष्ये प्रपञ्चितम्"
+     }
+    ]
+   },
+   {
+    "text": "C8. Tripādī: asiddhatva does not block 1.1.49 for the 6ths of 8.2–8.4 (Kāśikā 8.2.1). The carried पदस्य (8.1.16) is a place-6th where the pada itself is replaced (Nyāsa, e.g. संयोगान्तस्य लोपः) but only a qualifier of the thing operated on elsewhere (Padamañjarī).",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "82001",
+      "quote": "तेषां <<षष्ठी स्थानेयोगा>> [[१.१.४९]], <<तस्मिन्निति निर्दिष्टे पूर्वस्य>> [[१.१.६६]], <<तस्मादित्युत्तरस्य>> [[१.१.६७]] इति च कर्तव्ये नासिद्धत्वं भवति।"
+     },
+     {
+      "file": "nyaas",
+      "id": "81016",
+      "quote": "`पदस्य` इत्येषा स्थानषष्ठी।"
+     }
+    ]
+   },
+   {
+    "text": "C9. Samprasāraṇa (open point): Kāśikā glosses X-स्य सम्प्रसारणम् as 'ik in place of yaṇ'; the yaṇ place comes from 1.1.45.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "61013",
+      "quote": "यणः स्थान इग् भवतीत्यर्थः।"
+     },
+     {
+      "file": "kashika",
+      "id": "11045",
+      "quote": "इग्यो यणः स्थाने भूतो भावी वा तस्य संप्रसारणमित्येषा संज्ञा भवति।"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "a word in the 6th case in a rule names WHAT IS REPLACED — so we read “… स्थाने”",
+    "n": "1.1.4",
+    "count": 624
+   },
+   {
+    "text": "a word in the 6th case in a rule names WHAT IS REPLACED — so we read “… स्थाने” — names the place — the thing replaced (“स्थाने”)",
+    "n": "2.4.37",
+    "count": 76
+   },
+   {
+    "text": "a word in the 6th case in a rule names WHAT IS REPLACED — so we read “… स्थाने” — names the place — both sounds are replaced (“स्थाने”)",
+    "n": "6.1.102",
+    "count": 5
+   },
+   {
+    "text": "षष्ठी स्थाने carried from 1.1.49",
+    "n": "1.1.51",
+    "count": 2
+   },
+   {
+    "text": "इकः is 6th case → the place: guṇa/vṛddhi come in place of an इक् vowel",
+    "n": "1.1.3",
+    "count": 1
+   },
+   {
+    "text": "एचः is 6th case → in place of एच् (ए ओ ऐ औ)",
+    "n": "1.1.48",
+    "count": 1
+   },
+   {
+    "text": "स्थाने: where there is a place (several replacements possible)",
+    "n": "1.1.50",
+    "count": 1
+   },
+   {
+    "text": "षष्ठी स्थाने carried from 1.1.49 → षष्ठीनिर्दिष्टस्य … स्थाने",
+    "n": "1.1.52",
+    "count": 1
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "the place is named in the 6th → the operation replaces it (“स्थाने”, often left unsaid in the gloss)",
+    "n": "1.2.48",
+    "count": 101
+   },
+   {
+    "text": "लिटः → what is replaced: “लिटः स्थाने” (read from its case) · प्रथमावृत्तिः: “लिटः स्थाने”",
+    "n": "3.2.106",
+    "count": 54
+   },
+   {
+    "text": "मेः → what is replaced: “मिपः स्थाने” (read from its case) · प्रथमावृत्तिः: “मिपः स्थाने” — also: नि replaces मेः → the replacement is treated like what it replaced (e.g. a तिङ् replacing a तिङ् is still तिङ् )",
+    "n": "3.4.89",
+    "count": 25
+   },
+   {
+    "text": "मनोः → what is replaced: “मनुशब्दात्” (read from its case) · प्रथमावृत्तिः: “मनुशब्दात्”",
+    "n": "4.1.38",
+    "count": 24
+   },
+   {
+    "text": "काकुदस्य → what is replaced: “काकुदशब्दस्य” (read from its case) · प्रथमावृत्तिः: “काकुद् शब्दस्तस्य”",
+    "n": "5.4.148",
+    "count": 16
+   },
+   {
+    "text": "उत्तरस्य: 6th case → names the place — the thing replaced (“स्थाने”)",
+    "n": "3.1.47",
+    "count": 15
+   },
+   {
+    "text": "अचः → what is replaced: “अचः स्थाने” (read from its case) · प्रथमावृत्तिः: “परनिमित्तकोऽजादेशः”",
+    "n": "1.1.57",
+    "count": 14
+   },
+   {
+    "text": "इदमः → what is replaced: “इदंशब्दस्य” (read from its case) · प्रथमावृत्तिः: “अन्वादेशे वर्त्तमानस्य इदंशब्दस्य”",
+    "n": "2.4.32",
+    "count": 14
+   }
+  ]
+ },
+ "1.1.50": {
+  "gloss": "the replacement is the NEAREST in kind",
+  "ruleText": "स्थानेऽन्तरतमः",
+  "generalExplanation": "the substitute chosen is the NEAREST in articulation",
+  "conditions": [
+   {
+    "text": "C1 — 1.1.50: when a substitute is due, the most similar (sadṛśatama) one comes.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11050",
+      "quote": "स्थाने प्राप्यमाणानामन्तरतम आदेशो भवति सदृशतमः।"
+     },
+     {
+      "file": "kaumudi",
+      "id": "11050",
+      "quote": "प्रसङ्गे सति सदृशतम आदेशः स्यात् ।"
+     }
+    ]
+   },
+   {
+    "text": "C2 — It works only where one sthānin could get several substitutes; it picks among them. So it needs an actual substitution with more than one candidate — not a prohibition, not a single named substitute.",
+    "quotes": [
+     {
+      "file": "balamanorama",
+      "id": "11050",
+      "quote": "एकस्य स्थानिनोऽनेकादेशप्रसङ्गे सति यः स्थानार्थगुणप्रमाणतः स्थानिना सदृशतमः स एवादेशो भवतीत्यर्थः ।"
+     }
+    ]
+   },
+   {
+    "text": "C3 — Nearness is by place, meaning, quality (prayatna) and measure; place is strongest. Kāśikā examples: 6.1.101, 6.3.34 (puṃvat), 7.3.52, 8.2.80, 8.4.62; guṇa चेता/स्तोता.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11050",
+      "quote": "कुतश्च शब्दस्यान्तर्यम्? स्थानार्थगुणप्रमाणतः।"
+     },
+     {
+      "file": "kashika",
+      "id": "11050",
+      "quote": "द्वयोरकारयोः कण्ठ्य एव दीर्घ आकारो भवति।"
+     }
+    ]
+   },
+   {
+    "text": "C4 — Commentators use 1.1.50 instead of 1.3.10 to pair a list of sthānins with a list of substitutes where the counts or classes do not match.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "82037",
+      "quote": "अत्र चत्वारो बशः स्थानिनो भषादेशाश्चत्वार एव, तत्र संख्यातानुदेशे प्राप्ते डकारस्य स्थानिनोऽभावात् ढकारादेशो न भवति? आन्तर्यतो व्यवस्था विज्ञास्यते।"
+     },
+     {
+      "file": "tattvabodhini",
+      "id": "64077",
+      "quote": "इ उ इत्यष्टादशानां संज्ञे त्युक्तत्वाद्यथासङ्ख्यमिहन न प्रवर्तते, इत्याह — आन्तरतम्यादिति ।"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "the substitute chosen is the NEAREST in articulation — each sound is replaced by the NEAREST sound of the group (sound for sound)",
+    "n": "6.1.77",
+    "count": 12
+   },
+   {
+    "text": "the replacement is the NEAREST in kind",
+    "n": "1.1.51",
+    "count": 2
+   },
+   {
+    "text": "the short replacement would by nearness be अ; this sūtra restricts it to an इक्",
+    "n": "1.1.48",
+    "count": 1
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "गुण replaces a vowel → the nearest guṇa/vṛddhi sound is chosen",
+    "n": "6.4.146",
+    "count": 48
+   },
+   {
+    "text": "जश् → the substitute: “जश् आदेशः” (read from its case) · प्रथमावृत्तिः: “जश् आदेशो भवति” — also: जश् for each sound of the place → each sound is replaced by the NEAREST sound of the group (sound for sound) — also: जश् replaces झलाम् → the replacement is treated like what it replaced (e.g. a तिङ् rep",
+    "n": "8.4.53",
+    "count": 2
+   },
+   {
+    "text": "चर् (carried from 8.4.54) → the substitute: “चर् आदेशः” (carried in) · प्रथमावृत्तिः: “चर् आदेशो भवति” — also: झलाम्, चर्, पूर्वत्रासिद्धम्, संहितायाम् → carried in from the sūtras named — also: चर् for each sound of the place → each sound is replaced by the NEAREST sound of the group (sound for sou",
+    "n": "8.4.55",
+    "count": 2
+   },
+   {
+    "text": "the short replacement would by nearness be अ; this sūtra restricts it to an इक्",
+    "n": "1.1.48",
+    "count": 1
+   },
+   {
+    "text": "ऋ takes र् after it, ऌ takes ल् — in order (नैलेश-वृत्तिः: यथासङ्ख्यम्)",
+    "n": "1.1.51",
+    "count": 1
+   },
+   {
+    "text": "यण् → the substitute: “यणादेशः” (read from its case) · प्रथमावृत्तिः: “यणादेशो” — also: यण् for each sound of the place → each sound is replaced by the NEAREST sound of the group (sound for sound) — also: यण् replaces इकः → the replacement is treated like what it replaced (e.g. a तिङ् replacing a ति",
+    "n": "6.1.77",
+    "count": 1
+   },
+   {
+    "text": "य्वोः → what is replaced: “इवर्णोवर्णयोः स्थाने” (read from its case) · प्रथमावृत्तिः: “इवर्णोवर्णान्तधातोः”",
+    "n": "6.4.77",
+    "count": 1
+   },
+   {
+    "text": "इयङ्-उवङौ → the substitute: “इयङ् उवङ् आदेशौ” (read from its case) · प्रथमावृत्तिः: “इयङ् उवङ् इत्येतावादेशौ” — also: इयङ्-उवङौ: ṭit augment → it goes at the BEGINNING of the place — also: य्वोः and इयङ्-उवङौ: 2 members each → they pair up in order (यथासङ्ख्यम्)",
+    "n": "6.4.77",
+    "count": 1
+   }
+  ]
+ },
+ "1.1.51": {
+  "gloss": "an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)",
+  "ruleText": "उरण् रपरः",
+  "generalExplanation": "ऋ replaced by a / i / u comes with र्",
+  "conditions": [
+   {
+    "text": "C1 — An अण् that comes in place of ऋ (ऋ standing for ऋ/ॠ/ऌ) comes with र् (ल् for ऌ) after it, at the moment it is enjoined.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11051",
+      "quote": "उः स्थानेऽण् प्रसज्यमान एव रपरो वेदितव्यः।"
+     },
+     {
+      "file": "kaumudi",
+      "id": "11051",
+      "quote": "तत्स्थाने योऽण् स रपरः सन्नेव प्रवर्तते ।"
+     }
+    ]
+   },
+   {
+    "text": "C2 — The sthānin must be ऋ; elsewhere nothing is added. Kāśikā examples: कर्ता, हर्ता (guṇa), किरति, गिरति (7.1.100), द्वैमातुरः (4.1.115).",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11051",
+      "quote": "उरिति किम्? खेयम्। गेयम्।"
+     },
+     {
+      "file": "kashika",
+      "id": "11051",
+      "quote": "कर्ता। हर्ता। किरति। गिरति। द्वैमातुरः। त्रैमातुरः।"
+     }
+    ]
+   },
+   {
+    "text": "C3 — अण् is the earlier अण् (अ इ उ), so a substitute like र् (yaṇ) or ऋ itself takes nothing.",
+    "quotes": [
+     {
+      "file": "balamanorama",
+      "id": "64003",
+      "quote": "वस्तुतस्तु 'उरण्रपरः' इत्यत्राऽजिति वक्तव्ये अण्ग्रहणसामर्थ्दाण्पूर्वेणैवेत्युक्तं भाष्ये ।"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [],
+  "stepTexts": [
+   {
+    "text": "when the vowel replaced is ऋ/ऌ → it comes with र्/ल् (अर्, आर्, अल्)",
+    "n": "7.2.1",
+    "count": 28
+   }
+  ]
+ },
+ "1.1.52": {
+  "gloss": "a replacement replaces the LAST sound",
+  "ruleText": "अलोऽन्त्यस्य",
+  "generalExplanation": "a substitute replaces only the LAST sound",
+  "conditions": [
+   {
+    "text": "C1 — What 1.1.52 does: a substitute taught for something named in the 6th case (sthāna-ṣaṣṭhī) replaces only the LAST sound (al) of it. Its work is to pick ONE sound out of a longer whole (KV example इद् गोण्याः; BM/TB example त्यदादीनामः → यः, सः).",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11052",
+      "quote": "षष्ठीनिर्दिष्टस्य य उच्यत आदेशः, सोऽन्त्यस्यालः स्थाने वेदितव्यः।"
+     },
+     {
+      "file": "kaumudi",
+      "id": "11052",
+      "quote": "षष्ठीनिर्दिष्टस्यान्त्यस्याल आदेशः स्यात्"
+     }
+    ]
+   },
+   {
+    "text": "C2 — Only for a sthāna-ṣaṣṭhī and only for substitutes: augments (ṭit/kit/mit) are explicitly outside it (they are placed by 1.1.46/1.1.47).",
+    "quotes": [
+     {
+      "file": "bhashya",
+      "id": "11052",
+      "quote": "इतरथा ह्यनिष्टं प्रसज्येत। टित्किन्मितोऽप्यन्त्यस्य स्युः।"
+     },
+     {
+      "file": "tattvabodhini",
+      "id": "11052",
+      "quote": "स्थानषष्ठीति किम् ,आर्धधातुकस्यैट् तृच् ऋकारात्पूर्वो मा भूत् ।"
+     }
+    ]
+   },
+   {
+    "text": "C3 — The substitute must be ONE sound. A substitute of several sounds, or a śit, replaces the WHOLE (1.1.55, the apavāda of 1.1.52; it also beats 1.1.54); a ṅit substitute of several sounds goes on the last sound by 1.1.53. it-markers do not count as sounds (नानुबन्धकृतमनेकाल्त्वम्).",
+    "quotes": [
+     {
+      "file": "nyaas",
+      "id": "11052",
+      "quote": "आदेशः पुनरत्रैकाल्लभ्यते।"
+     },
+     {
+      "file": "kashika",
+      "id": "11055",
+      "quote": "अनेकाल् य आदेशः शिच् च, स सर्वस्य षष्ठीनिर्दिष्टस्य स्थाने भवति।"
+     }
+    ]
+   },
+   {
+    "text": "C4 — After a 5th-case word the operation is on the FIRST sound of what follows (1.1.54, apavāda of 1.1.52).",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11054",
+      "quote": "परस्य कार्यं शिष्यमाणमादेरलः प्रत्येतव्यम्"
+     },
+     {
+      "file": "kashika",
+      "id": "11054",
+      "quote": "क्व च परस्य कार्यं शिष्यते? यत्र पञ्चमीनिर्देशः।"
+     }
+    ]
+   },
+   {
+    "text": "C5 — If the place is itself named as one sound (a varṇa/pratyāhāra in the 6th, carried or own: विसर्जनीयस्य, निष्ठातकारस्य, एचः, इटः, the य of a suffix …) or by a position word (उपधायाः, आदेः, अनन्त्यस्य, टेः), 1.1.52 decides nothing. The Bhāṣya (quoted by Nāgeśa) says of the visarga case वृक्षस्तत्र that “निर्दिश्यमानस्येत्येव सिद्धम्”; the Kāśikā repeatedly gives a place word the purpose “अलोऽन्त्यस्य मा भूत्”.",
+    "quotes": [
+     {
+      "file": "paribhashendushekhar",
+      "id": "12",
+      "quote": "अयोगवहानामुपदेशेऽलोन्त्यविधिः प्रयोजनम् । वृक्षस्तत्र, नैतदस्ति प्रयोजनम्, निर्दिश्यमानस्येत्येव सिद्धम्"
+     },
+     {
+      "file": "kashika",
+      "id": "64089",
+      "quote": "उपाधाया इति किम् ? अलोऽन्त्यस्य [[१.१.५२]] मा भूत्।"
+     }
+    ]
+   },
+   {
+    "text": "C6 — Exception “नानर्थकेऽलोऽन्त्यविधिरनभ्यासविकारे” (PIS 105): when the named place is a meaningless piece (ति of विंशति, इद् of इदम्, न of स्तेन) 1.1.52 does not apply and the whole piece goes; abhyāsa changes are excepted from the exception (so 1.1.52 does apply to the abhyāsa).",
+    "quotes": [
+     {
+      "file": "paribhashendushekhar",
+      "id": "105",
+      "quote": "नानर्थकेऽलोन्त्यविधिरनभ्यासविकारे"
+     },
+     {
+      "file": "balamanorama",
+      "id": "64142",
+      "quote": "अलोऽन्त्यस्ये॑ति न भवति,नानर्थकेऽलोऽन्त्यविधि॑रित्युक्तेः"
+     }
+    ]
+   },
+   {
+    "text": "C7 — ह्रस्व/दीर्घ/प्लुत (and guṇa/vṛddhi through 1.1.3) on a named whole: 1.2.28 makes the ac the place. When the sound QUALIFIES the whole (अजन्तस्य, इगन्तस्य …: tadanta) the 6th is sthāna-ṣaṣṭhī of the whole and 1.1.52 takes its last sound; when the vowel is medial (शाम्यति, क्रामति, ऊह्), the reading is “the ac of X” and 1.1.52 has no role.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "12028",
+      "quote": "ह्रस्वदीर्घप्लुताः स्वसंज्ञया शिष्यमाणा अच एव स्थाने वेदितव्याः।"
+     },
+     {
+      "file": "nyaas",
+      "id": "12028",
+      "quote": "अचा तु प्रातिपदिके विशिष्यमाणे प्रातिपदिकस्यैवेत्येषा स्थानषष्ठी भवति, न चावयवषष्ठी, तेनालोऽन्त्यस्यैवाचो ह्रस्वो भवति।"
+     }
+    ]
+   },
+   {
+    "text": "C8 — लोप is a substitute and does take 1.1.52 (उ of सुनु in सुन्वः), but लुक् is the non-appearance of the WHOLE suffix (1.1.61); a sūtra says लुक् precisely to get the whole.",
+    "quotes": [
+     {
+      "file": "nyaas",
+      "id": "64107",
+      "quote": "तत्र ह्रुकारमात्रस्य लोपः <<अलोऽन्त्यस्य>> [[1.1.52]]  इति वचनात्।"
+     },
+     {
+      "file": "kashika",
+      "id": "11061",
+      "quote": "प्रत्ययादर्शनस्य लुक्, श्लु, लुप् इत्येताः संज्ञा भवन्ति।"
+     }
+    ]
+   },
+   {
+    "text": "C9 — संप्रसारण is an इक् in place of a यण् (1.1.45); the यण् is the place by definition, so 1.1.52 does not operate (BM on वाह ऊठ्).",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11045",
+      "quote": "इग्यो यणः स्थाने भूतो भावी वा तस्य संप्रसारणमित्येषा संज्ञा भवति।"
+     },
+     {
+      "file": "balamanorama",
+      "id": "61108",
+      "quote": "संप्रसारणमित्यननुवृत्तौ 'अलोऽन्त्यस्य' इति हकारस्य स्यात् । तदनुवृत्तौ तु ऊठो यण्स्थानिकत्वूलाभान्नालोऽन्त्यस्येति भवति"
+     }
+    ]
+   },
+   {
+    "text": "C10 — Prohibitions, prakṛti-bhāva, nipātana and suffix rules teach no substitute, so 1.1.52 decides nothing in them. A commentator NAMING 1.1.52 — as the unwanted consequence (“… स्यात्”), the purpose of a word (“… मा भूत्”), an analogy, or about another rule — is not applying it; a stated denial is a ✖.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "13009",
+      "quote": "\"तस्य\"ग्रहणं सर्वलोपार्थम्। <<अलोऽन्त्यस्य>> [[१.१.५२]] मा भूत्"
+     },
+     {
+      "file": "bhashya",
+      "id": "81001",
+      "quote": "अलोऽन्त्यस्य विधयो भवन्तीत्यन्त्यस्य द्विर्वचनं मा भूदिति॥"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "a replacement replaces the LAST sound",
+    "n": "6.1.131",
+    "count": 11
+   },
+   {
+    "text": "a substitute replaces only the LAST sound — it replaces the LAST sound",
+    "n": "6.3.91",
+    "count": 6
+   },
+   {
+    "text": "a substitute replaces only the LAST sound — replaces the LAST sound of the dhātu",
+    "n": "3.1.108",
+    "count": 2
+   },
+   {
+    "text": "the rule it adjusts: अलोऽन्त्यस्य (1.1.52) — a ङित् substitute goes on the last sound even if it has several sounds, not on the whole (1.1.55)",
+    "n": "1.1.53",
+    "count": 1
+   },
+   {
+    "text": "अन्तादेशः: the ऐ replaces only the last sound of the stem (अलोऽन्त्यस्य)",
+    "n": "4.1.37",
+    "count": 1
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "इ: a single sound → it replaces the LAST sound",
+    "n": "1.2.50",
+    "count": 64
+   },
+   {
+    "text": "the place is a whole aṅga/dhātu and the replacement is one sound → it replaces the LAST sound → अन्त्यस्य अलः",
+    "n": "6.4.2",
+    "count": 55
+   },
+   {
+    "text": "कु: more than one sound → it replaces the WHOLE of the place",
+    "n": "8.2.62",
+    "count": 7
+   },
+   {
+    "text": "आ → the substitute: “आकारः” (read from its case) · प्रथमावृत्तिः: “आकारादेशो भवति” — also: आ: a single sound → it replaces the LAST sound",
+    "n": "6.3.91",
+    "count": 3
+   },
+   {
+    "text": "त → the substitute: “तकारः अन्तादेशः” (read from its case) · प्रथमावृत्तिः: “तकारश्चान्तादेशः” — also: त: a single-sound replacement → replaces the LAST sound of the dhātu",
+    "n": "3.1.108",
+    "count": 2
+   },
+   {
+    "text": "उत् → the substitute: “उकारादेशः” (read from its case) · प्रथमावृत्तिः: “उकारादेशो भवति” — also: उत्: more than one sound → it replaces the WHOLE of the place — also: उत् replaces दिवः → the replacement is treated like what it replaced (e.g. a तिङ् replacing a तिङ् is still तिङ् )",
+    "n": "6.1.131",
+    "count": 2
+   },
+   {
+    "text": "the rule it adjusts: अलोऽन्त्यस्य (1.1.52) — a ङित् substitute goes on the last sound even if it has several sounds, not on the whole (1.1.55)",
+    "n": "1.1.53",
+    "count": 1
+   },
+   {
+    "text": "अन्तादेशः: the ऐ replaces only the last sound of the stem (अलोऽन्त्यस्य)",
+    "n": "4.1.37",
+    "count": 1
+   }
+  ]
+ },
+ "1.1.53": {
+  "gloss": "a ङित् replacement replaces only the last sound, even if it has several sounds",
+  "ruleText": "ङिच्च",
+  "generalExplanation": "a ङित् substitute replaces only the last sound",
+  "conditions": [
+   {
+    "text": "C1 — 1.1.53 ङिच्च: a ṅit substitute (ādeśa), even one of several sounds, replaces only the LAST sound of the sthānin. It is the apavāda of 1.1.55 (sarvādeśa). Scope = a substitute that carries the anubandha ङ् and replaces a 6th-case sthānin of more than one sound.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11053",
+      "quote": "ङिच्च य आदेशः, सोऽनेकालपि अलोऽन्त्यस्य स्थाने भवति।"
+     },
+     {
+      "file": "kaumudi",
+      "id": "11053",
+      "quote": "अयमप्यन्त्यस्यैव स्यात् ।"
+     }
+    ]
+   },
+   {
+    "text": "C2 — Where the ङ् has another job (e.g. तातङ् 7.1.35, whose ङ् blocks guṇa/vṛddhi), 1.1.53 is set aside and 1.1.55 makes the substitute replace the whole.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11053",
+      "quote": "तातङि ङित्करणस्य गुणवृद्धिप्रतिषेधार्थत्वात् सर्वादेशस्तातङ् भवति।"
+     },
+     {
+      "file": "padamanjari",
+      "id": "41078",
+      "quote": "यत्र हि ङ्कारस्य प्रयोजनान्तरमपि सम्भाव्यते तत्र'ङ्च्चि'  इत्येतदनन्यार्थङ्त्वेष्विनङदिषु सावकाशं बाधित्वा ठनेकाल्शित्सर्वस्यऽ इत्येतद्भवति, यथा तातङ्"
+     }
+    ]
+   },
+   {
+    "text": "C3 — The string \"ङिच्च\" also occurs in texts that have nothing to do with 1.1.53: the Bhāṣya maxim \"ङिच्च पिन्न\" (a ṅit [sārvadhātuka] is not pit, and vice versa), the words of 3.4.103 यासुट् … ङिच्च (yāsuṭ is ṅit), and the uṇādi sūtra context of सखि. A commentator quoting any of these is not invoking 1.1.53.",
+    "quotes": [
+     {
+      "file": "bhashya",
+      "id": "31083",
+      "quote": "तस्माद्वक्तव्यं पिन्न ङिद्भवति ङिच्च पिन्न भवतीति"
+     },
+     {
+      "file": "kashika",
+      "id": "34103",
+      "quote": "परस्मैपदविषयस्य लिङो यासुडागमो भवति, स चोदात्तो भवति, ङिच्च।"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "अकङ् is ङित्: though it has several sounds it replaces only the last sound (not the whole, as 1.1.55 would have it)",
+    "n": "4.1.97",
+    "count": 14
+   },
+   {
+    "text": "a ङित् replacement replaces only the last sound, even if it has several sounds",
+    "n": "5.4.134",
+    "count": 5
+   },
+   {
+    "text": "इयङ्-उवङ is ङित्: though it has several sounds it replaces only the last sound (not the whole, as 1.1.55 would have it)",
+    "n": "6.4.77",
+    "count": 2
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "अवङ् → the substitute: “अवङ् आदेशः” (read from its case) · प्रथमावृत्तिः: “गोरवङादेशो भवति” — also: अवङ्: more than one sound → it replaces the WHOLE of the place",
+    "n": "6.1.123",
+    "count": 2
+   },
+   {
+    "text": "the place is a whole aṅga/dhātu and the replacement is one sound → it replaces the LAST sound → अन्त्यस्य अलः",
+    "n": "6.4.77",
+    "count": 2
+   },
+   {
+    "text": "नुम्: mit augment → it goes right after the last vowel (मिदचोऽन्त्यात्परः)",
+    "n": "7.1.75",
+    "count": 2
+   },
+   {
+    "text": "रीङ् → the substitute: “रीङ्” (read from its case) · प्रथमावृत्तिः: “रीङ् इत्ययमादेशो भवति” — also: रीङ्: more than one sound → it replaces the WHOLE of the place — also: री: the dhātu रीङ् स्रवणे (gaṇa 4) → a dhātu may be named by its इक् or श्तिप् form (इक्श्तिपौ धातुनिर्देशे); the vṛtti names it ",
+    "n": "7.4.27",
+    "count": 2
+   },
+   {
+    "text": "अकङ् → the substitute: “तस्य अकङ् आदेशः” (read from its case) · प्रथमावृत्तिः: “चाकङ् आदेशो भवति”",
+    "n": "4.1.97",
+    "count": 1
+   },
+   {
+    "text": "अनङ् → the substitute: “अनङ् आदेशः” (read from its case) · प्रथमावृत्तिः: “समासान्तोऽनङादेशो भवति”",
+    "n": "5.4.131",
+    "count": 1
+   },
+   {
+    "text": "अनङ् (carried from 5.4.131) → the substitute: “अनङ् आदेशः” (carried in) · प्रथमावृत्तिः: “समासान्तोऽनङ् आदेशो भवति”",
+    "n": "5.4.132",
+    "count": 1
+   },
+   {
+    "text": "अनङ् (carried from 5.4.131) → the substitute: “अनङ् आदेशः” (carried in)",
+    "n": "5.4.133",
+    "count": 1
+   }
+  ]
+ },
+ "1.1.54": {
+  "gloss": "after a 5th-case condition the replacement replaces the FIRST sound",
+  "ruleText": "आदेः परस्य",
+  "generalExplanation": "a substitute for what follows replaces its FIRST sound",
+  "conditions": [
+   {
+    "text": "C1 — 1.1.54: an operation taught for what FOLLOWS (a 5th-case condition, via 1.1.67) applies to its FIRST sound. Apavāda of 1.1.52.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11054",
+      "quote": "परस्य कार्यं शिष्यमाणमादेरलः प्रत्येतव्यम् ।"
+     },
+     {
+      "file": "kashika",
+      "id": "11054",
+      "quote": "क्व च परस्य कार्यं शिष्यते? यत्र पञ्चमीनिर्देशः।"
+     }
+    ]
+   },
+   {
+    "text": "C2 — 1.1.55 overrides it by paratva: a multi-sound or śit substitute replaces the whole even after a 5th-case word (अतो भिस ऐस्, अष्टाभ्य औश्, ङसोऽश्). A लुक् removes the whole suffix (1.1.61), and a samāsānta lopa takes the final, so 1.1.54 has no say there.",
+    "quotes": [
+     {
+      "file": "bhashya",
+      "id": "11054",
+      "quote": "अतो भिस ऐस्। अनेकाल्शित्सर्वस्येत्येतद् भवति विप्रतिषेधेन।"
+     },
+     {
+      "file": "kaumudi",
+      "id": "11055",
+      "quote": "अष्टाभ्य औश् <{SK372}> इत्यादौ आदेः परस्य इत्येतदपि परत्वादनेन बाध्यते"
+     }
+    ]
+   },
+   {
+    "text": "C3 — Method: commentators very often name 1.1.54 in a counterfactual (\"if the sūtra were worded otherwise, 1.1.54 would give the wrong form\"), i.e. to explain why the sūtra is worded as it is. That is a reason the rule does NOT operate, not an application.",
+    "quotes": [
+     {
+      "file": "padamanjari",
+      "id": "71027",
+      "quote": "शित्करणं सर्वादेशार्थमिति । अन्यथा आदेः परस्य इत्यादेः स्यात् ।"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "the ई replaces the first sound of अप् after द्वि/अन्तर्/an upasarga — BM",
+    "n": "6.3.97",
+    "count": 1
+   },
+   {
+    "text": "the ऊ replaces the first sound of अप् — BM",
+    "n": "6.3.98",
+    "count": 1
+   },
+   {
+    "text": "on the reading of हलः as a 5th case, the य् right after the consonant is elided — KV: “हल इति वा पञ्चमीनिर्देशः, तत्र आदेः परस्य इति यकारोऽनेन लुप्यते”",
+    "n": "6.4.49",
+    "count": 1
+   },
+   {
+    "text": "the elision takes the first sound of क्य after the consonant — SK",
+    "n": "6.4.50",
+    "count": 1
+   },
+   {
+    "text": "the elision takes the first sound of इष्ठ/इमन्/ईयस् after बहु — BM: “प्रत्ययोरादिलोपः”",
+    "n": "6.4.158",
+    "count": 1
+   },
+   {
+    "text": "the elision takes the first sound of इष्ठ after बहु — BM",
+    "n": "6.4.159",
+    "count": 1
+   },
+   {
+    "text": "आ replaces the first sound of ईयस् after ज्य — SK",
+    "n": "6.4.160",
+    "count": 1
+   },
+   {
+    "text": "न् replaces the first sound of शस् after युष्मद्/अस्मद् — SK",
+    "n": "7.1.29",
+    "count": 1
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "व्: a single sound → it replaces the LAST sound",
+    "n": "8.2.9",
+    "count": 4
+   },
+   {
+    "text": "उदः is 5th case, so the substitute takes the first sound of what follows — the स् of स्था/स्तम्भ (उत्थानम्)",
+    "n": "8.4.61",
+    "count": 1
+   }
+  ]
+ },
+ "1.1.55": {
+  "gloss": "a multi-sound / śit replacement replaces the whole",
+  "ruleText": "अनेकाल्शित्सर्वस्य",
+  "generalExplanation": "a substitute of more than one sound (or शित्) replaces the WHOLE",
+  "conditions": [
+   {
+    "text": "C1 — What 1.1.55 says: a substitute (ādeśa) that has more than one sound (anekāl), or that is śit, replaces the WHOLE of the sthānin named in the 6th case. It is the apavāda of 1.1.52 अलोऽन्त्यस्य (single last sound). Scope = a substitution of a 6th-case sthānin; an augment, a new suffix, a nipātana, an atideśa, a prohibition, or a number/gender/case rule is outside it.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11055",
+      "quote": "अनेकाल् य आदेशः शिच् च, स सर्वस्य षष्ठीनिर्दिष्टस्य स्थाने भवति।"
+     },
+     {
+      "file": "kashika",
+      "id": "11055",
+      "quote": "<<अस्तेर्भूः>> [[२.४.५२]] — भविता।"
+     }
+    ]
+   },
+   {
+    "text": "C2 — \"More than one sound\" is counted AFTER the anubandhas (it-letters) are removed: नानुबन्धकृतमनेकाल्त्वम्, made known by the separate mention of śit in 1.1.55. So तृ (= त्), उत् (= उ, the त् only marks tapara), अङ् (= अ), सिच् (= स्) are single-sound substitutes and replace only the last sound (1.1.52) unless the sthānin is itself one sound. The sources name 6.4.127 अर्वणस्तृ and 6.1.131 दिव उत् as places with NO sarvādeśa.",
+    "quotes": [
+     {
+      "file": "bhashya",
+      "id": "11055",
+      "quote": "भवत्येषा परिभाषा नानुबन्धकृतमनेकाल्त्वं भवतीति"
+     },
+     {
+      "file": "paribhashendushekhar",
+      "id": "6",
+      "quote": "शिद्ग्रहणमेवैतज्ज्ञापकम् । तेन <<अर्वणस्तृ>> [[6.4.127]] इत्यादेर्न सर्वादेशत्वम् ।"
+     }
+    ]
+   },
+   {
+    "text": "C3 — Exception to C2 for an INITIAL it-letter that is an it only because the substitute is a pratyaya (चुटू 1.3.7, लशक्वतद्धिते 1.3.8, षः प्रत्ययस्य 1.3.6): when the substitute is enjoined it is not yet a pratyaya, so that letter still counts, the substitute is anekāl and replaces the whole; only then does the letter become an it. Stated for डा (2.4.85) and णल् (3.4.82).",
+    "quotes": [
+     {
+      "file": "paribhashendushekhar",
+      "id": "6",
+      "quote": "डादिविषये तु सर्वादेशत्वं विनानुबन्धत्वस्यैवाभावेनानुपूर्व्यात्सिद्धम्"
+     },
+     {
+      "file": "padamanjari",
+      "id": "34082",
+      "quote": "न ह्ययं णल्विधानसमये प्रत्यय इत्यनित्वाद् णकारस्यानेकालत्वात्सर्वादेशः, ततो णकारस्योत्संज्ञेत्यानुपूर्व्यात्सिद्धम्"
+     }
+    ]
+   },
+   {
+    "text": "C4 — 1.1.53 ङिच्च: a ṅit substitute, even of many sounds, takes only the last sound; it is the apavāda of 1.1.55. But where the ṅ has another purpose (e.g. तातङ् 7.1.35, whose ṅ blocks guṇa/vṛddhi), 1.1.55 prevails by vipratiṣedha and the substitute replaces the whole.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11053",
+      "quote": "ङिच्च य आदेशः, सोऽनेकालपि अलोऽन्त्यस्य स्थाने भवति।"
+     },
+     {
+      "file": "kaumudi",
+      "id": "11053",
+      "quote": "अयमप्यन्त्यस्यैव स्यात् । सर्वस्य <{SK45}> इत्यस्यापवादः ॥"
+     }
+    ]
+   },
+   {
+    "text": "C5 — 1.1.54 आदेः परस्य vs 1.1.55: when the sthānin follows a 5th-case word AND the substitute is anekāl/śit, 1.1.55 wins by paratva — the whole is replaced (अतो भिस ऐस्, अष्टाभ्य औश्).",
+    "quotes": [
+     {
+      "file": "bhashya",
+      "id": "11054",
+      "quote": "अतो भिस ऐस्। अनेकाल्शित्सर्वस्येत्येतद् भवति विप्रतिषेधेन।"
+     },
+     {
+      "file": "kaumudi",
+      "id": "11055",
+      "quote": "अष्टाभ्य औश् <{SK372}> इत्यादौ आदेः परस्य इत्येतदपि परत्वादनेन बाध्यते"
+     }
+    ]
+   },
+   {
+    "text": "C6 — When the sthānin is itself a single sound (e.g. च्लि = ल्, since its इ is for pronunciation and its च् an anubandha; ल् of the lakāras; एच्; णि = इ), any substitute replaces \"the whole\" trivially. 1.1.55 then decides nothing; its condition may still hold (anekāl substitute) — such credits are counted licensed but redundant.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "31043",
+      "quote": "इकार उच्चारणार्थः, चकारः स्वरार्थः।"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "a substitute of more than one sound (or शित्) replaces the WHOLE — it replaces the WHOLE of the place",
+    "n": "2.4.37",
+    "count": 131
+   },
+   {
+    "text": "a multi-sound / śit replacement replaces the whole",
+    "n": "7.1.35",
+    "count": 1
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "जग्धि: more than one sound → it replaces the WHOLE of the place",
+    "n": "2.4.36",
+    "count": 31
+   },
+   {
+    "text": "गा → the substitute: “गा आदेशः” (read from its case) · काशिका: “गा इत्ययमादेशो भवति” — also: गा: more than one sound → it replaces the WHOLE of the place — also: गा replaces इणः → the replacement is treated like what it replaced (e.g. a तिङ् replacing a तिङ् is still तिङ् )",
+    "n": "2.4.45",
+    "count": 28
+   },
+   {
+    "text": "णल्: a single sound → it replaces the LAST sound",
+    "n": "3.4.82",
+    "count": 24
+   },
+   {
+    "text": "गमिः → the substitute: “गमिः आदेशः” (read from its case) · काशिका: “गमिरादेशो भवति” — also: गमिः: more than one sound → it replaces the WHOLE of the place",
+    "n": "2.4.46",
+    "count": 10
+   },
+   {
+    "text": "समि → the substitute: “समि” (read from its case) · प्रथमावृत्तिः: “समि इत्ययमादेशो भवति” — also: समि: more than one sound → it replaces the WHOLE of the place — also: समि replaces समः → the replacement is treated like what it replaced (e.g. a तिङ् replacing a तिङ् is still तिङ् )",
+    "n": "6.3.93",
+    "count": 7
+   },
+   {
+    "text": "तिप् etc.: more than one sound → it replaces the WHOLE of the place",
+    "n": "3.4.78",
+    "count": 6
+   },
+   {
+    "text": "वध → the substitute: “वध-आदेशः” (read from its case) · प्रथमावृत्तिः: “वध आदेशो भवति” — also: वध: more than one sound → it replaces the WHOLE of the place — also: वध replaces हनः → the replacement is treated like what it replaced (e.g. a तिङ् replacing a तिङ् is still तिङ् )",
+    "n": "2.4.42",
+    "count": 5
+   },
+   {
+    "text": "पद् → the substitute: “पद् आदेशः” (read from its case) · प्रथमावृत्तिः: “'पद्' इत्ययमादेशो भवति” — also: पद्: more than one sound → it replaces the WHOLE of the place",
+    "n": "6.3.53",
+    "count": 5
+   }
+  ]
+ },
+ "1.1.56": {
+  "gloss": "the replacement is treated like the replaced (sthānivat), except in single-sound rules",
+  "ruleText": "स्थानिवदादेशोऽनल्विधौ",
+  "generalExplanation": "a substitute behaves like the original (except in a rule about single sounds)",
+  "conditions": [
+   {
+    "text": "C1 — What 1.1.56 is: an atideśa (extension). Because substitute and original are different, operations conditioned by the original would not reach the substitute; 1.1.56 makes the substitute behave like the original for those OPERATIONS (kārya), except operations conditioned by a single sound (al) of the original.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11056",
+      "quote": "स्थान्यादेशयोः पृथक्त्वात् स्थान्याश्रयं कार्यमादेशे न प्राप्नोतीत्ययमतिदेश आरभ्यते।"
+     },
+     {
+      "file": "kashika",
+      "id": "11056",
+      "quote": "स्थानिवदादेशो भवति स्थान्याश्रयेषु कार्येष्वनलाश्रयेषु, स्थान्यलाश्रयाणि कार्याणि वर्जयित्वा।"
+     }
+    ]
+   },
+   {
+    "text": "C2 — What counts as an ādeśa (and as a sthānin): the ādeśa is what, when enjoined, makes the other (that was due) cease; the sthānin is that in whose place something else is enjoined. An āgama (added element), a pratyaya newly introduced, a nipātana, a prakṛti-bhāva (no change), a vacana/liṅga/vibhakti rule, or an atideśa (-vat) introduces no substitute, so 1.1.56 has nothing to act on there.",
+    "quotes": [
+     {
+      "file": "balamanorama",
+      "id": "11056",
+      "quote": "यस्य स्थानेऽन्यद्विधीयते तत्स्थानि । येन विधीयमानेन अन्यत्प्रसक्तं निवर्तते स आदेशः ।"
+     }
+    ]
+   },
+   {
+    "text": "C3 — What is inherited: the status that operations of the śāstra depend on (dhātu-, aṅga-, kṛt-, taddhita-, avyaya-, sup-, tiṅ-, pada-hood …), so that a LATER rule conditioned by that status applies to the substitute. Only śāstric operations are extended.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11056",
+      "quote": "किमुदाहरणम्? धात्वङ्गकृत्तद्धिताव्ययसुप्तिङ्पदादेशाः।"
+     },
+     {
+      "file": "kashika",
+      "id": "11056",
+      "quote": "आर्धधातुके विषये प्रागेवादेशेषु कृतेषु <<धातोः>> [[३.१.९१]] इति तव्यादयो भवन्ति।"
+     }
+    ]
+   },
+   {
+    "text": "C4 — The anal-vidhi exception: no sthānivad-bhāva for an operation that depends on a sound (al) of the original (द्यौः, पन्थाः, सः).",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11056",
+      "quote": "अनल्विधाविति किम्? द्युपथित्यदादेशा न स्थानिवद् भवन्ति।"
+     },
+     {
+      "file": "balamanorama",
+      "id": "11056",
+      "quote": "अलाश्रयकार्ये कर्तव्ये स्थानिवन्न भवतीति फलितम् ।"
+     }
+    ]
+   },
+   {
+    "text": "C5 — 1.1.57–1.1.59 extend and limit it for vowel-substitutes (1.1.57: a vowel-substitute caused by what follows is sthānivat even in a rule about what precedes; 1.1.58: not in the listed rules; 1.1.59: for reduplication, before a vowel that conditions it). These three sūtras take आदेशः (and स्थानिवत्) from 1.1.56 by anuvṛtti.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11057",
+      "quote": "आदेशः स्थानिवद् इति वर्तते।"
+     },
+     {
+      "file": "kashika",
+      "id": "11057",
+      "quote": "अजादेशः परनिमित्तकः पूर्वविधौ कर्तव्ये स्थानिवद् भवति।"
+     }
+    ]
+   },
+   {
+    "text": "C6 — Where commentators invoke it: at the point where a later operation is to be done ('… कर्तव्ये'), i.e. in deriving forms — not in stating the substitution rule itself. In an ādeśa-vidhi the vṛtti is 'Y-sthāne X ādeśo bhavati', which comes from 1.1.49 (6th case = sthāne) and 1.1.50–55 (which part is replaced); 1.1.56 adds nothing to that sentence. At ādeśa-vidhis commentators mention 1.1.56 either (a) in deriving the examples, (b) to explain the purpose of a word of the sūtra that cancels or replaces what sthānivad-bhāva would give (अपित्, ङित्, an anubandha), or (c) to say it does NOT apply. None of these changes the reading of the sūtra into its vṛtti. The reading genuinely depends on 1.1.56 only where its words are carried (1.1.57–59).",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "24053",
+      "quote": "स्थानिवद्भावेन कर्त्रभिप्रायक्रियाफलविवक्षायामात्मनेपदं भवति।"
+     },
+     {
+      "file": "kashika",
+      "id": "34087",
+      "quote": "स्थानिवद्भावात् पित्त्वं प्राप्तं प्रतिषिध्यते।"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [],
+  "stepTexts": []
+ },
+ "1.1.60": {
+  "gloss": "लोप = non-appearance (and it counts as a replacement)",
+  "ruleText": "अदर्शनं लोपः",
+  "generalExplanation": "",
+  "conditions": [
+   {
+    "text": "C1 — 1.1.60 names the non-appearance of what was due “लोप”. It is a saṃjñā, so it is needed to read any vṛtti that uses the term लोप.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11060",
+      "quote": "प्रसक्तस्यादर्शनं लोपसंज्ञं भवति।"
+     },
+     {
+      "file": "kaumudi",
+      "id": "11060",
+      "quote": "प्रसक्तस्यादर्शनं लोपसंज्ञं स्यात् ॥"
+     }
+    ]
+   },
+   {
+    "text": "C2 — The word स्थाने is carried into 1.1.60 (lopa takes the place of what it removes) — the basis for the engine's “counts as a replacement”.",
+    "quotes": [
+     {
+      "file": "balamanorama",
+      "id": "11060",
+      "quote": "'स्थानेऽन्तरतमः' इत्यतः स्थां इत्यनुवर्तते ।"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "लोपः → non-appearance; it counts as a replacement",
+    "n": "1.3.9",
+    "count": 70
+   },
+   {
+    "text": "प्रत्ययलोपे: when the suffix has undergone लोप (1.1.60 — non-appearance)",
+    "n": "1.1.62",
+    "count": 1
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "लोपः → the substitute: “लोपः” (read from its case) · प्रथमावृत्तिः: “लोपो भवति” — also: लोपः → non-appearance; it counts as a replacement",
+    "n": "5.4.51",
+    "count": 17
+   },
+   {
+    "text": "लोपः → the substitute: “लोपः आदेशः” (read from its case) · प्रथमावृत्तिः: “लोपो भवति” — also: लोपः → non-appearance; it counts as a replacement",
+    "n": "1.3.9",
+    "count": 9
+   },
+   {
+    "text": "लोपः (carried from 6.4.147) → the substitute: “लोपः” (carried in) · प्रथमावृत्तिः: “लोपो भवति” — also: लोपः → non-appearance; it counts as a replacement",
+    "n": "6.4.148",
+    "count": 7
+   },
+   {
+    "text": "लोपः (carried from 6.4.48) → the substitute: “लोपः” (carried in) · प्रथमावृत्तिः: “लोपो भवति” — also: लोपः → non-appearance; it counts as a replacement",
+    "n": "6.4.49",
+    "count": 4
+   },
+   {
+    "text": "लोपः (carried from 8.2.23) → the substitute: “लोपः” (carried in) · प्रथमावृत्तिः: “लोपो भवति” — also: संयोगान्तस्य, लोपः, पदस्य, पूर्वत्रासिद्धम् → carried in from the sūtras named — also: लोपः → non-appearance; it counts as a replacement",
+    "n": "8.2.24",
+    "count": 4
+   },
+   {
+    "text": "लोपः (carried from 5.4.146) → the substitute: “लोपः” (carried in) · प्रथमावृत्तिः: “लोपो भवति” — also: लोपः → non-appearance; it counts as a replacement",
+    "n": "5.4.148",
+    "count": 2
+   },
+   {
+    "text": "लोपः (carried from 6.1.66) → the substitute: “लोपः” (carried in) · प्रथमावृत्तिः: “लोपो भवति” — also: लोपः → carried in from the sūtras named — also: लोपः → non-appearance; it counts as a replacement",
+    "n": "6.1.67",
+    "count": 2
+   },
+   {
+    "text": "लोपः (carried from 6.4.98) → the substitute: “लोपः” (carried in) · प्रथमावृत्तिः: “लोपो भवति” — also: लोपः → non-appearance; it counts as a replacement",
+    "n": "6.4.99",
+    "count": 2
+   }
+  ]
+ },
+ "1.1.61": {
+  "gloss": "cited by the paribhāṣā audit",
+  "ruleText": "प्रत्ययस्य लुक्श्लुलुपः",
+  "generalExplanation": "",
+  "conditions": [
+   {
+    "text": "C1 — 1.1.61: लुक्, श्लु and लुप् are names for the disappearance (adarśana) of a SUFFIX. So a sūtra that orders लुक्/श्लु/लुप् is about a whole suffix; and a word built on these names (लुमता 1.1.63) refers back to them.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11061",
+      "quote": "प्रत्ययादर्शनस्य लुक्, श्लु, लुप् इत्येताः संज्ञा भवन्ति।"
+     },
+     {
+      "file": "kashika",
+      "id": "11063",
+      "quote": "लुमता शब्देन लुप्ते प्रत्यये यदङ्गम्, तस्य प्रत्ययलक्षणं कार्यं न भवति।"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "लुक् is by definition the disappearance of a suffix, so “of the suffix” is understood",
+    "n": "2.4.59",
+    "count": 11
+   },
+   {
+    "text": "लुमता = by a word containing लु (लुक्, श्लु, लुप् — 1.1.61)",
+    "n": "1.1.63",
+    "count": 1
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "the place is a whole aṅga/dhātu and the replacement is one sound → it replaces the LAST sound → अन्त्यस्य अलः",
+    "n": "6.4.104",
+    "count": 7
+   },
+   {
+    "text": "लुमता = by a word containing लु (लुक्, श्लु, लुप् — 1.1.61)",
+    "n": "1.1.63",
+    "count": 1
+   }
+  ]
+ },
+ "1.1.62": {
+  "gloss": "",
+  "ruleText": "",
+  "generalExplanation": "",
+  "conditions": [
+   {
+    "text": "C1 — 1.1.62: when a suffix has been elided, operations conditioned by it still take place. 1.1.63 न लुमताङ्गस्य is a PROHIBITION of it (no aṅga operation when the elision is by a लु-word).",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11062",
+      "quote": "प्रत्ययलोपे कृते प्रत्ययलक्षणं प्रत्ययहेतुकं कार्यं भवति।"
+     },
+     {
+      "file": "kashika",
+      "id": "11063",
+      "quote": "पूर्वेणातिप्रसक्तं प्रत्ययलक्षणमिति विशेषे प्रतिषेध उच्यते।"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [],
+  "stepTexts": []
+ },
+ "1.1.64": {
+  "gloss": "टि = from the last vowel to the end",
+  "ruleText": "अचोऽन्त्यादि टि",
+  "generalExplanation": "",
+  "conditions": [
+   {
+    "text": "C1 — 1.1.64: the part from the last vowel to the end is called टि; its pradeśas are the rules that name टि (टित आत्मनेपदानां टेरे 3.4.79 …).",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11064",
+      "quote": "अचां संनिविष्टानां योऽन्त्योऽच्, तदादि शब्दरूपं टिसंज्ञं भवति।"
+     },
+     {
+      "file": "kashika",
+      "id": "11064",
+      "quote": "टिप्रदेशाः — <<टित आत्मनेपदानां टेरे>> [[३.४.७९]] इत्येवमादयः॥"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "टेः → टि = from the last vowel to the end — the place is named exactly",
+    "n": "3.4.79",
+    "count": 2
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "टेः → what is replaced: “टेः स्थाने” (read from its case) · काशिका: “तेषां टेरेकारादेशो भवति” — also: टेः → टि = from the last vowel to the end — the place is named exactly",
+    "n": "3.4.79",
+    "count": 2
+   },
+   {
+    "text": "the place is a whole aṅga/dhātu and the replacement is one sound → it replaces the LAST sound → अन्त्यस्य अलः",
+    "n": "6.4.144",
+    "count": 2
+   }
+  ]
+ },
+ "1.1.65": {
+  "gloss": "उपधा = the sound before the last",
+  "ruleText": "अलोऽन्त्यात् पूर्व उपधा",
+  "generalExplanation": "",
+  "conditions": [
+   {
+    "text": "C1 — 1.1.65: the single sound before the last sound is called उपधा. A saṃjñā — needed wherever the term is used.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11065",
+      "quote": "धात्वादौ वर्णसमुदायेऽन्त्यादलः पूर्वो यो वर्णः, सोऽलेवोपधासंज्ञो भवति।"
+     },
+     {
+      "file": "kaumudi",
+      "id": "11065",
+      "quote": "अन्त्यादलः पूर्वो वर्ण उपधासंज्ञः स्यात् ॥"
+     }
+    ]
+   },
+   {
+    "text": "C2 — Only one sound (अल्), not a group: शिष्टः.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11065",
+      "quote": "अल इति किम्? शिष्टः। शिष्टवान्।"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "उपधायाः → the sound before the last",
+    "n": "6.4.7",
+    "count": 33
+   },
+   {
+    "text": "अदुपधात्: उपधा named → the sound before the last",
+    "n": "3.1.98",
+    "count": 3
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "इ: a single sound → it replaces the LAST sound",
+    "n": "6.4.34",
+    "count": 9
+   },
+   {
+    "text": "उपधायाः → the sound before the last",
+    "n": "6.4.16",
+    "count": 5
+   },
+   {
+    "text": "उपधायाः (carried from 6.4.89) → what is replaced: “उपधायाः” (carried in) — also: उपधायाः → the sound before the last",
+    "n": "6.4.92",
+    "count": 5
+   },
+   {
+    "text": "उपधायाः (carried from 6.4.7) → what is replaced: “उपधायाः” (carried in) — also: उपधायाः → the sound before the last",
+    "n": "6.4.11",
+    "count": 4
+   },
+   {
+    "text": "उपधायाः (carried from 6.4.89) → what is replaced: “उपधायाः” (carried in) · प्रथमावृत्तिः: “अङ्गस्योपधायाः” — also: उपधायाः → the sound before the last",
+    "n": "6.4.94",
+    "count": 4
+   },
+   {
+    "text": "उपधायाः (carried from 6.4.7) → what is replaced: “उपधायाः” (carried in) · प्रथमावृत्तिः: “नोपधायाः” — also: उपधायाः → the sound before the last",
+    "n": "6.4.9",
+    "count": 3
+   },
+   {
+    "text": "उपधायाः (carried from 6.4.24) → describes: “उपधायाः” (carried in) — also: उपधायाः → the sound before the last",
+    "n": "6.4.25",
+    "count": 3
+   },
+   {
+    "text": "उपधायाः → what is replaced: “उपधायाः” (read from its case) · प्रथमावृत्तिः: “स्योपधायाः नामि परतो” — also: उपधायाः → the sound before the last",
+    "n": "6.4.7",
+    "count": 2
+   }
+  ]
+ },
+ "1.1.66": {
+  "gloss": "7th-case trigger → operation on what precedes",
+  "ruleText": "तस्मिन्निति निर्दिष्टे पूर्वस्य",
+  "generalExplanation": "a word in the 7th case names what must FOLLOW — so we read “… परे”",
+  "conditions": [
+   {
+    "text": "Core rule: a word in the 7th case that stands for a following element (a para-saptamī, i.e. a sat-/aupaśleṣika-saptamī naming a sound, suffix or word) makes the operation fall on the element BEFORE it, never on the one after it. It is a restricting rule (niyama): the locative alone could point either way.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11066",
+      "quote": "तस्मिन्निति सप्तम्यर्थनिर्देशे पूर्वस्यैव कार्यं भवति, नोत्तरस्य।"
+     },
+     {
+      "file": "padamanjari",
+      "id": "11066",
+      "quote": "किं सत्सप्तमी ? किं वा गङ्गायां घोष इति वदौपश्लेषिकाधिकरणे सप्तमी ? इति ।"
+     }
+    ]
+   },
+   {
+    "text": "Immediacy: 'nirdiṣṭa' means the operation falls on the IMMEDIATELY preceding element — no intervening sound (time-gaps outside saṃhitā are not counted). So a 7th that names something which follows a different, intervening element (e.g. परस्मैपदेषु after sic) does not by 1.1.66 make the earlier element the kāryin.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11066",
+      "quote": "निर्दिष्टग्रहणमानन्तर्यार्थम्। अग्निचिदत्रेति व्यवहितस्य मा भूत्॥"
+     },
+     {
+      "file": "kaumudi",
+      "id": "11066",
+      "quote": "सप्तमीनिर्देशेन विधीयमानं कार्यं वर्णान्तरेणाव्यवहितस्य पूर्वस्य बोध्यम्"
+     }
+    ]
+   },
+   {
+    "text": "Only a 7th of a WORD-FORM, never of a meaning: a 7th naming a sense, a circumstance or a domain has no before/after relation and is outside 1.1.66.",
+    "quotes": [
+     {
+      "file": "bhashya",
+      "id": "11066",
+      "quote": "शब्दे सप्तम्या निर्दिष्टे पूर्वस्य कार्यं यथा स्यात्। अर्थे मा भूत्। जनपदे अतिशायने इति।"
+     },
+     {
+      "file": "balamanorama",
+      "id": "11066",
+      "quote": "तु नेयं परिभाषा प्रवर्तते, सर्तम्यन्तातिशायनपदार्थस्य शब्दरूपत्वाभावेनाऽव्यवहितोच्चारितत्वरूपनिर्धिष्टत्वाऽसंभवात्"
+     }
+    ]
+   },
+   {
+    "text": "Kinds of 7th that are NOT 1.1.66 (the commentaries contrast them with the para-saptamī): (a) viṣaya-saptamī — 'when X is in view', the operation happening before X exists (e.g. the 2.4.35 adhikāra आर्धधातुके); (b) nimitta-saptamī of 2.3.37 (bhāva-lakṣaṇa), e.g. क्ङिति in 1.1.5; (c) a 7th naming an elision (luk/lopa), which cannot follow anything.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "24035",
+      "quote": "विषयसप्तमी चेयं न परसप्तमी।"
+     },
+     {
+      "file": "nyaas",
+      "id": "24040",
+      "quote": "आर्धधातुकशब्दस्यार्धधातुकत्वमनेकप्रत्ययसाधारणं सामान्यमर्थः, तेन च पौर्वापर्यं न सम्भवति।"
+     }
+    ]
+   },
+   {
+    "text": "When a sūtra has both a 5th and a 7th, the 5th (1.1.67) prevails and turns the 7th into a 6th: the operation then falls on the 7th-named element itself (Mahābhāṣya examples: तास्यादिभ्यः लसार्वधातुके, गोतो णित्, रुदादिभ्यः सार्वधातुके, ईदासः, आमि सर्वनाम्नः सुट्, आण्नद्याः, याडापः, ङमो ह्रस्वादचि ङमुण्नित्यम्; PIS 71: डः सि धुट् by paratva).",
+    "quotes": [
+     {
+      "file": "bhashya",
+      "id": "11066",
+      "quote": "उभयनिर्देशे विप्रतिषेधात् पञ्चमीनिर्देशः।"
+     },
+     {
+      "file": "paribhashendushekhar",
+      "id": "71",
+      "quote": "उभयनिर्देशे पञ्चमीनिर्देशो बलीयान्"
+     }
+    ]
+   },
+   {
+    "text": "The 7th must name an element whose PRECEDING neighbour is the kāryin. Where the 7th-named item is itself the recipient — iṭ, which is always the ārdhadhātuka suffix's own āgama — 1.1.66 is not what decides (it would put the iṭ on the root).",
+    "quotes": [
+     {
+      "file": "bhashya",
+      "id": "64062",
+      "quote": "आर्धधातुकस्येट् यावानिण् नाम स सर्व आर्धधातुकस्य भवतीति विज्ञेयम्"
+     },
+     {
+      "file": "nyaas",
+      "id": "72035",
+      "quote": "यदि ह्रङ्गस्य स्यात्, `एकाच उपदेशेऽनुदात्तात्`  [[7.2.10]]  इति प्रत्ययस्येट्प्रतिषेधोऽनर्थकः स्यात्"
+     }
+    ]
+   },
+   {
+    "text": "Scope: it applies even where there is no doubt (so an explicit 'पूर्व' in a sūtra does not rule it out); but by lakṣya it does not apply in कर्तृकर्मणोः कृति (2.3.65).",
+    "quotes": [
+     {
+      "file": "nyaas",
+      "id": "11066",
+      "quote": "एवं च महाविषयेयं भवति यदि सर्वत्र -  सन्देहविषये, अन्यत्र च प्रवर्तते।"
+     },
+     {
+      "file": "balamanorama",
+      "id": "11066",
+      "quote": "लक्ष्यानुरोधेन क्वचिदेवंजातीयकेष्वस्याः परिभाषाया अप्रवृत्तिरिति 'श्नान्नलोप' इति सूत्रे भाष्ये प्रपञ्चितत्वात्"
+     }
+    ]
+   },
+   {
+    "text": "Ekādeśa (6.1.84ff.): the one substitute replaces both neighbours by the sūtra's own पूर्वपरयोः; the Mahābhāṣya reads that as showing 1.1.66 and 1.1.67 do not both apply at once. So 1.1.66's 'operation on the preceding only' does not straightforwardly describe these rules.",
+    "quotes": [
+     {
+      "file": "bhashya",
+      "id": "61084",
+      "quote": "अचीत्येषा सप्तमी आदिति पञ्चम्याः षष्ठीं प्रकल्पयिष्यति तस्मिन्निति निर्दिष्टे पूर्वस्य [[1.1.68]] इति ॥"
+     },
+     {
+      "file": "bhashya",
+      "id": "61084",
+      "quote": "एवं तर्हि सिद्धे सति यत्पूर्वपरग्रहणं करोति तज्ज्ञापयत्याचार्यः  -  नोभे युगपत्प्रकल्पिके भवत इति ।"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "a word in the 7th case names what must FOLLOW — so we read “… परे”",
+    "n": "1.1.16",
+    "count": 891
+   },
+   {
+    "text": "a word in the 7th case names what must FOLLOW — so we read “… परे” — names what FOLLOWS — the operation is on what precedes it",
+    "n": "3.1.57",
+    "count": 28
+   },
+   {
+    "text": "a word in the 7th case names what must FOLLOW — so we read “… परे” — names the uttarapada — the accent rule is on the member before it",
+    "n": "6.2.46",
+    "count": 6
+   },
+   {
+    "text": "a word in the 7th case names what must FOLLOW — so we read “… परे” — names the uttarapada — the operation is on the member before it",
+    "n": "6.3.1",
+    "count": 6
+   },
+   {
+    "text": "a word in the 7th case names what must FOLLOW — so we read “… परे” — names what FOLLOWS — the rule is on what precedes it",
+    "n": "6.1.168",
+    "count": 5
+   },
+   {
+    "text": "a locative condition: the term goes to what precedes it",
+    "n": "1.4.16",
+    "count": 4
+   },
+   {
+    "text": "a word in the 7th case names what must FOLLOW — so we read “… परे” — names the uttarapada — the replacement is in the member before it",
+    "n": "6.3.27",
+    "count": 3
+   },
+   {
+    "text": "a word in the 7th case names what must FOLLOW — so we read “… परे” — ⚠ the commentaries differ here: the prathamāvṛtti (“धृषि शसि इत्येतौ धातू निष्ठायाम् परतो वैयात्येऽविनयेऽर्थेऽनिटौ भवतः”) reads the 7th as what follows — 1.1.66; but the Mahābhāṣya on 6.4.62 (“आर्धधातुकस्येट् यावानिण् नाम स सर्व आर्धधातुकस्य भवतीति विज्ञेयम्”) and the Nyāsa on 7.2.35 make every इट् the augment of the ārdhadhātuka suffix itself, so on that view the 7th names the suffix that takes it and 1.1.66 does not decide it",
+    "n": "7.2.19",
+    "count": 3
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "इतौ → what follows: “इतौ परतः” (read from its case) · प्रथमावृत्तिः: “इतौ परतः”",
+    "n": "1.1.16",
+    "count": 207
+   },
+   {
+    "text": "ङिति → what follows: “ङिति प्रत्यये परतः” (read from its case) · प्रथमावृत्तिः: “ङिति प्रत्यये परतो”",
+    "n": "1.4.6",
+    "count": 32
+   },
+   {
+    "text": "प्रत्यये → what follows: “प्रत्यये परतः” (read from its case) · प्रथमावृत्तिः: “प्रत्यये परतोऽङ्गसंज्ञा भवति”",
+    "n": "1.4.13",
+    "count": 29
+   },
+   {
+    "text": "अचि → what follows: “द्विर्वचननिमित्ते अचि परे” (read from its case) · प्रथमावृत्तिः: “द्विर्वचननिमित्तेऽचि परतो”",
+    "n": "1.1.59",
+    "count": 28
+   },
+   {
+    "text": "अप्रत्यये: 7th case (carried over) → names what FOLLOWS — the operation is on what precedes it",
+    "n": "6.3.93",
+    "count": 22
+   },
+   {
+    "text": "सार्वधातुके (carried from 3.1.67) → what follows: “सार्वधातुके परे” (carried in) · काशिका: “सार्वधातुके परतो”",
+    "n": "3.1.68",
+    "count": 14
+   },
+   {
+    "text": "विभक्तौ (carried from 7.2.84) → what follows: “विभक्तौ परतः” (carried in) · प्रथमावृत्तिः: “विभक्तौ परत”",
+    "n": "7.2.85",
+    "count": 10
+   },
+   {
+    "text": "लुङ्-सनोः → what follows: “लुङि सनि च परतः” (read from its case) · प्रथमावृत्तिः: “लुङि सनि चार्धधातुके परतः”",
+    "n": "2.4.37",
+    "count": 9
+   }
+  ]
+ },
+ "1.1.67": {
+  "gloss": "5th case → the operation falls on what FOLLOWS it, an element already there (not the placing of a new suffix — that is 3.1.2 परश्च)",
+  "ruleText": "तस्मादित्युत्तरस्य",
+  "generalExplanation": "a word in the 5th case: the operation falls on what comes AFTER it — so we read “… उत्तरस्य / परस्य”",
+  "conditions": [
+   {
+    "text": "The word must be a 5th case used for the 5th-case meaning of direction ('from/after', dig-yoga with an unstated dik-word). Then the operation the sūtra prescribes is done to what FOLLOWS that word, never to what precedes it. Kāśikā and Nyāsa both say 1.1.67 is a restricting rule (niyama): it removes the doubt about which unstated dik-word (pūrva or para) to supply.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11067",
+      "quote": "तस्मादिति पञ्चम्यर्थनिर्देश उत्तरस्यैव कार्यं भवति, न पूर्वस्य।"
+     },
+     {
+      "file": "nyaas",
+      "id": "11067",
+      "quote": "इति याऽत्र सा तु न कारकविभक्तिः, किंतर्हि? `दिक्शब्दादञ्चूत्तरपद`  [[2.3.29]]  इति दिग्योगलक्षणा। दिक्शब्दस्त्वध्या-हार्यः, तत्र किं पूर्वशब्दमध्याह्मत्यातिङः पूर्वस्य निघातः क्रियते? उत परशब्दम-ध्याह्मत्य परस्य? इति सन्देहे सति परिभाषेयं नियमार्ताऽऽरभ्यते।"
+     }
+    ]
+   },
+   {
+    "text": "Immediacy: 'nirdiṣṭa' carries over from 1.1.66, so the operation falls on what comes IMMEDIATELY after (no other sound in between). Where a sūtra explicitly allows something to intervene (e.g. 8.4.2, 8.3.58, 8.1.55 एकान्तरम्), that sūtra overrides only the immediacy part; the 'following, not preceding' part still holds.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11067",
+      "quote": "निर्दिष्टग्रहणमनुवर्तते।"
+     },
+     {
+      "file": "kaumudi",
+      "id": "11067",
+      "quote": "पञ्चमीनिर्देशेन क्रियमाणं कार्यं वर्णान्तरेणाव्यवहितस्य परस्य ज्ञेयम्"
+     }
+    ]
+   },
+   {
+    "text": "The element after the 5th-case word must ALREADY BE THERE (sat), and the operation is done to it: substitution, augment, deletion/luk, accent, ṣatva/ṇatva, a kit/ṅit transfer, a saṃjñā, the choice of pada endings for an existing l. Placing a NEW suffix after a base (a suffix-introducing rule) is NOT 1.1.67's domain: the suffix's position comes from 3.1.2 परश्च. The Mahābhāṣya repeats the rule: 'in a suffix-introducing rule, 5th cases do not create a 6th (by 1.1.67)'.",
+    "quotes": [
+     {
+      "file": "bhashya",
+      "id": "31002",
+      "quote": "विषम उपन्यासः। सतस्तत्र परस्य कार्यमुच्यते। इहेदानीं कस्य सतः परस्य कार्यं भवितुमर्हति॥"
+     },
+     {
+      "file": "nyaas",
+      "id": "31002",
+      "quote": "<<तस्मादित्युत्तरस्य>> [[1.1.67]]  इत्यनया परिभाषया तर्हि व्यवस्था भविष्यति? नैतदस्ति; यत्र पञ्चमीनिर्दिष्टात् परस्य षष्ठीनिर्देशस्य कार्यं विधीयते सोऽस्य विषयः, न च सन्नादयः षष्ठआ निर्दिश्यन्ते, तनापि तेषां सम्बन्धिकार्यं विधीयते, तेषामेव भाव्यमानत्वात्।"
+     }
+    ]
+   },
+   {
+    "text": "Both a 7th and a 5th in one sūtra (ubhaya-nirdeśa): in general the 5th prevails (e.g. 6.1.186, 6.4.158, 7.1.90, 7.2.76, 7.2.83, 7.1.52, 7.3.112, 7.3.113, 8.3.32). But where the 7th has no other use (niravakāśa), it turns the 5th into a 6th and the operation falls on what PRECEDES. Examples: 7.2.82 आने मुक् (with अतः carried over), and 6.1.75–76 दीर्घात्/पदान्ताद्वा with छे (tuk goes to the long vowel, not to the छ).",
+    "quotes": [
+     {
+      "file": "bhashya",
+      "id": "11067",
+      "quote": "उभयनिर्देशे विप्रतिषेधात् पञ्चमीनिर्देशः। उभयनिर्देशे विप्रतिषेधात् पञ्चमीनिर्देशो भविष्यति। किं प्रयोजनम् ? प्रयोजनमतो लसार्वधातुकानुदात्तत्वे। वक्ष्यति तास्यादिभ्योऽनुदात्तत्वे सप्तमीनिर्देशोऽभ्यस्तसिजर्थ इति। तस्मिन् क्रियमाणे तास्यादिभ्यः परस्य लसार्वधातुकस्य लसार्वधातुके परतस्तास्यादीनामिति सन्देहः। तास्यादिभ्यः परस्य लसार्वधातुकस्य। बहोरिष्ठादीनामादिलोपे। बहोरुत्तरेषामिष्ठेमेयसाम्। इष्ठेमेयःसु परतो बहोरिति सन्देहः। बहोरुत्तरेषामिष्ठेमेयसाम्। गोतो णित्। गोतः परस्य सर्वनामस्थानस्य सर्वनामस्थाने परतो गोत इति सन्देहः। गोतः परस्य सर्वनामस्थानस्य। रुदादिभ्यः सार्वधातुके। रुदादिभ्यः परस्य सार्वधातुकस्य। सार्वधातुके परतो रुदादीनामिति सन्देहः। रुदादिभ्यः परस्य सार्वधातुकस्य। आने मुगीदासः। आस उत्तरस्यानस्य। आने परत आस इति सन्देहः। आस उत्तरस्य आनस्य। आमि सर्वनाम्नः सुट्। सर्वनाम्न उत्तरस्यामः।"
+     },
+     {
+      "file": "nyaas",
+      "id": "11067",
+      "quote": "अथ यत्रोभयनिर्देशस्तत्र कस्य कार्येण भवितव्यम्? तत्र यानवकाशा सेतरस्याः षष्ठीं प्रकल्पयिष्यति, अतः षष्ठीनिर्दिष्टस्य कार्यं भविष्यति।"
+     }
+    ]
+   },
+   {
+    "text": "The rule does not apply where the sūtra decides the direction itself, or where the 5th has a different job. (a) An explicit पूर्व ('before'), प्राक्, or आङ् ('up to'): the operation is then on what precedes, or within a range. 7.3.44: 'पूर्वस्य किम्? परस्य मा भूत्'. (b) A 5th that is not dig-yoga: cause (hetu), distance (अदूरात्), a 5th governed by an unstated अन्य ('other than', 8.3.4), or 'what the suffix was enjoined after' (विहितस्य). Nyāsa (3.1.2) treats a 5th as dig-yoga only when no other reason for the 5th exists. (c) A word that only looks like a 5th: a substitute written with t (तात्, आत् = the substitute आ), or a 6th that the Kāśikā keeps as a 6th.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "73044",
+      "quote": "पूर्वस्येति किम्? परस्य मा भूत्"
+     },
+     {
+      "file": "praudhamanorama",
+      "id": "73044",
+      "quote": "पूर्वस्य किम्। सर्विकेत्यादौ टाबेकादेशं बाधित्वा कात्परस्य मा भूत् 'तस्मादित्युत्तरस्य' इति परिभाषणात्।"
+     }
+    ]
+   },
+   {
+    "text": "Two equivalent readings are given. The Kāśikā (niyama) view: the operation is restricted to the following element. The Mahābhāṣya's alternative (ṣaṣṭhī-prakḷpti): a 5th makes the following word a substitution-6th. Both give the same domain. A remark about scope: 1.1.67 still works for rules in the asiddha section (8.2.1 ff.).",
+    "quotes": [
+     {
+      "file": "bhashya",
+      "id": "11067",
+      "quote": "अनेनैव प्रकॢप्तिर्भविष्यति। तस्मिन्निति निर्दिष्टे पूर्वस्य षष्ठी। तस्मादित्युत्तरस्य षष्ठीति।"
+     },
+     {
+      "file": "kashika",
+      "id": "82001",
+      "quote": "<<तस्मादित्युत्तरस्य>> [[१.१.६७]] इति च कर्तव्ये नासिद्धत्वं भ"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "a word in the 5th case: the operation falls on what comes AFTER it — so we read “… उत्तरस्य / परस्य”",
+    "n": "1.1.12",
+    "count": 651
+   },
+   {
+    "text": "a word in the 5th case: the operation falls on what comes AFTER it — so we read “… उत्तरस्य / परस्य” — the suffix that FOLLOWS it is meant",
+    "n": "1.2.16",
+    "count": 3
+   },
+   {
+    "text": "a word in the 5th case: the operation falls on what comes AFTER it — so we read “… उत्तरस्य / परस्य” — the replacement is of what FOLLOWS it",
+    "n": "3.1.45",
+    "count": 2
+   },
+   {
+    "text": "a word in the 5th case: the operation falls on what comes after it",
+    "n": "3.4.84",
+    "count": 2
+   },
+   {
+    "text": "the derivation: the क्त after the dhātu (5th case: उत्तरस्य)",
+    "n": "8.2.50",
+    "count": 2
+   },
+   {
+    "text": "the derivation: the क्त after विद् (5th case: उत्तरस्य)",
+    "n": "8.2.58",
+    "count": 2
+   },
+   {
+    "text": "परस्य = what FOLLOWS (named by a 5th case, 1.1.67): the operation falls on its FIRST sound",
+    "n": "1.1.54",
+    "count": 1
+   },
+   {
+    "text": "a word in the 5th case: the operation falls on what comes AFTER it — so we read “… उत्तरस्य / परस्य” — on what FOLLOWS it — the नैलेश-वृत्तिः reads it so",
+    "n": "1.3.35",
+    "count": 1
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "नेः → what it comes after: “नेः परस्मात्” (read from its case) · काशिका: “नेः परस्माद्विश”",
+    "n": "1.3.17",
+    "count": 62
+   },
+   {
+    "text": "प्रतेः → what it comes after: “प्रतेः उत्तरस्य” (read from its case) · प्रथमावृत्तिः: “प्रतेरुत्तरस्य”",
+    "n": "6.1.25",
+    "count": 35
+   },
+   {
+    "text": "इण्कोः (carried over): 5th case → on what FOLLOWS it",
+    "n": "8.3.64",
+    "count": 19
+   },
+   {
+    "text": "उदः → what it comes after: “उत्पूर्वात्” (read from its case) · प्रथमावृत्तिः: “उत्पूर्वात्”",
+    "n": "1.3.24",
+    "count": 15
+   },
+   {
+    "text": "पदः → what it comes after: “पदः धातोः उत्तरस्य” (read from its case) · प्रथमावृत्तिः: “धातोरुत्तरस्य”",
+    "n": "3.1.60",
+    "count": 12
+   },
+   {
+    "text": "एकाचः → what it comes after: “एकाचः धातोः परस्य” (read from its case) · प्रथमावृत्तिः: “यो धातुरेकाच्”",
+    "n": "7.2.10",
+    "count": 10
+   },
+   {
+    "text": "स्वरितात् → what it comes after: “स्वरितात् परेषाम्” (read from its case)",
+    "n": "1.2.39",
+    "count": 9
+   },
+   {
+    "text": "दीर्घात् → what it comes after: “दीर्घात्” (read from its case) · प्रथमावृत्तिः: “दीर्घात् परः”",
+    "n": "6.1.105",
+    "count": 9
+   }
+  ]
+ },
+ "1.1.68": {
+  "gloss": "a word stands for its own form, unless it is a technical term",
+  "ruleText": "स्वं रूपं शब्दस्याशब्दसंज्ञा",
+  "generalExplanation": "a word in a rule means ITSELF (its own form), not its meaning — unless it is a technical name",
+  "conditions": [
+   {
+    "text": "C1 (core): in the śāstra a word stands for its own form, not for the thing it means or for its synonyms.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11068",
+      "quote": "शास्त्रे स्वमेव रूपं शब्दस्य ग्राह्यं बोध्यं प्रत्याय्यं भवति, न बाह्योऽर्थः, शब्दसंज्ञां वर्जयित्वा।"
+     },
+     {
+      "file": "kashika",
+      "id": "11068",
+      "quote": "अग्निशब्दोऽग्निशब्दस्यैव ग्राहको भवति, न ज्वलनः पावको धूमकेतुरिति, नातः प्रत्ययो भवति।"
+     }
+    ]
+   },
+   {
+    "text": "C2 (aśabdasaṃjñā): a technical term of grammar names its members, not itself (घु, घ …; also artha-saṃjñās such as कर्म, करण).",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11068",
+      "quote": "घुग्रहणेषु घग्रहणेषु च संज्ञिनां ग्रहणम्, न संज्ञायाः॥"
+     },
+     {
+      "file": "tattvabodhini",
+      "id": "11068",
+      "quote": "कर्म॑करण॑मित्यादिष्वर्थसंज्ञासु स्वरूपग्रहणापत्तेः"
+     }
+    ]
+   },
+   {
+    "text": "C3 (sit, vārttika 5): marked words take their species — वृक्ष, मृग … in 2.4.12.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11068",
+      "quote": "सित्तद्विशेषाणां वृक्षाद्यर्थम् (म०भा० १.१.६८ वा० ५)॥ सिन्निर्देशः कर्तव्यः। ततो वक्तव्यं तद्विशेषाणां ग्रहणं भवतीति।"
+     }
+    ]
+   },
+   {
+    "text": "C4 (pit, vārttika 6): marked words take own form + synonyms + species — स्व in 3.4.40.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11068",
+      "quote": "पित्पर्यायवचनस्य च स्वाद्यर्थम् (म०भा० १.१.६८ वा० ६)॥ पिन्निर्देशः कर्तव्यः। ततो वक्तव्यं पर्यायवचनस्य ग्रहणं भवति, चकारात् स्वस्य रूपस्य तद्विशेषाणां चेति।"
+     }
+    ]
+   },
+   {
+    "text": "C5 (jit, vārttika 7): marked words take ONLY synonyms — राजन् in 2.4.23.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11068",
+      "quote": "ततो वक्तव्यं पर्यायवचनस्यैव ग्रहणं भवतीति, न स्वरूपस्य, नापि तद्विशेषाणाम्। किं प्रयोजनम्? राजाद्यर्थम्।"
+     }
+    ]
+   },
+   {
+    "text": "C6 (jhit, vārttika 8): marked words take own form + species — पक्षि, मत्स्य, मृग in 4.4.35.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11068",
+      "quote": "झित्तद्विशेषाणां च मत्स्याद्यर्थम् (म०भा० १.१.६८ वा० ८)॥ झिन्निर्देशः कर्तव्यः। ततो वक्तव्यं तस्य च ग्रहणं भवति तद्विशेषाणां चेति।"
+     }
+    ]
+   },
+   {
+    "text": "C7 (meaning-directed mention): where the rule word is meant for its sense (अर्थपरो निर्देशः), not its form, 1.1.68 does not hold; the sūtra itself often signals this — a plural, पद, नाम, आख्या, -अर्थ, -वाचिन्, or शब्द used to mean \"a word for X\".",
+    "quotes": [
+     {
+      "file": "nyaas",
+      "id": "34026",
+      "quote": "शब्दग्रहणं यत्र शब्दपरो निर्देशस्तत्र स्वं रूपं गृह्रते नार्थपरनिर्देश इति ज्ञापनार्थं कृतम्"
+     },
+     {
+      "file": "kashika",
+      "id": "43068",
+      "quote": "बहुवचनं स्वरूपविधिनिरासार्थम्॥"
+     }
+    ]
+   },
+   {
+    "text": "C8 (scope): the paribhāṣā governs how a word OF THE RULE (own or carried) is read (\"शास्त्रे\"). A word the commentator brings in only to derive a nipātana form is not a rule word.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11068",
+      "quote": "शास्त्रे स्वमेव रूपं शब्दस्य ग्राह्यं"
+     }
+    ]
+   },
+   {
+    "text": "C9 (status): the Mahābhāṣya at one point offers to drop the sūtra (its \"अशब्दसंज्ञा\" carried on to 1.1.69) — a commentator naming 1.1.68 in that discussion is not applying it.",
+    "quotes": [
+     {
+      "file": "bhashya",
+      "id": "12027",
+      "quote": "अथवा स्वं रूपं शब्दस्याशब्दसञ्ज्ञा [[1.1.68]] इत्ययं योगः प्रत्याख्यायते।"
+     },
+     {
+      "file": "balamanorama",
+      "id": "11068",
+      "quote": "इदं सूत्रं भाष्ये प्रत्याख्यातम् ।"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "स्व here means the word स्व itself, not its meaning or its synonyms — काशिका on 1.1.68: “शास्त्रे स्वमेव रूपं शब्दस्य ग्राह्यं बोध्यं प्रत्याय्यं भवति, न बाह्योऽर्थः”",
+    "n": "1.1.35",
+    "count": 477
+   },
+   {
+    "text": "बहु-गण here means the word बहु-गण itself, not its meaning or its synonyms — काशिका on 1.1.68: “शास्त्रे स्वमेव रूपं शब्दस्य ग्राह्यं बोध्यं प्रत्याय्यं भवति, न बाह्योऽर्थः”",
+    "n": "1.1.23",
+    "count": 29
+   },
+   {
+    "text": "(कुण्ड here means the word (कुण्ड itself, not its meaning or its synonyms — काशिका on 1.1.68: “शास्त्रे स्वमेव रूपं शब्दस्य ग्राह्यं बोध्यं प्रत्याय्यं भवति, न बाह्योऽर्थः”",
+    "n": "3.1.130",
+    "count": 13
+   },
+   {
+    "text": "नमस्-वरिवस्-चित्रङ् here means the word नमस्-वरिवस्-चित्रङ् itself, not its meaning or its synonyms — काशिका on 1.1.68: “शास्त्रे स्वमेव रूपं शब्दस्य ग्राह्यं बोध्यं प्रत्याय्यं भवति, न बाह्योऽर्थः”",
+    "n": "3.1.19",
+    "count": 8
+   },
+   {
+    "text": "ग्राम-जन-बन्धु-सहाय here means the word ग्राम-जन-बन्धु-सहाय itself, not its meaning or its synonyms — काशिका on 1.1.68: “शास्त्रे स्वमेव रूपं शब्दस्य ग्राह्यं बोध्यं प्रत्याय्यं भवति, न बाह्योऽर्थः”",
+    "n": "4.2.43",
+    "count": 3
+   },
+   {
+    "text": "अहन्-सर्व-एकदेश-सङ्ख्यात-पुण्य here means the word अहन्-सर्व-एकदेश-सङ्ख्यात-पुण्य itself, not its meaning or its synonyms — काशिका on 1.1.68: “शास्त्रे स्वमेव रूपं शब्दस्य ग्राह्यं बोध्यं प्रत्याय्यं भवति, न बाह्योऽर्थः”",
+    "n": "5.4.87",
+    "count": 2
+   },
+   {
+    "text": "(ऋतु-वास्तु here means the word (ऋतु-वास्तु itself, not its meaning or its synonyms — काशिका on 1.1.68: “शास्त्रे स्वमेव रूपं शब्दस्य ग्राह्यं बोध्यं प्रत्याय्यं भवति, न बाह्योऽर्थः”",
+    "n": "6.4.175",
+    "count": 2
+   },
+   {
+    "text": "अत्रि-भृगु-कुत्स-वसिष्ठ-गोतम-अङ्गिरस् here means the word अत्रि-भृगु-कुत्स-वसिष्ठ-गोतम-अङ्गिरस् itself, not its meaning or its synonyms — काशिका on 1.1.68: “शास्त्रे स्वमेव रूपं शब्दस्य ग्राह्यं बोध्यं प्रत्याय्यं भवति, न बाह्योऽर्थः”",
+    "n": "2.4.65",
+    "count": 1
+   }
+  ],
+  "stepTexts": []
+ },
+ "1.1.69": {
+  "gloss": "aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)",
+  "ruleText": "अणुदित् सवर्णस्य चाप्रत्ययः",
+  "generalExplanation": "a vowel/अण् (or an उदित्) also stands for its savarṇas",
+  "conditions": [
+   {
+    "text": "C1 — 1.1.69: an aṇ (with the later ण्) or an udit sound, when it is NOT itself being taught as a suffix, stands for its savarṇas too (उ = उवर्ण; कु = कवर्ग …).",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11069",
+      "quote": "अण् गृह्यमाण उदिच्च सवर्णानां ग्राहको भवति, स्वस्य च रूपस्य, प्रत्ययं वर्जयित्वा।"
+     },
+     {
+      "file": "kaumudi",
+      "id": "11069",
+      "quote": "अविधीयमानोऽण् उदिच्च सवर्णस्य संज्ञा स्यात् ।"
+     }
+    ]
+   },
+   {
+    "text": "C2 — It does not apply to a sound that is being enjoined (भाव्यमानोऽण् सवर्णान् न गृह्णाति), nor to a tapara sound: for tapara sounds 1.1.70 is the only grahaṇaka rule (Kāśikā: aṇ is not carried into 1.1.70; in अतो भिस ऐस् etc. 1.1.69 does not operate).",
+    "quotes": [
+     {
+      "file": "nyaas",
+      "id": "34106",
+      "quote": "इति न भविष्यति। सत्यपि वा सवर्णग्रहणे मात्रिकस्यान्तरतम्यान्मात्रिक एव भविष्यति।"
+     },
+     {
+      "file": "kashika",
+      "id": "11070",
+      "quote": "विध्यर्थमिदम्। अणिति नानुवर्तते।"
+     }
+    ]
+   },
+   {
+    "text": "C3 — It is not yet in force for the अच् of 1.1.10 नाज्झलौ (so ई and श are not barred from being savarṇa).",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "61101",
+      "quote": "<<नाज्झलौ>> [[१.१.१०]] इत्यत्र यदजिति प्रत्याहारग्रहणं तत्र ग्रहणकशास्त्रस्यानभिनिर्वृत्तत्वात् सवर्णा न गृह्यन्त"
+     },
+     {
+      "file": "kaumudi",
+      "id": "11010",
+      "quote": "आकारसहितोऽच् आच्"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "a vowel/अण् (or an उदित्) also stands for its savarṇas — ऋ = ऋवर्ण (short, long, pluta)",
+    "n": "3.1.124",
+    "count": 6
+   },
+   {
+    "text": "aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)",
+    "n": "6.1.87",
+    "count": 5
+   },
+   {
+    "text": "a vowel/अण् (or an उदित्) also stands for its savarṇas — पु = the whole पवर्ग",
+    "n": "3.1.98",
+    "count": 2
+   },
+   {
+    "text": "उः = ऋ (6th) — ऋ is अण्, so it stands for the whole ऋवर्ण (ऌ too)",
+    "n": "1.1.51",
+    "count": 1
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "ओः → describes: “उवर्णान्तात्” (what ends in it) · प्रथमावृत्तिः: “उवर्णान्ताद्धातोरावश्यके” — also: ओः: अण् vowel, not तपर → उ = उवर्ण (short, long, pluta) — also: ओः: 5th case → the suffix comes after it",
+    "n": "3.1.125",
+    "count": 3
+   },
+   {
+    "text": "उः = ऋ (6th) — ऋ is अण्, so it stands for the whole ऋवर्ण (ऌ too)",
+    "n": "1.1.51",
+    "count": 1
+   },
+   {
+    "text": "पोः → describes: “पवर्गान्तात्” (what ends in it) · प्रथमावृत्तिः: “पवर्गान्ताद्धातोर्यत्” — also: पोः: उदित् sound → पु = the whole पवर्ग",
+    "n": "3.1.98",
+    "count": 1
+   },
+   {
+    "text": "ऋ-हलोः → describes: “ऋवर्णान्तात् हलन्तात् च” (what ends in it) · काशिका: “ऋवर्णान्ताद् धातोर्हलन्ताच्च” — 1.1.49 not applicable: not the place (a qualifier) — also: ऋ-हलोः: अण् vowel, not तपर → ऋ = ऋवर्ण (short, long, pluta) — also: ऋ-हलोः: 5th case → the suffix comes after it",
+    "n": "3.1.124",
+    "count": 1
+   },
+   {
+    "text": "उ: an अण् vowel → stands for all its lengths",
+    "n": "3.3.57",
+    "count": 1
+   },
+   {
+    "text": "ओः → the base: “उवर्णान्तात् प्रातिपदिकात्” (what ends in it) · काशिका: “उवर्णान्तात् प्रातिपदिकाद्” — also: ओः: अण् vowel, not तपर → उ = उवर्ण (short, long, pluta)",
+    "n": "4.2.71",
+    "count": 1
+   },
+   {
+    "text": "ओः → the base: “उवर्णान्तात् प्रातिपदिकात्” (what ends in it) — also: ओः: अण् vowel, not तपर → उ = उवर्ण (short, long, pluta)",
+    "n": "4.3.139",
+    "count": 1
+   },
+   {
+    "text": "उ-गो-आदिभ्यः → the base: “उवर्णान्तात् गवादिभ्यश्च प्रातिपदिकात्” (what ends in it) · प्रथमावृत्तिः: “उवर्णान्तात् गवादिभ्यश्च प्रातिपदिकेभ्यः” — also: उ-गो-आदिभ्यः: अण् vowel, not तपर → उ = उवर्ण (short, long, pluta) — also: उ-गो-आदिभ्यः: 5th case → the suffix comes after it",
+    "n": "5.1.2",
+    "count": 1
+   }
+  ]
+ },
+ "1.1.70": {
+  "gloss": "a sound with त् after it denotes only its own length",
+  "ruleText": "तपरस्तत्कालस्य",
+  "generalExplanation": "a vowel with त् after it (तपर) means only that one length",
+  "conditions": [
+   {
+    "text": "Definition: a vowel with त् after it (and, by \"तादपि परस्तपरः\", a vowel after त्) denotes only the sounds of its own duration (with other guṇas — udātta/anudātta/svarita/nasality — of that duration), and itself. For अत् इत् उत् ऋत् ऌत् that is the hrasva set; for एत् ऐत् ओत् औत् it is the two-mora (dīrgha) set, i.e. pluta is excluded.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11070",
+      "quote": "तः परो यस्मात् सोऽयं तपरः, तादपि परस्तपरः। तपरो वर्णस्तत्कालस्यात्मना तुल्यकालस्य गुणान्तरयुक्तस्य सवर्णस्य ग्राहको भवति, स्वस्य च रूपस्य।"
+     },
+     {
+      "file": "kaumudi",
+      "id": "11070",
+      "quote": "तः परो यस्मात्स च तात्परश्चोच्चार्यमाणः समकालस्यैव संज्ञा स्यात् ।"
+     }
+    ]
+   },
+   {
+    "text": "Scope: it is the grahaṇaka-śāstra for every tapara, aṇ or not, and the Kāśikā's own example includes an ādeśa (6.4.41 विड्वनोरनुनासिकस्यात्). So a tapara substitute is in scope by default.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11070",
+      "quote": "अणामन्येषां च तपराणाम् इदमेव ग्रहणकशास्त्रम्।"
+     },
+     {
+      "file": "kashika",
+      "id": "11070",
+      "quote": "<<विड्वनोरनुनासिकस्यात्>> [[६.४.४१]] — अब्जाः। गोजाः।"
+     }
+    ]
+   },
+   {
+    "text": "Limit (stated per sūtra): where a commentator says the त् of that sūtra is only for ease of pronunciation (मुखसुखार्थ / उच्चारणार्थ) — not for \"that length only\" — the tapara does no 1.1.70 work there; a stated denial is a ✖, not a ✔. Bālamanoramā (after the Śekhara) holds this generally for substitutes, against the Kāśikā's 6.4.41 example; this audit applies it only where it is said of the sūtra itself.",
+    "quotes": [
+     {
+      "file": "balamanorama",
+      "id": "34106",
+      "quote": "'अच्च घे' रित्यत्रेव आदेशे तकार उच्चारणार्थ एव, नत्वित्संज्ञक इति शब्देन्दुशेखरे दिव औदित्यत्र प्रपञ्चितम्"
+     },
+     {
+      "file": "nyaas",
+      "id": "74040",
+      "quote": "तपरकरणं मुखसुखार्थम्, न तु दीर्घनिवृत्त्यर्थम्।"
+     }
+    ]
+   },
+   {
+    "text": "Not a tapara at all: (a) आत् as the 5th case of अ (\"from अ/अवर्ण\") — e.g. 6.1.87 आद्गुणः; (b) a त् that is part of the form (the substitute आत् of ङसि — वृक्षात्; अत् for झ् — ददति; अत् for भ्यस् — युष्मत्); (c) a त् that is an इत् marker of a suffix (5.3.12 अत् — क्व); (d) ऋतोः = ऋतु \"season\".",
+    "quotes": [
+     {
+      "file": "balamanorama",
+      "id": "61087",
+      "quote": "आदिति पञ्चमी नतु तपरकरणम्"
+     },
+     {
+      "file": "balamanorama",
+      "id": "61104",
+      "quote": "आदिति पञ्चमी"
+     }
+    ]
+   },
+   {
+    "text": "A tapara stated to be \"for clarity\" (विस्पष्टार्थ, स्पष्टार्थ, असन्देहार्थ, लाघवार्थ) is still a tapara read by 1.1.70, only redundant; it is counted licensed (with a note). The exception is where the commentator adds that it is NOT for 1.1.70 (Bālamanoramā on एदैतोः, cited under 1.1.9).",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "63046",
+      "quote": "तपरकरणं विस्पष्टार्थम्"
+     },
+     {
+      "file": "balamanorama",
+      "id": "11009",
+      "quote": "तपरकरणमसंदेहार्थम् । नतु 'तपरस्तत्कालस्य' इति तत्कालमात्रग्रहणार्थम् । तेन प्लुतयोरपि संग्रहः ।"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "a vowel with त् after it (तपर) means only that one length",
+    "n": "1.1.1",
+    "count": 45
+   },
+   {
+    "text": "a vowel with त् after it (तपर) means only that one length — only the short आ",
+    "n": "3.1.136",
+    "count": 43
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "इत् → the substitute: “इकारादेशः” (read from its case) · प्रथमावृत्तिः: “गोणीशब्दस्येकारादेशो भवति”",
+    "n": "1.2.50",
+    "count": 13
+   },
+   {
+    "text": "आत् → the substitute: “आकारः आदेशः” (read from its case) · प्रथमावृत्तिः: “आकारादेशो भवति”",
+    "n": "7.1.85",
+    "count": 4
+   },
+   {
+    "text": "आतः → describes: “आकारान्तेभ्यः” (what ends in it) · प्रथमावृत्तिः: “आकारान्तेभ्यो धातुभ्यः” — also: आतः: आ with त् after it (तपर) → only the short आ — also: आतः: 5th case → the suffix comes after it — corrected by the audit: effect says \"only the short आ\" but आ is long",
+    "n": "3.2.3",
+    "count": 3
+   },
+   {
+    "text": "अतः → the base: “अकारान्तात् प्रातिपदिकात्” (what ends in it) · प्रथमावृत्तिः: “अकारान्तात् प्रातिपदिकात्” — also: अतः: अ with त् after it (तपर) → only the short अ",
+    "n": "4.1.95",
+    "count": 3
+   },
+   {
+    "text": "आत् → the substitute: “आकारादेशः” (read from its case)",
+    "n": "6.1.45",
+    "count": 3
+   },
+   {
+    "text": "आत् → the substitute: “आकारादेशः” (read from its case) · प्रथमावृत्तिः: “आकारादेशो भवति” — corrected by the audit: the commentary calls this tapara redundant (\"for clarity\" / \"for brevity\" / \"small purpose\")",
+    "n": "6.3.46",
+    "count": 3
+   },
+   {
+    "text": "एत् → the substitute: “एकारादेशः” (read from its case) · प्रथमावृत्तिः: “एकारादेशो भवति” — corrected by the audit: effect says \"only the short ए\"; ए has no short form",
+    "n": "6.4.119",
+    "count": 3
+   },
+   {
+    "text": "ऋतः → describes: “ऋकारान्तस्य” (what ends in it) · प्रथमावृत्तिः: “ऋकारान्तस्याङ्गस्य” — 1.1.49 not applicable: not the place (a qualifier) — also: ऋतः: तपर → only the short ऋ",
+    "n": "7.3.110",
+    "count": 3
+   }
+  ]
+ },
+ "1.1.71": {
+  "gloss": "a sound group: first sound + final marker = all in between",
+  "ruleText": "आदिरन्त्येन सहेता",
+  "generalExplanation": "a pratyāhāra (first sound + an इत् letter) means every sound from the first up to the one before that इत्",
+  "conditions": [
+   {
+    "text": "Definition: a first element uttered together with a final इत् (marker) denotes the elements between them and itself. The Kāśikā's examples include suffix pratyāhāras: अण् अक् अच् हल् सुप् तिङ्.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11071",
+      "quote": "आदिरन्त्येनेत्संज्ञकेन सह गृह्यमाणस्तन्मध्यपतितानां वर्णानां ग्राहको भवति, स्वस्य च रूपस्य। अण्। अक्। अच्। हल्। सुप्। तिङ्।"
+     },
+     {
+      "file": "kaumudi",
+      "id": "11071",
+      "quote": "अन्त्येनेता सहित आदिर्मध्यगानां स्वस्य च संज्ञा स्यात् ॥"
+     }
+    ]
+   },
+   {
+    "text": "सुट् (सु … औट्) is a pratyāhāra: the Kāśikā's counter-example for \"अन्त्येन\" is exactly सुट्.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11071",
+      "quote": "अन्त्येनेति किम्? सुडिति तृतीयैकवचनेन टा इत्यनेन ग्रहणं मा भूत्॥"
+     }
+    ]
+   },
+   {
+    "text": "Not a pratyāhāra although it looks like one: the feminine आप् (टाप्/डाप्/चाप्) is a common name got by dropping the distinguishing markers (सामान्यग्रहण), not 1.1.71; the pratyāhāra आप् (टा … सुप्) is a different thing used in 7.2.112. Likewise a dhātu (इण्, आप्ऌ, चर, अञ्च्), a noun (हल \"plough\", शर, यम् \"whom\"), a taddhita suffix (यञ्, अण्), or a word-ending (-अक, -इक) is not a pratyāhāra.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "41001",
+      "quote": "ङीब्ङीष्ङीनां सामान्येन ग्रहणं ङीति, टाप्डाप्चापामाबिति"
+     },
+     {
+      "file": "kaumudi",
+      "id": "72112",
+      "quote": "आबिति टा इत्यारभ्य सुपः पकारेण प्रत्याहारः"
+     }
+    ]
+   },
+   {
+    "text": "इक् via 1.1.3: where guṇa/vṛddhi is enjoined with no sthānin named, \"इकः\" is understood and is a pratyāhāra. Where the sthānin is given otherwise (अचामादेः carried from 7.2.117, or the उपधा अत् of 7.2.116), 1.1.3's इक् is not what is read.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "72114",
+      "quote": "मृजेरङ्गस्येको वृद्धिर्भवति।"
+     },
+     {
+      "file": "kashika",
+      "id": "73034",
+      "quote": "किं चोक्तम्? <<अत उपधायाः>> [[७.२.११६]] इति वृद्धिः।"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "a pratyāhāra (first sound + an इत् letter) means every sound from the first up to the one before that इत्",
+    "n": "1.1.1",
+    "count": 5
+   },
+   {
+    "text": "a pratyāhāra (first sound + an इत् letter) means every sound from the first up to the one before that इत् — first item + final marker = everything in between",
+    "n": "1.1.43",
+    "count": 4
+   },
+   {
+    "text": "इक् = इ उ ऋ ऌ (a pratyāhāra)",
+    "n": "1.1.3",
+    "count": 1
+   },
+   {
+    "text": "अण् = अ इ उ ऋ ऌ (the pratyāhāra with the earlier ण्)",
+    "n": "1.1.69",
+    "count": 1
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "इक्: a sound group → first sound + final marker = everything in between",
+    "n": "1.2.9",
+    "count": 32
+   },
+   {
+    "text": "इक्: a sound group → इ उ ऋ ऌ",
+    "n": "6.4.156",
+    "count": 21
+   },
+   {
+    "text": "अच्: a sound/suffix group → first item + final marker = everything in between",
+    "n": "1.1.10",
+    "count": 4
+   },
+   {
+    "text": "ऐच् → ऐ औ: a pratyāhāra — from the first sound up to the one before the इत्",
+    "n": "1.1.1",
+    "count": 2
+   },
+   {
+    "text": "अच् → what is named: “अच्” (read from its case) · प्रथमावृत्तिः: “योऽच् स” — also: अच्: a sound/suffix group → first item + final marker = everything in between",
+    "n": "1.2.27",
+    "count": 2
+   },
+   {
+    "text": "इक् = इ उ ऋ ऌ (a pratyāhāra)",
+    "n": "1.1.3",
+    "count": 1
+   },
+   {
+    "text": "सुट् → what is named: “सुट्-प्रत्याहारः” (read from its case) · प्रथमावृत्तिः: “यः सुट् तस्य सर्वनामस्थानसंज्ञा भवति” — also: सुट्: a sound/suffix group → first item + final marker = everything in between",
+    "n": "1.1.43",
+    "count": 1
+   },
+   {
+    "text": "इक् → what is named: “इ उ ऋ ऌ इति एतेषाम् वर्णानाम्” (read from its case) · प्रथमावृत्तिः: “य इक् (=इ उ ऋ लृ)”",
+    "n": "1.1.45",
+    "count": 1
+   }
+  ]
+ },
+ "1.1.72 vt.2": {
+  "gloss": "…except an ugit or a SOUND as qualifier",
+  "ruleText": "उगिद्वर्णग्रहणवर्जम्",
+  "generalExplanation": "",
+  "conditions": [
+   {
+    "text": "Vārttika 1 on 1.1.72: in rules prescribing a samāsa or a pratyaya, tadanta-vidhi is barred (नडादिभ्यः फक् does not reach सूत्रनड). Vārttika 2: except where the qualifier is an ugit or a varṇa (sound). The Bhāṣya's examples: उगितश्च (भवती, अतिभवती) and अत इञ् (दाक्षिः).",
+    "quotes": [
+     {
+      "file": "bhashya",
+      "id": "11072",
+      "quote": "समासप्रत्ययविधौ प्रतिषेधः। समासविधौ प्रत्ययविधौ च प्रतिषेधो वक्तव्यः।"
+     },
+     {
+      "file": "bhashya",
+      "id": "11072",
+      "quote": "उगिद्वर्णग्रहणवर्जम्। उगिद्ग्रहणं वर्णग्रहणं च वर्जयित्वा। उगिद्ग्रहणमुगितश्च। भवती। अतिभवतौ।"
+     }
+    ]
+   },
+   {
+    "text": "What it requires: (1) a samāsa- or pratyaya-vidhi; (2) the base (prātipadika — or dhātu, see C3) is qualified by a sound or an ugit, so that \"what ends in it\" is read; (3) the sound is really a sound — not a homonymous dhātu/noun/saṃjñā, not a suffix name (that tadanta is PIS 23), not an उपधा or आदि qualifier, not a बह्वच्/द्व्यच् bahuvrīhi, and not already spelt out with अन्त in the sūtra.",
+    "quotes": [
+     {
+      "file": "padamanjari",
+      "id": "11072",
+      "quote": "उगिद्वर्णेति । उगिता वर्णेन च प्रातिपदिकं विशेष्यमित्यर्थः ।"
+     }
+    ]
+   },
+   {
+    "text": "Scope caveat (dhātu suffix rules): the Śekhara restricts vt.1's pratyaya bar to sūtras that name a prātipadika by its form, and the Kāśikā gives एरच् and ओरावश्यके as plain 1.1.72 examples. On that reading vt.1 never arises in kṛt rules with a sound-qualified dhātu, so vt.2 is not strictly needed there. This audit follows the earlier 1.1.72 audit (vt.1 as the Bhāṣya states it is general to pratyaya-vidhi) and counts those credits licensed, flagged for Harsha.",
+    "quotes": [
+     {
+      "file": "paribhashendushekhar",
+      "id": "31",
+      "quote": "सोऽपि निषेधो विशिष्य तत्तद्रूपेण गृहीतप्रातिपदिकसूत्र एव ।"
+     },
+     {
+      "file": "kashika",
+      "id": "11072",
+      "quote": "<<एरच्>> [[३.३.५६]] — इवर्णान्तादच्प्रत्ययो भवति। चयः। जयः। अयः।"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "the qualifier is a sound (varṇa-grahaṇa) → …so the block is lifted",
+    "n": "3.1.97",
+    "count": 34
+   },
+   {
+    "text": "the qualifier is an ugit → …so the block is lifted",
+    "n": "4.1.6",
+    "count": 1
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "the qualifier is a sound (varṇa-grahaṇa) → …so the block is lifted",
+    "n": "4.1.4",
+    "count": 18
+   },
+   {
+    "text": "the qualifier is a sound (varṇa-grahaṇa) → …so the block is lifted — corrected by the audit: dhātu suffix rule: licensed under the Bhāṣya's general statement of vt.1; on the Śekhara's narrower reading (C3) vt.1 ne",
+    "n": "3.1.97",
+    "count": 15
+   },
+   {
+    "text": "the qualifier is an ugit → …so the block is lifted",
+    "n": "4.1.6",
+    "count": 1
+   },
+   {
+    "text": "the qualifier is a sound (varṇa-grahaṇa) → …so the block is lifted — corrected by the audit: licensed through ईतः (ईकारान्त); the other qualifier रोपध is an upadhā qualifier",
+    "n": "4.2.123",
+    "count": 1
+   },
+   {
+    "text": "the qualifier is a sound (varṇa-grahaṇa) → …so the block is lifted — corrected by the audit: licensed through ऋत् (ऋकारान्त); द्व्यच् is a bahuvrīhi, not a sound qualifier",
+    "n": "4.3.72",
+    "count": 1
+   },
+   {
+    "text": "the qualifier is a sound (varṇa-grahaṇa) → …so the block is lifted — corrected by the audit: licensed through एत् (एकारान्त); तिङ्/घ are suffixes (PIS 23)",
+    "n": "5.4.11",
+    "count": 1
+   }
+  ]
+ },
+ "1.1.72": {
+  "gloss": "a qualifier (viśeṣaṇa), agreeing with the word it qualifies (viśeṣya), stands for whatever ENDS in it (tadanta) — only the qualifier, never the qualified word",
+  "ruleText": "येन विधिस्तदन्तस्य",
+  "generalExplanation": "a qualifier (viśeṣaṇa), agreeing with the word it qualifies (viśeṣya), stands for whatever ENDS in it — so we read “…-अन्त”; only the qualifier, never the qualified word (Nyāsa: “विशेषणेन च तदन्तविधिः, न विशेष्येण”)",
+  "conditions": [
+   {
+    "text": "Definition: a word used as a viśeṣaṇa (qualifier) in a rule stands for whatever ENDS in it, and for itself.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11072",
+      "quote": "येन विशेषणेन विधिर्विधीयते स तदन्तस्यात्मान्तस्य समुदायस्य ग्राहको भवति, स्वस्य च रूपस्य।"
+     },
+     {
+      "file": "kaumudi",
+      "id": "11072",
+      "quote": "विशेषणं तदन्तस्य संज्ञा स्यात् स्वस्य च रूपस्य ।"
+     }
+    ]
+   },
+   {
+    "text": "A viśeṣya must be present for the qualifier to qualify — by direct mention, by adhikāra, or by implication (sāmarthya/ākṣepa). With no viśeṣya (e.g. 6.1.78 एचोऽयवायावः, 6.1.87 आद्गुणः) tadanta-vidhi does not operate.",
+    "quotes": [
+     {
+      "file": "padamanjari",
+      "id": "11072",
+      "quote": "विशेष्यसन्निधौ च विशेषणं भवति, सन्निधिश्च कुत्रचित्साक्षान्निर्देशेन, यथा-'ईदूदेद्द्विवचनम्' इति द्विवचनस्य । क्वचिदधिकारद्यथा-'एरच्' इति धातोः । क्वचिदाक्षेपाद्, यथा-'इको झल्' इति सना धातोः । 'एचोऽयवायावः' इत्यादौ न कथंचिद्विशेष्यसंनिधिरिति नैतत्प्रवर्तते ।"
+     },
+     {
+      "file": "padamanjari",
+      "id": "11072",
+      "quote": "एवमपि'आद् गुणः' इत्यत्र आदित्यवर्णान्तो गृह्यते, अचीति चाजादेरिति खट्वेन्द्र इत्यादाववर्णान्तस्य समुदायस्याजादेश्च गुणप्रसङ्गः ।"
+     }
+    ]
+   },
+   {
+    "text": "Only the qualifier yields tadanta, never the qualified (viśeṣya) word itself; and a qualifier of the sound (grahaṇopādhi such as असंयोगपूर्व, ओष्ठ्यपूर्व) qualifies the sound, not the whole. So a sound that is the sthānin inside a suffix, a preceding member, or a meaning-qualifier does not produce \"what ends in it\".",
+    "quotes": [
+     {
+      "file": "nyaas",
+      "id": "11072",
+      "quote": "विशेषणेन चतदन्तविधिः, न विशेष्येण।"
+     },
+     {
+      "file": "bhashya",
+      "id": "11072",
+      "quote": "उकार एव विशेष्यते। उकारोयोऽसंयोगपूर्वस्तदन्तात् प्रत्ययादिति।"
+     }
+    ]
+   },
+   {
+    "text": "Vārttika 1 (1.1.72 vt.1): no tadanta in rules that prescribe a samāsa or a pratyaya when a specific word is named (नडादिभ्यः फक् does not apply to सूत्रनड; श्रितादिभिः not to परमश्रित). Vārttika 2: except ugit and varṇa (sound) qualifiers. The Śekhara restates the pratyaya part as \"ग्रहणवता प्रातिपदिकेन तदन्तविधिर्नास्ति\", limited to pratyaya-vidhi, with 5.2.87 सपूर्वाच्च as jñāpaka.",
+    "quotes": [
+     {
+      "file": "bhashya",
+      "id": "11072",
+      "quote": "समासप्रत्ययविधौ प्रतिषेधः। समासविधौ प्रत्ययविधौ च प्रतिषेधो वक्तव्यः।"
+     },
+     {
+      "file": "kashika",
+      "id": "11072",
+      "quote": "प्रत्ययविधौ — <<नडादिभ्यः फक्>> [[४.१.९९]]। नडस्यापत्यं नाडायनः। इह मा भूत् — सूत्रनडस्यापत्यं सौत्रनाडिः।"
+     }
+    ]
+   },
+   {
+    "text": "Lifts of vt.1: (a) the strī-pratyaya section has tadanta-vidhi by jñāpaka (and \"with the pradhāna\"); (b) sāmūhika affixes have it by jñāpaka; (c) where the viśeṣya is itself a compound (bahuvrīhi, dvigu, tatpuruṣa, avyayībhāva, or a samāsānta rule) the named word must be its final member — tadanta by sāmarthya; (d) the Mahābhāṣya lists specific prayojanas (अपरिमाणबिस्त…, रथसीताहल…, सुसर्वार्धदिक्…, ऋतोर्वृद्धिमद्विधौ…, etc.); (e) an individual jñāpaka (4.1.139 कुलात्).",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "41004",
+      "quote": "एतदेव ज्ञापकम् — भवत्यस्मिन् प्रकरणे तदन्तविधिरिति।"
+     },
+     {
+      "file": "kashika",
+      "id": "41014",
+      "quote": "अस्त्यत्र प्रकरणे तदन्तविधिरिति। तथा च प्रधानेन तदन्तविधिर्भवति।"
+     }
+    ]
+   },
+   {
+    "text": "In the pada and aṅga adhikāras a NAMED word also gets tadanta (\"पदाङ्गाधिकारे तस्य च तदन्तस्य च\", a प्रपञ्च of 1.1.72; e.g. 6.3.65, 6.4.10 परममहान्, 6.4.130 द्विपदः), and a sound qualifier gets tadanta everywhere, e.g. 7.3.101 अतो दीर्घो यञि → घटाभ्याम्.",
+    "quotes": [
+     {
+      "file": "paribhashendushekhar",
+      "id": "29",
+      "quote": "पदमङ्गं विशेष्यम्, विशेषणेन च तदन्तविधिः। <<येन विधिः>> [[1.1.72]] इत्यस्यायं प्रपञ्चः ।"
+     },
+     {
+      "file": "bhashya",
+      "id": "11072",
+      "quote": "वर्णग्रहणं च सर्वत्र। प्रयोजनम्। क्व सर्वत्र? अङ्गाधिकारे चान्यत्र च। अन्यत्रोदाहृतम्। अङ्गाधिकारे अतो दीर्घो यञ्ञि ,सुपि च। इहैव स्यात् -  आभ्याम्। घटाभ्याम् इत्यत्र न स्यात्।"
+     }
+    ]
+   },
+   {
+    "text": "A meaningless (anarthaka) qualifier yields tadanta only if it is a single sound — plus the listed अन्, इन्, अस्, मन् (PIS 16, read in the Mahābhāṣya on 1.1.72).",
+    "quotes": [
+     {
+      "file": "bhashya",
+      "id": "11072",
+      "quote": "अलैवानर्थकेन तदन्तविधिर्भवति नाम्येनानर्थकेनेति वक्तव्यम्।"
+     },
+     {
+      "file": "bhashya",
+      "id": "11072",
+      "quote": "अनिनस्मन्ग्रहणान्यर्थवता चानर्थकेन च तद्न्तविधिं प्रयोजयन्ति।"
+     }
+    ]
+   },
+   {
+    "text": "When a SUFFIX is named, the specific rule is PIS 23 प्रत्ययग्रहणे यस्मात् स विहितस्तदादेस्तदन्तस्य ग्रहणम्. Its tadanta part is itself grounded in 1.1.72 (Śekhara), and the Mahābhāṣya lists \"प्रत्ययग्रहणं चापञ्चम्याः\" among 1.1.72's prayojanas — so a 1.1.72 credit there is not false in substance, but PIS 23 is the precise citation. Not in saṃjñā rules (PIS 27) or the uttarapada adhikāra (PIS 25).",
+    "quotes": [
+     {
+      "file": "paribhashendushekhar",
+      "id": "23",
+      "quote": "तदन्तांशस्तु <<येन विधिः>> [[1.1.72]] इत्यनेन सिद्धः ।"
+     },
+     {
+      "file": "bhashya",
+      "id": "11072",
+      "quote": "प्रत्ययग्रहणं च अपञ्चम्याः प्रयोजनम्। यञ्ञिञ्ञोः फग् भवति। गार्ग्यायणः। वात्स्यायनः। परमवात्स्यायनः।"
+     }
+    ]
+   },
+   {
+    "text": "A 7th-case sound qualifier naming the condition gives tadādi (what BEGINS with it) — PIS 33, an apavāda of tadanta.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "11072",
+      "quote": "अल्ग्रहणेषु यस्मिन् विधिस्तदादाविति वक्तव्यम्।"
+     },
+     {
+      "file": "paribhashendushekhar",
+      "id": "33",
+      "quote": "तदन्तविधेरपवाद इयम् ।"
+     }
+    ]
+   },
+   {
+    "text": "Where the sūtra itself says \"-अन्त\" (or \"उत्तरपद\", \"पदान्त\"), no paribhāṣā is needed; the commentators treat the explicit anta as stated for some other purpose. Also a 5th-case sound may be read as tadanta when a viśeṣya is implied (6.1.69 एङन्तात्).",
+    "quotes": [
+     {
+      "file": "bhashya",
+      "id": "11072",
+      "quote": "सोऽयमेवं सिद्धे सति यदन्तग्रहणं करोति तज्ज्ञापयत्याचार्यः -  सूत्रान्तादेव दशान्तादेवेति नात्र तदन्तादुत्पत्तिः प्राप्नोति।"
+     },
+     {
+      "file": "nyaas",
+      "id": "11039",
+      "quote": "विनाप्यन्तग्रहणेन <<येन विधिस्तदन्तस्य>> [[1.1.72]]  इति सामर्थ्याद्वा कृतस्तदन्तविधौ सिद्धे यदन्तग्रहणं क्रियते"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "a qualifier (viśeṣaṇa), agreeing with the word it qualifies (viśeṣya), stands for whatever ENDS in it — so we read “…-अन्त”; only the qualifier, never the qualified word (Nyāsa: “विशेषणेन च तदन्तविधिः, न विशेष्येण”)",
+    "n": "1.1.11",
+    "count": 244
+   },
+   {
+    "text": "नः qualifies अङ्गस्य (the heading from 6.4.1, both in the 6th) — a qualifier agreeing with the word it qualifies stands for whatever ends in it → “नान्तस्य”",
+    "n": "6.4.7",
+    "count": 39
+   },
+   {
+    "text": "उगितः qualifies प्रातिपदिकात् (implied) — a qualifier agreeing with the word it qualifies stands for whatever ends in it → “उगिदन्तात्”",
+    "n": "4.1.6",
+    "count": 14
+   },
+   {
+    "text": "अचः qualifies धातोः (the heading from 3.1.91, both in the 5th) — a qualifier agreeing with the word it qualifies stands for whatever ends in it → “अजन्तात्”",
+    "n": "3.1.97",
+    "count": 12
+   },
+   {
+    "text": "मनः qualifies प्रातिपदिकात् (implied) — a qualifier agreeing with the word it qualifies stands for whatever ends in it → “मन्नन्तात् प्रातिपदिकात्”",
+    "n": "4.1.11",
+    "count": 12
+   },
+   {
+    "text": "इकः (supplied by 1.1.3) qualifies अङ्गस्य (the heading from 6.4.1) — a qualifier agreeing with the word it qualifies stands for whatever ends in it → “इगन्तस्य”",
+    "n": "7.2.1",
+    "count": 6
+   },
+   {
+    "text": "अतः (carried over from 7.1.9) qualifies the (implied) — a qualifier agreeing with the word it qualifies stands for whatever ends in it → “अकारान्तात्”",
+    "n": "7.1.10",
+    "count": 5
+   },
+   {
+    "text": "नः (carried over) qualifies पदस्य (the heading from 8.1.16) — a qualifier agreeing with the word it qualifies stands for whatever ends in it → “नकारान्तस्य”",
+    "n": "8.3.8",
+    "count": 5
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "रलः → describes: “रलन्तात्” (what ends in it) · प्रथमावृत्तिः: “रलन्ताद्धलादेः”",
+    "n": "1.2.26",
+    "count": 12
+   },
+   {
+    "text": "अवत्याः → describes: “अवतीशब्दान्तस्य” (what ends in it) · प्रथमावृत्तिः: “अवतीशब्दान्तस्य” — 1.1.49 not applicable: not the place (a qualifier)",
+    "n": "6.1.220",
+    "count": 11
+   },
+   {
+    "text": "असंयोगात् → the base: “असंयोगान्तात् धातोः” (what ends in it) · प्रथमावृत्तिः: “असंयोगान्ताद्धातोः परो”",
+    "n": "1.2.5",
+    "count": 7
+   },
+   {
+    "text": "कन्था → describes: “कन्थान्तः” (what ends in it) · प्रथमावृत्तिः: “कन्थान्तस्तत्पुरुषो नपुंसकलिङ्गो भवति”",
+    "n": "2.4.20",
+    "count": 6
+   },
+   {
+    "text": "ओतः → what it comes after: “ओकारान्तात्” (what ends in it) · प्रथमावृत्तिः: “ओकारान्ताद्”",
+    "n": "6.1.93",
+    "count": 6
+   },
+   {
+    "text": "अबहुगणात् → describes: “अबहुगणान्तात्” (what ends in it) · काशिका: “तस्मादबहुगणान्ताद्” — also: अबहुगणात्: 5th case → the base the taddhita suffix comes after",
+    "n": "5.4.73",
+    "count": 5
+   },
+   {
+    "text": "अङ्गुलेः → describes: “अङ्गुलिशब्दान्तस्य” (what ends in it) · प्रथमावृत्तिः: “अङ्गुलिशब्दान्तस्य तत्पुरुषस्य” — 1.1.49 not applicable: not the place (a qualifier)",
+    "n": "5.4.86",
+    "count": 5
+   },
+   {
+    "text": "ककुदस्य → what is replaced: “ककुदशब्दान्तस्य” (what ends in it) · प्रथमावृत्तिः: “ककुदशब्दान्तस्य”",
+    "n": "5.4.146",
+    "count": 5
+   }
+  ]
+ },
+ "1.2.28": {
+  "gloss": "cited by the paribhāṣā audit",
+  "ruleText": "अचश्च",
+  "generalExplanation": "",
+  "conditions": [
+   {
+    "text": "C1. Content: when ह्रस्व, दीर्घ or प्लुत is taught by its own name (as what comes in), it takes the place only of a vowel; the word “अचः” (6th case) is supplied in every such sūtra. A restriction of the place (sthāni-niyama).",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "12028",
+      "quote": "परिभाषेयं स्थानिनियमार्था। ह्रस्वदीर्घप्लुताः स्वसंज्ञया शिष्यमाणा अच एव स्थाने वेदितव्याः।"
+     },
+     {
+      "file": "kaumudi",
+      "id": "12028",
+      "quote": "ह्रस्वदीर्घप्लुतशब्दैर्यत्राज्विधीयते तत्राच इति षष्ठ्यन्तं पदमुपतिष्ठते"
+     }
+    ]
+   },
+   {
+    "text": "C2. Where it does visible work: the named place could end in a consonant (prātipadika, aṅga, टि, a whole word). The Bhāṣya debates whether it is an addendum to 1.1.52 or an exception that lets a non-final vowel be hit.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "12028",
+      "quote": "अच इति किम्? सुवाग् ब्राह्मणकुलम्।"
+     },
+     {
+      "file": "kashika",
+      "id": "12028",
+      "quote": "अच इति किम्? अग्निचि३त्। सोमसु३त्। तकारस्य मा भूत्।"
+     }
+    ]
+   },
+   {
+    "text": "C3. Only for vowels taught by these NAMES. A vowel named by its own form gets no such restriction, and a substitute that replaces the whole place (8.2.89 प्रणव for the whole टि) is outside it.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "12028",
+      "quote": "स्वसंज्ञया विधाने नियमः"
+     },
+     {
+      "file": "kashika",
+      "id": "12028",
+      "quote": "इह मा भूत् — द्यौः। पन्थाः। सः।"
+     }
+    ]
+   },
+   {
+    "text": "C4. A sūtra that forbids the long/short vowel teaches no substitute, so the restriction has nothing to restrict.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "74015",
+      "quote": "आबन्तस्याङ्गस्य कपि ह्रस्वः न भवत्यन्तरस्याम्।"
+     },
+     {
+      "file": "kashika",
+      "id": "72040",
+      "quote": "परस्मैपदपरे सिचि वृृत उत्तरस्येटो दीर्घो  न भवति"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "ह्रस्व is taught by its own name, so it falls only on a vowel (अचः) — काशिका on 1.2.28: “ह्रस्वदीर्घप्लुताः स्वसंज्ञया शिष्यमाणा अच एव स्थाने वेदितव्याः”",
+    "n": "1.2.47",
+    "count": 119
+   },
+   {
+    "text": "ह्रस्व, दीर्घ and प्लुत, taught by name, fall only on a vowel",
+    "n": "7.4.25",
+    "count": 2
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "ह्रस्वः → the substitute: “ह्रस्वादेशः” (read from its case) · काशिका: “ह्रस्वो भवत्यादेशो”",
+    "n": "1.2.47",
+    "count": 18
+   },
+   {
+    "text": "दीर्घः (carried from 6.3.111) → the substitute: “दीर्घः” (carried in) · प्रथमावृत्तिः: “दीर्घो भवति”",
+    "n": "6.3.118",
+    "count": 13
+   },
+   {
+    "text": "दीर्घः (carried from 6.3.111) → the substitute: “दीर्घः” (carried in) · प्रथमावृत्तिः: “दीर्घो भवति” — also: दीर्घः, उत्तरपदे, संहितायाम् → carried in from the sūtras named",
+    "n": "6.3.121",
+    "count": 10
+   },
+   {
+    "text": "प्लुतः (carried from 8.2.82) → the substitute: “प्लुतः” (carried in) · प्रथमावृत्तिः: “प्लुतो भवति”",
+    "n": "8.2.83",
+    "count": 9
+   },
+   {
+    "text": "दीर्घः → the substitute: “दीर्घः आदेशः” (read from its case) · प्रथमावृत्तिः: “दीर्घो भवति”",
+    "n": "6.1.7",
+    "count": 7
+   },
+   {
+    "text": "दीर्घः (carried from 6.3.111) → the substitute: “दीर्घः” (carried in) · प्रथमावृत्तिः: “दीर्घो भवति” — also: दीर्घः, अष्टनः, उत्तरपदे, संहितायाम् → carried in from the sūtras named",
+    "n": "6.3.126",
+    "count": 6
+   },
+   {
+    "text": "the place is a whole aṅga/dhātu and the replacement is one sound → it replaces the LAST sound → अन्त्यस्य अलः",
+    "n": "7.3.74",
+    "count": 6
+   },
+   {
+    "text": "प्लुतः (carried from 8.2.82) → the substitute: “प्लुतः” (carried in) · प्रथमावृत्तिः: “प्लुत उदात्तो भवति”",
+    "n": "8.2.87",
+    "count": 6
+   }
+  ]
+ },
+ "1.3.10": {
+  "gloss": "equal lists pair up in order (yathāsaṅkhya)",
+  "ruleText": "यथासंख्यमनुदेशः समानाम्",
+  "generalExplanation": "when two lists have the same number of members they pair up IN ORDER (yathāsaṅkhya)",
+  "conditions": [
+   {
+    "text": "Equal lists — uddeśins and anudeśins of the same number — pair up in order (1st with 1st …).",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "13010",
+      "quote": "समानां समसंख्यानां समं परिपठितानाम् उद्देशिनामनुदेशिनां च यथाक्रममुद्देशिभिरनुदेशिनः संबध्यन्ते।"
+     },
+     {
+      "file": "kaumudi",
+      "id": "13010",
+      "quote": "समसम्बन्धी विधिर्यथासङ्ख्यं स्"
+     }
+    ]
+   },
+   {
+    "text": "Unequal lists do not pair (1.4.90: four meanings, three words — all with all).",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "13010",
+      "quote": "लक्षणादयश्चत्वारोऽर्थाः, प्रत्यादयस्त्रयः। सर्वेषां सर्वत्र कर्मप्रवचनीयसंज्ञा भ"
+     }
+    ]
+   },
+   {
+    "text": "Only where intended (marked by svarita); where the tradition says it is not wanted, it does not apply — such denials are frequent (“यथासंख्यमत्र नेष्यते”, yogavibhāga “यथासंख्यनिरासार्थः”, irregular compound order as लक्षणव्यभिचारचिह्न).",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "13010",
+      "quote": "स्वरितेन लिङ्गेन यथासंख्यम्, यत्र नेष्यते तत्र स्वरितत्वं न प्रतिज्ञा"
+     },
+     {
+      "file": "bhashya",
+      "id": "13010",
+      "quote": "कर्तृकर्मणोश्च भूकृञ्ञोः ॥ 13 ॥ कर्तृकर्मणी, द्वे, भूकृञ्ञौ द्वौ । तत्र संख्यातानुदेशः प्र"
+     }
+    ]
+   },
+   {
+    "text": "The lists may be two lists of conditions/bases with one item to be enjoined (समूलाकृतजीवेषु हन्कृञ्ग्रहः).",
+    "quotes": [
+     {
+      "file": "balamanorama",
+      "id": "13010",
+      "quote": "समूलाद्युपपदानां हनादिधातूनां च समसङ्ख्यानामुपादानेन एकस्य प्रत्ययस्य विधिरपि समसङ्ख्याकसम्बन्धी विधिरेवेति तत्रापि यथासङ्ख्यप्रवृत्तिनिर्बा"
+     }
+    ]
+   },
+   {
+    "text": "Where a class-name (इ, उ = 18 sounds each) or nearness decides the match, it is 1.1.50, not 1.3.10.",
+    "quotes": [
+     {
+      "file": "kaumudi",
+      "id": "64077",
+      "quote": "आन्तरतम्यादेरियङ् ओरुवङ् ।"
+     },
+     {
+      "file": "tattvabodhini",
+      "id": "64077",
+      "quote": "यथासङ्ख्यमिहन न प्रवर्तते, इत्याह — आन्तरतम्यादिति ।"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "when two lists have the same number of members they pair up IN ORDER (yathāsaṅkhya) — they pair up in order (यथासङ्ख्यम्)",
+    "n": "1.2.27",
+    "count": 76
+   },
+   {
+    "text": "when two lists have the same number of members they pair up IN ORDER (yathāsaṅkhya)",
+    "n": "3.1.129",
+    "count": 3
+   },
+   {
+    "text": "आद्यन्तौ and टकितौ: two members each → paired in order: टित् ↔ आदि, कित् ↔ अन्त",
+    "n": "1.1.46",
+    "count": 1
+   },
+   {
+    "text": "the three names go in order with the three elisions: by the word लुक् → लुक्, by श्लु → श्लु, by लुप् → लुप् (नैलेश-वृत्तिः: क्रमेण)",
+    "n": "1.1.61",
+    "count": 1
+   },
+   {
+    "text": "the pairing (PV: यथासङ्ख्यं ऋषिदेवतयोः सम्बन्धः) is ऋषि with करण (carried from 3.2.182) and देवता with कर्तरि",
+    "n": "3.2.186",
+    "count": 1
+   },
+   {
+    "text": "equal lists pair up in order (yathāsaṅkhya)",
+    "n": "7.3.4",
+    "count": 1
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "two lists in the sūtra → they pair up in order — the prathamāvṛtti and Kāśikā say so (यथासङ्ख्यम्)",
+    "n": "3.2.41",
+    "count": 9
+   },
+   {
+    "text": "2 forms and 2 meanings → paired in order (yathāsaṅkhya)",
+    "n": "1.4.22",
+    "count": 4
+   },
+   {
+    "text": "two lists in the sūtra → they pair up in order — the prathamāvṛtti says so (यथासङ्ख्यम्)",
+    "n": "3.4.83",
+    "count": 4
+   },
+   {
+    "text": "नञ्-स्नञौ → the suffix: “नञ्-स्नञौ प्रत्ययौ” (read from its case) · प्रथमावृत्तिः: “नञ्स्नञौ प्रत्ययौ भवतः” — also: स्त्री-पुंसाभ्याम् and नञ्-स्नञौ: 2 members each → they pair up in order (यथासङ्ख्यम्)",
+    "n": "4.1.87",
+    "count": 4
+   },
+   {
+    "text": "two lists in the sūtra → they pair up in order — the नैलेश-वृत्तिः, prathamāvṛtti and Kāśikā say so (यथासङ्ख्यम्)",
+    "n": "5.1.42",
+    "count": 4
+   },
+   {
+    "text": "युष्मदस्मदोः (carried from 7.2.86) → the base: “युष्मदस्मदोः” (carried in) · प्रथमावृत्तिः: “युष्मदस्मदोर्मपर्यन्तस्य” — also: यूयवयौ and युष्मदस्मदोः: 2 members each → they pair up in order (यथासङ्ख्यम्)",
+    "n": "7.2.93",
+    "count": 4
+   },
+   {
+    "text": "कुसीद-दशैकादशात् → the base: “कुसीददशैकादशप्रातिपदिकाभ्याम्” (read from its case) · प्रथमावृत्तिः: “कुसीददशैकादशप्रातिपदिकाभ्यां”",
+    "n": "4.4.31",
+    "count": 3
+   },
+   {
+    "text": "two lists in the sūtra → they pair up in order — the नैलेश-वृत्तिः says so (यथासङ्ख्यम्)",
+    "n": "6.1.79",
+    "count": 3
+   }
+  ]
+ },
+ "1.3.2": {
+  "gloss": "",
+  "ruleText": "",
+  "generalExplanation": "",
+  "conditions": [
+   {
+    "text": "C1 — 1.3.2: in upadeśa a nasalised vowel is an इत्. The इत् of 1.1.71 (pratyāhāra formation) includes such a vowel: the र pratyāhāra is र् with the nasal अँ of लँण्.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "13002",
+      "quote": "तत्र योऽनुनासिकः स इत्संज्ञो भवति।"
+     },
+     {
+      "file": "kaumudi",
+      "id": "13002",
+      "quote": "लण्सूत्रस्थावर्णेन सहोच्चार्यमाणो रेफो रलयोः संज्ञा ।"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "इता = with a sound that is an इत् (1.3.2–3), the marker at the end",
+    "n": "1.1.71",
+    "count": 1
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "इता = with a sound that is an इत् (1.3.2–3), the marker at the end",
+    "n": "1.1.71",
+    "count": 1
+   }
+  ]
+ },
+ "1.4.13": {
+  "gloss": "the aṅga = what a suffix is introduced after (with whatever begins it), when that suffix follows",
+  "ruleText": "यस्मात् प्रत्ययविधिस्तदादि प्रत्ययेऽङ्गम्",
+  "generalExplanation": "what a suffix is added after is the AṄGA of that suffix",
+  "conditions": [
+   {
+    "text": "Definition: the word-form beginning with that (dhātu or prātipadika) after which a suffix is ENJOINED is called aṅga, in relation to that suffix when it follows.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "14013",
+      "quote": "यस्मात् प्रत्ययो विधीयते धातोर्वा प्रातिपदिकाद् वा तदादि शब्दरूपं प्रत्यये परतोऽङ्गसंज्ञं भवति।"
+     },
+     {
+      "file": "kaumudi",
+      "id": "14013",
+      "quote": "यः प्रत्ययो यस्मात्क्रियते तदादि शब्दस्वरूपं तस्मिन्प्रत्यये परेऽङ्गसंज्ञं स्यात्"
+     }
+    ]
+   },
+   {
+    "text": "\"विधि\": the suffix must have been enjoined after that base; merely standing before a suffix does not make a word an aṅga (स्त्री इयती). The aṅga is relative to the suffix enjoined after it.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "14013",
+      "quote": "विधिग्रहणं किम्? प्रत्ययपरत्वमात्रे मा भूत्। स्त्री इयती॥"
+     },
+     {
+      "file": "tattvabodhini",
+      "id": "14013",
+      "quote": "संनिधानबलेनयस्माद्यः प्रत्ययो विहितस्तस्मिस्तदङ्ग॑-मिति व्याख्यानात्"
+     }
+    ]
+   },
+   {
+    "text": "\"तदादि\": whatever begins with that base counts — vikaraṇas (स्य, शप्) and āgamas (नुम्) included.",
+    "quotes": [
+     {
+      "file": "bhashya",
+      "id": "14013",
+      "quote": "अङ्गसंज्ञायां तदादिग्रहणं स्यादिनुमर्थम्"
+     },
+     {
+      "file": "kaumudi",
+      "id": "14013",
+      "quote": "भवामि भविष्यामीत्यादौ विकरणविशिष्यस्याऽङ्गसंज्ञार्थं तदादिग्रहणम्"
+     }
+    ]
+   },
+   {
+    "text": "\"प्रत्यये\": the aṅga stops before that suffix — it does not include the suffix nor extend beyond.",
+    "quotes": [
+     {
+      "file": "kaumudi",
+      "id": "14013",
+      "quote": "प्रत्यये किम् । प्रत्ययविशिष्टस्य ततोऽप्यधिकस्य वा माभूत्"
+     }
+    ]
+   },
+   {
+    "text": "Where the term operates: the 6.4.1 अङ्गस्य adhikāra, which runs to the end of adhyāya 7 (Kāśikā; a minority view ends it before the abhyāsa rules, rejected by the Vṛtti). It does NOT continue into adhyāya 8 (पदस्य 8.1.16 takes over); there a rule uses aṅga only if it says so itself (8.2.27 ह्रस्वादङ्गात्, 8.3.78 …धोऽङ्गात्). Rules outside the adhikāra (e.g. 2.4 ādeśas) are \"in another section\".",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "14013",
+      "quote": "अङ्गप्रदेशाः — <<अङ्गस्य>> [[६.४.१]] इत्येवमादयः॥"
+     },
+     {
+      "file": "kashika",
+      "id": "64001",
+      "quote": "अधिकारोऽयमा सप्तमाध्यायपरिसमाप्तेः। यदित ऊर्ध्वमनुक्रमिष्यामोऽङ्गस्येत्येवं तद् वेदितव्यम्।"
+     }
+    ]
+   },
+   {
+    "text": "How the carried word is construed: अङ्गस्य is a 6th of general relation, re-cast per rule (e.g. as 5th, अङ्गात्, when the operation is on the following suffix). It is NOT an apposition to the suffix: Bhāṣya on 7.2.35 rejects reading \"वलादेः आर्धधातुकस्य … अङ्गम्\" and takes aṅga as the base whose वलादि (= the suffix) gets iṭ.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "64001",
+      "quote": "अङ्गस्येति संबन्धसामान्य एषा षष्ठी यथायोगं विशेषेष्ववतिष्ठते।"
+     },
+     {
+      "file": "kashika",
+      "id": "64001",
+      "quote": "ततोऽकारान्तादङ्गाद् भिस ऐसित्येवमाद्यपि सम्यक् संपन्नं भवति॥"
+     }
+    ]
+   },
+   {
+    "text": "The technical term is distinct from the ordinary word aṅga \"limb, member\" (प्राण्यङ्ग, सेनाङ्ग, स्वाङ्ग). It coexists with bha/pada (ekasaṃjñā exception), so bha rules 6.4.129ff are still aṅga rules. Before 1.4.13 in the text, 1.1.63 already uses the technical aṅga (aṅgādhikāra operations).",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "24002",
+      "quote": "प्राण्यङ्गानां द्वन्द्व एकवद् भवति, तथा तूर्याङ्गानां सेनाङ्गानां च। प्राण्यङ्गानां तावत् — पाणिपादम्।"
+     },
+     {
+      "file": "nyaas",
+      "id": "14001",
+      "quote": "अङसंज्ञायां भपदसंज्ञयोः समावेशो वक्तव्यः"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "what a suffix is added after is the AṄGA of that suffix",
+    "n": "6.4.1",
+    "count": 584
+   },
+   {
+    "text": "अङ्गस्य: the aṅga before that suffix — its suffix-caused operation does not take place",
+    "n": "1.1.63",
+    "count": 1
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "अङ्गस्य → the aṅga = what the suffix was introduced after, together with whatever begins it, when that suffix follows",
+    "n": "6.4.4",
+    "count": 54
+   },
+   {
+    "text": "अङ्गस्य (carried from 6.4.1) → what is replaced: “अङ्गस्य” (carried in) — also: नलोपः, लोपः, अङ्गस्य, असिद्धवदत्राभात्, आर्धधातुके → carried in from the sūtras named",
+    "n": "6.4.49",
+    "count": 30
+   },
+   {
+    "text": "अङ्गस्य (carried from 6.4.1) → what is replaced: “अङ्गस्य” (carried in) — also: नलोपः, अङ्गस्य, असिद्धवदत्राभात्, आर्धधातुके → carried in from the sūtras named",
+    "n": "6.4.47",
+    "count": 28
+   },
+   {
+    "text": "अङ्गस्य (carried from 6.4.1) → what is replaced: “अङ्गस्य” (carried in) — also: अङ्गस्य, असिद्धवदत्राभात्, आर्धधातुके → carried in from the sūtras named",
+    "n": "6.4.63",
+    "count": 27
+   },
+   {
+    "text": "अङ्गस्य (carried from 6.4.1) → describes: “अङ्गानाम्” (carried in) · काशिका: “घुसंज्ञकानामङ्गानां”",
+    "n": "6.4.66",
+    "count": 24
+   },
+   {
+    "text": "अङ्गस्य (carried from 6.4.1) → what is replaced: “अङ्गस्य” (carried in) — also: अङ्गस्य, असिद्धवदत्राभात् → carried in from the sūtras named",
+    "n": "6.4.23",
+    "count": 22
+   },
+   {
+    "text": "अङ्गस्य (carried from 6.4.1) → the base: “अङ्गस्य” (carried in) · प्रथमावृत्तिः: “नान्तस्याङ्गस्य”",
+    "n": "6.4.7",
+    "count": 20
+   },
+   {
+    "text": "अङ्गस्य (carried from 6.4.1) → the base: “अङ्गानाम्” (carried in)",
+    "n": "6.4.16",
+    "count": 14
+   }
+  ]
+ },
+ "2.1.1": {
+  "gloss": "",
+  "ruleText": "समर्थः पदविधिः",
+  "generalExplanation": "",
+  "conditions": [
+   {
+    "text": "C1 — 2.1.1 is a paribhāṣā: every padavidhi (samāsa etc.) operates only on words that are समर्थ — able to express the vigraha meaning / connected in meaning.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "21001",
+      "quote": "परिभाषेयम्।"
+     },
+     {
+      "file": "kashika",
+      "id": "21001",
+      "quote": "यः कश्चिदिह शास्त्रे पदविधिः श्रूयते स सर्वः समर्थो वेदितव्यः।"
+     }
+    ]
+   },
+   {
+    "text": "C2 — Its scope is padavidhi — samāsa first (Kāśikā example 2.1.24 कष्टश्रितः), but also taddhita (BM on 4.1.82).",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "21001",
+      "quote": "स पुनः समासादिः।"
+     },
+     {
+      "file": "balamanorama",
+      "id": "41082",
+      "quote": "एवंच 'प्राग्दिशः' इत्यादिषु स्वार्थिकप्रत्ययविधिषु नाऽस्य प्रवृत्तिरिति लभ्यते इत्याहुः ननु सुबन्तात्तद्धितोत्पत्तेर्वक्ष्यमाणत्वेन तद्धितविधीनां पदविधितयासमर्थः पदविंधि॑रिति परिभाषयैव एकार्थीभावरूपसामर्थ्यलाभादिह समर्थग्रहणं व्यर्थमित्यत आह — सामर्थ्यं परिनिष्ठितत्वमिति ।"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "समर्थानाम् = among the words connected in meaning",
+    "n": "4.1.82",
+    "count": 1
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "सुपा (carried from 2.1.4) → the base: “समर्थेन सुबन्तेन सह” (carried in) · प्रथमावृत्तिः: “समर्थेन सुबन्तेन सह” — also: सुप्सुपा (2.1.4) and the samāsa heading carry over → class notes (Samāsa intro): “X-विभक्त्यन्तं सुबन्तं … शब्दैः समस्यते”; Kāśikā: “… सह समस्यते, तत्पुरुषश्च समासो भवति”",
+    "n": "2.1.6",
+    "count": 3
+   },
+   {
+    "text": "वंश्येन → describes: “वंश्यवाचिना समर्थेन सुबन्तेन सह” (read from its case) · प्रथमावृत्तिः: “वंश्यवाचिना समर्थेन सुबन्तेन सह”",
+    "n": "2.1.19",
+    "count": 2
+   },
+   {
+    "text": "क्तेन (carried from 2.1.45) → also said: “क्तप्रत्ययान्तेन समर्थेन सुबन्तेन सह” (what ends in it) · प्रथमावृत्तिः: “क्तप्रत्ययान्तेन समर्थेन सुबन्तेन सह”",
+    "n": "2.1.46",
+    "count": 2
+   },
+   {
+    "text": "श्रमण-आदिभिः → the base: “श्रमणादिभिः समर्थैः सुबन्तैः सह” (read from its case) · प्रथमावृत्तिः: “श्रमणादिभिः समर्थैः सुबन्तैः सह”",
+    "n": "2.1.70",
+    "count": 2
+   },
+   {
+    "text": "सुपा (carried from 2.1.4) → also said: “समर्थेन सुबन्तेन सह” (carried in) · प्रथमावृत्तिः: “समर्थेन सुबन्तेन सह” — also: सुप्सुपा (2.1.4) and the samāsa heading carry over → class notes (Samāsa intro): “X-विभक्त्यन्तं सुबन्तं … शब्दैः समस्यते”; Kāśikā: “… सह समस्यते, तत्पुरुषश्च समासो भवति”",
+    "n": "2.2.6",
+    "count": 2
+   },
+   {
+    "text": "सुपा (carried from 2.1.4) → the base: “समर्थेन सुबन्तेन सह” (carried in) · प्रथमावृत्तिः: “समर्थेन सुबन्तेन सह” — also: नित्यं, आकडारात् एका संज्ञा, प्राक्कडारात्समासः, सुप्सुपा, विभाषा, तत्पुरुषः → carried in from the sūtras named — also: सुप्सुपा (2.1.4) and the samāsa heading carry over → class n",
+    "n": "2.2.18",
+    "count": 2
+   },
+   {
+    "text": "श्रित-अतीत-पतित-गत-अत्यस्त-प्राप्त-आपन्नैः → the base: “श्रितादिभिः समर्थैः सुबन्तैः सह” (read from its case) · प्रथमावृत्तिः: “आपन्न इत्येतैः समर्थैः सुबन्तैः सह”",
+    "n": "2.1.24",
+    "count": 1
+   },
+   {
+    "text": "क्तेन → the base: “क्तान्तेन समर्थेन सुबन्तेन सह” (what ends in it) · प्रथमावृत्तिः: “क्तान्तेन समर्थेन सुबन्तेन सह”",
+    "n": "2.1.25",
+    "count": 1
+   }
+  ]
+ },
+ "3.1.92": {
+  "gloss": "in the dhātu section a 7th-case word is an upapada",
+  "ruleText": "तत्रोपपदं सप्तमीस्थम्",
+  "generalExplanation": "in the kṛt section a word in the 7th case is the UPAPADA, the word used alongside the dhātu",
+  "conditions": [
+   {
+    "text": "Definition and scope: in the (third) dhātu section, what is denoted by a 7th-case word of a sūtra is called upapada; the word expressing it (कुम्भ…) is the upapada, and the suffix comes only when it is present.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "31092",
+      "quote": "तत्रैतस्मिन् धात्वधिकारे तृतीये यत् सप्तम्या निर्दिष्टं तदुपपदसंज्ञं भवति।"
+     },
+     {
+      "file": "kaumudi",
+      "id": "31092",
+      "quote": "वाच्यत्वेन स्थितं कुम्भादि तद्वाचकं पदमुपपदसंज्ञं स्यात्तस्मिंश्च सत्येव वक्ष्यमाणः प्रत्ययः"
+     }
+    ]
+   },
+   {
+    "text": "Range: only the third dhātu-adhikāra, i.e. 3.1.91–3.4.117 (not e.g. च्लि लुङि 3.1.43).",
+    "quotes": [
+     {
+      "file": "balamanorama",
+      "id": "31092",
+      "quote": "तत्र प्रत्यासत्त्या तृतीयधात्वधिकारस्थसप्तम्यन्तस्यैव ग्रहणात्"
+     },
+     {
+      "file": "nyaas",
+      "id": "31091",
+      "quote": "तसमादिह धात्वधिकारे कृदुपपदसंज्ञे यथा स्यातां पूर्वत्र मा भूतामिति पूनर्धातुग्रहणम्"
+     }
+    ]
+   },
+   {
+    "text": "Exclusion: a 7th-case word that states a MEANING (the suffix’s kāraka sense, a time, a circumstance) is not an upapada — by the commentators’ reading (व्याख्यानात्).",
+    "quotes": [
+     {
+      "file": "balamanorama",
+      "id": "31092",
+      "quote": "'धः कर्मणि ष्ट्रन्' 'भुवो भावे' इत्यादौ सप्तम्यन्तमर्थनिर्देशपरमेव, व्याख्यानादिति भाष्यकैयटादिषु स्पष्टम्"
+     },
+     {
+      "file": "tattvabodhini",
+      "id": "31092",
+      "quote": "क्वचिदर्थग्रहणं व्याख्यानादित्याहुः"
+     }
+    ]
+   },
+   {
+    "text": "An optional co-occurrence (“उपसर्गेऽपि” = with or without an upasarga) is not an upapada: the upapada must be present for the suffix.",
+    "quotes": [
+     {
+      "file": "kaumudi",
+      "id": "32061",
+      "quote": "एभ्यः क्विप्स्यादुपरसर्गे सत्यसति च सुप्युपपदे"
+     },
+     {
+      "file": "balamanorama",
+      "id": "32061",
+      "quote": "'अनुपसर्गे' इत्यस्य निवृत्त्यैव सिद्धे"
+     }
+    ]
+   },
+   {
+    "text": "The term defined here is what 2.2.19 (उपपदमतिङ्) and similar rules use; the उपपद of 1.3.77 is the non-technical “word said nearby”.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "31092",
+      "quote": "उपपदप्रदेशाः — <<उपपदमतिङ्>> (२.२.१९) इत्येवमादयः॥"
+     },
+     {
+      "file": "nyaas",
+      "id": "13077",
+      "quote": "न च स्वशब्द एवंविध इत्याह"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "in the kṛt section a word in the 7th case is the UPAPADA, the word used alongside the dhātu",
+    "n": "3.1.106",
+    "count": 251
+   },
+   {
+    "text": "अमा is the upapada (KV: तस्मिन्नुपपदे)",
+    "n": "3.1.122",
+    "count": 1
+   },
+   {
+    "text": "in the kṛt section a word in the 7th case is the UPAPADA, the word used alongside the dhātu — names the upapada",
+    "n": "3.3.65",
+    "count": 1
+   },
+   {
+    "text": "ईषदादिषु कृच्छ्राकृच्छ्रार्थेषु (3.3.126) runs on as the upapadas",
+    "n": "3.3.130",
+    "count": 1
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "सुपि → the word alongside (upapada): “सुबन्ते उपपदे” (read from its case) · काशिका: “सुबन्त उपपदे”",
+    "n": "3.1.106",
+    "count": 44
+   },
+   {
+    "text": "कर्तरि → the word alongside (upapada): “कर्तरि उपपदे” (read from its case) · प्रथमावृत्तिः: “कर्त्तर्युपपदे”",
+    "n": "3.2.79",
+    "count": 14
+   },
+   {
+    "text": "उपसर्गे → the word alongside (upapada): “उपसर्गे उपपदे” (settled by the commentary) · प्रथमावृत्तिः: “उपसर्गे चोपपदे”",
+    "n": "3.2.99",
+    "count": 11
+   },
+   {
+    "text": "कर्मणि (carried from 3.2.1) → the word alongside (upapada): “कर्मणि उपपदे” (carried in) · प्रथमावृत्तिः: “कर्मण्युपपदे”",
+    "n": "3.2.2",
+    "count": 10
+   },
+   {
+    "text": "अधिकरणे → the word alongside (upapada): “अधिकरणे उपपदे” (read from its case) · प्रथमावृत्तिः: “अधिकरणे सुबन्त उपपदे”",
+    "n": "3.2.15",
+    "count": 9
+   },
+   {
+    "text": "सुपि (carried from 3.2.4) → the word alongside (upapada): “सुबन्ते उपपदे” (carried in) · प्रथमावृत्तिः: “सुबन्त उपपदे”",
+    "n": "3.2.61",
+    "count": 9
+   },
+   {
+    "text": "उपे → the word alongside (upapada): “उप उपपदे” (read from its case) · प्रथमावृत्तिः: “उप उपपदे” — also: उपे: an upasarga in the 7th → the dhātu preceded by it (and the carried अनुपसर्गे no longer applies)",
+    "n": "3.2.73",
+    "count": 7
+   },
+   {
+    "text": "स्तम्ब-शकृतोः → the word alongside (upapada): “स्तम्ब शकृत् इत्येतयोः उपपदयोः” (read from its case) · काशिका: “स्तम्ब शकृत् इत्येतयोः”",
+    "n": "3.2.24",
+    "count": 6
+   }
+  ]
+ },
+ "3.1.94": {
+  "gloss": "a dissimilar apavāda blocks the utsarga only optionally (not in the strī section)",
+  "ruleText": "वाऽसरूपोऽस्त्रियाम्",
+  "generalExplanation": "",
+  "conditions": [
+   {
+    "text": "3.1.94 is a paribhāṣā valid only inside the dhātu adhikāra (3.1.91–3.4.117): there an apavāda suffix that is NOT sarūpa with the utsarga blocks it only optionally, so the utsarga stays as an option. It does not reach beyond the heading.",
+    "quotes": [
+     {
+      "file": "sutraani/kashika.txt",
+      "id": "31094",
+      "quote": "अस्मिन् धात्वधिकारेऽसमानरूपोऽपवादप्रत्ययो वा बाधको भवति स्त्र्यधिकारविहितप्रत्ययं वर्जयित्वा।"
+     },
+     {
+      "file": "sutraani/kaumudi.txt",
+      "id": "31094",
+      "quote": "अस्मिन्धात्वधिकारेऽसरूपोऽपवादप्रत्यय उत्सर्गस्य बाधको वा स्यात् स्त्र्यधिकारोक्तं विना"
+     }
+    ]
+   },
+   {
+    "text": "The utsarga is the rule the apavāda actually narrows in its own domain (Kāśikā’s example: ण्वुल्/तृच् 3.1.133 vs क 3.1.135). Suffixes taught for different senses (bhāva vs kartari) do not block each other. Kṛtyas (3.1.95–3.1.132) are only bhāva/karman; kṛt suffixes otherwise are kartari.",
+    "quotes": [
+     {
+      "file": "sutraani/kashika.txt",
+      "id": "31094",
+      "quote": "<<ण्वुल्तृचौ>> (३.१.१३३) इत्युत्सर्गौ, <<इगुपधज्ञाप्रीकिरःकः>> (३.१.१३५) इत्यपवादः, तद्विषये <<ण्वुल्तृचौ>> (३.१.१३३) अपि भवतः। विक्षेपकः। विक्षेप्ता। विक्षिपः।"
+     },
+     {
+      "file": "sutraani/padamanjari.txt",
+      "id": "31094",
+      "quote": "अपवादविधानसमये चोत्सर्गः"
+     }
+    ]
+   },
+   {
+    "text": "Inside the kṛtya section the generals तव्यत्/तव्य/अनीयर् remain beside यत्/ण्यत्/क्यप् by 3.1.94 (Bhāṣya on 3.1.97, Tattvabodhinī). The Bhāṣya on 3.1.94 also offers that तव्यत् etc. survive by their own statement, so this use is real but not the only account.",
+    "quotes": [
+     {
+      "file": "sutraani/bhashya.txt",
+      "id": "31094",
+      "quote": "तव्यत्तव्यानीयर उत्सर्गाः तेषामजन्ताद्यदपवादः  -  -चेयम् चेतव्यमित्यपि यथा स्यात्"
+     },
+     {
+      "file": "sutraani/bhashya.txt",
+      "id": "31097",
+      "quote": "वासरूपेण तव्यदादयो भविष्यन्ति"
+     }
+    ]
+   },
+   {
+    "text": "Sarūpa test: forms are compared without markers (PIS 8 नानुबन्धकृतमसारूप्यम्). A sarūpa apavāda (अण्/क; यत्/ण्यत्; घञ्/अच्/अप्/घ — all “अ”) blocks nityam.",
+    "quotes": [
+     {
+      "file": "sutraani/kashika.txt",
+      "id": "31094",
+      "quote": "असरूप इति किम्? <<कर्मण्यण्>> (३.२.१) इत्युत्सर्गः, <<आतोऽनुपसर्गे कः>> (३.२.३) इत्यपवादः, स  नित्यं बाधको भवति। गोदः। कम्बलदः। <<नानुबन्धकृतमसारूप्यम्>>।"
+     },
+     {
+      "file": "paribhashendushekhar/data.txt",
+      "id": "8",
+      "quote": "नानुबन्धकृतमसारूप्यम्"
+     }
+    ]
+   },
+   {
+    "text": "Strī exception: barred only for suffixes taught under the strī heading (3.3.94ff), and only when utsarga AND apavāda are both from that section.",
+    "quotes": [
+     {
+      "file": "sutraani/kashika.txt",
+      "id": "31094",
+      "quote": "अस्त्रियामिति किम्? <<स्त्रियां क्ति न्>> (३.३.९४) इत्युत्सर्गः, <<अ प्रत्ययात्>> (३.३.१०२) इत्यपवादः, स बाधक एव भवति।"
+     },
+     {
+      "file": "sutraani/bhashya.txt",
+      "id": "31094",
+      "quote": "स्त्रियाम् इत्यधिकृत्य ये प्रत्यया विहितास्तेषां प्रतिषेधो विज्ञास्यते"
+     }
+    ]
+   },
+   {
+    "text": "After the strī section 3.1.94 is anitya; in particular no 3.1.94 for क्त, ल्युट्, तुमुन्, खल् and their senses (PIS 69).",
+    "quotes": [
+     {
+      "file": "sutraani/kashika.txt",
+      "id": "33163",
+      "quote": "स्त्र्यधिकारात् परेण वासरूपविधिर्नावश्यं भवतीति"
+     },
+     {
+      "file": "sutraani/kaumudi.txt",
+      "id": "31132",
+      "quote": "तेन क्तल्युट्तुमुन्खलर्थेषु नेति सिद्धम्"
+     }
+    ]
+   },
+   {
+    "text": "Tācchīlika (3.2.134–3.2.177): 3.1.94 does not bring tṛc etc., nor one tācchīlika beside another (PIS 68) — prāyika.",
+    "quotes": [
+     {
+      "file": "sutraani/kashika.txt",
+      "id": "32134",
+      "quote": "आ एतस्मात् क्विप्संशब्दनाद् यानित ऊर्ध्वमनुक्रमिष्यामस्तच्छीलादिषु कर्तृषु ते वेदितव्याः।"
+     },
+     {
+      "file": "sutraani/bhashya.txt",
+      "id": "32146",
+      "quote": "ताच्छीलिकेषु सर्व एव तृजादयो वासरूपेण न भवन्तीति"
+     }
+    ]
+   },
+   {
+    "text": "Lādeśas: no 3.1.94 (PIS 70; e.g. सद्/वस्/श्रु take only क्वसु, 3.2.108).",
+    "quotes": [
+     {
+      "file": "paribhashendushekhar/data.txt",
+      "id": "70",
+      "quote": "लादेशेषु वाऽसरूपविधिर्नास्ति"
+     },
+     {
+      "file": "paribhashendushekhar/data.txt",
+      "id": "70",
+      "quote": "तत्फलं तु सदादिभ्यो भूतसामान्ये लिटा क्वसुरेव, न तु पक्षे तिङ् इति बोध्यम्"
+     }
+    ]
+   },
+   {
+    "text": "With a kriyārtha upapada (3.3.10ff) 3.1.94 does not bring tṛc etc.",
+    "quotes": [
+     {
+      "file": "sutraani/kashika.txt",
+      "id": "33010",
+      "quote": "क्रियायामुपपदे क्रियार्थायां वासरूपेण तृजादयो न भवन्ति (महाभाष्य २.१४१) इति"
+     }
+    ]
+   },
+   {
+    "text": "णमुल् section: क्त्वा comes by 3.1.94 throughout, except where क्त्वा and णमुल् are taught together.",
+    "quotes": [
+     {
+      "file": "sutraani/kashika.txt",
+      "id": "34047",
+      "quote": "सर्वस्मिन्नेवात्र णमुल्प्रकरणे क्रियाभेदे सति वासरूपविधिना क्त्वापि भवति।"
+     },
+     {
+      "file": "sutraani/kashika.txt",
+      "id": "34024",
+      "quote": "क्त्वाणमुलौ यत्र सह विधीयेते तत्र वासरूपविधिर्नास्तीत्येतदनेन ज्ञाप्यते।"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "यत् is an apavāda of तव्यत्, तव्य, अनीयर् (3.1.96; all dhātus) → यत् (य) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay available as options",
+    "n": "3.1.97",
+    "count": 30
+   },
+   {
+    "text": "विट् is an apavāda of ण्यत् (3.1.124; अद्: ends in a consonant) → विट् (०) ≠ ण्यत् (य) → they stay available as options",
+    "n": "3.2.68",
+    "count": 7
+   },
+   {
+    "text": "खच् is an apavāda of यत् (3.1.97; भू: ends in a vowel) → खच् (अ) ≠ यत् (य) → they stay available as options",
+    "n": "3.2.45",
+    "count": 5
+   },
+   {
+    "text": "अतृन् is an apavāda of ण्यत् (3.1.124; जॄ: ends in ऋ) → अतृन् (अत्) ≠ ण्यत् (य) → they stay available as options",
+    "n": "3.2.104",
+    "count": 2
+   },
+   {
+    "text": "शानन् is an apavāda of ण्यत् (3.1.124; पू,यज्: ends in a consonant) → शानन् (आन) ≠ ण्यत् (य) → they stay available as options",
+    "n": "3.2.128",
+    "count": 1
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "ण्यत् → the suffix: “ण्यत् प्रत्ययः” (read from its case) · काशिका: “ण्यत् प्रत्ययो भवति” — also: ण्यत् is an apavāda of तव्यत्, तव्य, अनीयर् (3.1.96; all dhātus) → ण्यत् (य) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay available as options",
+    "n": "3.1.124",
+    "count": 7
+   },
+   {
+    "text": "क्यप् (carried from 3.1.106) → the suffix: “क्यप् प्रत्ययः” (carried in) · प्रथमावृत्तिः: “क्यप् प्रत्ययो भवति” — also: क्यप् is an apavāda of तव्यत्, तव्य, अनीयर् (3.1.96; all dhātus) → क्यप् (य) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay available as options — also: क्यप् vs यत् → mar",
+    "n": "3.1.107",
+    "count": 4
+   },
+   {
+    "text": "क्यप् (carried from 3.1.106) → the suffix: “क्यप् प्रत्ययः” (carried in) · प्रथमावृत्तिः: “क्यप् प्रत्ययो भवति” — also: कृत्, कृत्याः, क्यप्, प्रत्ययः, परश्च, आद्युदात्तश्च, धातोः → carried in from the sūtras named — also: क्यप् is an apavāda of तव्यत्, तव्य, अनीयर् (3.1.96; all dhātus) → क्यप् (य) ",
+    "n": "3.1.110",
+    "count": 4
+   },
+   {
+    "text": "यत् (carried from 3.1.97) → the suffix: “यत् प्रत्ययः” (carried in) · प्रथमावृत्तिः: “यत् प्रत्ययो भवति” — also: कृत्, कृत्याः, यत्, प्रत्ययः, परश्च, आद्युदात्तश्च, धातोः → carried in from the sūtras named — also: यत् is an apavāda of तव्यत्, तव्य, अनीयर् (3.1.96; all dhātus) → यत् (य) ≠ तव्यत् (तव्",
+    "n": "3.1.98",
+    "count": 3
+   },
+   {
+    "text": "ण्यत् (carried from 3.1.124) → the suffix: “ण्यत् प्रत्ययः” (carried in) · प्रथमावृत्तिः: “ण्यत् प्रत्ययो भवति” — also: कृत्, कृत्याः, ण्यत्, प्रत्ययः, परश्च, आद्युदात्तश्च, धातोः → carried in from the sūtras named — also: ण्यत् is an apavāda of तव्यत्, तव्य, अनीयर् (3.1.96; all dhātus) → ण्यत् (य) ",
+    "n": "3.1.125",
+    "count": 2
+   },
+   {
+    "text": "ष्ट्रन् (carried from 3.2.181) → the suffix: “ष्ट्रन् प्रत्ययः” (carried in) · प्रथमावृत्तिः: “ष्ट्रन् प्रत्ययो भवति” — also: ष्ट्रन् is an apavāda of तव्यत्, तव्य, अनीयर् (3.1.96; all dhātus) → ष्ट्रन् (त्र) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay available as options — also: ष्ट्रन",
+    "n": "3.2.182",
+    "count": 2
+   },
+   {
+    "text": "इत्र is an apavāda of तव्यत्, तव्य, अनीयर् (3.1.96; all dhātus) → इत्र (इत्र) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay available as options",
+    "n": "3.2.184",
+    "count": 2
+   },
+   {
+    "text": "यत् → the suffix: “यत् प्रत्ययः” (read from its case) · प्रथमावृत्तिः: “यत् प्रत्ययः” — also: यत् is an apavāda of तव्यत्, तव्य, अनीयर् (3.1.96; all dhātus) → यत् (य) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay available as options",
+    "n": "3.1.97",
+    "count": 1
+   }
+  ]
+ },
+ "3.3.108 vt.2": {
+  "gloss": "a dhātu is cited with इक् or श्तिप् (मृजि, अस्ति, जहाति…)",
+  "ruleText": "इक्श्तिपौ धातुनिर्देशे",
+  "generalExplanation": "",
+  "conditions": [
+   {
+    "text": "The vārttika (read on 3.3.108) supplies two suffixes, इक् and श्तिप्, for CITING a dhātu by name: पचि / पचति (gen. पचेः / पचतेः).",
+    "quotes": [
+     {
+      "file": "bhashya",
+      "id": "33108",
+      "quote": "इक्श्तिपावित्येतौ प्रत्ययौ धातुनिर्देशे वक्तव्यौ। पचेर्ब्रूहि पचतेर्ब्रूहि।"
+     },
+     {
+      "file": "kashika",
+      "id": "33108",
+      "quote": "इक्श्तिपौ धातुनिर्देशे॥ भिदिः। छिदिः। पचतिः। पठतिः॥"
+     }
+    ]
+   },
+   {
+    "text": "Citing (निर्देश) = repeating the root as a name (अनुकरण). The श्तिप् form carries the vikaraṇa and its substitutes (पचति with शप्; पिबति, जिघ्रति); the sūtras themselves use such forms (सुनोति, सुवति, स्यति, ध्यायतेः).",
+    "quotes": [
+     {
+      "file": "tattvabodhini",
+      "id": "33108",
+      "quote": "इक्श्तिपौ । धातोर्निर्देशः-अनुकरणम् ।"
+     },
+     {
+      "file": "nyaas",
+      "id": "33108",
+      "quote": "ककारः कित्कार्यार्थः, तेन पचतिरिति सार्वधातुकनिबन्धनः शब्भवति।"
+     }
+    ]
+   },
+   {
+    "text": "It is optional (बहुल): a root may also be cited bare (दृशः, यजः, खनः) — such a citation is NOT an instance of इक्/श्तिप्.",
+    "quotes": [
+     {
+      "file": "tattvabodhini",
+      "id": "33108",
+      "quote": "बहुलमित्यनुवृत्तेः क्वचिन्न ।"
+     },
+     {
+      "file": "nyaas",
+      "id": "33108",
+      "quote": "तेन `इक्श्तिपौ धातुनिर्दशे`(वा।319) इत्येवमादि सर्वं संगृहीतं भवति।"
+     }
+    ]
+   },
+   {
+    "text": "Not every final -इ on a root-name is इक्: an इ 'for pronunciation' on a substitute (वयि, गमि), an 'incidental' इ (इन्धि, कुण्डि), or the -इ of a ṇyanta stem (पूरि, एजि) are expressly distinguished from इक्.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "24041",
+      "quote": "वेञो वयिरादेशो भवत्यन्यतरस्यां लिटि परतः। इकार उच्चारणार्थः।"
+     },
+     {
+      "file": "kashika",
+      "id": "24046",
+      "quote": "णौ परत इणोऽबोधनार्थस्य गमिरादेशो भवति। इकार उच्चारणार्थः।"
+     }
+    ]
+   },
+   {
+    "text": "The vikaraṇa-bearing श्तिप् form singles out one of several homonymous roots; the credit must therefore name the root the citation picks out.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "74063",
+      "quote": "कवतेः इति विकरणनिर्देशः कौतेः कुवतेश्च निवृत्त्यर्थः।"
+     },
+     {
+      "file": "kashika",
+      "id": "74009",
+      "quote": "दयतेः इति दीङो ग्रहणं न तु दय दाने इत्यस्य।"
+     }
+    ]
+   },
+   {
+    "text": "It names DHĀTUS only (धातुनिर्देशे): a noun, case-suffix, kṛt/taddhita substitute or a stray letter-string that resembles a root is outside it. (Condition read from the vārttika's own wording; no separate quote.)",
+    "quotes": [
+     {
+      "file": "bhashya",
+      "id": "33108",
+      "quote": "इक्श्तिपावित्येतौ प्रत्ययौ धातुनिर्देशे वक्तव्यौ।"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "अस्तेः: dhātu named in its श्तिप् form → = the dhātu अस्",
+    "n": "2.4.52",
+    "count": 47
+   },
+   {
+    "text": "श्रि: the dhātu श्रिञ् सेवायाम् (gaṇa 1) → a dhātu may be named by its इक् or श्तिप् form (इक्श्तिपौ धातुनिर्देशे); the vṛtti names it by the श्तिप् form श्रयति → श्रयतेः",
+    "n": "7.2.49",
+    "count": 2
+   },
+   {
+    "text": "वञ्च्: the dhātu वन्चुँ गतौ (gaṇa 1) → a dhātu may be named by its इक् or श्तिप् form (इक्श्तिपौ धातुनिर्देशे); the vṛtti names it by the श्तिप् form वञ्चति → वञ्चतेः — the Kāśikā’s choice among 2 roots of this shape",
+    "n": "7.3.63",
+    "count": 1
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "लुञ्च्: the dhātu लुन्चँ अपनयने (gaṇa 1) → a dhātu may be named by its इक् or श्तिप् form (इक्श्तिपौ धातुनिर्देशे); the vṛtti names it by the श्तिप् form लुञ्चति → लुञ्चतेः",
+    "n": "1.2.24",
+    "count": 46
+   },
+   {
+    "text": "तृष्: the dhātu ञितृषाँ पिपासायाम् (gaṇa 4) → a dhātu may be named by its इक् or श्तिप् form (इक्श्तिपौ धातुनिर्देशे); the vṛtti names it by the श्तिप् form तृष्यति → तृष्यतेः",
+    "n": "1.2.25",
+    "count": 25
+   },
+   {
+    "text": "स्वप्: the dhātu ञिष्वपँ शये (gaṇa 2) → a dhātu may be named by its इक् or श्तिप् form (इक्श्तिपौ धातुनिर्देशे); the vṛtti names it by the श्तिप् form स्वपिति → स्वपितेः",
+    "n": "1.2.8",
+    "count": 10
+   },
+   {
+    "text": "ग्रह्: the dhātu ग्रहँ उपादाने (gaṇa 9) → a dhātu may be named by its इक् or श्तिप् form (इक्श्तिपौ धातुनिर्देशे); the vṛtti names it by the श्तिप् form गृह्णाति → गृह्णातेः",
+    "n": "1.2.8",
+    "count": 8
+   },
+   {
+    "text": "ऋच्छ्: the dhātu ऋछँ गतीन्द्रियप्रलयमूर्तिभावेषु (gaṇa 6) → a dhātu may be named by its इक् or श्तिप् form (इक्श्तिपौ धातुनिर्देशे); the vṛtti names it by the श्तिप् form ऋच्छति → ऋच्छतेः",
+    "n": "1.3.29",
+    "count": 8
+   },
+   {
+    "text": "मृज्: the dhātu मृजूँ शुद्धौ (gaṇa 2) → a dhātu may be named by its इक् or श्तिप् form (इक्श्तिपौ धातुनिर्देशे); the vṛtti names it by the श्तिप् form मार्ष्टि → मार्ष्टि — the Kāśikā’s choice among 2 roots of this shape",
+    "n": "3.1.113",
+    "count": 7
+   },
+   {
+    "text": "लीयतेः → the base: “लीयतेः धातोः” (read from its case) · काशिका: “लीयतेर्धातोर्ल्यपि” — 1.1.49 not applicable: not the place (a prakriti) — also: लीयतेः: dhātu named in its श्तिप् form → = the dhātu ली — also: लीयतेः: 6th case → names the place — the thing replaced (“स्थाने”) — also: आ replaces लीयत",
+    "n": "6.1.51",
+    "count": 7
+   },
+   {
+    "text": "अन्द्: the dhātu अदिँ बन्धने (gaṇa 1) → a dhātu may be named by its इक् or श्तिप् form (इक्श्तिपौ धातुनिर्देशे); the vṛtti names it by the श्तिप् form अन्दति → अन्दतेः — corrected by the audit: अदि is the इक् form of अद् (the अदादि gaṇa), not अदिँ बन्धने (अन्द्)",
+    "n": "2.4.72",
+    "count": 5
+   }
+  ]
+ },
+ "4.1.82": {
+  "gloss": "a taddhita suffix comes after the first of the semantically connected words, in the case the sūtra names (samartha)",
+  "ruleText": "समर्थानां प्रथमाद्वा",
+  "generalExplanation": "a taddhita suffix goes after the first of the words able to take it, standing in the case the rule names",
+  "conditions": [
+   {
+    "text": "Scope. 4.1.82 is an adhikāra of three separate items — समर्थानाम्, प्रथमात्, वा — running from 4.1.83 up to (not including) 5.3.1 प्राग्दिशो विभक्तिः, i.e. through 5.2.140. It is not a vidhi of its own.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "41082",
+      "quote": "त्रयमप्यधिक्रियते समर्थानामिति च, प्रथमादिति च, वेति च। स्वार्थिकप्रत्ययावधिश्चायमधिकारः, <<प्राग् दिशो विभक्तिः>>[[५.३.१]] इति यावत्।"
+     },
+     {
+      "file": "balamanorama",
+      "id": "41082",
+      "quote": "विधेयस्याऽदर्शनान्नायं स्वतन्त्रविधिरिति मत्वाह — इदं पदत्रयमधिक्रियत इति ।"
+     }
+    ]
+   },
+   {
+    "text": "What it does. In the defining (lakṣaṇa) sentences of the section — तस्यापत्यम्, तेन रक्तं रागात्, तत्र भवः … — the suffix comes, optionally, after the FIRST-NAMED of the semantically connected words, i.e. the word standing in the case the sentence names (the samartha-vibhakti). Checkable predicate: the rule (or the lakṣaṇa-sentence it inherits) introduces a taddhita suffix, and the base of that suffix is the word in the named case.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "41082",
+      "quote": "लक्षणवाक्यानि <<तस्यापत्यम्>> [[४.१.९२]] <<तेन रक्तं रागात्>> [[४.२.१]] <<तत्र भवः>> [[४.३.५३]] इत्येवमादीनि भविष्यन्ति। तेषु सामर्थ्ये सति प्रथमनिर्दिष्टादेव विकल्पेन प्रत्ययो भवतीति वेदितव्यम्।"
+     },
+     {
+      "file": "kashika",
+      "id": "41082",
+      "quote": "समर्थानामिति निर्धारणे षष्ठी। समर्थानां मध्ये प्रथमः प्रत्ययप्रकृतित्वेन निर्धार्यते।"
+     }
+    ]
+   },
+   {
+    "text": "'प्रथम' = first uttered in the rule's own sentence (the samartha-vibhakti word: तस्य, तेन, तत्र, सा/सः/तत्, तस्मै …), NOT the other words of that sentence. In particular the word naming the suffix's MEANING (अस्य, अस्मिन्, अस्मै, एषाम्, अनेन, इदम्, अपत्यम् …) is the pratyayārtha, not the samartha; and a word naming a suffix (यत्, इन, य …) is not a samartha word at all.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "41082",
+      "quote": "प्रथमादिति किम्? षष्ठ्यन्ताद् यथा स्यात् प्रथमान्ताद् मा भूत्।"
+     },
+     {
+      "file": "balamanorama",
+      "id": "41082",
+      "quote": "समर्थानां मध्ये प्रथमोच्चारितादित्यर्थः ।"
+     }
+    ]
+   },
+   {
+    "text": "'वा' (the mahāvibhāṣā) makes every taddhita of the section optional against the plain sentence (vākya).",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "41082",
+      "quote": "वेति किम्? वाक्यमपि हि यथा स्यात् — उपगोरपत्यमिति।"
+     }
+    ]
+   },
+   {
+    "text": "Svārthika suffixes (the suffix adds no meaning beyond the base's own): समर्थ and प्रथम have nothing to work on (no second connected word), so only the वा part can apply — and even that is not uniform: some svārthikas are obligatory (Bhāṣya's list quoted by the Nyāsa).",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "41082",
+      "quote": "स्वार्थिकेषु ह्यस्योपयोगो नास्ति, विकल्पोऽपि तत्रानवस्थितः। केचिन्नित्यमेव भवन्ति।"
+     },
+     {
+      "file": "nyaas",
+      "id": "41082",
+      "quote": "तस्मात् समर्थतावा अभावात् स्वार्थिकेषु समर्थानामित्येतत् तावन्नोपयुज्यते। अत एव प्रतियोगिनोऽभावात् प्रथमादित्येतदपि नोपयुज्यत एव।"
+     }
+    ]
+   },
+   {
+    "text": "From 5.3.1 on, समर्थ and प्रथम stop; वा continues (making 5.3.x/5.4.x suffixes optional unless obligatory). So a credit after 5.2.140 is licensed only for the वा part.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "53001",
+      "quote": "अतः परं स्वार्थिकाः प्रत्ययाः, तेषु समर्थाधिकारः प्रथमग्रहणं च प्रतियोग्यपेक्षत्वाद् नोपयुज्यत इति द्वयमपि निवृत्तम्। वावचनं तु वर्तत एव, तेन विकल्पेन तसिलादयो भवन्ति।"
+     },
+     {
+      "file": "kashika",
+      "id": "53092",
+      "quote": "महाविभाषया चात्र प्रत्ययो विकल्प्यते।"
+     }
+    ]
+   },
+   {
+    "text": "(Derived from C2 — auditor's reading, stated so it can be challenged.) The rule places a suffix. At a rule whose OWN operation is a luk/lup of an already-introduced suffix, an āgama or ādeśa where the suffix is supplied by an earlier rule, a prohibition (न भवति), or no operation at all (a saṃjñā, a meaning-heading), 4.1.82 does nothing — unless a commentator reads it into that rule (C8). Kāśikā marks such rules explicitly.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "41127",
+      "quote": "आदेशार्थं वचनम् प्रत्ययश्च पूर्वेणैव सिद्धः।"
+     },
+     {
+      "file": "kashika",
+      "id": "42025",
+      "quote": "ततः पूर्वेणैवाण्प्रत्ययः सिद्धः, इकारादेशार्थं वचनम्।"
+     }
+    ]
+   },
+   {
+    "text": "A commentator may read part of 4.1.82 into a non-suffix rule inside the section; that is an application (licensed). Seen: Mahābhāṣya at 4.1.162 (प्रथम restricts the gotra-saṃjñā), Nyāsa at 4.1.88 (the वा makes the luk a vyavasthita-vibhāṣā). Merely NAMING 4.1.82 while discussing something else is not.",
+    "quotes": [
+     {
+      "file": "bhashya",
+      "id": "41162",
+      "quote": "न वक्तव्यम्। समर्थानां प्रथमाद्वा [[4.1.82]] इति वर्तते। समर्थानां प्रथमस्य यदपत्यं पौत्रप्रभृतीति विज्ञायते॥"
+     },
+     {
+      "file": "nyaas",
+      "id": "41088",
+      "quote": "`वेत्यनुवर्तते` इति <<समर्थानां प्रथमाद्वा>> [[4.1.82]]  इत्यतः। नन्वेवमपि सर्वत्र विकल्पेन लुक् प्राप्नोतीत्यत आह - `सा च` इत्यादि। च शब्दो हेतौ। यस्मात् सा व्यवस्थितविभाषा विज्ञायते"
+     }
+    ]
+   },
+   {
+    "text": "Nipātanas: the samartha-vibhakti, suffix and meaning are all learnt from the nipātana itself; the derivation is still a taddhita of this section (so the credit stands), but a samartha case carried in from a neighbouring rule is not evidence.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "42036",
+      "quote": "समर्थविभक्तिः प्रत्ययः प्रत्ययार्थोऽनुबन्ध इति सर्वं निपातनाद् विज्ञेयम्।"
+     },
+     {
+      "file": "kashika",
+      "id": "42013",
+      "quote": "कुमारीशब्दाद् द्वितीयासमर्थादुपयन्तरिः प्रत्ययः।"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "a taddhita suffix goes after the first of the words able to take it, standing in the case the rule names",
+    "n": "4.1.84",
+    "count": 726
+   },
+   {
+    "text": "a taddhita suffix goes after the first of the words able to take it, standing in the case the rule names — the suffix comes after the first (base) word, standing in the षष्ठी — समर्थानां प्रथमाद्वा",
+    "n": "4.1.88",
+    "count": 7
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "समर्थानाम् (carried from 4.1.82) → the samartha word: “समर्थात्” (carried in)",
+    "n": "4.1.84",
+    "count": 154
+   },
+   {
+    "text": "तत् (carried from 4.1.82) → the samartha word: “प्रथमासमर्थात्” (carried in) — also: तत्, अस्य, परिमाणम्, वर्गे, प्रत्ययः, परश्च, आद्युदात्तश्च, ङ्याप्प्रातिपदिकात्, तद्धिताः, प्राग्वतेष्ठञ्, आर्हादगोपुच्छसंख्यापरिमाणाट्ठक्, समर्थानां प्रथमाद्वा → carried in from the sūtras named — also: तत् (carrie",
+    "n": "5.1.61",
+    "count": 23
+   },
+   {
+    "text": "तत्र (carried from 4.4.98) → the samartha word: “सप्तमीसमर्थेभ्यः” (carried in) · प्रथमावृत्तिः: “सप्तमीसमर्थेभ्यः” — also: तत्र (carried over): a pronoun in the सप्तमी → the base word is in the सप्तमी (सप्तमीसमर्थात्) — 4.1.82 समर्थानां प्रथमाद्वा; class notes 88–103",
+    "n": "4.4.99",
+    "count": 20
+   },
+   {
+    "text": "तस्य (carried from 4.3.134) → the samartha word: “षष्ठीसमर्थेभ्यः” (carried in) · काशिका: “षष्ठीसमर्थेभ्योऽवयवे” — also: तस्य (carried over): a pronoun in the षष्ठी → the base word is in the षष्ठी (षष्ठीसमर्थात्) — 4.1.82 समर्थानां प्रथमाद्वा; class notes 88–103",
+    "n": "4.3.135",
+    "count": 18
+   },
+   {
+    "text": "सा → the samartha word: “प्रथमासमर्थात्” (read from its case) · प्रथमावृत्तिः: “सेति प्रथमासमर्थात्” — also: सा: a pronoun in the प्रथमा → the base word is in the प्रथमा (प्रथमासमर्थात्) — 4.1.82 समर्थानां प्रथमाद्वा; class notes 88–103",
+    "n": "4.2.21",
+    "count": 16
+   },
+   {
+    "text": "तत् (carried from 4.1.82) → the samartha word: “प्रथमासमर्थात्” (carried in) — also: तत्, अस्य, अस्ति, अस्मिन्, इति, मतुप्, अण्, प्रत्ययः, परश्च, आद्युदात्तश्च, ङ्याप्प्रातिपदिकात्, तद्धिताः, समर्थानां प्रथमाद्वा → carried in from the sūtras named — also: तत् (carried over): a pronoun in the प्रथमा ",
+    "n": "5.2.104",
+    "count": 16
+   },
+   {
+    "text": "तस्य (carried from 4.2.37) → the samartha word: “षष्ठीसमर्थेभ्यः” (carried in) · प्रथमावृत्तिः: “षष्ठीसमर्थेभ्यो” — also: तस्य (carried over): a pronoun in the षष्ठी → the base word is in the षष्ठी (षष्ठीसमर्थात्) — 4.1.82 समर्थानां प्रथमाद्वा; class notes 88–103",
+    "n": "4.2.38",
+    "count": 15
+   },
+   {
+    "text": "a taddhita suffix → it comes after the first of the semantically connected words — समर्थानां प्रथमाद्वा (the case is the one the meaning sūtra that applies names)",
+    "n": "4.1.83",
+    "count": 13
+   }
+  ]
+ },
+ "6.1.158": {
+  "gloss": "",
+  "ruleText": "",
+  "generalExplanation": "",
+  "conditions": [
+   {
+    "text": "A paribhāṣā on accent rules: wherever an udātta or svarita is taught, the pada is anudātta except the one vowel that rule gives its accent to.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "61158",
+      "quote": "परिभाषेयं स्वरविधिविषया। यत्रान्यः स्वर उदात्तः स्वरितो वा विधीयते, तत्रानुदात्तं पदमेकं वर्जयित्वा भवतीत्येतदुपस्थितं द्रष्टव्यम्।"
+     },
+     {
+      "file": "kashika",
+      "id": "61158",
+      "quote": "कः पुनरेको वर्ज्यते ? यस्यासौ स्वरो विधीयते।"
+     }
+    ]
+   },
+   {
+    "text": "It is kāryakāla: it is present at every rule where such an accent is taught, in the whole Saptādhyāyī (not only book 6) — so it is part of reading those rules.",
+    "quotes": [
+     {
+      "file": "bhashya",
+      "id": "61158",
+      "quote": "कार्यकालं संज्ञापरिभाषम् । यत्र कार्यं तत्रोपस्थितमिदं द्रष्टव्यम् ।"
+     },
+     {
+      "file": "nyaas",
+      "id": "61158",
+      "quote": "परिभाषायां त्वस्यां तेऽपि संगृहीता भवन्ति।"
+     }
+    ]
+   },
+   {
+    "text": "Its domain is the pada, not the sentence.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "61158",
+      "quote": "वाक्ये हि प्रतिपदं स्वरः पृथग् भवति"
+     }
+    ]
+   },
+   {
+    "text": "A tripādī accent is asiddha for it (8.2.1) — explicitly for 8.4.66 — except where a vārttika makes it siddha (the ekādeśa-svara of 8.2.5).",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "84066",
+      "quote": "अस्य स्वरितस्यासिद्धत्वाद्  <<अनुदात्तं पदमेकवर्जम्>> [[६.१.१५८]] इत्येतद् न प्रवर्तते।"
+     },
+     {
+      "file": "kashika",
+      "id": "82003",
+      "quote": "एकादेशस्वरस्य सिद्धत्वात् तेन <<अनुदात्तं पदमेकवर्जम्>> [[६.१.१५८]] इति वर्ज्यमानता भवति।"
+     }
+    ]
+   },
+   {
+    "text": "Rules that teach two udāttas at once (युगपत्) override it.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "61200",
+      "quote": "युगपद्ग्रहणं पर्यायनिवृत्त्यर्थम्। एकवर्जमिति वचनाद्यौगपद्यं न स्यात्॥"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "one vowel's accent is taught here, so the rest of the pada is anudātta — काशिका on 6.1.158: “यत्रान्यः स्वर उदात्तः स्वरितो वा विधीयते, तत्रानुदात्तं पदमेकं वर्जयित्वा भवतीत्येतदुपस्थितं द्रष्टव्यम्”",
+    "n": "3.1.3",
+    "count": 206
+   },
+   {
+    "text": "the vowel the rule names is the one that keeps the accent; the rest of the pada is anudātta — काशिका on 6.1.158: “कः पुनरेको वर्ज्यते ? यस्यासौ स्वरो विधीयते”; न्यासः: “यस्य चोदात्तः स्वरतो [sic: स्वरितो] वा विधीयते स एवाको [sic: एवैको] वज्र्यते [sic: वर्ज्यते]”",
+    "n": "6.2.27",
+    "count": 12
+   }
+  ],
+  "stepTexts": []
+ },
+ "8.2.1": {
+  "gloss": "",
+  "ruleText": "",
+  "generalExplanation": "",
+  "conditions": [
+   {
+    "text": "8.2.1 is an adhikāra running to the end of the Aṣṭādhyāyī; each later rule is asiddha for every earlier one (the tripādī for the first 7¼ books, and within the tripādī).",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "82001",
+      "quote": "पूर्वत्रासिद्धमित्यधिकारोऽयम् आध्यायपरिसमाप्तेः।"
+     },
+     {
+      "file": "kashika",
+      "id": "82001",
+      "quote": "इत उत्तरं चोत्तर उत्तरो योगः पूर्वत्रपूर्वत्रासिद्धो भवति, असिद्धवद् भवति।"
+     }
+    ]
+   },
+   {
+    "text": "Being an adhikāra, “पूर्वत्रासिद्धम्” runs on into every tripādī sūtra and forms one sentence with it — so it is part of how each tripādī sūtra is read.",
+    "quotes": [
+     {
+      "file": "balamanorama",
+      "id": "82001",
+      "quote": "इदं सूत्रमुपरितनसूत्रेष्वनुवृत्त्यर्थमेव, न तु स्वतन्त्रविधिरिति यावत्"
+     },
+     {
+      "file": "balamanorama",
+      "id": "82001",
+      "quote": "'मय उञो वो वा' इति सूत्रे पूर्वत्रासिद्धमित्यनुवर्तते"
+     }
+    ]
+   },
+   {
+    "text": "Limits on the effect (not on the credit): नलोप is asiddha only for sup/svara/saṃjñā/kṛt-tuk operations (8.2.2, a niyama), and vārttikas make some tripādī operations siddha for given purposes.",
+    "quotes": [
+     {
+      "file": "kaumudi",
+      "id": "82002",
+      "quote": "सुब्विधौ स्वरविधौ संज्ञाविधौ कृतितुग्विधौ च नलोपोऽसिद्धो नान्यत्र"
+     },
+     {
+      "file": "kashika",
+      "id": "82003",
+      "quote": "एकादेशस्वरोऽन्तरङ्गः सिद्धो वक्तव्यः"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [],
+  "stepTexts": []
+ },
+ "PIS 119": {
+  "gloss": "",
+  "ruleText": "",
+  "generalExplanation": "",
+  "conditions": [
+   {
+    "text": "C1. Content: a nipātana is undertaken only where some general rule would otherwise apply, so within its own scope it blocks that rule (the regular form is not also correct there). The rival view, that nipātanas need not block, is rejected as against the Bhāṣya.",
+    "quotes": [
+     {
+      "file": "paribhashendushekhar",
+      "id": "119",
+      "quote": "तत्तत्कायें नाप्राप्ते निपातनारम्भात्"
+     },
+     {
+      "file": "paribhashendushekhar",
+      "id": "119",
+      "quote": "अबाधकान्यपि निपातनानीति तु भाष्यविरुद्धम्"
+     }
+    ]
+   },
+   {
+    "text": "C2. Scope: the sūtra must state a form ready-made (Kāśikā “निपात्यते/निपात्यन्ते”, or a list of forms valid exactly as spoken). A time rule or a saṃjñā that makes listed words correct by another route is not a nipātana.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "33003",
+      "quote": "भविष्यति काले गम्यादयः शब्दाः साधवो भवन्ति। प्रत्ययस्यैव भविष्यत्कालता विधीयते न प्रकृतेः।"
+     },
+     {
+      "file": "kashika",
+      "id": "14020",
+      "quote": "भपदसंज्ञाधिकारे विधानात् तेन मुखेन साधुत्वमयस्मयादीनां विधीयते।"
+     }
+    ]
+   },
+   {
+    "text": "C3. What blocking means, in a commentator's words; and its absence: where the text says the regular form is also used, PIS 119 does no work.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "54139",
+      "quote": "समुदायपाठस्य च प्रयोजनं विषयनियमः — स्त्रियामेव, तत्र ङीप्प्रत्यय एव, नान्यदा।"
+     },
+     {
+      "file": "kashika",
+      "id": "61060",
+      "quote": "न पुनरयमादेशः शिरःशब्दस्य, सोऽपि हि छन्दसि प्रयुज्यत एव"
+     }
+    ]
+   },
+   {
+    "text": "C4. Optional nipātanas: where the sūtra itself keeps the regular form as an option, blocking and not blocking give the same forms (see the “unsure” members). Where commentators invoke the rival maxim “अबाधकान्यपि निपातनानि” it is on sūtras that are not in this firing list.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "51060",
+      "quote": "वावचनात् पक्षे सोऽपि भवति"
+     },
+     {
+      "file": "kashika",
+      "id": "72027",
+      "quote": "विकल्पार्थं निपातनम्"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [],
+  "stepTexts": []
+ },
+ "PIS 122": {
+  "gloss": "a suffix with no stated meaning has the base’s own meaning",
+  "ruleText": "अनिर्दिष्टार्थाः प्रत्ययाः स्वार्थे",
+  "generalExplanation": "",
+  "conditions": [
+   {
+    "text": "C1 — PIS 122: a suffix for which no meaning is taught is in its own sense, i.e. the sense of its base.",
+    "quotes": [
+     {
+      "file": "paribhashendushekhar",
+      "id": "122",
+      "quote": "अनिर्दिष्टार्थाः प्रत्ययाः स्वार्थे"
+     },
+     {
+      "file": "paribhashendushekhar",
+      "id": "122",
+      "quote": "स्वार्थ इत्यस्य स्वीयप्रकृत्यर्थ इत्यर्थः ।"
+     }
+    ]
+   },
+   {
+    "text": "C2 — The Bhāṣya states it under 3.2.4 etc.; its standard examples are गुप्तिज्किद्भ्यः सन् (3.1.5) and यावादिभ्यः कन् (5.4.29).",
+    "quotes": [
+     {
+      "file": "paribhashendushekhar",
+      "id": "122",
+      "quote": "<<सुपि स्थः>> [[3.2.4]] इत्यादिसूत्रेषु भाष्ये स्पष्टैषा ॥"
+     },
+     {
+      "file": "bhashya",
+      "id": "32004",
+      "quote": "तद्यथा गुप्तिज्किद्भ्यः सन् यावादिभ्यः कन् इति।"
+     }
+    ]
+   },
+   {
+    "text": "C3 — Where a sūtra teaches a meaning (कारके, कर्तरि, बहुषु), the paribhāṣā is the reason that sūtra is needed — it does not apply to that suffix.",
+    "quotes": [
+     {
+      "file": "bhashya",
+      "id": "33019",
+      "quote": "स्वार्थे मा भूवन्कारके यथा स्युरित्येवमर्थमिदमुच्यते॥"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "no meaning is taught for this suffix, so it is in the base’s own sense (स्वार्थे)",
+    "n": "4.4.141",
+    "count": 29
+   }
+  ],
+  "stepTexts": []
+ },
+ "PIS 123": {
+  "gloss": "",
+  "ruleText": "",
+  "generalExplanation": "",
+  "conditions": [
+   {
+    "text": "C1. Content: when a commentator splits one sūtra into two (योगविभाग), the split may be used only to get desired forms, never to produce wrong ones. Bīja: a rule that Pāṇini stated as a separate second yoga with the same operation is indicated to be anitya.",
+    "quotes": [
+     {
+      "file": "paribhashendushekhar",
+      "id": "123",
+      "quote": "इष्टसिद्धिरेव न त्वनिष्टापादनं कार्यमित्यर्थः"
+     },
+     {
+      "file": "paribhashendushekhar",
+      "id": "123",
+      "quote": "तत्तत्समानविधिकद्वितीययोगेन विभक्तस्यानित्यत्वज्ञापनमेतद्बीजम्"
+     }
+    ]
+   },
+   {
+    "text": "C2. What the paribhāṣā covers: a split made by the commentators (कर्तव्यः / क्रियते / करिष्यते / योगं विभज्य) of the sūtra being read, to get a form or meaning the undivided sūtra does not give. Nyāsa states the maxim in these words at 2.3.25.",
+    "quotes": [
+     {
+      "file": "nyaas",
+      "id": "23025",
+      "quote": "यत्रेष्यते तत्रय योगविभागादिष्टसिद्धिरिति स्त्रियामपि भवत्येव"
+     },
+     {
+      "file": "kashika",
+      "id": "63084",
+      "quote": "समानस्येति योगविभाग इष्टप्रसिद्ध्यर्थः  क्रियते"
+     }
+    ]
+   },
+   {
+    "text": "C3. Not covered: a remark explaining why Pāṇini himself wrote two sūtras instead of one — so that only part runs on by anuvṛtti (“उत्तरार्थः”), so that yathāsaṅkhya (1.3.10) does not apply, or for illustration. Nothing is split and no extra form results; the sūtra is read as it stands. (This is also what the engine's wording “the sūtra is stated separately for a purpose” describes, so the wording itself misreads the paribhāṣā.)",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "31009",
+      "quote": "योगविभाग उत्तरत्र क्यचोऽनुवृत्त्यर्थः"
+     },
+     {
+      "file": "kashika",
+      "id": "43082",
+      "quote": "योगविभागो यथासंख्यनिरासार्थः"
+     }
+    ]
+   },
+   {
+    "text": "C4. Derivation only: where the Kāśikā splits ANOTHER sūtra to account for an example compound or an extra form (“तृतीयेति योगविभागात् समासः”), PIS 123 explains how the example is made, not how this sūtra is read. That is a derivation note (↪), not a credit.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "63006",
+      "quote": "तृतीयेति योगविभागात् समासः"
+     },
+     {
+      "file": "kashika",
+      "id": "32153",
+      "quote": "अनित्योऽयं प्रतिषेध इति योगविभागाद् विज्ञायते"
+     }
+    ]
+   },
+   {
+    "text": "C5. A jñāpaka drawn from Pāṇini's separate statement is not a split; it may point to another principle.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "72016",
+      "quote": "एतद् ज्ञापयति — यदुपाधेर्विभाषा तदुपाधेः प्रतिषेध इति"
+     },
+     {
+      "file": "kashika",
+      "id": "13007",
+      "quote": "पृथग्योगकरणमस्य विधेरनित्यत्वज्ञापनार्थम्"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [],
+  "stepTexts": []
+ },
+ "PIS 18": {
+  "gloss": "",
+  "ruleText": "",
+  "generalExplanation": "",
+  "conditions": [
+   {
+    "text": "C1 — PIS 18 क्वचिदेकदेशोऽप्यनुवर्तते: sometimes only part of an earlier word is carried on. Śekhara cites Bhāṣya at 4.1.27 and 6.1.93.",
+    "quotes": [
+     {
+      "file": "paribhashendushekhar",
+      "id": "18",
+      "quote": "क्वचिदेकदेशोऽप्यनुवर्तते"
+     },
+     {
+      "file": "paribhashendushekhar",
+      "id": "18",
+      "quote": "स्पष्टा चेयम् <<दामहायनान्ताच्च>> [[4.1.27]] इति सूत्रे <<औतोऽम्शसोः>> [[6.1.93]] इति सूत्रे च भाष्ये पूर्वा च॥"
+     }
+    ]
+   },
+   {
+    "text": "C2 — At 6.1.131 Kāśikā says only \"पद\" of पदान्तात् (6.1.109) is carried.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "61131",
+      "quote": "<<एङः पदान्तादति>> [[६.१.१०९]] इत्यतः पदग्रहणमनुवर्तते।"
+     },
+     {
+      "file": "kashika",
+      "id": "61131",
+      "quote": "दिवः पदस्योकारादेशो भवति।"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "only part of an earlier word runs on (पद from पदान्तात्, 6.1.109) — काशिका: “… [6.1.109] इत्यतः पदग्रहणमनुवर्तते”",
+    "n": "6.1.131",
+    "count": 1
+   }
+  ],
+  "stepTexts": []
+ },
+ "PIS 23": {
+  "gloss": "a suffix named = the word from its base up to the suffix",
+  "ruleText": "प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम्",
+  "generalExplanation": "a suffix named in a rule stands for the word that ENDS in that suffix (starting from what it was added to)",
+  "conditions": [
+   {
+    "text": "Definition: a suffix (or suffix class) named in a rule stands for the word that begins with what it was added to and ends in it. The tadādi part comes from splitting 1.4.13; the tadanta part rests on 1.1.72.",
+    "quotes": [
+     {
+      "file": "paribhashendushekhar",
+      "id": "23",
+      "quote": "प्रत्ययग्रहणे यस्मात्स विहितस्तदादेस्तदन्तस्य ग्रहणम्"
+     },
+     {
+      "file": "paribhashendushekhar",
+      "id": "23",
+      "quote": "तदन्तांशस्तु <<येन विधिः>> [[1.1.72]] इत्यनेन सिद्धः"
+     }
+    ]
+   },
+   {
+    "text": "Only when suffixes alone are named, not a term covering both suffix and non-suffix items.",
+    "quotes": [
+     {
+      "file": "paribhashendushekhar",
+      "id": "23",
+      "quote": "प्रत्ययमात्रग्रहणे एषा न तु प्रत्ययाप्रत्ययग्रहण इति"
+     }
+    ]
+   },
+   {
+    "text": "Suffix used as the nimitta (7th, 'when X follows'): only the tadādi part applies. A suffix after a 5th-case word: tadādi part, with the 5th-case word read as ending in it (6.1.69).",
+    "quotes": [
+     {
+      "file": "paribhashendushekhar",
+      "id": "23",
+      "quote": "यत्र प्रत्ययो निमित्तत्वेनाश्रीयते तत्र तदादीत्यन्तांशमात्रोपस्थितिरिति"
+     },
+     {
+      "file": "paribhashendushekhar",
+      "id": "23",
+      "quote": "एवं यत्रापि पञ्चम्यन्तात्परः प्रत्यय आश्रीयते तत्रापि तदादीत्यन्तांशोपस्थितिः, परन्तु तत्र पञ्चम्यन्तता"
+     }
+    ]
+   },
+   {
+    "text": "PIS 24: a suffix that follows a 5th-case word, taken up to prescribe some other operation, gets no tadanta (8.2.42); 6.1.68 is not such a case.",
+    "quotes": [
+     {
+      "file": "paribhashendushekhar",
+      "id": "24",
+      "quote": "यत्र पञ्चम्यन्तात्परः प्रत्ययः कार्यान्तरविधानाय परिगृह्यते, तत्र तदन्तविधिर्नेत्यर्थः"
+     },
+     {
+      "file": "paribhashendushekhar",
+      "id": "24",
+      "quote": "<<हल्ङ्याब्भ्यः>> [[6.1.68]] इत्यादौ तु न दोषः, तत्र कस्मादिति नियतावध्याकाङ्क्षाया अभावेन पञ्चम्यन्तस्य प्रत्ययविशेषणत्वाभावात्"
+     }
+    ]
+   },
+   {
+    "text": "PIS 25: in the uttarapada adhikāra a suffix named means only itself (jñāpaka: लेख in 6.3.50). The Bhāṣya reaches खिदन्त at 6.3.66 by a separate argument. The Nyāsa applies PIS 25 to suffixes naming the following element (घ etc.); the Kāśikā still reads ङीप्रत्ययान्त for a pūrvapada (6.3.43).",
+    "quotes": [
+     {
+      "file": "paribhashendushekhar",
+      "id": "25",
+      "quote": "उत्तरपदाधिकारे प्रत्ययग्रहणे न तदन्तग्रहणम्"
+     },
+     {
+      "file": "paribhashendushekhar",
+      "id": "25",
+      "quote": "तत्र लेखेति न घञन्तमनभिधानात्"
+     }
+    ]
+   },
+   {
+    "text": "PIS 26: an anupasarjana strī suffix is not bound by the tadādi restriction; the tadanta reading itself stays.",
+    "quotes": [
+     {
+      "file": "paribhashendushekhar",
+      "id": "26",
+      "quote": "यः स्त्रीप्रत्ययः स्त्रियं प्राधान्येनाऽऽह तत्र तदादिनियमो न, यस्त्वप्राधान्येनाऽऽह तत्र तदादिनियमोऽस्त्येवेत्यर्थः"
+     }
+    ]
+   },
+   {
+    "text": "PIS 27: no tadanta for a suffix named in a saṃjñā rule (jñāpaka: सुप्तिङन्तम्). Where commentators still read tadanta (1.1.23, 1.1.38, 1.2.46) they justify it by sāmarthya or by the carried अर्थवत्.",
+    "quotes": [
+     {
+      "file": "paribhashendushekhar",
+      "id": "27",
+      "quote": "संज्ञाविधौ प्रत्ययग्रहणे तदन्तग्रहणं नास्ति"
+     },
+     {
+      "file": "paribhashendushekhar",
+      "id": "27",
+      "quote": "सुप्तिङन्तम् [[1.4.14]] इत्यन्तग्रहणमस्यां ज्ञापकम्"
+     }
+    ]
+   },
+   {
+    "text": "PIS 28: a kṛt suffix named also covers a gati/kāraka before it — explicit at 7.1.37.",
+    "quotes": [
+     {
+      "file": "paribhashendushekhar",
+      "id": "28",
+      "quote": "कृद्ग्रहणे गतिकारकपूर्वस्यापि ग्रहणम्"
+     },
+     {
+      "file": "paribhashendushekhar",
+      "id": "28",
+      "quote": "स्पष्टं चेदं सर्वं <<समासेऽनञ्पूर्वे>> [[7.1.37]] इति सूत्रे भाष्यकैयटयोः"
+     }
+    ]
+   },
+   {
+    "text": "A suffix must be NAMED as a known element: a suffix that is prescribed, or part of a ready-made (nipātana) form, is not a pratyaya-grahaṇa; a 'X-प्रत्यये' bahuvrīhi qualifies by its own meaning; when the operation changes the suffix itself (luk, ādeśa, its own accent) there is no tadanta; homonyms (roots, pronouns, particles, ordinals, sounds) are not suffixes; an upasarga is not covered by सुप्.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "31102",
+      "quote": "वहेर्धातोः करणे यत् प्रत्ययो निपात्यते"
+     },
+     {
+      "file": "kashika",
+      "id": "54128",
+      "quote": "द्विदण्ड्यादयः शब्दा इच्प्रत्ययान्ताः साधवो भवन्ति"
+     }
+    ]
+   },
+   {
+    "text": "Anarthaka sequences अन्/इन्/अस्/मन् get tadanta under 1.1.72 (PIS 16), not PIS 23.",
+    "quotes": [
+     {
+      "file": "bhashya",
+      "id": "11072",
+      "quote": "अनिनस्मन्ग्रहणान्यर्थवता चानर्थकेन च तद्न्तविधिं प्रयोजयन्ति।"
+     },
+     {
+      "file": "paribhashendushekhar",
+      "id": "16",
+      "quote": "येन विधिः' [[1.1.72]] इत्यत्र भाष्ये वचनरूपेण पठितैषा"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "a suffix named = the word from its base up to the suffix",
+    "n": "1.3.57",
+    "count": 191
+   },
+   {
+    "text": "a suffix named in a rule stands for the word that ENDS in that suffix (starting from what it was added to)",
+    "n": "1.1.23",
+    "count": 118
+   },
+   {
+    "text": "a suffix named in a rule stands for the word that ENDS in that suffix (starting from what it was added to) — सन्नन्तात् धातोः (a dhātu ending in it)",
+    "n": "1.3.57",
+    "count": 13
+   },
+   {
+    "text": "a suffix named in a rule stands for the word that ENDS in that suffix (starting from what it was added to) — सुबन्तात् — what ends in it (with what it was added to)",
+    "n": "3.1.8",
+    "count": 13
+   },
+   {
+    "text": "a suffix named in a rule stands for the word that ENDS in that suffix (starting from what it was added to) — ण्यन्तात् — what ENDS in it",
+    "n": "3.2.137",
+    "count": 11
+   },
+   {
+    "text": "a suffix named in a rule stands for the word that ENDS in that suffix (starting from what it was added to) — अप्राणिषष्ठ्यन्तात् — a word ENDING in that case ending",
+    "n": "6.2.134",
+    "count": 10
+   },
+   {
+    "text": "a suffix named in a rule stands for the word that ENDS in that suffix (starting from what it was added to) — सन्नन्तात् — what ENDS in it, as the prathamāvṛtti, Siddhānta-kaumudī, Laghu-kaumudī reads it",
+    "n": "1.3.62",
+    "count": 7
+   },
+   {
+    "text": "a suffix named in a rule stands for the word that ENDS in that suffix (starting from what it was added to) — what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … तदन्तस्य ग्रहणम्)",
+    "n": "2.1.24",
+    "count": 7
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "सुबन्तम्: a suffix (or case ending) named → what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … तदन्तस्य ग्रहणम्)",
+    "n": "2.1.6",
+    "count": 64
+   },
+   {
+    "text": "सुप् is a suffix group → सुबन्त (the word ending in a sup suffix)",
+    "n": "3.1.106",
+    "count": 24
+   },
+   {
+    "text": "डति → describes: “डतिप्रत्ययान्ता” (what ends in it) · प्रथमावृत्तिः: “डतिप्रत्ययान्ता संख्या”",
+    "n": "1.1.25",
+    "count": 13
+   },
+   {
+    "text": "तिङ् (carried from 8.1.28) → what is replaced: “तिङन्तम्” (carried in) · प्रथमावृत्तिः: “युक्तं तिङन्तं नानुदात्तं”",
+    "n": "8.1.36",
+    "count": 13
+   },
+   {
+    "text": "तिङ् (carried from 8.1.28) → what is replaced: “तिङन्तम्” (carried in) · प्रथमावृत्तिः: “तिङन्तं”",
+    "n": "8.1.29",
+    "count": 11
+   },
+   {
+    "text": "क्यात् → the base: “क्यप्रत्ययान्तात् धातोः” (what ends in it) · काशिका: “क्यप्रत्ययान्ताद् धातोश्छन्दसि”",
+    "n": "3.2.170",
+    "count": 6
+   },
+   {
+    "text": "सप्तम्याम् → the word alongside (upapada): “सप्तम्यन्ते उपपदे” (what ends in it) · काशिका: “सप्तम्यन्त उपपदे”",
+    "n": "3.2.97",
+    "count": 5
+   },
+   {
+    "text": "पञ्चम्या → describes: “पञ्चम्यन्तेन” (what ends in it) · प्रथमावृत्तिः: “पञ्चम्यन्तेन”",
+    "n": "2.1.12",
+    "count": 4
+   }
+  ]
+ },
+ "PIS 28": {
+  "gloss": "",
+  "ruleText": "",
+  "generalExplanation": "",
+  "conditions": [
+   {
+    "text": "C1 — The vendored Śekhara's no. 28 is कृद्ग्रहणे गतिकारकपूर्वस्यापि ग्रहणम् (\"where a kṛt is named, the kṛdanta with a gati/kāraka before it is meant too\") — which is what the engine's effect text describes. गतिकारकोपपदानां कृद्भिः सह समासवचनं प्राक् सुबुत्पत्तेः is no. 76, a different maxim (the label in the audit brief is off). It holds for a kṛt in general and for a particular kṛt.",
+    "quotes": [
+     {
+      "file": "paribhashendushekhar",
+      "id": "28",
+      "quote": "कृद्ग्रहणे गतिकारकपूर्वस्यापि ग्रहणम्"
+     },
+     {
+      "file": "paribhashendushekhar",
+      "id": "28",
+      "quote": "इयं च कृत्सामान्यग्रहणे कृद्विशेषग्रहणे च"
+     }
+    ]
+   },
+   {
+    "text": "C2 — Its jñāpaka is the word अनन्तरः in 6.2.49; there (and in 7.1.37) the commentators say it is NOT applied.",
+    "quotes": [
+     {
+      "file": "paribhashendushekhar",
+      "id": "28",
+      "quote": "<<गतिरनन्तरः>> [[6.2.49]] इति सूत्रेऽनन्तरग्रहणं ज्ञापकम्"
+     },
+     {
+      "file": "kashika",
+      "id": "62049",
+      "quote": "अनन्तरग्रहणसामर्थ्यादेव <<कृद्ग्रहणे गतिकारकपूर्वस्यापि०>> (परि० २८) इत्येतद् नाश्रीयते।"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [],
+  "stepTexts": []
+ },
+ "PIS 8": {
+  "gloss": "marker letters do not make suffixes dissimilar",
+  "ruleText": "नानुबन्धकृतमसारूप्यम्",
+  "generalExplanation": "",
+  "conditions": [
+   {
+    "text": "C1 — PIS 8 नानुबन्धकृतमसारूप्यम्: in the sarūpa test of 3.1.94 वाऽसरूपोऽस्त्रियाम्, suffixes are compared without their anubandhas; two suffixes that differ only in markers (अण्/क; यत्/ण्यत्; घञ्/अच्/अप्/घ/ण/श — all \"अ\" or all \"य\") are sarūpa, so the apavāda blocks the utsarga outright. Jñāpaka: the explicit विभाषा of 3.1.139.",
+    "quotes": [
+     {
+      "file": "paribhashendushekhar",
+      "id": "8",
+      "quote": "नानुबन्धकृतमसारूप्यम्"
+     },
+     {
+      "file": "paribhashendushekhar",
+      "id": "8",
+      "quote": "ददातिदधात्योर्विभाषा' [[3.1.139]] इति ण-बाधकशस्य विकल्पविधायकमस्यां ज्ञापकम्"
+     }
+    ]
+   },
+   {
+    "text": "C2 — PIS 8 only ever DENIES asārūpya; it has nothing to say where the two suffixes differ even without markers (e.g. अ vs तव्य). It also presupposes a real utsarga–apavāda pair in the dhātu section; kṛtyas are bhāva/karman suffixes of 3.1.95–3.1.132 only, and the strī section (3.3.94ff) is outside 3.1.94.",
+    "quotes": [
+     {
+      "file": "kashika",
+      "id": "34070",
+      "quote": "तयोरेव भावकर्मणोः कृत्यसंज्ञकाः क्तखलर्थाश्च प्रत्यया भवन्ति।"
+     },
+     {
+      "file": "kashika",
+      "id": "31095",
+      "quote": "प्रागेतस्माण् ण्वुल्संशब्दनाद् यानित ऊर्ध्वमनुक्रमिष्यामः, कृत्यसंज्ञकास्ते वेदितव्याः।"
+     }
+    ]
+   },
+   {
+    "text": "C3 — Two sister maxims share the opening \"नानुबन्धकृतम्…\": PIS 6 नानुबन्धकृतमनेकाल्त्वम् (counting sounds for 1.1.55) and PIS 7 नानुबन्धकृतमनेजन्तत्वम् (ejanta-ness for ātva etc.). Neither is an engine pid; a passage naming them is not PIS 8.",
+    "quotes": [
+     {
+      "file": "paribhashendushekhar",
+      "id": "6",
+      "quote": "नानुबन्धकृतमनेकाल्त्वम्"
+     },
+     {
+      "file": "paribhashendushekhar",
+      "id": "7",
+      "quote": "नानुबन्धकृतमनेजन्तत्वम्"
+     }
+    ]
+   }
+  ],
+  "cardTexts": [
+   {
+    "text": "यत् vs ण्यत् → markers removed before comparing",
+    "n": "3.1.99",
+    "count": 14
+   }
+  ],
+  "stepTexts": [
+   {
+    "text": "क्यप् (carried from 3.1.106) → the suffix: “क्यप् प्रत्ययः” (carried in) · प्रथमावृत्तिः: “क्यप् प्रत्ययो भवति” — also: क्यप् is an apavāda of तव्यत्, तव्य, अनीयर् (3.1.96; all dhātus) → क्यप् (य) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay available as options — also: क्यप् vs यत् → mar",
+    "n": "3.1.107",
+    "count": 4
+   },
+   {
+    "text": "क्यप् (carried from 3.1.106) → the suffix: “क्यप् प्रत्ययः” (carried in) · प्रथमावृत्तिः: “क्यप् प्रत्ययो भवति” — also: कृत्, कृत्याः, क्यप्, प्रत्ययः, परश्च, आद्युदात्तश्च, धातोः → carried in from the sūtras named — also: क्यप् is an apavāda of तव्यत्, तव्य, अनीयर् (3.1.96; all dhātus) → क्यप् (य) ",
+    "n": "3.1.110",
+    "count": 4
+   },
+   {
+    "text": "यत् (carried from 3.1.97) → the suffix: “यत् प्रत्ययः” (carried in) · प्रथमावृत्तिः: “यत् प्रत्ययो भवति” — also: कृत्, कृत्याः, यत्, प्रत्ययः, परश्च, आद्युदात्तश्च, धातोः → carried in from the sūtras named — also: यत् is an apavāda of तव्यत्, तव्य, अनीयर् (3.1.96; all dhātus) → यत् (य) ≠ तव्यत् (तव्",
+    "n": "3.1.99",
+    "count": 2
+   },
+   {
+    "text": "ण्यत् (carried from 3.1.124) → the suffix: “ण्यत् प्रत्ययः” (carried in) · प्रथमावृत्तिः: “ण्यत् प्रत्ययो भवति” — also: कृत्, कृत्याः, ण्यत्, प्रत्ययः, परश्च, आद्युदात्तश्च, धातोः → carried in from the sūtras named — also: ण्यत् is an apavāda of तव्यत्, तव्य, अनीयर् (3.1.96; all dhātus) → ण्यत् (य) ",
+    "n": "3.1.125",
+    "count": 2
+   },
+   {
+    "text": "श is an apavāda of तव्यत्, तव्य, अनीयर् (3.1.96; all dhātus) → श (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay available as options — corrected by the audit: Kāśikā names the real utsarga: ण (\"णस्यापवादः\"), which is sarūpa with the apavāda once markers go",
+    "n": "3.1.139",
+    "count": 2
+   },
+   {
+    "text": "क्यप् → the suffix: “क्यप् प्रत्ययः” (read from its case) · काशिका: “क्यप् प्रत्ययो भवति”",
+    "n": "3.1.106",
+    "count": 1
+   },
+   {
+    "text": "यत् (carried from 3.1.97) → the suffix: “यत् प्रत्ययः च” (carried in) · काशिका: “चकाराद् यच्च” — also: क्यप् is an apavāda of तव्यत्, तव्य, अनीयर् (3.1.96; all dhātus) → क्यप् (य) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay available as options — also: क्यप् vs ण्यत् → markers removed be",
+    "n": "3.1.106",
+    "count": 1
+   },
+   {
+    "text": "क्यप् → the suffix: “क्यप् प्रत्ययः” (read from its case) · काशिका: “क्यप् प्रत्ययो भवति” — also: कृत्, कृत्याः, क्यप्, प्रत्ययः, परश्च, आद्युदात्तश्च, धातोः → carried in from the sūtras named — also: क्यप् is an apavāda of तव्यत्, तव्य, अनीयर् (3.1.96; all dhātus) → क्यप् (य) ≠ तव्यत् (तव्य), तव्य ",
+    "n": "3.1.109",
+    "count": 1
+   }
+  ]
+ }
+}

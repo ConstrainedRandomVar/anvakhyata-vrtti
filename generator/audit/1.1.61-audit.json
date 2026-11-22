@@ -1,0 +1,122 @@
+{
+ "pid": "1.1.61",
+ "generated": "2026-11-20",
+ "input": "audit/1.1.61-firings.json",
+ "totals": {
+  "firings": 12,
+  "licensed": 12,
+  "not_licensed": 0,
+  "unsure": 0,
+  "groups": {
+   "licensed": 3,
+   "not licensed": 0,
+   "mixed": 0,
+   "unsure": 0
+  },
+  "not_licensed_by_should_be": {},
+  "not_licensed_by_reason": {},
+  "quotes": 5
+ },
+ "conditions": [
+  {
+   "text": "C1 — 1.1.61: लुक्, श्लु and लुप् are names for the disappearance (adarśana) of a SUFFIX. So a sūtra that orders लुक्/श्लु/लुप् is about a whole suffix; and a word built on these names (लुमता 1.1.63) refers back to them.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11061",
+     "quote": "प्रत्ययादर्शनस्य लुक्, श्लु, लुप् इत्येताः संज्ञा भवन्ति।"
+    },
+    {
+     "file": "kashika",
+     "id": "11063",
+     "quote": "लुमता शब्देन लुप्ते प्रत्यये यदङ्गम्, तस्य प्रत्ययलक्षणं कार्यं न भवति।"
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | operation | X: supplied",
+   "verdict": "licensed",
+   "how_checked": "Kāśikā at each sūtra read for the sthānin of the लुक् (\"युवप्रत्ययस्य\", \"गोत्रप्रत्ययस्य\", \"चिण उत्तरस्य प्रत्ययस्य\").",
+   "licensed": [
+    "2.4.59",
+    "2.4.60",
+    "2.4.61",
+    "2.4.63",
+    "2.4.65",
+    "2.4.67",
+    "2.4.68",
+    "2.4.69",
+    "2.4.70",
+    "6.4.104"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "licensed 10 · not licensed 0 · unsure 0 — All licensed: लुक् is by definition a suffix-disappearance, and Kāśikā names the suffix in each (2.4.61 and 2.4.67 are prohibitions of that लुक् — still a लुक् of a suffix)."
+  },
+  {
+   "id": "G2",
+   "group": "carried / not a sūtra word | paribhāṣā | X",
+   "verdict": "licensed",
+   "how_checked": "Kāśikā on 1.1.63.",
+   "licensed": [
+    "1.1.63"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "licensed 1 · not licensed 0 · unsure 0 — Licensed: लुमता = by a word containing लु (लुक्/श्लु/लुप्), the names defined in 1.1.61."
+  },
+  {
+   "id": "G3",
+   "group": "carried / not a sūtra word | vidhi | X: supplied",
+   "verdict": "licensed",
+   "how_checked": "Kāśikā on 5.1.89 (\"उत्पन्नस्य प्रत्ययस्य नित्यं लुग्\").",
+   "licensed": [
+    "5.1.89"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "licensed 1 · not licensed 0 · unsure 0"
+  }
+ ],
+ "missed": [
+  {
+   "n": "1.2.49",
+   "pid": "1.1.61",
+   "why": "Kāśikā on 1.1.61 lists its own pradeśas — लुक् तद्धितलुकि (1.2.49), जुहोत्यादिभ्यः श्लुः (2.4.75), जनपदे लुप् (4.2.81); none carries a 1.1.61 credit (the engine credits it only where it supplies \"प्रत्ययस्य\").",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11061",
+     "quote": "लुक्श्लुलुप्प्रदेशाः — <<लुक् तद्धितलुकि>> [[१.२.४९]], <<जुहोत्यादिभ्यः श्लुः>> [[२.४.७५]],<<जनपदे लुप्>> [[४.२.८१]] इत्येवमादयः॥"
+    }
+   ]
+  },
+  {
+   "n": "2.4.75",
+   "pid": "1.1.61",
+   "why": "As above (श्लु).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11061",
+     "quote": "लुक्श्लुलुप्प्रदेशाः — <<लुक् तद्धितलुकि>> [[१.२.४९]], <<जुहोत्यादिभ्यः श्लुः>> [[२.४.७५]],<<जनपदे लुप्>> [[४.२.८१]] इत्येवमादयः॥"
+    }
+   ]
+  },
+  {
+   "n": "4.2.81",
+   "pid": "1.1.61",
+   "why": "As above (लुप्).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11061",
+     "quote": "लुक्श्लुलुप्प्रदेशाः — <<लुक् तद्धितलुकि>> [[१.२.४९]], <<जुहोत्यादिभ्यः श्लुः>> [[२.४.७५]],<<जनपदे लुप्>> [[४.२.८१]] इत्येवमादयः॥"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,827 @@
+{
+ "_about": "Audit of every ✔ firing of 1.1.71 आदिरन्त्येन सहेता in work/vrtti-gen. Input audit/1.1.71-firings.json. Every quote verified by script as a verbatim substring of ~/Projects/ashtadhyayi-data/sutraani/<file>.txt (id = 5-digit sūtra id) or paribhashendushekhar/data.txt (id = paribhāṣā number). \"word\" = member-line text between the sūtra number and ⟨…⟩, trimmed. \"effect_defects\" lists licensed credits whose trigger/effect text is wrong or that carry a caveat — not to be dropped.",
+ "totals": {
+  "firings": 99,
+  "licensed": 69,
+  "not_licensed": 29,
+  "unsure": 1,
+  "not_licensed_by_should_be": {
+   "none": 25,
+   "PIS 23": 3,
+   "1.1.72": 1
+  },
+  "not_licensed_by_reason": {
+   "HOMONYM": 14,
+   "NO_IK": 2,
+   "SAMANYA_GRAHANA": 5,
+   "SUFFIX": 3,
+   "WORD_ENDING": 2,
+   "NOT_THIS_SUTRA": 2,
+   "WRONG_NUMBER": 1
+  }
+ },
+ "conditions": [
+  {
+   "text": "Definition: a first element uttered together with a final इत् (marker) denotes the elements between them and itself. The Kāśikā's examples include suffix pratyāhāras: अण् अक् अच् हल् सुप् तिङ्.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11071",
+     "quote": "आदिरन्त्येनेत्संज्ञकेन सह गृह्यमाणस्तन्मध्यपतितानां वर्णानां ग्राहको भवति, स्वस्य च रूपस्य। अण्। अक्। अच्। हल्। सुप्। तिङ्।"
+    },
+    {
+     "file": "kaumudi",
+     "id": "11071",
+     "quote": "अन्त्येनेता सहित आदिर्मध्यगानां स्वस्य च संज्ञा स्यात् ॥"
+    }
+   ]
+  },
+  {
+   "text": "सुट् (सु … औट्) is a pratyāhāra: the Kāśikā's counter-example for \"अन्त्येन\" is exactly सुट्.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11071",
+     "quote": "अन्त्येनेति किम्? सुडिति तृतीयैकवचनेन टा इत्यनेन ग्रहणं मा भूत्॥"
+    }
+   ]
+  },
+  {
+   "text": "Not a pratyāhāra although it looks like one: the feminine आप् (टाप्/डाप्/चाप्) is a common name got by dropping the distinguishing markers (सामान्यग्रहण), not 1.1.71; the pratyāhāra आप् (टा … सुप्) is a different thing used in 7.2.112. Likewise a dhātu (इण्, आप्ऌ, चर, अञ्च्), a noun (हल \"plough\", शर, यम् \"whom\"), a taddhita suffix (यञ्, अण्), or a word-ending (-अक, -इक) is not a pratyāhāra.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "41001",
+     "quote": "ङीब्ङीष्ङीनां सामान्येन ग्रहणं ङीति, टाप्डाप्चापामाबिति"
+    },
+    {
+     "file": "kaumudi",
+     "id": "72112",
+     "quote": "आबिति टा इत्यारभ्य सुपः पकारेण प्रत्याहारः"
+    },
+    {
+     "file": "kashika",
+     "id": "64138",
+     "quote": "अच इत्ययमञ्चतिर्लुप्तनकारो गृह्यते।"
+    }
+   ]
+  },
+  {
+   "text": "इक् via 1.1.3: where guṇa/vṛddhi is enjoined with no sthānin named, \"इकः\" is understood and is a pratyāhāra. Where the sthānin is given otherwise (अचामादेः carried from 7.2.117, or the उपधा अत् of 7.2.116), 1.1.3's इक् is not what is read.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "72114",
+     "quote": "मृजेरङ्गस्येको वृद्धिर्भवति।"
+    },
+    {
+     "file": "kashika",
+     "id": "73034",
+     "quote": "किं चोक्तम्? <<अत उपधायाः>> [[७.२.११६]] इति वृद्धिः।"
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | operation | X: a sound group",
+   "count": 34,
+   "verdict": "mixed",
+   "how_checked": "All 34 members read by hand (sūtra, trigger word, our vṛtti, Kāśikā via tools/recs.js dump /tmp/aud/1.1.71.txt), each word checked against the pratyāhāra list (~/Projects/ashtadhyayi-data/pratyahara/data.txt) and the Kāśikā gloss of the word.",
+   "licensed": [
+    "6.4.156",
+    "7.1.39",
+    "7.2.1",
+    "7.2.4",
+    "7.2.5",
+    "7.2.6",
+    "7.2.114",
+    "7.2.115",
+    "7.3.16",
+    "7.3.26",
+    "7.3.82",
+    "7.3.83",
+    "7.3.84",
+    "7.3.85",
+    "7.3.86",
+    "7.3.87",
+    "7.3.88",
+    "7.3.90",
+    "7.3.91",
+    "7.3.111",
+    "7.4.11",
+    "7.4.13",
+    "7.4.16",
+    "7.4.21",
+    "7.4.57",
+    "7.4.75",
+    "7.4.82"
+   ],
+   "not_licensed": [
+    {
+     "n": "6.4.138",
+     "word": "अच्",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "अचः is the root अञ्च् with its न् lost, not the pratyāhāra अच्.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "64138",
+       "quote": "अच इत्ययमञ्चतिर्लुप्तनकारो गृह्यते।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.34",
+     "word": "इक्",
+     "should_be": "none",
+     "reason": "NO_IK",
+     "why": "the vṛddhi negated is 7.2.116's vṛddhi of the उपधा अत् (शमकः); 1.1.3's इकः is not read and no other pratyāhāra is in the reading.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73034",
+       "quote": "किं चोक्तम्? <<अत उपधायाः>> [[७.२.११६]] इति वृद्धिः।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.35",
+     "word": "इक्",
+     "should_be": "none",
+     "reason": "NO_IK",
+     "why": "same negation as 7.3.34 (उपधा अत् of जन्, वध्: जनकः, वधकः); no इक्.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73035",
+       "quote": "जनि वधि इत्येतयोश्चिणि कृति च ञ्णिति यदुक्तं तद् न भवति।"
+      },
+      {
+       "file": "kashika",
+       "id": "73034",
+       "quote": "किं चोक्तम्? <<अत उपधायाः>> [[७.२.११६]] इति वृद्धिः।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.114",
+     "word": "आप्",
+     "should_be": "none",
+     "reason": "SAMANYA_GRAHANA",
+     "why": "आप् here is the feminine suffix (आबन्त: खट्वा, बहुराजा, कारीषगन्ध्या) — a common name for टाप्/डाप्/चाप् formed by dropping their markers (Kāśikā: सामान्येन ग्रहणम्), not a 1.1.71 pratyāhāra. The pratyāhāra आप् (टा…सुप्) belongs to 7.2.112.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41001",
+       "quote": "ङीब्ङीष्ङीनां सामान्येन ग्रहणं ङीति, टाप्डाप्चापामाबिति"
+      },
+      {
+       "file": "kashika",
+       "id": "73113",
+       "quote": "आबन्तादङ्गादुत्तरस्य ङित प्रत्ययस्य याडागमो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.115",
+     "word": "आप्",
+     "should_be": "none",
+     "reason": "SAMANYA_GRAHANA",
+     "why": "आप् here is the feminine suffix (आबन्त: खट्वा, बहुराजा, कारीषगन्ध्या) — a common name for टाप्/डाप्/चाप् formed by dropping their markers (Kāśikā: सामान्येन ग्रहणम्), not a 1.1.71 pratyāhāra. The pratyāhāra आप् (टा…सुप्) belongs to 7.2.112.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41001",
+       "quote": "ङीब्ङीष्ङीनां सामान्येन ग्रहणं ङीति, टाप्डाप्चापामाबिति"
+      },
+      {
+       "file": "kashika",
+       "id": "73113",
+       "quote": "आबन्तादङ्गादुत्तरस्य ङित प्रत्ययस्य याडागमो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "7.4.15",
+     "word": "आप्",
+     "should_be": "none",
+     "reason": "SAMANYA_GRAHANA",
+     "why": "आप् here is the feminine suffix (आबन्त: खट्वा, बहुराजा, कारीषगन्ध्या) — a common name for टाप्/डाप्/चाप् formed by dropping their markers (Kāśikā: सामान्येन ग्रहणम्), not a 1.1.71 pratyāhāra. The pratyāhāra आप् (टा…सुप्) belongs to 7.2.112.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41001",
+       "quote": "ङीब्ङीष्ङीनां सामान्येन ग्रहणं ङीति, टाप्डाप्चापामाबिति"
+      },
+      {
+       "file": "kashika",
+       "id": "74015",
+       "quote": "आबन्तस्याङ्गस्य कपि ह्रस्वः न भवत्यन्तरस्याम्।"
+      }
+     ]
+    },
+    {
+     "n": "7.4.69",
+     "word": "इण्",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "इणः is the dhātu इण् (गतौ): ईयतुः, ईयुः.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "74069",
+       "quote": "इणोऽङ्गस्य योऽभ्यासः तस्य दीर्घो भवति किति लिटि परतः। ईयतुः, ईयुः।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "इक् read in through 1.1.3 for guṇa/vṛddhi rules, plus अच्/सुप्/आप्/अण्/इण्. Licensed except: 6.4.138 (अञ्च्), 7.4.69 (dhātu इण्), the feminine आप् (7.3.114, 7.3.115, 7.4.15), and 7.3.34/7.3.35 (the vṛddhi is of the उपधा अत्, no इक्). 7.3.16/7.3.26 are licensed but via अच् (अचामादेः), not इक्. 7.3.90: Bālamanoramā says only वृद्धिः and हलि run on from 7.3.89 (not उतः), so 1.1.3 does give इक्.",
+   "effect_defects": [
+    {
+     "n": "7.3.16",
+     "word": "इक्",
+     "defect": "the pratyāhāra actually read is अच् (अचामादेरचः, carried from 7.2.117), not इक् via 1.1.3 — the credit stands, the trigger/effect text (\"इक् … इ उ ऋ ऌ\") is wrong (वर्ष → वार्ष: the vowel is अ)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73016",
+       "quote": "संख्याया उत्तरस्य वर्षशब्दस्याचामादेरचो वृद्धिर्भवति"
+      }
+     ]
+    },
+    {
+     "n": "7.3.26",
+     "word": "इक्",
+     "defect": "the pratyāhāra actually read is अच् (अचामादेरचः), not इक् via 1.1.3 — trigger/effect text wrong (अर्धद्रोण → आर्धद्रौणिक)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73026",
+       "quote": "अर्धशब्दात् परस्य परिमाणवाचिन उत्तरस्याचामादेरचः स्थाने वृद्धिर्भवति"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "group": "carried / not a sūtra word | vidhi | X: a sound group",
+   "count": 30,
+   "verdict": "mixed",
+   "how_checked": "All 30 members read by hand (sūtra, trigger word, our vṛtti, Kāśikā via tools/recs.js dump /tmp/aud/1.1.71.txt), each word checked against the pratyāhāra list (~/Projects/ashtadhyayi-data/pratyahara/data.txt) and the Kāśikā gloss of the word.",
+   "licensed": [
+    "3.1.97",
+    "3.1.124",
+    "3.3.103",
+    "3.3.121",
+    "4.2.72",
+    "4.2.73",
+    "4.2.109",
+    "4.2.113",
+    "4.3.67",
+    "4.3.150",
+    "4.4.64",
+    "5.3.83",
+    "5.4.11",
+    "5.4.111"
+   ],
+   "not_licensed": [
+    {
+     "n": "3.1.21",
+     "word": "हल्",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "हल is the noun \"plough\", one of the listed words (हलिं गृह्णाति, हलयति).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "31021",
+       "quote": "हलिं गृह्णाति, हलयति।"
+      }
+     ]
+    },
+    {
+     "n": "3.2.136",
+     "word": "चर्",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "चर is the dhātu चर (चरिष्णुः), the last of the listed roots, not the pratyāhāra चर्.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32136",
+       "quote": "अलंकृञादिभ्यो धातुभ्यस्तच्छीलादिषु कर्तृषु इष्णुच् प्रत्ययो भवति।"
+      },
+      {
+       "file": "kashika",
+       "id": "32136",
+       "quote": "चरिष्णुः॥"
+      }
+     ]
+    },
+    {
+     "n": "3.2.157",
+     "word": "इण्",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "the इण् in the list is the dhātu (अत्ययी from अति+इण्).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32157",
+       "quote": "जिप्रभृतिभ्यो धातुभ्यः इनिः प्रत्ययो भवति तच्छीलादिषु कर्तृषु।"
+      },
+      {
+       "file": "kashika",
+       "id": "32157",
+       "quote": "अत्ययी।"
+      }
+     ]
+    },
+    {
+     "n": "3.2.163",
+     "word": "इण्",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "इण् is the dhātu (इत्वरः).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32163",
+       "quote": "इण् नश् जि सर्ति इत्येतेभ्यो धातुभ्यस्तच्छीलादिषु कर्तृषु क्वरप् प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "3.2.184",
+     "word": "चर्",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "चर is the dhātu चर गतिभक्षणयोः (चरित्रम्).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32184",
+       "quote": "<<चर गतिभक्षणयोः>> एतेभ्यो धातुभ्यः करणे कारक इत्रः प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "3.3.38",
+     "word": "इण्",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "इणः is the dhātu (पर्यायः).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33038",
+       "quote": "परिशब्द उपपद इणो धातोर्घञ् प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.4.16",
+     "word": "इण्",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "इण् is the dhātu (उदेतोः).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "34016",
+       "quote": "इण् — पुरा सूर्यस्योदेतोराधेयः"
+      }
+     ]
+    },
+    {
+     "n": "4.1.16",
+     "word": "यञ्",
+     "should_be": "PIS 23",
+     "reason": "SUFFIX",
+     "why": "यञ् is the gotra suffix (गार्गी); \"यञन्तात्\" is a suffix-tadanta (PIS 23), not a pratyāhāra.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41016",
+       "quote": "यञन्ताच्च प्रातिपदिकात् स्त्रियां ङीप् प्रत्ययो भवति। गार्गी।"
+      }
+     ]
+    },
+    {
+     "n": "4.1.156",
+     "word": "अण्",
+     "should_be": "PIS 23",
+     "reason": "SUFFIX",
+     "why": "अण् is the taddhita suffix (कार्त्रायणिः from कार्त्र, an अण्-derivative; counter-example दाक्षायणः), not the pratyāhāra.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41156",
+       "quote": "अणन्ताद् द्व्यचः प्रातिपदिकादपत्ये फिञ् प्रत्ययो भवति। इञोऽपवादः। कार्त्रायणिः।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.141",
+     "word": "अक्",
+     "should_be": "none",
+     "reason": "WORD_ENDING",
+     "why": "अक / इक here are the stem endings -aka / -ika (आरीहणक, आश्वपथिक), not pratyāhāras; the sūtra itself says अन्त.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42141",
+       "quote": "अकान्तात् तावत् — आरीहणकीयम्।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.141",
+     "word": "इक्",
+     "should_be": "none",
+     "reason": "WORD_ENDING",
+     "why": "as above: -इक ending (आश्वपथिकीयम्), not the pratyāhāra इक्.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42141",
+       "quote": "इकान्तात् — आश्वपथिकीयम्।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.124",
+     "word": "हल्",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "हल is the noun \"plough\" (हालिकम्).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43124",
+       "quote": "हलस्येदं हालिकम्।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.144",
+     "word": "शर्",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "शर is the first word of the gaṇa शरादि (शरमयम्), not the pratyāhāra शर्.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43144",
+       "quote": "शरादिभ्यः — शरमयम्।"
+      }
+     ]
+    },
+    {
+     "n": "4.4.81",
+     "word": "हल्",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "हल is the noun \"plough\" (हलं वहति हालिकः).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "44081",
+       "quote": "हलं वहति हालिकः।"
+      }
+     ]
+    },
+    {
+     "n": "5.3.118",
+     "word": "अण्",
+     "should_be": "PIS 23",
+     "reason": "SUFFIX",
+     "why": "अण् is the gotra suffix अण्.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "53118",
+       "quote": "गोत्रप्रत्ययस्यात्राणो ग्रहणमिष्यते।"
+      }
+     ]
+    }
+   ],
+   "unsure": [
+    {
+     "n": "4.2.123",
+     "word": "र",
+     "why": "रोपध: the pratyāhāra र (र्, ल्) exists (1.1.51), but the sources gloss only रोपधात् and give र-examples (पाटलिपुत्रक, ऐकचक्रक); whether ल-upadhā stems are meant (pratyāhāra) or only रेफ is not stated.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42123",
+       "quote": "रोपधादीकारान्तात् च प्राग्देशवाचिनो वृद्धाद् वुञ् प्रत्ययो भवति शैषिकः।"
+      }
+     ]
+    }
+   ],
+   "note": "Sound qualifiers in suffix rules. Many are look-alikes: dhātus (इण्, चर), the noun हल, the gaṇa word शर, suffixes (यञ्, अण् → PIS 23), endings -अक/-इक. बह्वच्/द्व्यच् contain the real pratyāhāra अच् and are licensed for 1.1.71 (even though they are not tadanta qualifiers). 4.2.123 र unsure."
+  },
+  {
+   "id": "G3",
+   "group": "carried / not a sūtra word | ādeśa | X: a sound group",
+   "count": 14,
+   "verdict": "mixed",
+   "how_checked": "All 14 members read by hand (sūtra, trigger word, our vṛtti, Kāśikā via tools/recs.js dump /tmp/aud/1.1.71.txt), each word checked against the pratyāhāra list (~/Projects/ashtadhyayi-data/pratyahara/data.txt) and the Kāśikā gloss of the word.",
+   "licensed": [
+    "3.1.45",
+    "3.1.62",
+    "3.1.83",
+    "7.2.61",
+    "7.3.44",
+    "7.4.47",
+    "8.2.10",
+    "8.2.40",
+    "8.3.33",
+    "8.3.39",
+    "8.4.62"
+   ],
+   "not_licensed": [
+    {
+     "n": "6.4.57",
+     "word": "आप्",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "आपः is the dhātu आप्ऌ (प्रापय्य / प्राप्य), not a pratyāhāra.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "64057",
+       "quote": "प्रापय्य गतः, प्राप्य गतः।"
+      }
+     ]
+    },
+    {
+     "n": "7.1.18",
+     "word": "आप्",
+     "should_be": "none",
+     "reason": "SAMANYA_GRAHANA",
+     "why": "आप् here is the feminine suffix (आबन्त: खट्वा, बहुराजा, कारीषगन्ध्या) — a common name for टाप्/डाप्/चाप् formed by dropping their markers (Kāśikā: सामान्येन ग्रहणम्), not a 1.1.71 pratyāhāra. The pratyāhāra आप् (टा…सुप्) belongs to 7.2.112.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41001",
+       "quote": "ङीब्ङीष्ङीनां सामान्येन ग्रहणं ङीति, टाप्डाप्चापामाबिति"
+      },
+      {
+       "file": "kashika",
+       "id": "71018",
+       "quote": "आबन्तादङ्गादुत्तरस्यौङः शीत्ययमादेशो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.113",
+     "word": "आप्",
+     "should_be": "none",
+     "reason": "SAMANYA_GRAHANA",
+     "why": "आप् here is the feminine suffix (आबन्त: खट्वा, बहुराजा, कारीषगन्ध्या) — a common name for टाप्/डाप्/चाप् formed by dropping their markers (Kāśikā: सामान्येन ग्रहणम्), not a 1.1.71 pratyāhāra. The pratyāhāra आप् (टा…सुप्) belongs to 7.2.112.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41001",
+       "quote": "ङीब्ङीष्ङीनां सामान्येन ग्रहणं ङीति, टाप्डाप्चापामाबिति"
+      },
+      {
+       "file": "kashika",
+       "id": "73113",
+       "quote": "आबन्तादङ्गादुत्तरस्य ङित प्रत्ययस्य याडागमो भवति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "Substitution rules. 6.4.57 आप् is the dhātu आप्ऌ; 7.1.18 and 7.3.113 आप् are the feminine-suffix common name (not a pratyāhāra). The rest genuine."
+  },
+  {
+   "id": "G4",
+   "group": "carried / not a sūtra word | saṃjñā | X: a sound/suffix group",
+   "count": 6,
+   "verdict": "licensed",
+   "how_checked": "All 6 members read by hand (sūtra, trigger word, our vṛtti, Kāśikā via tools/recs.js dump /tmp/aud/1.1.71.txt), each word checked against the pratyāhāra list (~/Projects/ashtadhyayi-data/pratyahara/data.txt) and the Kāśikā gloss of the word.",
+   "licensed": [
+    "1.1.1",
+    "1.1.2",
+    "1.1.10",
+    "1.1.39",
+    "1.4.14",
+    "3.4.113"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G5",
+   "group": "own word, data case 1 | saṃjñā | X: a sound/suffix group",
+   "count": 6,
+   "verdict": "licensed",
+   "how_checked": "All 6 members read by hand (sūtra, trigger word, our vṛtti, Kāśikā via tools/recs.js dump /tmp/aud/1.1.71.txt), each word checked against the pratyāhāra list (~/Projects/ashtadhyayi-data/pratyahara/data.txt) and the Kāśikā gloss of the word.",
+   "licensed": [
+    "1.1.43",
+    "1.1.45",
+    "1.1.75",
+    "1.2.27",
+    "1.3.2",
+    "1.3.3"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G6",
+   "group": "carried / not a sūtra word | paribhāṣā | X",
+   "count": 2,
+   "verdict": "licensed",
+   "how_checked": "All 2 members read by hand (sūtra, trigger word, our vṛtti, Kāśikā via tools/recs.js dump /tmp/aud/1.1.71.txt), each word checked against the pratyāhāra list (~/Projects/ashtadhyayi-data/pratyahara/data.txt) and the Kāśikā gloss of the word.",
+   "licensed": [
+    "1.1.3",
+    "1.1.69"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "इक् in 1.1.3 and अण् in 1.1.69 — genuine."
+  },
+  {
+   "id": "G7",
+   "group": "carried / not a sūtra word | atideśa | X: a sound group",
+   "count": 2,
+   "verdict": "licensed",
+   "how_checked": "All 2 members read by hand (sūtra, trigger word, our vṛtti, Kāśikā via tools/recs.js dump /tmp/aud/1.1.71.txt), each word checked against the pratyāhāra list (~/Projects/ashtadhyayi-data/pratyahara/data.txt) and the Kāśikā gloss of the word.",
+   "licensed": [
+    "1.2.9",
+    "1.2.26"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G8",
+   "group": "named by a commentator | ekaśeṣa | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "how_checked": "All 1 members read by hand (sūtra, trigger word, our vṛtti, Kāśikā via tools/recs.js dump /tmp/aud/1.1.71.txt), each word checked against the pratyāhāra list (~/Projects/ashtadhyayi-data/pratyahara/data.txt) and the Kāśikā gloss of the word.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "1.2.71",
+     "word": "named by बालमनोरमा",
+     "should_be": "none",
+     "reason": "NOT_THIS_SUTRA",
+     "why": "the Bālamanoramā text filed under this id is its gloss of 1.1.71 आदिरन्त्येन सहेता itself (the SK order); 1.2.71 श्वशुरः श्वश्र्वा reads no pratyāhāra.",
+     "quotes": [
+      {
+       "file": "balamanorama",
+       "id": "12071",
+       "quote": "नन्वस्तु हल्सूत्रे लकारस्य इत्संज्ञा । ततः किमित्यत आह — आदिरन्त्येन सहेता ।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "misfiled Bālamanoramā text (its gloss on 1.1.71 itself)."
+  },
+  {
+   "id": "G9",
+   "group": "own word, data case 2 | saṃjñā | X: a sound/suffix group",
+   "count": 1,
+   "verdict": "not licensed",
+   "how_checked": "All 1 members read by hand (sūtra, trigger word, our vṛtti, Kāśikā via tools/recs.js dump /tmp/aud/1.1.71.txt), each word checked against the pratyāhāra list (~/Projects/ashtadhyayi-data/pratyahara/data.txt) and the Kāśikā gloss of the word.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "1.4.32",
+     "word": "यम्",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "यम् is the relative pronoun (\"whom\"), not the pratyāhāra यम्.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "14032",
+       "quote": "कर्मणा करणभूतेन कर्ता यमभिप्रैति, तत् कारकं संप्रदानसंज्ञं भवति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "यम् = \"whom\"."
+  },
+  {
+   "id": "G10",
+   "group": "named by a commentator | nipātana | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "how_checked": "All 1 members read by hand (sūtra, trigger word, our vṛtti, Kāśikā via tools/recs.js dump /tmp/aud/1.1.71.txt), each word checked against the pratyāhāra list (~/Projects/ashtadhyayi-data/pratyahara/data.txt) and the Kāśikā gloss of the word.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "6.1.157",
+     "word": "named by बालमनोरमा",
+     "should_be": "none",
+     "reason": "NOT_THIS_SUTRA",
+     "why": "the quoted Bālamanoramā passage is the हलन्त्यम् / आदिरन्त्येन circularity discussion (on 1.3.3), not about 6.1.157 पारस्करप्रभृतीनि च संज्ञायाम्.",
+     "quotes": [
+      {
+       "file": "balamanorama",
+       "id": "61157",
+       "quote": "हल्संज्ञा च हलिति सूत्रे लकारस्य इत्संज्ञायां सत्याम् 'आदिरन्त्येन सहेता' इति सूत्रेण वाच्या"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "misfiled Bālamanoramā text (the 1.3.3 circularity)."
+  },
+  {
+   "id": "G11",
+   "group": "named by a commentator | ādeśa | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "how_checked": "All 1 members read by hand (sūtra, trigger word, our vṛtti, Kāśikā via tools/recs.js dump /tmp/aud/1.1.71.txt), each word checked against the pratyāhāra list (~/Projects/ashtadhyayi-data/pratyahara/data.txt) and the Kāśikā gloss of the word.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "7.1.37",
+     "word": "named by न्यासः",
+     "should_be": "1.1.72",
+     "reason": "WRONG_NUMBER",
+     "why": "the Nyāsa cites \"येन विधिस्तदन्तस्य [[1.1.71]]\" — the number is a slip for 1.1.72 (येन विधिस्तदन्तस्य); the point is tadanta of a compound ending in क्त्वा. Nothing about a pratyāhāra.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "71037",
+       "quote": "`येन विधिस्तदन्तस्य  [[1.1.71]]  इत्यनेन क्त्वान्तः समासो गृह्रते"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "the Nyāsa's [[1.1.71]] is a slip for 1.1.72."
+  },
+  {
+   "id": "G12",
+   "group": "carried / not a sūtra word | āgama | X: a sound group",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members read by hand (sūtra, trigger word, our vṛtti, Kāśikā via tools/recs.js dump /tmp/aud/1.1.71.txt), each word checked against the pratyāhāra list (~/Projects/ashtadhyayi-data/pratyahara/data.txt) and the Kāśikā gloss of the word.",
+   "licensed": [
+    "7.1.73"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  }
+ ],
+ "missed": [
+  {
+   "n": "6.1.77",
+   "pid": "1.1.71",
+   "why": "इको यणचि — three pratyāhāras (इक्, यण्, अच्), no 1.1.71 credit.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11071",
+     "quote": "अण्। अक्। अच्। हल्। सुप्। तिङ्।"
+    }
+   ]
+  },
+  {
+   "n": "6.1.101",
+   "pid": "1.1.71",
+   "why": "अकः सवर्णे दीर्घः — अक् (and अच् carried); credits 1.1.69 but not 1.1.71.",
+   "quotes": []
+  },
+  {
+   "n": "1.1.52",
+   "pid": "1.1.71",
+   "why": "अलोऽन्त्यस्य — अल्.",
+   "quotes": []
+  },
+  {
+   "n": "8.4.55",
+   "pid": "1.1.71",
+   "why": "खरि च — खर्, झल् (carried), चर्.",
+   "quotes": []
+  },
+  {
+   "n": "6.1.78",
+   "pid": "1.1.71",
+   "why": "एचोऽयवायावः — एच्.",
+   "quotes": []
+  }
+ ],
+ "missed_note": "Scripted scan of sūtra texts for declined forms of the 42 sound/suffix pratyāhāras (from ashtadhyayi-data/pratyahara) at sūtras with no 1.1.71 credit: 137 hits, ~84 after dropping obvious look-alikes (-ययोः, मय, चर …). They include the basic sandhi and definition rules: 1.1.52, 1.1.57, 1.1.64, 6.1.77, 6.1.78, 6.1.101, 6.1.109, 8.2.39, 8.4.53, 8.4.55, 8.4.58, 8.4.65. The engine fires 1.1.71 only on some code paths (carried sounds, 1.1.3 इक्, sound qualifiers), not on every pratyāhāra the sūtra itself names. (Script: /tmp/aud/miss71.js.)"
+}

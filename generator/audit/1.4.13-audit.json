@@ -1,0 +1,2109 @@
+{
+ "_about": "Audit of 1.4.13 यस्मात्प्रत्ययविधिस्तदादि प्रत्ययेऽङ्गम् ✔ credits (596 firings, 28 groups). Generated 2026-11-20. Quotes verified verbatim by script against ~/Projects/ashtadhyayi-data. Match members on `line` (exact member line) or (n, word).",
+ "totals": {
+  "firings": {
+   "licensed": 578,
+   "not_licensed": 17,
+   "unsure": 1
+  },
+  "groups": {
+   "licensed": 18,
+   "not_licensed": 8,
+   "mixed": 1,
+   "unsure": 1
+  },
+  "not_licensed_by_should_be": {
+   "none": 16,
+   "PIS 23": 1
+  },
+  "vrtti_apposition_defects": 98
+ },
+ "conditions": [
+  {
+   "id": "C1",
+   "text": "Definition: the word-form beginning with that (dhātu or prātipadika) after which a suffix is ENJOINED is called aṅga, in relation to that suffix when it follows.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "14013",
+     "quote": "यस्मात् प्रत्ययो विधीयते धातोर्वा प्रातिपदिकाद् वा तदादि शब्दरूपं प्रत्यये परतोऽङ्गसंज्ञं भवति।"
+    },
+    {
+     "file": "kaumudi",
+     "id": "14013",
+     "quote": "यः प्रत्ययो यस्मात्क्रियते तदादि शब्दस्वरूपं तस्मिन्प्रत्यये परेऽङ्गसंज्ञं स्यात्"
+    },
+    {
+     "file": "bhashya",
+     "id": "14013",
+     "quote": "यस्माद्यः प्रत्ययो विधीयते तदादि तस्मिन्नङ्गसंज्ञं भवतीति"
+    }
+   ]
+  },
+  {
+   "id": "C2",
+   "text": "\"विधि\": the suffix must have been enjoined after that base; merely standing before a suffix does not make a word an aṅga (स्त्री इयती). The aṅga is relative to the suffix enjoined after it.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "14013",
+     "quote": "विधिग्रहणं किम्? प्रत्ययपरत्वमात्रे मा भूत्। स्त्री इयती॥"
+    },
+    {
+     "file": "tattvabodhini",
+     "id": "14013",
+     "quote": "संनिधानबलेनयस्माद्यः प्रत्ययो विहितस्तस्मिस्तदङ्ग॑-मिति व्याख्यानात्"
+    }
+   ]
+  },
+  {
+   "id": "C3",
+   "text": "\"तदादि\": whatever begins with that base counts — vikaraṇas (स्य, शप्) and āgamas (नुम्) included.",
+   "quotes": [
+    {
+     "file": "bhashya",
+     "id": "14013",
+     "quote": "अङ्गसंज्ञायां तदादिग्रहणं स्यादिनुमर्थम्"
+    },
+    {
+     "file": "kaumudi",
+     "id": "14013",
+     "quote": "भवामि भविष्यामीत्यादौ विकरणविशिष्यस्याऽङ्गसंज्ञार्थं तदादिग्रहणम्"
+    }
+   ]
+  },
+  {
+   "id": "C4",
+   "text": "\"प्रत्यये\": the aṅga stops before that suffix — it does not include the suffix nor extend beyond.",
+   "quotes": [
+    {
+     "file": "kaumudi",
+     "id": "14013",
+     "quote": "प्रत्यये किम् । प्रत्ययविशिष्टस्य ततोऽप्यधिकस्य वा माभूत्"
+    }
+   ]
+  },
+  {
+   "id": "C5",
+   "text": "Where the term operates: the 6.4.1 अङ्गस्य adhikāra, which runs to the end of adhyāya 7 (Kāśikā; a minority view ends it before the abhyāsa rules, rejected by the Vṛtti). It does NOT continue into adhyāya 8 (पदस्य 8.1.16 takes over); there a rule uses aṅga only if it says so itself (8.2.27 ह्रस्वादङ्गात्, 8.3.78 …धोऽङ्गात्). Rules outside the adhikāra (e.g. 2.4 ādeśas) are \"in another section\".",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "14013",
+     "quote": "अङ्गप्रदेशाः — <<अङ्गस्य>> [[६.४.१]] इत्येवमादयः॥"
+    },
+    {
+     "file": "kashika",
+     "id": "64001",
+     "quote": "अधिकारोऽयमा सप्तमाध्यायपरिसमाप्तेः। यदित ऊर्ध्वमनुक्रमिष्यामोऽङ्गस्येत्येवं तद् वेदितव्यम्।"
+    },
+    {
+     "file": "nyaas",
+     "id": "64001",
+     "quote": "सप्तमाध्यायपरिसमाप्तेस्तु परेण `पदस्य`  [[8.1.16]]  इत्यधिकृतय कार्यं विधीयते। तेन तत्राङ्गाधिकारो नानुवर्तते।"
+    },
+    {
+     "file": "nyaas",
+     "id": "64001",
+     "quote": "इह केचित्? प्रागभ्यासविकारेभ्योऽयमङ्गाधिकारो युक्त इति मन्यन्ते।"
+    },
+    {
+     "file": "nyaas",
+     "id": "64062",
+     "quote": "न च हनिणिङामादेशा अङ्गाधिकारे विहिताः, अपि तु प्रकरणान्तरे।"
+    },
+    {
+     "file": "tattvabodhini",
+     "id": "74094",
+     "quote": "सन्वल्लघुनि॑दीर्घो लघो॑रिति सूत्रद्वये अङ्गस्येत्यनुवर्तते, अभ्यासस्येति च"
+    }
+   ]
+  },
+  {
+   "id": "C6",
+   "text": "How the carried word is construed: अङ्गस्य is a 6th of general relation, re-cast per rule (e.g. as 5th, अङ्गात्, when the operation is on the following suffix). It is NOT an apposition to the suffix: Bhāṣya on 7.2.35 rejects reading \"वलादेः आर्धधातुकस्य … अङ्गम्\" and takes aṅga as the base whose वलादि (= the suffix) gets iṭ.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "64001",
+     "quote": "अङ्गस्येति संबन्धसामान्य एषा षष्ठी यथायोगं विशेषेष्ववतिष्ठते।"
+    },
+    {
+     "file": "kashika",
+     "id": "64001",
+     "quote": "ततोऽकारान्तादङ्गाद् भिस ऐसित्येवमाद्यपि सम्यक् संपन्नं भवति॥"
+    },
+    {
+     "file": "bhashya",
+     "id": "72035",
+     "quote": "अङ्गस्येति वर्ततेऽङ्गविशेषणम्"
+    },
+    {
+     "file": "bhashya",
+     "id": "72035",
+     "quote": "अक्रियमाणे चेष्टम् - अङ्गस्य योवलादिरिति"
+    }
+   ]
+  },
+  {
+   "id": "C7",
+   "text": "The technical term is distinct from the ordinary word aṅga \"limb, member\" (प्राण्यङ्ग, सेनाङ्ग, स्वाङ्ग). It coexists with bha/pada (ekasaṃjñā exception), so bha rules 6.4.129ff are still aṅga rules. Before 1.4.13 in the text, 1.1.63 already uses the technical aṅga (aṅgādhikāra operations).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "24002",
+     "quote": "प्राण्यङ्गानां द्वन्द्व एकवद् भवति, तथा तूर्याङ्गानां सेनाङ्गानां च। प्राण्यङ्गानां तावत् — पाणिपादम्।"
+    },
+    {
+     "file": "nyaas",
+     "id": "14001",
+     "quote": "अङसंज्ञायां भपदसंज्ञयोः समावेशो वक्तव्यः"
+    },
+    {
+     "file": "bhashya",
+     "id": "61204",
+     "quote": "अङ्गाधिकारोक्तस्य स प्रतिषेधः न लुमताङ्गस्य [[1.1.63]] इति"
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | ādeśa | X",
+   "count": 219,
+   "verdict": "mixed",
+   "how_checked": "All 219 member(s) read individually: our vṛtti, Kāśikā, and the relevant commentary; position checked against the adhikāra range (C5).",
+   "licensed": [
+    "6.4.19",
+    "6.4.20",
+    "6.4.34",
+    "6.4.36",
+    "6.4.56",
+    "6.4.57",
+    "6.4.63",
+    "6.4.65",
+    "6.4.66",
+    "6.4.67",
+    "6.4.68",
+    "6.4.69",
+    "6.4.70",
+    "6.4.76",
+    "6.4.81",
+    "6.4.82",
+    "6.4.83",
+    "6.4.84",
+    "6.4.85",
+    "6.4.86",
+    "6.4.87",
+    "6.4.88",
+    "6.4.89",
+    "6.4.90",
+    "6.4.102",
+    "6.4.103",
+    "6.4.110",
+    "6.4.113",
+    "6.4.114",
+    "6.4.115",
+    "6.4.116",
+    "6.4.120",
+    "6.4.121",
+    "6.4.122",
+    "6.4.123",
+    "6.4.124",
+    "6.4.125",
+    "6.4.126",
+    "6.4.127",
+    "6.4.130",
+    "6.4.139",
+    "6.4.160",
+    "6.4.161",
+    "6.4.162",
+    "6.4.163",
+    "7.1.1",
+    "7.1.2",
+    "7.1.3",
+    "7.1.4",
+    "7.1.5",
+    "7.1.9",
+    "7.1.10",
+    "7.1.11",
+    "7.1.12",
+    "7.1.13",
+    "7.1.14",
+    "7.1.15",
+    "7.1.16",
+    "7.1.17",
+    "7.1.18",
+    "7.1.19",
+    "7.1.20",
+    "7.1.21",
+    "7.1.24",
+    "7.1.25",
+    "7.1.26",
+    "7.1.28",
+    "7.1.31",
+    "7.1.32",
+    "7.1.33",
+    "7.1.34",
+    "7.1.35",
+    "7.1.40",
+    "7.1.44",
+    "7.1.53",
+    "7.1.74",
+    "7.1.84",
+    "7.1.85",
+    "7.1.86",
+    "7.1.87",
+    "7.1.89",
+    "7.1.93",
+    "7.1.94",
+    "7.1.99",
+    "7.1.100",
+    "7.1.101",
+    "7.1.102",
+    "7.1.103",
+    "7.2.2",
+    "7.2.36",
+    "7.2.61",
+    "7.2.80",
+    "7.2.81",
+    "7.2.83",
+    "7.2.84",
+    "7.2.85",
+    "7.2.86",
+    "7.2.87",
+    "7.2.88",
+    "7.2.89",
+    "7.2.92",
+    "7.2.93",
+    "7.2.94",
+    "7.2.95",
+    "7.2.96",
+    "7.2.97",
+    "7.2.98",
+    "7.2.99",
+    "7.2.100",
+    "7.2.101",
+    "7.2.102",
+    "7.2.103",
+    "7.2.106",
+    "7.2.108",
+    "7.2.109",
+    "7.2.111",
+    "7.2.112",
+    "7.3.2",
+    "7.3.3",
+    "7.3.4",
+    "7.3.5",
+    "7.3.6",
+    "7.3.7",
+    "7.3.8",
+    "7.3.9",
+    "7.3.25",
+    "7.3.32",
+    "7.3.38",
+    "7.3.39",
+    "7.3.41",
+    "7.3.42",
+    "7.3.43",
+    "7.3.44",
+    "7.3.45",
+    "7.3.46",
+    "7.3.47",
+    "7.3.48",
+    "7.3.49",
+    "7.3.50",
+    "7.3.52",
+    "7.3.53",
+    "7.3.54",
+    "7.3.55",
+    "7.3.57",
+    "7.3.58",
+    "7.3.59",
+    "7.3.60",
+    "7.3.63",
+    "7.3.64",
+    "7.3.65",
+    "7.3.66",
+    "7.3.67",
+    "7.3.77",
+    "7.3.78",
+    "7.3.79",
+    "7.3.92",
+    "7.3.94",
+    "7.3.95",
+    "7.3.96",
+    "7.3.97",
+    "7.3.98",
+    "7.3.100",
+    "7.3.103",
+    "7.3.104",
+    "7.3.105",
+    "7.3.113",
+    "7.3.117",
+    "7.3.118",
+    "7.3.119",
+    "7.3.120",
+    "7.4.4",
+    "7.4.5",
+    "7.4.6",
+    "7.4.7",
+    "7.4.9",
+    "7.4.17",
+    "7.4.18",
+    "7.4.19",
+    "7.4.27",
+    "7.4.28",
+    "7.4.31",
+    "7.4.32",
+    "7.4.33",
+    "7.4.35",
+    "7.4.37",
+    "7.4.38",
+    "7.4.40",
+    "7.4.41",
+    "7.4.42",
+    "7.4.43",
+    "7.4.46",
+    "7.4.47",
+    "7.4.48",
+    "7.4.49",
+    "7.4.52",
+    "7.4.54",
+    "7.4.55",
+    "7.4.56",
+    "7.4.60",
+    "7.4.61",
+    "7.4.62",
+    "7.4.63",
+    "7.4.64",
+    "7.4.65",
+    "7.4.66",
+    "7.4.73",
+    "7.4.74",
+    "7.4.76",
+    "7.4.79",
+    "7.4.80",
+    "7.4.81",
+    "7.4.84",
+    "7.4.88",
+    "7.4.89",
+    "7.4.90",
+    "7.4.95",
+    "7.4.96",
+    "7.4.97"
+   ],
+   "not_licensed": [
+    {
+     "n": "3.4.110",
+     "word": "the base before the suffix",
+     "line": "3.4.110 the base before the suffix  ⟨the aṅga — the नैलेश-वृत्तिः says अङ्गात्⟩",
+     "should_be": "none",
+     "reason": "OUTSIDE_ADHIKARA",
+     "why": "3.4.110 (lādeśa झि→जुस्) is in adhyāya 3, outside the 6.4.1 aṅga adhikāra, and the sūtra has no word aṅga. The Kāśikā states it with \"आकारान्तात्\" (ā-final, 1.1.72 tadanta — already credited), never aṅga. The trigger rests on a modern vṛtti's wording, which no source supports.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "34110",
+       "quote": "सिच आकारान्ताच्च परस्य झेर्जुसादेशो भवति।"
+      },
+      {
+       "file": "kashika",
+       "id": "64001",
+       "quote": "अधिकारोऽयमा सप्तमाध्यायपरिसमाप्तेः।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "effect_defects": [
+    {
+     "n": "6.4.19",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "6.4.20",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "6.4.56",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "6.4.76",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "6.4.102",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "6.4.103",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "6.4.122",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "6.4.124",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "6.4.125",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.1.1",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.1.2",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.1.3",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.1.14",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.1.15",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.1.16",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.1.21",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.1.25",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.1.28",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.1.31",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.1.32",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.1.33",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.1.35",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.1.40",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.1.44",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.1.84",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.1.85",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.1.86",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.2.36",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…आर्धधातुकस्य अङ्गस्य…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.2.83",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.2.93",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.2.94",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.2.95",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.2.96",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.2.97",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.2.98",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.2.99",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.2.103",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.2.106",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.2.108",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.2.109",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.3.44",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.3.46",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.3.47",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.3.48",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.3.52",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.3.79",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.4.7",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.4.46",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.4.54",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.4.55",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.4.56",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.4.88",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.4.89",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    }
+   ],
+   "note": "All licensed except 3.4.110 (adhyāya 3). Many members carry the vṛtti apposition defect (e.g. 7.1.1, 7.1.2, 7.1.3, 7.1.14 … \"…स्य स्थाने अङ्गस्य स्थाने …\"): the credit is right, the Sanskrit is wrong."
+  },
+  {
+   "id": "G2",
+   "group": "carried / not a sūtra word | operation | X",
+   "count": 201,
+   "verdict": "licensed",
+   "how_checked": "All 201 member(s) read individually: our vṛtti, Kāśikā, and the relevant commentary; position checked against the adhikāra range (C5).",
+   "licensed": [
+    "6.4.2",
+    "6.4.3",
+    "6.4.4",
+    "6.4.5",
+    "6.4.6",
+    "6.4.7",
+    "6.4.8",
+    "6.4.9",
+    "6.4.10",
+    "6.4.11",
+    "6.4.12",
+    "6.4.13",
+    "6.4.14",
+    "6.4.15",
+    "6.4.16",
+    "6.4.17",
+    "6.4.18",
+    "6.4.21",
+    "6.4.23",
+    "6.4.24",
+    "6.4.25",
+    "6.4.26",
+    "6.4.27",
+    "6.4.30",
+    "6.4.31",
+    "6.4.32",
+    "6.4.33",
+    "6.4.35",
+    "6.4.37",
+    "6.4.38",
+    "6.4.39",
+    "6.4.40",
+    "6.4.41",
+    "6.4.42",
+    "6.4.43",
+    "6.4.44",
+    "6.4.45",
+    "6.4.47",
+    "6.4.48",
+    "6.4.49",
+    "6.4.50",
+    "6.4.52",
+    "6.4.55",
+    "6.4.58",
+    "6.4.59",
+    "6.4.60",
+    "6.4.61",
+    "6.4.64",
+    "6.4.92",
+    "6.4.93",
+    "6.4.94",
+    "6.4.95",
+    "6.4.96",
+    "6.4.97",
+    "6.4.98",
+    "6.4.99",
+    "6.4.100",
+    "6.4.104",
+    "6.4.105",
+    "6.4.106",
+    "6.4.107",
+    "6.4.108",
+    "6.4.109",
+    "6.4.111",
+    "6.4.112",
+    "6.4.118",
+    "6.4.119",
+    "6.4.131",
+    "6.4.132",
+    "6.4.133",
+    "6.4.134",
+    "6.4.135",
+    "6.4.136",
+    "6.4.137",
+    "6.4.138",
+    "6.4.141",
+    "6.4.142",
+    "6.4.144",
+    "6.4.145",
+    "6.4.146",
+    "6.4.147",
+    "6.4.148",
+    "6.4.149",
+    "6.4.150",
+    "6.4.151",
+    "6.4.152",
+    "6.4.153",
+    "6.4.154",
+    "6.4.156",
+    "6.4.157",
+    "6.4.158",
+    "7.1.22",
+    "7.1.23",
+    "7.1.39",
+    "7.1.41",
+    "7.2.1",
+    "7.2.3",
+    "7.2.4",
+    "7.2.5",
+    "7.2.6",
+    "7.2.7",
+    "7.2.37",
+    "7.2.38",
+    "7.2.39",
+    "7.2.40",
+    "7.2.79",
+    "7.2.90",
+    "7.2.107",
+    "7.2.113",
+    "7.2.114",
+    "7.2.115",
+    "7.2.116",
+    "7.2.117",
+    "7.2.118",
+    "7.3.1",
+    "7.3.11",
+    "7.3.12",
+    "7.3.13",
+    "7.3.14",
+    "7.3.15",
+    "7.3.16",
+    "7.3.17",
+    "7.3.18",
+    "7.3.19",
+    "7.3.20",
+    "7.3.21",
+    "7.3.22",
+    "7.3.23",
+    "7.3.24",
+    "7.3.26",
+    "7.3.27",
+    "7.3.28",
+    "7.3.29",
+    "7.3.30",
+    "7.3.31",
+    "7.3.34",
+    "7.3.35",
+    "7.3.70",
+    "7.3.71",
+    "7.3.72",
+    "7.3.73",
+    "7.3.74",
+    "7.3.75",
+    "7.3.76",
+    "7.3.80",
+    "7.3.81",
+    "7.3.82",
+    "7.3.83",
+    "7.3.84",
+    "7.3.85",
+    "7.3.86",
+    "7.3.87",
+    "7.3.88",
+    "7.3.89",
+    "7.3.90",
+    "7.3.91",
+    "7.3.101",
+    "7.3.102",
+    "7.3.107",
+    "7.3.108",
+    "7.3.109",
+    "7.3.110",
+    "7.3.111",
+    "7.3.114",
+    "7.3.115",
+    "7.4.1",
+    "7.4.2",
+    "7.4.3",
+    "7.4.10",
+    "7.4.11",
+    "7.4.12",
+    "7.4.13",
+    "7.4.14",
+    "7.4.15",
+    "7.4.16",
+    "7.4.21",
+    "7.4.23",
+    "7.4.24",
+    "7.4.25",
+    "7.4.26",
+    "7.4.29",
+    "7.4.30",
+    "7.4.39",
+    "7.4.50",
+    "7.4.51",
+    "7.4.53",
+    "7.4.57",
+    "7.4.58",
+    "7.4.59",
+    "7.4.67",
+    "7.4.68",
+    "7.4.69",
+    "7.4.70",
+    "7.4.75",
+    "7.4.77",
+    "7.4.78",
+    "7.4.82",
+    "7.4.83",
+    "7.4.92",
+    "7.4.94",
+    "8.2.27"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [
+    {
+     "n": "6.4.21",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "6.4.26",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "6.4.27",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "6.4.37",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "6.4.50",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…प्रत्ययस्य अङ्गस्य…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "6.4.52",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…प्रत्ययस्य अङ्गस्य…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "6.4.55",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "6.4.104",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "6.4.106",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "6.4.107",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.1.39",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.1.41",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.2.37",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.3.12",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.3.13",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.3.14",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.3.15",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.3.16",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.3.24",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.3.115",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…प्रत्ययस्य अङ्गस्य…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.4.58",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "8.2.27",
+     "word": "अङ्गस्य",
+     "kind": "TRIGGER_OWN_WORD",
+     "why": "Licensed, but on the sūtra's OWN word अङ्गात् — the 6.4.1 adhikāra does not reach adhyāya 8; the trigger \"अङ्गस्य\" (carried) is wrong. Kāśikā's counter-example shows the technical sense.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "82027",
+       "quote": "ह्रस्वान्तादङ्गादुत्तरस्य सकारस्य लोपो भवति झलि परतः।"
+      },
+      {
+       "file": "kashika",
+       "id": "82027",
+       "quote": "अङ्गादिति किम् ?  अलाविष्टाम्, अलाविषुः।"
+      }
+     ]
+    }
+   ],
+   "note": "All licensed. 8.2.27 is licensed on its own word अङ्गात् (adhyāya 8 is outside the adhikāra), so its \"carried\" trigger is wrong."
+  },
+  {
+   "id": "G3",
+   "group": "carried / not a sūtra word | āgama | X",
+   "count": 109,
+   "verdict": "licensed",
+   "how_checked": "Scripted: all 109 members verified to lie within 6.4.1–7.4.97 (sūtra-number comparison), where the अङ्गस्य adhikāra is in force (C5); read the 3 samples (sūtra, our vṛtti, Kāśikā) and spot-read sub-ranges where the construal differs — operations on the following suffix (7.1.1ff, 7.2.35ff, construed as अङ्गात्, C6), abhyāsa rules (7.4.58ff, minority dissent noted in C5), bha rules (6.4.129ff, aṅga+bha coexist, C7), uttarapada rules (7.3.11ff). Searched all commentaries for any statement that अङ्गस्य lapses inside the range (\"अङ्गस्येति निवृत्त…\"): none found. Our vṛtti text scanned by regex for the apposition defect (effect_defects).",
+   "licensed": [
+    "6.4.71",
+    "6.4.72",
+    "6.4.73",
+    "6.4.74",
+    "6.4.75",
+    "6.4.77",
+    "6.4.78",
+    "6.4.79",
+    "6.4.80",
+    "7.1.6",
+    "7.1.7",
+    "7.1.8",
+    "7.1.50",
+    "7.1.51",
+    "7.1.52",
+    "7.1.54",
+    "7.1.55",
+    "7.1.56",
+    "7.1.57",
+    "7.1.58",
+    "7.1.59",
+    "7.1.60",
+    "7.1.61",
+    "7.1.62",
+    "7.1.63",
+    "7.1.64",
+    "7.1.65",
+    "7.1.66",
+    "7.1.67",
+    "7.1.68",
+    "7.1.69",
+    "7.1.70",
+    "7.1.71",
+    "7.1.72",
+    "7.1.73",
+    "7.1.75",
+    "7.1.76",
+    "7.1.77",
+    "7.1.78",
+    "7.1.79",
+    "7.1.80",
+    "7.1.82",
+    "7.1.83",
+    "7.2.8",
+    "7.2.9",
+    "7.2.10",
+    "7.2.11",
+    "7.2.12",
+    "7.2.13",
+    "7.2.14",
+    "7.2.15",
+    "7.2.16",
+    "7.2.17",
+    "7.2.22",
+    "7.2.24",
+    "7.2.25",
+    "7.2.28",
+    "7.2.29",
+    "7.2.31",
+    "7.2.41",
+    "7.2.42",
+    "7.2.43",
+    "7.2.44",
+    "7.2.45",
+    "7.2.46",
+    "7.2.47",
+    "7.2.48",
+    "7.2.49",
+    "7.2.50",
+    "7.2.51",
+    "7.2.52",
+    "7.2.53",
+    "7.2.54",
+    "7.2.55",
+    "7.2.56",
+    "7.2.57",
+    "7.2.58",
+    "7.2.59",
+    "7.2.60",
+    "7.2.62",
+    "7.2.63",
+    "7.2.64",
+    "7.2.65",
+    "7.2.66",
+    "7.2.67",
+    "7.2.68",
+    "7.2.70",
+    "7.2.71",
+    "7.2.72",
+    "7.2.74",
+    "7.2.75",
+    "7.2.76",
+    "7.2.77",
+    "7.2.78",
+    "7.2.82",
+    "7.3.33",
+    "7.3.36",
+    "7.3.37",
+    "7.3.40",
+    "7.3.93",
+    "7.3.99",
+    "7.3.112",
+    "7.4.20",
+    "7.4.71",
+    "7.4.72",
+    "7.4.85",
+    "7.4.86",
+    "7.4.87",
+    "7.4.91"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [
+    {
+     "n": "7.2.44",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…आर्धधातुकस्य अङ्गस्य…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.2.45",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…आर्धधातुकस्य अङ्गस्य…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.2.46",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…आर्धधातुकस्य अङ्गस्य…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.2.57",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…आर्धधातुकस्य अङ्गस्य…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.2.58",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…आर्धधातुकस्य अङ्गस्य…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G4",
+   "group": "carried / not a sūtra word | ādeśa | X: sthani",
+   "count": 19,
+   "verdict": "licensed",
+   "how_checked": "Scripted: all 19 members verified to lie within 6.4.1–7.4.97 (sūtra-number comparison), where the अङ्गस्य adhikāra is in force (C5); read the 3 samples (sūtra, our vṛtti, Kāśikā) and spot-read sub-ranges where the construal differs — operations on the following suffix (7.1.1ff, 7.2.35ff, construed as अङ्गात्, C6), abhyāsa rules (7.4.58ff, minority dissent noted in C5), bha rules (6.4.129ff, aṅga+bha coexist, C7), uttarapada rules (7.3.11ff). Searched all commentaries for any statement that अङ्गस्य lapses inside the range (\"अङ्गस्येति निवृत्त…\"): none found. Our vṛtti text scanned by regex for the apposition defect (effect_defects).",
+   "licensed": [
+    "6.4.91",
+    "6.4.101",
+    "6.4.117",
+    "6.4.159",
+    "7.1.29",
+    "7.1.30",
+    "7.1.36",
+    "7.1.37",
+    "7.1.38",
+    "7.1.42",
+    "7.1.45",
+    "7.1.46",
+    "7.1.47",
+    "7.1.81",
+    "7.2.104",
+    "7.2.105",
+    "7.2.110",
+    "7.3.56",
+    "7.4.8"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [
+    {
+     "n": "6.4.101",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.1.29",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.1.30",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.1.36",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.1.37",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.1.38",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.1.42",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.1.45",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.1.47",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…प्रत्ययस्य अङ्गस्य…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.1.81",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…शतुः अङ्गस्य…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.2.105",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.2.110",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "7.4.8",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G5",
+   "group": "carried / not a sūtra word | svara | X",
+   "count": 8,
+   "verdict": "licensed",
+   "how_checked": "All 8 member(s) read individually (record: sūtra, words, our vṛtti, Kāśikā); each lies within 6.4.1–7.4.97 where the adhikāra is in force.",
+   "licensed": [
+    "6.4.164",
+    "6.4.165",
+    "6.4.166",
+    "6.4.167",
+    "6.4.168",
+    "6.4.169",
+    "6.4.170",
+    "7.1.98"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [
+    {
+     "n": "6.4.165",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…अङ्गस्य स्थाने प्रकृत्या…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "6.4.166",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…अङ्गस्य स्थाने प्रकृत्या…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    },
+    {
+     "n": "6.4.169",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…अङ्गस्य स्थाने प्रकृत्या…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G6",
+   "group": "carried / not a sūtra word | vidhi | X",
+   "count": 5,
+   "verdict": "not licensed",
+   "how_checked": "All 5 member(s) read individually: our vṛtti, Kāśikā, and the relevant commentary; position checked against the adhikāra range (C5).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "3.1.80",
+     "word": "the अ replaces the end of the aṅga धिन्व्/कृण्व् — the aṅga is what comes before the suffix उ",
+     "line": "3.1.80 the अ replaces the end of the aṅga धिन्व्/कृण्व् — the aṅga is what comes before the suffix उ  ⟨अङ्गस्य च अकारादेशः⟩",
+     "should_be": "none",
+     "reason": "OUTSIDE_ADHIKARA",
+     "why": "Vikaraṇa rule in adhyāya 3; the अ replaces the end of the two dhātus (Kāśikā \"धात्वोः … अकारश्चान्तादेशः\") — the end-substitution is 1.1.52 (already credited). No aṅga in the sūtra or Kāśikā; the 6.4.1 adhikāra is not in force.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "31080",
+       "quote": "इत्येतयोर्धात्वोरुप्रत्ययो भवति, अकारश्चान्तादेशः।"
+      }
+     ]
+    },
+    {
+     "n": "4.1.55",
+     "word": "अङ्गस्य",
+     "line": "4.1.55 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+     "should_be": "none",
+     "reason": "HOMONYM_SVANGA",
+     "why": "The trigger is \"स्वाङ्ग\" (body part) carried from 4.1.54 — the ordinary word aṅga, defined by the अद्रवं मूर्तिमत् verse, not the 1.4.13 saṃjñā. The rule (ṅīṣ in 4.1) is outside the 6.4.1 adhikāra.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41054",
+       "quote": "अद्रवं मूर्तिमत् स्वाङ्गं प्राणिस्थमविकारजम्।"
+      },
+      {
+       "file": "kashika",
+       "id": "41055",
+       "quote": "नासिकाद्यन्तात् प्रातिपदिकात् स्त्रियां वा ङीष् प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.1.56",
+     "word": "अङ्गस्य",
+     "line": "4.1.56 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+     "should_be": "none",
+     "reason": "HOMONYM_SVANGA",
+     "why": "Same as 4.1.55: \"स्वाङ्ग\" (body part) from 4.1.54, not the technical aṅga; adhyāya 4, outside the adhikāra.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41054",
+       "quote": "अद्रवं मूर्तिमत् स्वाङ्गं प्राणिस्थमविकारजम्।"
+      }
+     ]
+    },
+    {
+     "n": "4.1.57",
+     "word": "अङ्गस्य",
+     "line": "4.1.57 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+     "should_be": "none",
+     "reason": "HOMONYM_SVANGA",
+     "why": "Same as 4.1.55: \"स्वाङ्ग\" (body part), not the technical aṅga.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41054",
+       "quote": "अद्रवं मूर्तिमत् स्वाङ्गं प्राणिस्थमविकारजम्।"
+      }
+     ]
+    },
+    {
+     "n": "4.1.58",
+     "word": "अङ्गस्य",
+     "line": "4.1.58 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+     "should_be": "none",
+     "reason": "HOMONYM_SVANGA",
+     "why": "Same as 4.1.55: \"स्वाङ्ग\" (body part), not the technical aṅga.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41054",
+       "quote": "अद्रवं मूर्तिमत् स्वाङ्गं प्राणिस्थमविकारजम्।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "effect_defects": [],
+   "note": "3.1.80 (vikaraṇa rule) and 4.1.55–58 (स्वाङ्ग = body part, carried from 4.1.54) are outside the adhikāra; the engine matched the letters \"अङ्ग\" inside \"स्वाङ्ग\"."
+  },
+  {
+   "id": "G7",
+   "group": "carried / not a sūtra word | āgama | X (6.4.1)",
+   "count": 4,
+   "verdict": "not licensed",
+   "how_checked": "All 4 member(s) read individually: our vṛtti, Kāśikā, and the relevant commentary; position checked against the adhikāra range (C5).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "5.2.51",
+     "word": "the aṅga adhikāra",
+     "line": "5.2.51 the aṅga adhikāra  ⟨the operation is on the aṅga — the नैलेश-वृत्तिः says अङ्गस्य⟩",
+     "should_be": "none",
+     "reason": "OUTSIDE_ADHIKARA",
+     "why": "Trigger claims \"the aṅga adhikāra (6.4.1)\", but 5.2.51 precedes 6.4.1; the adhikāra runs from 6.4.1 to the end of adhyāya 7. Kāśikā names the bases (\"इत्येतेषां\") with no aṅga. Placement of the kit āgama is 1.1.46 (already credited).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52051",
+       "quote": "षट् कति कतिपय चतुर् इत्येतेषां डटि परतस्थुगागमो भवति।"
+      },
+      {
+       "file": "kashika",
+       "id": "64001",
+       "quote": "अधिकारोऽयमा सप्तमाध्यायपरिसमाप्तेः। यदित ऊर्ध्वमनुक्रमिष्यामोऽङ्गस्येत्येवं तद् वेदितव्यम्।"
+      }
+     ]
+    },
+    {
+     "n": "5.2.52",
+     "word": "the aṅga adhikāra",
+     "line": "5.2.52 the aṅga adhikāra  ⟨the operation is on the aṅga — the नैलेश-वृत्तिः says अङ्गस्य⟩",
+     "should_be": "none",
+     "reason": "OUTSIDE_ADHIKARA",
+     "why": "As 5.2.51: \"the aṅga adhikāra (6.4.1)\" is not in force in 5.2. Kāśikā: \"इत्येतेषां\".",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "64001",
+       "quote": "अधिकारोऽयमा सप्तमाध्यायपरिसमाप्तेः।"
+      }
+     ]
+    },
+    {
+     "n": "5.2.53",
+     "word": "the aṅga adhikāra",
+     "line": "5.2.53 the aṅga adhikāra  ⟨the operation is on the aṅga — the नैलेश-वृत्तिः says अङ्गस्य⟩",
+     "should_be": "none",
+     "reason": "OUTSIDE_ADHIKARA",
+     "why": "As 5.2.51: 6.4.1 adhikāra not in force in 5.2.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "64001",
+       "quote": "अधिकारोऽयमा सप्तमाध्यायपरिसमाप्तेः।"
+      }
+     ]
+    },
+    {
+     "n": "5.2.129",
+     "word": "the aṅga adhikāra",
+     "line": "5.2.129 the aṅga adhikāra  ⟨the operation is on the aṅga — the नैलेश-वृत्तिः says अङ्गस्य⟩",
+     "should_be": "none",
+     "reason": "OUTSIDE_ADHIKARA",
+     "why": "As 5.2.51: kuk is added to the two words (\"तयोः\"), no aṅga; 6.4.1 adhikāra not in force in 5.2.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52129",
+       "quote": "वातातिसारशब्दाभ्यामिनिः प्रत्ययो भवति, तत्संनियोगेन च तयोः कुगागमो भवति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "effect_defects": [],
+   "note": "Trigger literally says \"the aṅga adhikāra (6.4.1)\" for four 5.2 rules — the adhikāra starts at 6.4.1."
+  },
+  {
+   "id": "G8",
+   "group": "carried / not a sūtra word | ādeśa | X (6.4.1)",
+   "count": 4,
+   "verdict": "licensed",
+   "how_checked": "All 4 member(s) read individually (record: sūtra, words, our vṛtti, Kāśikā); each lies within 6.4.1–7.4.97 where the adhikāra is in force.",
+   "licensed": [
+    "6.4.128",
+    "7.3.106",
+    "7.4.22",
+    "7.4.44"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [],
+   "note": ""
+  },
+  {
+   "id": "G9",
+   "group": "carried / not a sūtra word | operation | X (6.4.1)",
+   "count": 4,
+   "verdict": "licensed",
+   "how_checked": "All 4 member(s) read individually (record: sūtra, words, our vṛtti, Kāśikā); each lies within 6.4.1–7.4.97 where the adhikāra is in force.",
+   "licensed": [
+    "6.4.140",
+    "6.4.143",
+    "6.4.155",
+    "7.1.88"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [],
+   "note": ""
+  },
+  {
+   "id": "G10",
+   "group": "carried / not a sūtra word | vidhi | X: prakriti",
+   "count": 2,
+   "verdict": "not licensed",
+   "how_checked": "All 2 member(s) read individually: our vṛtti, Kāśikā, and the relevant commentary; position checked against the adhikāra range (C5).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "5.3.83",
+     "word": "अङ्गस्य",
+     "line": "5.3.83 अङ्गस्य  ⟨“अङ्गस्य”⟩",
+     "should_be": "none",
+     "reason": "OUTSIDE_ADHIKARA",
+     "why": "Taddhita rule in 5.3; Kāśikā elides part of the \"प्रकृति\", not of an aṅga. Our vṛtti inserted \"अङ्गस्य\"; no source has it, and the 6.4.1 adhikāra is not in force here.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "53083",
+       "quote": "तस्मिन् परतः प्रकृतेर्द्वितीयादच ऊर्ध्वं यच्छब्दरूपं तस्य लोपो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "5.3.84",
+     "word": "शेवल-सुपरिविशाल-वरुण-अर्यमा-आदीनाम्",
+     "line": "5.3.84 शेवल-सुपरिविशाल-वरुण-अर्यमा-आदीनाम्  ⟨“शेवलसुपरिविशालवरुणार्यमादीनाम् अङ्गानाम्”⟩",
+     "should_be": "none",
+     "reason": "OUTSIDE_ADHIKARA",
+     "why": "As 5.3.83 — our vṛtti's \"अङ्गानाम्\" is not in the Kāśikā (\"शेवलादीनां मनुष्यनाम्नां\"); 5.3 is outside the adhikāra.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "53084",
+       "quote": "शेवलादीनां मनुष्यनाम्नां ठाजादौ प्रत्यये परतः तृतीयादच ऊर्ध्वस्य लोपो भवति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "effect_defects": [],
+   "note": "Our vṛtti inserted अङ्गस्य/अङ्गानाम् into 5.3 taddhita rules; Kāśikā says प्रकृतेः / names the words."
+  },
+  {
+   "id": "G11",
+   "group": "carried / not a sūtra word | atideśa | X: adhikara",
+   "count": 2,
+   "verdict": "licensed",
+   "how_checked": "All 2 member(s) read individually (record: sūtra, words, our vṛtti, Kāśikā); each lies within 6.4.1–7.4.97 where the adhikāra is in force.",
+   "licensed": [
+    "6.4.62",
+    "7.1.95"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [],
+   "note": ""
+  },
+  {
+   "id": "G12",
+   "group": "carried / not a sūtra word | ādeśa | X: qualifier",
+   "count": 2,
+   "verdict": "licensed",
+   "how_checked": "All 2 member(s) read individually (record: sūtra, words, our vṛtti, Kāśikā); each lies within 6.4.1–7.4.97 where the adhikāra is in force.",
+   "licensed": [
+    "7.1.27",
+    "7.3.116"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [
+    {
+     "n": "7.1.27",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…स्थाने अङ्गस्य स्थाने…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G13",
+   "group": "carried / not a sūtra word | ādeśa | X: adhikara",
+   "count": 2,
+   "verdict": "licensed",
+   "how_checked": "All 2 member(s) read individually (record: sūtra, words, our vṛtti, Kāśikā); each lies within 6.4.1–7.4.97 where the adhikāra is in force.",
+   "licensed": [
+    "7.1.96",
+    "7.1.97"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [],
+   "note": ""
+  },
+  {
+   "id": "G14",
+   "group": "carried / not a sūtra word | paribhāṣā | X",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) read individually: our vṛtti, Kāśikā, and the relevant commentary; position checked against the adhikāra range (C5).",
+   "licensed": [
+    "1.1.63"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [
+    {
+     "n": "1.1.63",
+     "word": "1.1.63",
+     "kind": "note",
+     "why": "Licensed: the sūtra's own अङ्गस्य is the technical aṅga before a luk/ślu/lup-deleted suffix (Bhāṣya: it prohibits aṅgādhikāra operations). The engine's \"only from 3.1.1\" rule was bypassed here — correctly.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "11063",
+       "quote": "लुमता शब्देन लुप्ते प्रत्यये यदङ्गम्, तस्य प्रत्ययलक्षणं कार्यं न भवति।"
+      },
+      {
+       "file": "bhashya",
+       "id": "61204",
+       "quote": "अङ्गाधिकारोक्तस्य स प्रतिषेधः न लुमताङ्गस्य [[1.1.63]] इति"
+      }
+     ]
+    }
+   ],
+   "note": "Own word, technical sense."
+  },
+  {
+   "id": "G15",
+   "group": "named by a commentator | operation | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "how_checked": "All 1 member(s) read individually: our vṛtti, Kāśikā, and the relevant commentary; position checked against the adhikāra range (C5).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "1.2.48",
+     "word": "named by न्यासः",
+     "line": "1.2.48 named by न्यासः  ⟨the aṅga = what a suffix is introduced after (with whatever begins it)⟩",
+     "should_be": "PIS 23",
+     "reason": "NAMED_NOT_APPLIED",
+     "why": "The Nyāsa names 1.4.13 only as the place where the paribhāṣā \"प्रत्ययग्रहणे यस्मात् स विहितस्तदादेस्तदन्तस्य\" (PIS 23, got by yoga-vibhāga of 1.4.13) is taught; the aṅga saṃjñā itself plays no part in 1.2.48. The right entry is PIS 23 — already credited ✔ at 1.2.48, so this 1.4.13 credit is a mistargeted duplicate. Note: the Nyāsa concludes PIS 23 does NOT block hrasva here (vyavasthita-vibhāṣā / cakāra), so the existing PIS 23 ✔ deserves its own check (✖ may be the better status).",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "12048",
+       "quote": "`प्रत्ययग्रहणे यस्मात् स विहितस्तदादेस्तदन्तस्य` (भो।सू।7) इति तदन्तग्रहणेऽतिराजकुमारीरित्यत्र ह्रस्वत्वं न सिध्यति"
+      },
+      {
+       "file": "nyaas",
+       "id": "12048",
+       "quote": "एषा परिभाषा `यस्मात्प्रत्ययविधिस्तदादि`  [[1.4.13]]  इत्यत्र सूत्रे प्रतिपादिता।"
+      },
+      {
+       "file": "nyaas",
+       "id": "12048",
+       "quote": "तेन व्यवस्थिविभाषावतीयं क्वचिन्नोपतिष्ठत एव।"
+      },
+      {
+       "file": "paribhashendushekhar",
+       "id": "23",
+       "quote": "यस्मात्प्रत्ययविधिः' [[1.4.13]] इति सूत्रे 'यस्मात्प्रत्ययविधिस्तदादि प्रत्यय' इति योगो विभज्यते"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "effect_defects": [],
+   "note": "Commentator named 1.4.13 as the home of PIS 23; should_be PIS 23 (already credited)."
+  },
+  {
+   "id": "G16",
+   "group": "carried / not a sūtra word | ekavat | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "how_checked": "All 1 member(s) read individually: our vṛtti, Kāśikā, and the relevant commentary; position checked against the adhikāra range (C5).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "2.4.2",
+     "word": "अङ्गस्य",
+     "line": "2.4.2 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+     "should_be": "none",
+     "reason": "HOMONYM_LIMB",
+     "why": "\"प्राणि-तूर्य-सेना-अङ्गानाम्\" = limbs of animals, components of an orchestra/army (पाणिपादम्, रथिकाश्वारोहम्) — the ordinary word, not the 1.4.13 saṃjñā. 2.4 is outside the adhikāra (\"प्रकरणान्तरे\").",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "24002",
+       "quote": "प्राण्यङ्गानां द्वन्द्व एकवद् भवति, तथा तूर्याङ्गानां सेनाङ्गानां च। प्राण्यङ्गानां तावत् — पाणिपादम्।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "effect_defects": [],
+   "note": "Ordinary word aṅga (limb/component)."
+  },
+  {
+   "id": "G17",
+   "group": "named by a commentator | saṃjñā | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "how_checked": "All 1 member(s) read individually: our vṛtti, Kāśikā, and the relevant commentary; position checked against the adhikāra range (C5).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "3.1.1",
+     "word": "named by न्यासः",
+     "line": "3.1.1 named by न्यासः  ⟨the aṅga = what a suffix is introduced after (with whatever begins it)⟩",
+     "should_be": "none",
+     "reason": "NAMED_NOT_APPLIED",
+     "why": "3.1.1 is the प्रत्ययः adhikāra/saṃjñā. The Nyāsa mentions 1.4.13 only as a downstream consequence for the example कर्तव्यम् (once तव्यत् is a pratyaya, the base before it becomes aṅga). 1.4.13 does not operate in stating 3.1.1; it depends on 3.1.1, not the reverse.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "31001",
+       "quote": "तव्यदादेः प्रत्ययसंज्ञायां `यस्मात्प्रत्ययविधिः`  [[1.4.13]]  इति तस्मिन् परतोऽङ्गसंज्ञा भवति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "effect_defects": [],
+   "note": ""
+  },
+  {
+   "id": "G18",
+   "group": "named by a commentator | adhikāra | X",
+   "count": 1,
+   "verdict": "unsure",
+   "how_checked": "All 1 member(s) read individually: our vṛtti, Kāśikā, and the relevant commentary; position checked against the adhikāra range (C5).",
+   "licensed": [],
+   "not_licensed": [],
+   "unsure": [
+    {
+     "n": "3.1.91",
+     "word": "named by महाभाष्यम्",
+     "line": "3.1.91 named by महाभाष्यम्  ⟨the aṅga = what a suffix is introduced after (with whatever begins it)⟩",
+     "why": "The Mahābhāṣya lists \"अङ्गसंज्ञा च\" as a purpose of the धातोः adhikāra and says without the adhikāra the aṅga saṃjñā would fail (करिष्यति). So the link is explicit and substantive — but the direction is 3.1.91 → 1.4.13 (the adhikāra makes 1.4.13 reach the dhātu), not 1.4.13 operating inside 3.1.91. Whether a \"relies on\" ✔ should record a purpose-relation is a modelling decision; as an application it would be not licensed.",
+     "quotes": [
+      {
+       "file": "bhashya",
+       "id": "31091",
+       "quote": "अङ्गसंज्ञा च प्रयोजनम्। यस्मात्प्रत्ययविधिस्तदादि प्रत्ययेङ्गम् इति धातोरङ्गसंज्ञा सिद्धा भावति॥"
+      },
+      {
+       "file": "bhashya",
+       "id": "31091",
+       "quote": "अनिधाकरे हि सति अङ्गसंज्ञाया अभावः स्यात्  -  करिष्यति हरिष्यति॥"
+      }
+     ]
+    }
+   ],
+   "effect_defects": [],
+   "note": "Purpose-relation (Bhāṣya: aṅga saṃjñā is a प्रयोजन of the धातोः adhikāra); modelling decision."
+  },
+  {
+   "id": "G19",
+   "group": "carried / not a sūtra word | vidhi | X (…-…: … …)",
+   "count": 1,
+   "verdict": "not licensed",
+   "how_checked": "All 1 member(s) read individually: our vṛtti, Kāśikā, and the relevant commentary; position checked against the adhikāra range (C5).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "5.3.72",
+     "word": "the क-final base before अकच् is an aṅga",
+     "line": "5.3.72 the क-final base before अकच् is an aṅga  ⟨ककारान्तस्य अङ्गस्य⟩",
+     "should_be": "none",
+     "reason": "OUTSIDE_ADHIKARA",
+     "why": "Kāśikā says \"ककारान्तस्य प्रातिपदिकस्य\" — prātipadika, not aṅga; 5.3 is outside the adhikāra. The \"नैलेश-वृत्ति\" wording is not supported by any vendored source.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "53072",
+       "quote": "ककारान्तस्य प्रातिपदिकस्याकच्सन्नियोगेन दकारादेशो भवति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "effect_defects": [],
+   "note": ""
+  },
+  {
+   "id": "G20",
+   "group": "own word, data case 6 | operation | X: sthani",
+   "count": 1,
+   "verdict": "not licensed",
+   "how_checked": "All 1 member(s) read individually: our vṛtti, Kāśikā, and the relevant commentary; position checked against the adhikāra range (C5).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "6.3.119",
+     "word": "बह्वचः",
+     "line": "6.3.119 बह्वचः  ⟨“बह्वचः अङ्गस्य”⟩",
+     "should_be": "none",
+     "reason": "OUTSIDE_ADHIKARA",
+     "why": "6.3 is the अलुक्/उत्तरपदे section, before 6.4.1. Kāśikā: \"बह्वचो … दीर्घो भवति\" — no aṅga. Our vṛtti's \"बह्वचः अङ्गस्य\" is an insertion.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "63119",
+       "quote": "मतौ परतो बह्वचोऽजिरादिवर्जितस्य दीर्घो भवति संज्ञायां विषये।"
+      },
+      {
+       "file": "kashika",
+       "id": "63001",
+       "quote": "यदित ऊर्ध्वमनुक्रमिष्यामोऽलुगुत्तरपद इत्येवं तद् वेदितव्यम्।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "effect_defects": [],
+   "note": ""
+  },
+  {
+   "id": "G21",
+   "group": "own word, data case 6 | adhikāra | X",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) read individually (record: sūtra, words, our vṛtti, Kāśikā); each lies within 6.4.1–7.4.97 where the adhikāra is in force.",
+   "licensed": [
+    "6.4.1"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [],
+   "note": ""
+  },
+  {
+   "id": "G22",
+   "group": "carried / not a sūtra word | operation | X: sthani",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) read individually (record: sūtra, words, our vṛtti, Kāśikā); each lies within 6.4.1–7.4.97 where the adhikāra is in force.",
+   "licensed": [
+    "6.4.51"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [
+    {
+     "n": "6.4.51",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…प्रत्ययस्य अङ्गस्य…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G23",
+   "group": "own word, data case 5 | atideśa | X: purva",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) read individually (record: sūtra, words, our vṛtti, Kāśikā); each lies within 6.4.1–7.4.97 where the adhikāra is in force.",
+   "licensed": [
+    "7.1.92"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [],
+   "note": ""
+  },
+  {
+   "id": "G24",
+   "group": "carried / not a sūtra word | āgama | X: sthani",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) read individually (record: sūtra, words, our vṛtti, Kāśikā); each lies within 6.4.1–7.4.97 where the adhikāra is in force.",
+   "licensed": [
+    "7.2.35"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [
+    {
+     "n": "7.2.35",
+     "word": "अङ्गस्य",
+     "kind": "VRTTI_APPOSITION",
+     "why": "Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/sound being replaced or augmented (\"…आर्धधातुकस्य अङ्गस्य…\"); the source construes it as the base (अङ्गात् / अङ्गस्य … उत्तरस्य), per C6."
+    }
+   ],
+   "note": "Our vṛtti \"वलादेः आर्धधातुकस्य अङ्गस्य इट्\" is exactly the reading the Bhāṣya on 7.2.35 rejects (C6) — credit licensed, vṛtti wording wrong."
+  },
+  {
+   "id": "G25",
+   "group": "carried / not a sūtra word | pada | X",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) read individually (record: sūtra, words, our vṛtti, Kāśikā); each lies within 6.4.1–7.4.97 where the adhikāra is in force.",
+   "licensed": [
+    "7.2.73"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [],
+   "note": ""
+  },
+  {
+   "id": "G26",
+   "group": "carried / not a sūtra word | ādeśa | X: purva",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) read individually (record: sūtra, words, our vṛtti, Kāśikā); each lies within 6.4.1–7.4.97 where the adhikāra is in force.",
+   "licensed": [
+    "7.3.51"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [],
+   "note": ""
+  },
+  {
+   "id": "G27",
+   "group": "carried / not a sūtra word | atideśa | X: prakriti",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) read individually (record: sūtra, words, our vṛtti, Kāśikā); each lies within 6.4.1–7.4.97 where the adhikāra is in force.",
+   "licensed": [
+    "7.4.93"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [],
+   "note": ""
+  },
+  {
+   "id": "G28",
+   "group": "carried / not a sūtra word | ṣatva | X",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) read individually: our vṛtti, Kāśikā, and the relevant commentary; position checked against the adhikāra range (C5).",
+   "licensed": [
+    "8.3.78"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "effect_defects": [
+    {
+     "n": "8.3.78",
+     "word": "अङ्गस्य",
+     "kind": "TRIGGER_OWN_WORD",
+     "why": "Licensed on the sūtra's OWN word अङ्गात् (adhyāya 8, adhikāra not in force); member word \"अङ्गस्य\" / carried trigger is wrong.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "83078",
+       "quote": "इणन्तादङ्गादुत्तरेषां षीध्वंलुङ्लिटां यो धकारस्तस्य मूर्धन्यादेशो भवति।"
+      }
+     ]
+    }
+   ],
+   "note": "Licensed on own word अङ्गात्; carried trigger wrong."
+  }
+ ],
+ "missed": [
+  {
+   "n": "7.2.19",
+   "pid": "1.4.13",
+   "why": "Iṭ-prohibition after धृष्/शस् in niṣṭhā, inside the adhikāra; its neighbours 7.2.14–17, 7.2.22, 7.2.24 (same construction, same Kāśikā wording) are credited ✔, this one has no 1.4.13 entry at all.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "72019",
+     "quote": "तत्र धृष् शस् इत्येतयोर्निष्ठायामिडागमो न भवति।"
+    }
+   ]
+  },
+  {
+   "n": "7.2.23",
+   "pid": "1.4.13",
+   "why": "Same as 7.2.19 (घुष् in niṣṭhā); 7.2.22 and 7.2.24 credited, 7.2.23 not.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "72023",
+     "quote": "घुषेर्धातोरविशब्दनेऽर्थे निष्ठायामिडागमो न भवति।"
+    }
+   ]
+  },
+  {
+   "n": "7.1.90",
+   "pid": "1.4.13",
+   "why": "गोतः = the aṅga गो, after which the sarvanāmasthāna is णित्; parallel 7.1.92 सख्युरसम्बुद्धौ is credited, 7.1.90 not.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "71090",
+     "quote": "गोशब्दात् परं सर्वनामस्थानं णिद् भवति।"
+    }
+   ]
+  }
+ ],
+ "missed_note": "Not clear misses (left out deliberately): ~30 nipātana sūtras inside the range (6.4.28, 6.4.29, 6.4.53, 6.4.54, 6.4.171–175, 7.1.43, 7.1.48, 7.1.49, 7.2.18, 7.2.20, 7.2.21, 7.2.26, 7.2.27, 7.2.30, 7.2.32–34, 7.2.69, 7.3.61, 7.3.62, 7.3.68, 7.3.69, 7.4.34, 7.4.36, 7.4.45), the adhikāras 6.4.22, 6.4.46, 6.4.129, 7.2.91, 7.3.10, and 7.1.91 णलुत्तमो वा (operates on the suffix only) — the adhikāra is formally in force but no aṅga operation is stated; crediting them is a policy choice, not a fidelity fix."
+}

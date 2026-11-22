@@ -1,0 +1,630 @@
+{
+ "pid": "1.1.46",
+ "howGrouped": "case of the triggering word (own sūtra words only) | rule kind | start of the engine trigger text; member = \"<sūtra> <word>  ⟨engine effect⟩\"",
+ "applies": 158,
+ "consideredNotApplicable": 0,
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | āgama | X: ṭit augment",
+   "count": 71,
+   "sutras": [
+    "3.4.104 यासुट्  ⟨it goes at the BEGINNING of the place⟩",
+    "5.2.57 तमट्  ⟨it goes at the BEGINNING of the place⟩",
+    "5.2.58 तमट्  ⟨it goes at the BEGINNING of the place⟩",
+    "6.1.136 सुट्  ⟨it goes at the BEGINNING of the place⟩",
+    "6.1.137 सुट्  ⟨it goes at the BEGINNING of the place⟩",
+    "6.1.138 सुट्  ⟨it goes at the BEGINNING of the place⟩",
+    "6.1.139 सुट्  ⟨it goes at the BEGINNING of the place⟩",
+    "6.1.140 सुट्  ⟨it goes at the BEGINNING of the place⟩",
+    "6.1.141 सुट्  ⟨it goes at the BEGINNING of the place⟩",
+    "6.1.142 सुट्  ⟨it goes at the BEGINNING of the place⟩",
+    "6.3.100 दुक्  ⟨it goes at the BEGINNING of the place⟩",
+    "6.4.73 अट्  ⟨it goes at the BEGINNING of the place⟩",
+    "6.4.74 अट्  ⟨it goes at the BEGINNING of the place⟩",
+    "6.4.75 अट्  ⟨it goes at the BEGINNING of the place⟩",
+    "6.4.78 इयङ्-उवङौ  ⟨it goes at the BEGINNING of the place⟩",
+    "6.4.79 इयङ्-उवङौ  ⟨it goes at the BEGINNING of the place⟩",
+    "6.4.80 इयङ्-उवङौ  ⟨it goes at the BEGINNING of the place⟩",
+    "7.1.7 रुट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.1.8 रुट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.1.55 नुट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.1.56 नुट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.1.57 नुट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.9 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.10 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.11 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.12 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.13 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.14 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.15 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.16 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.17 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.22 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.24 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.25 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.28 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.29 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.31 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.42 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.43 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.44 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.45 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.46 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.48 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.49 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.50 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.51 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.53 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.54 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.55 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.56 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.57 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.59 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.60 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.62 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.63 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.64 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.65 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.67 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.68 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.70 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.71 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.72 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.74 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.75 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.76 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.77 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.78 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.4.72 नुट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.4.91 रीक्  ⟨it goes at the BEGINNING of the place⟩",
+    "8.2.17 नुट्  ⟨it goes at the BEGINNING of the place⟩",
+    "8.3.30 धुट्  ⟨it goes at the BEGINNING of the place⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.4.104",
+     "word": "यासुट्",
+     "trigger": "यासुट्: ṭit augment",
+     "effect": "it goes at the BEGINNING of the place",
+     "sutra": "किदाशिषि",
+     "ourVrtti": "परस्मैपदविषये लिङः आशिषि अर्थे किद्वत् यासुट् आगमः उदात्तः भवति",
+     "kashika": "आशिषि यो लिङ्, तस्य यासुडागमो भवति, स चोदात्तः किद्वद् भवति।",
+     "prathamavrtti": "आशिषि विहितस्य परस्मैपदविषयस्य लिङो यासुट् आगमो भवति, स किदुदात्तश्च भवति ॥"
+    },
+    {
+     "n": "7.2.10",
+     "word": "इट्",
+     "trigger": "इट्: ṭit augment",
+     "effect": "it goes at the BEGINNING of the place",
+     "sutra": "एकाच उपदेशेऽनुदात्तात्",
+     "ourVrtti": "उपदेशे एकाचः धातोः परस्य अनुदात्तात् इट् आगमः न भवति",
+     "kashika": "उपदेशे य एकाच् धातुरनुदात्तश्च तस्मादिडागमो न भवति।",
+     "prathamavrtti": "उपदेशे यो धातुरेकाच् अनुदात्तश्च तस्माद् इडागमो न भवति।"
+    },
+    {
+     "n": "7.2.53",
+     "word": "इट्",
+     "trigger": "इट्: ṭit augment",
+     "effect": "it goes at the BEGINNING of the place",
+     "sutra": "अञ्चेः पूजायाम्",
+     "ourVrtti": "क्त्वानिष्ठयोः परे अञ्चु-धातोः अङ्गस्य पूजायाम् अर्थे इडागमः भवति",
+     "kashika": "अञ्चेः पूजायामर्थे क्त्वानिष्ठयोरिडागमो भवति।",
+     "prathamavrtti": "अञ्चेः उत्तरस्य पूजायामर्थे क्त्वानिष्ठयोरिडागमो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "group": "own word, data case 1 | āgama | X: ṭit augment",
+   "count": 32,
+   "sutras": [
+    "3.4.94 अट्-आटौ  ⟨it goes at the BEGINNING of the place⟩",
+    "3.4.102 सीयुट्  ⟨it goes at the BEGINNING of the place⟩",
+    "3.4.103 यासुट्  ⟨it goes at the BEGINNING of the place⟩",
+    "3.4.107 सुट्  ⟨it goes at the BEGINNING of the place⟩",
+    "5.1.23 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "5.2.49 मट्  ⟨it goes at the BEGINNING of the place⟩",
+    "5.2.50 थट्  ⟨it goes at the BEGINNING of the place⟩",
+    "5.2.51 थुक्  ⟨it goes at the BEGINNING of the place⟩",
+    "5.2.52 तिथुक्  ⟨it goes at the BEGINNING of the place⟩",
+    "5.2.53 इथुक्  ⟨it goes at the BEGINNING of the place⟩",
+    "5.2.56 तमट्  ⟨it goes at the BEGINNING of the place⟩",
+    "6.1.135 सुट्  ⟨it goes at the BEGINNING of the place⟩",
+    "6.3.74 नुट्  ⟨it goes at the BEGINNING of the place⟩",
+    "6.4.71 अट्  ⟨it goes at the BEGINNING of the place⟩",
+    "6.4.72 आट्  ⟨it goes at the BEGINNING of the place⟩",
+    "6.4.77 इयङ्-उवङौ  ⟨it goes at the BEGINNING of the place⟩",
+    "7.1.6 रुट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.1.52 सुट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.1.54 नुट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.8 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.35 इट्  ⟨it goes at the BEGINNING of आर्धधातुकस्य⟩",
+    "7.2.41 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.47 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.52 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.58 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.2.66 इट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.3.93 ईट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.3.99 अट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.3.112 आट्  ⟨it goes at the BEGINNING of the place⟩",
+    "7.4.71 नुट्  ⟨it goes at the BEGINNING of the place⟩",
+    "8.2.16 नुट्  ⟨it goes at the BEGINNING of the place⟩",
+    "8.3.29 धुट्  ⟨it goes at the BEGINNING of the place⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.4.94",
+     "word": "अट्-आटौ",
+     "trigger": "अट्-आटौ: ṭit augment",
+     "effect": "it goes at the BEGINNING of the place",
+     "sutra": "लेटोऽडाटौ",
+     "ourVrtti": "लेटः अट् आट् आगमौ भवतः",
+     "kashika": "लेटोऽडाटावागमौ भवतः पर्यायेण।",
+     "prathamavrtti": "लेटोऽट् आट् इत्येतौ आगमौ पर्यायेण भवतः ॥"
+    },
+    {
+     "n": "5.2.56",
+     "word": "तमट्",
+     "trigger": "तमट्: ṭit augment",
+     "effect": "it goes at the BEGINNING of the place",
+     "sutra": "विंशत्यादिभ्यस्तमडन्यतरस्याम्",
+     "ourVrtti": "संख्यावाचिभ्यः विंशत्यादिभ्यः प्रातिपदिकेभ्यः डटः प्रत्ययस्य षष्ठीसमर्थेभ्यः अन्यतरस्याम् तमट् आगमः भवति",
+     "kashika": "विंशत्यादिभ्यः परस्य डटस्तमडागमो भवत्यन्यतरस्याम्।",
+     "prathamavrtti": "षष्ठीसमर्थेभ्यो विंशत्यादिभ्यः सङ्ख्यावाचिभ्यः प्रातिपदिकेभ्यः डटस्तमट् आगमो भवत्यन्यतरस्याम् ॥"
+    },
+    {
+     "n": "7.2.35",
+     "word": "इट्",
+     "trigger": "इट्: ṭit augment",
+     "effect": "it goes at the BEGINNING of आर्धधातुकस्य",
+     "sutra": "आर्धधातुकस्येड् वलादेः",
+     "ourVrtti": "वलादेः आर्धधातुकस्य अङ्गस्य इट् आगमः भवति",
+     "kashika": "आर्धधातुकस्य वलादेरिडागमो भवति।",
+     "prathamavrtti": "वलादेरार्धधातुकस्य इडागमो भवति।"
+    }
+   ]
+  },
+  {
+   "id": "G3",
+   "group": "own word, data case 1 | āgama | X: kit augment",
+   "count": 15,
+   "sutras": [
+    "4.1.32 नुक्  ⟨it goes at the END of the place (after the last sound of the aṅga)⟩",
+    "4.1.158 कुक्  ⟨it goes at the END of the place (after the last sound of the aṅga)⟩",
+    "4.1.161 षुक्  ⟨it goes at the END of the place (after the last sound of the aṅga)⟩",
+    "4.2.91 कुक्  ⟨it goes at the END of the place (after the last sound of the aṅga)⟩",
+    "4.3.138 षुक्  ⟨it goes at the END of the place (after the last sound of the aṅga)⟩",
+    "5.2.129 कुक्  ⟨it goes at the END of the place (after the last sound of the aṅga)⟩",
+    "6.1.71 तुक्  ⟨it goes at the END of the place (after the last sound of the aṅga)⟩",
+    "7.1.50 असुक्  ⟨it goes at the END of the place (after the last sound of the aṅga)⟩",
+    "7.2.82 मुक्  ⟨it goes at the END of the place (after the last sound of the aṅga)⟩",
+    "7.3.33 युक्  ⟨it goes at the END of the place (after the last sound of the aṅga)⟩",
+    "7.3.36 पुक्  ⟨it goes at the END of the place (after the last sound of the aṅga)⟩",
+    "7.3.37 युक्  ⟨it goes at the END of the place (after the last sound of the aṅga)⟩",
+    "7.3.40 षुक्  ⟨it goes at the END of the place (after the last sound of the aṅga)⟩",
+    "7.4.85 नुक्  ⟨it goes at the END of the place (after the last sound of the aṅga)⟩",
+    "8.3.31 तुक्  ⟨it goes at the END of the place (after the last sound of the aṅga)⟩"
+   ],
+   "samples": [
+    {
+     "n": "4.1.32",
+     "word": "नुक्",
+     "trigger": "नुक्: kit augment",
+     "effect": "it goes at the END of the place (after the last sound of the aṅga)",
+     "sutra": "अन्तर्वत्पतिवतोर्नुक्",
+     "ourVrtti": "अन्तर्वत्-पतिवत्-शब्दाभ्याम् स्त्रियाम् नुक् आगमः ङीप् प्रत्ययः भवति",
+     "kashika": "प्रकृतिर्निपात्यते, नुगागमस्तु विधीयते।",
+     "prathamavrtti": "अन्तर्वत् पतिवत् शब्दाभ्यां स्त्रियां ङीप् प्रत्ययो भवति तयोश्च नुक् आगमो भवति ङीप् सन्नियोगेन॥"
+    },
+    {
+     "n": "5.2.129",
+     "word": "कुक्",
+     "trigger": "कुक्: kit augment",
+     "effect": "it goes at the END of the place (after the last sound of the aṅga)",
+     "sutra": "वातातिसाराभ्यां कुक् च",
+     "ourVrtti": "प्रथमासमर्थाभ्यां वातातिसार-शब्दाभ्याम् मत्वर्थे तत्संनियोगेन च तयोः कुक् आगमः इनिः प्रत्ययः भवति",
+     "kashika": "वातातिसारशब्दाभ्यामिनिः प्रत्ययो भवति, तत्संनियोगेन च तयोः कुगागमो भवति।",
+     "prathamavrtti": "वात, अतीसार इत्येताभ्यां शब्दाभ्यां मत्वर्थे इनिः प्रत्ययो भवति तत्सन्नियोगेन च तयोः कुग् आगमो भवति॥"
+    },
+    {
+     "n": "7.3.36",
+     "word": "पुक्",
+     "trigger": "पुक्: kit augment",
+     "effect": "it goes at the END of the place (after the last sound of the aṅga)",
+     "sutra": "अर्तिह्रीव्लीरीक्नूयीक्ष्माय्यातां पुङ्णौ",
+     "ourVrtti": "णौ परे अङ्गानाम् ऋ-ह्री-व्ली-री-क्नूयी-क्ष्मायी इत्येतेषाम् आकारान्तानां च अङ्गस्य पुक् आगमः भवति",
+     "kashika": "अर्ति  ह्री व्ली री क्नूयी क्ष्मायी इत्येतेषामङ्गानामाकारान्तानां च पुगागमो भवति णौ परतः।",
+     "prathamavrtti": "ऋ, ह्री, व्ली, री, क्नूयी, क्ष्मायी इत्येतेषामाकारान्तानाञ्चाङ्गानां पुक् आगमो भवति णौ परतः।"
+    }
+   ]
+  },
+  {
+   "id": "G4",
+   "group": "own word, data case 6 | ādeśa | X: 1.1.46 … … (not 1.1.49 — paribhāṣā au",
+   "count": 12,
+   "sutras": [
+    "6.3.76 एकस्य  ⟨names the place — the thing replaced (“स्थाने”)⟩",
+    "6.3.99 अन्यस्य  ⟨names the place — the thing replaced (“स्थाने”)⟩",
+    "6.4.88 भुवः  ⟨names the place — the thing replaced (“स्थाने”)⟩",
+    "6.4.159 इष्ठस्य  ⟨names the place — the thing replaced (“स्थाने”)⟩",
+    "7.1.47 क्त्वः  ⟨names the place — the thing replaced (“स्थाने”)⟩",
+    "7.2.36 स्नुक्रमोः  ⟨names the place — the thing replaced (“स्थाने”)⟩",
+    "7.3.38 वः  ⟨names the place — the thing replaced (“स्थाने”)⟩",
+    "7.3.39 लीलोः  ⟨names the place — the thing replaced (“स्थाने”)⟩",
+    "7.4.17 अस्यतेः  ⟨names the place — the thing replaced (“स्थाने”)⟩",
+    "7.4.84 वञ्चुस्रंसुध्वंसुभ्रंसुकसपतपदस्कन्दाम्  ⟨names the place — the thing replaced (“स्थाने”)⟩",
+    "7.4.90 ऋदुपधस्य  ⟨names the place — the thing replaced (“स्थाने”)⟩",
+    "8.3.28 ङ्णोः  ⟨names the place — the thing replaced (“स्थाने”)⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.3.76",
+     "word": "एकस्य",
+     "trigger": "एकस्य: 1.1.46 आद्यन्तौ टकितौ (not 1.1.49 — paribhāṣā audit: An augment rule: the 6th names the host the augment attaches to; nothing is replaced. 1.1.46 (ṭit/ki",
+     "effect": "names the place — the thing replaced (“स्थाने”)",
+     "sutra": "एकादिश्चैकस्य चादुक्",
+     "ourVrtti": "एकादिः च नञ् प्रकृत्या भवति, एकशब्दस्य च आदुक् आगमः भवति",
+     "kashika": "एकादिश्च नञ् प्रकृत्या भवति, एकशब्दस्य चादुगागमो भवति।",
+     "prathamavrtti": "एकादिर्नञ् प्रकृत्या भवति, एकशब्दस्य च आदुक् आगमो भवति ॥"
+    },
+    {
+     "n": "7.1.47",
+     "word": "क्त्वः",
+     "trigger": "क्त्वः: 1.1.46 आद्यन्तौ टकितौ (not 1.1.49 — paribhāṣā audit: An augment rule: the 6th names the host the augment attaches to; nothing is replaced. 1.1.46 (ṭit/k",
+     "effect": "names the place — the thing replaced (“स्थाने”)",
+     "sutra": "क्त्वो यक्",
+     "ourVrtti": "छन्दसि विषये क्त्वा-प्रत्ययस्य अङ्गस्य यक् आगमः भवति",
+     "kashika": "क्त्वा इत्येतस्य यगागमो भवति छन्दसि विषये।",
+     "prathamavrtti": "छन्दसि विषये क्त्वा इत्येतस्य यक् आगमो भवति ॥"
+    },
+    {
+     "n": "7.4.17",
+     "word": "अस्यतेः",
+     "trigger": "अस्यतेः: 1.1.46 आद्यन्तौ टकितौ (not 1.1.49 — paribhāṣā audit: An augment rule: the 6th names the host the augment attaches to; nothing is replaced. 1.1.46 (ṭit/",
+     "effect": "names the place — the thing replaced (“स्थाने”)",
+     "sutra": "अस्यतेस्थुक्",
+     "ourVrtti": "अङि परे अङ्गस्य अस्यतेः थुक् आगमः भवति",
+     "kashika": "अस्यतेरङ्गस्य थुगागमो भवति अङि परतः।",
+     "prathamavrtti": "असु क्षेपणे इत्यस्याङ्गस्य थुक् आगमो भवत्यङि परतः ॥"
+    }
+   ]
+  },
+  {
+   "id": "G5",
+   "group": "carried / not a sūtra word | āgama | X: kit augment",
+   "count": 7,
+   "sutras": [
+    "6.1.73 तुक्  ⟨it goes at the END of the place (after the last sound of the aṅga)⟩",
+    "6.1.74 तुक्  ⟨it goes at the END of the place (after the last sound of the aṅga)⟩",
+    "6.1.75 तुक्  ⟨it goes at the END of the place (after the last sound of the aṅga)⟩",
+    "6.1.76 तुक्  ⟨it goes at the END of the place (after the last sound of the aṅga)⟩",
+    "7.1.51 असुक्  ⟨it goes at the END of the place (after the last sound of the aṅga)⟩",
+    "7.4.86 नुक्  ⟨it goes at the END of the place (after the last sound of the aṅga)⟩",
+    "7.4.87 नुक्  ⟨it goes at the END of the place (after the last sound of the aṅga)⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.73",
+     "word": "तुक्",
+     "trigger": "तुक्: kit augment",
+     "effect": "it goes at the END of the place (after the last sound of the aṅga)",
+     "sutra": "छे च",
+     "ourVrtti": "संहितायां विषये छकारे परे ह्रस्वस्य तुक् आगमः भवति",
+     "kashika": "छकारे परतः संहितायां विषये ह्रस्वस्य तुगागमो भवति।",
+     "prathamavrtti": "छकारे परतः संहितायां विषये ह्रस्वस्य तुगागमो भवति ॥"
+    },
+    {
+     "n": "6.1.75",
+     "word": "तुक्",
+     "trigger": "तुक्: kit augment",
+     "effect": "it goes at the END of the place (after the last sound of the aṅga)",
+     "sutra": "दीर्घात्",
+     "ourVrtti": "संहितायाम् छकारे परे दीर्घात् तुक् आगमः भवति",
+     "kashika": "दीर्घात् परो यश्छकारस्तस्मिन् पूर्वस्य तस्यैव दीर्घस्य तुगागमो भवति।",
+     "prathamavrtti": "दीर्घादुत्तरो यश्छकारस्तस्मिन् पूर्वस्य तस्यैव दीर्घस्य तुगागमो भवति, पदान्ताच्च दीर्घादुत्तरो यश्छकारस्तस्मिन् पूर्वस्य तस्यैव पदान्तस्य दीर्घस्य च विकल्पेन तुगागमो भवति ॥"
+    },
+    {
+     "n": "7.1.51",
+     "word": "असुक्",
+     "trigger": "असुक्: kit augment",
+     "effect": "it goes at the END of the place (after the last sound of the aṅga)",
+     "sutra": "अश्वक्षीरवृषलवणानामात्मप्रीतौ क्यचि",
+     "ourVrtti": "आत्मप्रीति-विषये क्यचि परे अङ्गानाम् अश्व-क्षीर-वृष-लवण-शब्दानाम् अङ्गस्य असुक् आगमः भवति",
+     "kashika": "अश्व क्षीर वृष लवण इत्येतेषामङ्गानामात्मप्रीतिविषये क्यचि परतोऽसुगागमो भवति।",
+     "prathamavrtti": "अश्व, क्षीर, वृष, लवण इत्येतेषामङ्गानामात्मप्रीतिविषये क्यचि परतोऽसुक् आगमो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G6",
+   "group": "carried / not a sūtra word | ādeśa | X: 1.1.46 … … (not 1.1.49 — paribhāṣā au",
+   "count": 7,
+   "sutras": [
+    "6.4.63 उत्तरस्य  ⟨names the place — the thing replaced (“स्थाने”)⟩",
+    "7.3.94 उत्तरस्य  ⟨names the place — the thing replaced (“स्थाने”)⟩",
+    "7.3.95 उत्तरस्य  ⟨names the place — the thing replaced (“स्थाने”)⟩",
+    "7.3.96 उत्तरस्य  ⟨names the place — the thing replaced (“स्थाने”)⟩",
+    "7.3.97 उत्तरस्य  ⟨names the place — the thing replaced (“स्थाने”)⟩",
+    "7.3.98 उत्तरस्य  ⟨names the place — the thing replaced (“स्थाने”)⟩",
+    "7.3.113 उत्तरस्य  ⟨names the place — the thing replaced (“स्थाने”)⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.63",
+     "word": "उत्तरस्य",
+     "trigger": "उत्तरस्य: 1.1.46 आद्यन्तौ टकितौ (not 1.1.49 — paribhāṣā audit: An augment rule: the 6th names the host the augment attaches to; nothing is replaced. 1.1.46 (ṭit",
+     "effect": "names the place — the thing replaced (“स्थाने”)",
+     "sutra": "दीङो युडचि क्ङिति",
+     "ourVrtti": "अजादौ क्ङिति आर्धधातुके प्रत्यये परतः दीङः युट् आगमः भवति",
+     "kashika": "दीङो युडागमो भवत्यजादौ क्ङिति प्रत्यये परतः।",
+     "prathamavrtti": "अजादौ क्ङिति प्रत्यये परतो दीङो युडागमो भवति ॥"
+    },
+    {
+     "n": "7.3.95",
+     "word": "उत्तरस्य",
+     "trigger": "उत्तरस्य: 1.1.46 आद्यन्तौ टकितौ (not 1.1.49 — paribhāṣā audit: An augment rule: the 6th names the host the augment attaches to; nothing is replaced. 1.1.46 (ṭit",
+     "effect": "names the place — the thing replaced (“स्थाने”)",
+     "sutra": "तुरुस्तुशम्यमः सार्वधातुके",
+     "ourVrtti": "तु रु स्तु शम् अम् इत्येतेभ्यः उत्तरस्य हलादेः सार्वधातुकस्य अङ्गस्य वा ईट् आगमः भवति",
+     "kashika": "तु इति सौत्रोऽयं धातुः, <<रु शब्दे>>,<<ष्टुञ् स्तुतौ>>,<<शमु उपशमे>>,<<अम गत्यादिषु>> इत्येतेभ्यः परस्य सार्वधातुकस्य हलादेर्वा ईडागमो भवति।",
+     "prathamavrtti": "तु, रु, ष्टुञ्, शम, अम इत्येतेभ्य उत्तरस्य हलादेः सार्वधातुकस्य वा ईडागमो भवति ॥"
+    },
+    {
+     "n": "7.3.97",
+     "word": "उत्तरस्य",
+     "trigger": "उत्तरस्य: 1.1.46 आद्यन्तौ टकितौ (not 1.1.49 — paribhāṣā audit: An augment rule: the 6th names the host the augment attaches to; nothing is replaced. 1.1.46 (ṭit",
+     "effect": "names the place — the thing replaced (“स्थाने”)",
+     "sutra": "बहुलं छन्दसि",
+     "ourVrtti": "छन्दसि विषये अस्तिसिद्भ्याम् परस्य अपृक्तस्य हलादेः सार्वधातुकस्य अङ्गस्य बहुलम् ईट् आगमः भवति",
+     "kashika": "अस्तिसिचोरपृक्तस्य सार्वधातुकस्य ईडागमो भवति बहुलं छन्दसि विषये।",
+     "prathamavrtti": "अस्तिसिचोऽपृक्तस्य हलादेः सार्वधातुकस्य ईडागमो भवति बहुलं छन्दसि विषये॥"
+    }
+   ]
+  },
+  {
+   "id": "G7",
+   "group": "named by a commentator | ādeśa | X",
+   "count": 3,
+   "sutras": [
+    "3.4.78 named by न्यासः  ⟨a ṭit augment goes at the BEGINNING, a kit augment at the END⟩",
+    "6.4.19 named by न्यासः  ⟨a ṭit augment goes at the BEGINNING, a kit augment at the END⟩",
+    "6.4.63 named by न्यासः  ⟨a ṭit augment goes at the BEGINNING, a kit augment at the END⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.4.78",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a ṭit augment goes at the BEGINNING, a kit augment at the END",
+     "sutra": "तिप्तस्झिसिप्थस्थमिब्वस्मस् तातांझथासाथांध्वमिड्वहिमहिङ्",
+     "ourVrtti": "लकारस्य स्थाने तिप् तस् झि सिप् थस् थ मिप् वस् मस् त आताम् झ थास् आथाम् ध्वम् इट् वहि महिङ् इत्येते आदेशाः भवन्ति",
+     "kashika": "लस्य तिबादय आदेशा भवन्ति।",
+     "prathamavrtti": "धातोः तिप्-तस्-झि, सिप्-थस्-थ, मिप्-वस्-मस् (परस्मैपदम्), त-आताम्-झ, थास्-आथाम्-ध्वम्, इट्-वहि-महिङ् (आत्मनेपदम्) इत्येते अष्टादश आदेशाः लस्य = लकारस्य स्थाने भवन्ति। तत्र नव आदेशाः परस्मैपदिनां धातूनां, नव च आत्मनेपदिनाम्॥"
+    },
+    {
+     "n": "6.4.19",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a ṭit augment goes at the BEGINNING, a kit augment at the END",
+     "sutra": "च्छ्वोः शूडनुनासिके च",
+     "ourVrtti": "अनुनासिकादौ प्रत्यये परे क्वौ झलादौ च प्रत्यये परे क्ङिति च्छ्वोः स्थाने अङ्गस्य स्थाने श् ऊठ् आदेशौ यथासङ्ख्यम् भवतः",
+     "kashika": "छ इत्येतस्य सतुक्कस्य वकारस्य च स्थाने यथासंख्यं श् ऊठ् इत्येतावादेशौ भवतः, अनुनासिकादौ प्रत्यये परतः क्वौ झलादौ च क्ङिति।",
+     "prathamavrtti": "च्छ्वोः इत्येतयोः स्थाने यथासंख्यं शू ऊठ् इत्येतौ आदेशौ भवतोऽनुनासिकादौ प्रत्यये परतः, कौ झलादौ च क्ङिति ॥"
+    },
+    {
+     "n": "6.4.63",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a ṭit augment goes at the BEGINNING, a kit augment at the END",
+     "sutra": "दीङो युडचि क्ङिति",
+     "ourVrtti": "अजादौ क्ङिति आर्धधातुके प्रत्यये परतः दीङः युट् आगमः भवति",
+     "kashika": "दीङो युडागमो भवत्यजादौ क्ङिति प्रत्यये परतः।",
+     "prathamavrtti": "अजादौ क्ङिति प्रत्यये परतो दीङो युडागमो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G8",
+   "group": "carried / not a sūtra word | atideśa | X",
+   "count": 2,
+   "sutras": [
+    "1.2.2 इट् is the augment at the start of the suffix  ⟨इडादिः — a suffix beginning with इट्⟩",
+    "1.2.3 इट् is the augment at the start of the suffix  ⟨इडादिः — a suffix beginning with इट्⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.2.2",
+     "word": "इट् is the augment at the start of the suffix",
+     "trigger": "इट् is the augment at the start of the suffix",
+     "effect": "इडादिः — a suffix beginning with इट्",
+     "sutra": "विज इट्",
+     "ourVrtti": "विजेः धातोः इडादिः प्रत्ययः ङिद्वत् भवति",
+     "kashika": "<<ओविजी भयचलनयोः>> अस्मात् पर इडादिः प्रत्ययो ङिद्वद् भवति।",
+     "prathamavrtti": "ओविजी भयसञ्चलनयोः (तुदा० आ०) इत्येतस्मात् पर इडादिः प्रत्ययो ङिद्वद् भवति।"
+    },
+    {
+     "n": "1.2.3",
+     "word": "इट् is the augment at the start of the suffix",
+     "trigger": "इट् is the augment at the start of the suffix",
+     "effect": "इडादिः — a suffix beginning with इट्",
+     "sutra": "विभाषोर्णोः",
+     "ourVrtti": "ऊर्णोतेः धातोः इडादिः प्रत्ययः विकल्पेन ङिद्वत् भवति",
+     "kashika": "<<ऊर्णुञ् आच्छादने>> अस्मात् पर इडादिः प्रत्ययो विभाषा ङिद्वद् भवति।",
+     "prathamavrtti": "‹ऊर्णुञ् आच्छादने› (अदा० उ०) अस्मात् पर इडादिः प्रत्ययो विभाषा ङिद्वद् भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G9",
+   "group": "own word, data case 7 | āgama | X: ṭit augment",
+   "count": 2,
+   "sutras": [
+    "8.4.2 अट्-कु-पु-आङ्-नुम्-व्यवाये  ⟨it goes at the BEGINNING of the place⟩",
+    "8.4.11 प्रातिपदिकान्त-नुम्-विभक्तिषु  ⟨it goes at the BEGINNING of the place⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.4.2",
+     "word": "अट्-कु-पु-आङ्-नुम्-व्यवाये",
+     "trigger": "अट्-कु-पु-आङ्-नुम्-व्यवाये: ṭit augment",
+     "effect": "it goes at the BEGINNING of the place",
+     "sutra": "अट्कुप्वाङ्नुम्व्यवायेऽपि",
+     "ourVrtti": "समानपदे रेफषकाराभ्याम् उत्तरस्य नकारस्य स्थाने अट्-कु-पु-आङ्-नुम् इत्येतैः व्यवाये अपि णकारादेशः भवति",
+     "kashika": "अट् कु पु आङ् नुम् इत्येतैर्व्यवायेऽपि रेफषकाराभ्यामुत्तरस्य नकारस्य णकार आदेशो भवति।",
+     "prathamavrtti": "अट्, कु, पु, आङ्, नुम् इत्येतैर्व्यवायेऽपि रेफषकाराभ्यामुत्तरस्य नकारस्य णकारादेशो भवति॥"
+    },
+    {
+     "n": "8.4.11",
+     "word": "प्रातिपदिकान्त-नुम्-विभक्तिषु",
+     "trigger": "प्रातिपदिकान्त-नुम्-विभक्तिषु: ṭit augment",
+     "effect": "it goes at the BEGINNING of the place",
+     "sutra": "प्रातिपदिकान्तनुम्विभक्तिषु च",
+     "ourVrtti": "प्रातिपदिकान्ते नुमि विभक्तौ च पूर्वपदस्थात् निमित्तात् नकारस्य स्थाने विकल्पेन णकारः आदेशः भवति",
+     "kashika": "प्रातिपदिकान्ते नुमि विभक्तौ च यो नकारस्तस्य पूर्वपदस्थाद् निमित्तादुत्तरस्य वा णकार आदेशो भवति।",
+     "prathamavrtti": "पूर्वपदस्थान्निमित्तादुत्तरस्य प्रातिपदिकान्ते नुमि विभक्तौ च यो नकारस्तस्य वा णकारादेशो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G10",
+   "group": "carried / not a sūtra word | paribhāṣā | X",
+   "count": 1,
+   "sutras": [
+    "1.1.47 1.1.47  ⟨मित् is an exception to 1.1.46: not at the beginning or the end, but a⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.1.47",
+     "word": "1.1.47",
+     "trigger": "1.1.47",
+     "effect": "मित् is an exception to 1.1.46: not at the beginning or the end, but after the last vowel",
+     "sutra": "मिदचोऽन्त्यात्परः",
+     "ourVrtti": "अचाम् सन्निविष्टानाम् अन्त्यात् अचः परः मित् आगमः भवति",
+     "kashika": "अचां संनिविष्टानामन्त्यादचः परो मिद् भवति।",
+     "prathamavrtti": "अचां सन्निविष्टानां योऽन्त्योऽच् तस्मात् परो मित् भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G11",
+   "group": "named by a commentator | vidhi | X",
+   "count": 1,
+   "sutras": [
+    "3.2.8 named by न्यासः  ⟨a ṭit augment goes at the BEGINNING, a kit augment at the END⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.2.8",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a ṭit augment goes at the BEGINNING, a kit augment at the END",
+     "sutra": "गापोष्टक्",
+     "ourVrtti": "कर्मणि उपपदे अनुपसर्गे गा-पा-धातुभ्याम् टक् प्रत्ययः परः च भवति",
+     "kashika": "गायतेः पिबतेश्च धातोः कर्मण्युपपदेऽनुपसर्गे टक् प्रत्ययो भवति।",
+     "prathamavrtti": "कर्मण्युपपदे गा पा इत्येताभ्यां धातुभ्यां टक् प्रत्ययो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G12",
+   "group": "own word, data case 6 | atideśa | X: 1.1.46 … … (not 1.1.49 — paribhāṣā au",
+   "count": 1,
+   "sutras": [
+    "3.4.92 उत्तमस्य  ⟨“उत्तमपुरुषस्य”⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.4.92",
+     "word": "उत्तमस्य",
+     "trigger": "उत्तमस्य: 1.1.46 आद्यन्तौ टकितौ (not 1.1.49 — paribhāṣā audit: An augment rule: the 6th names the host the augment attaches to; nothing is replaced. 1.1.46 (ṭit",
+     "effect": "“उत्तमपुरुषस्य”",
+     "sutra": "आडुत्तमस्य पिच्च",
+     "ourVrtti": "लोट्सम्बन्धिनः उत्तमपुरुषस्य आट् आगमः स च उत्तमपुरुषः पित् भवति",
+     "kashika": "लोट्संबन्धिन उत्तमपुरुषस्याडागमो भवति, स चोत्तमपुरुषः पिद् भवति।",
+     "prathamavrtti": "लोट्सम्बन्धिन उत्तमपुरुषस्याडागमो भवति, स चोत्तमपुरुषः पित् भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G13",
+   "group": "named by a commentator | vidhi | X (English)",
+   "count": 1,
+   "sutras": [
+    "4.1.125 named by Vasu  ⟨a ṭit augment goes at the BEGINNING, a kit augment at the END⟩"
+   ],
+   "samples": [
+    {
+     "n": "4.1.125",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "a ṭit augment goes at the BEGINNING, a kit augment at the END",
+     "sutra": "भ्रुवो वुक् च",
+     "ourVrtti": "भ्रू-प्रातिपदिकात् अपत्ये अर्थे वुक् आगमः ढक् प्रत्ययः भवति",
+     "kashika": "भ्रूशब्दादपत्ये ढक् प्रत्ययो भवति, तत्सन्नियोगेन च वुगागमः।",
+     "prathamavrtti": "भ्रू-प्रातिपदिकाद् अपत्येऽर्थे ढक्-प्रत्ययो भवति, तत्सन्नियोगेन च भ्रुवो वुक्-आगमो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G14",
+   "group": "named by a commentator | atideśa | X (English)",
+   "count": 1,
+   "sutras": [
+    "6.1.85 named by Vasu  ⟨a ṭit augment goes at the BEGINNING, a kit augment at the END⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.85",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "a ṭit augment goes at the BEGINNING, a kit augment at the END",
+     "sutra": "अन्तादिवच्च",
+     "ourVrtti": "पूर्वस्य परस्य च एकादेशः पूर्वस्य अन्तवत् परस्य आदिवत् च यथासङ्ख्यम् भवति",
+     "kashika": "एकः पूर्वपरयोरिति योऽयमेकादेशो विधीयते, स पूर्वस्यान्तवद् भवति, परस्यादिवद् भवति।",
+     "prathamavrtti": "अतिदेशोऽयम् । एकः पूर्वपरयोरिति योऽयमेकादेशो विधीयते स एकादेशः पूर्वस्यान्तवद्भवति परस्य चादिवद् भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G15",
+   "group": "carried / not a sūtra word | operation | X: 1.1.46 … … (not 1.1.49 — paribhāṣā au",
+   "count": 1,
+   "sutras": [
+    "7.4.92 the place is named in the 6th  ⟨the operation replaces it (“स्थाने”, often left unsaid in the gloss)⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.4.92",
+     "word": "the place is named in the 6th",
+     "trigger": "the place is named in the 6th: 1.1.46 आद्यन्तौ टकितौ (not 1.1.49 — paribhāṣā audit: An augment rule: the 6th names the host the augment attaches to; nothing is ",
+     "effect": "the operation replaces it (“स्थाने”, often left unsaid in the gloss)",
+     "sutra": "ऋतश्च",
+     "ourVrtti": "यङ्लुकि परे ऋकारान्तस्य अङ्गस्य अभ्यासस्य रुक्-रिक् आगमौ रीक् आगमः भवति",
+     "kashika": "ऋकारान्तस्य अङ्गस्य योऽभ्यासः तस्य रुग्रिकौ आगमौ भवतः रीक् च यङ्लुकि।",
+     "prathamavrtti": "ऋकारान्तस्याङ्गस्य योऽभ्यासस्तस्य रुक् रिक् रीक् इत्येते आगमा भवन्ति यङ्लुकि॥"
+    }
+   ]
+  },
+  {
+   "id": "G16",
+   "group": "named by a commentator | ādeśa | X (English)",
+   "count": 1,
+   "sutras": [
+    "8.3.28 named by Vasu  ⟨a ṭit augment goes at the BEGINNING, a kit augment at the END⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.3.28",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "a ṭit augment goes at the BEGINNING, a kit augment at the END",
+     "sutra": "ङ्णोः कुक्टुक् शरि",
+     "ourVrtti": "शरि परे पदान्तयोः ङकारणकारयोः विकल्पेन कुक्-टुक् आगमौ यथासङ्ख्यम् भवति",
+     "kashika": "ङकारणकारयोः पदान्तयोः कुक्  टुग् इत्येतावागमौ वा भवतः शरि परतः।",
+     "prathamavrtti": "पदान्तयोः ङकारणकारयोः क्रमेण कुक् टुक् इत्येतावागमौ विकल्पेन भवतः शरि परतः ॥"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2958 @@
+{
+ "1.1.62": {
+  "sutra": "प्रत्ययलोपे प्रत्ययलक्षणम्",
+  "kind": "paribhāṣā",
+  "vrtti": {
+   "classStyle": "प्रत्ययस्य लोपे सति प्रत्ययलक्षणम् प्रत्ययहेतुकम् कार्यम् भवति",
+   "kasikaStyle": "प्रत्ययस्य लोपे सति प्रत्ययलक्षणं प्रत्ययहेतुकं कार्यं भवति",
+   "kaumudiStyle": "प्रत्ययस्य लोपे सति प्रत्ययलक्षणं प्रत्ययहेतुकं कार्यं स्यात्"
+  },
+  "padaccheda": "प्रत्ययलोपे (71) प्रत्ययलक्षणम् (11)",
+  "steps": [
+   {
+    "rules": [],
+    "what": "the sūtra’s own words",
+    "now": "प्रत्ययलोपे प्रत्ययलक्षणम्"
+   },
+   {
+    "rules": [
+     "1.1.60"
+    ],
+    "what": "प्रत्ययलोपे: when the suffix has undergone लोप (1.1.60 — non-appearance)",
+    "now": "प्रत्ययस्य लोपे सति"
+   },
+   {
+    "rules": [],
+    "what": "the operation caused by the suffix still takes place",
+    "now": "प्रत्ययस्य लोपे सति प्रत्ययलक्षणम् प्रत्ययहेतुकम् कार्यम् भवति"
+   },
+   {
+    "rules": [],
+    "what": "hand-written vṛtti (class style), from the prathamāvṛtti and the Kāśikā",
+    "now": "प्रत्ययस्य लोपे सति प्रत्ययलक्षणम् प्रत्ययहेतुकम् कार्यम् भवति"
+   }
+  ],
+  "cards": [
+   {
+    "question": "step 1",
+    "word": "",
+    "answer": "प्रत्ययस्य लोपे सति",
+    "why": [
+     "1.1.60: प्रत्ययलोपे: when the suffix has undergone लोप (1.1.60 — non-appearance)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "step 2",
+    "word": "",
+    "answer": "प्रत्ययस्य लोपे सति प्रत्ययलक्षणम् प्रत्ययहेतुकम् कार्यम् भवति",
+    "why": [
+     "the operation caused by the suffix still takes place"
+    ],
+    "whyNot": []
+   }
+  ],
+  "alsoAtWork": [],
+  "notes": [],
+  "teachingNote": "This vṛtti is hand-written from the prathamāvṛtti and the Kāśikā (a definitional sūtra the generator does not template).",
+  "paribhashaList": [
+   "1.1.60 ✔ प्रत्ययलोपे: when the suffix has undergone लोप (1.1.60 — non-appearance)"
+  ]
+ },
+ "1.2.14": {
+  "sutra": "हनः सिच्",
+  "kind": "atideśa",
+  "vrtti": {
+   "classStyle": "आत्मनेपदेषु परे हन्तेः धातोः सिच् किद्वत् भवति",
+   "kasikaStyle": "आत्मनेपदेषु परे हन्तेर्धातोः सिच् किद्वद् भवति",
+   "kaumudiStyle": "आत्मनेपदेषु परे हन्तेर्धातोः सिच् किद्वद् स्यात्"
+  },
+  "padaccheda": "हनः (51) सिच् (11)",
+  "steps": [
+   {
+    "rules": [],
+    "what": "the sūtra’s own words",
+    "now": "हनः सिच्"
+   },
+   {
+    "rules": [
+     "1.1.67"
+    ],
+    "what": "हनः → the base: “हन्तेः धातोः” (read from its case) · प्रथमावृत्तिः: “हन्धातोः”",
+    "now": "हन्तेः धातोः सिच्"
+   },
+   {
+    "rules": [],
+    "what": "सिच्: not so (1.1.49) — 1.1.49 does not operate here (paribhāṣā audit) · प्रथमावृत्तिः: “परः सिच्”",
+    "now": "हन्तेः धातोः सिच्"
+   },
+   {
+    "rules": [
+     "1.1.66",
+     "1.3.11"
+    ],
+    "what": "आत्मनेपदेषु (carried from 1.2.11) → what follows: “आत्मनेपदेषु परतः” (carried in) · प्रथमावृत्तिः: “आत्मनेपदविषये”",
+    "now": "हन्तेः धातोः सिच् आत्मनेपदेषु परतः"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "कित् (carried from 1.2.5) → treated like: “किद्वत्” (carried in) · प्रथमावृत्तिः: “किद्वद् भवति” — also: कित्, आत्मनेपदेषु → carried in from the sūtras named",
+    "now": "हन्तेः धातोः सिच् आत्मनेपदेषु परतः किद्वत्"
+   },
+   {
+    "rules": [
+     "3.3.108 vt.2"
+    ],
+    "what": "हन्: the dhātu हनँ हिंसागत्योः (gaṇa 2) → a dhātu may be named by its इक् or श्तिप् form (इक्श्तिपौ धातुनिर्देशे); the vṛtti names it by the श्तिप् form हन्ति → हन्तेः",
+    "now": "हन्तेः धातोः सिच् आत्मनेपदेषु परतः किद्वत्"
+   },
+   {
+    "rules": [],
+    "what": "assemble in prose order, everything spelled out (class style)",
+    "now": "आत्मनेपदेषु परे हन्तेः धातोः सिच् किद्वत् भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kāśikā style: leave out what is implied (परः च), apply sandhi",
+    "now": "आत्मनेपदेषु परे हन्तेर्धातोः सिच् किद्वद् भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kaumudī style: स्यात् / स्युः for भवति",
+    "now": "आत्मनेपदेषु परे हन्तेर्धातोः सिच् किद्वद् स्यात्"
+   }
+  ],
+  "cards": [
+   {
+    "question": "किंवत्? / treated like what?",
+    "word": "कित्",
+    "answer": "किद्वत्",
+    "why": [
+     "1.3.11: runs on from 1.2.5 (anuvṛtti)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्य स्थाने? / what is replaced / operated on?",
+    "word": "सिच्",
+    "answer": "सिच्",
+    "why": [],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मात्? / after which base?",
+    "word": "हनः",
+    "answer": "हन्तेः धातोः",
+    "why": [
+     "1.1.67: A 5th-case word of direction (‘after X’) puts the operation on what comes immediately after it — something already there (substitute, augment, elision, accent). Placing a new suffix is 3.1.2; a 5th of cause or ‘other than’, or an explicit पूर्व, is not this rule. (Kāśikā: “पञ्चम्यर्थनिर्देश उत्तरस्यैव कार्यं भवति”)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मिन् परे? / when what follows?",
+    "word": "आत्मनेपदेषु",
+    "answer": "आत्मनेपदेषु परतः",
+    "why": [
+     "1.3.11: runs on from 1.2.11 (anuvṛtti)",
+     "1.1.66: A 7th-case word naming a following sound, suffix or word (“… परे”) puts the operation on what comes immediately before it. Not a 7th naming a meaning or domain (आर्धधातुके as ‘in its sphere’); if the rule also has a 5th, the 5th wins. (Bhāṣya: “शब्दे सप्तम्या निर्दिष्टे पूर्वस्य कार्यं यथा स्यात्। अर्थे मा भूत्।”)"
+    ],
+    "whyNot": []
+   }
+  ],
+  "alsoAtWork": [
+   "3.3.108 vt.2: हन्: the dhātu हनँ हिंसागत्योः (gaṇa 2) → a dhātu may be named by its इक् or श्तिप् form (इक्श्तिपौ धातुनिर्देशे); the vṛtti names it by the श्तिप् form हन्ति → हन्तेः"
+  ],
+  "notes": [],
+  "teachingNote": "",
+  "paribhashaList": [
+   "1.3.11 ✔ carried in from the sūtras named",
+   "1.1.67 ✔ the suffix that FOLLOWS it is meant",
+   "1.1.66 ✔ names what FOLLOWS (an ātmanepada ending)",
+   "3.3.108 vt.2 ✔ a dhātu may be named by its इक् or श्तिप् form (इक्श्तिपौ धातुनिर्देशे); the vṛtti names it by the श्तिप् form हन्ति → ह"
+  ]
+ },
+ "1.3.52": {
+  "sutra": "समः प्रतिज्ञाने",
+  "kind": "pada",
+  "vrtti": {
+   "classStyle": "सम्पूर्वात् गृ-धातोः प्रतिज्ञाने अर्थे आत्मनेपदम् प्रत्ययः भवति",
+   "kasikaStyle": "सम्पूर्वाद् गृ-धातोः प्रतिज्ञानेऽर्थ आत्मनेपदं प्रत्ययो भवति",
+   "kaumudiStyle": "सम्पूर्वाद् गृ-धातोः प्रतिज्ञानेऽर्थ आत्मनेपदं प्रत्ययः स्यात्"
+  },
+  "padaccheda": "समः (51) प्रतिज्ञाने (71)",
+  "steps": [
+   {
+    "rules": [],
+    "what": "the sūtra’s own words",
+    "now": "समः प्रतिज्ञाने"
+   },
+   {
+    "rules": [],
+    "what": "समः → describes: “सम्पूर्वात्” (what begins with it) · प्रथमावृत्तिः: “सम्पूर्वात्”",
+    "now": "सम्पूर्वात् प्रतिज्ञाने"
+   },
+   {
+    "rules": [],
+    "what": "प्रतिज्ञाने → the meaning: “प्रतिज्ञाने अर्थे” (read from its case) · प्रथमावृत्तिः: “प्रतिज्ञाने = प्रतिज्ञार्थे वर्त्तमानाद्” — 1.1.66 not applicable: names a meaning, not what follows — also: प्रतिज्ञाने: 7th case → names what FOLLOWS — the rule is on what precedes it",
+    "now": "सम्पूर्वात् प्रतिज्ञाने अर्थे"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "ग्रः (carried from 1.3.51) → the base: “गृ-धातोः” (carried in) · प्रथमावृत्तिः: “गृ-धातोरात्मनेपदं भवति”",
+    "now": "सम्पूर्वात् प्रतिज्ञाने अर्थे गृ-धातोः"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "आत्मनेपदम् (carried from 1.3.12) → the suffix: “आत्मनेपदम्” (carried in) — also: आत्मनेपदम्, ग्रः → carried in from the sūtras named",
+    "now": "सम्पूर्वात् प्रतिज्ञाने अर्थे गृ-धातोः आत्मनेपदम्"
+   },
+   {
+    "rules": [],
+    "what": "assemble in prose order, everything spelled out (class style)",
+    "now": "सम्पूर्वात् गृ-धातोः प्रतिज्ञाने अर्थे आत्मनेपदम् प्रत्ययः भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kāśikā style: leave out what is implied (परः च), apply sandhi",
+    "now": "सम्पूर्वाद् गृ-धातोः प्रतिज्ञानेऽर्थ आत्मनेपदं प्रत्ययो भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kaumudī style: स्यात् / स्युः for भवति",
+    "now": "सम्पूर्वाद् गृ-धातोः प्रतिज्ञानेऽर्थ आत्मनेपदं प्रत्ययः स्यात्"
+   }
+  ],
+  "cards": [
+   {
+    "question": "कः प्रत्ययः? / which suffix is introduced?",
+    "word": "आत्मनेपदम्",
+    "answer": "आत्मनेपदम्",
+    "why": [
+     "1.3.11: runs on from 1.3.12 (anuvṛtti)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मात्? / after which base?",
+    "word": "ग्रः",
+    "answer": "गृ-धातोः",
+    "why": [
+     "1.3.11: runs on from 1.3.51 (anuvṛtti)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मिन् अर्थे? / in which meaning?",
+    "word": "प्रतिज्ञाने",
+    "answer": "प्रतिज्ञाने अर्थे",
+    "why": [
+     "the case names the meaning — “in the sense of X”"
+    ],
+    "whyNot": [
+     "1.1.66 names a meaning, not what follows"
+    ]
+   },
+   {
+    "question": "कीदृशम्? / which one exactly?",
+    "word": "समः",
+    "answer": "सम्पूर्वात्",
+    "why": [],
+    "whyNot": []
+   }
+  ],
+  "alsoAtWork": [],
+  "notes": [],
+  "teachingNote": "",
+  "paribhashaList": [
+   "1.3.11 ✔ carried in from the sūtras named"
+  ]
+ },
+ "1.4.23": {
+  "sutra": "कारके",
+  "kind": "saṃjñā*",
+  "vrtti": {
+   "classStyle": "कारके इति अधिकारः",
+   "kasikaStyle": "कारक इत्यधिकारः",
+   "kaumudiStyle": "कारक इत्यधिकारः"
+  },
+  "padaccheda": "कारके (71)",
+  "steps": [
+   {
+    "rules": [],
+    "what": "the sūtra’s own words",
+    "now": "कारके"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "कारके → heading: “कारके” (settled by the commentary) · प्रथमावृत्तिः: “अधिकारसूत्रमिदम्” — also: आकडारात् एका संज्ञा, कारके → carried in from the sūtras named",
+    "now": "कारके"
+   },
+   {
+    "rules": [],
+    "what": "assemble in prose order, everything spelled out (class style)",
+    "now": "कारके इति अधिकारः"
+   },
+   {
+    "rules": [],
+    "what": "Kāśikā and Kaumudī style (the same here): leave out what is implied, apply sandhi",
+    "now": "कारक इत्यधिकारः"
+   }
+  ],
+  "cards": [
+   {
+    "question": "अधिकारः / heading for the sūtras that follow",
+    "word": "कारके",
+    "answer": "कारके",
+    "why": [
+     "as the प्रथमावृत्तिः reads it"
+    ],
+    "whyNot": []
+   }
+  ],
+  "alsoAtWork": [],
+  "notes": [],
+  "teachingNote": "",
+  "paribhashaList": [
+   "1.3.11 ✔ carried in from the sūtras named",
+   "3.1.85 ✔ case endings may stand for one another (vyatyaya)"
+  ]
+ },
+ "2.1.59": {
+  "sutra": "श्रेण्यादयः कृतादिभिः",
+  "kind": "samāsa",
+  "vrtti": {
+   "classStyle": "समानाधिकरणैः श्रेण्यादयः सुबन्ताः कृतादिभिः सुबन्तैः सह विभाषा 'तत्पुरुषः' इति संज्ञा 'समासः' इति संज्ञा भवति",
+   "kasikaStyle": "समानाधिकरणैः श्रेण्यादयः सुबन्ताः कृतादिभिः सुबन्तैः सह विभाषा 'तत्पुरुषः' इति संज्ञा 'समासः' इति संज्ञा भवति",
+   "kaumudiStyle": "समानाधिकरणैः श्रेण्यादयः सुबन्ताः कृतादिभिः सुबन्तैः सह विभाषा 'तत्पुरुषः' इति संज्ञा 'समासः' इति संज्ञा स्यात्"
+  },
+  "padaccheda": "श्रेणि-आदयः (13) कृत-आदिभिः (33)",
+  "steps": [
+   {
+    "rules": [],
+    "what": "the sūtra’s own words",
+    "now": "श्रेणि आदयः कृत आदिभिः"
+   },
+   {
+    "rules": [],
+    "what": "श्रेणि-आदयः: not so (1.1.49) — 1.1.49 does not operate here (paribhāṣā audit) · प्रथमावृत्तिः: “श्रेण्यादयः सुबन्ताः”",
+    "now": "श्रेण्यादयः सुबन्ताः कृत आदिभिः"
+   },
+   {
+    "rules": [],
+    "what": "कृत-आदिभिः → also said: “कृतादिभिः सुबन्तैः सह” (read from its case) · प्रथमावृत्तिः: “कृतादिभिः सह” — also: श्रेणि-आदयः and कृत-आदिभिः: 2 members each → they pair up in order (यथासङ्ख्यम्)",
+    "now": "श्रेण्यादयः सुबन्ताः कृतादिभिः सुबन्तैः सह"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "समानाधिकरणेन (carried from 2.1.49) → describes: “समानाधिकरणैः” (carried in) · प्रथमावृत्तिः: “समानाधिकरणैः”",
+    "now": "श्रेण्यादयः सुबन्ताः कृतादिभिः सुबन्तैः सह समानाधिकरणैः"
+   },
+   {
+    "rules": [
+     "1.1.44",
+     "1.3.11"
+    ],
+    "what": "विभाषा (carried from 2.1.11) → option: “विभाषा” (carried in) · प्रथमावृत्तिः: “विभाषा समस्यन्ते”",
+    "now": "श्रेण्यादयः सुबन्ताः कृतादिभिः सुबन्तैः सह समानाधिकरणैः विभाषा"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "तत्पुरुषः (carried from 2.1.22) → the name: “तत्पुरुषः” (carried in) · प्रथमावृत्तिः: “तत्पुरुषश्च समासो भवति”",
+    "now": "श्रेण्यादयः सुबन्ताः कृतादिभिः सुबन्तैः सह समानाधिकरणैः विभाषा तत्पुरुषः"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "समासः (carried from 2.1.3) → the name: “समासः” (carried in) · प्रथमावृत्तिः: “समासो भवति” — also: समानाधिकरणेन, आकडारात् एका संज्ञा, प्राक्कडारात्समासः, सुप्सुपा, विभाषा, तत्पुरुषः → carried in from the sūtras named",
+    "now": "श्रेण्यादयः सुबन्ताः कृतादिभिः सुबन्तैः सह समानाधिकरणैः विभाषा तत्पुरुषः समासः"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "सुप्सुपा (2.1.4) and the samāsa heading carry over → class notes (Samāsa intro): “X-विभक्त्यन्तं सुबन्तं … शब्दैः समस्यते”; Kāśikā: “… सह समस्यते, तत्पुरुषश्च समासो भवति”",
+    "now": "श्रेण्यादयः सुबन्ताः कृतादिभिः सुबन्तैः सह समानाधिकरणैः विभाषा तत्पुरुषः समासः"
+   },
+   {
+    "rules": [
+     "PIS 23"
+    ],
+    "what": "सुबन्ताः: a suffix (or case ending) named → what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … तदन्तस्य ग्रहणम्)",
+    "now": "श्रेण्यादयः सुबन्ताः कृतादिभिः सुबन्तैः सह समानाधिकरणैः विभाषा तत्पुरुषः समासः"
+   },
+   {
+    "rules": [],
+    "what": "assemble in prose order, everything spelled out (class style)",
+    "now": "समानाधिकरणैः श्रेण्यादयः सुबन्ताः कृतादिभिः सुबन्तैः सह विभाषा 'तत्पुरुषः' इति संज्ञा 'समासः' इति संज्ञा भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kāśikā style: leave out what is implied (परः च), apply sandhi",
+    "now": "समानाधिकरणैः श्रेण्यादयः सुबन्ताः कृतादिभिः सुबन्तैः सह विभाषा 'तत्पुरुषः' इति संज्ञा 'समासः' इति संज्ञा भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kaumudī style: स्यात् / स्युः for भवति",
+    "now": "समानाधिकरणैः श्रेण्यादयः सुबन्ताः कृतादिभिः सुबन्तैः सह विभाषा 'तत्पुरुषः' इति संज्ञा 'समासः' इति संज्ञा स्यात्"
+   }
+  ],
+  "cards": [
+   {
+    "question": "का संज्ञा? / which name is given?",
+    "word": "समासः",
+    "answer": "समासः",
+    "why": [
+     "1.3.11: runs on from 2.1.3 (anuvṛtti)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "का संज्ञा? / which name is given?",
+    "word": "तत्पुरुषः",
+    "answer": "तत्पुरुषः",
+    "why": [
+     "1.3.11: runs on from 2.1.22 (anuvṛtti)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्य स्थाने? / what is replaced / operated on?",
+    "word": "श्रेण्यादयः",
+    "answer": "श्रेण्यादयः सुबन्ताः",
+    "why": [],
+    "whyNot": []
+   },
+   {
+    "question": "कीदृशम्? / which one exactly?",
+    "word": "समानाधिकरणेन",
+    "answer": "समानाधिकरणैः",
+    "why": [
+     "1.3.11: runs on from 2.1.49 (anuvṛtti)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "नित्यं विकल्पेन वा? / always, or optionally?",
+    "word": "विभाषा",
+    "answer": "विभाषा",
+    "why": [
+     "1.3.11: runs on from 2.1.11 (anuvṛtti)",
+     "1.1.44: विभाषा names ‘not’ and ‘optionally’ together, so the rule's operation is optional; वा and अन्यतरस्याम् work the same way. A carried option word counts only where it is still in force (the commentary may call a rule nitya). बहुलम् is wider than an option. (Kāśikā: “विभाषाधिकारेऽपि नित्यसमास एवायम्।”)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "also said",
+    "word": "कृतादिभिः",
+    "answer": "कृतादिभिः सुबन्तैः सह",
+    "why": [],
+    "whyNot": []
+   }
+  ],
+  "alsoAtWork": [
+   "PIS 23: a suffix named in a rule stands for the word that ENDS in that suffix (starting from what it was added to) — सुबन्ताः: a suffix (or case ending) named → what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … तदन्तस्य ग्रहणम्)"
+  ],
+  "notes": [],
+  "teachingNote": "",
+  "paribhashaList": [
+   "1.3.11 ✔ carried in from the sūtras named",
+   "1.3.11 ✔ class notes (Samāsa intro): “X-विभक्त्यन्तं सुबन्तं … शब्दैः समस्यते”; Kāśikā: “… सह समस्यते, तत्पुरुषश्च समासो भवति”",
+   "PIS 23 ✔ what ENDS in it, together with what it was added to (प्रत्ययग्रहणे … तदन्तस्य ग्रहणम्)",
+   "1.1.44 ✔ विभाषा = optional (न वेति विभाषा) — the gloss keeps the term",
+   "2.1.1 ✔ teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  ]
+ },
+ "2.3.37": {
+  "sutra": "यस्य च भावेन भावलक्षणम्",
+  "kind": "vibhakti",
+  "vrtti": {
+   "classStyle": "क्रियान्तरं लक्ष्यते यस्य क्रियया ततो भाववतः सप्तमी विभक्तिः प्रत्ययः भवति",
+   "kasikaStyle": "क्रियान्तरं लक्ष्यते यस्य क्रियया ततो भाववतः सप्तमी विभक्तिः प्रत्ययो भवति",
+   "kaumudiStyle": "क्रियान्तरं लक्ष्यते यस्य क्रियया ततो भाववतः सप्तमी विभक्तिः प्रत्ययः स्यात्"
+  },
+  "padaccheda": "यस्य (61) च (अव्ययम्) भावेन (31) भाव-लक्षणम् (11)",
+  "steps": [
+   {
+    "rules": [],
+    "what": "the sūtra’s own words",
+    "now": "यस्य च भावेन भाव लक्षणम्"
+   },
+   {
+    "rules": [],
+    "what": "यस्य → the base: “ततो भाववतः” (settled by the commentary) · प्रथमावृत्तिः: “तस्मात् सप्तमी विभक्तिर्भवति” — 1.1.49 not applicable: not the place (a prakriti)",
+    "now": "ततो भाववतः च भावेन भाव लक्षणम्"
+   },
+   {
+    "rules": [],
+    "what": "च: a particle — it joins the parts; the vṛtti does not need it as a word",
+    "now": "ततो भाववतः भावेन भाव लक्षणम्"
+   },
+   {
+    "rules": [],
+    "what": "भावेन → describes: “यस्य क्रियया” (settled by the commentary) · प्रथमावृत्तिः: “भावेन =क्रियया”",
+    "now": "ततो भाववतः यस्य क्रियया भाव लक्षणम्"
+   },
+   {
+    "rules": [],
+    "what": "भाव-लक्षणम् → what follows: “क्रियान्तरं लक्ष्यते” (settled by the commentary) · प्रथमावृत्तिः: “भावः = क्रियान्तरं लक्ष्यते”",
+    "now": "ततो भाववतः यस्य क्रियया क्रियान्तरं लक्ष्यते"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "सप्तमी (carried from 2.3.36) → the suffix: “सप्तमी विभक्तिः” (carried in) · प्रथमावृत्तिः: “सप्तमी विभक्तिर्भवति” — also: सप्तमी, अनभिहिते → carried in from the sūtras named — also: सप्तमी → the case ending prescribed",
+    "now": "ततो भाववतः यस्य क्रियया क्रियान्तरं लक्ष्यते सप्तमी विभक्तिः"
+   },
+   {
+    "rules": [],
+    "what": "assemble in prose order, everything spelled out (class style)",
+    "now": "क्रियान्तरं लक्ष्यते यस्य क्रियया ततो भाववतः सप्तमी विभक्तिः प्रत्ययः भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kāśikā style: leave out what is implied (परः च), apply sandhi",
+    "now": "क्रियान्तरं लक्ष्यते यस्य क्रियया ततो भाववतः सप्तमी विभक्तिः प्रत्ययो भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kaumudī style: स्यात् / स्युः for भवति",
+    "now": "क्रियान्तरं लक्ष्यते यस्य क्रियया ततो भाववतः सप्तमी विभक्तिः प्रत्ययः स्यात्"
+   }
+  ],
+  "cards": [
+   {
+    "question": "कः प्रत्ययः? / which suffix is introduced?",
+    "word": "सप्तमी",
+    "answer": "सप्तमी विभक्तिः",
+    "why": [
+     "1.3.11: runs on from 2.3.36 (anuvṛtti)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मात्? / after which base?",
+    "word": "यस्य",
+    "answer": "ततो भाववतः",
+    "why": [
+     "as the प्रथमावृत्तिः reads it"
+    ],
+    "whyNot": [
+     "1.1.49 not the place (a prakriti)"
+    ]
+   },
+   {
+    "question": "कस्मिन् परे? / when what follows?",
+    "word": "भाव-लक्षणम्",
+    "answer": "क्रियान्तरं लक्ष्यते",
+    "why": [
+     "as the प्रथमावृत्तिः reads it"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कीदृशम्? / which one exactly?",
+    "word": "भावेन",
+    "answer": "यस्य क्रियया",
+    "why": [
+     "as the प्रथमावृत्तिः reads it"
+    ],
+    "whyNot": []
+   }
+  ],
+  "alsoAtWork": [],
+  "notes": [],
+  "teachingNote": "",
+  "paribhashaList": [
+   "1.3.11 ✔ carried in from the sūtras named",
+   "1.3.11 ✔ the case ending prescribed",
+   "1.1.49 ✖ not the place — a prakriti"
+  ]
+ },
+ "2.4.47": {
+  "sutra": "सनि च",
+  "kind": "ādeśa",
+  "vrtti": {
+   "classStyle": "सनि परे आर्धधातुके इणः धातोः स्थाने अबोधने अर्थे गमिः आदेशः भवति",
+   "kasikaStyle": "सनि पर आर्धधातुक इणो धातोः स्थानेऽबोधनेऽर्थे गमिरादेशो भवति",
+   "kaumudiStyle": "सनि पर आर्धधातुक इणो धातोः स्थानेऽबोधनेऽर्थे गमिरादेशः स्यात्"
+  },
+  "padaccheda": "सनि (71) च (अव्ययम्)",
+  "steps": [
+   {
+    "rules": [],
+    "what": "the sūtra’s own words",
+    "now": "सनि च"
+   },
+   {
+    "rules": [
+     "1.1.66"
+    ],
+    "what": "सनि → what follows: “सनि परतः” (read from its case) · काशिका: “सनि परत”",
+    "now": "सनि परतः च"
+   },
+   {
+    "rules": [],
+    "what": "च: a particle — it joins the parts; the vṛtti does not need it as a word",
+    "now": "सनि परतः"
+   },
+   {
+    "rules": [
+     "1.3.11",
+     "1.1.49"
+    ],
+    "what": "इणः (carried from 2.4.45) → what is replaced: “इणः धातोः” (carried in) · काशिका: “इणोऽबोधनार्थस्य” — also: इणः: 6th case → names the place — the thing replaced (“स्थाने”)",
+    "now": "सनि परतः इणः धातोः"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "अ-बोधने (carried from 2.4.46) → the meaning: “अबोधने अर्थे” (carried in) · काशिका: “इणोऽबोधनार्थस्य”",
+    "now": "सनि परतः इणः धातोः अबोधने अर्थे"
+   },
+   {
+    "rules": [
+     "1.3.11",
+     "1.1.55"
+    ],
+    "what": "गमिः (carried from 2.4.46) → the substitute: “गमिः आदेशः” (carried in) · काशिका: “गमिरादेशो भवति” — also: गमिः: more than one sound → it replaces the WHOLE of the place — also: गमिः replaces इणः → the replacement is treated like what it replaced (e.g. a तिङ् replacing a तिङ् is still तिङ् )",
+    "now": "सनि परतः इणः धातोः अबोधने अर्थे गमिः आदेशः"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "आर्धधातुके (carried from 2.4.35) → describes: “आर्धधातुके” (carried in) · प्रथमावृत्तिः: “सनि आर्धधातुके परतो” — also: इणः, अ-बोधने, गमिः, आर्धधातुके → carried in from the sūtras named",
+    "now": "सनि परतः इणः धातोः अबोधने अर्थे गमिः आदेशः आर्धधातुके"
+   },
+   {
+    "rules": [],
+    "what": "assemble in prose order, everything spelled out (class style)",
+    "now": "सनि परे आर्धधातुके इणः धातोः स्थाने अबोधने अर्थे गमिः आदेशः भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kāśikā style: leave out what is implied (परः च), apply sandhi",
+    "now": "सनि पर आर्धधातुक इणो धातोः स्थानेऽबोधनेऽर्थे गमिरादेशो भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kaumudī style: स्यात् / स्युः for भवति",
+    "now": "सनि पर आर्धधातुक इणो धातोः स्थानेऽबोधनेऽर्थे गमिरादेशः स्यात्"
+   }
+  ],
+  "cards": [
+   {
+    "question": "किम् आदेशः? / what comes in its place?",
+    "word": "गमिः",
+    "answer": "गमिः आदेशः",
+    "why": [
+     "1.3.11: runs on from 2.4.46 (anuvṛtti)",
+     "1.1.55: a substitute of more than one sound (or शित्) replaces the WHOLE — it replaces the WHOLE of the place"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्य स्थाने? / what is replaced / operated on?",
+    "word": "इणः",
+    "answer": "इणः धातोः",
+    "why": [
+     "1.3.11: runs on from 2.4.45 (anuvṛtti)",
+     "1.1.49: a word in the 6th case in a rule names WHAT IS REPLACED — so we read “… स्थाने” — names the place — the thing replaced (“स्थाने”)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मिन् परे? / when what follows?",
+    "word": "सनि",
+    "answer": "सनि परतः",
+    "why": [
+     "1.1.66: A 7th-case word naming a following sound, suffix or word (“… परे”) puts the operation on what comes immediately before it. Not a 7th naming a meaning or domain (आर्धधातुके as ‘in its sphere’); if the rule also has a 5th, the 5th wins. (Bhāṣya: “शब्दे सप्तम्या निर्दिष्टे पूर्वस्य कार्यं यथा स्यात्। अर्थे मा भूत्।”)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मिन् अर्थे? / in which meaning?",
+    "word": "अ-बोधने",
+    "answer": "अबोधने अर्थे",
+    "why": [
+     "1.3.11: runs on from 2.4.46 (anuvṛtti)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कीदृशम्? / which one exactly?",
+    "word": "आर्धधातुके",
+    "answer": "आर्धधातुके",
+    "why": [
+     "1.3.11: runs on from 2.4.35 (anuvṛtti)"
+    ],
+    "whyNot": []
+   }
+  ],
+  "alsoAtWork": [],
+  "notes": [],
+  "teachingNote": "",
+  "paribhashaList": [
+   "1.3.11 ✔ carried in from the sūtras named",
+   "1.1.66 ✔ names what FOLLOWS — the operation is on what precedes it",
+   "1.1.49 ✔ names the place — the thing replaced (“स्थाने”)",
+   "1.1.55 ✔ it replaces the WHOLE of the place",
+   "1.1.56 ↪ applies later, in the derivation — not a step in reading this sūtra (Kāśikā on 1.1.56: “स्थानिवदादेशो भवति स्थान्याश्रये"
+  ]
+ },
+ "3.2.109": {
+  "sutra": "उपेयिवाननाश्वाननूचानश्च",
+  "kind": "nipātana",
+  "vrtti": {
+   "classStyle": "उपेयिवान् (उप-पूर्वात् इणः क्वसुः, द्विर्वचनम्, अभ्यासदीर्घत्वम्) अनाश्वान् (नञ्-पूर्वात् अश्नातेः क्वसुः, इडभावः) अनूचानः (अनु-पूर्वात् वचेः कर्तरि कानच्) इति निपात्यन्ते भूते काले विकल्पेन",
+   "kasikaStyle": "उपेयिवान् (उप-पूर्वादिणः क्वसुः, द्विर्वचनम्, अभ्यासदीर्घत्वम्) अनाश्वान् (नञ्-पूर्वादश्नातेः क्वसुः, इडभावः) अनूचानो (अनु-पूर्वाद् वचेः कर्तरि कानच्) इति निपात्यन्ते भूते काले विकल्पेन",
+   "kaumudiStyle": "उपेयिवान् (उप-पूर्वादिणः क्वसुः, द्विर्वचनम्, अभ्यासदीर्घत्वम्) अनाश्वान् (नञ्-पूर्वादश्नातेः क्वसुः, इडभावः) अनूचानो (अनु-पूर्वाद् वचेः कर्तरि कानच्) इति निपात्यन्ते भूते काले विकल्पेन"
+  },
+  "padaccheda": "उपेयिवान् (11) अनाश्वान् (11) अनूचानः (11) च (अव्ययम्)",
+  "steps": [
+   {
+    "rules": [],
+    "what": "the sūtra’s own words",
+    "now": "उपेयिवान् अनाश्वान् अनूचानः च"
+   },
+   {
+    "rules": [],
+    "what": "उपेयिवान् → the stated form: “उपेयिवान् (उप-पूर्वात् इणः क्वसुः, द्विर्वचनम्, अभ्यासदीर्घत्वम्)” (settled by the commentary) · काशिका: “उपपूर्वादिणः क्वसुः, द्विर्वचनमभ्यासदीर्घत्वम्”",
+    "now": "उपेयिवान् (उप-पूर्वात् इणः क्वसुः, द्विर्वचनम्, अभ्यासदीर्घत्वम्) अनाश्वान् अनूचानः च"
+   },
+   {
+    "rules": [],
+    "what": "अनाश्वान् → the stated form: “अनाश्वान् (नञ्-पूर्वात् अश्नातेः क्वसुः, इडभावः)” (settled by the commentary) · SK: “नञ्पूर्वादश्नातेः क्वसुरिडभावश्च”",
+    "now": "उपेयिवान् (उप-पूर्वात् इणः क्वसुः, द्विर्वचनम्, अभ्यासदीर्घत्वम्) अनाश्वान् (नञ्-पूर्वात् अश्नातेः क्वसुः, इडभावः) अनूचानः च"
+   },
+   {
+    "rules": [],
+    "what": "अनूचानः → the stated form: “अनूचानः (अनु-पूर्वात् वचेः कर्तरि कानच्)” (settled by the commentary) · SK: “वचेः कर्तरि कानच्”",
+    "now": "उपेयिवान् (उप-पूर्वात् इणः क्वसुः, द्विर्वचनम्, अभ्यासदीर्घत्वम्) अनाश्वान् (नञ्-पूर्वात् अश्नातेः क्वसुः, इडभावः) अनूचानः (अनु-पूर्वात् वचेः कर्तरि कानच्) च"
+   },
+   {
+    "rules": [],
+    "what": "च: a particle — it joins the parts; the vṛtti does not need it as a word",
+    "now": "उपेयिवान् (उप-पूर्वात् इणः क्वसुः, द्विर्वचनम्, अभ्यासदीर्घत्वम्) अनाश्वान् (नञ्-पूर्वात् अश्नातेः क्वसुः, इडभावः) अनूचानः (अनु-पूर्वात् वचेः कर्तरि कानच्)"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "भूते (carried from 3.2.84) → the meaning: “भूते काले” (carried in) · प्रथमावृत्तिः: “सामान्यभूतकाले निपात्यन्ते”",
+    "now": "उपेयिवान् (उप-पूर्वात् इणः क्वसुः, द्विर्वचनम्, अभ्यासदीर्घत्वम्) अनाश्वान् (नञ्-पूर्वात् अश्नातेः क्वसुः, इडभावः) अनूचानः (अनु-पूर्वात् वचेः कर्तरि कानच्) भूते काले"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "वा (carried from 3.2.106) → option: “विकल्पेन” (carried in) · प्रथमावृत्तिः: “विकल्पेन सामान्यभूतकाले निपात्यन्ते” — also: कृत्, लिटः, वा, क्वसुः, च, प्रत्ययः, परश्च, आद्युदात्तश्च, धातोः, भूते → carried in from the sūtras named — also: वा (carried over) → विभाषा = optional (न वेति विभाषा) → “विकल्पेन”",
+    "now": "उपेयिवान् (उप-पूर्वात् इणः क्वसुः, द्विर्वचनम्, अभ्यासदीर्घत्वम्) अनाश्वान् (नञ्-पूर्वात् अश्नातेः क्वसुः, इडभावः) अनूचानः (अनु-पूर्वात् वचेः कर्तरि कानच्) भूते काले विकल्पेन"
+   },
+   {
+    "rules": [],
+    "what": "क्वसु (carried over): the suffix the forms are made with → क्वसुप्रत्ययान्तः — forms ENDING in it",
+    "now": "उपेयिवान् (उप-पूर्वात् इणः क्वसुः, द्विर्वचनम्, अभ्यासदीर्घत्वम्) अनाश्वान् (नञ्-पूर्वात् अश्नातेः क्वसुः, इडभावः) अनूचानः (अनु-पूर्वात् वचेः कर्तरि कानच्) भूते काले विकल्पेन"
+   },
+   {
+    "rules": [],
+    "what": "assemble in prose order, everything spelled out (class style)",
+    "now": "उपेयिवान् (उप-पूर्वात् इणः क्वसुः, द्विर्वचनम्, अभ्यासदीर्घत्वम्) अनाश्वान् (नञ्-पूर्वात् अश्नातेः क्वसुः, इडभावः) अनूचानः (अनु-पूर्वात् वचेः कर्तरि कानच्) इति निपात्यन्ते भूते काले विकल्पेन"
+   },
+   {
+    "rules": [],
+    "what": "Kāśikā and Kaumudī style (the same here): leave out what is implied, apply sandhi",
+    "now": "उपेयिवान् (उप-पूर्वादिणः क्वसुः, द्विर्वचनम्, अभ्यासदीर्घत्वम्) अनाश्वान् (नञ्-पूर्वादश्नातेः क्वसुः, इडभावः) अनूचानो (अनु-पूर्वाद् वचेः कर्तरि कानच्) इति निपात्यन्ते भूते काले विकल्पेन"
+   }
+  ],
+  "cards": [
+   {
+    "question": "किं निपात्यते? / which ready-made form does the sūtra state?",
+    "word": "अनूचानः",
+    "answer": "अनूचानः (अनु-पूर्वात् वचेः कर्तरि कानच्)",
+    "why": [
+     "as the SK reads it"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "किं निपात्यते? / which ready-made form does the sūtra state?",
+    "word": "अनाश्वान्",
+    "answer": "अनाश्वान् (नञ्-पूर्वात् अश्नातेः क्वसुः, इडभावः)",
+    "why": [
+     "as the SK reads it"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "किं निपात्यते? / which ready-made form does the sūtra state?",
+    "word": "उपेयिवान्",
+    "answer": "उपेयिवान् (उप-पूर्वात् इणः क्वसुः, द्विर्वचनम्, अभ्यासदीर्घत्वम्)",
+    "why": [
+     "as the काशिका reads it"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मिन् अर्थे? / in which meaning?",
+    "word": "भूते",
+    "answer": "भूते काले",
+    "why": [
+     "1.3.11: runs on from 3.2.84 (anuvṛtti)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "नित्यं विकल्पेन वा? / always, or optionally?",
+    "word": "वा",
+    "answer": "विकल्पेन",
+    "why": [
+     "1.3.11: runs on from 3.2.106 (anuvṛtti)"
+    ],
+    "whyNot": []
+   }
+  ],
+  "alsoAtWork": [
+   "PIS 119: a nipātana stands against the general rules that would give another form"
+  ],
+  "notes": [],
+  "teachingNote": "In उपेयिवान् the इट् would be blocked (7.2.67 वस्वेकाजाद्घसाम्, since the reduplicated stem has more than one vowel); the nipātana gives it — KV: “इत्यनेकाच्त्वादिण् न प्राप्नोति, स निपात्यते”. The upasarga is not essential: समीयिवान्, ईयिवान् (KV). अनूचानः = one who has recited the Veda (SK: “वेदस्यानुवचनं कृतवाननूचानः”).",
+  "paribhashaList": [
+   "1.3.11 ✔ carried in from the sūtras named",
+   "3.1.92 ✖ not an upapada — it names the time / the lakāra, not a word standing nearby",
+   "PIS 119 ✔ a nipātana stands against the general rules that would give another form",
+   "1.1.44 ✖ the option word here carries the meaning itself — the saṃjñā is not needed (Mahābhāṣya on 1.1.44: “आचार्यः खल्वपि सञ्ज्ञ"
+  ]
+ },
+ "3.2.162": {
+  "sutra": "विदिभिदिच्छिदेः कुरच्",
+  "kind": "vidhi",
+  "vrtti": {
+   "classStyle": "धातुभ्यः विद्-भिद्-छिद्-इत्येतेभ्यः तच्छीलादिषु कर्तृषु वर्तमाने काले कुरच् प्रत्ययः परः च भवति",
+   "kasikaStyle": "धातुभ्यो विद्-भिद्-छिद्-इत्येतेभ्यस्तच्छीलादिषु कर्तृषु वर्तमाने काले कुरच् प्रत्ययो भवति",
+   "kaumudiStyle": "धातुभ्यो विद्-भिद्-छिद्-इत्येतेभ्यस्तच्छीलादिषु कर्तृषु वर्तमाने काले कुरच् प्रत्ययो स्यात्"
+  },
+  "padaccheda": "विदि-भिदि-च्छिदेः (51) कुरच् (11)",
+  "steps": [
+   {
+    "rules": [],
+    "what": "the sūtra’s own words",
+    "now": "विदि भिदि च्छिदेः कुरच्"
+   },
+   {
+    "rules": [
+     "3.1.2"
+    ],
+    "what": "विदि-भिदि-च्छिदेः → the base: “विद्-भिद्-छिद्-इत्येतेभ्यः” (read from its case) · काशिका: “विदादिभ्यो धातुभ्यः”",
+    "now": "विद्-भिद्-छिद्-इत्येतेभ्यः कुरच्"
+   },
+   {
+    "rules": [],
+    "what": "कुरच् → the suffix: “कुरच् प्रत्ययः” (read from its case) · काशिका: “कुरच् प्रत्ययो भवति” — also: कुरच् is an apavāda of तव्यत्, तव्य, अनीयर् (3.1.96; all dhātus) : not so (3.1.94) — The engine names a कृत्य suffix (तव्यत्/तव्य/अनीयर् 3.1.96, यत् 3.1.97, ण्यत् 3.1.124) as the utsarga. — also: कुरच् is an apavāda of ण्यत् (3.1.124; विद्: ends in a consonant) : not so (3.1.94) — The engine names a कृत्य suffix (तव्यत्/तव्य/अनीयर् 3.1.96, यत् 3.1.97, ण्यत् 3.1.124) as the utsarga.",
+    "now": "विद्-भिद्-छिद्-इत्येतेभ्यः कुरच् प्रत्ययः"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "धातोः (carried from 3.1.91) → describes: “धातुभ्यः” (carried in) · काशिका: “धातुभ्यः”",
+    "now": "विद्-भिद्-छिद्-इत्येतेभ्यः कुरच् प्रत्ययः धातुभ्यः"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "आ क्वेस्तच्छीलतद्धर्मतत्साधुकारिषु (carried from 3.2.134) → the meaning: “तच्छीलादिषु कर्तृषु” (carried in) · काशिका: “तच्छीलादिषु कर्तृषु”",
+    "now": "विद्-भिद्-छिद्-इत्येतेभ्यः कुरच् प्रत्ययः धातुभ्यः तच्छीलादिषु कर्तृषु"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "वर्तमाने (carried from 3.2.123) → the meaning: “वर्तमाने काले” (carried in) · प्रथमावृत्तिः: “वर्त्तमाने काले” — also: कृत्, प्रत्ययः, परश्च, आद्युदात्तश्च, धातोः, वर्तमाने, आ क्वेस्तच्छीलतद्धर्मतत्साधुकारिषु → carried in from the sūtras named",
+    "now": "विद्-भिद्-छिद्-इत्येतेभ्यः कुरच् प्रत्ययः धातुभ्यः तच्छीलादिषु कर्तृषु वर्तमाने काले"
+   },
+   {
+    "rules": [
+     "3.3.108 vt.2"
+    ],
+    "what": "भिन्द्: the dhātu भिदिँ अवयवे (gaṇa 1) → a dhātu may be named by its इक् or श्तिप् form (इक्श्तिपौ धातुनिर्देशे); the vṛtti names it by the श्तिप् form भिन्दति → भिन्दतेः — corrected by the audit: भिदि is the इक् form of भिद् (भिदिर्), cited with विदि/छिदि; the engine took the इ as the इदित् marker and picked भिदिँ ",
+    "now": "विद्-भिद्-छिद्-इत्येतेभ्यः कुरच् प्रत्ययः धातुभ्यः तच्छीलादिषु कर्तृषु वर्तमाने काले"
+   },
+   {
+    "rules": [],
+    "what": "assemble in prose order, everything spelled out (class style)",
+    "now": "धातुभ्यः विद्-भिद्-छिद्-इत्येतेभ्यः तच्छीलादिषु कर्तृषु वर्तमाने काले कुरच् प्रत्ययः परः च भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kāśikā style: leave out what is implied (परः च), apply sandhi",
+    "now": "धातुभ्यो विद्-भिद्-छिद्-इत्येतेभ्यस्तच्छीलादिषु कर्तृषु वर्तमाने काले कुरच् प्रत्ययो भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kaumudī style: स्यात् / स्युः for भवति",
+    "now": "धातुभ्यो विद्-भिद्-छिद्-इत्येतेभ्यस्तच्छीलादिषु कर्तृषु वर्तमाने काले कुरच् प्रत्ययो स्यात्"
+   }
+  ],
+  "cards": [
+   {
+    "question": "कः प्रत्ययः? / which suffix is introduced?",
+    "word": "कुरच्",
+    "answer": "कुरच् प्रत्ययः",
+    "why": [
+     "the suffix named in the 1st case is what is introduced"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मात्? / after which base?",
+    "word": "विदि-भिदि-च्छिदेः",
+    "answer": "विद्-भिद्-छिद्-इत्येतेभ्यः",
+    "why": [
+     "3.1.2: a suffix is placed AFTER its base (परश्च, under the प्रत्ययः heading 3.1.1–5.4.160)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मिन् अर्थे? / in which meaning?",
+    "word": "वर्तमाने",
+    "answer": "वर्तमाने काले",
+    "why": [
+     "1.3.11: runs on from 3.2.123 (anuvṛtti)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मिन् अर्थे? / in which meaning?",
+    "word": "आ क्वेस्तच्छीलतद्धर्मतत्साधुकारिषु",
+    "answer": "तच्छीलादिषु कर्तृषु",
+    "why": [
+     "1.3.11: runs on from 3.2.134 (anuvṛtti)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कीदृशम्? / which one exactly?",
+    "word": "धातोः",
+    "answer": "धातुभ्यः",
+    "why": [
+     "1.3.11: runs on from 3.1.91 (anuvṛtti)"
+    ],
+    "whyNot": []
+   }
+  ],
+  "alsoAtWork": [
+   "3.3.108 vt.2: भिन्द्: the dhātu भिदिँ अवयवे (gaṇa 1) → a dhātu may be named by its इक् or श्तिप् form (इक्श्तिपौ धातुनिर्देशे); the vṛtti names it by the श्तिप् form भिन्दति → भिन्दतेः"
+  ],
+  "notes": [],
+  "teachingNote": "",
+  "paribhashaList": [
+   "1.3.11 ✔ carried in from the sūtras named",
+   "3.1.2 ✔ a suffix is placed AFTER its base (परश्च, under the प्रत्ययः heading 3.1.1–5.4.160) — “परश्च”",
+   "3.3.108 vt.2 ? the sūtra does not say which; the vṛttis name the one meant by its श्तिप् form",
+   "3.3.108 vt.2 ✔ corrected by the paribhāṣā audit: भिदि is the इक् form of भिद् (भिदिर्), cited with विदि/छिदि; the engine took the इ as ",
+   "PIS 68 ✔ “ताच्छीलिकेषु वाऽसरूपविधिर्नास्ति” — 3.1.94 does not apply in this domain (paribhāṣā audit)",
+   "3.1.94 ✖ “ताच्छीलिकेषु वाऽसरूपविधिर्नास्ति”"
+  ]
+ },
+ "3.3.14": {
+  "sutra": "लृटः सद् वा",
+  "kind": "ādeśa",
+  "vrtti": {
+   "classStyle": "भविष्यति काले विहितस्य लृटः स्थाने विकल्पेन सत्सञ्ज्ञकौ आदेशः भवति",
+   "kasikaStyle": "भविष्यति काले विहितस्य लृटः स्थाने विकल्पेन सत्सञ्ज्ञकावादेशो भवति",
+   "kaumudiStyle": "भविष्यति काले विहितस्य लृटः स्थाने विकल्पेन सत्सञ्ज्ञकावादेशः स्यात्"
+  },
+  "padaccheda": "लृटः (61) सत् (11) वा (अव्ययम्)",
+  "steps": [
+   {
+    "rules": [],
+    "what": "the sūtra’s own words",
+    "now": "लृटः सत् वा"
+   },
+   {
+    "rules": [
+     "1.1.49"
+    ],
+    "what": "लृटः → what is replaced: “लृटः स्थाने” (read from its case) · प्रथमावृत्तिः: “लृटः स्थाने”",
+    "now": "लृटः स्थाने सत् वा"
+   },
+   {
+    "rules": [
+     "1.1.55"
+    ],
+    "what": "सत् → the substitute: “सत्सञ्ज्ञकौ (शतृशानचौ)” (read from its case) · प्रथमावृत्तिः: “सत्संज्ञकौ शतृशानचावादेशौ” — also: सत्: more than one sound → it replaces the WHOLE of the place — also: सत् replaces लृटः → the replacement is treated like what it replaced (e.g. a तिङ् replacing a तिङ् is still तिङ् )",
+    "now": "लृटः स्थाने सत्सञ्ज्ञकौ (शतृशानचौ) वा"
+   },
+   {
+    "rules": [],
+    "what": "वा → option: “विकल्पेन” (settled by the commentary) · प्रथमावृत्तिः: “वा भवतः” — also: वा → विभाषा = optional (न वेति विभाषा) → “विकल्पेन”",
+    "now": "लृटः स्थाने सत्सञ्ज्ञकौ (शतृशानचौ) विकल्पेन"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "भविष्यति (carried from 3.3.3) → describes: “भविष्यति काले विहितस्य” (carried in) · प्रथमावृत्तिः: “भविष्यति काले विहितस्य” — also: कृत्, शेषे, प्रत्ययः, परश्च, आद्युदात्तश्च, धातोः, भविष्यति → carried in from the sūtras named",
+    "now": "लृटः स्थाने सत्सञ्ज्ञकौ (शतृशानचौ) विकल्पेन भविष्यति काले विहितस्य"
+   },
+   {
+    "rules": [],
+    "what": "assemble in prose order, everything spelled out (class style)",
+    "now": "भविष्यति काले विहितस्य लृटः स्थाने विकल्पेन सत्सञ्ज्ञकौ आदेशः भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kāśikā style: leave out what is implied (परः च), apply sandhi",
+    "now": "भविष्यति काले विहितस्य लृटः स्थाने विकल्पेन सत्सञ्ज्ञकावादेशो भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kaumudī style: स्यात् / स्युः for भवति",
+    "now": "भविष्यति काले विहितस्य लृटः स्थाने विकल्पेन सत्सञ्ज्ञकावादेशः स्यात्"
+   }
+  ],
+  "cards": [
+   {
+    "question": "किम् आदेशः? / what comes in its place?",
+    "word": "सत्",
+    "answer": "सत्सञ्ज्ञकौ (शतृशानचौ)",
+    "why": [
+     "the substitute stands in the 1st case — Mahābhāṣya on 1.1.57: “आदेशः प्रथमानिर्दिष्टः”",
+     "1.1.55: a substitute of more than one sound (or शित्) replaces the WHOLE — it replaces the WHOLE of the place"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्य स्थाने? / what is replaced / operated on?",
+    "word": "लृटः",
+    "answer": "लृटः स्थाने",
+    "why": [
+     "1.1.49: Where a rule teaches a substitute, a 6th-case word whose link is otherwise unclear names what is replaced (“… स्थाने”). Not in augment rules (the 6th is the host), not where another word names the part replaced (उपधायाः, एचः), not where no substitute is taught. (Bhāṣya: “सन्देहे नियमः।”)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कीदृशम्? / which one exactly?",
+    "word": "भविष्यति",
+    "answer": "भविष्यति काले विहितस्य",
+    "why": [
+     "1.3.11: runs on from 3.3.3 (anuvṛtti)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "नित्यं विकल्पेन वा? / always, or optionally?",
+    "word": "वा",
+    "answer": "विकल्पेन",
+    "why": [
+     "as the प्रथमावृत्तिः reads it"
+    ],
+    "whyNot": []
+   }
+  ],
+  "alsoAtWork": [],
+  "notes": [],
+  "teachingNote": "",
+  "paribhashaList": [
+   "1.3.11 ✔ carried in from the sūtras named",
+   "1.1.49 ✔ names the place — the thing replaced (“स्थाने”)",
+   "1.1.55 ✔ it replaces the WHOLE of the place",
+   "1.1.56 ↪ applies later, in the derivation — not a step in reading this sūtra (Kāśikā on 1.1.56: “स्थानिवदादेशो भवति स्थान्याश्रये",
+   "3.1.85 ✔ case endings may stand for one another (vyatyaya)",
+   "3.1.92 ✖ not an upapada — it names the time / the lakāra, not a word standing nearby",
+   "1.1.44 ✖ the option word here carries the meaning itself — the saṃjñā is not needed (Mahābhāṣya on 1.1.44: “आचार्यः खल्वपि सञ्ज्ञ"
+  ]
+ },
+ "4.1.165": {
+  "sutra": "वान्यस्मिन् सपिण्डे स्थविरतरे जीवति",
+  "kind": "saṃjñā*",
+  "vrtti": {
+   "classStyle": "अन्यस्मिन् स्थविरतरे जीवति सति सपिण्डे पौत्रप्रभृतेः अपत्यम् विकल्पेन 'युवसंज्ञम्' इति संज्ञा भवति",
+   "kasikaStyle": "अन्यस्मिन् स्थविरतरे जीवति सति सपिण्डे पौत्रप्रभृतेरपत्यं विकल्पेन 'युवसंज्ञम्' इति संज्ञा भवति",
+   "kaumudiStyle": "अन्यस्मिन् स्थविरतरे जीवति सति सपिण्डे पौत्रप्रभृतेरपत्यं विकल्पेन 'युवसंज्ञम्' इति संज्ञा स्यात्"
+  },
+  "padaccheda": "वा (अव्ययम्) अन्यस्मिन् (71) सपिण्डे (71) स्थविरतरे (71) जीवति (71)",
+  "steps": [
+   {
+    "rules": [],
+    "what": "the sūtra’s own words",
+    "now": "वा अन्यस्मिन् सपिण्डे स्थविरतरे जीवति"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "वा → option: “विकल्पेन” (read from its case) · प्रथमावृत्तिः: “युवसंज्ञं वा भवति” — also: वा → विभाषा = optional (न वेति विभाषा) → “विकल्पेन”",
+    "now": "विकल्पेन अन्यस्मिन् सपिण्डे स्थविरतरे जीवति"
+   },
+   {
+    "rules": [],
+    "what": "अन्यस्मिन् → describes: “अन्यस्मिन्” (read from its case) · प्रथमावृत्तिः: “भ्रातुरन्यस्मिन् सपिण्डे” — 1.1.66 not applicable: describes सपिण्डे (the same thing, in the same case), not a separate thing that follows; 1.1.66 applies through सपिण्डे",
+    "now": "विकल्पेन अन्यस्मिन् सपिण्डे स्थविरतरे जीवति"
+   },
+   {
+    "rules": [],
+    "what": "सपिण्डे → what follows: “सपिण्डे” (read from its case) · प्रथमावृत्तिः: “सपिण्डे स्थविरतरे”",
+    "now": "विकल्पेन अन्यस्मिन् सपिण्डे स्थविरतरे जीवति"
+   },
+   {
+    "rules": [],
+    "what": "स्थविरतरे → describes: “स्थविरतरे” (read from its case) · प्रथमावृत्तिः: “स्थविरतरे = वृद्धतरे” — 1.1.66 not applicable: describes सपिण्डे (the same thing, in the same case), not a separate thing that follows; 1.1.66 applies through सपिण्डे",
+    "now": "विकल्पेन अन्यस्मिन् सपिण्डे स्थविरतरे जीवति"
+   },
+   {
+    "rules": [],
+    "what": "जीवति → describes: “जीवति सति” (read from its case) · प्रथमावृत्तिः: “जीवति सति” — 1.1.66 not applicable: describes सपिण्डे (the same thing, in the same case), not a separate thing that follows; 1.1.66 applies through सपिण्डे",
+    "now": "विकल्पेन अन्यस्मिन् सपिण्डे स्थविरतरे जीवति सति"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "युवा (carried from 4.1.163) → the name: “युवसंज्ञम्” (carried in) · प्रथमावृत्तिः: “युवसंज्ञं वा भवति”",
+    "now": "विकल्पेन अन्यस्मिन् सपिण्डे स्थविरतरे जीवति सति युवसंज्ञम्"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "अपत्यम् (carried from 4.1.92) → what is named: “अपत्यम्” (carried in) · प्रथमावृत्तिः: “पौत्रप्रभृतेरपत्यं”",
+    "now": "विकल्पेन अन्यस्मिन् सपिण्डे स्थविरतरे जीवति सति युवसंज्ञम् अपत्यम्"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "पौत्र-प्रभृति (carried from 4.1.162) → describes: “पौत्रप्रभृतेः” (carried in) · प्रथमावृत्तिः: “पौत्रप्रभृतेरपत्यं” — also: अपत्यम्, तस्य, पौत्र-प्रभृति, युवा, प्रत्ययः, परश्च, आद्युदात्तश्च, ङ्याप्प्रातिपदिकात्, तद्धिताः, प्राग्दीव्यतोऽण्, समर्थानां प्रथमाद्वा → carried in from the sūtras named",
+    "now": "विकल्पेन अन्यस्मिन् सपिण्डे स्थविरतरे जीवति सति युवसंज्ञम् अपत्यम् पौत्रप्रभृतेः"
+   },
+   {
+    "rules": [],
+    "what": "assemble in prose order, everything spelled out (class style)",
+    "now": "अन्यस्मिन् स्थविरतरे जीवति सति सपिण्डे पौत्रप्रभृतेः अपत्यम् विकल्पेन 'युवसंज्ञम्' इति संज्ञा भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kāśikā style: leave out what is implied (परः च), apply sandhi",
+    "now": "अन्यस्मिन् स्थविरतरे जीवति सति सपिण्डे पौत्रप्रभृतेरपत्यं विकल्पेन 'युवसंज्ञम्' इति संज्ञा भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kaumudī style: स्यात् / स्युः for भवति",
+    "now": "अन्यस्मिन् स्थविरतरे जीवति सति सपिण्डे पौत्रप्रभृतेरपत्यं विकल्पेन 'युवसंज्ञम्' इति संज्ञा स्यात्"
+   }
+  ],
+  "cards": [
+   {
+    "question": "का संज्ञा? / which name is given?",
+    "word": "युवा",
+    "answer": "युवसंज्ञम्",
+    "why": [
+     "1.3.11: runs on from 4.1.163 (anuvṛtti)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्य संज्ञा? / to what is the name given?",
+    "word": "अपत्यम्",
+    "answer": "अपत्यम्",
+    "why": [
+     "1.3.11: runs on from 4.1.92 (anuvṛtti)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मिन् परे? / when what follows?",
+    "word": "सपिण्डे",
+    "answer": "सपिण्डे",
+    "why": [],
+    "whyNot": []
+   },
+   {
+    "question": "कीदृशम्? / which one exactly?",
+    "word": "पौत्र-प्रभृति",
+    "answer": "पौत्रप्रभृतेः",
+    "why": [
+     "1.3.11: runs on from 4.1.162 (anuvṛtti)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कीदृशम्? / which one exactly?",
+    "word": "जीवति",
+    "answer": "जीवति सति",
+    "why": [
+     "it describes another word of the rule"
+    ],
+    "whyNot": [
+     "1.1.66 describes सपिण्डे (the same thing, in the same case), not a separate thing that follows; 1.1.66 applies through सपिण्डे"
+    ]
+   },
+   {
+    "question": "कीदृशम्? / which one exactly?",
+    "word": "स्थविरतरे",
+    "answer": "स्थविरतरे",
+    "why": [
+     "it describes another word of the rule"
+    ],
+    "whyNot": [
+     "1.1.66 describes सपिण्डे (the same thing, in the same case), not a separate thing that follows; 1.1.66 applies through सपिण्डे"
+    ]
+   },
+   {
+    "question": "कीदृशम्? / which one exactly?",
+    "word": "अन्यस्मिन्",
+    "answer": "अन्यस्मिन्",
+    "why": [
+     "it describes another word of the rule"
+    ],
+    "whyNot": [
+     "1.1.66 describes सपिण्डे (the same thing, in the same case), not a separate thing that follows; 1.1.66 applies through सपिण्डे"
+    ]
+   },
+   {
+    "question": "नित्यं विकल्पेन वा? / always, or optionally?",
+    "word": "वा",
+    "answer": "विकल्पेन",
+    "why": [
+     "a word meaning “optionally”"
+    ],
+    "whyNot": []
+   }
+  ],
+  "alsoAtWork": [],
+  "notes": [],
+  "teachingNote": "",
+  "paribhashaList": [
+   "1.3.11 ✔ carried in from the sūtras named",
+   "1.1.44 ✖ the option word here carries the meaning itself — the saṃjñā is not needed (Mahābhāṣya on 1.1.44: “आचार्यः खल्वपि सञ्ज्ञ"
+  ]
+ },
+ "4.3.2": {
+  "sutra": "तस्मिन्नणि च युष्माकास्माकौ",
+  "kind": "ādeśa",
+  "vrtti": {
+   "classStyle": "तस्मिन् खञि परे अणि परे युष्मदस्मदोः स्थाने युष्माक-अस्माकौ आदेशौ यथासङ्ख्यम् भवतः",
+   "kasikaStyle": "तस्मिन् खञि परेऽणि परे युष्मदस्मदोः स्थाने युष्माक-अस्माकावादेशौ यथासङ्ख्यं भवतः",
+   "kaumudiStyle": "तस्मिन् खञि परेऽणि परे युष्मदस्मदोः स्थाने युष्माक-अस्माकावादेशौ यथासङ्ख्यं स्याताम्"
+  },
+  "padaccheda": "तस्मिन् (71) अणि (71) च (अव्ययम्) युष्माक-अस्माकौ (12)",
+  "steps": [
+   {
+    "rules": [],
+    "what": "the sūtra’s own words",
+    "now": "तस्मिन् अणि च युष्माक अस्माकौ"
+   },
+   {
+    "rules": [
+     "1.1.66"
+    ],
+    "what": "तस्मिन् → what follows: “तस्मिन् खञि परतः” (read from its case) · प्रथमावृत्तिः: “तस्मिन् = खञि”",
+    "now": "तस्मिन् खञि परतः अणि च युष्माक अस्माकौ"
+   },
+   {
+    "rules": [
+     "1.1.66"
+    ],
+    "what": "अणि → what follows: “अणि परतः” (read from its case) · प्रथमावृत्तिः: “अणि च परतः”",
+    "now": "तस्मिन् खञि परतः अणि परतः च युष्माक अस्माकौ"
+   },
+   {
+    "rules": [],
+    "what": "च: a particle — it joins the parts; the vṛtti does not need it as a word",
+    "now": "तस्मिन् खञि परतः अणि परतः युष्माक अस्माकौ"
+   },
+   {
+    "rules": [
+     "1.1.55",
+     "1.3.10"
+    ],
+    "what": "युष्माक-अस्माकौ → the substitute: “युष्माक-अस्माकौ आदेशौ” (read from its case) · प्रथमावृत्तिः: “युष्माक, अस्माक इत्येतावादेशौ भवतः” — also: युष्माक-अस्माकौ: more than one sound → it replaces the WHOLE of the place",
+    "now": "तस्मिन् खञि परतः अणि परतः युष्माक-अस्माकौ आदेशौ"
+   },
+   {
+    "rules": [
+     "1.1.49",
+     "1.3.11",
+     "1.3.10"
+    ],
+    "what": "युष्मद्-अस्मदोः (carried from 4.3.1) → what is replaced: “युष्मदस्मदोः स्थाने” (carried in) · प्रथमावृत्तिः: “युष्मदस्मदोः स्थाने” — also: युष्मद्-अस्मदोः, खञ्, प्रत्ययः, परश्च, आद्युदात्तश्च, ङ्याप्प्रातिपदिकात्, तद्धिताः, प्राग्दीव्यतोऽण्, समर्थानां प्रथमाद्वा → carried in from the sūtras named — also: युष्माक-अस्माकौ replaces युष्मद्-अस्मदोः → the replacement is treated like what it replaced (e.g. a तिङ् replacing a तिङ् is still तिङ् ) — also: युष्माक-अस्माकौ and युष्मद्-अस्मदोः: 2 members each → they pair up in order (यथासङ्ख्यम्)",
+    "now": "तस्मिन् खञि परतः अणि परतः युष्माक-अस्माकौ आदेशौ युष्मदस्मदोः स्थाने"
+   },
+   {
+    "rules": [],
+    "what": "assemble in prose order, everything spelled out (class style)",
+    "now": "तस्मिन् खञि परे अणि परे युष्मदस्मदोः स्थाने युष्माक-अस्माकौ आदेशौ यथासङ्ख्यम् भवतः"
+   },
+   {
+    "rules": [],
+    "what": "Kāśikā style: leave out what is implied (परः च), apply sandhi",
+    "now": "तस्मिन् खञि परेऽणि परे युष्मदस्मदोः स्थाने युष्माक-अस्माकावादेशौ यथासङ्ख्यं भवतः"
+   },
+   {
+    "rules": [],
+    "what": "Kaumudī style: स्यात् / स्युः for भवति",
+    "now": "तस्मिन् खञि परेऽणि परे युष्मदस्मदोः स्थाने युष्माक-अस्माकावादेशौ यथासङ्ख्यं स्याताम्"
+   }
+  ],
+  "cards": [
+   {
+    "question": "किम् आदेशः? / what comes in its place?",
+    "word": "युष्माकास्माकौ",
+    "answer": "युष्माक-अस्माकौ आदेशौ",
+    "why": [
+     "the substitute stands in the 1st case — Mahābhāṣya on 1.1.57: “आदेशः प्रथमानिर्दिष्टः”"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्य स्थाने? / what is replaced / operated on?",
+    "word": "युष्मद्-अस्मदोः",
+    "answer": "युष्मदस्मदोः स्थाने",
+    "why": [
+     "1.3.11: runs on from 4.3.1 (anuvṛtti)",
+     "1.1.49: Where a rule teaches a substitute, a 6th-case word whose link is otherwise unclear names what is replaced (“… स्थाने”). Not in augment rules (the 6th is the host), not where another word names the part replaced (उपधायाः, एचः), not where no substitute is taught. (Bhāṣya: “सन्देहे नियमः।”)",
+     "1.3.10: when two lists have the same number of members they pair up IN ORDER (yathāsaṅkhya) — they pair up in order (यथासङ्ख्यम्)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मिन् परे? / when what follows?",
+    "word": "अणि",
+    "answer": "अणि परतः",
+    "why": [
+     "1.1.66: A 7th-case word naming a following sound, suffix or word (“… परे”) puts the operation on what comes immediately before it. Not a 7th naming a meaning or domain (आर्धधातुके as ‘in its sphere’); if the rule also has a 5th, the 5th wins. (Bhāṣya: “शब्दे सप्तम्या निर्दिष्टे पूर्वस्य कार्यं यथा स्यात्। अर्थे मा भूत्।”)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मिन् परे? / when what follows?",
+    "word": "तस्मिन्",
+    "answer": "तस्मिन् खञि परतः",
+    "why": [
+     "1.1.66: A 7th-case word naming a following sound, suffix or word (“… परे”) puts the operation on what comes immediately before it. Not a 7th naming a meaning or domain (आर्धधातुके as ‘in its sphere’); if the rule also has a 5th, the 5th wins. (Bhāṣya: “शब्दे सप्तम्या निर्दिष्टे पूर्वस्य कार्यं यथा स्यात्। अर्थे मा भूत्।”)"
+    ],
+    "whyNot": []
+   }
+  ],
+  "alsoAtWork": [
+   "1.1.55: a substitute of more than one sound (or शित्) replaces the WHOLE — युष्माक-अस्माकौ: more than one sound → it replaces the WHOLE of the place",
+   "PIS 123: the sūtra is stated separately for a purpose — काशिका: “निमित्तयोरादेशौ प्रति यथासंख्यं कस्माद् न भवति ? योगविभागः करिष्यते, तस्मिन् खञि युष्मदस्मदोर्युष”"
+  ],
+  "notes": [],
+  "teachingNote": "",
+  "paribhashaList": [
+   "1.3.11 ✔ carried in from the sūtras named",
+   "1.1.66 ✔ names what FOLLOWS — the operation is on what precedes it",
+   "1.1.49 ✔ names the place — the thing replaced (“स्थाने”)",
+   "1.1.55 ✔ it replaces the WHOLE of the place",
+   "1.1.56 ↪ applies later, in the derivation — not a step in reading this sūtra (Kāśikā on 1.1.56: “स्थानिवदादेशो भवति स्थान्याश्रये",
+   "1.3.10 ✔ they pair up in order (यथासङ्ख्यम्)",
+   "PIS 123 ✔ the sūtra is stated separately for a purpose — काशिका: “निमित्तयोरादेशौ प्रति यथासंख्यं कस्माद् न भवति ? योगविभागः करिष्"
+  ]
+ },
+ "4.3.10": {
+  "sutra": "द्वीपादनुसमुद्रं यञ्",
+  "kind": "vidhi",
+  "vrtti": {
+   "classStyle": "समुद्रसमीपे वर्तमानात् द्वीपप्रातिपदिकात् समर्थात् शेषे अर्थेषु यञ् प्रत्ययः परः च भवति",
+   "kasikaStyle": "समुद्रसमीपे वर्तमानाद् द्वीपप्रातिपदिकात् समर्थाच्छेषेऽर्थेषु यञ् प्रत्ययो भवति",
+   "kaumudiStyle": "समुद्रसमीपे वर्तमानाद् द्वीपप्रातिपदिकात् समर्थाच्छेषेऽर्थेषु यञ् प्रत्ययो स्यात्"
+  },
+  "padaccheda": "द्वीपात् (51) अनु-समुद्रम् (अव्ययम्) यञ् (11)",
+  "steps": [
+   {
+    "rules": [],
+    "what": "the sūtra’s own words",
+    "now": "द्वीपात् अनु समुद्रम् यञ्"
+   },
+   {
+    "rules": [
+     "3.1.2"
+    ],
+    "what": "द्वीपात् → the base: “द्वीपप्रातिपदिकात्” (read from its case) · काशिका: “यो द्वीपः, तस्माद्”",
+    "now": "द्वीपप्रातिपदिकात् अनु समुद्रम् यञ्"
+   },
+   {
+    "rules": [],
+    "what": "अनु-समुद्रम् → describes: “समुद्रसमीपे वर्तमानात्” (settled by the commentary) · प्रथमावृत्तिः: “समुद्रसमीपे वर्तमानात्”",
+    "now": "द्वीपप्रातिपदिकात् समुद्रसमीपे वर्तमानात् यञ्"
+   },
+   {
+    "rules": [],
+    "what": "यञ् → the suffix: “यञ् प्रत्ययः” (read from its case) · प्रथमावृत्तिः: “यञ् प्रत्ययो भवति”",
+    "now": "द्वीपप्रातिपदिकात् समुद्रसमीपे वर्तमानात् यञ् प्रत्ययः"
+   },
+   {
+    "rules": [],
+    "what": "शेषे (carried from 4.2.92) → the meaning: “शेषे अर्थेषु” (carried in) · काशिका: “शैषिकः”",
+    "now": "द्वीपप्रातिपदिकात् समुद्रसमीपे वर्तमानात् यञ् प्रत्ययः शेषे अर्थेषु"
+   },
+   {
+    "rules": [
+     "4.1.82"
+    ],
+    "what": "समर्थानाम् (carried from 4.1.82) → the samartha word: “समर्थात्” (carried in)",
+    "now": "द्वीपप्रातिपदिकात् समुद्रसमीपे वर्तमानात् यञ् प्रत्ययः शेषे अर्थेषु समर्थात्"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "प्रत्ययः, परश्च, आद्युदात्तश्च, ङ्याप्प्रातिपदिकात्, तद्धिताः, प्राग्दीव्यतोऽण्, समर्थानां प्रथमाद्वा → carried in from the sūtras named",
+    "now": "द्वीपप्रातिपदिकात् समुद्रसमीपे वर्तमानात् यञ् प्रत्ययः शेषे अर्थेषु समर्थात्"
+   },
+   {
+    "rules": [],
+    "what": "assemble in prose order, everything spelled out (class style)",
+    "now": "समुद्रसमीपे वर्तमानात् द्वीपप्रातिपदिकात् समर्थात् शेषे अर्थेषु यञ् प्रत्ययः परः च भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kāśikā style: leave out what is implied (परः च), apply sandhi",
+    "now": "समुद्रसमीपे वर्तमानाद् द्वीपप्रातिपदिकात् समर्थाच्छेषेऽर्थेषु यञ् प्रत्ययो भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kaumudī style: स्यात् / स्युः for भवति",
+    "now": "समुद्रसमीपे वर्तमानाद् द्वीपप्रातिपदिकात् समर्थाच्छेषेऽर्थेषु यञ् प्रत्ययो स्यात्"
+   }
+  ],
+  "cards": [
+   {
+    "question": "कः प्रत्ययः? / which suffix is introduced?",
+    "word": "यञ्",
+    "answer": "यञ् प्रत्ययः",
+    "why": [
+     "the suffix named in the 1st case is what is introduced"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मात्? / after which base?",
+    "word": "द्वीपात्",
+    "answer": "द्वीपप्रातिपदिकात्",
+    "why": [
+     "3.1.2: a suffix is placed AFTER its base (परश्च, under the प्रत्ययः heading 3.1.1–5.4.160)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मात् समर्थात्? / from a word in which case?",
+    "word": "समर्थानाम्",
+    "answer": "समर्थात्",
+    "why": [
+     "1.3.11: runs on from 4.1.82 (anuvṛtti)",
+     "4.1.82: From 4.1.83 to 5.2.140 a taddhita comes, optionally (the phrase stays possible: उपगोरपत्यम्), after the first-named word — the one in the case its defining sentence uses (तस्य in तस्यापत्यम्), not the word for the meaning. From 5.3.1 only the option goes on. (Kāśikā: “वेति किम्? वाक्यमपि हि यथा स्यात्”)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मिन् अर्थे? / in which meaning?",
+    "word": "शेषे",
+    "answer": "शेषे अर्थेषु",
+    "why": [
+     "1.3.11: runs on from 4.2.92 (anuvṛtti)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कीदृशम्? / which one exactly?",
+    "word": "अनुसमुद्रम्",
+    "answer": "समुद्रसमीपे वर्तमानात्",
+    "why": [
+     "as the प्रथमावृत्तिः reads it"
+    ],
+    "whyNot": []
+   }
+  ],
+  "alsoAtWork": [],
+  "notes": [],
+  "teachingNote": "",
+  "paribhashaList": [
+   "1.3.11 ✔ carried in from the sūtras named",
+   "3.1.2 ✔ a suffix is placed AFTER its base (परश्च, under the प्रत्ययः heading 3.1.1–5.4.160) — “परश्च”",
+   "4.1.82 ✔ it comes after the first of the semantically connected words — समर्थानां प्रथमाद्वा (the case is the one the meaning sūt"
+  ]
+ },
+ "5.2.124": {
+  "sutra": "वाचो ग्मिनिः",
+  "kind": "vidhi",
+  "vrtti": {
+   "classStyle": "वाच्-शब्दात् प्रथमासमर्थात् मत्वर्थे ग्मिनिः प्रत्ययः परः च भवति",
+   "kasikaStyle": "वाच्-शब्दात् प्रथमासमर्थान्मत्वर्थे ग्मिनिः प्रत्ययो भवति",
+   "kaumudiStyle": "वाच्-शब्दात् प्रथमासमर्थान्मत्वर्थे ग्मिनिः प्रत्ययो स्यात्"
+  },
+  "padaccheda": "वाचः (51) ग्मिनिः (11)",
+  "steps": [
+   {
+    "rules": [],
+    "what": "the sūtra’s own words",
+    "now": "वाचः ग्मिनिः"
+   },
+   {
+    "rules": [
+     "3.1.2"
+    ],
+    "what": "वाचः → the base: “वाच्-शब्दात्” (read from its case) · प्रथमावृत्तिः: “वाच्शब्दात् मत्वर्थे”",
+    "now": "वाच्-शब्दात् ग्मिनिः"
+   },
+   {
+    "rules": [],
+    "what": "ग्मिनिः → the suffix: “ग्मिनिः प्रत्ययः” (read from its case) · प्रथमावृत्तिः: “ग्मिनिः प्रत्ययो भवति”",
+    "now": "वाच्-शब्दात् ग्मिनिः प्रत्ययः"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "मतुप् (carried from 5.2.94) → the meaning: “मत्वर्थे” (carried in) · प्रथमावृत्तिः: “मत्वर्थे”",
+    "now": "वाच्-शब्दात् ग्मिनिः प्रत्ययः मत्वर्थे"
+   },
+   {
+    "rules": [
+     "4.1.82",
+     "1.3.11"
+    ],
+    "what": "तत् (carried from 4.1.82) → the samartha word: “प्रथमासमर्थात्” (carried in) — also: तत्, अस्य, अस्ति, अस्मिन्, इति, मतुप्, प्रत्ययः, परश्च, आद्युदात्तश्च, ङ्याप्प्रातिपदिकात्, तद्धिताः, समर्थानां प्रथमाद्वा → carried in from the sūtras named — also: तत् (carried over): a pronoun in the प्रथमा → the base word is in the प्रथमा (प्रथमासमर्थात्) — 4.1.82 समर्थानां प्रथमाद्वा; class notes 88–103",
+    "now": "वाच्-शब्दात् ग्मिनिः प्रत्ययः मत्वर्थे प्रथमासमर्थात्"
+   },
+   {
+    "rules": [],
+    "what": "assemble in prose order, everything spelled out (class style)",
+    "now": "वाच्-शब्दात् प्रथमासमर्थात् मत्वर्थे ग्मिनिः प्रत्ययः परः च भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kāśikā style: leave out what is implied (परः च), apply sandhi",
+    "now": "वाच्-शब्दात् प्रथमासमर्थान्मत्वर्थे ग्मिनिः प्रत्ययो भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kaumudī style: स्यात् / स्युः for भवति",
+    "now": "वाच्-शब्दात् प्रथमासमर्थान्मत्वर्थे ग्मिनिः प्रत्ययो स्यात्"
+   }
+  ],
+  "cards": [
+   {
+    "question": "कः प्रत्ययः? / which suffix is introduced?",
+    "word": "ग्मिनिः",
+    "answer": "ग्मिनिः प्रत्ययः",
+    "why": [
+     "the suffix named in the 1st case is what is introduced"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मात्? / after which base?",
+    "word": "वाचः",
+    "answer": "वाच्-शब्दात्",
+    "why": [
+     "3.1.2: a suffix is placed AFTER its base (परश्च, under the प्रत्ययः heading 3.1.1–5.4.160)",
+     "1.1.68: वाच् here means the word वाच् itself, not its meaning or its synonyms — काशिका on 1.1.68: “शास्त्रे स्वमेव रूपं शब्दस्य ग्राह्यं बोध्यं प्रत्याय्यं भवति, न बाह्योऽर्थः”"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मात् समर्थात्? / from a word in which case?",
+    "word": "तत्",
+    "answer": "प्रथमासमर्थात्",
+    "why": [
+     "1.3.11: runs on from 4.1.82 (anuvṛtti)",
+     "4.1.82: From 4.1.83 to 5.2.140 a taddhita comes, optionally (the phrase stays possible: उपगोरपत्यम्), after the first-named word — the one in the case its defining sentence uses (तस्य in तस्यापत्यम्), not the word for the meaning. From 5.3.1 only the option goes on. (Kāśikā: “वेति किम्? वाक्यमपि हि यथा स्यात्”)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मिन् अर्थे? / in which meaning?",
+    "word": "मतुप्",
+    "answer": "मत्वर्थे",
+    "why": [
+     "1.3.11: runs on from 5.2.94 (anuvṛtti)"
+    ],
+    "whyNot": []
+   }
+  ],
+  "alsoAtWork": [],
+  "notes": [],
+  "teachingNote": "",
+  "paribhashaList": [
+   "1.3.11 ✔ carried in from the sūtras named",
+   "3.1.2 ✔ a suffix is placed AFTER its base (परश्च, under the प्रत्ययः heading 3.1.1–5.4.160) — “परश्च”",
+   "1.3.11 ✔ the base word is in the प्रथमा (प्रथमासमर्थात्) — 4.1.82 समर्थानां प्रथमाद्वा; class notes 88–103",
+   "4.1.82 ✔ the suffix comes after the first (base) word, standing in the प्रथमा — समर्थानां प्रथमाद्वा",
+   "1.1.68 ✔ the word means its own form, not its meaning or synonyms"
+  ]
+ },
+ "5.3.4": {
+  "sutra": "एतेतौ रथोः",
+  "kind": "nipātana",
+  "vrtti": {
+   "classStyle": "रेफादौ थकारादौ च प्रत्यये परे इदमः स्थाने एत इतौ आदेशौ यथासङ्ख्यम् भवतः",
+   "kasikaStyle": "रेफादौ थकारादौ च प्रत्यये पर इदमः स्थान एतेतावादेशौ यथासङ्ख्यं भवतः",
+   "kaumudiStyle": "रेफादौ थकारादौ च प्रत्यये पर इदमः स्थान एतेतावादेशौ यथासङ्ख्यं स्याताम्"
+  },
+  "padaccheda": "एत-इतौ (12) र-थोः (72)",
+  "steps": [
+   {
+    "rules": [],
+    "what": "the sūtra’s own words",
+    "now": "एत इतौ र थोः"
+   },
+   {
+    "rules": [],
+    "what": "एत-इतौ → the substitute: “एत इतौ आदेशौ” (read from its case) · प्रथमावृत्तिः: “एत इत् इत्येतावादेशौ भवतः”",
+    "now": "एत इतौ आदेशौ र थोः"
+   },
+   {
+    "rules": [
+     "PIS 33",
+     "1.1.66"
+    ],
+    "what": "र-थोः → what follows: “रेफादौ थकारादौ च प्रत्यये परतः” (what begins with it) · प्रथमावृत्तिः: “रेफादौ थकारादौ च प्रत्यये परतो”",
+    "now": "एत इतौ आदेशौ रेफादौ थकारादौ च प्रत्यये परतः"
+   },
+   {
+    "rules": [
+     "1.1.49",
+     "1.3.11"
+    ],
+    "what": "इदमः (carried from 5.3.3) → what is replaced: “इदमः स्थाने” (read from its case) · प्रथमावृत्तिः: “इदमः स्थाने” — also: किं-सर्वनाम-बहुभ्यः, अद्व्यादिभ्यः, इदमः, प्रत्ययः, परश्च, आद्युदात्तश्च, ङ्याप्प्रातिपदिकात्, तद्धिताः, प्राग्दिशो विभक्तिः, किंसर्वनामबहुभ्योऽद्व्यादिभ्यः, वा → carried in from the sūtras named",
+    "now": "एत इतौ आदेशौ रेफादौ थकारादौ च प्रत्यये परतः इदमः स्थाने"
+   },
+   {
+    "rules": [
+     "1.3.10"
+    ],
+    "what": "2 forms and 2 meanings → paired in order (yathāsaṅkhya)",
+    "now": "एत इतौ आदेशौ रेफादौ थकारादौ च प्रत्यये परतः इदमः स्थाने"
+   },
+   {
+    "rules": [],
+    "what": "assemble in prose order, everything spelled out (class style)",
+    "now": "रेफादौ थकारादौ च प्रत्यये परे इदमः स्थाने एत इतौ आदेशौ यथासङ्ख्यम् भवतः"
+   },
+   {
+    "rules": [],
+    "what": "Kāśikā style: leave out what is implied (परः च), apply sandhi",
+    "now": "रेफादौ थकारादौ च प्रत्यये पर इदमः स्थान एतेतावादेशौ यथासङ्ख्यं भवतः"
+   },
+   {
+    "rules": [],
+    "what": "Kaumudī style: स्यात् / स्युः for भवति",
+    "now": "रेफादौ थकारादौ च प्रत्यये पर इदमः स्थान एतेतावादेशौ यथासङ्ख्यं स्याताम्"
+   }
+  ],
+  "cards": [
+   {
+    "question": "किम् आदेशः? / what comes in its place?",
+    "word": "एत-इतौ",
+    "answer": "एत इतौ आदेशौ",
+    "why": [
+     "the substitute stands in the 1st case — Mahābhāṣya on 1.1.57: “आदेशः प्रथमानिर्दिष्टः”"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्य स्थाने? / what is replaced / operated on?",
+    "word": "इदमः",
+    "answer": "इदमः स्थाने",
+    "why": [
+     "1.3.11: runs on from 5.3.3 (anuvṛtti)",
+     "1.1.49: Where a rule teaches a substitute, a 6th-case word whose link is otherwise unclear names what is replaced (“… स्थाने”). Not in augment rules (the 6th is the host), not where another word names the part replaced (उपधायाः, एचः), not where no substitute is taught. (Bhāṣya: “सन्देहे नियमः।”)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मिन् परे? / when what follows?",
+    "word": "र-थोः",
+    "answer": "रेफादौ थकारादौ च प्रत्यये परतः",
+    "why": [
+     "PIS 33: a SOUND (a letter, a pratyāhāra, or the augment इट् — not a suffix or a word) in the 7th case, qualifying a 7th-case condition, stands for what BEGINS with it — so we read “…-आदि” (an exception to tadanta-vidhi, 1.1.72)",
+     "1.1.66: A 7th-case word naming a following sound, suffix or word (“… परे”) puts the operation on what comes immediately before it. Not a 7th naming a meaning or domain (आर्धधातुके as ‘in its sphere’); if the rule also has a 5th, the 5th wins. (Bhāṣya: “शब्दे सप्तम्या निर्दिष्टे पूर्वस्य कार्यं यथा स्यात्। अर्थे मा भूत्।”)"
+    ],
+    "whyNot": []
+   }
+  ],
+  "alsoAtWork": [
+   "1.3.10: when two lists have the same number of members they pair up IN ORDER (yathāsaṅkhya) — 2 forms and 2 meanings → paired in order (yathāsaṅkhya)"
+  ],
+  "notes": [],
+  "teachingNote": "",
+  "paribhashaList": [
+   "1.3.11 ✔ carried in from the sūtras named",
+   "1.3.10 ✔ paired in order (yathāsaṅkhya)",
+   "PIS 33 ✔ “रेफादौ थकारादौ च प्रत्यये परतः”",
+   "1.1.66 ✔ “रेफादौ थकारादौ च प्रत्यये परतः”",
+   "1.1.49 ✔ “इदमः स्थाने”"
+  ]
+ },
+ "5.3.63": {
+  "sutra": "अन्तिकबाढयोर्नेदसाधौ",
+  "kind": "ādeśa",
+  "vrtti": {
+   "classStyle": "अजाद्योः प्रत्यययोः परे अन्तिकबाढयोः स्थाने नेद साध इत्येतौ आदेशौ यथासङ्ख्यम् भवतः",
+   "kasikaStyle": "अजाद्योः प्रत्यययोः परेऽन्तिकबाढयोः स्थाने नेद साध इत्येतावादेशौ यथासङ्ख्यं भवतः",
+   "kaumudiStyle": "अजाद्योः प्रत्यययोः परेऽन्तिकबाढयोः स्थाने नेद साधेत्येतावादेशौ यथासङ्ख्यं स्याताम्"
+  },
+  "padaccheda": "अन्तिक-बाढयोः (62) नेद-साधौ (12)",
+  "steps": [
+   {
+    "rules": [],
+    "what": "the sūtra’s own words",
+    "now": "अन्तिक बाढयोः नेद साधौ"
+   },
+   {
+    "rules": [
+     "1.1.49",
+     "1.3.10"
+    ],
+    "what": "अन्तिक-बाढयोः → what is replaced: “अन्तिकबाढयोः स्थाने” (read from its case) · काशिका: “अन्तिकबाढयोर्यथासंख्यं”",
+    "now": "अन्तिकबाढयोः स्थाने नेद साधौ"
+   },
+   {
+    "rules": [
+     "1.1.55",
+     "1.3.10"
+    ],
+    "what": "नेद-साधौ → the substitute: “नेद साध इत्येतौ आदेशौ” (read from its case) · काशिका: “नेद साध इत्येतावादेशौ भवतो” — also: नेद-साधौ: more than one sound → it replaces the WHOLE of the place — also: नेद-साधौ replaces अन्तिक-बाढयोः → the replacement is treated like what it replaced (e.g. a तिङ् replacing a तिङ् is still तिङ् ) — also: अन्तिक-बाढयोः and नेद-साधौ: 2 members each → they pair up in order (यथासङ्ख्यम्)",
+    "now": "अन्तिकबाढयोः स्थाने नेद साध इत्येतौ आदेशौ"
+   },
+   {
+    "rules": [
+     "1.1.66",
+     "1.3.11"
+    ],
+    "what": "अजादी (carried from 5.3.58) → what follows: “अजाद्योः प्रत्यययोः परतः” (carried in) · प्रथमावृत्तिः: “अजाद्योः प्रत्यययोः परतः” — also: तिङः, अजादी, प्रत्ययः, परश्च, आद्युदात्तश्च, ङ्याप्प्रातिपदिकात्, तद्धिताः, वा → carried in from the sūtras named",
+    "now": "अन्तिकबाढयोः स्थाने नेद साध इत्येतौ आदेशौ अजाद्योः प्रत्यययोः परतः"
+   },
+   {
+    "rules": [],
+    "what": "assemble in prose order, everything spelled out (class style)",
+    "now": "अजाद्योः प्रत्यययोः परे अन्तिकबाढयोः स्थाने नेद साध इत्येतौ आदेशौ यथासङ्ख्यम् भवतः"
+   },
+   {
+    "rules": [],
+    "what": "Kāśikā style: leave out what is implied (परः च), apply sandhi",
+    "now": "अजाद्योः प्रत्यययोः परेऽन्तिकबाढयोः स्थाने नेद साध इत्येतावादेशौ यथासङ्ख्यं भवतः"
+   },
+   {
+    "rules": [],
+    "what": "Kaumudī style: स्यात् / स्युः for भवति",
+    "now": "अजाद्योः प्रत्यययोः परेऽन्तिकबाढयोः स्थाने नेद साधेत्येतावादेशौ यथासङ्ख्यं स्याताम्"
+   }
+  ],
+  "cards": [
+   {
+    "question": "किम् आदेशः? / what comes in its place?",
+    "word": "नेदसाधौ",
+    "answer": "नेद साध इत्येतौ आदेशौ",
+    "why": [
+     "the substitute stands in the 1st case — Mahābhāṣya on 1.1.57: “आदेशः प्रथमानिर्दिष्टः”",
+     "1.1.55: a substitute of more than one sound (or शित्) replaces the WHOLE — it replaces the WHOLE of the place"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्य स्थाने? / what is replaced / operated on?",
+    "word": "अन्तिकबाढयोः",
+    "answer": "अन्तिकबाढयोः स्थाने",
+    "why": [
+     "1.1.49: Where a rule teaches a substitute, a 6th-case word whose link is otherwise unclear names what is replaced (“… स्थाने”). Not in augment rules (the 6th is the host), not where another word names the part replaced (उपधायाः, एचः), not where no substitute is taught. (Bhāṣya: “सन्देहे नियमः।”)",
+     "1.3.10: when two lists have the same number of members they pair up IN ORDER (yathāsaṅkhya) — they pair up in order (यथासङ्ख्यम्)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मिन् परे? / when what follows?",
+    "word": "अजादी",
+    "answer": "अजाद्योः प्रत्यययोः परतः",
+    "why": [
+     "1.3.11: runs on from 5.3.58 (anuvṛtti)",
+     "1.1.66: A 7th-case word naming a following sound, suffix or word (“… परे”) puts the operation on what comes immediately before it. Not a 7th naming a meaning or domain (आर्धधातुके as ‘in its sphere’); if the rule also has a 5th, the 5th wins. (Bhāṣya: “शब्दे सप्तम्या निर्दिष्टे पूर्वस्य कार्यं यथा स्यात्। अर्थे मा भूत्।”)"
+    ],
+    "whyNot": []
+   }
+  ],
+  "alsoAtWork": [],
+  "notes": [],
+  "teachingNote": "",
+  "paribhashaList": [
+   "1.3.11 ✔ carried in from the sūtras named",
+   "1.1.66 ✔ names what FOLLOWS — the operation is on what precedes it",
+   "1.1.49 ✔ names the place — the thing replaced (“स्थाने”)",
+   "1.1.55 ✔ it replaces the WHOLE of the place",
+   "1.1.56 ↪ applies later, in the derivation — not a step in reading this sūtra (Kāśikā on 1.1.56: “स्थानिवदादेशो भवति स्थान्याश्रये",
+   "1.3.10 ✔ they pair up in order (यथासङ्ख्यम्)",
+   "1.1.50 ✔ the replacement is the NEAREST in kind"
+  ]
+ },
+ "6.2.65": {
+  "sutra": "सप्तमीहारिणौ धर्म्येऽहरणे",
+  "kind": "svara",
+  "vrtti": {
+   "classStyle": "हरणशब्दवर्जिते उत्तरपदे धर्म्यवाचिनि उत्तरपदे परे सप्तम्यन्तं हारिवाचि च आदिः पूर्वपदम् उदात्तः भवति",
+   "kasikaStyle": "हरणशब्दवर्जित उत्तरपदे धर्म्यवाचिन्युत्तरपदे परे सप्तम्यन्तं हारिवाचि चादिः पूर्वपदमुदात्तो भवति",
+   "kaumudiStyle": "हरणशब्दवर्जित उत्तरपदे धर्म्यवाचिन्युत्तरपदे परे सप्तम्यन्तं हारिवाचि चादिः पूर्वपदमुदात्तः स्यात्"
+  },
+  "padaccheda": "सप्तमी-हारिणौ (12) धर्म्ये (71) अहरणे (71)",
+  "steps": [
+   {
+    "rules": [],
+    "what": "the sūtra’s own words",
+    "now": "सप्तमी हारिणौ धर्म्ये अहरणे"
+   },
+   {
+    "rules": [],
+    "what": "सप्तमी-हारिणौ → describes: “सप्तम्यन्तं हारिवाचि च” (settled by the commentary) · प्रथमावृत्तिः: “सप्तम्यन्तं हारिवाचि च”",
+    "now": "सप्तम्यन्तं हारिवाचि च धर्म्ये अहरणे"
+   },
+   {
+    "rules": [
+     "1.1.66"
+    ],
+    "what": "धर्म्ये → what follows: “धर्म्यवाचिनि उत्तरपदे परे” (read from its case) · प्रथमावृत्तिः: “धर्म्यवाचिनि उत्तरपदे”",
+    "now": "सप्तम्यन्तं हारिवाचि च धर्म्यवाचिनि उत्तरपदे परे अहरणे"
+   },
+   {
+    "rules": [],
+    "what": "अहरणे → describes: “हरणशब्दवर्जिते उत्तरपदे” (read from its case) · प्रथमावृत्तिः: “हरणशब्दवर्जिते” — 1.1.66 not applicable: describes धर्म्ये (the same thing, in the same case), not a separate thing that follows; 1.1.66 applies through धर्म्ये",
+    "now": "सप्तम्यन्तं हारिवाचि च धर्म्यवाचिनि उत्तरपदे परे हरणशब्दवर्जिते उत्तरपदे"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "पूर्वपदम्: not so (1.1.49) — 1.1.49 does not operate here (paribhāṣā audit) · प्रथमावृत्तिः: “पूर्वपदमाद्युदात्तं”",
+    "now": "सप्तम्यन्तं हारिवाचि च धर्म्यवाचिनि उत्तरपदे परे हरणशब्दवर्जिते उत्तरपदे पूर्वपदम्"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "आदिः (carried from 6.2.64) → describes: “आदिः” (carried in) · प्रथमावृत्तिः: “पूर्वपदमाद्युदात्तं”",
+    "now": "सप्तम्यन्तं हारिवाचि च धर्म्यवाचिनि उत्तरपदे परे हरणशब्दवर्जिते उत्तरपदे पूर्वपदम् आदिः"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "उदात्तः (carried from 6.2.64) → the accent: “उदात्तः भवति” (carried in) · प्रथमावृत्तिः: “पूर्वपदमाद्युदात्तं भवति” — also: पूर्वपदम्, आदिः, उदात्तः → carried in from the sūtras named",
+    "now": "सप्तम्यन्तं हारिवाचि च धर्म्यवाचिनि उत्तरपदे परे हरणशब्दवर्जिते उत्तरपदे पूर्वपदम् आदिः उदात्तः भवति"
+   },
+   {
+    "rules": [],
+    "what": "assemble in prose order, everything spelled out (class style)",
+    "now": "हरणशब्दवर्जिते उत्तरपदे धर्म्यवाचिनि उत्तरपदे परे सप्तम्यन्तं हारिवाचि च आदिः पूर्वपदम् उदात्तः भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kāśikā style: leave out what is implied (परः च), apply sandhi",
+    "now": "हरणशब्दवर्जित उत्तरपदे धर्म्यवाचिन्युत्तरपदे परे सप्तम्यन्तं हारिवाचि चादिः पूर्वपदमुदात्तो भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kaumudī style: स्यात् / स्युः for भवति",
+    "now": "हरणशब्दवर्जित उत्तरपदे धर्म्यवाचिन्युत्तरपदे परे सप्तम्यन्तं हारिवाचि चादिः पूर्वपदमुदात्तः स्यात्"
+   }
+  ],
+  "cards": [
+   {
+    "question": "कः स्वरः? / which accent?",
+    "word": "उदात्तः",
+    "answer": "उदात्तः भवति",
+    "why": [
+     "1.3.11: runs on from 6.2.64 (anuvṛtti)",
+     "6.1.158: one vowel's accent is taught here, so the rest of the pada is anudātta — काशिका on 6.1.158: “यत्रान्यः स्वर उदात्तः स्वरितो वा विधीयते, तत्रानुदात्तं पदमेकं वर्जयित्वा भवतीत्येतदुपस्थितं द्रष्टव्यम्”"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्य स्थाने? / what is replaced / operated on?",
+    "word": "पूर्वपदम्",
+    "answer": "पूर्वपदम्",
+    "why": [
+     "1.3.11: runs on from 6.2.1 (anuvṛtti)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मिन् परे? / when what follows?",
+    "word": "धर्म्ये",
+    "answer": "धर्म्यवाचिनि उत्तरपदे परे",
+    "why": [
+     "1.1.66: A 7th-case word naming a following sound, suffix or word (“… परे”) puts the operation on what comes immediately before it. Not a 7th naming a meaning or domain (आर्धधातुके as ‘in its sphere’); if the rule also has a 5th, the 5th wins. (Bhāṣya: “शब्दे सप्तम्या निर्दिष्टे पूर्वस्य कार्यं यथा स्यात्। अर्थे मा भूत्।”)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कीदृशम्? / which one exactly?",
+    "word": "आदिः",
+    "answer": "आदिः",
+    "why": [
+     "1.3.11: runs on from 6.2.64 (anuvṛtti)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कीदृशम्? / which one exactly?",
+    "word": "अहरणे",
+    "answer": "हरणशब्दवर्जिते उत्तरपदे",
+    "why": [
+     "it describes another word of the rule"
+    ],
+    "whyNot": [
+     "1.1.66 describes धर्म्ये (the same thing, in the same case), not a separate thing that follows; 1.1.66 applies through धर्म्ये"
+    ]
+   },
+   {
+    "question": "कीदृशम्? / which one exactly?",
+    "word": "सप्तमीहारिणौ",
+    "answer": "सप्तम्यन्तं हारिवाचि च",
+    "why": [
+     "as the प्रथमावृत्तिः reads it"
+    ],
+    "whyNot": []
+   }
+  ],
+  "alsoAtWork": [],
+  "notes": [],
+  "teachingNote": "",
+  "paribhashaList": [
+   "1.3.11 ✔ carried in from the sūtras named",
+   "1.1.66 ✔ names the uttarapada — the accent rule is on the member before it",
+   "1.1.66 ✔ names the uttarapada — the accent rule is on the member before it",
+   "6.1.158 ✔ the rest of the pada is anudātta",
+   "PIS 23 ✔ Own word सप्तमी → सप्तम्यन्तम् in our vṛtti, no PIS 23 credit at all."
+  ]
+ },
+ "6.3.89": {
+  "sutra": "दृग्दृशवतुषु",
+  "kind": "ādeśa",
+  "vrtti": {
+   "classStyle": "दृग्दृशवतुषु उत्तरपदेषु समानस्य स्थाने सः आदेशः भवति",
+   "kasikaStyle": "दृग्दृशवतुषूत्तरपदेषु समानस्य स्थाने स आदेशो भवति",
+   "kaumudiStyle": "दृग्दृशवतुषूत्तरपदेषु समानस्य स्थाने स आदेशः स्यात्"
+  },
+  "padaccheda": "दृक्-दृश-वतुषु (73)",
+  "steps": [
+   {
+    "rules": [],
+    "what": "the sūtra’s own words",
+    "now": "दृक् दृश वतुषु"
+   },
+   {
+    "rules": [
+     "1.1.66"
+    ],
+    "what": "दृक्-दृश-वतुषु → what follows: “दृग्दृशवतुषु” (read from its case) · प्रथमावृत्तिः: “दृक्, दृश, वतु इत्येतेषूत्तरपदेषु” — also: दृक्-दृश-वतुषु: 7th case → names what FOLLOWS — the operation is on what precedes it",
+    "now": "दृग्दृशवतुषु"
+   },
+   {
+    "rules": [],
+    "what": "समानस्य (carried from 6.3.84) → what is replaced: “समानस्य” (carried in) · प्रथमावृत्तिः: “समानस्य”",
+    "now": "दृग्दृशवतुषु समानस्य"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "सः (carried from 6.3.78) → the substitute: “सः” (carried in) · प्रथमावृत्तिः: “स इत्ययमादेशो भवति”",
+    "now": "दृग्दृशवतुषु समानस्य सः"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "उत्तरपदे (carried from 6.3.1) → what follows: “उत्तरपदेषु” (carried in) — also: सः, उत्तरपदे → carried in from the sūtras named",
+    "now": "दृग्दृशवतुषु समानस्य सः उत्तरपदेषु"
+   },
+   {
+    "rules": [
+     "1.1.49"
+    ],
+    "what": "?: 6th case → names the place — the thing replaced (“स्थाने”)",
+    "now": "दृग्दृशवतुषु समानस्य सः उत्तरपदेषु"
+   },
+   {
+    "rules": [
+     "1.1.55"
+    ],
+    "what": "स्: not so (1.1.52) — The substitute is स (स्+अ) for the whole समान — more than one sound (or शित्), so it replaces the WHOLE place (1.1.55, the apavāda of 1.1.52); the engine read it as one sound.",
+    "now": "दृग्दृशवतुषु समानस्य सः उत्तरपदेषु"
+   },
+   {
+    "rules": [],
+    "what": "स् replaces ? → the replacement is treated like what it replaced (e.g. a तिङ् replacing a तिङ् is still तिङ् )",
+    "now": "दृग्दृशवतुषु समानस्य सः उत्तरपदेषु"
+   },
+   {
+    "rules": [],
+    "what": "assemble in prose order, everything spelled out (class style)",
+    "now": "दृग्दृशवतुषु उत्तरपदेषु समानस्य स्थाने सः आदेशः भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kāśikā style: leave out what is implied (परः च), apply sandhi",
+    "now": "दृग्दृशवतुषूत्तरपदेषु समानस्य स्थाने स आदेशो भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kaumudī style: स्यात् / स्युः for भवति",
+    "now": "दृग्दृशवतुषूत्तरपदेषु समानस्य स्थाने स आदेशः स्यात्"
+   }
+  ],
+  "cards": [
+   {
+    "question": "किम् आदेशः? / what comes in its place?",
+    "word": "सः",
+    "answer": "सः",
+    "why": [
+     "1.3.11: runs on from 6.3.78 (anuvṛtti)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्य स्थाने? / what is replaced / operated on?",
+    "word": "समानस्य",
+    "answer": "समानस्य",
+    "why": [
+     "1.3.11: runs on from 6.3.84 (anuvṛtti)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मिन् परे? / when what follows?",
+    "word": "उत्तरपदे",
+    "answer": "उत्तरपदेषु",
+    "why": [
+     "1.3.11: runs on from 6.3.1 (anuvṛtti)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मिन् परे? / when what follows?",
+    "word": "दृग्दृशवतुषु",
+    "answer": "दृग्दृशवतुषु",
+    "why": [],
+    "whyNot": []
+   }
+  ],
+  "alsoAtWork": [
+   "1.1.66: a word in the 7th case names what must FOLLOW — so we read “… परे” — दृक्-दृश-वतुषु: 7th case → names what FOLLOWS — the operation is on what precedes it",
+   "1.1.49: a word in the 6th case in a rule names WHAT IS REPLACED — so we read “… स्थाने” — ?: 6th case → names the place — the thing replaced (“स्थाने”)"
+  ],
+  "notes": [],
+  "teachingNote": "",
+  "paribhashaList": [
+   "1.3.11 ✔ carried in from the sūtras named",
+   "1.1.66 ✔ names what FOLLOWS — the operation is on what precedes it",
+   "1.1.49 ✔ names the place — the thing replaced (“स्थाने”)",
+   "1.1.55 ✔ a multi-sound / śit replacement replaces the whole — “अनेकाल्शित्सर्वस्य”",
+   "1.1.56 ↪ applies later, in the derivation — not a step in reading this sūtra (Kāśikā on 1.1.56: “स्थानिवदादेशो भवति स्थान्याश्रये"
+  ]
+ },
+ "6.3.131": {
+  "sutra": "मन्त्रे सोमाश्वेन्द्रियविश्वदेव्यस्य मतौ",
+  "kind": "operation",
+  "vrtti": {
+   "classStyle": "मन्त्रे विषये मतौ प्रत्यये परे सोम अश्व इन्द्रिय विश्वदेव्य इत्येतेषाम् स्थाने दीर्घः आदेशः भवति",
+   "kasikaStyle": "मन्त्रे विषये मतौ प्रत्यये परे सोम अश्व इन्द्रिय विश्वदेव्य इत्येतेषां स्थाने दीर्घ आदेशो भवति",
+   "kaumudiStyle": "मन्त्रे विषये मतौ प्रत्यये परे सोमाश्वेन्द्रिय विश्वदेव्येत्येतेषां स्थाने दीर्घ आदेशः स्यात्"
+  },
+  "padaccheda": "मन्त्रे (71) सोम-अश्व-इन्द्रिय-विश्वदेव्यस्य (61) मतौ (71)",
+  "steps": [
+   {
+    "rules": [],
+    "what": "the sūtra’s own words",
+    "now": "मन्त्रे सोम अश्व इन्द्रिय विश्वदेव्यस्य मतौ"
+   },
+   {
+    "rules": [],
+    "what": "मन्त्रे → the domain: “मन्त्रे विषये” (read from its case) · प्रथमावृत्तिः: “मन्त्रविषये” — 1.1.66 not applicable: names a domain, not what follows",
+    "now": "मन्त्रे विषये सोम अश्व इन्द्रिय विश्वदेव्यस्य मतौ"
+   },
+   {
+    "rules": [
+     "1.1.66"
+    ],
+    "what": "मतौ → what follows: “मतौ प्रत्यये परतः” (read from its case) · प्रथमावृत्तिः: “मतुप् प्रत्यये परतो”",
+    "now": "मन्त्रे विषये सोम अश्व इन्द्रिय विश्वदेव्यस्य मतौ प्रत्यये परतः"
+   },
+   {
+    "rules": [],
+    "what": "सोम-अश्व-इन्द्रिय-विश्वदेव्यस्य → what is replaced: “सोम अश्व इन्द्रिय विश्वदेव्य इत्येतेषाम्” (read from its case) · प्रथमावृत्तिः: “सोम, अश्व, इन्द्रिय, विश्वदेव्य इत्येतेषां”",
+    "now": "मन्त्रे विषये सोम अश्व इन्द्रिय विश्वदेव्य इत्येतेषाम् मतौ प्रत्यये परतः"
+   },
+   {
+    "rules": [
+     "1.3.11",
+     "1.2.28"
+    ],
+    "what": "दीर्घः (carried from 6.3.111) → the substitute: “दीर्घः” (carried in) · प्रथमावृत्तिः: “दीर्घो भवति”",
+    "now": "मन्त्रे विषये सोम अश्व इन्द्रिय विश्वदेव्य इत्येतेषाम् मतौ प्रत्यये परतः दीर्घः"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "संहितायाम् (carried from 6.3.114) → heading: “संहितायाम्” (carried in) · प्रथमावृत्तिः: “संहितायाम्” — also: दीर्घः, उत्तरपदे, संहितायाम् → carried in from the sūtras named",
+    "now": "मन्त्रे विषये सोम अश्व इन्द्रिय विश्वदेव्य इत्येतेषाम् मतौ प्रत्यये परतः दीर्घः संहितायाम्"
+   },
+   {
+    "rules": [
+     "1.1.49"
+    ],
+    "what": "the place is named in the 6th → the operation replaces it (“स्थाने”, often left unsaid in the gloss)",
+    "now": "मन्त्रे विषये सोम अश्व इन्द्रिय विश्वदेव्य इत्येतेषाम् मतौ प्रत्यये परतः दीर्घः संहितायाम्"
+   },
+   {
+    "rules": [],
+    "what": "assemble in prose order, everything spelled out (class style)",
+    "now": "मन्त्रे विषये मतौ प्रत्यये परे सोम अश्व इन्द्रिय विश्वदेव्य इत्येतेषाम् स्थाने दीर्घः आदेशः भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kāśikā style: leave out what is implied (परः च), apply sandhi",
+    "now": "मन्त्रे विषये मतौ प्रत्यये परे सोम अश्व इन्द्रिय विश्वदेव्य इत्येतेषां स्थाने दीर्घ आदेशो भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kaumudī style: स्यात् / स्युः for भवति",
+    "now": "मन्त्रे विषये मतौ प्रत्यये परे सोमाश्वेन्द्रिय विश्वदेव्येत्येतेषां स्थाने दीर्घ आदेशः स्यात्"
+   }
+  ],
+  "cards": [
+   {
+    "question": "अधिकारः / heading for the sūtras that follow",
+    "word": "संहितायाम्",
+    "answer": "संहितायाम्",
+    "why": [
+     "1.3.11: runs on from 6.3.114 (anuvṛtti)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "किम् आदेशः? / what comes in its place?",
+    "word": "दीर्घः",
+    "answer": "दीर्घः",
+    "why": [
+     "1.3.11: runs on from 6.3.111 (anuvṛtti)",
+     "1.2.28: दीर्घ is taught by its own name, so it falls only on a vowel (अचः) — काशिका on 1.2.28: “ह्रस्वदीर्घप्लुताः स्वसंज्ञया शिष्यमाणा अच एव स्थाने वेदितव्याः”"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्य स्थाने? / what is replaced / operated on?",
+    "word": "सोमाश्वेन्द्रियविश्वदेव्यस्य",
+    "answer": "सोम अश्व इन्द्रिय विश्वदेव्य इत्येतेषाम्",
+    "why": [],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मिन् परे? / when what follows?",
+    "word": "मतौ",
+    "answer": "मतौ प्रत्यये परतः",
+    "why": [
+     "1.1.66: A 7th-case word naming a following sound, suffix or word (“… परे”) puts the operation on what comes immediately before it. Not a 7th naming a meaning or domain (आर्धधातुके as ‘in its sphere’); if the rule also has a 5th, the 5th wins. (Bhāṣya: “शब्दे सप्तम्या निर्दिष्टे पूर्वस्य कार्यं यथा स्यात्। अर्थे मा भूत्।”)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कुत्र? / in which domain?",
+    "word": "मन्त्रे",
+    "answer": "मन्त्रे विषये",
+    "why": [
+     "a 7th-case word naming the setting — “in X” (not “when X follows”)"
+    ],
+    "whyNot": [
+     "1.1.66 names a domain, not what follows"
+    ]
+   }
+  ],
+  "alsoAtWork": [
+   "1.1.49: a word in the 6th case in a rule names WHAT IS REPLACED — so we read “… स्थाने” — the place is named in the 6th → the operation replaces it (“स्थाने”, often left unsaid in the gloss)"
+  ],
+  "notes": [],
+  "teachingNote": "",
+  "paribhashaList": [
+   "1.3.11 ✔ carried in from the sūtras named",
+   "1.1.66 ✔ names what FOLLOWS — the operation is on what precedes it",
+   "1.1.49 ✔ the operation replaces it (“स्थाने”, often left unsaid in the gloss)",
+   "1.1.66 ✖ not “what follows” — it names the domain in which the rule holds",
+   "1.2.28 ✔ it falls only on a vowel — “अचः” is understood",
+   "1.1.50 ✔ The sūtra prescribes दीर्घ (a class: ā ī ū ṝ …) for a vowel; with 1.2.28 the long vowel nearest to the sthānin by place "
+  ]
+ },
+ "7.2.35": {
+  "sutra": "आर्धधातुकस्येड् वलादेः",
+  "kind": "āgama",
+  "vrtti": {
+   "classStyle": "वलादेः आर्धधातुकस्य इट् आगमः भवति",
+   "kasikaStyle": "वलादेरार्धधातुकस्येडागमो भवति",
+   "kaumudiStyle": "वलादेरार्धधातुकस्येडागमः स्यात्"
+  },
+  "padaccheda": "आर्धधातुकस्य (61) इट् (11) वलादेः (61)",
+  "steps": [
+   {
+    "rules": [],
+    "what": "the sūtra’s own words",
+    "now": "आर्धधातुकस्य इट् वलादेः"
+   },
+   {
+    "rules": [
+     "1.1.46"
+    ],
+    "what": "आर्धधातुकस्य: not so (1.1.49) — An augment rule: the 6th names the host the augment attaches to; nothing is replaced. · काशिका: “आर्धधातुकस्य वलादेरिडागमो भवति”",
+    "now": "आर्धधातुकस्य इट् वलादेः"
+   },
+   {
+    "rules": [
+     "1.1.46"
+    ],
+    "what": "इट् → the augment: “इट् आगमः” (read from its case) — also: इट्: ṭit augment → it goes at the BEGINNING of आर्धधातुकस्य",
+    "now": "आर्धधातुकस्य इट् आगमः वलादेः"
+   },
+   {
+    "rules": [],
+    "what": "वलादेः → describes: “वलादेः” (what begins with it) · काशिका: “वलादेरिडागमो भवति” — 1.1.49 not applicable: not the place (a qualifier)",
+    "now": "आर्धधातुकस्य इट् आगमः वलादेः"
+   },
+   {
+    "rules": [
+     "1.4.13",
+     "1.3.11"
+    ],
+    "what": "अङ्गस्य: not so (1.1.49) — An augment rule: the 6th names the host the augment attaches to; nothing is replaced. — also: अङ्गस्य → carried in from the sūtras named — corrected by the audit: Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य as an apposition of the suffix/soun",
+    "now": "आर्धधातुकस्य इट् आगमः वलादेः अङ्गस्य"
+   },
+   {
+    "rules": [],
+    "what": "assemble in prose order, everything spelled out (class style)",
+    "now": "वलादेः आर्धधातुकस्य इट् आगमः भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kāśikā style: leave out what is implied (परः च), apply sandhi",
+    "now": "वलादेरार्धधातुकस्येडागमो भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kaumudī style: स्यात् / स्युः for भवति",
+    "now": "वलादेरार्धधातुकस्येडागमः स्यात्"
+   }
+  ],
+  "cards": [
+   {
+    "question": "कः आगमः? / which augment is added?",
+    "word": "इट्",
+    "answer": "इट् आगमः",
+    "why": [
+     "the augment stands in the 1st case",
+     "1.1.46: a टित् augment goes at the BEGINNING, a कित् one at the END — it goes at the BEGINNING of आर्धधातुकस्य"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्य आगमः? / which element receives the augment?",
+    "word": "अङ्गस्य",
+    "answer": "अङ्गस्य",
+    "why": [
+     "1.3.11: runs on from 6.4.1 (anuvṛtti)",
+     "1.4.13: What a suffix was introduced after — a dhātu or prātipadika, with any vikaraṇa or augment added to it — is the aṅga of that suffix. The अङ्गस्य heading (6.4.1) runs to the end of book 7; it names the base, not necessarily the part that changes. (Kāśikā: “यस्मात् प्रत्ययो विधीयते … प्रत्यये परतोऽङ्गसंज्ञं भवति।”)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्य आगमः? / which element receives the augment?",
+    "word": "आर्धधातुकस्य",
+    "answer": "आर्धधातुकस्य",
+    "why": [],
+    "whyNot": []
+   },
+   {
+    "question": "कीदृशम्? / which one exactly?",
+    "word": "वलादेः",
+    "answer": "वलादेः",
+    "why": [],
+    "whyNot": [
+     "1.1.49 not the place (a qualifier)"
+    ]
+   }
+  ],
+  "alsoAtWork": [],
+  "notes": [
+   "अङ्गस्य is the whole, not apposed to the sound/suffix replaced (paribhāṣā audit, 1.4.13; Kāśikā: “आर्धधातुकस्य वलादेरिडागमो भवति।…”)"
+  ],
+  "teachingNote": "",
+  "paribhashaList": [
+   "1.3.11 ✔ carried in from the sūtras named",
+   "1.1.46 ✔ it goes at the BEGINNING of आर्धधातुकस्य",
+   "1.4.13 ✔ corrected by the paribhāṣā audit: Credit licensed (6.4.1 adhikāra in force), but our vṛtti renders the carried अङ्गस्य a"
+  ]
+ },
+ "7.3.32": {
+  "sutra": "हनस्तोऽचिण्णलोः",
+  "kind": "ādeśa",
+  "vrtti": {
+   "classStyle": "चिण्-णल्-वर्जिते ञिति णिति च प्रत्यये परे हन्-धातोः अङ्गस्य स्थाने तकारादेशः भवति",
+   "kasikaStyle": "चिण्-णल्-वर्जिते ञिति णिति च प्रत्यये परे हन्-धातोरङ्गस्य स्थाने तकारादेशो भवति",
+   "kaumudiStyle": "चिण्-णल्-वर्जिते ञिति णिति च प्रत्यये परे हन्-धातोरङ्गस्य स्थाने तकारादेशः स्यात्"
+  },
+  "padaccheda": "हनः (61) तः (11) अचिण्णलोः (72)",
+  "steps": [
+   {
+    "rules": [],
+    "what": "the sūtra’s own words",
+    "now": "हनः तः अचिण्णलोः"
+   },
+   {
+    "rules": [
+     "1.1.49"
+    ],
+    "what": "हनः → what is replaced: “हन्-धातोः” (read from its case) · प्रथमावृत्तिः: “हनस्तकारादेशो भवति” — also: त् replaces हनः → the replacement is treated like what it replaced (e.g. a तिङ् replacing a तिङ् is still तिङ् )",
+    "now": "हन्-धातोः तः अचिण्णलोः"
+   },
+   {
+    "rules": [],
+    "what": "तः → the substitute: “तकारादेशः” (read from its case) · प्रथमावृत्तिः: “तकारादेशो भवति”",
+    "now": "हन्-धातोः तकारादेशः अचिण्णलोः"
+   },
+   {
+    "rules": [],
+    "what": "अचिण्णलोः → describes: “चिण्-णल्-वर्जिते” (read from its case) · प्रथमावृत्तिः: “चिण्णलौ वर्जयित्वा” — 1.1.66 not applicable: names a qualification, not what follows",
+    "now": "हन्-धातोः तकारादेशः चिण्-णल्-वर्जिते"
+   },
+   {
+    "rules": [
+     "1.1.66",
+     "1.3.11"
+    ],
+    "what": "ञ्णिति (carried from 7.2.115) → what follows: “ञिति णिति च प्रत्यये परतः” (carried in) · प्रथमावृत्तिः: “ञिति णिति च प्रत्यये परतः”",
+    "now": "हन्-धातोः तकारादेशः चिण्-णल्-वर्जिते ञिति णिति च प्रत्यये परतः"
+   },
+   {
+    "rules": [
+     "1.4.13",
+     "1.3.11"
+    ],
+    "what": "अङ्गस्य (carried from 6.4.1) → what is replaced: “अङ्गस्य” (carried in) — also: वृद्धिः, ञ्णिति, अङ्गस्य → carried in from the sūtras named",
+    "now": "हन्-धातोः तकारादेशः चिण्-णल्-वर्जिते ञिति णिति च प्रत्यये परतः अङ्गस्य"
+   },
+   {
+    "rules": [
+     "1.1.52"
+    ],
+    "what": "त्: a single sound → it replaces the LAST sound",
+    "now": "हन्-धातोः तकारादेशः चिण्-णल्-वर्जिते ञिति णिति च प्रत्यये परतः अङ्गस्य"
+   },
+   {
+    "rules": [],
+    "what": "हन्: the dhātu हनँ हिंसागत्योः (gaṇa 2) → a dhātu may be named by its इक् or श्तिप् form (इक्श्तिपौ धातुनिर्देशे); the vṛtti names it by the श्तिप् form हन्ति → हन्तेः",
+    "now": "हन्-धातोः तकारादेशः चिण्-णल्-वर्जिते ञिति णिति च प्रत्यये परतः अङ्गस्य"
+   },
+   {
+    "rules": [],
+    "what": "assemble in prose order, everything spelled out (class style)",
+    "now": "चिण्-णल्-वर्जिते ञिति णिति च प्रत्यये परे हन्-धातोः अङ्गस्य स्थाने तकारादेशः भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kāśikā style: leave out what is implied (परः च), apply sandhi",
+    "now": "चिण्-णल्-वर्जिते ञिति णिति च प्रत्यये परे हन्-धातोरङ्गस्य स्थाने तकारादेशो भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kaumudī style: स्यात् / स्युः for भवति",
+    "now": "चिण्-णल्-वर्जिते ञिति णिति च प्रत्यये परे हन्-धातोरङ्गस्य स्थाने तकारादेशः स्यात्"
+   }
+  ],
+  "cards": [
+   {
+    "question": "किम् आदेशः? / what comes in its place?",
+    "word": "तः",
+    "answer": "तकारादेशः",
+    "why": [
+     "the substitute stands in the 1st case — Mahābhāṣya on 1.1.57: “आदेशः प्रथमानिर्दिष्टः”"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "किम् अङ्गम्? / on which stem (aṅga) does it operate?",
+    "word": "अङ्गस्य",
+    "answer": "अङ्गस्य",
+    "why": [
+     "1.3.11: runs on from 6.4.1 (anuvṛtti)",
+     "1.4.13: What a suffix was introduced after — a dhātu or prātipadika, with any vikaraṇa or augment added to it — is the aṅga of that suffix. The अङ्गस्य heading (6.4.1) runs to the end of book 7; it names the base, not necessarily the part that changes. (Kāśikā: “यस्मात् प्रत्ययो विधीयते … प्रत्यये परतोऽङ्गसंज्ञं भवति।”)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्य स्थाने? / what is replaced / operated on?",
+    "word": "हनः",
+    "answer": "हन्-धातोः",
+    "why": [
+     "1.1.49: Where a rule teaches a substitute, a 6th-case word whose link is otherwise unclear names what is replaced (“… स्थाने”). Not in augment rules (the 6th is the host), not where another word names the part replaced (उपधायाः, एचः), not where no substitute is taught. (Bhāṣya: “सन्देहे नियमः।”)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मिन् परे? / when what follows?",
+    "word": "ञ्णिति",
+    "answer": "ञिति णिति च प्रत्यये परतः",
+    "why": [
+     "1.3.11: runs on from 7.2.115 (anuvṛtti)",
+     "1.1.66: A 7th-case word naming a following sound, suffix or word (“… परे”) puts the operation on what comes immediately before it. Not a 7th naming a meaning or domain (आर्धधातुके as ‘in its sphere’); if the rule also has a 5th, the 5th wins. (Bhāṣya: “शब्दे सप्तम्या निर्दिष्टे पूर्वस्य कार्यं यथा स्यात्। अर्थे मा भूत्।”)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कीदृशम्? / which one exactly?",
+    "word": "अचिण्णलोः",
+    "answer": "चिण्-णल्-वर्जिते",
+    "why": [
+     "it describes another word of the rule"
+    ],
+    "whyNot": [
+     "1.1.66 names a qualification, not what follows"
+    ]
+   }
+  ],
+  "alsoAtWork": [
+   "1.1.52: a substitute replaces only the LAST sound — त्: a single sound → it replaces the LAST sound"
+  ],
+  "notes": [],
+  "teachingNote": "",
+  "paribhashaList": [
+   "1.3.11 ✔ carried in from the sūtras named",
+   "1.1.66 ✔ names what FOLLOWS — the operation is on what precedes it",
+   "1.1.66 ✔ names what FOLLOWS — the operation is on what precedes it",
+   "1.1.49 ✔ names the place — the thing replaced (“स्थाने”)",
+   "1.1.52 ✔ it replaces the LAST sound",
+   "1.1.56 ↪ applies later, in the derivation — not a step in reading this sūtra (Kāśikā on 1.1.56: “स्थानिवदादेशो भवति स्थान्याश्रये",
+   "1.4.13 ✔ the aṅga = what the suffix was introduced after, together with whatever begins it, when that suffix follows"
+  ]
+ },
+ "7.3.81": {
+  "sutra": "मीनातेर्निगमे",
+  "kind": "operation",
+  "vrtti": {
+   "classStyle": "निगमे विषये शिति प्रत्यये परे अङ्गस्य मीनातेः धातोः स्थाने ह्रस्वः आदेशः भवति",
+   "kasikaStyle": "निगमे विषये शिति प्रत्यये परेऽङ्गस्य मीनातेर्धातोः स्थाने ह्रस्व आदेशो भवति",
+   "kaumudiStyle": "निगमे विषये शिति प्रत्यये परेऽङ्गस्य मीनातेर्धातोः स्थाने ह्रस्व आदेशः स्यात्"
+  },
+  "padaccheda": "मीनातेः (61) निगमे (71)",
+  "steps": [
+   {
+    "rules": [],
+    "what": "the sūtra’s own words",
+    "now": "मीनातेः निगमे"
+   },
+   {
+    "rules": [
+     "1.1.49",
+     "3.3.108 vt.2"
+    ],
+    "what": "मीनातेः → what is replaced: “मीनातेः धातोः स्थाने” (read from its case) · प्रथमावृत्तिः: “मीनातेरङ्गस्य” — also: मीनातेः: dhātu named in its श्तिप् form → = the dhātu मी",
+    "now": "मीनातेः धातोः स्थाने निगमे"
+   },
+   {
+    "rules": [],
+    "what": "निगमे → the domain: “निगमे विषये” (read from its case) · प्रथमावृत्तिः: “निगमे विषये” — 1.1.66 not applicable: names a domain, not what follows",
+    "now": "मीनातेः धातोः स्थाने निगमे विषये"
+   },
+   {
+    "rules": [
+     "1.4.13",
+     "1.3.11"
+    ],
+    "what": "अङ्गस्य (carried from 6.4.1) → describes: “अङ्गस्य” (carried in) · प्रथमावृत्तिः: “मीनातेरङ्गस्य”",
+    "now": "मीनातेः धातोः स्थाने निगमे विषये अङ्गस्य"
+   },
+   {
+    "rules": [
+     "1.3.11",
+     "1.2.28"
+    ],
+    "what": "ह्रस्वः (carried from 7.3.80) → the substitute: “ह्रस्वः आदेशः” (carried in) · प्रथमावृत्तिः: “ह्रस्वो भवति”",
+    "now": "मीनातेः धातोः स्थाने निगमे विषये अङ्गस्य ह्रस्वः आदेशः"
+   },
+   {
+    "rules": [
+     "1.1.66",
+     "1.3.11"
+    ],
+    "what": "शिति (carried from 7.3.75) → what follows: “शिति प्रत्यये परे” (carried in) · प्रथमावृत्तिः: “शिति प्रत्यये परतो” — also: शिति, ह्रस्वः, अङ्गस्य → carried in from the sūtras named",
+    "now": "मीनातेः धातोः स्थाने निगमे विषये अङ्गस्य ह्रस्वः आदेशः शिति प्रत्यये परे"
+   },
+   {
+    "rules": [
+     "1.1.52"
+    ],
+    "what": "the place is a whole aṅga/dhātu and the replacement is one sound → it replaces the LAST sound → अन्त्यस्य अलः",
+    "now": "मीनातेः धातोः स्थाने निगमे विषये अङ्गस्य ह्रस्वः आदेशः शिति प्रत्यये परे"
+   },
+   {
+    "rules": [],
+    "what": "assemble in prose order, everything spelled out (class style)",
+    "now": "निगमे विषये शिति प्रत्यये परे अङ्गस्य मीनातेः धातोः स्थाने ह्रस्वः आदेशः भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kāśikā style: leave out what is implied (परः च), apply sandhi",
+    "now": "निगमे विषये शिति प्रत्यये परेऽङ्गस्य मीनातेर्धातोः स्थाने ह्रस्व आदेशो भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kaumudī style: स्यात् / स्युः for भवति",
+    "now": "निगमे विषये शिति प्रत्यये परेऽङ्गस्य मीनातेर्धातोः स्थाने ह्रस्व आदेशः स्यात्"
+   }
+  ],
+  "cards": [
+   {
+    "question": "किम् आदेशः? / what comes in its place?",
+    "word": "ह्रस्वः",
+    "answer": "ह्रस्वः आदेशः",
+    "why": [
+     "1.3.11: runs on from 7.3.80 (anuvṛtti)",
+     "1.2.28: ह्रस्व is taught by its own name, so it falls only on a vowel (अचः) — काशिका on 1.2.28: “ह्रस्वदीर्घप्लुताः स्वसंज्ञया शिष्यमाणा अच एव स्थाने वेदितव्याः”"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्य स्थाने? / what is replaced / operated on?",
+    "word": "मीनातेः",
+    "answer": "मीनातेः धातोः स्थाने",
+    "why": [
+     "1.1.49: Where a rule teaches a substitute, a 6th-case word whose link is otherwise unclear names what is replaced (“… स्थाने”). Not in augment rules (the 6th is the host), not where another word names the part replaced (उपधायाः, एचः), not where no substitute is taught. (Bhāṣya: “सन्देहे नियमः।”)",
+     "3.3.108 vt.2: मीनातेः: dhātu named in its श्तिप् form → = the dhātu मी"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मिन् परे? / when what follows?",
+    "word": "शिति",
+    "answer": "शिति प्रत्यये परे",
+    "why": [
+     "1.3.11: runs on from 7.3.75 (anuvṛtti)",
+     "1.1.66: A 7th-case word naming a following sound, suffix or word (“… परे”) puts the operation on what comes immediately before it. Not a 7th naming a meaning or domain (आर्धधातुके as ‘in its sphere’); if the rule also has a 5th, the 5th wins. (Bhāṣya: “शब्दे सप्तम्या निर्दिष्टे पूर्वस्य कार्यं यथा स्यात्। अर्थे मा भूत्।”)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कुत्र? / in which domain?",
+    "word": "निगमे",
+    "answer": "निगमे विषये",
+    "why": [
+     "a 7th-case word naming the setting — “in X” (not “when X follows”)"
+    ],
+    "whyNot": [
+     "1.1.66 names a domain, not what follows"
+    ]
+   },
+   {
+    "question": "कीदृशम्? / which one exactly?",
+    "word": "अङ्गस्य",
+    "answer": "अङ्गस्य",
+    "why": [
+     "1.3.11: runs on from 6.4.1 (anuvṛtti)",
+     "1.4.13: What a suffix was introduced after — a dhātu or prātipadika, with any vikaraṇa or augment added to it — is the aṅga of that suffix. The अङ्गस्य heading (6.4.1) runs to the end of book 7; it names the base, not necessarily the part that changes. (Kāśikā: “यस्मात् प्रत्ययो विधीयते … प्रत्यये परतोऽङ्गसंज्ञं भवति।”)"
+    ],
+    "whyNot": []
+   }
+  ],
+  "alsoAtWork": [
+   "1.1.52: a substitute replaces only the LAST sound — the place is a whole aṅga/dhātu and the replacement is one sound → it replaces the LAST sound → अन्त्यस्य अलः"
+  ],
+  "notes": [],
+  "teachingNote": "",
+  "paribhashaList": [
+   "1.3.11 ✔ carried in from the sūtras named",
+   "1.1.66 ✔ names what FOLLOWS — the operation is on what precedes it",
+   "3.3.108 vt.2 ✔ = the dhātu मी",
+   "1.1.52 ✔ it replaces the LAST sound → अन्त्यस्य अलः",
+   "1.1.49 ✔ the operation replaces it (“स्थाने”, often left unsaid in the gloss)",
+   "1.4.13 ✔ the aṅga = what the suffix was introduced after, together with whatever begins it, when that suffix follows",
+   "1.2.28 ✔ it falls only on a vowel — “अचः” is understood",
+   "1.1.50 ✔ The sūtra prescribes ह्रस्व (a class: a i u ṛ ḷ) for a vowel; the short vowel nearest to the sthānin is chosen by 1.1.50"
+  ]
+ },
+ "8.1.60": {
+  "sutra": "हेति क्षियायाम्",
+  "kind": "svara",
+  "vrtti": {
+   "classStyle": "ह इत्यनेन युक्ता प्रथमा तिङ् क्षियायां गम्यमानायाम् अनुदात्तम् न भवति",
+   "kasikaStyle": "हेत्यनेन युक्ता प्रथमा तिङ् क्षियायां गम्यमानायामनुदात्तं न भवति",
+   "kaumudiStyle": "हेत्यनेन युक्ता प्रथमा तिङ् क्षियायां गम्यमानायामनुदात्तं न स्यात्"
+  },
+  "padaccheda": "ह (अव्ययम्) इति (अव्ययम्) क्षियायाम् (71)",
+  "steps": [
+   {
+    "rules": [],
+    "what": "the sūtra’s own words",
+    "now": "ह इति क्षियायाम्"
+   },
+   {
+    "rules": [],
+    "what": "ह → describes: “ह इत्यनेन युक्ता” (settled by the commentary) · प्रथमावृत्तिः: “ह इत्यनेन युक्ता”",
+    "now": "ह इत्यनेन युक्ता इति क्षियायाम्"
+   },
+   {
+    "rules": [],
+    "what": "इति: a particle — it joins the parts; the vṛtti does not need it as a word",
+    "now": "ह इत्यनेन युक्ता क्षियायाम्"
+   },
+   {
+    "rules": [],
+    "what": "क्षियायाम् → the meaning: “क्षियायां गम्यमानायाम्” (read from its case) · प्रथमावृत्तिः: “क्षियायां गम्यमानायाम्” — 1.1.66 not applicable: names a meaning, not what follows — also: क्षियायाम्: 7th case → names what FOLLOWS — the rule is on what precedes it",
+    "now": "ह इत्यनेन युक्ता क्षियायां गम्यमानायाम्"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "प्रथमा (carried from 8.1.59) → describes: “प्रथमा” (carried in) · काशिका: “प्रथमा तिङ्विभक्तिर्नानुदात्ता”",
+    "now": "ह इत्यनेन युक्ता क्षियायां गम्यमानायाम् प्रथमा"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "तिङ्: not so (1.1.49) — 1.1.49 does not operate here (paribhāṣā audit) · प्रथमावृत्तिः: “तिङ्विभक्तिर्नानुदात्ता”",
+    "now": "ह इत्यनेन युक्ता क्षियायां गम्यमानायाम् प्रथमा तिङ्"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "न (carried from 8.1.29) → negation: “न” (carried in) · प्रथमावृत्तिः: “नानुदात्ता भवति” — also: तिङ्, न, प्रथमा, पदस्य, पदात्, अनुदात्तं सर्वमापादादौ → carried in from the sūtras named",
+    "now": "ह इत्यनेन युक्ता क्षियायां गम्यमानायाम् प्रथमा तिङ् न"
+   },
+   {
+    "rules": [],
+    "what": "अनुदात्तम् (carried from 8.1.18) → the accent: “अनुदात्तम्” (carried in) · प्रथमावृत्तिः: “नानुदात्ता भवति”",
+    "now": "ह इत्यनेन युक्ता क्षियायां गम्यमानायाम् प्रथमा तिङ् न अनुदात्तम्"
+   },
+   {
+    "rules": [],
+    "what": "assemble in prose order, everything spelled out (class style)",
+    "now": "ह इत्यनेन युक्ता प्रथमा तिङ् क्षियायां गम्यमानायाम् अनुदात्तम् न भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kāśikā style: leave out what is implied (परः च), apply sandhi",
+    "now": "हेत्यनेन युक्ता प्रथमा तिङ् क्षियायां गम्यमानायामनुदात्तं न भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kaumudī style: स्यात् / स्युः for भवति",
+    "now": "हेत्यनेन युक्ता प्रथमा तिङ् क्षियायां गम्यमानायामनुदात्तं न स्यात्"
+   }
+  ],
+  "cards": [
+   {
+    "question": "निषेधः / what is blocked?",
+    "word": "न",
+    "answer": "न",
+    "why": [
+     "1.3.11: runs on from 8.1.29 (anuvṛtti)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कः स्वरः? / which accent?",
+    "word": "अनुदात्तम्",
+    "answer": "अनुदात्तम्",
+    "why": [
+     "1.3.11: runs on from 8.1.18 (anuvṛtti)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्य स्थाने? / what is replaced / operated on?",
+    "word": "तिङ्",
+    "answer": "तिङ्",
+    "why": [
+     "1.3.11: runs on from 8.1.28 (anuvṛtti)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मिन् अर्थे? / in which meaning?",
+    "word": "क्षियायाम्",
+    "answer": "क्षियायां गम्यमानायाम्",
+    "why": [
+     "the case names the meaning — “in the sense of X”"
+    ],
+    "whyNot": [
+     "1.1.66 names a meaning, not what follows"
+    ]
+   },
+   {
+    "question": "कीदृशम्? / which one exactly?",
+    "word": "प्रथमा",
+    "answer": "प्रथमा",
+    "why": [
+     "1.3.11: runs on from 8.1.59 (anuvṛtti)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कीदृशम्? / which one exactly?",
+    "word": "ह",
+    "answer": "ह इत्यनेन युक्ता",
+    "why": [
+     "as the प्रथमावृत्तिः reads it"
+    ],
+    "whyNot": []
+   }
+  ],
+  "alsoAtWork": [],
+  "notes": [],
+  "teachingNote": "",
+  "paribhashaList": [
+   "1.3.11 ✔ carried in from the sūtras named"
+  ]
+ },
+ "8.3.4": {
+  "sutra": "अनुनासिकात् परोऽनुस्वारः",
+  "kind": "ādeśa",
+  "vrtti": {
+   "classStyle": "संहितायां विषये अनुनासिकाद् अन्यात् रोः पूर्वस्मात् परे परः अनुस्वारः आगमः भवति",
+   "kasikaStyle": "संहितायां विषयेऽनुनासिकादन्याद् रोः पूर्वस्मात् परे परोऽनुस्वार आगमो भवति",
+   "kaumudiStyle": "संहितायां विषयेऽनुनासिकादन्याद् रोः पूर्वस्मात् परे परोऽनुस्वार आगमः स्यात्"
+  },
+  "padaccheda": "अनुनासिकात् (51) परः (11) अनुस्वारः (11)",
+  "steps": [
+   {
+    "rules": [],
+    "what": "the sūtra’s own words",
+    "now": "अनुनासिकात् परः अनुस्वारः"
+   },
+   {
+    "rules": [],
+    "what": "अनुनासिकात् → what it comes after: “अनुनासिकाद् अन्यात् रोः पूर्वस्मात् परतः” (settled by the commentary) · काशिका: “अनुनासिकादन्यो यो वर्णो रोः पूर्वः”",
+    "now": "अनुनासिकाद् अन्यात् रोः पूर्वस्मात् परतः परः अनुस्वारः"
+   },
+   {
+    "rules": [],
+    "what": "परः → also said: “परः” (read from its case) · काशिका: “ततः परोऽनुस्वार आगमो भवति”",
+    "now": "अनुनासिकाद् अन्यात् रोः पूर्वस्मात् परतः परः अनुस्वारः"
+   },
+   {
+    "rules": [],
+    "what": "अनुस्वारः → the augment: “अनुस्वारः आगमः” (settled by the commentary) · काशिका: “परोऽनुस्वार आगमो भवति”",
+    "now": "अनुनासिकाद् अन्यात् रोः पूर्वस्मात् परतः परः अनुस्वारः आगमः"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "संहितायाम् (carried from 8.2.108) → the domain: “संहितायां विषये” (carried in) · प्रथमावृत्तिः: “संहितायां विषये” — also: रु, पदस्य, पूर्वत्रासिद्धम्, संहितायाम्, अत्रानुनासिकः पूर्वस्य तु वा → carried in from the sūtras named",
+    "now": "अनुनासिकाद् अन्यात् रोः पूर्वस्मात् परतः परः अनुस्वारः आगमः संहितायां विषये"
+   },
+   {
+    "rules": [],
+    "what": "पदस्य: not so (1.1.49) — An augment rule: the 6th names the host the augment attaches to; nothing is replaced.",
+    "now": "अनुनासिकाद् अन्यात् रोः पूर्वस्मात् परतः परः अनुस्वारः आगमः संहितायां विषये"
+   },
+   {
+    "rules": [],
+    "what": "परा: not so (1.1.55) — Prescribes anusvāra as an augment (\"अनुस्वार आगमो भवति\"); augments take no 1.1.52/1.1.55.",
+    "now": "अनुनासिकाद् अन्यात् रोः पूर्वस्मात् परतः परः अनुस्वारः आगमः संहितायां विषये"
+   },
+   {
+    "rules": [],
+    "what": "परा: not so (1.1.56) — Not a substitution rule at all — the engine's 'X replaces Y' reading is a misparse: the sūtra adds an āgama, introduces a pratyaya or a number/gender/case, is a nipātana, keeps the form unchanged (…",
+    "now": "अनुनासिकाद् अन्यात् रोः पूर्वस्मात् परतः परः अनुस्वारः आगमः संहितायां विषये"
+   },
+   {
+    "rules": [],
+    "what": "assemble in prose order, everything spelled out (class style)",
+    "now": "संहितायां विषये अनुनासिकाद् अन्यात् रोः पूर्वस्मात् परे परः अनुस्वारः आगमः भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kāśikā style: leave out what is implied (परः च), apply sandhi",
+    "now": "संहितायां विषयेऽनुनासिकादन्याद् रोः पूर्वस्मात् परे परोऽनुस्वार आगमो भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kaumudī style: स्यात् / स्युः for भवति",
+    "now": "संहितायां विषयेऽनुनासिकादन्याद् रोः पूर्वस्मात् परे परोऽनुस्वार आगमः स्यात्"
+   }
+  ],
+  "cards": [
+   {
+    "question": "कः आगमः? / which augment is added?",
+    "word": "अनुस्वारः",
+    "answer": "अनुस्वारः आगमः",
+    "why": [
+     "as the काशिका reads it"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मात् परस्य? / what does it come after?",
+    "word": "अनुनासिकात्",
+    "answer": "अनुनासिकाद् अन्यात् रोः पूर्वस्मात् परतः",
+    "why": [
+     "as the काशिका reads it"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कुत्र? / in which domain?",
+    "word": "संहितायाम्",
+    "answer": "संहितायां विषये",
+    "why": [
+     "1.3.11: runs on from 8.2.108 (anuvṛtti)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "also said",
+    "word": "परः",
+    "answer": "परः",
+    "why": [],
+    "whyNot": []
+   }
+  ],
+  "alsoAtWork": [
+   "8.2.1: this rule is in the tripādī: for every rule before it, it counts as not having applied — काशिका on 8.2.1: “इत उत्तरं चोत्तर उत्तरो योगः पूर्वत्रपूर्वत्रासिद्धो भवति, असिद्धवद् भवति। सिद्धकार्यं न करोतीत्यर्थः”"
+  ],
+  "notes": [],
+  "teachingNote": "",
+  "paribhashaList": [
+   "1.3.11 ✔ carried in from the sūtras named",
+   "1.1.66 ✖ not “what follows” — it names the domain in which the rule holds",
+   "8.2.1 ✔ it counts as not having applied (asiddha) for every rule before it"
+  ]
+ },
+ "8.3.88": {
+  "sutra": "सुविनिर्दुर्भ्यः सुपिसूतिसमाः",
+  "kind": "ṣatva",
+  "vrtti": {
+   "classStyle": "सु वि निर् दुर् इत्येतेभ्यः परस्य सुपि सूति सम इत्येतेषाम् सकारस्य स्थाने मूर्धन्यादेशः भवति",
+   "kasikaStyle": "सु वि निर् दुर् इत्येतेभ्यः परस्य सुपि सूति सम इत्येतेषां सकारस्य स्थाने मूर्धन्यादेशो भवति",
+   "kaumudiStyle": "सु वि निर् दुरित्येतेभ्यः परस्य सुपि सूति समेत्येतेषां सकारस्य स्थाने मूर्धन्यादेशः स्यात्"
+  },
+  "padaccheda": "सु-वि-निर्-दुर्भ्यः (53) सुपि-सूति-समाः (13)",
+  "steps": [
+   {
+    "rules": [],
+    "what": "the sūtra’s own words",
+    "now": "सु वि निर् दुर्भ्यः सुपि सूति समाः"
+   },
+   {
+    "rules": [
+     "1.1.67"
+    ],
+    "what": "सु-वि-निर्-दुर्भ्यः → what it comes after: “सु वि निर् दुर् इत्येतेभ्यः परस्य” (read from its case) · प्रथमावृत्तिः: “सु, वि, निर्, दुर् इत्येतेभ्य उत्तरस्य”",
+    "now": "सु वि निर् दुर् इत्येतेभ्यः परस्य सुपि सूति समाः"
+   },
+   {
+    "rules": [],
+    "what": "सुपि-सूति-समाः → describes: “सुपि सूति सम इत्येतेषाम्” (settled by the commentary) · प्रथमावृत्तिः: “सुपि सूति सम इत्येतेषां”",
+    "now": "सु वि निर् दुर् इत्येतेभ्यः परस्य सुपि सूति सम इत्येतेषाम्"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "सः: not so (1.1.49) — 1.1.49 does not operate here (paribhāṣā audit) · प्रथमावृत्तिः: “सकारस्य”",
+    "now": "सु वि निर् दुर् इत्येतेभ्यः परस्य सुपि सूति सम इत्येतेषाम् सकारस्य"
+   },
+   {
+    "rules": [
+     "1.3.11"
+    ],
+    "what": "मूर्धन्यः (carried from 8.3.55) → the substitute: “मूर्धन्यादेशः” (carried in) · प्रथमावृत्तिः: “मूर्धन्यादेशो भवति” — also: सः, पूर्वत्रासिद्धम्, संहितायाम्, अपदान्तस्य मूर्धन्यः, इण्कोः → carried in from the sūtras named — also: अपदान्तस्य मूर्धन्यः (8.3.55) and सः (8.3.56) carry over → the s (not at the end of a pada) becomes retroflex ष्",
+    "now": "सु वि निर् दुर् इत्येतेभ्यः परस्य सुपि सूति सम इत्येतेषाम् सकारस्य मूर्धन्यादेशः"
+   },
+   {
+    "rules": [],
+    "what": "assemble in prose order, everything spelled out (class style)",
+    "now": "सु वि निर् दुर् इत्येतेभ्यः परस्य सुपि सूति सम इत्येतेषाम् सकारस्य स्थाने मूर्धन्यादेशः भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kāśikā style: leave out what is implied (परः च), apply sandhi",
+    "now": "सु वि निर् दुर् इत्येतेभ्यः परस्य सुपि सूति सम इत्येतेषां सकारस्य स्थाने मूर्धन्यादेशो भवति"
+   },
+   {
+    "rules": [],
+    "what": "Kaumudī style: स्यात् / स्युः for भवति",
+    "now": "सु वि निर् दुरित्येतेभ्यः परस्य सुपि सूति समेत्येतेषां सकारस्य स्थाने मूर्धन्यादेशः स्यात्"
+   }
+  ],
+  "cards": [
+   {
+    "question": "किम् आदेशः? / what comes in its place?",
+    "word": "मूर्धन्यः",
+    "answer": "मूर्धन्यादेशः",
+    "why": [
+     "1.3.11: runs on from 8.3.55 (anuvṛtti)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्य स्थाने? / what is replaced / operated on?",
+    "word": "सः",
+    "answer": "सकारस्य",
+    "why": [
+     "1.3.11: runs on from 8.3.56 (anuvṛtti)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कस्मात् परस्य? / what does it come after?",
+    "word": "सुविनिर्दुर्भ्यः",
+    "answer": "सु वि निर् दुर् इत्येतेभ्यः परस्य",
+    "why": [
+     "1.1.67: A 5th-case word of direction (‘after X’) puts the operation on what comes immediately after it — something already there (substitute, augment, elision, accent). Placing a new suffix is 3.1.2; a 5th of cause or ‘other than’, or an explicit पूर्व, is not this rule. (Kāśikā: “पञ्चम्यर्थनिर्देश उत्तरस्यैव कार्यं भवति”)"
+    ],
+    "whyNot": []
+   },
+   {
+    "question": "कीदृशम्? / which one exactly?",
+    "word": "सुपिसूतिसमाः",
+    "answer": "सुपि सूति सम इत्येतेषाम्",
+    "why": [
+     "as the प्रथमावृत्तिः reads it"
+    ],
+    "whyNot": []
+   }
+  ],
+  "alsoAtWork": [
+   "8.2.1: this rule is in the tripādī: for every rule before it, it counts as not having applied — काशिका on 8.2.1: “इत उत्तरं चोत्तर उत्तरो योगः पूर्वत्रपूर्वत्रासिद्धो भवति, असिद्धवद् भवति। सिद्धकार्यं न करोतीत्यर्थः”"
+  ],
+  "notes": [],
+  "teachingNote": "",
+  "paribhashaList": [
+   "1.3.11 ✔ carried in from the sūtras named",
+   "1.1.67 ✔ on what FOLLOWS it",
+   "1.3.11 ✔ the s (not at the end of a pada) becomes retroflex ष्",
+   "1.1.66 ✖ not “what follows” — it names the domain in which the rule holds",
+   "8.2.1 ✔ it counts as not having applied (asiddha) for every rule before it",
+   "1.1.68 ✔ सूति is own-form (सुपि = स्वप् after samprasāraṇa). Vṛtti uses “इत्येतेषाम्”, no X-शब्द. — kashika 83088: “सूतीति स्वरूप"
+  ]
+ }
+}

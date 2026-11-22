@@ -1,0 +1,521 @@
+{
+ "pid": "PIS 123",
+ "howGrouped": "case of the triggering word (own sūtra words only) | rule kind | start of the engine trigger text; member = \"<sūtra> <word>  ⟨engine effect⟩\"",
+ "applies": 95,
+ "consideredNotApplicable": 0,
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | vidhi | X",
+   "count": 33,
+   "sutras": [
+    "3.1.9 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभाग उत्तर⟩",
+    "3.1.147 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभाग उत्तर⟩",
+    "3.2.4 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “अत्र योगविभागः⟩",
+    "3.2.47 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभाग उत्तर⟩",
+    "3.2.64 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभाग उत्तर⟩",
+    "3.2.72 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभाग उत्तर⟩",
+    "3.2.138 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभाग उत्तर⟩",
+    "3.2.153 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “थं मधुसूदनो रि⟩",
+    "3.3.115 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभाग उत्तर⟩",
+    "3.3.137 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभाग उत्तर⟩",
+    "3.3.148 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभाग उत्तर⟩",
+    "3.3.159 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभागः उत्त⟩",
+    "3.3.162 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभाग उत्तर⟩",
+    "4.1.16 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभाग उत्तर⟩",
+    "4.1.94 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “तस्माद् योगविभ⟩",
+    "4.2.28 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभागः सङ्ख⟩",
+    "4.2.45 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “क्षुद्रकमालवाद⟩",
+    "4.3.21 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभाग उत्तर⟩",
+    "4.3.44 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभाग उत्तर⟩",
+    "4.3.82 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभागो यथास⟩",
+    "4.3.90 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभाग उत्तर⟩",
+    "4.4.3 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभाग उत्तर⟩",
+    "4.4.78 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “ख इति योगविभाग⟩",
+    "4.4.101 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “तदर्थं योगविभा⟩",
+    "4.4.132 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभागो यथास⟩",
+    "5.1.24 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “कन्, यावता अति⟩",
+    "5.1.96 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभागश्चात्⟩",
+    "5.2.40 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “अथ वा योगविभाग⟩",
+    "5.2.103 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभाग उत्तर⟩",
+    "5.3.25 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभाग उत्तर⟩",
+    "5.3.102 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “केचिदत्र ढञमपी⟩",
+    "5.4.75 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “तदेतत् सर्वमिह⟩",
+    "5.4.104 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभागात् सप⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.9",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “योगविभाग उत्तरत्र क्यचोऽनुवृत्त्यर्थः”",
+     "sutra": "काम्यच्च",
+     "ourVrtti": "आत्मसम्बन्धिनः कर्मणः सुबन्तात् इच्छायामर्थे विकल्पेन काम्यच् प्रत्ययः परः च भवति",
+     "kashika": "सुबन्तात् कर्मण आत्मेच्छायां काम्यच् प्रत्ययो भवति।",
+     "prathamavrtti": "आत्मसम्बन्धिनः सुबन्तात्कर्मणः इच्छायामर्थे वा काम्यच् प्रत्ययो भवात् परश्च ॥"
+    },
+    {
+     "n": "3.3.159",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “योगविभागः उत्तरार्थः”",
+     "sutra": "लिङ् च",
+     "ourVrtti": "इच्छार्थेषु धातुषूपपदेषु समानकर्तृकेषु धातोः लिङ् प्रत्ययः परः च भवति",
+     "kashika": "इच्छार्थेषु समानकर्तृकेषु धातुषूपपदेषु धातोर्लिङ् प्रत्ययो भवति।",
+     "prathamavrtti": "समानकर्तृकेष्विच्छार्थेषु धातुषूपपदेषु धातोर्लिङ् प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "4.4.78",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “ख इति योगविभागः कर्तव्य इष्टसंग्रहार्थः”",
+     "sutra": "खः सर्वधुरात्",
+     "ourVrtti": "सर्वधुर इति प्रातिपदिकात् द्वितीयासमर्थात् वहति इत्यर्थे खः प्रत्ययः परः च भवति",
+     "kashika": "सर्वधुराशब्दाद् द्वितीयासमर्थाद् वहतीत्येतस्मिन्नर्थे खः प्रत्ययो भवति।",
+     "prathamavrtti": "द्वितीयासमर्थात् सर्वधुरप्रातिपदिकात् वहतीत्येतस्मिन्नर्थे खः प्रत्ययो भवति । पूर्वसूत्रस्यापवादः ॥"
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "group": "carried / not a sūtra word | ādeśa | X",
+   "count": 17,
+   "sutras": [
+    "1.2.50 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “इदिति योगविभाग⟩",
+    "1.2.57 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “्र एव कालोपसर्⟩",
+    "2.4.43 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभाग उत्तर⟩",
+    "2.4.47 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभाग उत्तर⟩",
+    "3.1.53 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “पृथग्योग उत्तर⟩",
+    "3.1.56 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “पृथग्योगकरणमात⟩",
+    "3.2.107 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभाग उत्तर⟩",
+    "3.4.2 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभागोऽत्र ⟩",
+    "4.3.2 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “निमित्तयोरादेश⟩",
+    "5.3.5 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “एतद इति योगविभ⟩",
+    "6.3.76 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “तृतीयेति योगवि⟩",
+    "6.3.84 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “समानस्येति योग⟩",
+    "6.4.116 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “पृथग्योगकरणमुत⟩",
+    "7.1.26 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “न्तरमितराच्छन्⟩",
+    "7.4.33 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “पृथग्योगकरणमुत⟩",
+    "8.2.3 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “तदेतत् सर्वं न⟩",
+    "8.3.37 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “केचित् तु एतदर⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.2.50",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “इदिति योगविभागः”",
+     "sutra": "इद्गोण्याः",
+     "ourVrtti": "तद्धितलुकि सति गोणीशब्दस्य स्थाने इकारादेशः भवति",
+     "kashika": "गोण्यास्तद्धितलुकि सतीकारादेशो भवति।",
+     "prathamavrtti": "तद्धितलुकि सति गोणीशब्दस्येकारादेशो भवति ॥"
+    },
+    {
+     "n": "3.1.56",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “पृथग्योगकरणमात्मनेपदार्थम्”",
+     "sutra": "सर्त्तिशास्त्यर्तिभ्यश्च",
+     "ourVrtti": "लुङि परे परस्मैपदेषु परे सृ, शास्, ऋ इत्येतेभ्यः धातुभ्यः उत्तरस्य च्लेः स्थाने कर्तृवाचिनि अङ् आदेशः भवति",
+     "kashika": "<<सृ गतौ>>, <<शासु अनुशिष्टौ>>, <<ऋ गतौ>> इत्येतेभ्यः परस्य च्लेरङादेशो भवति।",
+     "prathamavrtti": "‹सृ गतौ›, ‹शासु अनुशिष्टौ›, ‹ऋ गतौ› इत्येतेभ्यो धातुभ्य उत्तरस्य चलेः स्थाने अङ् आदेशो भवति, कर्तृवाचिनि लुङि परस्मैपदेषु परतः ॥"
+    },
+    {
+     "n": "6.3.76",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “तृतीयेति योगविभागात् समासः”",
+     "sutra": "एकादिश्चैकस्य चादुक्",
+     "ourVrtti": "एकादिः च नञ् प्रकृत्या भवति, एकशब्दस्य च आदुक् आगमः भवति",
+     "kashika": "एकादिश्च नञ् प्रकृत्या भवति, एकशब्दस्य चादुगागमो भवति।",
+     "prathamavrtti": "एकादिर्नञ् प्रकृत्या भवति, एकशब्दस्य च आदुक् आगमो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G3",
+   "group": "carried / not a sūtra word | operation | X",
+   "count": 16,
+   "sutras": [
+    "5.1.125 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “स्तेनादिति केच⟩",
+    "6.1.32 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “ह्वः संप्रसारण⟩",
+    "6.1.41 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “पृथग्योगकरणमुत⟩",
+    "6.1.43 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभाग उत्तर⟩",
+    "6.3.6 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “तृतीयेति योगवि⟩",
+    "6.3.7 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “चतुर्थीति योगव⟩",
+    "6.3.11 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “सप्तमीति योगवि⟩",
+    "6.3.18 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “सर्वत्र सप्तमी⟩",
+    "6.3.19 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “सप्तमीति योगवि⟩",
+    "6.4.12 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “कथम्? योगविभाग⟩",
+    "6.4.26 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “पृथग्योगकरणमुत⟩",
+    "6.4.95 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “ह्लाद इति योगव⟩",
+    "6.4.133 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “तदर्थमुत्तरत्र⟩",
+    "6.4.140 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “आत इति योगविभा⟩",
+    "7.2.3 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “अत्र योगविभागे⟩",
+    "7.3.17 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “मस्येति विगृह्⟩"
+   ],
+   "samples": [
+    {
+     "n": "5.1.125",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “स्तेनादिति केचिद् योगविभागं कुर्वन्ति”",
+     "sutra": "स्तेनाद्यन्नलोपश्च",
+     "ourVrtti": "स्तेनप्रातिपदिकात् षष्ठीसमर्थात् भावे अर्थे कर्मणि अर्थे यत् प्रत्ययः परः च भवति, नकारस्य लोपः च भवति",
+     "kashika": "स्तेनशब्दात् षष्ठीसमर्थात् भावकर्मणोर्यत् प्रत्ययो भवति, नशब्दस्य लोपश्च भवति।",
+     "prathamavrtti": "षष्ठीसमर्थात् स्तेनप्रातिपदिकात् भावकर्मणोर्यत् प्रत्ययो भवति, नकारस्य च लोपः ॥"
+    },
+    {
+     "n": "6.3.7",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “चतुर्थीति योगविभागात् समासः”",
+     "sutra": "वैयाकरणाख्यायां चतुर्थ्याः",
+     "ourVrtti": "वैयाकरणाख्यायाम् विषये उत्तरपदे परे आत्मनः उत्तरस्याः चतुर्थ्याः विभक्तेः अलुग् आदेशः भवति",
+     "kashika": "यया संज्ञया वैयाकरणा एव व्यवहरन्ति, तस्यामात्मन उत्तरस्याश्चतुर्थ्या अलुग् भवति।",
+     "prathamavrtti": "यया संज्ञया वैयाकरणा एव व्यवहरन्ति तस्याम् परस्य आत्मनश्च उत्तरस्याः चतुर्थ्या अलुग्भवति ॥"
+    },
+    {
+     "n": "6.4.26",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “पृथग्योगकरणमुत्तरार्थम्”",
+     "sutra": "रञ्जेश्च",
+     "ourVrtti": "शपि परे उपधाभूतस्य रञ्जेः धातोः नकारस्य स्थाने अङ्गस्य स्थाने लोपः भवति",
+     "kashika": "रञ्जेश्च शपि परत उपधाया नकारस्य लोपो भवति।",
+     "prathamavrtti": "रञ्जेश्च उपधाया नकारस्य लोपो भवति शपि परतः ॥"
+    }
+   ]
+  },
+  {
+   "id": "G4",
+   "group": "carried / not a sūtra word | svara | X",
+   "count": 9,
+   "sutras": [
+    "3.3.100 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभागोऽत्र ⟩",
+    "5.2.44 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “अथ न संख्या, त⟩",
+    "6.1.212 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “पृथग्योगकरणं य⟩",
+    "6.2.59 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “पृथग्योगकरणमुत⟩",
+    "6.2.152 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “सप्तमी० इति यो⟩",
+    "6.2.162 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “तृतीयेति योगवि⟩",
+    "6.2.186 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभाग उत्तर⟩",
+    "8.1.40 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “पृथग्योगकरणमुत⟩",
+    "8.1.52 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “पृथग्योगकरणमुत⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.3.100",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “योगविभागोऽत्र कर्तव्यः, क्तिन्नपि यथा स्यात्”",
+     "sutra": "कृञः श च",
+     "ourVrtti": "कृञ् धातोः स्त्रियाम् भावे कर्तृभिन्ने कारके संज्ञायाम् श क्यप् प्रत्ययौ परौ च भवतः",
+     "kashika": "करोतेर्धातोः स्त्रियां शः प्रत्ययो भवति, चकारात् क्यप् च।",
+     "prathamavrtti": "कृञ् धातोः स्त्रियां कर्तृभिन्ने कारके संज्ञायां भावे च शः प्रत्ययो भवति चकारात् क्यप् च ॥"
+    },
+    {
+     "n": "6.2.59",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “पृथग्योगकरणमुत्तरार्थम्”",
+     "sutra": "राजा च",
+     "ourVrtti": "कर्मधारये समासे ब्राह्मण-कुमारयोः उत्तरपदयोः परे पूर्वपदम् राजशब्दः विकल्पेन प्रकृत्या भवति",
+     "kashika": "राजा च पूर्वपदं ब्राह्मणकुमारयोरुत्तरपदयोः कर्मधारये समासेऽन्यतरस्यां प्रकृतिस्वरं भवति।",
+     "prathamavrtti": "ब्राह्मणकुमारयोरुत्तरपदयोः कर्मधारये समासे राजा च पूर्वपदं विकल्पेन प्रकृतिस्वरं भवति ॥"
+    },
+    {
+     "n": "6.2.186",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “योगविभाग उत्तरार्थः”",
+     "sutra": "अपाच्च",
+     "ourVrtti": "अपात् परम् उत्तरपदम् मुखम् अन्तोदात्तम् भवति",
+     "kashika": "अपात् चोत्तरं मुखमन्तोदात्तं भवति।",
+     "prathamavrtti": "अपाच्चोत्तरं मुखमुत्तरपदमन्तोदात्तं भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G5",
+   "group": "carried / not a sūtra word | āgama | X",
+   "count": 4,
+   "sutras": [
+    "6.4.79 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “पृथग्योगकरणमुत⟩",
+    "7.1.64 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “लभेश्च पृथग्यो⟩",
+    "7.2.16 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभागकरणं क⟩",
+    "8.3.31 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “माहुः — स्तोः ⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.79",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “पृथग्योगकरणमुत्तरार्थम्”",
+     "sutra": "स्त्रियाः",
+     "ourVrtti": "अजादौ प्रत्यये परे स्त्री इत्येतस्य अङ्गस्य स्थाने इयङ् आदेशः भवति",
+     "kashika": "स्त्री इत्येतस्याजादौ प्रत्यये परत इयङादेशो भवति।",
+     "prathamavrtti": "स्त्री इत्येतस्य अजादौ प्रत्यये परत इयङादेशो भवति ॥"
+    },
+    {
+     "n": "7.1.64",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “लभेश्च पृथग्योगकरणमुत्तरार्थम्”",
+     "sutra": "लभेश्च",
+     "ourVrtti": "अजादौ प्रत्यये परे शप्-लिट्-वर्जिते अङ्गस्य लभेः नुम् आगमः भवति",
+     "kashika": "लभेश्चाजादौ प्रत्यये शब्लिड्वर्जिते नुमागमो भवति।",
+     "prathamavrtti": "लभेरङ्गस्य च शब्लिड्वर्जितेऽजादौ प्रत्यये परतो नुमागमो भवति॥"
+    },
+    {
+     "n": "7.2.16",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “योगविभागकरणं किमर्थम्, आदितश्च विभाषा भावादिकर्म”",
+     "sutra": "आदितश्च",
+     "ourVrtti": "निष्ठायाम् आदितः धातोः इट् आगमः न भवति",
+     "kashika": "आदितश्च धातोर्निष्ठायामिडागमो न भवति।",
+     "prathamavrtti": "आदितः धातोर्निष्ठायामिडागमो न भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G6",
+   "group": "carried / not a sūtra word | saṃjñā | X",
+   "count": 3,
+   "sutras": [
+    "1.3.7 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “पृथग्योगकरणमस्⟩",
+    "1.4.58 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “पृथग्योगकरणमुत⟩",
+    "1.4.60 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभाग उत्तर⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.3.7",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “पृथग्योगकरणमस्य विधेरनित्यत्वज्ञापनार्थम्”",
+     "sutra": "चुटू",
+     "ourVrtti": "उपदेशे प्रत्ययस्य आदी चवर्ग-टवर्गौ 'इत्' इति संज्ञा भवति",
+     "kashika": "चवर्गटवर्गौ प्रत्ययस्यादी इत्संज्ञौ भवतः।",
+     "prathamavrtti": "उपदेशे प्रत्ययस्य आदी चवर्गटवर्गौ इत्संज्ञकौ भवतः॥"
+    },
+    {
+     "n": "1.4.58",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “पृथग्योगकरणमुत्तरसंज्ञाविशेषणार्थम्”",
+     "sutra": "प्रादयः",
+     "ourVrtti": "प्रादयः असत्त्वे अर्थे 'निपाताः' इति संज्ञा भवति",
+     "kashika": "प्रादयोऽसत्त्वे निपातसंज्ञा भवन्ति।",
+     "prathamavrtti": "असत्त्ववाचिनः प्रादयो निपातसंज्ञका भवन्ति, ते च प्रादयः क्रियायोगे उपसर्गसंज्ञकाश्च भवन्ति॥"
+    },
+    {
+     "n": "1.4.60",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “योगविभाग उत्तरार्थः”",
+     "sutra": "गतिश्च",
+     "ourVrtti": "क्रियायोगे प्रादयः 'गतिः' इति संज्ञा भवति",
+     "kashika": "गतिसंज्ञकाश्च प्रादयो भवन्ति क्रियायोगे।",
+     "prathamavrtti": "प्रादयः क्रियायोगे गतिसंज्ञकाश्च भवन्ति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G7",
+   "group": "carried / not a sūtra word | vibhakti | X",
+   "count": 3,
+   "sutras": [
+    "2.3.31 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “तदर्थं योगविभा⟩",
+    "2.3.32 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “पृथग्विनानानाभ⟩",
+    "2.3.58 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभाग उत्तर⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.3.31",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “तदर्थं योगविभागः कर्तव्यः”",
+     "sutra": "एनपा द्वितीया",
+     "ourVrtti": "एनप्-प्रत्ययान्तेन योगे द्वितीया विभक्तिः प्रत्ययः भवति",
+     "kashika": "तेन युक्ते द्वितीया विभक्तिर्भवति।",
+     "prathamavrtti": "एनप्प्रत्ययान्तेन योगे द्वितीया विभक्तिर्भवति ॥"
+    },
+    {
+     "n": "2.3.32",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “पृथग्विनानानाभिरिति योगविभागो द्वितीयार्थः”",
+     "sutra": "पृथग्विनानानाभिस्तृतीयाऽन्यतरस्याम्",
+     "ourVrtti": "पृथग्-विना-नाना इत्येतैः योगे अन्यतरस्याम् तृतीया विभक्ति पञ्चमी विभक्ति द्वितीया विभक्ति प्रत्ययाः भवन्ति",
+     "kashika": "पृथग् विना नाना इत्येतैर्योगे तृतीया विभक्तिर्भवत्यन्यतरस्याम्, पञ्चमी च।",
+     "prathamavrtti": "पृथक्, विना, नाना इत्येतैर्योगे तृतीया विभक्तिर्भवति अन्यतरस्यां च ॥"
+    },
+    {
+     "n": "2.3.58",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “योगविभाग उत्तरार्थः”",
+     "sutra": "दिवस्तदर्थस्य",
+     "ourVrtti": "दिव्धातोः व्यवहारार्थस्य कर्मणि कारके षष्ठी विभक्तिः प्रत्ययः भवति",
+     "kashika": "व्यवहृपणिसमानार्थस्य दीव्यतेः कर्मणि षष्ठी विभक्तिर्भवति।",
+     "prathamavrtti": "तदर्थस्य = व्यवहारार्थस्य दिव्धातोः अनभिहिते कर्मणि कारके षष्ठी विभक्तिर्भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G8",
+   "group": "carried / not a sūtra word | nipātana | X",
+   "count": 3,
+   "sutras": [
+    "2.4.28 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभागः संख्⟩",
+    "6.4.171 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “योगविभागोऽत्र ⟩",
+    "8.1.15 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “अन्यत्रापि द्व⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.4.28",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “योगविभागः संख्यातानुदेशपरिहारार्थः”",
+     "sutra": "हेमन्तशिशिरावहोरात्रे च च्छन्दसि",
+     "ourVrtti": "छन्दसि विषये द्वन्द्वसमासे हेमन्तशिशिरयोः अहोरात्रयोः लिङ्गम् पूर्वपदस्य इव भवति",
+     "kashika": "अपोनप्तृ अपान्नप्तृ इत्येताभ्यां छकारः प्रत्ययो भवति सास्य देवतेत्यस्मिन् विषये।",
+     "prathamavrtti": "हेमन्तशिशिरशब्दयोः अहोरात्रशब्दयोश्च द्वन्द्वसमासे छन्दसि विषये पूर्ववत् लिङ्गं भवति ॥"
+    },
+    {
+     "n": "6.4.171",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “योगविभागोऽत्र क्रियते”",
+     "sutra": "ब्राह्मोऽजातौ",
+     "ourVrtti": "ब्राह्मः (टिलोपः) इति निपात्यते अणि परे अनपत्ये",
+     "kashika": "ब्राह्म इत्येतदपत्याधिकारेऽपि सामर्थ्यादपत्यादन्यत्राणि टिलोपार्थं निपात्यते।",
+     "prathamavrtti": "ब्राह्म इति निपात्यते, अपत्ये जातौ न ॥"
+    },
+    {
+     "n": "8.1.15",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “अन्यत्रापि द्वन्द्वमित्येतद् दृश्यते, तदर्थं योगविभागः कर्तव्यः — द्वन्द्वं युद्धं वर्तते, द्”",
+     "sutra": "द्वन्द्वं रहस्यमर्यादावचनव्युत्क्रमणयज्ञपात्रप्रयोगाभिव्यक्तिषु",
+     "ourVrtti": "द्वन्द्वम् इति निपात्यते रहस्य-मर्यादावचन-व्युत्क्रमण-यज्ञपात्रप्रयोग-अभिव्यक्तिषु अर्थेषु कर्मधारयवत्",
+     "kashika": "द्वन्द्वमिति द्विशब्दस्य द्विर्वचनम्, पूर्वपदस्याम्भावः, अत्वं चोत्तरपदस्य निपात्यते रहस्य मर्यादावचन व्युत्क्रमण यज्ञपात्रप्रयोग अभिव्यक्ति इत्येतेष्वर्थेषु।",
+     "prathamavrtti": "रहस्य, मर्यादावचन, व्युत्क्रमण, यज्ञपात्रप्रयोग, अभिव्यक्ति इत्येतेष्वर्थेषु द्वन्द्वमिति निपात्यते कर्मधारयवत् चास्य कार्यं भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G9",
+   "group": "carried / not a sūtra word | ṣatva | X",
+   "count": 3,
+   "sutras": [
+    "8.3.74 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “पृथग्योगकरणसाम⟩",
+    "8.3.89 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “सुपि स्थः इत्य⟩",
+    "8.3.109 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “केचित् सहेः इत⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.3.74",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “पृथग्योगकरणसामर्थ्यादनिष्ठायामित्येतद् नानुवर्तत”",
+     "sutra": "परेश्च",
+     "ourVrtti": "परेः उपसर्गात् उत्तरस्य उपसर्गात् स्कन्देः धातोः सकारस्य स्थाने विकल्पेन मूर्धन्यादेशः भवति",
+     "kashika": "परिशब्दात् चोत्तरस्य स्कन्देः सकारस्य वा मूर्धन्यो भवति।",
+     "prathamavrtti": "परेरुपसर्गाच्चोत्तरस्य स्कन्देः सकारस्य वा मूर्धन्यादेशो भवति ॥"
+    },
+    {
+     "n": "8.3.89",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “सुपि स्थः इत्यत्र सुपीति योगविभागात् कप्रत्ययः”",
+     "sutra": "निनदीभ्यां स्नातेः कौशले",
+     "ourVrtti": "नि नदी इत्येताभ्यां परस्य स्नातेः धातोः सकारस्य स्थाने कौशले गम्यमाने मूर्धन्यादेशः भवति",
+     "kashika": "नि नदी इत्येताभ्यामुत्तरस्य स्नातिसकारस्य मूर्धन्यादेशो भवति कौशले गम्यमाने।",
+     "prathamavrtti": "निनदी इत्येताभ्यामुत्तरस्य स्नातेः सकारस्य मूर्धन्यादेशो भवति, कौशले गम्यमाने ॥"
+    },
+    {
+     "n": "8.3.109",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “केचित् सहेः इति योगविभागं कुर्वन्ति”",
+     "sutra": "सहेः पृतनर्ताभ्यां च",
+     "ourVrtti": "छन्दसि विषये पृतना ऋत इत्येताभ्यामुत्तरस्य सहेः धातोः सकारस्य स्थाने मूर्धन्यादेशः भवति",
+     "kashika": "पृतना ऋत इत्येताभ्यामुत्तरस्य सहिसकारस्य मूर्धन्यादेशो भवति।",
+     "prathamavrtti": "पृतना ऋत इत्येताभ्यामुत्तरस्य सहेः सकारस्य छन्दसि विषये मूर्धन्यादेशो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G10",
+   "group": "carried / not a sūtra word | pada | X",
+   "count": 2,
+   "sutras": [
+    "1.3.33 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “पृथग्योगकरणमुप⟩",
+    "1.3.84 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “पृथग्योगकरणमुत⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.3.33",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “पृथग्योगकरणमुपसर्गविशेषणार्थम्”",
+     "sutra": "अधेः प्रसहने",
+     "ourVrtti": "अधि-पूर्वात् कृञ्-धातोः प्रसहने अर्थे आत्मनेपदम् प्रत्ययः भवति",
+     "kashika": "अधिपूर्वात् करोतेः प्रसहने वर्त्तमानादात्मनेपदं भवति।",
+     "prathamavrtti": "प्रसहनेऽर्थे वर्त्तमानादधिपूर्वात् कृञ्धातोरात्मनेपदं भवति ॥"
+    },
+    {
+     "n": "1.3.84",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “पृथग्योगकरणमुत्तरार्थम्”",
+     "sutra": "उपाच्च",
+     "ourVrtti": "उप-पूर्वात् रम्-धातोः परस्मैपदम् प्रत्ययः भवति",
+     "kashika": "उपपूर्वात् रमतेः परस्मैपदं भवति।",
+     "prathamavrtti": "उप पूर्वाच्च रम्-धातोः परस्मैपदं भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G11",
+   "group": "carried / not a sūtra word | adhikāra | X",
+   "count": 1,
+   "sutras": [
+    "2.1.4 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “सहग्रहणं योगवि⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.1.4",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “सहग्रहणं योगविभागार्थम्, तिङापि सह यथा स्यात्”",
+     "sutra": "सह सुपा",
+     "ourVrtti": "सुप् सुपा सह समस्यते इति अधिकारः",
+     "kashika": "सुबिति सहेति सुपेति च त्रयमप्यधिकृतं वेदितव्यम्।",
+     "prathamavrtti": "सुपा सह सुप् समस्यते, इत्यधिकारो वेदितव्यः ॥"
+    }
+   ]
+  },
+  {
+   "id": "G12",
+   "group": "carried / not a sūtra word | ṇatva | X",
+   "count": 1,
+   "sutras": [
+    "8.4.3 the sūtra is stated separately for a purpose  ⟨the sūtra is stated separately for a purpose — काशिका: “अग इति योगविभा⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.4.3",
+     "word": "the sūtra is stated separately for a purpose",
+     "trigger": "the sūtra is stated separately for a purpose",
+     "effect": "the sūtra is stated separately for a purpose — काशिका: “अग इति योगविभागेन णत्वप्रतिषेधः, न नियमप्रतिषेध इति”",
+     "sutra": "पूर्वपदात् संज्ञायामगः",
+     "ourVrtti": "संज्ञायां विषये निमित्तात् पूर्वपदस्थात् गकारवर्जितात् नकारस्य स्थाने णकारः आदेशः भवति",
+     "kashika": "पूर्वपदस्थाद् निमित्तादुत्तरस्य गकारवर्जिताद् नकारस्य णकार आदेशो भवति संज्ञायां विषये।",
+     "prathamavrtti": "गकारवर्जितात् पूर्वपदस्थान्निमित्तादुत्तरस्य नकारस्य णकार आदेशो भवति संज्ञायां विषये॥"
+    }
+   ]
+  }
+ ]
+}

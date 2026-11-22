@@ -1,0 +1,299 @@
+{
+ "pid": "1.1.65",
+ "audited": "2026-11-20",
+ "totals": {
+  "firings": 43,
+  "licensed": 40,
+  "not licensed": 2,
+  "unsure": 1,
+  "not_licensed_by_should_be": {
+   "none": 2
+  },
+  "not_licensed_by_reason": {
+   "MISNUMBERED_REF": 2
+  }
+ },
+ "reason_codes": {
+  "MISNUMBERED_REF": "commentator's [[1.1.65]] = 1.1.66"
+ },
+ "conditions": [
+  {
+   "text": "C1 — 1.1.65: the single sound before the last sound is called उपधा. A saṃjñā — needed wherever the term is used.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11065",
+     "quote": "धात्वादौ वर्णसमुदायेऽन्त्यादलः पूर्वो यो वर्णः, सोऽलेवोपधासंज्ञो भवति।"
+    },
+    {
+     "file": "kaumudi",
+     "id": "11065",
+     "quote": "अन्त्यादलः पूर्वो वर्ण उपधासंज्ञः स्यात् ॥"
+    }
+   ]
+  },
+  {
+   "text": "C2 — Only one sound (अल्), not a group: शिष्टः.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11065",
+     "quote": "अल इति किम्? शिष्टः। शिष्टवान्।"
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | operation | X",
+   "count": 32,
+   "verdict": "mixed",
+   "counts": {
+    "licensed": 31,
+    "not licensed": 0,
+    "unsure": 1
+   },
+   "how_checked": "All 32 read; उपधायाः carried from 6.4.7/6.4.24/6.4.92/7.4.1/8.2.76 is in the vṛtti or is what the carried नकार/इक् is.",
+   "licensed": [
+    "6.4.8",
+    "6.4.9",
+    "6.4.10",
+    "6.4.11",
+    "6.4.12",
+    "6.4.13",
+    "6.4.14",
+    "6.4.15",
+    "6.4.17",
+    "6.4.18",
+    "6.4.25",
+    "6.4.26",
+    "6.4.27",
+    "6.4.30",
+    "6.4.31",
+    "6.4.32",
+    "6.4.33",
+    "6.4.92",
+    "6.4.93",
+    "6.4.94",
+    "6.4.95",
+    "6.4.96",
+    "6.4.97",
+    "6.4.98",
+    "6.4.99",
+    "6.4.100",
+    "6.4.150",
+    "7.4.2",
+    "7.4.3",
+    "8.2.77",
+    "8.2.78"
+   ],
+   "not_licensed": [],
+   "unsure": [
+    {
+     "n": "6.4.16",
+     "word": "उपधायाः",
+     "why": "The engine credits a carried उपधायाः, but the generated vṛtti does not use it, and the sources disagree: the Nyāsa says उपधायाः does not continue into 6.4.16 (so the Kāśikā omits it); BM says it continues and attaches to हन्/गम् only.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "64016",
+       "quote": "`उपधायाः`  [[6.4.7]]  इति निवृत्तम्, अत एव वृत्तौ `उपधायाः` इति नोक्तम्।"
+      },
+      {
+       "file": "balamanorama",
+       "id": "64016",
+       "quote": "'नोपधायाः' इत्यत उपधाया इत्यनुवृत्तं हनगमोरन्वेति, न त्वजन्ते, असंभवात् ।"
+      }
+     ]
+    }
+   ],
+   "licensed_with_caveat": [
+    {
+     "n": "6.4.31",
+     "note": "The vṛtti says “नकारलोपः” without the word उपधा, but the न् is the upadhā carried from 6.4.24.",
+     "quotes": []
+    },
+    {
+     "n": "7.4.2",
+     "note": "A prohibition, but the term उपधा is in the vṛtti.",
+     "quotes": []
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G2",
+   "group": "own word, data case 6 | operation | X",
+   "count": 6,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 6,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, generated vṛtti (does उपधा occur, own or carried?), Kāśikā.",
+   "licensed": [
+    "6.4.7",
+    "6.4.24",
+    "6.4.149",
+    "7.2.116",
+    "7.4.1",
+    "8.2.76"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G3",
+   "group": "own word, data case 5 | vidhi | X: … named",
+   "count": 2,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 2,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, generated vṛtti (does उपधा occur, own or carried?), Kāśikā.",
+   "licensed": [
+    "3.1.98",
+    "3.1.110"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G4",
+   "group": "named by a commentator | niṣedha | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, generated vṛtti (does उपधा occur, own or carried?), Kāśikā.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "1.1.5",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "MISNUMBERED_REF",
+     "why": "The Nyāsa's “तत्र तस्मिन् [[1.1.65]]” is तस्मिन्निति निर्दिष्टे पूर्वस्य (1.1.66), and it says that paribhāṣā does not apply here. 1.1.5 has nothing to do with उपधा.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "11005",
+       "quote": "अथ निमित्तसप्तम्यामप्यस्यां कस्मादेव व्यवहितस् प्रतिषेधो लभ्यते? तत्र तस्मिन्  [[1.1.65]]  इत्यादिकायाः परिभाषाया अनुपस्थानात्।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G5",
+   "group": "own word, data case 6 | operation | X: … named",
+   "count": 1,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 1,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, generated vṛtti (does उपधा occur, own or carried?), Kāśikā.",
+   "licensed": [
+    "7.3.86"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G6",
+   "group": "named by a commentator | adhikāra | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, generated vṛtti (does उपधा occur, own or carried?), Kāśikā.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "8.2.1",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "MISNUMBERED_REF",
+     "why": "The Nyāsa names “तस्मिन्निति निर्दिष्टे पूर्वस्य [[1.1.65]]” (= 1.1.66) in its discussion of 8.2.1; उपधा is not involved.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82001",
+       "quote": "आपद्येत; <<झलो झलि>> [[8.2.26]]  इत्यत्रापि सप्मीनिर्देशस्यासिद्धत्वात्? `तस्मिन्निति निर्दिष्टे पूर्वस्य  [[1.1.65]]  इत्येषा परिभाषा नोपतिष्ठेत, तथा च पूर्वस्यैवानन्तरे भवितव्यमिति नियमस्याभावात्? सामान्येन पूर्वस्य परस्य वानन्तरे व्यवहिते झलि लोपः; `ह्रस्वादङ्गा"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  }
+ ],
+ "missed": [
+  {
+   "n": "6.4.20",
+   "pid": "1.1.65",
+   "why": "ज्वरत्वर…उपधायाश्च — own word.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "64020",
+     "quote": "ज्वर त्वर स्रिवि अव मव इत्येतेषामङ्गानां वकारस्य उपधायाश्च स्थान ऊडित्ययमादेशो भवति क्वौ परतोऽनुनासिके झलादौ च क्ङिति।"
+    }
+   ]
+  },
+  {
+   "n": "6.4.47",
+   "pid": "1.1.65",
+   "why": "भ्रस्जो रोपधयोः… — own word (र and उपधा).",
+   "quotes": []
+  },
+  {
+   "n": "4.1.28",
+   "pid": "1.1.65",
+   "why": "अन उपधालोपिनोऽन्यतरस्याम् — own word.",
+   "quotes": []
+  },
+  {
+   "n": "4.1.29",
+   "pid": "1.1.65",
+   "why": "carries उपधालोपिनः.",
+   "quotes": []
+  },
+  {
+   "n": "4.2.141",
+   "pid": "1.1.65",
+   "why": "…खोपधात् — own word.",
+   "quotes": []
+  },
+  {
+   "n": "7.4.4",
+   "pid": "1.1.65",
+   "why": "vṛtti “उपधायाः लोपः”.",
+   "quotes": []
+  },
+  {
+   "n": "8.2.79",
+   "pid": "1.1.65",
+   "why": "vṛtti carries उपधायाः (prohibition of 8.2.76 dīrgha).",
+   "quotes": []
+  }
+ ],
+ "missed_note": "About 10 sūtras use उपधा in the sūtra or vṛtti without a credit (recompute: recs where /उपध/ matches s+genC and no P pid 1.1.65; drop उपधान/उपधि false hits). Clear ones:"
+}

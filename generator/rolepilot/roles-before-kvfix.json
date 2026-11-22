@@ -1,0 +1,3017 @@
+{
+ "1.1.23": {
+  "n": "1.1.23",
+  "kind": "samjna",
+  "roles": [
+   {
+    "word": "बहु-गण-वतु-डति",
+    "source": "own",
+    "role": "samjni",
+    "render": "बहु-गण-शब्दौ वतु-डति-प्रत्ययान्तौ च शब्दौ",
+    "why": "case",
+    "ref": "PV",
+    "quote": "बहुगणशब्दौ, वतुडतिप्रत्ययान्तौ च शब्दौ"
+   },
+   {
+    "word": "संख्या",
+    "source": "own",
+    "role": "samjna",
+    "render": "संख्या",
+    "why": "case",
+    "ref": "PV",
+    "quote": "संख्या-संज्ञका भवन्ति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "1.1.37": {
+  "n": "1.1.37",
+  "kind": "samjna",
+  "roles": [
+   {
+    "word": "स्वरादिनिपातम्",
+    "source": "own",
+    "role": "samjni",
+    "render": "स्वरादयः निपाताश्च",
+    "why": "case",
+    "ref": "PV",
+    "quote": "स्वरादिशब्दरूपाणि निपाताश्च"
+   },
+   {
+    "word": "अव्ययम्",
+    "source": "own",
+    "role": "samjna",
+    "render": "अव्ययसंज्ञकम्",
+    "why": "case",
+    "ref": "PV",
+    "quote": "अव्ययसंज्ञकानि भवन्ति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "1.1.41": {
+  "n": "1.1.41",
+  "kind": "samjna",
+  "roles": [
+   {
+    "word": "अव्ययीभावः",
+    "source": "own",
+    "role": "samjni",
+    "render": "अव्ययीभावसमासः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "अव्ययीभावसमासोऽव्ययसंज्ञको भवति"
+   },
+   {
+    "word": "अव्ययम्",
+    "source": "carried:1.1.37",
+    "role": "samjna",
+    "render": "अव्ययसंज्ञकः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "अव्ययसंज्ञको भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "1.1.45": {
+  "n": "1.1.45",
+  "kind": "samjna",
+  "roles": [
+   {
+    "word": "यणः",
+    "source": "own",
+    "role": "sthani",
+    "render": "यणः स्थाने",
+    "why": "case",
+    "ref": "PV",
+    "quote": "यणः (—य् व् र् ल् ) स्थाने"
+   },
+   {
+    "word": "इक्",
+    "source": "own",
+    "role": "samjni",
+    "render": "इक्",
+    "why": "case",
+    "ref": "KV",
+    "quote": "इग्वर्णः स संप्रसारणसंज्ञो भवतीति"
+   },
+   {
+    "word": "सम्प्रसारणम्",
+    "source": "own",
+    "role": "samjna",
+    "render": "सम्प्रसारणम्",
+    "why": "case",
+    "ref": "PV",
+    "quote": "तस्य सम्प्रसारणसंज्ञा भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "1.1.56": {
+  "n": "1.1.56",
+  "kind": "atidesha",
+  "roles": [
+   {
+    "word": "स्थानिवत्",
+    "source": "own",
+    "role": "atidesha",
+    "render": "स्थानिवत्",
+    "why": "case",
+    "ref": "PV",
+    "quote": "स्थानिवद् भवति"
+   },
+   {
+    "word": "आदेशः",
+    "source": "own",
+    "role": "adesha",
+    "render": "आदेशः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "आदेशः स्थानिवद् भवति"
+   },
+   {
+    "word": "अनल्विधौ",
+    "source": "own",
+    "role": "vishaya",
+    "render": "अल्विधिं वर्जयित्वा",
+    "why": "case",
+    "ref": "PV",
+    "quote": "अल्विधिं वर्जयित्वा"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "1.1.61": {
+  "n": "1.1.61",
+  "kind": "samjna",
+  "roles": [
+   {
+    "word": "प्रत्ययस्य",
+    "source": "own",
+    "role": "qualifier",
+    "render": "प्रत्ययस्य",
+    "why": "case",
+    "ref": "PV",
+    "quote": "प्रत्ययस्य अदर्शनस्य"
+   },
+   {
+    "word": "लुक्श्लुलुपः",
+    "source": "own",
+    "role": "samjna",
+    "render": "लुक्, श्लु, लुप्",
+    "why": "case",
+    "ref": "PV",
+    "quote": "लुक्-श्लु-लुप् इत्येताः संज्ञा भवन्ति"
+   },
+   {
+    "word": "अदर्शनम्",
+    "source": "carried:1.1.60",
+    "role": "samjni",
+    "render": "अदर्शनम्",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "प्रत्ययस्य अदर्शनस्य"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "1.1.63": {
+  "n": "1.1.63",
+  "kind": "nishedha",
+  "roles": [
+   {
+    "word": "न",
+    "source": "own",
+    "role": "negation",
+    "render": "न भवति",
+    "why": "case",
+    "ref": "PV",
+    "quote": "तन्न भवति"
+   },
+   {
+    "word": "लुमता",
+    "source": "own",
+    "role": "qualifier",
+    "render": "लुमता शब्देन",
+    "why": "case",
+    "ref": "PV",
+    "quote": "लुमता शब्देन"
+   },
+   {
+    "word": "अङ्गस्य",
+    "source": "own",
+    "role": "qualifier",
+    "render": "अङ्गस्य कार्यम्",
+    "why": "case",
+    "ref": "PV",
+    "quote": "यदङ्गं तस्य यत् प्रत्ययलक्षणं कार्यं"
+   },
+   {
+    "word": "प्रत्ययलोपे",
+    "source": "carried:1.1.62",
+    "role": "nimitta",
+    "render": "प्रत्ययस्य लोपे सति",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "प्रत्ययस्य लोपे (अदर्शने) सति"
+   },
+   {
+    "word": "प्रत्ययलक्षणम्",
+    "source": "carried:1.1.62",
+    "role": "atidesha",
+    "render": "प्रत्ययलक्षणं कार्यम्",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "प्रत्ययलक्षणं कार्यं"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "1.1.72": {
+  "n": "1.1.72",
+  "kind": "samjna",
+  "roles": [
+   {
+    "word": "येन",
+    "source": "own",
+    "role": "samjna",
+    "render": "येन विशेषणेन",
+    "why": "vyakhyana",
+    "ref": "SK",
+    "quote": "विशेषणं तदन्तस्य संज्ञा स्यात्"
+   },
+   {
+    "word": "विधिः",
+    "source": "own",
+    "role": "other",
+    "render": "विधिः विधीयते",
+    "why": "case",
+    "ref": "PV",
+    "quote": "विधिर्विधीयते"
+   },
+   {
+    "word": "तदन्तस्य",
+    "source": "own",
+    "role": "samjni",
+    "render": "तदन्तस्य समुदायस्य",
+    "why": "case",
+    "ref": "PV",
+    "quote": "तदन्तस्य समुदायस्य"
+   },
+   {
+    "word": "स्वम्",
+    "source": "carried:1.1.68",
+    "role": "qualifier",
+    "render": "स्वस्य",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "स्वस्य च रूपस्य"
+   },
+   {
+    "word": "रूपम्",
+    "source": "carried:1.1.68",
+    "role": "samjni",
+    "render": "रूपस्य",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "स्वस्य च रूपस्य"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "1.2.58": {
+  "n": "1.2.58",
+  "kind": "atidesha",
+  "roles": [
+   {
+    "word": "जात्याख्यायाम्",
+    "source": "own",
+    "role": "vishaya",
+    "render": "जात्याख्यायां विषये",
+    "why": "case",
+    "ref": "PV",
+    "quote": "जात्याख्यायामेकस्मिन्नर्थे"
+   },
+   {
+    "word": "एकस्मिन्",
+    "source": "own",
+    "role": "artha",
+    "render": "एकस्मिन् अर्थे",
+    "why": "case",
+    "ref": "PV",
+    "quote": "एकस्मिन्नर्थे बहुवचनं"
+   },
+   {
+    "word": "बहुवचनम्",
+    "source": "own",
+    "role": "atidesha",
+    "render": "बहुवद्भावः",
+    "why": "vyakhyana",
+    "ref": "KV",
+    "quote": "जात्यर्थो बहुवद् भवतीति यावत्"
+   },
+   {
+    "word": "अन्यतरस्याम्",
+    "source": "own",
+    "role": "option",
+    "render": "विकल्पेन",
+    "why": "case",
+    "ref": "PV",
+    "quote": "विकल्पेन भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "1.2.63": {
+  "n": "1.2.63",
+  "kind": "adesha",
+  "roles": [
+   {
+    "word": "तिष्य-पुनर्वस्वोः",
+    "source": "own",
+    "role": "qualifier",
+    "render": "तिष्यपुनर्वस्वोः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "तिष्यपुनर्वस्वोः"
+   },
+   {
+    "word": "नक्षत्र-द्वन्द्वे",
+    "source": "own",
+    "role": "vishaya",
+    "render": "नक्षत्रद्वन्द्वे",
+    "why": "case",
+    "ref": "PV",
+    "quote": "नक्षत्रद्वन्द्वे"
+   },
+   {
+    "word": "बहुवचनस्य",
+    "source": "own",
+    "role": "sthani",
+    "render": "बहुवचनस्य",
+    "why": "case",
+    "ref": "PV",
+    "quote": "बहुवचनस्य"
+   },
+   {
+    "word": "द्विवचनम्",
+    "source": "own",
+    "role": "adesha",
+    "render": "द्विवचनम्",
+    "why": "case",
+    "ref": "PV",
+    "quote": "द्विवचनं भवति"
+   },
+   {
+    "word": "नित्यम्",
+    "source": "own",
+    "role": "other",
+    "render": "नित्यम्",
+    "why": "case",
+    "ref": "PV",
+    "quote": "नित्यं द्विवचनं भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": "SK frames the rule as atidesha (बहुत्वं द्वित्ववद्भवति), whereas PV/KV describe it as adesha (बहुवचनस्य द्विवचनम्)."
+ },
+ "1.3.28": {
+  "n": "1.3.28",
+  "kind": "pada",
+  "roles": [
+   {
+    "word": "आङः",
+    "source": "own",
+    "role": "purva",
+    "render": "आङ्पूर्वाभ्याम्",
+    "why": "case",
+    "ref": "PV",
+    "quote": "आङ् पूर्वाभ्या"
+   },
+   {
+    "word": "यमहनः",
+    "source": "own",
+    "role": "prakriti",
+    "render": "यम-हन-धातुभ्याम्",
+    "why": "case",
+    "ref": "PV",
+    "quote": "यम हन इत्येताभ्यां धातुभ्या"
+   },
+   {
+    "word": "अकर्मकात्",
+    "source": "carried:1.3.26",
+    "role": "qualifier",
+    "render": "अकर्मकाभ्याम्",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "अकर्मकाभ्यां"
+   },
+   {
+    "word": "आत्मनेपदम्",
+    "source": "carried:1.3.12",
+    "role": "pratyaya",
+    "render": "आत्मनेपदम्",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "धातुभ्यामात्मनेपदं भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "1.3.45": {
+  "n": "1.3.45",
+  "kind": "pada",
+  "roles": [
+   {
+    "word": "अकर्मकात्",
+    "source": "own",
+    "role": "qualifier",
+    "render": "अकर्मकात्",
+    "why": "case",
+    "ref": "PV",
+    "quote": "अकर्मकात् ज्ञा-धातोरात्मनेपदं भवति"
+   },
+   {
+    "word": "ज्ञः",
+    "source": "carried:1.3.44",
+    "role": "prakriti",
+    "render": "ज्ञाधातोः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "ज्ञा-धातोरात्मनेपदं भवति"
+   },
+   {
+    "word": "आत्मनेपदम्",
+    "source": "carried:1.3.12",
+    "role": "pratyaya",
+    "render": "आत्मनेपदम्",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "ज्ञा-धातोरात्मनेपदं भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "1.3.54": {
+  "n": "1.3.54",
+  "kind": "pada",
+  "roles": [
+   {
+    "word": "समः",
+    "source": "own",
+    "role": "purva",
+    "render": "सम्पूर्वात्",
+    "why": "case",
+    "ref": "PV",
+    "quote": "सम्पूर्वात्"
+   },
+   {
+    "word": "तृतीयायुक्तात्",
+    "source": "own",
+    "role": "qualifier",
+    "render": "तृतीयायुक्तात्",
+    "why": "case",
+    "ref": "PV",
+    "quote": "तृतीया-युक्तात्"
+   },
+   {
+    "word": "चरः",
+    "source": "carried:1.3.53",
+    "role": "prakriti",
+    "render": "चर्-धातोः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "चर्-धातोरात्मनेपदं"
+   },
+   {
+    "word": "आत्मनेपदम्",
+    "source": "carried:1.3.12",
+    "role": "pratyaya",
+    "render": "आत्मनेपदम्",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "आत्मनेपदं भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "1.3.67": {
+  "n": "1.3.67",
+  "kind": "pada",
+  "roles": [
+   {
+    "word": "णेः",
+    "source": "own",
+    "role": "prakriti",
+    "render": "ण्यन्तात् धातोः",
+    "why": "tadanta",
+    "ref": "PV",
+    "quote": "तस्माद्ण्यन्ताद्धातोरात्मनेपदं भवति"
+   },
+   {
+    "word": "अणौ",
+    "source": "own",
+    "role": "qualifier",
+    "render": "अण्यन्तावस्थायाम्",
+    "why": "case",
+    "ref": "PV",
+    "quote": "अण्यन्तावस्थायां यत्कर्म"
+   },
+   {
+    "word": "यत्",
+    "source": "own",
+    "role": "qualifier",
+    "render": "यत्",
+    "why": "case",
+    "ref": "PV",
+    "quote": "अण्यन्तावस्थायां यत्कर्म"
+   },
+   {
+    "word": "कर्म",
+    "source": "own",
+    "role": "qualifier",
+    "render": "कर्म",
+    "why": "case",
+    "ref": "PV",
+    "quote": "अण्यन्तावस्थायां यत्कर्म"
+   },
+   {
+    "word": "णौ",
+    "source": "own",
+    "role": "qualifier",
+    "render": "ण्यन्तावस्थायाम्",
+    "why": "case",
+    "ref": "PV",
+    "quote": "ण्यन्तावस्थायां चेत्=यदि तदेव कर्म"
+   },
+   {
+    "word": "चेत्",
+    "source": "own",
+    "role": "other",
+    "render": "यदि",
+    "why": "vyakhyana",
+    "ref": "PV",
+    "quote": "चेत्=यदि"
+   },
+   {
+    "word": "सः",
+    "source": "own",
+    "role": "qualifier",
+    "render": "तत् एव",
+    "why": "case",
+    "ref": "PV",
+    "quote": "स एव कर्त्ता भवति"
+   },
+   {
+    "word": "कर्ता",
+    "source": "own",
+    "role": "qualifier",
+    "render": "कर्ता",
+    "why": "case",
+    "ref": "PV",
+    "quote": "स एव कर्त्ता भवति"
+   },
+   {
+    "word": "अनाध्याने",
+    "source": "own",
+    "role": "artha",
+    "render": "अनाध्याने अर्थे",
+    "why": "case",
+    "ref": "PV",
+    "quote": "आध्यानं वर्जयित्वा"
+   },
+   {
+    "word": "आत्मनेपदम्",
+    "source": "carried:1.3.12",
+    "role": "pratyaya",
+    "render": "आत्मनेपदम्",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "तस्माद्ण्यन्ताद्धातोरात्मनेपदं भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "1.3.71": {
+  "n": "1.3.71",
+  "kind": "pada",
+  "roles": [
+   {
+    "word": "मिथ्योपपदात्",
+    "source": "own",
+    "role": "upapada",
+    "render": "मिथ्या-उपपदात्",
+    "why": "case",
+    "ref": "PV",
+    "quote": "मिथ्याशब्दोपपदादभ्यासे"
+   },
+   {
+    "word": "कृञः",
+    "source": "own",
+    "role": "prakriti",
+    "render": "कृञ्-धातोः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "कृञ्-धातोरात्मनेपदं भवति"
+   },
+   {
+    "word": "अभ्यासे",
+    "source": "own",
+    "role": "artha",
+    "render": "अभ्यासे अर्थे",
+    "why": "case",
+    "ref": "PV",
+    "quote": "पुनः पुनरावृत्तिकरणेऽर्थे"
+   },
+   {
+    "word": "आत्मनेपदम्",
+    "source": "carried:1.3.12",
+    "role": "pratyaya",
+    "render": "आत्मनेपदम्",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "कृञ्-धातोरात्मनेपदं भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": "णेः does not carry here per PV and KV."
+ },
+ "1.4.22": {
+  "n": "1.4.22",
+  "kind": "vidhi-pratyaya",
+  "roles": [
+   {
+    "word": "द्व्येकयोः",
+    "source": "own",
+    "role": "artha",
+    "render": "द्वित्वे एकत्वे च विवक्षिते",
+    "why": "case",
+    "ref": "PV",
+    "quote": "द्वित्वे विवक्षिते"
+   },
+   {
+    "word": "द्विवचनैकवचने",
+    "source": "own",
+    "role": "pratyaya",
+    "render": "द्विवचनम् एकवचनं च",
+    "why": "case",
+    "ref": "PV",
+    "quote": "द्विवचनमेकत्वे विवक्षिते एकवचनं च भवति"
+   }
+  ],
+  "yathasankhya": true,
+  "note": ""
+ },
+ "1.4.23": {
+  "n": "1.4.23",
+  "kind": "adhikara",
+  "roles": [
+   {
+    "word": "कारके",
+    "source": "own",
+    "role": "adhikara",
+    "render": "कारके (इत्यधिक्रियते)",
+    "why": "vyakhyana",
+    "ref": "PV",
+    "quote": "अधिकारसूत्रमिदम्"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "1.4.65": {
+  "n": "1.4.65",
+  "kind": "samjna",
+  "roles": [
+   {
+    "word": "अन्तः",
+    "source": "own",
+    "role": "samjni",
+    "render": "अन्तः शब्दः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "योऽन्तः शब्दः"
+   },
+   {
+    "word": "अपरिग्रहे",
+    "source": "own",
+    "role": "artha",
+    "render": "अपरिग्रहे अर्थे",
+    "why": "case",
+    "ref": "PV",
+    "quote": "अपरिग्रहेऽर्थे"
+   },
+   {
+    "word": "क्रियायोगे",
+    "source": "carried:1.4.59",
+    "role": "nimitta",
+    "render": "क्रियायोगे",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "क्रियायोगे"
+   },
+   {
+    "word": "गतिः",
+    "source": "carried:1.4.60",
+    "role": "samjna",
+    "render": "गतिसंज्ञा",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "गतिसंज्ञको"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "1.4.74": {
+  "n": "1.4.74",
+  "kind": "samjna",
+  "roles": [
+   {
+    "word": "साक्षात्प्रभृतीनि",
+    "source": "own",
+    "role": "samjni",
+    "render": "साक्षात्प्रभृतीनि शब्दरूपाणि",
+    "why": "case",
+    "ref": "PV",
+    "quote": "साक्षात्प्रभृतीनि शब्दरूपाणि"
+   },
+   {
+    "word": "कृञि",
+    "source": "carried:1.4.72",
+    "role": "nimitta",
+    "render": "कृञो योगे",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "कृञो योगे"
+   },
+   {
+    "word": "विभाषा",
+    "source": "carried:1.4.72",
+    "role": "option",
+    "render": "विभाषा",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "विभाषा गतिसंज्ञकानि"
+   },
+   {
+    "word": "गतिः",
+    "source": "carried:1.4.60",
+    "role": "samjna",
+    "render": "गतिसंज्ञकानि",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "गतिसंज्ञकानि निपातसंज्ञकानि"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "1.4.110": {
+  "n": "1.4.110",
+  "kind": "samjna",
+  "roles": [
+   {
+    "word": "विरामः",
+    "source": "own",
+    "role": "samjni",
+    "render": "विरामः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "विरामोऽवसानसंज्ञको भवति"
+   },
+   {
+    "word": "अवसानम्",
+    "source": "own",
+    "role": "samjna",
+    "render": "अवसानसंज्ञकः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "ऽवसानसंज्ञको भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "2.1.18": {
+  "n": "2.1.18",
+  "kind": "samasa",
+  "roles": [
+   {
+    "word": "पारे",
+    "source": "own",
+    "role": "nipatana",
+    "render": "पारे इति निपात्यते",
+    "why": "vyakhyana",
+    "ref": "PV",
+    "quote": "तत्सन्नियोगेन चैतयोरेकारान्तत्वं निपात्यते"
+   },
+   {
+    "word": "मध्ये",
+    "source": "own",
+    "role": "nipatana",
+    "render": "मध्ये इति निपात्यते",
+    "why": "vyakhyana",
+    "ref": "PV",
+    "quote": "तत्सन्नियोगेन चैतयोरेकारान्तत्वं निपात्यते"
+   },
+   {
+    "word": "षष्ठ्या",
+    "source": "own",
+    "role": "qualifier",
+    "render": "षष्ठ्यन्तेन सुबन्तेन सह",
+    "why": "tadanta",
+    "ref": "PV",
+    "quote": "षष्ठ्यन्तेन सुबन्तेन सह"
+   },
+   {
+    "word": "वा",
+    "source": "own",
+    "role": "option",
+    "render": "विकल्पेन",
+    "why": "case",
+    "ref": "PV",
+    "quote": "वा वचनात् सोऽपि भवति"
+   },
+   {
+    "word": "अव्ययीभावः",
+    "source": "carried:2.1.5",
+    "role": "samjna",
+    "render": "अव्ययीभावः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "अव्ययीभावश्च समासो भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "2.2.36": {
+  "n": "2.2.36",
+  "kind": "niyama",
+  "roles": [
+   {
+    "word": "निष्ठा",
+    "source": "own",
+    "role": "sthani",
+    "render": "निष्ठान्तं शब्दरूपम्",
+    "why": "tadanta",
+    "ref": "PV",
+    "quote": "निष्ठान्तं शब्दरूपं"
+   },
+   {
+    "word": "बहुव्रीहौ",
+    "source": "carried:2.2.35",
+    "role": "vishaya",
+    "render": "बहुव्रीहौ समासे",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "बहुव्रीहौ समासे"
+   },
+   {
+    "word": "पूर्वम्",
+    "source": "carried:2.2.30",
+    "role": "other",
+    "render": "पूर्वम्",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "पूर्वं प्रयोक्तव्यम्"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "2.3.21": {
+  "n": "2.3.21",
+  "kind": "vibhakti",
+  "roles": [
+   {
+    "word": "इत्थंभूतलक्षणे",
+    "source": "own",
+    "role": "artha",
+    "render": "इत्थंभूतस्य लक्षणे वाच्ये",
+    "why": "case",
+    "ref": "PV",
+    "quote": "इत्थंभूतलक्षणे"
+   },
+   {
+    "word": "तृतीया",
+    "source": "carried:2.3.18",
+    "role": "pratyaya",
+    "render": "तृतीया विभक्तिः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "तृतीया विभक्तिर्भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "2.3.23": {
+  "n": "2.3.23",
+  "kind": "vibhakti",
+  "roles": [
+   {
+    "word": "हेतौ",
+    "source": "own",
+    "role": "artha",
+    "render": "हेत्वर्थे",
+    "why": "case",
+    "ref": "PV",
+    "quote": "हेतुवाचिशब्दे"
+   },
+   {
+    "word": "तृतीया",
+    "source": "carried:2.3.18",
+    "role": "pratyaya",
+    "render": "तृतीया विभक्तिः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "तृतीया विभक्तिर्भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "2.4.1": {
+  "n": "2.4.1",
+  "kind": "atidesha",
+  "roles": [
+   {
+    "word": "द्विगुः",
+    "source": "own",
+    "role": "sthani",
+    "render": "द्विगुसमासः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "द्विगुसमास"
+   },
+   {
+    "word": "एकवचनम्",
+    "source": "own",
+    "role": "atidesha",
+    "render": "एकवद् भवति (एकस्य अर्थस्य वाचकः भवति)",
+    "why": "case",
+    "ref": "PV",
+    "quote": "एकस्य अर्थस्य वाचको भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "2.4.35": {
+  "n": "2.4.35",
+  "kind": "adhikara",
+  "roles": [
+   {
+    "word": "आर्धधातुके",
+    "source": "own",
+    "role": "adhikara",
+    "render": "आर्धधातुके (इत्यधिक्रियते)",
+    "why": "vyakhyana",
+    "ref": "PV",
+    "quote": "‹आर्धधातुके› इत्यधिकारसूत्रम्"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "2.4.84": {
+  "n": "2.4.84",
+  "kind": "adesha",
+  "roles": [
+   {
+    "word": "तृतीयासप्तम्योः",
+    "source": "own",
+    "role": "sthani",
+    "render": "तृतीयासप्तम्योः विभक्त्योः स्थाने",
+    "why": "case",
+    "ref": "PV",
+    "quote": "तृतीयासप्तम्योर्विभक्त्योः स्थाने"
+   },
+   {
+    "word": "बहुलम्",
+    "source": "own",
+    "role": "option",
+    "render": "बहुलम्",
+    "why": "case",
+    "ref": "PV",
+    "quote": "बहुलम् अम्-भावो भवति"
+   },
+   {
+    "word": "अतः",
+    "source": "carried:2.4.83",
+    "role": "qualifier",
+    "render": "अदन्तात्",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "अदन्तादव्ययीभावाद्"
+   },
+   {
+    "word": "अव्ययीभावात्",
+    "source": "carried:2.4.83",
+    "role": "purva",
+    "render": "अव्ययीभावात् परयोः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "अव्ययीभावाद् उत्तरयोः"
+   },
+   {
+    "word": "अम्",
+    "source": "carried:2.4.83",
+    "role": "adesha",
+    "render": "अम्-आदेशः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "अम्-भावो भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "3.1.31": {
+  "n": "3.1.31",
+  "kind": "vidhi-pratyaya",
+  "roles": [
+   {
+    "word": "आयादयः",
+    "source": "own",
+    "role": "pratyaya",
+    "render": "आयादयः प्रत्ययाः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "आयादयः प्रत्ययाः"
+   },
+   {
+    "word": "आर्धधातुके",
+    "source": "own",
+    "role": "nimitta",
+    "render": "आर्धधातुकविषये",
+    "why": "vyakhyana",
+    "ref": "PV",
+    "quote": "आर्धधातुकविषये"
+   },
+   {
+    "word": "वा",
+    "source": "own",
+    "role": "option",
+    "render": "विकल्पेन",
+    "why": "case",
+    "ref": "PV",
+    "quote": "विकल्पेन भवन्ति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "3.2.108": {
+  "n": "3.2.108",
+  "kind": "adesha",
+  "roles": [
+   {
+    "word": "भाषायाम्",
+    "source": "own",
+    "role": "vishaya",
+    "render": "भाषायाम् विषये",
+    "why": "case",
+    "ref": "PV",
+    "quote": "भाषायां विषये"
+   },
+   {
+    "word": "सद-वस-श्रुवः",
+    "source": "own",
+    "role": "prakriti",
+    "render": "सद-वस-श्रु-धातुभ्यः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "सद वस श्रु इत्येतेभ्यो धातुभ्यः"
+   },
+   {
+    "word": "क्वसुः",
+    "source": "carried:3.2.107",
+    "role": "adesha",
+    "render": "क्वसुः आदेशः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "क्वसुरादेशो भवति"
+   },
+   {
+    "word": "लिटः",
+    "source": "carried:3.2.106",
+    "role": "sthani",
+    "render": "लिटः स्थाने",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "लिटश्च स्थाने"
+   },
+   {
+    "word": "वा",
+    "source": "carried:3.2.106",
+    "role": "option",
+    "render": "विकल्पेन",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "विकल्पेन"
+   },
+   {
+    "word": "भूते",
+    "source": "carried:3.2.84",
+    "role": "artha",
+    "render": "भूते काले",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "भूते काले"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "3.4.85": {
+  "n": "3.4.85",
+  "kind": "atidesha",
+  "roles": [
+   {
+    "word": "लोटः",
+    "source": "own",
+    "role": "sthani",
+    "render": "लोटः लकारस्य",
+    "why": "case",
+    "ref": "PV",
+    "quote": "लोट्लकारस्य"
+   },
+   {
+    "word": "लङ्वत्",
+    "source": "own",
+    "role": "atidesha",
+    "render": "लङ् इव",
+    "why": "case",
+    "ref": "SK",
+    "quote": "लङ इव कार्यं स्यात्"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "3.4.86": {
+  "n": "3.4.86",
+  "kind": "adesha",
+  "roles": [
+   {
+    "word": "लोटः",
+    "source": "carried:3.4.85",
+    "role": "qualifier",
+    "render": "लोटः आदेशानाम्",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "लोडादेशानाम्"
+   },
+   {
+    "word": "एः",
+    "source": "own",
+    "role": "sthani",
+    "render": "इकारस्य स्थाने",
+    "why": "case",
+    "ref": "PV",
+    "quote": "इकारस्य स्थाने"
+   },
+   {
+    "word": "उः",
+    "source": "own",
+    "role": "adesha",
+    "render": "उकारः आदेशः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "उकारादेशो भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "3.4.115": {
+  "n": "3.4.115",
+  "kind": "samjna",
+  "roles": [
+   {
+    "word": "लिट्",
+    "source": "own",
+    "role": "samjni",
+    "render": "लिडादेशाः तिङः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "लिडादेशा ये तिबादयस्ते"
+   },
+   {
+    "word": "आर्धधातुकम्",
+    "source": "carried:3.4.114",
+    "role": "samjna",
+    "render": "आर्धधातुकसंज्ञकाः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "आर्द्धधातुकसंज्ञका भवन्ति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "4.1.174": {
+  "n": "4.1.174",
+  "kind": "samjna",
+  "roles": [
+   {
+    "word": "ते",
+    "source": "own",
+    "role": "samjni",
+    "render": "पूर्वोक्ताः अञादयः प्रत्ययाः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "ते पूर्वोक्ता अञादयः"
+   },
+   {
+    "word": "तद्राजाः",
+    "source": "own",
+    "role": "samjna",
+    "render": "तद्राजसंज्ञकाः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "तद्राजसंज्ञका भवन्ति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "5.2.40": {
+  "n": "5.2.40",
+  "kind": "adesha",
+  "roles": [
+   {
+    "word": "किमिदम्भ्याम्",
+    "source": "own",
+    "role": "prakriti",
+    "render": "किम्-इदम्-प्रातिपदिकाभ्याम्",
+    "why": "case",
+    "ref": "PV",
+    "quote": "किम्, इदम् प्रातिपदिकाभ्यां"
+   },
+   {
+    "word": "वः",
+    "source": "own",
+    "role": "sthani",
+    "render": "वकारस्य स्थाने",
+    "why": "case",
+    "ref": "PV",
+    "quote": "तस्य च वकारस्य"
+   },
+   {
+    "word": "घः",
+    "source": "own",
+    "role": "adesha",
+    "render": "घकारादेशः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "घकारादेशः"
+   },
+   {
+    "word": "वतुप्",
+    "source": "carried:5.2.39",
+    "role": "pratyaya",
+    "render": "वतुप्-प्रत्ययः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "वतुप् प्रत्ययो भवति"
+   },
+   {
+    "word": "परिमाणे",
+    "source": "carried:5.2.39",
+    "role": "qualifier",
+    "render": "परिमाणे वर्तमानाभ्याम्",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "परिमाणे वर्तमानाभ्याम्"
+   },
+   {
+    "word": "तत्",
+    "source": "carried:5.2.36",
+    "role": "samartha",
+    "render": "प्रथमासमर्थाभ्याम्",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "प्रथमासमर्थाभ्यां"
+   },
+   {
+    "word": "अस्य",
+    "source": "carried:5.2.36",
+    "role": "artha",
+    "render": "अस्य परिमाणम् इत्यर्थे",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "अस्य परिमाणम् इत्येतस्मिन्नर्थे"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "5.2.116": {
+  "n": "5.2.116",
+  "kind": "vidhi-pratyaya",
+  "roles": [
+   {
+    "word": "व्रीह्यादिभ्यः",
+    "source": "own",
+    "role": "prakriti",
+    "render": "व्रीह्यादिभ्यः प्रातिपदिकेभ्यः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "व्रीह्यादिभ्यः प्रातिपदिकेभ्य"
+   },
+   {
+    "word": "इनिठनौ",
+    "source": "carried:5.2.115",
+    "role": "pratyaya",
+    "render": "इनि-ठनौ प्रत्ययौ",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "इनिठनौ प्रत्ययौ भवतो"
+   },
+   {
+    "word": "तदस्यास्त्यस्मिन्निति",
+    "source": "carried:5.2.94",
+    "role": "artha",
+    "render": "मत्वर्थे",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "मत्वर्थे"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "5.3.58": {
+  "n": "5.3.58",
+  "kind": "niyama",
+  "roles": [
+   {
+    "word": "अजादी",
+    "source": "own",
+    "role": "pratyaya",
+    "render": "अजादी प्रत्ययौ",
+    "why": "case",
+    "ref": "PV",
+    "quote": "अजादी = इष्ठन् ईयसुन् इत्येतौ प्रत्ययौ"
+   },
+   {
+    "word": "गुणवचनात्",
+    "source": "own",
+    "role": "prakriti",
+    "render": "गुणवचनात्",
+    "why": "case",
+    "ref": "PV",
+    "quote": "गुणवचनाद् एव भवतः"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "5.3.60": {
+  "n": "5.3.60",
+  "kind": "adesha",
+  "roles": [
+   {
+    "word": "प्रशस्यस्य",
+    "source": "own",
+    "role": "sthani",
+    "render": "प्रशस्यशब्दस्य स्थाने",
+    "why": "case",
+    "ref": "PV",
+    "quote": "प्रशस्यशब्दस्य स्थाने"
+   },
+   {
+    "word": "श्रः",
+    "source": "own",
+    "role": "adesha",
+    "render": "श्रः आदेशः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "श्र इत्ययमादेशो भवति"
+   },
+   {
+    "word": "अजादी",
+    "source": "carried:5.3.58",
+    "role": "nimitta",
+    "render": "अजाद्योः प्रत्यययोः परतः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "अजाद्योः प्रत्यययोः परतः"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "5.4.128": {
+  "n": "5.4.128",
+  "kind": "nipatana",
+  "roles": [
+   {
+    "word": "द्विदण्ड्यादिभ्यः",
+    "source": "own",
+    "role": "nipatana",
+    "render": "द्विदण्ड्यादयः शब्दाः",
+    "why": "vyakhyana",
+    "ref": "PV",
+    "quote": "द्विदण्डादयः शब्दा इच् प्रत्ययान्ता निपात्यन्ते"
+   },
+   {
+    "word": "इच्",
+    "source": "carried:5.4.127",
+    "role": "pratyaya",
+    "render": "इच्-प्रत्ययान्ताः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "इच् प्रत्ययान्ता निपात्यन्ते"
+   }
+  ],
+  "yathasankhya": false,
+  "note": "KV and SK explain the 5th case as tādarthye pañcamī (ic is introduced for these forms), or as a nipātana rule."
+ },
+ "6.1.3": {
+  "n": "6.1.3",
+  "kind": "nishedha",
+  "roles": [
+   {
+    "word": "न",
+    "source": "own",
+    "role": "negation",
+    "render": "न",
+    "why": "case",
+    "ref": "PV",
+    "quote": "न द्विरुच्यन्ते"
+   },
+   {
+    "word": "न्द्राः",
+    "source": "own",
+    "role": "sthani",
+    "render": "न्द्राः (नकार-दकार-रेफाः)",
+    "why": "case",
+    "ref": "PV",
+    "quote": "नकारदकाररेफाः न द्विरुच्यन्ते"
+   },
+   {
+    "word": "संयोगादयः",
+    "source": "own",
+    "role": "qualifier",
+    "render": "संयोगस्याद्यवयवभूताः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "संयोगस्याद्यवयवभूता"
+   },
+   {
+    "word": "अजादेः",
+    "source": "carried:6.1.2",
+    "role": "qualifier",
+    "render": "अजादेः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "अजादेर्द्वितीयस्य"
+   },
+   {
+    "word": "द्वितीयस्य",
+    "source": "carried:6.1.2",
+    "role": "qualifier",
+    "render": "द्वितीयस्य",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "द्वितीयस्य एकाचः"
+   },
+   {
+    "word": "एकाचः",
+    "source": "carried:6.1.1",
+    "role": "qualifier",
+    "render": "एकाचः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "द्वितीयस्य एकाचः"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "6.1.37": {
+  "n": "6.1.37",
+  "kind": "nishedha",
+  "roles": [
+   {
+    "word": "सम्प्रसारणे",
+    "source": "own",
+    "role": "nimitta",
+    "render": "सम्प्रसारणे परतः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "सम्प्रसारणे परतः"
+   },
+   {
+    "word": "यणः",
+    "source": "supplied:1.1.45",
+    "role": "sthani",
+    "render": "पूर्वस्य यणः",
+    "why": "vyakhyana",
+    "ref": "PV",
+    "quote": "पूर्वस्य यणः"
+   },
+   {
+    "word": "सम्प्रसारणम्",
+    "source": "own",
+    "role": "adesha",
+    "render": "सम्प्रसारणम्",
+    "why": "case",
+    "ref": "PV",
+    "quote": "सम्प्रसारणं न भवति"
+   },
+   {
+    "word": "न",
+    "source": "own",
+    "role": "negation",
+    "render": "न",
+    "why": "case",
+    "ref": "PV",
+    "quote": "न भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "6.1.63": {
+  "n": "6.1.63",
+  "kind": "adesha",
+  "roles": [
+   {
+    "word": "पद्-दत्-नस्-मास्-हृत्-निश्-असन्-यूषन्-दोषन्-यकन्-शकन्-उदन्-आसन्",
+    "source": "own",
+    "role": "adesha",
+    "render": "पद्-दत्-नस्-मास्-हृत्-निश्-असन्-यूषन्-दोषन्-यकन्-शकन्-उदन्-आसन् आदेशाः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "इत्येते आदेशा भवन्ति"
+   },
+   {
+    "word": "शस्प्रभृतिषु",
+    "source": "own",
+    "role": "nimitta",
+    "render": "शस्प्रभृतिषु प्रत्ययेषु परतः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "शस्प्रभृतिषु प्रत्ययेषु परतः"
+   },
+   {
+    "word": "पाद-दन्त-नासिका-मास-हृदय-निशा-असृज्-यूष-दोष-यकृत्-शकृत्-उदक-आस्य",
+    "source": "supplied:?",
+    "role": "sthani",
+    "render": "पाद-दन्त-नासिका-मास-हृदय-निशा-असृज्-यूष-दोष-यकृत्-शकृत्-उदक-आस्यानाम् स्थाने",
+    "why": "vyakhyana",
+    "ref": "PV",
+    "quote": "इत्येतेषां स्थाने"
+   },
+   {
+    "word": "छन्दसि",
+    "source": "carried:6.1.60",
+    "role": "vishaya",
+    "render": "छन्दसि विषये",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "छन्दसि विषये"
+   }
+  ],
+  "yathasankhya": true,
+  "note": "PV restricts the rule to छन्दसि, whereas SK and SA treat the substitution as optional (वा/विकल्पेन)."
+ },
+ "6.1.120": {
+  "n": "6.1.120",
+  "kind": "other",
+  "roles": [
+   {
+    "word": "अनुदात्ते",
+    "source": "own",
+    "role": "qualifier",
+    "render": "अनुदात्ते",
+    "why": "case",
+    "ref": "PV",
+    "quote": "ऽनुदात्ते चाति"
+   },
+   {
+    "word": "कुधपरे",
+    "source": "own",
+    "role": "qualifier",
+    "render": "कवर्गधकारपरे",
+    "why": "case",
+    "ref": "PV",
+    "quote": "कवर्गधकारपरे परत"
+   },
+   {
+    "word": "यजुषि",
+    "source": "carried:6.1.117",
+    "role": "vishaya",
+    "render": "यजुषि विषये",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "यजुषि विषये"
+   },
+   {
+    "word": "अति",
+    "source": "carried:6.1.109",
+    "role": "nimitta",
+    "render": "अति परतः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "चाति कवर्गधकारपरे"
+   },
+   {
+    "word": "एङ्",
+    "source": "carried:6.1.109",
+    "role": "sthani",
+    "render": "एङ्",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "एङ् प्रकृत्या भवति"
+   },
+   {
+    "word": "प्रकृत्या",
+    "source": "carried:6.1.115",
+    "role": "other",
+    "render": "प्रकृत्या",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "प्रकृत्या भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "6.1.123": {
+  "n": "6.1.123",
+  "kind": "adesha",
+  "roles": [
+   {
+    "word": "अवङ्",
+    "source": "own",
+    "role": "adesha",
+    "render": "अवङ् आदेशः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "गोरवङादेशो भवति"
+   },
+   {
+    "word": "स्फोटायनस्य",
+    "source": "own",
+    "role": "acharya",
+    "render": "स्फोटायनस्य आचार्यस्य मतेन",
+    "why": "vyakhyana",
+    "ref": "PV",
+    "quote": "स्फोटायनस्याचार्यस्य मतेन"
+   },
+   {
+    "word": "गोः",
+    "source": "carried:6.1.122",
+    "role": "sthani",
+    "render": "गोः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "गोरवङादेशो"
+   },
+   {
+    "word": "अचि",
+    "source": "carried:6.1.77",
+    "role": "nimitta",
+    "render": "अचि परतः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "अचि परतो"
+   },
+   {
+    "word": "विभाषा",
+    "source": "carried:6.1.122",
+    "role": "option",
+    "render": "विकल्पेन",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "विकल्पेन"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "6.1.135": {
+  "n": "6.1.135",
+  "kind": "adhikara",
+  "roles": [
+   {
+    "word": "सुट्",
+    "source": "own",
+    "role": "agama",
+    "render": "सुडागमः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "सुडागमो भवतीत्यधिकारो"
+   },
+   {
+    "word": "कात्",
+    "source": "own",
+    "role": "nimitta",
+    "render": "ककारात्",
+    "why": "vyakhyana",
+    "ref": "PV",
+    "quote": "ककारात् पूर्वः"
+   },
+   {
+    "word": "पूर्वः",
+    "source": "own",
+    "role": "qualifier",
+    "render": "पूर्वः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "ककारात् पूर्वः"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "6.1.187": {
+  "n": "6.1.187",
+  "kind": "svara",
+  "roles": [
+   {
+    "word": "सिचः",
+    "source": "own",
+    "role": "prakriti",
+    "render": "सिजन्तस्य",
+    "why": "tadanta",
+    "ref": "PV",
+    "quote": "सिजन्तस्य"
+   },
+   {
+    "word": "आदिः",
+    "source": "own",
+    "role": "sthani",
+    "render": "आदिः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "आदिरुदात्तो भवति"
+   },
+   {
+    "word": "अन्यतरस्याम्",
+    "source": "own",
+    "role": "option",
+    "render": "विकल्पेन",
+    "why": "case",
+    "ref": "PV",
+    "quote": "विकल्पेनादिरुदात्तो भवति"
+   },
+   {
+    "word": "उदात्तः",
+    "source": "carried:6.1.159",
+    "role": "accent",
+    "render": "उदात्तः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "उदात्तो भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "6.1.198": {
+  "n": "6.1.198",
+  "kind": "svara",
+  "roles": [
+   {
+    "word": "आमन्त्रितस्य",
+    "source": "own",
+    "role": "prakriti",
+    "render": "आमन्त्रितस्य पदस्य",
+    "why": "case",
+    "ref": "PV",
+    "quote": "आमन्त्रितस्यादिरुदात्तो भवति"
+   },
+   {
+    "word": "आदिः",
+    "source": "carried:6.1.197",
+    "role": "sthani",
+    "render": "आदिः स्वरः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "आमन्त्रितस्यादिरुदात्तो भवति"
+   },
+   {
+    "word": "उदात्तः",
+    "source": "carried:6.1.159",
+    "role": "accent",
+    "render": "उदात्तः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "आमन्त्रितस्यादिरुदात्तो भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "6.1.217": {
+  "n": "6.1.217",
+  "kind": "svara",
+  "roles": [
+   {
+    "word": "उपोत्तमम्",
+    "source": "own",
+    "role": "sthani",
+    "render": "उपोत्तमम्",
+    "why": "case",
+    "ref": "PV",
+    "quote": "उपोत्तममुदात्तं भवति"
+   },
+   {
+    "word": "रिति",
+    "source": "own",
+    "role": "qualifier",
+    "render": "रिदन्तस्य",
+    "why": "tadanta",
+    "ref": "PV",
+    "quote": "रिदन्तस्य"
+   },
+   {
+    "word": "उदात्तः",
+    "source": "carried:6.1.159",
+    "role": "accent",
+    "render": "उदात्तः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "उदात्तं भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "6.1.218": {
+  "n": "6.1.218",
+  "kind": "svara",
+  "roles": [
+   {
+    "word": "चङि",
+    "source": "own",
+    "role": "qualifier",
+    "render": "चङन्तस्य",
+    "why": "tadanta",
+    "ref": "PV",
+    "quote": "चङन्तस्य"
+   },
+   {
+    "word": "अन्यतरस्याम्",
+    "source": "own",
+    "role": "option",
+    "render": "अन्यतरस्याम्",
+    "why": "case",
+    "ref": "PV",
+    "quote": "ऽन्यतरस्यामुपोत्तमम्"
+   },
+   {
+    "word": "उपोत्तमम्",
+    "source": "carried:6.1.217",
+    "role": "sthani",
+    "render": "उपोत्तमम्",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "उपोत्तममुदात्तं भवति"
+   },
+   {
+    "word": "उदात्तः",
+    "source": "carried:6.1.159",
+    "role": "accent",
+    "render": "उदात्तः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "उदात्तं भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "6.2.35": {
+  "n": "6.2.35",
+  "kind": "svara",
+  "roles": [
+   {
+    "word": "संख्या",
+    "source": "own",
+    "role": "qualifier",
+    "render": "संख्यावाचि",
+    "why": "vyakhyana",
+    "ref": "PV",
+    "quote": "सङ्ख्यावाचि पूर्वपदं"
+   },
+   {
+    "word": "द्वन्द्वे",
+    "source": "carried:6.2.34",
+    "role": "vishaya",
+    "render": "द्वन्द्वे समासे",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "द्वन्द्वसमासे"
+   },
+   {
+    "word": "पूर्वपदम्",
+    "source": "carried:6.2.1",
+    "role": "sthani",
+    "render": "पूर्वपदम्",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "पूर्वपदं प्रकृतिस्वरं भवति"
+   },
+   {
+    "word": "प्रकृत्या",
+    "source": "carried:6.2.1",
+    "role": "accent",
+    "render": "प्रकृत्या",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "प्रकृतिस्वरं भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "6.2.74": {
+  "n": "6.2.74",
+  "kind": "svara",
+  "roles": [
+   {
+    "word": "प्राचाम्",
+    "source": "own",
+    "role": "qualifier",
+    "render": "प्राग्देशनिवासिनाम्",
+    "why": "vyakhyana",
+    "ref": "PV",
+    "quote": "प्राग्देशनिवासिनां या क्रीडा"
+   },
+   {
+    "word": "क्रीडायाम्",
+    "source": "own",
+    "role": "artha",
+    "render": "क्रीडायाम् अर्थे",
+    "why": "case",
+    "ref": "PV",
+    "quote": "क्रीडा तद्वाचिनि समासे"
+   },
+   {
+    "word": "अके",
+    "source": "carried:6.2.73",
+    "role": "nimitta",
+    "render": "अकप्रत्ययान्ते उत्तरपदे",
+    "why": "tadanta",
+    "ref": "PV",
+    "quote": "अकप्रत्ययान्त उत्तरपदे"
+   },
+   {
+    "word": "पूर्वपदम्",
+    "source": "carried:6.2.1",
+    "role": "sthani",
+    "render": "पूर्वपदम्",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "पूर्वपदमाद्युदात्तं भवति"
+   },
+   {
+    "word": "आदिः",
+    "source": "carried:6.2.64",
+    "role": "qualifier",
+    "render": "आदिः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "पूर्वपदमाद्युदात्तं भवति"
+   },
+   {
+    "word": "उदात्तः",
+    "source": "carried:6.2.64",
+    "role": "accent",
+    "render": "उदात्तः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "पूर्वपदमाद्युदात्तं भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "6.2.142": {
+  "n": "6.2.142",
+  "kind": "nishedha",
+  "roles": [
+   {
+    "word": "न",
+    "source": "own",
+    "role": "negation",
+    "render": "न",
+    "why": "case",
+    "ref": "PV",
+    "quote": "न भवतः"
+   },
+   {
+    "word": "उत्तरपदे",
+    "source": "own",
+    "role": "nimitta",
+    "render": "उत्तरपदे परे",
+    "why": "case",
+    "ref": "PV",
+    "quote": "उत्तरपदे"
+   },
+   {
+    "word": "अनुदात्तादौ",
+    "source": "own",
+    "role": "qualifier",
+    "render": "अनुदात्तादौ उत्तरपदे",
+    "why": "case",
+    "ref": "PV",
+    "quote": "अनुदात्तादौ उत्तरपदे"
+   },
+   {
+    "word": "अपृथिवीरुद्रपूषमन्थिषु",
+    "source": "own",
+    "role": "qualifier",
+    "render": "पृथिवी-रुद्र-पूष-मन्थि-वर्जिते",
+    "why": "case",
+    "ref": "PV",
+    "quote": "पृथिवीरुद्रपूषमन्थिवर्जिते"
+   },
+   {
+    "word": "देवताद्वन्द्वे",
+    "source": "carried:6.2.141",
+    "role": "vishaya",
+    "render": "देवताद्वन्द्वे",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "देवताद्वन्द्वे"
+   },
+   {
+    "word": "उभे",
+    "source": "carried:6.2.140",
+    "role": "sthani",
+    "render": "उभे पदे",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "उभे प्रकृतिस्वरे"
+   },
+   {
+    "word": "प्रकृत्या",
+    "source": "carried:6.2.137",
+    "role": "accent",
+    "render": "प्रकृतिस्वरे",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "प्रकृतिस्वरे"
+   },
+   {
+    "word": "युगपत्",
+    "source": "carried:6.2.140",
+    "role": "qualifier",
+    "render": "युगपत्",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "युगपद् उभे"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "6.3.26": {
+  "n": "6.3.26",
+  "kind": "adesha",
+  "roles": [
+   {
+    "word": "देवताद्वन्द्वे",
+    "source": "own",
+    "role": "vishaya",
+    "render": "देवतावाचिनां द्वन्द्वे समासे",
+    "why": "case",
+    "ref": "PV",
+    "quote": "देवतावाचिनां यो द्वन्द्वस्तत्र"
+   },
+   {
+    "word": "आनङ्",
+    "source": "carried:6.3.25",
+    "role": "adesha",
+    "render": "पूर्वपदस्य आनङ् आदेशः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "पूर्वपदस्यानङादेशो भवति"
+   },
+   {
+    "word": "उत्तरपदे",
+    "source": "carried:6.3.1",
+    "role": "nimitta",
+    "render": "उत्तरपदे परतः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "उत्तरपदे"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "6.3.52": {
+  "n": "6.3.52",
+  "kind": "adesha",
+  "roles": [
+   {
+    "word": "पादस्य",
+    "source": "own",
+    "role": "sthani",
+    "render": "पादस्य",
+    "why": "case",
+    "ref": "PV",
+    "quote": "पादस्य"
+   },
+   {
+    "word": "पद",
+    "source": "own",
+    "role": "adesha",
+    "render": "पदित्ययमादेशः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "'पद' इत्ययमादेशो भवति"
+   },
+   {
+    "word": "आज्यातिगोपहतेषु",
+    "source": "own",
+    "role": "nimitta",
+    "render": "आजि-आति-ग-उपहतेषु उत्तरपदेषु",
+    "why": "case",
+    "ref": "PV",
+    "quote": "आजि, आति, ग, उपहत इत्येतेषूत्तरपदेषु"
+   },
+   {
+    "word": "उत्तरपदे",
+    "source": "carried:6.3.1",
+    "role": "nimitta",
+    "render": "उत्तरपदे",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "उत्तरपदेषु"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "6.3.75": {
+  "n": "6.3.75",
+  "kind": "nipatana",
+  "roles": [
+   {
+    "word": "नभ्राण्नपान्नवेदानासत्यानमुचिनकुलनखनपुंसकनक्षत्रनक्रनाकेषु",
+    "source": "own",
+    "role": "nipatana",
+    "render": "नभ्राट्, नपात्... इत्येतेषु निपातनेषु",
+    "why": "case",
+    "ref": "KV",
+    "quote": "स्त्रीपुंसयोः पुंसकभावो निपात्यते।"
+   },
+   {
+    "word": "प्रकृत्या",
+    "source": "own",
+    "role": "adesha",
+    "render": "प्रकृत्या",
+    "why": "case",
+    "ref": "PV",
+    "quote": "प्रकृत्या भवति"
+   },
+   {
+    "word": "नञः",
+    "source": "carried:6.3.73",
+    "role": "sthani",
+    "render": "नञ्",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "नञ् प्रकृत्या भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "6.3.78": {
+  "n": "6.3.78",
+  "kind": "adesha",
+  "roles": [
+   {
+    "word": "सहस्य",
+    "source": "own",
+    "role": "sthani",
+    "render": "सहशब्दस्य",
+    "why": "case",
+    "ref": "PV",
+    "quote": "सहशब्दस्य स इत्ययमादेशो भवति"
+   },
+   {
+    "word": "सः",
+    "source": "own",
+    "role": "adesha",
+    "render": "स इत्यादेशः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "स इत्ययमादेशो भवति"
+   },
+   {
+    "word": "संज्ञायाम्",
+    "source": "own",
+    "role": "vishaya",
+    "render": "संज्ञायां विषये",
+    "why": "case",
+    "ref": "PV",
+    "quote": "संज्ञायां विषये"
+   },
+   {
+    "word": "उत्तरपदे",
+    "source": "carried:6.3.1",
+    "role": "nimitta",
+    "render": "उत्तरपदे",
+    "why": "carried",
+    "ref": "SK",
+    "quote": "उत्तरपदे"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "6.3.109": {
+  "n": "6.3.109",
+  "kind": "nipatana",
+  "roles": [
+   {
+    "word": "पृषोदरादीनि",
+    "source": "own",
+    "role": "nipatana",
+    "render": "पृषोदरादीनि शब्दरूपाणि",
+    "why": "case",
+    "ref": "PV",
+    "quote": "पृषोदरप्रकाराणि शब्दरूपाणि"
+   },
+   {
+    "word": "यथोपदिष्टम्",
+    "source": "own",
+    "role": "qualifier",
+    "render": "शिष्टैर्यथोच्चारितानि",
+    "why": "vyakhyana",
+    "ref": "PV",
+    "quote": "शिष्टैर्यथोच्चारितानि"
+   }
+  ],
+  "yathasankhya": false,
+  "note": "KV text in input is misplaced; PV and SK followed."
+ },
+ "6.4.135": {
+  "n": "6.4.135",
+  "kind": "adesha",
+  "roles": [
+   {
+    "word": "ष-पूर्व-हन्-धृत-राज्ञाम्",
+    "source": "own",
+    "role": "qualifier",
+    "render": "षकारपूर्वस्य हनः धृतराज्ञश्च",
+    "why": "case",
+    "ref": "PV",
+    "quote": "षकारपूर्वस्य हनो धृतराज्ञश्च"
+   },
+   {
+    "word": "अणि",
+    "source": "own",
+    "role": "nimitta",
+    "render": "अणि प्रत्यये परतः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "आणि परतो"
+   },
+   {
+    "word": "अनः",
+    "source": "carried:6.4.134",
+    "role": "sthani",
+    "render": "अनोऽकारस्य",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "अनोऽकारस्य"
+   },
+   {
+    "word": "अत्-लोपः",
+    "source": "carried:6.4.134",
+    "role": "adesha",
+    "render": "लोपः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "लोपो भवति"
+   },
+   {
+    "word": "भस्य",
+    "source": "carried:6.4.129",
+    "role": "qualifier",
+    "render": "भसंज्ञकस्य",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "भस्य अनोऽकारस्य"
+   },
+   {
+    "word": "अङ्गस्य",
+    "source": "carried:6.4.1",
+    "role": "adhikara",
+    "render": "अङ्गस्य",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "अङ्गस्य भस्य"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "7.1.3": {
+  "n": "7.1.3",
+  "kind": "adesha",
+  "roles": [
+   {
+    "word": "झः",
+    "source": "own",
+    "role": "sthani",
+    "render": "झस्य स्थाने",
+    "why": "case",
+    "ref": "PV",
+    "quote": "झस्य स्थाने"
+   },
+   {
+    "word": "अन्तः",
+    "source": "own",
+    "role": "adesha",
+    "render": "अन्तः आदेशः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "अन्त इत्ययमादेशो भवति"
+   },
+   {
+    "word": "प्रत्ययादीनाम्",
+    "source": "carried:7.1.2",
+    "role": "qualifier",
+    "render": "प्रत्ययस्यादेः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "प्रत्ययस्यादेरवयवस्य"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "7.1.9": {
+  "n": "7.1.9",
+  "kind": "adesha",
+  "roles": [
+   {
+    "word": "अतः",
+    "source": "own",
+    "role": "qualifier",
+    "render": "अदन्तात्",
+    "why": "tadanta",
+    "ref": "PV",
+    "quote": "अदन्तादङ्गादुत्तरस्य"
+   },
+   {
+    "word": "भिसः",
+    "source": "own",
+    "role": "sthani",
+    "render": "भिसः स्थाने",
+    "why": "case",
+    "ref": "PV",
+    "quote": "भिसः स्थाने"
+   },
+   {
+    "word": "ऐस्",
+    "source": "own",
+    "role": "adesha",
+    "render": "ऐस् आदेशः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "ऐस् इत्ययमादेशो भवति"
+   },
+   {
+    "word": "अङ्गस्य",
+    "source": "carried:6.4.1",
+    "role": "purva",
+    "render": "अङ्गात् उत्तरस्य",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "अदन्तादङ्गादुत्तरस्य"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "7.2.67": {
+  "n": "7.2.67",
+  "kind": "agama",
+  "roles": [
+   {
+    "word": "वसु",
+    "source": "own",
+    "role": "nimitta",
+    "render": "वसौ परतः",
+    "why": "vyakhyana",
+    "ref": "PV",
+    "quote": "वसौ इडागमो भवति"
+   },
+   {
+    "word": "एकाजाद्घसाम्",
+    "source": "own",
+    "role": "prakriti",
+    "render": "एकाचाम् आकारान्तानां घसेश्च धातूनाम्",
+    "why": "case",
+    "ref": "PV",
+    "quote": "एकाचां (कृतद्विर्वचनानाम्) धातूनां आकारान्तानां घसेश्च"
+   },
+   {
+    "word": "इट्",
+    "source": "carried:7.2.35",
+    "role": "agama",
+    "render": "इट्",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "इडागमो भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "7.2.92": {
+  "n": "7.2.92",
+  "kind": "adesha",
+  "roles": [
+   {
+    "word": "युवावौ",
+    "source": "own",
+    "role": "adesha",
+    "render": "युव-आवौ आदेशौ",
+    "why": "case",
+    "ref": "PV",
+    "quote": "युव आव इत्येतावादेशौ भवतः"
+   },
+   {
+    "word": "द्विवचने",
+    "source": "own",
+    "role": "artha",
+    "render": "द्व्यर्थाभिधाने",
+    "why": "vyakhyana",
+    "ref": "PV",
+    "quote": "द्व्यर्थाभिधानविषये"
+   },
+   {
+    "word": "मपर्यन्तस्य",
+    "source": "carried:7.2.91",
+    "role": "sthani",
+    "render": "मपर्यन्तस्य",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "तयोर्मपर्यन्तस्य स्थाने"
+   },
+   {
+    "word": "युष्मदस्मदोः",
+    "source": "carried:7.2.86",
+    "role": "qualifier",
+    "render": "युष्मदस्मदोः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "ये युष्मदस्मदी"
+   },
+   {
+    "word": "विभक्तौ",
+    "source": "carried:7.2.84",
+    "role": "nimitta",
+    "render": "विभक्तौ परतः",
+    "why": "carried",
+    "ref": "SK",
+    "quote": "स्तो विभक्तौ"
+   }
+  ],
+  "yathasankhya": true,
+  "note": ""
+ },
+ "7.2.114": {
+  "n": "7.2.114",
+  "kind": "adesha",
+  "roles": [
+   {
+    "word": "मृजेः",
+    "source": "own",
+    "role": "prakriti",
+    "render": "मृजेः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "मृजेरङ्गस्य"
+   },
+   {
+    "word": "वृद्धिः",
+    "source": "own",
+    "role": "adesha",
+    "render": "वृद्धिः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "वृद्धिर्भवति"
+   },
+   {
+    "word": "अङ्गस्य",
+    "source": "carried:6.4.1",
+    "role": "qualifier",
+    "render": "अङ्गस्य",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "मृजेरङ्गस्य"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "7.4.46": {
+  "n": "7.4.46",
+  "kind": "adesha",
+  "roles": [
+   {
+    "word": "दः",
+    "source": "own",
+    "role": "sthani",
+    "render": "दा इत्येतस्य स्थाने",
+    "why": "case",
+    "ref": "PV",
+    "quote": "दा इत्येतस्य स्थाने"
+   },
+   {
+    "word": "दद्",
+    "source": "own",
+    "role": "adesha",
+    "render": "दद्",
+    "why": "case",
+    "ref": "PV",
+    "quote": "'दद्' इत्ययमादेशो भवति"
+   },
+   {
+    "word": "घोः",
+    "source": "own",
+    "role": "qualifier",
+    "render": "घुसंज्ञकस्य",
+    "why": "case",
+    "ref": "PV",
+    "quote": "घुसंज्ञकस्य"
+   },
+   {
+    "word": "ति",
+    "source": "carried:7.4.40",
+    "role": "qualifier",
+    "render": "तकारादौ",
+    "why": "tadadi",
+    "ref": "PV",
+    "quote": "तकारादौ"
+   },
+   {
+    "word": "किति",
+    "source": "carried:7.4.40",
+    "role": "nimitta",
+    "render": "किति प्रत्यये परतः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "क्किति प्रत्यये परतः"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "7.4.80": {
+  "n": "7.4.80",
+  "kind": "adesha",
+  "roles": [
+   {
+    "word": "ओः",
+    "source": "own",
+    "role": "qualifier",
+    "render": "उवर्णान्तस्य",
+    "why": "tadanta",
+    "ref": "PV",
+    "quote": "उवर्णान्तस्याभ्यासस्य"
+   },
+   {
+    "word": "पुयण्जि",
+    "source": "own",
+    "role": "nimitta",
+    "render": "पवर्गे यणि जकारे च परतः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "पवर्गे यणि (य, व, र, ल) जकारे"
+   },
+   {
+    "word": "अपरे",
+    "source": "own",
+    "role": "qualifier",
+    "render": "अवर्णपरे",
+    "why": "case",
+    "ref": "PV",
+    "quote": "चावर्णपरे परत"
+   },
+   {
+    "word": "अभ्यासस्य",
+    "source": "carried:7.4.58",
+    "role": "sthani",
+    "render": "अभ्यासस्य",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "उवर्णान्तस्याभ्यासस्य"
+   },
+   {
+    "word": "सनि",
+    "source": "carried:7.4.79",
+    "role": "nimitta",
+    "render": "सनि प्रत्यये परतः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "सनि प्रत्यये परतः"
+   },
+   {
+    "word": "इत्",
+    "source": "carried:7.4.76",
+    "role": "adesha",
+    "render": "इकारादेशः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "इकारादेशो भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "8.1.18": {
+  "n": "8.1.18",
+  "kind": "adhikara",
+  "roles": [
+   {
+    "word": "अनुदात्तम्",
+    "source": "own",
+    "role": "accent",
+    "render": "अनुदात्तम्",
+    "why": "case",
+    "ref": "PV",
+    "quote": "अनुदात्तं सर्वमपादादौ"
+   },
+   {
+    "word": "सर्वम्",
+    "source": "own",
+    "role": "qualifier",
+    "render": "सर्वस्य पदस्य",
+    "why": "case",
+    "ref": "KV",
+    "quote": "सर्वस्य सुबन्तस्य पदस्य"
+   },
+   {
+    "word": "अपादादौ",
+    "source": "own",
+    "role": "qualifier",
+    "render": "अपादादौ",
+    "why": "case",
+    "ref": "PV",
+    "quote": "अनुदात्तं सर्वमपादादौ"
+   },
+   {
+    "word": "पदस्य",
+    "source": "carried:8.1.16",
+    "role": "sthani",
+    "render": "पदस्य",
+    "why": "carried",
+    "ref": "KV",
+    "quote": "सर्वस्य सुबन्तस्य पदस्य"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "8.1.71": {
+  "n": "8.1.71",
+  "kind": "svara",
+  "roles": [
+   {
+    "word": "तिङि",
+    "source": "own",
+    "role": "nimitta",
+    "render": "तिङन्ते परतः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "तिङन्ते च परतो"
+   },
+   {
+    "word": "उदात्तवति",
+    "source": "own",
+    "role": "qualifier",
+    "render": "उदात्तवति",
+    "why": "case",
+    "ref": "PV",
+    "quote": "उदात्तवति तिङन्ते"
+   },
+   {
+    "word": "गतिः",
+    "source": "carried:8.1.70",
+    "role": "sthani",
+    "render": "गतिसंज्ञकम्",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "गतिरनुदात्तो भवति"
+   },
+   {
+    "word": "अनुदात्तम्",
+    "source": "carried:8.1.18",
+    "role": "accent",
+    "render": "अनुदात्तः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "अनुदात्तो भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "8.2.3": {
+  "n": "8.2.3",
+  "kind": "nishedha",
+  "roles": [
+   {
+    "word": "न",
+    "source": "own",
+    "role": "negation",
+    "render": "न",
+    "why": "case",
+    "ref": "PV",
+    "quote": "नासिद्धो भवति"
+   },
+   {
+    "word": "मु",
+    "source": "own",
+    "role": "sthani",
+    "render": "मुभावः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "मुभावो नासिद्धो भवति"
+   },
+   {
+    "word": "ने",
+    "source": "own",
+    "role": "nimitta",
+    "render": "ने परतः कर्तव्ये",
+    "why": "case",
+    "ref": "PV",
+    "quote": "ने परतो यत् प्राप्नोति"
+   },
+   {
+    "word": "असिद्धम्",
+    "source": "carried:8.2.1",
+    "role": "atidesha",
+    "render": "असिद्धः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "नासिद्धो भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "8.2.30": {
+  "n": "8.2.30",
+  "kind": "adesha",
+  "roles": [
+   {
+    "word": "चोः",
+    "source": "own",
+    "role": "sthani",
+    "render": "चवर्गस्य स्थाने",
+    "why": "case",
+    "ref": "PV",
+    "quote": "चवर्गस्य स्थाने"
+   },
+   {
+    "word": "कुः",
+    "source": "own",
+    "role": "adesha",
+    "render": "कवर्गादेशः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "कवगांदेशो भवति"
+   },
+   {
+    "word": "झलि",
+    "source": "carried:8.2.26",
+    "role": "nimitta",
+    "render": "झलि परतः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "झलि परतः"
+   },
+   {
+    "word": "अन्ते",
+    "source": "carried:8.2.29",
+    "role": "nimitta",
+    "render": "पदान्ते",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "पदान्ते च"
+   },
+   {
+    "word": "पदस्य",
+    "source": "carried:8.1.16",
+    "role": "qualifier",
+    "render": "पदस्य",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "पदान्ते"
+   }
+  ],
+  "yathasankhya": false,
+  "note": "KV text in prompt belongs elsewhere; PV and SK used."
+ },
+ "8.2.44": {
+  "n": "8.2.44",
+  "kind": "adesha",
+  "roles": [
+   {
+    "word": "ल्वादिभ्यः",
+    "source": "own",
+    "role": "purva",
+    "render": "ल्वादिभ्यः उत्तरस्य",
+    "why": "case",
+    "ref": "PV",
+    "quote": "ल्वादिभ्य उत्तरस्य"
+   },
+   {
+    "word": "निष्ठातः",
+    "source": "carried:8.2.42",
+    "role": "sthani",
+    "render": "निष्ठातकारस्य स्थाने",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "निष्ठातकारस्य स्थाने"
+   },
+   {
+    "word": "नः",
+    "source": "carried:8.2.42",
+    "role": "adesha",
+    "render": "नकारादेशः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "नकारादेशो भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "8.2.78": {
+  "n": "8.2.78",
+  "kind": "adesha",
+  "roles": [
+   {
+    "word": "उपधायाम्",
+    "source": "own",
+    "role": "qualifier",
+    "render": "उपधाभूतयोः",
+    "why": "vyakhyana",
+    "ref": "PV",
+    "quote": "धातोरुपधाभूतौ"
+   },
+   {
+    "word": "र्वोः",
+    "source": "carried:8.2.76",
+    "role": "nimitta",
+    "render": "रेफवकारयोः परयोः",
+    "why": "vyakhyana",
+    "ref": "PV",
+    "quote": "रेफवकारौ तयोरुपधाया"
+   },
+   {
+    "word": "हलि",
+    "source": "carried:8.2.77",
+    "role": "nimitta",
+    "render": "हलि परतः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "हलि परतो"
+   },
+   {
+    "word": "धातोः",
+    "source": "carried:8.2.74",
+    "role": "prakriti",
+    "render": "धातोः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "धातोरुपधाभूतौ"
+   },
+   {
+    "word": "इकः",
+    "source": "carried:8.2.76",
+    "role": "sthani",
+    "render": "इकः स्थाने",
+    "why": "case",
+    "ref": "PV",
+    "quote": "इको दीर्घो भवति"
+   },
+   {
+    "word": "दीर्घः",
+    "source": "carried:8.2.76",
+    "role": "adesha",
+    "render": "दीर्घः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "दीर्घो भवति"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "8.3.35": {
+  "n": "8.3.35",
+  "kind": "adesha",
+  "roles": [
+   {
+    "word": "शर्परे",
+    "source": "own",
+    "role": "qualifier",
+    "render": "शर्परे",
+    "why": "case",
+    "ref": "PV",
+    "quote": "शर्परे"
+   },
+   {
+    "word": "विसर्जनीयः",
+    "source": "own",
+    "role": "adesha",
+    "render": "विसर्जनीयः आदेशः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "विसर्जनीय आदेशो भवति"
+   },
+   {
+    "word": "खर्",
+    "source": "carried:8.3.15",
+    "role": "nimitta",
+    "render": "खरि परतः",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "खरि परतो"
+   },
+   {
+    "word": "विसर्जनीयस्य",
+    "source": "carried:8.3.34",
+    "role": "sthani",
+    "render": "विसर्जनीयस्य स्थाने",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "विसर्जनीयस्य"
+   }
+  ],
+  "yathasankhya": false,
+  "note": ""
+ },
+ "8.3.37": {
+  "n": "8.3.37",
+  "kind": "adesha",
+  "roles": [
+   {
+    "word": "कुप्वोः",
+    "source": "own",
+    "role": "nimitta",
+    "render": "कुप्वोः परतः",
+    "why": "case",
+    "ref": "PV",
+    "quote": "कवर्गे पवर्गे च परतो"
+   },
+   {
+    "word": "≍क≍पौ",
+    "source": "own",
+    "role": "adesha",
+    "render": "जिह्वामूलीयोपध्मानीयौ",
+    "why": "case",
+    "ref": "PV",
+    "quote": "ᳵ (जिह्वामूलीयः) ᳶ (उपध्मानीयः) इत्येतावादेशौ भवतः"
+   },
+   {
+    "word": "विसर्जनीयस्य",
+    "source": "carried:8.3.34",
+    "role": "sthani",
+    "render": "विसर्जनीयस्य स्थाने",
+    "why": "carried",
+    "ref": "PV",
+    "quote": "विसर्जनीयस्य"
+   }
+  ],
+  "yathasankhya": true,
+  "note": ""
+ }
+}

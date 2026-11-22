@@ -1,0 +1,533 @@
+{
+ "pid": "PIS 119",
+ "howGrouped": "case of the triggering word (own sūtra words only) | rule kind | start of the engine trigger text; member = \"<sūtra> <word>  ⟨engine effect⟩\"",
+ "applies": 176,
+ "consideredNotApplicable": 0,
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | nipātana | X",
+   "count": 129,
+   "sutras": [
+    "3.1.42 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.1.101 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.1.102 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.1.103 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.1.104 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.1.105 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.1.114 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.1.115 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.1.116 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.1.117 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.1.121 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.1.122 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.1.123 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.1.127 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.1.128 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.1.129 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.1.130 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.1.131 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.1.132 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.2.26 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.2.37 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.2.55 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.2.109 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.2.164 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.2.169 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.3.3 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.3.68 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.3.70 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.3.78 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.3.79 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.3.80 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.3.81 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.3.85 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.3.86 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.3.101 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.3.119 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.3.122 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.3.123 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.3.124 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.4.68 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.4.73 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.4.74 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "4.1.62 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.2.14 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.2.20 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.2.22 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.2.23 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.2.71 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.2.73 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.2.74 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.2.80 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.2.84 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.2.89 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.2.90 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.2.92 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.2.93 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.2.114 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.2.126 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.3.17 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.3.104 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.4.77 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.4.83 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.4.84 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.4.120 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.4.123 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.4.126 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.4.160 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.1.12 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.1.27 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.1.36 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.1.60 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.1.81 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.1.82 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.1.83 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.1.143 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.1.144 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.1.145 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.1.146 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.1.147 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.1.148 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.1.149 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.1.150 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.1.152 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.1.153 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.1.154 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.1.155 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.1.156 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.1.157 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.3.32 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.3.33 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.3.69 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.3.113 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.4.28 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.4.29 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.4.53 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.4.54 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.4.171 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.4.172 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.4.173 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.4.174 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "6.4.175 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "7.1.43 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "7.1.48 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "7.2.18 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "7.2.20 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "7.2.21 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "7.2.26 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "7.2.27 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "7.2.30 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "7.2.32 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "7.2.33 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "7.2.34 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "7.2.69 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "7.3.61 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "7.3.62 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "7.3.68 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "7.3.69 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "7.4.34 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "7.4.36 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "8.1.14 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "8.1.15 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "8.2.13 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "8.2.50 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "8.2.55 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "8.2.58 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "8.2.59 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "8.2.60 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "8.2.61 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "8.2.67 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.42",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "trigger": "a nipātana stands against the general rules that would give another form",
+     "effect": "a nipātana stands against the general rules that would give another form",
+     "sutra": "अभ्युत्सादयांप्रजनयांचिकयांरमयामकः पावयांक्रियाद्विदामक्रन्निति च्छन्दसि",
+     "ourVrtti": "अभ्युत्सादयामकः प्रजनयामकः चिकयामकः रमयामकः पावयांक्रियात् विदामक्रन् इत्येते शब्दाः (सद्-जन्-रम्-धातूनां ण्यन्तानां लुङि आम्-प्रत्ययः; चिनोतेः अपि लुङि आम्, द्विर्वचनं कुत्वं च; पवतेः पुनातेः वा ण्यन्तस्य लिङि आम्, क्रियात् इति अनुप्रयोगः; विदेः लुङि आम्, गुणाभावः, अक्रन् इति अनुप्रयोगः) निपात्यन्ते छन्दसि विषये विकल्पेन",
+     "kashika": "अभ्युत्सादयामित्येवमादयश्छन्दसि विषयेऽन्यतरस्यां निपात्यन्ते।",
+     "prathamavrtti": "अभ्युत्सादायामकः, प्रजनयामकः, चिकयामकः, रमयामकः, पावयांच्क्रियात्, विदामक्रन् इत्येते शब्दाः छन्दसि विषये विकल्पेन निपात्यन्ते। सद जन रम इत्येतेषां ण्यन्तानां धातूनां लुङि आम् प्रत्ययो निपात्यते। चिकयामकः इत्यत्रापि चित्र धातोर्लुङि परत आम् निपात्यते"
+    },
+    {
+     "n": "5.2.14",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "trigger": "a nipātana stands against the general rules that would give another form",
+     "effect": "a nipātana stands against the general rules that would give another form",
+     "sutra": "आगवीनः",
+     "ourVrtti": "आगवीनः (आङ्-पूर्वात् गोशब्दात् ख-प्रत्ययः) इति निपात्यते कर्मकारिणि वाच्ये",
+     "kashika": "आगवीन इति निपात्यते।",
+     "prathamavrtti": "आङ्पूर्वात् गोशब्दात् कर्मकारिणि वाच्ये खः प्रत्ययो निपात्यते॥"
+    },
+    {
+     "n": "6.1.156",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "trigger": "a nipātana stands against the general rules that would give another form",
+     "effect": "a nipātana stands against the general rules that would give another form",
+     "sutra": "कारस्करो वृक्षः",
+     "ourVrtti": "कारस्करः इति शब्दः निपात्यते वृक्षे वाच्ये सुट् आगमः",
+     "kashika": "कारस्कर इति सुट् निपात्यते वृक्षश्चेद् भवति।",
+     "prathamavrtti": ""
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "group": "carried / not a sūtra word | vidhi | X",
+   "count": 19,
+   "sutras": [
+    "3.1.41 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.2.71 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.3.87 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.4.10 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.4.11 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "3.4.15 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "4.2.13 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "4.2.36 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "4.4.89 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.1.59 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.1.60 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.1.90 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.1.113 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.1.114 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.2.13 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.3.22 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.4.125 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.4.128 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.4.139 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.41",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "trigger": "a nipātana stands against the general rules that would give another form",
+     "effect": "a nipātana stands against the general rules that would give another form",
+     "sutra": "विदाङ्कुर्वन्त्वित्यन्यतरस्याम्",
+     "ourVrtti": "विदाङ्कुर्वन्तु इत्येतद् रूपम् (विद्-धातोः लोटि आम्-प्रत्ययः, गुणाभावः, लोटः लुक्, लोट्-परस्य कृञः अनुप्रयोगः) निपात्यते विकल्पेन",
+     "kashika": "किं पुनरिह निपात्यते? विदेर्लोटि आम्प्रत्ययः, गुणाभावः, लोटो लुक् , कृञश्च लोट्परस्यानुप्रयोगः।",
+     "prathamavrtti": "विदाङ्कुर्वन्तु इत्येतद् रूपं विकल्पेन निपात्यते, पक्षे विदन्तु ॥"
+    },
+    {
+     "n": "4.2.13",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "trigger": "a nipātana stands against the general rules that would give another form",
+     "effect": "a nipātana stands against the general rules that would give another form",
+     "sutra": "कौमारापूर्ववचने",
+     "ourVrtti": "कौमार (अण्-प्रत्ययान्तम्) इति निपात्यते अपूर्ववचने (पाणिग्रहणस्य अपूर्वत्वे) द्योत्ये",
+     "kashika": "कौमार इत्येतदण्प्रत्ययान्तं निपात्यतेऽपूर्ववचने।",
+     "prathamavrtti": "कौमार इत्येतदण् प्रत्ययान्तं निपात्यते, अपूर्ववचने द्योत्ये ॥"
+    },
+    {
+     "n": "5.1.113",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "trigger": "a nipātana stands against the general rules that would give another form",
+     "effect": "a nipātana stands against the general rules that would give another form",
+     "sutra": "ऐकागारिकट् चौरे",
+     "ourVrtti": "ऐकागारिकट् इति निपात्यते चौरे अभिधेये तदस्य प्रयोजनम् इत्यस्मिन् विषये",
+     "kashika": "ऐकागारिकड् इति निपात्यते चौरेऽभिधेये।",
+     "prathamavrtti": "ऐकागारिकट् इति निपात्यते चौरेऽभिधेये, तदस्य प्रयोजनमित्येतस्मिन् विषये ॥"
+    }
+   ]
+  },
+  {
+   "id": "G3",
+   "group": "carried / not a sūtra word | ādeśa | X",
+   "count": 7,
+   "sutras": [
+    "7.1.49 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "7.3.64 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "7.4.45 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "7.4.65 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "7.4.74 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "8.2.12 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "8.2.14 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.1.49",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "trigger": "a nipātana stands against the general rules that would give another form",
+     "effect": "a nipātana stands against the general rules that would give another form",
+     "sutra": "स्नात्व्यादयश्च",
+     "ourVrtti": "स्नात्वी-आदयः शब्दाः निपात्यन्ते छन्दसि विषये क्त्वा-प्रत्ययस्य",
+     "kashika": "स्नात्वी इत्येवमादयः शब्दा निपात्यन्ते छन्दसि विषये।",
+     "prathamavrtti": "स्नात्वी इत्येवमादयः शब्दाः छन्दसि विषये निपात्यन्ते, निपातनाद् ईकारान्तादेशो भवति ॥"
+    },
+    {
+     "n": "7.4.45",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "trigger": "a nipātana stands against the general rules that would give another form",
+     "effect": "a nipātana stands against the general rules that would give another form",
+     "sutra": "सुधितवसुधितनेमधितधिष्वधिषीय च",
+     "ourVrtti": "सुधित वसुधित नेमधित धिष्व धिषीय इति निपात्यन्ते छन्दसि विषये",
+     "kashika": "सुधित वसुधित नेमधित धिष्व धिषीय इत्येतानि छन्दसि विषये निपात्यन्ते।",
+     "prathamavrtti": "सुधित, वसुधित, नेमधित, धिष्व, धिषीय इत्येतानि छन्दसि विषये निपात्यन्ते ॥"
+    },
+    {
+     "n": "7.4.74",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "trigger": "a nipātana stands against the general rules that would give another form",
+     "effect": "a nipātana stands against the general rules that would give another form",
+     "sutra": "ससूवेति निगमे",
+     "ourVrtti": "ससूव (सूतेः लिटि परस्मैपदम्, वुक्-आगमः, अभ्यासस्य अत्वम्) इति निपात्यते निगमे विषये",
+     "kashika": "ससूव इति निपात्यते।",
+     "prathamavrtti": "ससूव इति निपात्यते । सूतेर्लिटि परस्मैपदं वुक् आगमोऽभ्यासस्य चात्वं निगमे (वेदे) विषये निपात्यते ॥"
+    }
+   ]
+  },
+  {
+   "id": "G4",
+   "group": "carried / not a sūtra word | ṣatva | X",
+   "count": 7,
+   "sutras": [
+    "8.3.75 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "8.3.90 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "8.3.91 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "8.3.92 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "8.3.93 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "8.3.94 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "8.3.114 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.3.75",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "trigger": "a nipātana stands against the general rules that would give another form",
+     "effect": "a nipātana stands against the general rules that would give another form",
+     "sutra": "परिस्कन्दः प्राच्यभरतेषु",
+     "ourVrtti": "परिस्कन्दः (मूर्धन्याभावः) इति निपात्यते प्राच्यभरतेषु देशेषु",
+     "kashika": "परिस्कन्द इति मूर्धन्याभावो निपात्यते प्राच्यभरतेषु प्रयोगविषयेषु।",
+     "prathamavrtti": "परिस्कन्द इत्यत्र मूर्धन्याभावो निपात्यते प्राच्यभरतेषु प्रयोगविषयेषु ॥"
+    },
+    {
+     "n": "8.3.91",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "trigger": "a nipātana stands against the general rules that would give another form",
+     "effect": "a nipātana stands against the general rules that would give another form",
+     "sutra": "कपिष्ठलो गोत्रे",
+     "ourVrtti": "कपिष्ठलः इति निपात्यते गोत्रविषये",
+     "kashika": "कपिष्ठल इति निपात्यते गोत्रविषये।",
+     "prathamavrtti": "कपिष्ठल इति मूर्धन्यादेशो निपात्यते, गोत्रविषये ॥"
+    },
+    {
+     "n": "8.3.93",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "trigger": "a nipātana stands against the general rules that would give another form",
+     "effect": "a nipātana stands against the general rules that would give another form",
+     "sutra": "वृक्षासनयोर्विष्टरः",
+     "ourVrtti": "विष्टरः इति निपात्यते वृक्षे आसने च वाच्ये",
+     "kashika": "विष्टर इति निपात्यते वृक्ष आसने च वाच्ये।",
+     "prathamavrtti": "विष्टर इति निपात्यते, वृक्षे आसने च वाच्ये ॥"
+    }
+   ]
+  },
+  {
+   "id": "G5",
+   "group": "carried / not a sūtra word | operation | X",
+   "count": 4,
+   "sutras": [
+    "3.3.74 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "4.1.59 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.4.147 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.4.150 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.3.74",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "trigger": "a nipātana stands against the general rules that would give another form",
+     "effect": "a nipātana stands against the general rules that would give another form",
+     "sutra": "निपानमाहावः",
+     "ourVrtti": "आङ्पूर्वात् वृद्धिश्च आहावः इति निपात्यते ह्वेञ्-धातोः निपाने अर्थे सम्प्रसारणम् अप् प्रत्ययः",
+     "kashika": "आङ्पूर्वस्य ह्वयतेर्धातोः संप्रसारणमप् प्रत्ययो वृद्धिश्च निपात्यते, निपानं चेदभिधेयं भवति।",
+     "prathamavrtti": "आङ्पूर्वाद् ह्वेञ्धातोः सम्प्रसारणम्, अप् प्रत्ययो वृद्धिश्च निपात्यते, निपानेऽभिधेये कर्तृभिन्ने कारके संज्ञायाम्॥"
+    },
+    {
+     "n": "4.1.59",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "trigger": "a nipātana stands against the general rules that would give another form",
+     "effect": "a nipātana stands against the general rules that would give another form",
+     "sutra": "दीर्घजिह्वी च च्छन्दसि",
+     "ourVrtti": "दीर्घजिह्वी इति निपात्यते छन्दसि विषये स्त्रियाम्",
+     "kashika": "दीर्घजिह्वी इति छन्दसि विषये निपात्यते।",
+     "prathamavrtti": "‹दीर्घजिह््वी› शब्दो ङीपन्तः स्त्रियां छन्दसि विषये निपात्यते॥"
+    },
+    {
+     "n": "5.4.147",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "trigger": "a nipātana stands against the general rules that would give another form",
+     "effect": "a nipātana stands against the general rules that would give another form",
+     "sutra": "त्रिककुत् पर्वते",
+     "ourVrtti": "त्रिककुत् (ककुदशब्दस्य लोपः समासान्तः) इति निपात्यते बहुव्रीहौ समासे पर्वते अभिधेये",
+     "kashika": "त्रिककुदि बहुव्रीहौ ककुदशब्दस्य लोपः समासान्तो निपात्यते पर्वतेऽभिधेये।",
+     "prathamavrtti": "त्रिककुदिति निपात्यते कृतान्त्यलोपः बहुव्रीहौ समासे पर्वतेऽभिधेये ॥"
+    }
+   ]
+  },
+  {
+   "id": "G6",
+   "group": "carried / not a sūtra word | samāsa | X",
+   "count": 3,
+   "sutras": [
+    "2.1.17 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "2.1.48 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "2.1.72 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.1.17",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "trigger": "a nipātana stands against the general rules that would give another form",
+     "effect": "a nipātana stands against the general rules that would give another form",
+     "sutra": "तिष्ठद्गुप्रभृतीनि च",
+     "ourVrtti": "तिष्ठद्गुप्रभृतीनि इति निपात्यते अव्ययीभावसंज्ञकानि",
+     "kashika": "तिष्ठद्ग्वादयः समुदाया एव निपात्यन्ते।",
+     "prathamavrtti": "तिष्ठद्गु इत्येवमादीनि समुदायरूपाणि अव्ययीभावसंज्ञकानि निपात्यन्ते ॥"
+    },
+    {
+     "n": "2.1.48",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "trigger": "a nipātana stands against the general rules that would give another form",
+     "effect": "a nipātana stands against the general rules that would give another form",
+     "sutra": "पात्रेसमितादयश्च",
+     "ourVrtti": "पात्रेसमित-आदयः शब्दाः निपात्यन्ते क्षेपे गम्यमाने तत्पुरुषः समासः",
+     "kashika": "समुदाया एव निपात्यन्ते।",
+     "prathamavrtti": "पात्रेसंमिताः इत्यादयः शब्दाः क्षेपे गम्यमाने समुदाया एव निपात्यन्ते, तत्पुरुषश्च समासो भवति॥"
+    },
+    {
+     "n": "2.1.72",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "trigger": "a nipātana stands against the general rules that would give another form",
+     "effect": "a nipātana stands against the general rules that would give another form",
+     "sutra": "मयूरव्यंसकादयश्च",
+     "ourVrtti": "मयूरव्यंसकादयः शब्दाः निपात्यन्ते समानाधिकरणे तत्पुरुषः",
+     "kashika": "समुदाया एव निपात्यन्ते।",
+     "prathamavrtti": "मयूरव्यंसकादयो गणशब्दाः समानाधिकरणे तत्पुरुषसञ्ज्ञका भवन्ति, समुदाया एव निपात्यन्ते॥"
+    }
+   ]
+  },
+  {
+   "id": "G7",
+   "group": "carried / not a sūtra word | vibhakti | X",
+   "count": 3,
+   "sutras": [
+    "5.3.31 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.3.32 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩",
+    "5.3.33 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩"
+   ],
+   "samples": [
+    {
+     "n": "5.3.31",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "trigger": "a nipātana stands against the general rules that would give another form",
+     "effect": "a nipātana stands against the general rules that would give another form",
+     "sutra": "उपर्युपरिष्टात्",
+     "ourVrtti": "उपरि उपरिष्टात् इत्येतौ शब्दौ निपात्येते अस्तातेः अर्थे",
+     "kashika": "उपरि उपरिष्टाद् इत्येतौ शब्दौ निपात्येते अस्तातेरर्थे।",
+     "prathamavrtti": "उपरि, उपरिष्टात् इत्येतौ शब्दौ निपात्येते अस्तातेरर्थे। ऊर्ध्वशब्दस्य उपभावः रिल्ल्रिष्टातिलौ च प्रत्ययौ निपात्येते । ऊर्ध्वायां दिशि वसति उपरि वसति, उपरि आगतः, उपरि रमणीयम् । उपरिष्टात् वसति, उपरिष्टाद् आगतः, उपरिष्टात् रमणीयम् ॥"
+    },
+    {
+     "n": "5.3.32",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "trigger": "a nipātana stands against the general rules that would give another form",
+     "effect": "a nipātana stands against the general rules that would give another form",
+     "sutra": "पश्चात्",
+     "ourVrtti": "पश्चात् (अपरस्य पश्चभावः, आति-प्रत्ययः) इति शब्दः निपात्यते अस्तातेः अर्थे",
+     "kashika": "पश्चादित्ययं शब्दो निपात्यतेऽस्तातेरर्थे।",
+     "prathamavrtti": "पश्चात् इत्ययं शब्दो निपात्यते, अस्तातेरर्थे । अपरशब्दस्य पश्चभावः, आतिश्च प्रत्ययो निपात्यते ॥"
+    },
+    {
+     "n": "5.3.33",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "trigger": "a nipātana stands against the general rules that would give another form",
+     "effect": "a nipātana stands against the general rules that would give another form",
+     "sutra": "पश्च पश्चा च च्छन्दसि",
+     "ourVrtti": "पश्च इति शब्दः पश्चा इति शब्दः निपात्येते छन्दसि विषये अस्तातेः अर्थे",
+     "kashika": "पश्चपश्चाशब्दौ निपात्येते छन्दसि विषयेऽस्तातेरर्थे।",
+     "prathamavrtti": "पश्च, पश्चा इत्येतौ शब्दौ निपात्येते छन्दसि विषये, अस्तातेरर्थे चकारात् पश्चाच्च । अपरशब्दस्य पश्च भावः, अकारआकारौ च प्रत्ययौ निपात्येते । पश्च सिंहः, पश्चा सिंहः, पश्चात् सिंहः ॥"
+    }
+   ]
+  },
+  {
+   "id": "G8",
+   "group": "carried / not a sūtra word | saṃjñā | X",
+   "count": 1,
+   "sutras": [
+    "1.4.20 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.4.20",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "trigger": "a nipātana stands against the general rules that would give another form",
+     "effect": "a nipātana stands against the general rules that would give another form",
+     "sutra": "अयस्मयादीनि च्छन्दसि",
+     "ourVrtti": "अयस्मयादीनि शब्दरूपाणि निपात्यते छन्दसि विषये भसंज्ञा",
+     "kashika": "अयस्मयादीनि शब्दरूपाणि छन्दसि विषये साधूनि भवन्ति।",
+     "prathamavrtti": "अयस्मयादीनि शब्दरूपाणि छन्दसि विषये साधूनि भवन्ति॥"
+    }
+   ]
+  },
+  {
+   "id": "G9",
+   "group": "carried / not a sūtra word | ekavat | X",
+   "count": 1,
+   "sutras": [
+    "2.4.11 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.4.11",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "trigger": "a nipātana stands against the general rules that would give another form",
+     "effect": "a nipātana stands against the general rules that would give another form",
+     "sutra": "गवाश्वप्रभृतीनि च",
+     "ourVrtti": "गवाश्वप्रभृतीनि रूपाणि इति निपात्यते द्वन्द्वरूपाणि कृतैकवद्भावानि",
+     "kashika": "गवाश्वप्रभृतीनि च कृतैकवद्भावानि द्वन्द्वरूपाणि साधूनि भवन्ति।",
+     "prathamavrtti": "गवाश्वप्रभृतीनि द्वन्द्वरूपाणि कृतैकवद्भावानि साधूनि भवन्ति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G10",
+   "group": "carried / not a sūtra word | svara | X",
+   "count": 1,
+   "sutras": [
+    "3.3.97 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.3.97",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "trigger": "a nipātana stands against the general rules that would give another form",
+     "effect": "a nipātana stands against the general rules that would give another form",
+     "sutra": "ऊतियूतिजूतिसातिहेतिकीर्तयश्च",
+     "ourVrtti": "ऊति (अवतेः क्तिन्, ऊठ्) यूति जूति (यौतेः जवतेः च, दीर्घत्वम्) साति (स्यतेः इत्त्वाभावः, सनोतेः वा) हेति (हन्तेः हिनोतेः वा) कीर्ति (कीर्तयतेः) इत्येते शब्दाः निपात्यन्ते अन्तोदात्ताः",
+     "kashika": "ऊत्यादयः शब्दा निपात्यन्ते।",
+     "prathamavrtti": "ऊत्यादयः शब्दा अन्तोदात्ता निपात्यन्ते ॥"
+    }
+   ]
+  },
+  {
+   "id": "G11",
+   "group": "carried / not a sūtra word | āgama | X",
+   "count": 1,
+   "sutras": [
+    "7.2.64 a nipātana stands against the general rules that would give another form  ⟨a nipātana stands against the general rules that would give another fo⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.2.64",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "trigger": "a nipātana stands against the general rules that would give another form",
+     "effect": "a nipātana stands against the general rules that would give another form",
+     "sutra": "बभूथाततन्थजगृम्भववर्थेति निगमे",
+     "ourVrtti": "इत्येतानि पदानि बभूथ आततन्थ जगृम्भ ववर्थ इति निपात्यन्ते निगमविषये थलि परतो इट्",
+     "kashika": "बभूथ आततन्थ जगृभ्म ववर्थ इत्येतानि निपात्यन्ते निगमविषये।",
+     "prathamavrtti": "बभूथ, आततन्थ, जगृम्भ, ववर्थ इत्येतानि पदानि थलि परतो निपात्यन्ते, निगमविषये ॥"
+    }
+   ]
+  }
+ ]
+}

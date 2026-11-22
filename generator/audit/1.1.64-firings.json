@@ -1,0 +1,110 @@
+{
+ "pid": "1.1.64",
+ "howGrouped": "case of the triggering word (own sūtra words only) | rule kind | start of the engine trigger text; member = \"<sūtra> <word>  ⟨engine effect⟩\"",
+ "applies": 6,
+ "consideredNotApplicable": 0,
+ "groups": [
+  {
+   "id": "G1",
+   "group": "named by a commentator | vidhi | X (English)",
+   "count": 2,
+   "sutras": [
+    "3.2.15 named by Vasu  ⟨टि = from the last vowel to the end⟩",
+    "4.1.13 named by Vasu  ⟨टि = from the last vowel to the end⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.2.15",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "टि = from the last vowel to the end",
+     "sutra": "अधिकरणे शेतेः",
+     "ourVrtti": "अधिकरणे उपपदे सुबन्ते शीङ्धातोः अच् प्रत्ययः परः च भवति",
+     "kashika": "शेतेर्धातोरधिकरणे सुबन्त उपपदेऽच् प्रत्ययो भवति।",
+     "prathamavrtti": "अधिकरणे सुबन्त उपपदे शीङ्धातोः अच् प्रत्ययो भवति॥"
+    },
+    {
+     "n": "4.1.13",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "टि = from the last vowel to the end",
+     "sutra": "डाबुभाभ्यामन्यतरस्याम्",
+     "ourVrtti": "मन्नन्तात् प्रातिपदिकात् अन्नन्ताच्च बहुव्रीहेः स्त्रियाम् विकल्पेन डाप् प्रत्ययः परः च भवति",
+     "kashika": "डाप् प्रत्ययो भवत्युभाभ्यां मन्नन्तात् प्रातिपदिकादनन्ताच्च बहुव्रीहेरन्यतरस्याम्।",
+     "prathamavrtti": "उभाभ्याम् = मन्नन्तात् प्रातिपदिकादन्नन्ताच्च बहुव्रीहेः प्रातिपदिकात् विकल्पेन स्त्रियां डाप् प्रत्ययो भवति ।"
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "group": "own word, data case 6 | ādeśa | X",
+   "count": 2,
+   "sutras": [
+    "3.4.79 टेः  ⟨टि = from the last vowel to the end — the place is named exactly⟩",
+    "6.3.92 टेः  ⟨टि = from the last vowel to the end — the place is named exactly⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.4.79",
+     "word": "टेः",
+     "trigger": "टेः",
+     "effect": "टि = from the last vowel to the end — the place is named exactly",
+     "sutra": "टित आत्मनेपदानां टेरे",
+     "ourVrtti": "टितः लकारस्य आत्मनेपदानाम् टेः स्थाने ए आदेशः भवति",
+     "kashika": "टितो लकारस्य स्थाने यान्यात्मनेपदानि तेषां टेरेकारादेशो भवति।",
+     "prathamavrtti": "टितो लकारस्य य आत्मनेपदादेशास्तेषां टेः एकारादेशो भवति ॥"
+    },
+    {
+     "n": "6.3.92",
+     "word": "टेः",
+     "trigger": "टेः",
+     "effect": "टि = from the last vowel to the end — the place is named exactly",
+     "sutra": "विष्वग्देवयोश्च टेरद्र्यञ्चतावप्रत्यये",
+     "ourVrtti": "वप्रत्ययान्ते अञ्चतौ उत्तरपदे विष्वग्देवयोः सर्वनाम्नः टेः स्थाने अद्रि आदेशः भवति",
+     "kashika": "विष्वक् देव इत्येतयोः सर्वनाम्नश्च टेरद्रीत्ययमादेशो भवत्यञ्चतौ वप्रत्ययान्त उत्तरपदे।",
+     "prathamavrtti": "विष्वक् देव इत्येतयोः सर्वनाम्नश्च टेः अद्रीत्ययमादेशो भवति, अञ्चतौ वप्रत्ययान्त उत्तरपदे ॥"
+    }
+   ]
+  },
+  {
+   "id": "G3",
+   "group": "named by a commentator | ekādeśa | X",
+   "count": 1,
+   "sutras": [
+    "6.1.94 named by बालमनोरमा  ⟨टि = from the last vowel to the end⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.94",
+     "word": "named by बालमनोरमा",
+     "trigger": "named by बालमनोरमा",
+     "effect": "टि = from the last vowel to the end",
+     "sutra": "एङि पररूपम्",
+     "ourVrtti": "संहितायां विषये एङादौ धातौ परे उपसर्गात् अवर्णान्तात् पूर्वपरयोः स्थाने पररूपम् एकादेशः भवति",
+     "kashika": "अवर्णान्तादुपसर्गादेङादौ धातौ पूर्वपरयोः पररूपमेकादेशो भवति।",
+     "prathamavrtti": "अवर्णान्तादुपसर्गाद् एङादौ धातौ परतः पूर्वपरयोः स्थाने पररूपमेकादेशो भवति संहितायां विषये ॥"
+    }
+   ]
+  },
+  {
+   "id": "G4",
+   "group": "named by a commentator | svara | X",
+   "count": 1,
+   "sutras": [
+    "8.2.90 named by न्यासः  ⟨टि = from the last vowel to the end⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.2.90",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "टि = from the last vowel to the end",
+     "sutra": "याज्याऽन्तः",
+     "ourVrtti": "यज्ञकर्मणि याज्यायाः अन्त्यस्य टेः स्थाने प्लुतः आदेशः उदात्तः भवति",
+     "kashika": "याज्या नाम ये याज्याकाण्डे पठ्यन्ते मन्त्रास्तेषामन्त्यो यष्टिः स प्लवते, यज्ञकर्मणि।",
+     "prathamavrtti": "याज्याकाण्डे ये पठिताः मन्त्रास्ते याज्याः। तेषामन्त्यस्य टेः प्लुत उदात्तो भवति ॥"
+    }
+   ]
+  }
+ ]
+}

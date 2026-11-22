@@ -1,0 +1,164 @@
+{
+ "pid": "PIS 28",
+ "generated": "2026-11-20",
+ "input": "audit/PIS 28-firings.json",
+ "totals": {
+  "firings": 4,
+  "licensed": 2,
+  "not_licensed": 2,
+  "unsure": 0,
+  "groups": {
+   "licensed": 2,
+   "not licensed": 2,
+   "mixed": 0,
+   "unsure": 0
+  },
+  "not_licensed_by_should_be": {
+   "none": 1,
+   "1.1.72": 1
+  },
+  "not_licensed_by_reason": {
+   "COMMENTATOR_DENIES": 2
+  },
+  "quotes": 10
+ },
+ "conditions": [
+  {
+   "text": "C1 — The vendored Śekhara's no. 28 is कृद्ग्रहणे गतिकारकपूर्वस्यापि ग्रहणम् (\"where a kṛt is named, the kṛdanta with a gati/kāraka before it is meant too\") — which is what the engine's effect text describes. गतिकारकोपपदानां कृद्भिः सह समासवचनं प्राक् सुबुत्पत्तेः is no. 76, a different maxim (the label in the audit brief is off). It holds for a kṛt in general and for a particular kṛt.",
+   "quotes": [
+    {
+     "file": "paribhashendushekhar",
+     "id": "28",
+     "quote": "कृद्ग्रहणे गतिकारकपूर्वस्यापि ग्रहणम्"
+    },
+    {
+     "file": "paribhashendushekhar",
+     "id": "28",
+     "quote": "इयं च कृत्सामान्यग्रहणे कृद्विशेषग्रहणे च"
+    },
+    {
+     "file": "paribhashendushekhar",
+     "id": "76",
+     "quote": "गतिकारकोपपदानां कृद्भिः सह समासवचनं प्राक् सुबुत्पत्तेः"
+    }
+   ]
+  },
+  {
+   "text": "C2 — Its jñāpaka is the word अनन्तरः in 6.2.49; there (and in 7.1.37) the commentators say it is NOT applied.",
+   "quotes": [
+    {
+     "file": "paribhashendushekhar",
+     "id": "28",
+     "quote": "<<गतिरनन्तरः>> [[6.2.49]] इति सूत्रेऽनन्तरग्रहणं ज्ञापकम्"
+    },
+    {
+     "file": "kashika",
+     "id": "62049",
+     "quote": "अनन्तरग्रहणसामर्थ्यादेव <<कृद्ग्रहणे गतिकारकपूर्वस्यापि०>> (परि० २८) इत्येतद् नाश्रीयते।"
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | samāsa | X",
+   "verdict": "licensed",
+   "how_checked": "SK/BM/Kāśikā on 2.1.32.",
+   "licensed": [
+    "2.1.32"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "licensed 1 · not licensed 0 · unsure 0 — Licensed: SK cites the maxim for नखनिर्भिन्नः; BM confirms (\"परिभाषेयम् … भाष्ये स्थिता\")."
+  },
+  {
+   "id": "G2",
+   "group": "carried / not a sūtra word | vidhi | X",
+   "verdict": "licensed",
+   "how_checked": "Kāśikā on 4.2.58.",
+   "licensed": [
+    "4.2.58"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "licensed 1 · not licensed 0 · unsure 0 — Licensed: \"घञ इति कृद्ग्रहणम्, तत्र गतिकारकपूर्वमपि गृह्यते\" (श्यैनंपाता)."
+  },
+  {
+   "id": "G3",
+   "group": "carried / not a sūtra word | svara | X",
+   "verdict": "not licensed",
+   "how_checked": "Kāśikā and Śekhara on 6.2.49 — the very quotation the engine cites.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "6.2.49",
+     "word": "where a kṛt suffix is named, the word with a gati or kāraka before it is meant too",
+     "line": "6.2.49 where a kṛt suffix is named, the word with a gati or kāraka before it is meant too  ⟨where a kṛt suffix is named, the word with a gati or kāraka before it ⟩",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "The engine's own quotation is a denial: by the force of अनन्तर the maxim is not resorted to here; the Śekhara adds that in 6.2.49 the bare क्तान्त is taken. 6.2.49 is the jñāpaka site, not an application.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "62049",
+       "quote": "अनन्तरग्रहणसामर्थ्यादेव <<कृद्ग्रहणे गतिकारकपूर्वस्यापि०>> (परि० २८) इत्येतद् नाश्रीयते।"
+      },
+      {
+       "file": "paribhashendushekhar",
+       "id": "28",
+       "quote": "<<गतिरनन्तरः>> [[6.2.49]] इत्यत्र तु गतेः पूर्वपदस्य क्तान्त उत्तरपदे परे कार्यविधानात्तत्समवधानेऽपि केवलस्य क्तान्तत्वेन ग्रहणं बोध्यम्"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 0 · not licensed 1 · unsure 0"
+  },
+  {
+   "id": "G4",
+   "group": "carried / not a sūtra word | ādeśa | X",
+   "verdict": "not licensed",
+   "how_checked": "Kāśikā and Nyāsa on 7.1.37 — the engine's quotation.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "7.1.37",
+     "word": "where a kṛt suffix is named, the word with a gati or kāraka before it is meant too",
+     "line": "7.1.37 where a kṛt suffix is named, the word with a gati or kāraka before it is meant too  ⟨where a kṛt suffix is named, the word with a gati or kāraka before it ⟩",
+     "should_be": "1.1.72",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "Again a denial: the क्त्वान्त samāsa is reached by tadantavidhi (1.1.72), \"not by\" this maxim (with it a नञ्-compound could never arise, so अनञ्पूर्वे would be idle). 1.1.72 is already credited here (layer 1, Kāśikā).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "71037",
+       "quote": "स च <<येन विधिस्तदन्तस्य>> [[१.१.७२]] इत्यनेन तदन्तविधिना, न तु <<कृद्ग्रहणे गतिकारकपूर्वस्यापि०>> इति।"
+      },
+      {
+       "file": "nyaas",
+       "id": "71037",
+       "quote": "कृद्ग्रहणे गतिकारकपूर्वस्यापि ग्रहणेन (व्या।प।126) वा प्रत्ययग्रहणपरिभाषया (भो।प।सू।7) तदन्तग्रहणं न शक्यते वक्तुम्।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 0 · not licensed 1 · unsure 0"
+  }
+ ],
+ "missed": [
+  {
+   "n": "2.1.25",
+   "pid": "PIS 28",
+   "why": "स्वयं क्तेन: Nyāsa applies the maxim so that a gati-preceded क्तान्त (स्वयंविलीनम्) compounds with स्वयम्; no credit. Rare otherwise (the engine's 4 credits are the only ones).",
+   "quotes": [
+    {
+     "file": "nyaas",
+     "id": "21025",
+     "quote": "इति गतिपूर्वस्यापि समासो भवति।"
+    }
+   ]
+  }
+ ]
+}

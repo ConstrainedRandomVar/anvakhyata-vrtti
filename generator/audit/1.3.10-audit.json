@@ -1,0 +1,1725 @@
+{
+ "pid": "1.3.10",
+ "generated": "2026-11-20",
+ "input": "audit/1.3.10-firings.json",
+ "conditions": [
+  {
+   "text": "Equal lists — uddeśins and anudeśins of the same number — pair up in order (1st with 1st …).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "13010",
+     "quote": "समानां समसंख्यानां समं परिपठितानाम् उद्देशिनामनुदेशिनां च यथाक्रममुद्देशिभिरनुदेशिनः संबध्यन्ते।"
+    },
+    {
+     "file": "kaumudi",
+     "id": "13010",
+     "quote": "समसम्बन्धी विधिर्यथासङ्ख्यं स्"
+    }
+   ]
+  },
+  {
+   "text": "Unequal lists do not pair (1.4.90: four meanings, three words — all with all).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "13010",
+     "quote": "लक्षणादयश्चत्वारोऽर्थाः, प्रत्यादयस्त्रयः। सर्वेषां सर्वत्र कर्मप्रवचनीयसंज्ञा भ"
+    }
+   ]
+  },
+  {
+   "text": "Only where intended (marked by svarita); where the tradition says it is not wanted, it does not apply — such denials are frequent (“यथासंख्यमत्र नेष्यते”, yogavibhāga “यथासंख्यनिरासार्थः”, irregular compound order as लक्षणव्यभिचारचिह्न).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "13010",
+     "quote": "स्वरितेन लिङ्गेन यथासंख्यम्, यत्र नेष्यते तत्र स्वरितत्वं न प्रतिज्ञा"
+    },
+    {
+     "file": "bhashya",
+     "id": "13010",
+     "quote": "कर्तृकर्मणोश्च भूकृञ्ञोः ॥ 13 ॥ कर्तृकर्मणी, द्वे, भूकृञ्ञौ द्वौ । तत्र संख्यातानुदेशः प्र"
+    }
+   ]
+  },
+  {
+   "text": "The lists may be two lists of conditions/bases with one item to be enjoined (समूलाकृतजीवेषु हन्कृञ्ग्रहः).",
+   "quotes": [
+    {
+     "file": "balamanorama",
+     "id": "13010",
+     "quote": "समूलाद्युपपदानां हनादिधातूनां च समसङ्ख्यानामुपादानेन एकस्य प्रत्ययस्य विधिरपि समसङ्ख्याकसम्बन्धी विधिरेवेति तत्रापि यथासङ्ख्यप्रवृत्तिनिर्बा"
+    }
+   ]
+  },
+  {
+   "text": "Where a class-name (इ, उ = 18 sounds each) or nearness decides the match, it is 1.1.50, not 1.3.10.",
+   "quotes": [
+    {
+     "file": "kaumudi",
+     "id": "64077",
+     "quote": "आन्तरतम्यादेरियङ् ओरुवङ् ।"
+    },
+    {
+     "file": "tattvabodhini",
+     "id": "64077",
+     "quote": "यथासङ्ख्यमिहन न प्रवर्तते, इत्याह — आन्तरतम्यादिति ।"
+    }
+   ]
+  }
+ ],
+ "totals": {
+  "firings": 197,
+  "licensed": 130,
+  "not_licensed": 64,
+  "unsure": 3,
+  "not_licensed_by_should_be": {
+   "none": 61,
+   "1.1.50": 3
+  }
+ },
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | vidhi | X: 2 members each",
+   "count": 38,
+   "verdict": "mixed",
+   "how_checked": "All 38 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "3.1.15",
+    "3.2.5",
+    "3.3.28",
+    "3.3.37",
+    "3.4.43",
+    "4.1.87",
+    "4.1.106",
+    "4.2.48",
+    "4.2.54",
+    "4.3.110",
+    "4.3.168",
+    "4.4.21",
+    "4.4.31",
+    "5.1.10",
+    "5.1.41",
+    "5.1.51",
+    "5.1.71",
+    "5.1.98",
+    "5.1.110",
+    "5.2.24",
+    "5.2.27",
+    "5.2.34",
+    "5.2.98",
+    "5.2.102",
+    "5.2.111",
+    "5.3.117",
+    "5.4.41"
+   ],
+   "not_licensed": [
+    {
+     "n": "3.4.61",
+     "word": "तस्-प्रत्यये and कृ-भ्वोः",
+     "should_be": "none",
+     "reason": "DENIED_BY_COMMENTATORS",
+     "why": "the commentators say it does not apply here — KV: no yathāsaṅkhya here (both suffixes after both dhātus)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "34061",
+       "quote": "यथासंख्यमत्र नेष्यते, अस्वरितत्वात्।"
+      }
+     ]
+    },
+    {
+     "n": "4.1.140",
+     "word": "अ-पूर्वपदात् and यत्-ढकञौ",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — अपूर्वपदात् is one word (“without a first member”), not a list; both suffixes come after कुल",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41140",
+       "quote": "अपूर्वपदात् कुलशब्दादन्यतरस्यां यत् ढकञ् इत्येतौ प्रत्ययौ भवतः।"
+      }
+     ]
+    },
+    {
+     "n": "4.1.150",
+     "word": "फाण्टाहृति-मिमताभ्याम् and ण-फिञौ",
+     "should_be": "none",
+     "reason": "DENIED_BY_COMMENTATORS",
+     "why": "the commentators say it does not apply here — KV: the irregular order of the compound signals that yathāsaṅkhya does not apply; each base takes both suffixes",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41150",
+       "quote": "अल्पाच्तरस्यापूर्वनिपातो लक्षणव्यभिचारचिह्नम्, तेन यथासंख्यमिह न भवतीति।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.107",
+     "word": "दिक्-पूर्वपदात् and अ-संज्ञायाम्",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — one base and one condition; KV: असंज्ञायाम् qualifies the base",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42107",
+       "quote": "असंज्ञायामिति प्रकृतिविशेषणम्।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.113",
+     "word": "द्वि-अचः and प्राच्य-भरतेषु",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — द्व्यचः and प्राच्यभरतेषु are two conditions on one base",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42113",
+       "quote": "द्व्यचः प्रातिपदिकात् प्राच्यभरतगोत्रादिञन्तादण् प्रत्ययो न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.116",
+     "word": "काशी-आदिभ्यः and ठञ्-ञिठौ",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — काश्यादि is one gaṇa; every member takes both suffixes",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42116",
+       "quote": "काशिकी, काशिका। चैदिकी, चैदिका।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.64",
+     "word": "अ-शब्दे and यत्-खौ",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — अशब्दे is one condition; both suffixes come",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43064",
+       "quote": "शब्दादन्यस्मिन् प्रत्ययार्थे वर्गान्तात् प्रातिपदिकादन्यतरस्यां यत्खौ प्रत्ययौ भवतः"
+      }
+     ]
+    },
+    {
+     "n": "4.3.149",
+     "word": "अ-संज्ञायाम् and तिल-यवाभ्याम्",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — असंज्ञायाम् is one condition; one suffix मयट् after both bases",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43149",
+       "quote": "तिलयवशब्दाभ्यामसंज्ञाविषये मयट् प्रत्ययो भवति विकारावयवयोरर्थयोः।"
+      }
+     ]
+    },
+    {
+     "n": "5.1.20",
+     "word": "अ-समासे and निष्क-आदिभ्यः",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — असमासे is one condition on the gaṇa",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51020",
+       "quote": "निष्कादिभ्यः शब्देभ्योऽसमासे ठक्  प्रत्ययो भवत्यार्हीयेष्वर्थेषु।"
+      }
+     ]
+    },
+    {
+     "n": "5.2.5",
+     "word": "सर्व-चर्मणः and ख-खञौ",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — one base सर्वचर्मन्, both suffixes",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52005",
+       "quote": "सर्वचर्मन्शब्दात् तृतीयासमर्थात् कृत इत्यस्मिन्नर्थे खखञौ प्रत्ययौ भवतः।"
+      }
+     ]
+    }
+   ],
+   "unsure": [
+    {
+     "n": "5.2.76",
+     "word": "अयःशूल-दण्डाजिनाभ्याम् and ठक्ठञौ",
+     "why": "No source says यथासंख्यम्; SK’s examples (आयःशूलिकः, दाण्डाजिनिकः) are consistent with pairing but do not show it (ठक्/ठञ् give the same form, differing only in accent).",
+     "quotes": [
+      {
+       "file": "kaumudi",
+       "id": "52076",
+       "quote": "तेनान्विच्छति आयःशूलिकः - साहसिकः । दण्डाजिनं दम्भः, तेनान्विच्छति दाण्डाजिनिकः ॥"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G2",
+   "group": "carried / not a sūtra word | ādeśa | X: 2 members each",
+   "count": 27,
+   "verdict": "mixed",
+   "how_checked": "All 27 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "3.4.81",
+    "3.4.91",
+    "4.3.2",
+    "4.3.3",
+    "5.3.20",
+    "5.3.63",
+    "6.4.19",
+    "7.1.1",
+    "7.1.15",
+    "7.2.92",
+    "7.2.93",
+    "7.2.94",
+    "7.2.95",
+    "7.2.96",
+    "7.2.97",
+    "7.3.3",
+    "7.3.39",
+    "8.2.108",
+    "8.3.37"
+   ],
+   "not_licensed": [
+    {
+     "n": "1.2.63",
+     "word": "तिष्य-पुनर्वस्वोः and नक्षत्र-द्वन्द्वे",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — one operation (dual for plural) in one compound type",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "12063",
+       "quote": "तिष्यपुनर्वस्वोर्नक्षत्रविषये द्वन्द्वे बहुवचनप्रसङ्गे नित्यं द्विवचनं भवति।"
+      }
+     ]
+    },
+    {
+     "n": "1.2.64",
+     "word": "एक-शेषः and एक-विभक्तौ",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — एकशेषः / एकविभक्तौ are an operation and its condition, not two lists",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "12064",
+       "quote": "सरूपाणां शब्दानामेकविभक्तौ परत एकशेषो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "3.2.124",
+     "word": "शतृशानचौ and अ-प्रथमासमानाधिकरणे",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — both शतृ and शानच् under one condition",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32124",
+       "quote": "लटः शतृशानचावित्येतावादेशौ भवतः, अप्रथमान्तेन चेत् तस्य सामानाधिकरण्यं भवति।"
+      }
+     ]
+    },
+    {
+     "n": "5.4.129",
+     "word": "प्रसम्भ्याम् and जानुनोः",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — जानुनोः is one word (the two knees); ज्ञु after both प्र and सम्",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "54129",
+       "quote": "प्र सम् इत्येताभ्यामुत्तरस्य जानुशब्दस्य ज्ञुरादेशो भवति समासान्तो बहुव्रीहौ।"
+      }
+     ]
+    },
+    {
+     "n": "6.3.47",
+     "word": "द्वि-अष्टनः and अबहुव्रीहि-अशीत्योः",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — one substitute आ for both; the 2nd list is two exclusions",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "63047",
+       "quote": "द्वि अष्टन् इत्येतयोराकारादेशो भवति संख्यायामुत्तरपदेऽबुहव्रीह्यशीत्योः।"
+      }
+     ]
+    },
+    {
+     "n": "7.2.36",
+     "word": "स्नुक्रमोः and अनात्मनेपदनिमित्ते",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — one condition for both dhātus",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72036",
+       "quote": "स्नुक्रमोरार्धधातुकस्य वलादेरिडागमो भवति, न चेत् स्नुक्रमौ आत्मनेपदस्य निमित्तं भवतः।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.52",
+     "word": "चजोः and घित्-ण्यतोः",
+     "should_be": "none",
+     "reason": "DENIED_BY_COMMENTATORS",
+     "why": "the commentators say it does not apply here — BM/TB/Nyāsa: च and ज do not pair with घित्/ण्यत् (रक्तं रागात्)",
+     "quotes": [
+      {
+       "file": "balamanorama",
+       "id": "73052",
+       "quote": "चजोर्घिण्ण्यतोश्च यथासङ्ख्यं तु न"
+      },
+      {
+       "file": "tattvabodhini",
+       "id": "73052",
+       "quote": "यथासङ्ख्यं नेह विवक्षितं"
+      }
+     ]
+    }
+   ],
+   "unsure": [
+    {
+     "n": "3.4.2",
+     "word": "हिस्वौ and तध्वमोः",
+     "why": "The engine pairs हिस्वौ with तध्वमोः. SK pairs हि/स्व in order with parasmaipada/ātmanepada (“क्रमेण”), and KV just says हि/स्व come optionally for a लोट् that would become त/ध्वम्. The resulting correspondence (त→हि, ध्वम्→स्व) holds, but no source states it as a pairing of these two lists.",
+     "quotes": [
+      {
+       "file": "kaumudi",
+       "id": "34002",
+       "quote": "तौ च हिस्वौ क्रमेण परस्मैपदात्मनेपदसंज्ञौ"
+      },
+      {
+       "file": "kashika",
+       "id": "34002",
+       "quote": "तध्वंभाविनस्तु वा भवतः।"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G3",
+   "group": "carried / not a sūtra word | vidhi | X",
+   "count": 24,
+   "verdict": "mixed",
+   "how_checked": "All 24 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "3.1.33",
+    "3.2.13",
+    "3.2.36",
+    "3.2.41",
+    "3.4.36",
+    "4.2.36",
+    "4.2.51",
+    "4.2.93",
+    "4.2.106",
+    "4.3.33",
+    "4.3.93",
+    "4.3.111",
+    "5.1.42",
+    "5.1.43",
+    "5.1.48",
+    "5.2.33"
+   ],
+   "not_licensed": [
+    {
+     "n": "3.2.29",
+     "word": "2 dhātus and 2 upapadas",
+     "should_be": "none",
+     "reason": "DENIED_BY_COMMENTATORS",
+     "why": "the commentators say it does not apply here — KV: no yathāsaṅkhya (स्तनन्धय, नासिकन्धम/नासिकन्धय)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32029",
+       "quote": "यथासंख्यमत्र नेष्यते॥"
+      }
+     ]
+    },
+    {
+     "n": "3.2.30",
+     "word": "two lists",
+     "should_be": "none",
+     "reason": "DENIED_BY_COMMENTATORS",
+     "why": "the commentators say it does not apply here — SK: no yathāsaṅkhya (नाडिन्धम, नाडिन्धय …)",
+     "quotes": [
+      {
+       "file": "kaumudi",
+       "id": "32030",
+       "quote": "यथासंख्यंनेष्यते ॥"
+      }
+     ]
+    },
+    {
+     "n": "4.3.7",
+     "word": "two lists",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — KV’s examples give both suffixes for both bases (पौर्वार्धाः, पौर्वार्धिकाः)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43007",
+       "quote": "इमे खल्वस्माकं ग्रामस्य जनपदस्य वा पौर्वार्धाः, पौर्वार्धिकाः।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.71",
+     "word": "two lists",
+     "should_be": "none",
+     "reason": "DENIED_BY_COMMENTATORS",
+     "why": "the commentators say it does not apply here — PM/TB: the two meanings do not pair with यत्/अण्",
+     "quotes": [
+      {
+       "file": "tattvabodhini",
+       "id": "43071",
+       "quote": "इहार्थयोर्यदण्भ्यां यथासङ्ख्यं न भवत्यस्वरितत्वादिति बोध्यम् ।"
+      }
+     ]
+    },
+    {
+     "n": "4.4.131",
+     "word": "two lists in the sūtra",
+     "should_be": "none",
+     "reason": "DENIED_BY_COMMENTATORS",
+     "why": "the commentators say it does not apply here — KV on 1.3.10 itself names this sūtra as the counter-example; SK: not intended",
+     "quotes": [
+      {
+       "file": "kaumudi",
+       "id": "44131",
+       "quote": "यथासंख्यं नेष्यते ।"
+      },
+      {
+       "file": "kashika",
+       "id": "13010",
+       "quote": "स्वरितेन लिङ्गेन यथासंख्यम्, यत्र नेष्यते तत्र स्वरितत्वं न प्रतिज्ञा"
+      }
+     ]
+    },
+    {
+     "n": "5.1.47",
+     "word": "two lists in the sūtra",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — KV: दीयते goes with each of वृद्धि etc. one by one; the SK “क्रमेण” the engine relied on says the same, not a pairing of two lists",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51047",
+       "quote": "दीयत इत्येकवचनान्तं वृद्ध्यादिभिः प्रत्येकमभिसंबध्यते।"
+      }
+     ]
+    },
+    {
+     "n": "5.3.57",
+     "word": "two lists in the sūtra",
+     "should_be": "none",
+     "reason": "DENIED_BY_COMMENTATORS",
+     "why": "the commentators say it does not apply here — KV: no yathāsaṅkhya",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "53057",
+       "quote": "यथासंख्यमत्र नेष्यते।"
+      }
+     ]
+    }
+   ],
+   "unsure": [
+    {
+     "n": "3.3.127",
+     "word": "2 dhātus and 2 upapadas",
+     "why": "KV reads yathāsaṅkhya (भू with कर्तृ, कृ with कर्म) and our vṛtti follows it; but the Bhāṣya on 1.3.10 lists this very sūtra among cases where yathāsaṅkhya would wrongly apply, and SK/TB deny it, TB explicitly rejecting KV. Needs a ruling: KV or Bhāṣya.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33127",
+       "quote": "भवतेः करोतेश्च धातोर्यथासंख्यं कर्तरि कर्मणि चोपपदे"
+      },
+      {
+       "file": "bhashya",
+       "id": "13010",
+       "quote": "कर्तृकर्मणोश्च भूकृञ्ञोः ॥ 13 ॥ कर्तृकर्मणी, द्वे, भूकृञ्ञौ द्वौ । तत्र संख्यातानुदेशः प्र"
+      },
+      {
+       "file": "kaumudi",
+       "id": "33127",
+       "quote": "यथासङ्ख्यं नेष्यते ।"
+      },
+      {
+       "file": "tattvabodhini",
+       "id": "33127",
+       "quote": "तत्सर्वं नादर्तव्यम्,यथासङ्ख्यसूत्रस्थभाष्यविरोधादिति"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G4",
+   "group": "carried / not a sūtra word | ādeśa | X",
+   "count": 14,
+   "verdict": "mixed",
+   "how_checked": "All 14 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "3.4.83",
+    "3.4.84",
+    "6.1.63",
+    "6.1.79",
+    "6.3.90",
+    "7.1.16",
+    "7.2.98",
+    "7.2.99",
+    "7.3.4",
+    "7.3.78",
+    "8.2.106",
+    "8.3.28",
+    "8.4.40"
+   ],
+   "not_licensed": [
+    {
+     "n": "8.2.107",
+     "word": "two lists",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — four एच् vs two substitutes इ/उ — not equal lists (C2); KV gives no pairing",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "82107",
+       "quote": "उत्तरस्येकारोकारावादेशौ भवतः।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G5",
+   "group": "carried / not a sūtra word | nipātana | X",
+   "count": 13,
+   "verdict": "mixed",
+   "how_checked": "All 13 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "1.2.55",
+    "1.4.22",
+    "3.1.101",
+    "3.1.117",
+    "3.1.129",
+    "3.3.86",
+    "5.2.20",
+    "5.3.4",
+    "6.1.154",
+    "7.2.18",
+    "7.4.34",
+    "8.4.41"
+   ],
+   "not_licensed": [
+    {
+     "n": "1.2.55",
+     "word": "2 forms and 2 meanings",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — no lists at all in this sūtra (“2 forms and 2 meanings” is spurious)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "12055",
+       "quote": "योगप्रमाणे हि तदभावेऽदर्शनं स्यात्।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G6",
+   "group": "carried / not a sūtra word | operation | X: 2 members each",
+   "count": 11,
+   "verdict": "mixed",
+   "how_checked": "All 11 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "2.4.70",
+    "5.4.150",
+    "6.3.117"
+   ],
+   "not_licensed": [
+    {
+     "n": "2.4.66",
+     "word": "बहु-अचः and प्राच्य-भरतेषु",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — one base-condition and two gotra domains; lug in both",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "24066",
+       "quote": "बह्वचः प्रातिपदिकाद् य इञ् विहितः प्राच्यगोत्रे भरतगोत्रे च वर्तते, तस्य बहुषु लुग् भवति।"
+      }
+     ]
+    },
+    {
+     "n": "2.4.69",
+     "word": "उपक-आदिभ्यः and अ-द्वन्द्वे",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — one gaṇa, one condition",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "24069",
+       "quote": "उपक इत्येवमादिभ्यः परस्य गोत्रप्रत्ययस्य बहुषु लुग् भवत्यन्यतरस्यां द्वन्द्वे चाद्वन्द्वे च।"
+      }
+     ]
+    },
+    {
+     "n": "2.4.79",
+     "word": "तन्-आदिभ्यः and त-थासोः",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — one gaṇa; lug before both त and थास्",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "24079",
+       "quote": "तनादिभ्य उत्तरस्य सिचस्तथासोः परतो विभाषा लुग् भवति।"
+      }
+     ]
+    },
+    {
+     "n": "6.1.132",
+     "word": "एतत्-तदोः and अ-नञ्समासे",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — one operation for both एतद्/तद्",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61132",
+       "quote": "एतत्तदौ यावककारौ नञ्समासे न वर्तते तयोर्यः सुशब्दः"
+      }
+     ]
+    },
+    {
+     "n": "6.3.63",
+     "word": "ङि-आपोः and संज्ञा-छन्दसोः",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — KV takes every combination (ङ्यन्त in संज्ञा, ङ्यन्त in छन्दस्, …)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "63063",
+       "quote": "ङ्यन्तस्याबन्तस्य च संज्ञाछन्दसोर्बहुलं ह्रस्वो भवति। ङ्यन्तस्य संज्ञा"
+      }
+     ]
+    },
+    {
+     "n": "6.4.47",
+     "word": "र-उपधयोः and रम्",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — रोपधयोः (two sthānins) and one substitute रम्",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "64047",
+       "quote": "भ्रस्जो रेफस्योपधायाश्च रमन्यतरस्यां भवति।"
+      }
+     ]
+    },
+    {
+     "n": "7.4.53",
+     "word": "यीवर्णयोः and दीधीवेव्योः",
+     "should_be": "none",
+     "reason": "DENIED_BY_COMMENTATORS",
+     "why": "the commentators say it does not apply here — Nyāsa: equal lists, but no yathāsaṅkhya",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "74053",
+       "quote": "तथापि यथासंख्यं न भवति; अस्वरतत्वात्।"
+      }
+     ]
+    },
+    {
+     "n": "8.4.46",
+     "word": "रहाभ्याम् and द्वे",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — द्वे is “two (copies)”, not a list",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "84046",
+       "quote": "अच उत्तरौ यौ रेफहकारौ ताभ्यामुत्तरस्य यरो द्वे भवतः।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G7",
+   "group": "carried / not a sūtra word | vidhi | X: 3 members each",
+   "count": 9,
+   "verdict": "mixed",
+   "how_checked": "All 9 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "3.1.134",
+    "4.1.102",
+    "4.1.117",
+    "4.2.96",
+    "4.4.97",
+    "5.2.9",
+    "5.2.100"
+   ],
+   "not_licensed": [
+    {
+     "n": "4.3.127",
+     "word": "संघ-अङ्क-लक्षणेषु and अञ्-यञ्-इञाम्",
+     "should_be": "none",
+     "reason": "DENIED_BY_COMMENTATORS",
+     "why": "the commentators say it does not apply here — KV: the lists are unequal (घोष added), so no yathāsaṅkhya",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43127",
+       "quote": "तेन वैषम्याद् यथासंख्यं न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "5.3.27",
+     "word": "सप्तमी-पञ्चमी-प्रथमाभ्यः and दिग्-देश-कालेषु",
+     "should_be": "none",
+     "reason": "DENIED_BY_COMMENTATORS",
+     "why": "the commentators say it does not apply here — KV: the cases and the meanings do not pair",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "53027",
+       "quote": "यथासंख्यमत्र नेष्यते।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G8",
+   "group": "named by a commentator | vidhi | X (English)",
+   "count": 7,
+   "verdict": "not licensed",
+   "how_checked": "All 7 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "3.3.145",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "DENIED_BY_COMMENTATORS",
+     "why": "the commentators say it does not apply here — KV names the denial (layer-1 credit should be a ✖)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33145",
+       "quote": "बह्वचः पूर्वनिपातो लक्षणव्यभिचारचिह्नम्। तेन यथासंख्यं न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "3.3.148",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "DENIED_BY_COMMENTATORS",
+     "why": "the commentators say it does not apply here — KV: not intended (layer-1 credit should be a ✖)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33148",
+       "quote": "यथासंख्यं नेष्यते।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.28",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "DENIED_BY_COMMENTATORS",
+     "why": "the commentators say it does not apply here — SK: the split of the rule exists to stop yathāsaṅkhya (layer-1 credit should be a ✖)",
+     "quotes": [
+      {
+       "file": "kaumudi",
+       "id": "42028",
+       "quote": "योगविभागो यथासंख्यनिवृत्त्यर्थः"
+      }
+     ]
+    },
+    {
+     "n": "4.3.1",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "DENIED_BY_COMMENTATORS",
+     "why": "the commentators say it does not apply here — KV: unequal lists (three suffixes), no yathāsaṅkhya (layer-1 credit should be a ✖)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43001",
+       "quote": "तदेते त्रयः प्रत्यया भवन्ति, तत्र वैषम्याद् यथासंख्यं न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.82",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "DENIED_BY_COMMENTATORS",
+     "why": "the commentators say it does not apply here — KV: the split of the rule exists to stop yathāsaṅkhya (layer-1 credit should be a ✖)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43082",
+       "quote": "योगविभागो यथासंख्यनिरासार्थः॥"
+      }
+     ]
+    },
+    {
+     "n": "5.1.127",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "DENIED_BY_COMMENTATORS",
+     "why": "the commentators say it does not apply here — KV: the two meanings never pair in this section (layer-1 credit should be a ✖)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51127",
+       "quote": "यथासंख्यमर्थयोः सर्वत्रैवात्र प्रकरणे नेष्यते॥"
+      }
+     ]
+    },
+    {
+     "n": "5.2.103",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "NAMED_NOT_APPLIED",
+     "why": "named in the commentary, not applied to read this sūtra — KV: the split from 5.2.102 serves yathāsaṅkhya THERE (विनि/इनि); in 5.2.103 अण् comes after both bases",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52103",
+       "quote": "योगविभाग उत्तरार्थो यथासंख्यार्थश्च॥"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G9",
+   "group": "carried / not a sūtra word | svara | X: 2 members each",
+   "count": 5,
+   "verdict": "mixed",
+   "how_checked": "All 5 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "8.1.20",
+    "8.1.21",
+    "8.1.22",
+    "8.1.23"
+   ],
+   "not_licensed": [
+    {
+     "n": "2.4.33",
+     "word": "त्र-तसोः and त्र-तसौ",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — त्र/तस् are both the condition and what becomes anudātta; nothing pairs",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "24033",
+       "quote": "एतदोऽन्वादेशविषयस्याशादेशो भवत्यनुदात्तस्त्रतसोः परतः। तौ चापि त्रतसावनुदात्तौ भवतः।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G10",
+   "group": "carried / not a sūtra word | vibhakti | X: 2 members each",
+   "count": 4,
+   "verdict": "not licensed",
+   "how_checked": "All 4 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "2.3.5",
+     "word": "काल-अध्वनोः and अत्यन्त-संयोगे",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — अत्यन्तसंयोगे is one condition",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "23005",
+       "quote": "कालशब्देभ्योऽध्वशब्देभ्यश्च द्वितीया विभक्तिर्भवत्यत्यन्तसंयोगे गम्यमाने।"
+      }
+     ]
+    },
+    {
+     "n": "2.3.7",
+     "word": "सप्तमी-पञ्चम्यौ and कारक-मध्ये",
+     "should_be": "none",
+     "reason": "DENIED_BY_COMMENTATORS",
+     "why": "the commentators say it does not apply here — Nyāsa/PM/TB: not svarita, so no yathāsaṅkhya between the two cases and कारकमध्ये",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "23007",
+       "quote": "इह तु स्वरितत्वं नास्ति, अतो न भवति संख्यातानुदेशः"
+      }
+     ]
+    },
+    {
+     "n": "2.3.61",
+     "word": "प्रेष्य-ब्रुवोः and देवता-सम्प्रदाने",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — देवतासम्प्रदाने is one condition",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "23061",
+       "quote": "प्रेष्यब्रुवोर्हविषः कर्मणः षष्ठी विभक्तिर्भवति देवतासंप्रदाने सति।"
+      }
+     ]
+    },
+    {
+     "n": "2.3.70",
+     "word": "अक-इनोः and भविष्यत्-आधमर्ण्ययोः",
+     "should_be": "none",
+     "reason": "DENIED_BY_COMMENTATORS",
+     "why": "the commentators say it does not apply here — TB citing the Bhāṣya: no yathāsaṅkhya",
+     "quotes": [
+      {
+       "file": "tattvabodhini",
+       "id": "23070",
+       "quote": "यथासंख्यं तु न भवति"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G11",
+   "group": "carried / not a sūtra word | nipātana | X: 2 members each",
+   "count": 3,
+   "verdict": "mixed",
+   "how_checked": "All 3 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "5.3.51",
+    "7.3.61"
+   ],
+   "not_licensed": [
+    {
+     "n": "1.2.53",
+     "word": "अ-शिष्यम् and संज्ञा-प्रमाणत्वात्",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — no lists (अशिष्यम् / संज्ञाप्रमाणत्वात् = claim and reason)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "12053",
+       "quote": "तदशिष्यम्, न वक्तव्यम्। कस्मात्? संज्ञाप्रमाणत्वात्।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G12",
+   "group": "carried / not a sūtra word | saṃjñā | X",
+   "count": 3,
+   "verdict": "licensed",
+   "how_checked": "All 3 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "1.4.101",
+    "1.4.102",
+    "1.4.103"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G13",
+   "group": "carried / not a sūtra word | samāsa | X: 2 members each",
+   "count": 3,
+   "verdict": "not licensed",
+   "how_checked": "All 3 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "2.1.56",
+     "word": "व्याघ्र-आदिभिः and सामान्य-अप्रयोगे",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — one gaṇa and one condition",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "21056",
+       "quote": "उपमेयमुपमितम्, तद्वाचि सुबन्तं व्याघ्रादिभिः सामर्थ्याद् उपम"
+      }
+     ]
+    },
+    {
+     "n": "2.1.59",
+     "word": "श्रेणि-आदयः and कृत-आदिभिः",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — two gaṇas compounded with each other, not paired item by item",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "21059",
+       "quote": "श्रेण्यादयः सुबन्ताः कृतादिभिः समानाधिकरणैः सह समस्यन्ते, तत्पुरुषश्च समासो भवति"
+      }
+     ]
+    },
+    {
+     "n": "2.1.63",
+     "word": "कतर-कतमौ and जाति-परिप्रश्ने",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — both words under one condition",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "21063",
+       "quote": "कतरकतमौ जातिपरिप्रश्ने वर्त्तमानौ समर्थेन सुपा सह समस्येते, "
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G14",
+   "group": "named by a commentator | saṃjñā | X",
+   "count": 2,
+   "verdict": "mixed",
+   "how_checked": "All 2 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "1.1.45"
+   ],
+   "not_licensed": [
+    {
+     "n": "1.1.27",
+     "word": "named by काशिका",
+     "should_be": "none",
+     "reason": "NAMED_NOT_APPLIED",
+     "why": "named in the commentary, not applied to read this sūtra — KV quotes the sūtra-name “यथासंख्यमनुदेशः समानाम्” only as an example of the word सम; it does not apply 1.3.10 to 1.1.27",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "11027",
+       "quote": "कथं <<यथासंख्यमनुदेशः समानाम्>> [[१.३.१०]], समे देशे यजेतेति?"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G15",
+   "group": "carried / not a sūtra word | paribhāṣā | X",
+   "count": 2,
+   "verdict": "mixed",
+   "how_checked": "All 2 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "1.1.46"
+   ],
+   "not_licensed": [
+    {
+     "n": "1.1.51",
+     "word": "1.1.51",
+     "should_be": "1.1.50",
+     "reason": "ANTARATAMA",
+     "why": "the pairing comes from nearness (1.1.50), not from 1.3.10 — SK: अर् for ऋ and अल् for ऌ comes from nearness (1.1.50), not from pairing in order",
+     "quotes": [
+      {
+       "file": "kaumudi",
+       "id": "11051",
+       "quote": "तत्रान्तरतम्यात् कृष्णर्द्धिरित्यत्राऽर् । तवल्कार इत्यत्राऽल् ।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G16",
+   "group": "carried / not a sūtra word | ādeśa | X: 3 members each",
+   "count": 2,
+   "verdict": "licensed",
+   "how_checked": "All 2 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "2.4.85",
+    "7.1.12"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G17",
+   "group": "carried / not a sūtra word | ādeśa | X: 4 members each",
+   "count": 2,
+   "verdict": "licensed",
+   "how_checked": "All 2 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "3.4.101",
+    "6.1.78"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G18",
+   "group": "carried / not a sūtra word | operation | X",
+   "count": 2,
+   "verdict": "licensed",
+   "how_checked": "All 2 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "6.3.65",
+    "8.3.32"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G19",
+   "group": "carried / not a sūtra word | saṃjñā | X: by the word … → …, by … → …, by … → …",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "1.1.61"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G20",
+   "group": "carried / not a sūtra word | saṃjñā | X (… … …) and three names",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "1.2.27"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G21",
+   "group": "carried / not a sūtra word | ekaśeṣa | X: 2 members each",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "1.2.68"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G22",
+   "group": "carried / not a sūtra word | pada | X: 2 members each",
+   "count": 1,
+   "verdict": "not licensed",
+   "how_checked": "All 1 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "1.3.72",
+     "word": "स्वरित-ञितः and कर्तृ-अभिप्राये",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — both स्वरितेत् and ञित् under one condition",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "13072",
+       "quote": "स्वरितेतो ये धातवो ञितश्च तेभ्य आत्मनेपदं भवति, कर्तारं चेत्क्रियाफलमभिप्रैति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G23",
+   "group": "carried / not a sūtra word | saṃjñā | X: 2 members each",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "1.4.63"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G24",
+   "group": "carried / not a sūtra word | nipātana | X: … (carried) goes with the dhātu that ",
+   "count": 1,
+   "verdict": "not licensed",
+   "how_checked": "All 1 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "1.4.106",
+     "word": "not paired in order",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — the engine’s own trigger says “not paired in order”: उत्तम is stated with मन्यतेः, मध्यम comes from 1.4.105",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "14106",
+       "quote": "प्रहासे गम्यमाने मन्योपपदे धातोर्मध्यमपुरुषो भवति, मन्यतेश्चोत्तमः, स चैकवद्भवति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G25",
+   "group": "carried / not a sūtra word | vidhi | X (PV: … … …) is … with … (carried) and ",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "3.2.186"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G26",
+   "group": "carried / not a sūtra word | ādeśa | X: 9 members each",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "3.4.82"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G27",
+   "group": "carried / not a sūtra word | vidhi | X: 11 members each",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "4.1.42"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G28",
+   "group": "carried / not a sūtra word | vidhi | X: 17 members each",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "4.2.80"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G29",
+   "group": "carried / not a sūtra word | vidhi | X: 4 members each",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "4.3.94"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G30",
+   "group": "carried / not a sūtra word | vidhi | X: 8 members each",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "4.4.91"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G31",
+   "group": "named by a commentator | vidhi | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "how_checked": "All 1 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "4.4.132",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "DENIED_BY_COMMENTATORS",
+     "why": "the commentators say it does not apply here — KV: this rule is split off precisely to stop yathāsaṅkhya; for 4.4.132 itself (one suffix ख) nothing pairs",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "44132",
+       "quote": "योगविभागो यथासंख्यनिरासार्थ उत्तरार्थश्च।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G32",
+   "group": "carried / not a sūtra word | vidhi | X (PV: …)",
+   "count": 1,
+   "verdict": "not licensed",
+   "how_checked": "All 1 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "5.3.22",
+     "word": "the forms go in order with their bases, suffixes and meanings",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — a list of ready-made forms; their bases/suffixes/meanings are supplied by the commentary, not a second list in the sūtra",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "53022",
+       "quote": "प्रकृतिः, प्रत्ययः, आदेशः, कालविशेष इति सर्वमेतद् निपातनाद् लभ्यते।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G33",
+   "group": "carried / not a sūtra word | vibhakti | X: 3 members each",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "5.3.39"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G34",
+   "group": "carried / not a sūtra word | vibhakti | X",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "5.3.40"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G35",
+   "group": "carried / not a sūtra word | operation | X: 3 members each",
+   "count": 1,
+   "verdict": "not licensed",
+   "how_checked": "All 1 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "6.1.68",
+     "word": "हल्-ङि-आब्भ्यः and सु-ति-सि",
+     "should_be": "none",
+     "reason": "NOT_TWO_LISTS",
+     "why": "there are not two equal lists that pair item by item — KV: सु is dropped after all three, ति/सि only after हल् — not in order",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61068",
+       "quote": "हलन्तादेव तिलोपः सिलोपश्च।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G36",
+   "group": "carried / not a sūtra word | atideśa | X",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "6.1.85"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G37",
+   "group": "named by a commentator | svara | X (English)",
+   "count": 1,
+   "verdict": "not licensed",
+   "how_checked": "All 1 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "6.1.212",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "DENIED_BY_COMMENTATORS",
+     "why": "the commentators say it does not apply here — KV: the separate rule removes any doubt of yathāsaṅkhya (layer-1 credit should be a ✖)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61212",
+       "quote": "पृथग्योगकरणं यथासंख्यशङ्कानिवृत्त्यर्थम्॥"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G38",
+   "group": "carried / not a sūtra word | atideśa | X: 4 members each",
+   "count": 1,
+   "verdict": "not licensed",
+   "how_checked": "All 1 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "6.4.62",
+     "word": "स्य-सिच्-सीयुट्-तासिषु and अच्-हन-ग्रह-दृशाम्",
+     "should_be": "none",
+     "reason": "DENIED_BY_COMMENTATORS",
+     "why": "the commentators say it does not apply here — BM: no yathāsaṅkhya between the dhātus and स्य etc.",
+     "quotes": [
+      {
+       "file": "balamanorama",
+       "id": "64062",
+       "quote": "अत्र अज्झनग्रहदृशां, स्यादीनां च न यथासङ्ख्यं, व्याख्यानात् ।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G39",
+   "group": "carried / not a sūtra word | āgama | X: 2 members each",
+   "count": 1,
+   "verdict": "not licensed",
+   "how_checked": "All 1 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "6.4.77",
+     "word": "य्वोः and इयङ्-उवङौ",
+     "should_be": "1.1.50",
+     "reason": "ANTARATAMA",
+     "why": "the pairing comes from nearness (1.1.50), not from 1.3.10 — SK/TB: इ/उ name 18-member classes, so 1.3.10 does not apply; इयङ् for इ, उवङ् for उ comes from nearness (1.1.50)",
+     "quotes": [
+      {
+       "file": "kaumudi",
+       "id": "64077",
+       "quote": "आन्तरतम्यादेरियङ् ओरुवङ् ।"
+      },
+      {
+       "file": "tattvabodhini",
+       "id": "64077",
+       "quote": "यथासङ्ख्यमिहन न प्रवर्तते, इत्याह — आन्तरतम्यादिति ।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G40",
+   "group": "carried / not a sūtra word | āgama | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "how_checked": "All 1 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "6.4.78",
+     "word": "two lists in the sūtra",
+     "should_be": "1.1.50",
+     "reason": "ANTARATAMA",
+     "why": "the pairing comes from nearness (1.1.50), not from 1.3.10 — the same इयङ्/उवङ् pairing as 6.4.77 (carried), where SK/TB give 1.1.50, not 1.3.10",
+     "quotes": [
+      {
+       "file": "kaumudi",
+       "id": "64077",
+       "quote": "आन्तरतम्यादेरियङ् ओरुवङ् ।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G41",
+   "group": "carried / not a sūtra word | operation | X: 10 members each",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "6.4.157"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G42",
+   "group": "carried / not a sūtra word | ādeśa | X: 5 members each",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "7.1.2"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G43",
+   "group": "named by a commentator | ādeśa | X (English)",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [
+    "8.4.40"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G44",
+   "group": "named by a commentator | operation | X (English)",
+   "count": 1,
+   "verdict": "not licensed",
+   "how_checked": "All 1 member(s) checked: scripted search of KV, SK, BM, Nyāsa, PM, TB for यथासंख्य/यथाक्रम and for denials; every denial, every member with no statement, and every positive hit read in context (does the statement concern the two lists the engine pairs?).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "8.4.65",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "DENIED_BY_COMMENTATORS",
+     "why": "the commentators say it does not apply here — TB: no yathāsaṅkhya, by the force of सवर्णे (layer-1 credit should be a ✖)",
+     "quotes": [
+      {
+       "file": "tattvabodhini",
+       "id": "84065",
+       "quote": "सवर्णग्रहणसामर्थ्याद्यथासङ्ख्यमत्र न भवति ।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  }
+ ],
+ "missed": [],
+ "effect_defects": []
+}

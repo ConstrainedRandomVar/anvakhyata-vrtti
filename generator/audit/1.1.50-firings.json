@@ -1,0 +1,504 @@
+{
+ "pid": "1.1.50",
+ "howGrouped": "case of the triggering word (own sūtra words only) | rule kind | start of the engine trigger text; member = \"<sūtra> <word>  ⟨engine effect⟩\"",
+ "applies": 101,
+ "consideredNotApplicable": 0,
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | operation | X",
+   "count": 58,
+   "sutras": [
+    "6.4.146 गुण replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "6.4.156 गुण replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.2.1 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.2.3 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.2.4 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.2.5 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.2.6 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.2.7 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.2.114 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.2.115 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.2.116 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.2.117 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.2.118 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.1 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.11 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.12 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.13 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.14 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.15 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.16 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.17 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.18 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.19 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.20 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.21 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.22 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.24 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.26 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.27 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.28 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.29 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.30 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.31 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.34 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.35 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.82 गुण replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.83 गुण replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.84 गुण replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.85 गुण replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.86 गुण replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.87 गुण replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.88 गुण replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.89 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.90 वृद्धि replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.91 गुण replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.108 गुण replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.109 गुण replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.110 गुण replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.3.111 गुण replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.4.10 गुण replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.4.11 गुण replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.4.16 गुण replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.4.21 गुण replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.4.29 गुण replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.4.30 गुण replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.4.57 गुण replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.4.75 गुण replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩",
+    "7.4.82 गुण replaces a vowel  ⟨the nearest guṇa/vṛddhi sound is chosen⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.146",
+     "word": "गुण replaces a vowel",
+     "trigger": "गुण replaces a vowel",
+     "effect": "the nearest guṇa/vṛddhi sound is chosen",
+     "sutra": "ओर्गुणः",
+     "ourVrtti": "तद्धिते परे भस्य उवर्णान्तस्य अङ्गस्य स्थाने गुणः आदेशः भवति",
+     "kashika": "उवर्णान्तस्य भस्य गुणो भवति तद्धिते परतः।",
+     "prathamavrtti": "उवर्णान्तस्याङ्गस्य भस्य गुणो भवति तद्धिते परतः ॥"
+    },
+    {
+     "n": "7.3.16",
+     "word": "वृद्धि replaces a vowel",
+     "trigger": "वृद्धि replaces a vowel",
+     "effect": "the nearest guṇa/vṛddhi sound is chosen",
+     "sutra": "वर्षस्याभविष्यति",
+     "ourVrtti": "तद्धिते संख्यायाः उत्तरस्य वर्षशब्दस्य आदेः ञिति णिति किति च परे उत्तरपदस्य अचः स्थाने अङ्गस्य स्थाने अभविष्यति अर्थे वृद्धिः आदेशः भवति",
+     "kashika": "संख्याया उत्तरस्य वर्षशब्दस्याचामादेरचो वृद्धिर्भवति तद्धिते ञिति णिति किति च परतः, स चेत् तद्धितो भविष्यत्यर्थे न भवति।",
+     "prathamavrtti": "सङ्ख्याया उत्तरस्य वर्षशब्दस्याचामादेरचो वृद्धिर्भवति, तद्धिते ञिति णिति किति च परतः स चेत्तद्धितो भविष्यत्यर्थे न भवति ॥"
+    },
+    {
+     "n": "7.3.85",
+     "word": "गुण replaces a vowel",
+     "trigger": "गुण replaces a vowel",
+     "effect": "the nearest guṇa/vṛddhi sound is chosen",
+     "sutra": "जाग्रोऽविचिण्णल्ङित्सु",
+     "ourVrtti": "वि-चिण्-णल्-ङित्-वर्जितेषु सार्वधातुके आर्धधातुके च प्रत्यये परे अङ्गस्य जागृ इत्येतस्य स्थाने गुणः आदेशः भवति",
+     "kashika": "जागृ इत्येतस्याङ्गस्य गुणो भवत्यविचिण्णल्ङित्सु परतः।",
+     "prathamavrtti": "जागृ इत्येतस्याङ्गस्य गुणो भवति, अविचिण्णल्ङित्सु सार्वधातुकार्धधातुकेषु परतः॥"
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "group": "carried / not a sūtra word | ādeśa | X",
+   "count": 20,
+   "sutras": [
+    "6.1.77 यण् for each sound of the place  ⟨each sound is replaced by the NEAREST sound of the group (sound for so⟩",
+    "6.4.81 यण् for each sound of the place  ⟨each sound is replaced by the NEAREST sound of the group (sound for so⟩",
+    "6.4.82 यण् for each sound of the place  ⟨each sound is replaced by the NEAREST sound of the group (sound for so⟩",
+    "6.4.83 यण् for each sound of the place  ⟨each sound is replaced by the NEAREST sound of the group (sound for so⟩",
+    "6.4.84 यण् for each sound of the place  ⟨each sound is replaced by the NEAREST sound of the group (sound for so⟩",
+    "6.4.85 यण् for each sound of the place  ⟨each sound is replaced by the NEAREST sound of the group (sound for so⟩",
+    "6.4.86 यण् for each sound of the place  ⟨each sound is replaced by the NEAREST sound of the group (sound for so⟩",
+    "7.3.4 ऐच् for each sound of the place  ⟨each sound is replaced by the NEAREST sound of the group (sound for so⟩",
+    "7.3.5 ऐच् for each sound of the place  ⟨each sound is replaced by the NEAREST sound of the group (sound for so⟩",
+    "7.3.6 ऐच् for each sound of the place  ⟨each sound is replaced by the NEAREST sound of the group (sound for so⟩",
+    "7.3.7 ऐच् for each sound of the place  ⟨each sound is replaced by the NEAREST sound of the group (sound for so⟩",
+    "7.3.8 ऐच् for each sound of the place  ⟨each sound is replaced by the NEAREST sound of the group (sound for so⟩",
+    "7.3.9 ऐच् for each sound of the place  ⟨each sound is replaced by the NEAREST sound of the group (sound for so⟩",
+    "8.2.37 भष् for each sound of the place  ⟨each sound is replaced by the NEAREST sound of the group (sound for so⟩",
+    "8.2.38 भष् for each sound of the place  ⟨each sound is replaced by the NEAREST sound of the group (sound for so⟩",
+    "8.2.39 जश् for each sound of the place  ⟨each sound is replaced by the NEAREST sound of the group (sound for so⟩",
+    "8.4.53 जश् for each sound of the place  ⟨each sound is replaced by the NEAREST sound of the group (sound for so⟩",
+    "8.4.54 चर् for each sound of the place  ⟨each sound is replaced by the NEAREST sound of the group (sound for so⟩",
+    "8.4.55 चर् for each sound of the place  ⟨each sound is replaced by the NEAREST sound of the group (sound for so⟩",
+    "8.4.56 चर् for each sound of the place  ⟨each sound is replaced by the NEAREST sound of the group (sound for so⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.77",
+     "word": "यण् for each sound of the place",
+     "trigger": "यण् for each sound of the place",
+     "effect": "each sound is replaced by the NEAREST sound of the group (sound for sound)",
+     "sutra": "इको यणचि",
+     "ourVrtti": "संहितायां विषये अचि परे इकः स्थाने यणादेशः भवति",
+     "kashika": "अचि परत इको यणादेशो भवति।",
+     "prathamavrtti": "इकः स्थाने यणादेशो भवत्यचि परतः संहितायां विषये ॥"
+    },
+    {
+     "n": "6.4.86",
+     "word": "यण् for each sound of the place",
+     "trigger": "यण् for each sound of the place",
+     "effect": "each sound is replaced by the NEAREST sound of the group (sound for sound)",
+     "sutra": "छन्दस्युभयथा",
+     "ourVrtti": "छन्दसि विषये अङ्गयोः भू सुधी इत्येतयोः अङ्गयोः अङ्गस्य स्थाने उभयथा यणादेशः भवति",
+     "kashika": "छन्दसि विषये भू सुधी इत्येतयोरुभयथा दृश्यते।",
+     "prathamavrtti": "छन्दसि विषये भू सुधी इत्येतयोरङ्गयोरुभयथा दृश्यते॥"
+    },
+    {
+     "n": "7.3.9",
+     "word": "ऐच् for each sound of the place",
+     "trigger": "ऐच् for each sound of the place",
+     "effect": "each sound is replaced by the NEAREST sound of the group (sound for sound)",
+     "sutra": "पदान्तस्यान्यतरस्याम्",
+     "ourVrtti": "पदान्तस्य श्वादेः अङ्गस्य यदुक्तं तत् विकल्पेन न भवति",
+     "kashika": "श्वादेरङ्गस्य पदशब्दान्तस्यान्यतरस्यां यदुक्तं तद् न भवति।",
+     "prathamavrtti": "पदान्तस्य श्वादेरङ्गस्य यदुक्तं तत् विकल्पेन न भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G3",
+   "group": "named by a commentator | ādeśa | X",
+   "count": 5,
+   "sutras": [
+    "3.4.84 named by न्यासः  ⟨the replacement is the NEAREST in kind⟩",
+    "5.3.63 named by न्यासः  ⟨the replacement is the NEAREST in kind⟩",
+    "6.3.25 named by न्यासः  ⟨the replacement is the NEAREST in kind⟩",
+    "7.4.7 named by न्यासः  ⟨the replacement is the NEAREST in kind⟩",
+    "8.4.40 named by तत्त्वबोधिनी  ⟨the replacement is the NEAREST in kind⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.4.84",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "the replacement is the NEAREST in kind",
+     "sutra": "ब्रुवः पञ्चानामादित आहो ब्रुवः",
+     "ourVrtti": "लटः परस्मैपदानाम् आदितः आदिभूतानाम् तत्सन्नियोगेन च ब्रुवः धातोः स्थाने पञ्चानाम् तिबादीनाम् स्थाने ब्रुवः स्थाने विकल्पेन पञ्च णलादयः आदेशाः आह इत्यादेशः भवति",
+     "kashika": "ब्रुवः परस्य लटः परस्मैपदानां पञ्चानामादिभूतानां पञ्चैव णलादय आदेशा भवन्ति, तत्सन्नियोगेन च ब्रुव आहशब्द आदेशो भवति।",
+     "prathamavrtti": "ब्रूञ्धातो- रुत्तरो यो लट् तस्यादिभूतानां परस्मैपदसंज्ञकानां पञ्चानां तिबादीनां स्थाने यथाक्रमं पञ्चैव णलादय आदेशा विकल्पेन भवन्ति, तत् सन्न्नियोगेन च ब्रुवः स्थाने आह इत्यायमादेशो भवति ॥"
+    },
+    {
+     "n": "5.3.63",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "the replacement is the NEAREST in kind",
+     "sutra": "अन्तिकबाढयोर्नेदसाधौ",
+     "ourVrtti": "अजाद्योः प्रत्यययोः परे अन्तिकबाढयोः स्थाने नेद साध इत्येतौ आदेशौ यथासङ्ख्यम् भवतः",
+     "kashika": "अन्तिकबाढयोर्यथासंख्यं नेद साध इत्येतावादेशौ भवतोऽजाद्योः परतः।",
+     "prathamavrtti": "अन्तिक बाढ इत्येतयोः स्थाने यथासङ्ख्यं नेद्, साध इत्येतावादेशौ भवतः अजाद्योः प्रत्यययोः परतः ॥"
+    },
+    {
+     "n": "6.3.25",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "the replacement is the NEAREST in kind",
+     "sutra": "आनङ् ऋतो द्वन्द्वे",
+     "ourVrtti": "द्वन्द्वे समासे उत्तरपदे परे विद्यायोनिसम्बन्धवाचिनाम् ऋकारान्तानां पूर्वपदस्य स्थाने आनङ् आदेशः भवति",
+     "kashika": "ऋकारान्तानां विद्यायोनिसंबन्धवाचिनां यो द्वन्द्वस्तत्रोत्तरपदे पूर्वपदस्यानङादेशो भवति।",
+     "prathamavrtti": "ऋकारान्तानां विद्यायोनिसम्बन्धवाचिनां यो द्वन्द्वस्तत्र पूर्वपदस्यानङ्_आदेशो भवत्युत्तरपदे परतः ॥"
+    }
+   ]
+  },
+  {
+   "id": "G4",
+   "group": "named by a commentator | operation | X",
+   "count": 4,
+   "sutras": [
+    "6.1.1 named by पदमञ्जरी  ⟨the replacement is the NEAREST in kind⟩",
+    "7.2.107 named by प्रक्रियासर्वस्वम्  ⟨the replacement is the NEAREST in kind⟩",
+    "7.3.101 named by तत्त्वबोधिनी  ⟨the replacement is the NEAREST in kind⟩",
+    "8.1.1 named by न्यासः  ⟨the replacement is the NEAREST in kind⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.1",
+     "word": "named by पदमञ्जरी",
+     "trigger": "named by पदमञ्जरी",
+     "effect": "the replacement is the NEAREST in kind",
+     "sutra": "एकाचो द्वे प्रथमस्य",
+     "ourVrtti": "प्रथमस्य एकाचः द्वे रूपे भवतः इति अधिकारः",
+     "kashika": "एकाच इति च, द्वे इति च, प्रथमस्येति च त्रितयमधिकृतं वेदितव्यम्।",
+     "prathamavrtti": "प्रथमस्य एकाचो द्वे भवत इत्यधिकारो वेदितव्यः ॥"
+    },
+    {
+     "n": "7.2.107",
+     "word": "named by प्रक्रियासर्वस्वम्",
+     "trigger": "named by प्रक्रियासर्वस्वम्",
+     "effect": "the replacement is the NEAREST in kind",
+     "sutra": "अदस औ सुलोपश्च",
+     "ourVrtti": "सौ परे अदसः अङ्गस्य स्थाने औकारादेशः सुँ-प्रत्ययस्य लोपः भवति",
+     "kashika": "अदसः सौ परतः सकारस्य औकारादेशो भवति, सोश्च लोपो भवति।",
+     "prathamavrtti": "अदसः सौ परत औकारादेशो भवति सोश्च लोपो भवति ॥"
+    },
+    {
+     "n": "7.3.101",
+     "word": "named by तत्त्वबोधिनी",
+     "trigger": "named by तत्त्वबोधिनी",
+     "effect": "the replacement is the NEAREST in kind",
+     "sutra": "अतो दीर्घो यञि",
+     "ourVrtti": "यञादौ सार्वधातुके परे अकारान्तस्य स्थाने अङ्गस्य दीर्घः आदेशः भवति",
+     "kashika": "अकारान्तस्याङ्गस्य दीर्घो भवति यञादौ सार्वधातुके परतः।",
+     "prathamavrtti": "अकारान्तस्याङ्गस्य दीर्घो भवति, यञादौ सार्वधातुके परतः॥"
+    }
+   ]
+  },
+  {
+   "id": "G5",
+   "group": "named by a commentator | vidhi | X",
+   "count": 2,
+   "sutras": [
+    "4.1.36 named by तत्त्वबोधिनी  ⟨the replacement is the NEAREST in kind⟩",
+    "4.1.73 named by पदमञ्जरी  ⟨the replacement is the NEAREST in kind⟩"
+   ],
+   "samples": [
+    {
+     "n": "4.1.36",
+     "word": "named by तत्त्वबोधिनी",
+     "trigger": "named by तत्त्वबोधिनी",
+     "effect": "the replacement is the NEAREST in kind",
+     "sutra": "पूतक्रतोरै च",
+     "ourVrtti": "अनुपसर्जनात् स्त्रियाम् ङीप् प्रत्ययः परः च भवति, पूतक्रतोः प्रातिपदिकात् स्थाने ऐकारः अन्तादेशः च भवति",
+     "kashika": "पूतक्रतुशब्दस्य स्त्रियामैकारश्चान्तादेशो भवति, ङीप् प्रत्ययः।",
+     "prathamavrtti": "अनुपसर्जनात् पूतक्रतोः प्रातिपदिकात् स्त्रियां ङीप् प्रत्ययो भवति, ऐकारश्चान्तादेशो भवति ॥"
+    },
+    {
+     "n": "4.1.73",
+     "word": "named by पदमञ्जरी",
+     "trigger": "named by पदमञ्जरी",
+     "effect": "the replacement is the NEAREST in kind",
+     "sutra": "शार्ङ्गरवाद्यञो ङीन्",
+     "ourVrtti": "अनुपसर्जनेभ्यः जातिवाचिभ्यः शार्ङ्गरवादिभ्यः अञन्तेभ्यश्च प्रातिपदिकेभ्यः स्त्रियाम् ङीन् प्रत्ययः परः च भवति",
+     "kashika": "शार्ङ्गरवादिभ्योऽञन्तेभ्यश्च प्रातिपदिकेभ्यः स्त्रियां ङीन् प्रत्ययो भवति।",
+     "prathamavrtti": "जातिवाचिभ्योऽनुपसर्जनेभ्यः शार्ङ्गरवादिभ्योऽञन्तेभ्यश्च प्रातिपदिकेभ्यः स्त्रियां ङीन् प्रत्ययो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G6",
+   "group": "named by a commentator | ekādeśa | X",
+   "count": 2,
+   "sutras": [
+    "6.1.87 named by न्यासः  ⟨the replacement is the NEAREST in kind⟩",
+    "6.1.107 named by न्यासः  ⟨the replacement is the NEAREST in kind⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.87",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "the replacement is the NEAREST in kind",
+     "sutra": "आद्गुणः",
+     "ourVrtti": "संहितायां विषये अचि परे अवर्णात् एकः पूर्वपरयोः स्थाने गुणः आदेशः भवति",
+     "kashika": "अवर्णात् परो योऽच् अचि च पूर्वो योऽवर्णः, तयोः पूर्वपरयोरवर्णाचोः स्थान एको गुण आदेशो भवति।",
+     "prathamavrtti": "अचि पूर्वो योऽवर्णः, अवर्णाच्च परो योऽच्, तयोः द्वयोः पूर्वपरयोः स्थान एको गुणादेशो भवति संहितायां विषये ॥"
+    },
+    {
+     "n": "6.1.107",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "the replacement is the NEAREST in kind",
+     "sutra": "अमि पूर्वः",
+     "ourVrtti": "अमि अकः पूर्वपरयोः स्थाने पूर्वरूपम् आदेशः एकः आदेशः भवति",
+     "kashika": "अमि परतोऽकः पूर्वपरयोः स्थाने पूर्वरूपम् एकादेशो भवति।",
+     "prathamavrtti": "अक उत्तरस्यामि परतः पूर्वपरयोः स्थाने पूर्वरूपमेकादेशो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G7",
+   "group": "carried / not a sūtra word | āgama | X: 1.1.50 … (not 1.3.10 — paribhāṣā audi",
+   "count": 2,
+   "sutras": [
+    "6.4.77 य्वोः and इयङ्-उवङौ  ⟨they pair up in order (यथासङ्ख्यम्)⟩",
+    "6.4.78 two lists in the sūtra  ⟨they pair up in order — the नैलेश-वृत्तिः says so (यथासङ्ख्यम्)⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.77",
+     "word": "य्वोः and इयङ्-उवङौ",
+     "trigger": "य्वोः and इयङ्-उवङौ: 1.1.50 स्थानेऽन्तरतमः (not 1.3.10 — paribhāṣā audit: the pairing comes from nearness (1.1.50), not from 1.3.10 — SK/TB: इ/उ name 18-member ",
+     "effect": "they pair up in order (यथासङ्ख्यम्)",
+     "sutra": "अचि श्नुधातुभ्रुवां य्वोरियङुवङौ",
+     "ourVrtti": "अचि परे श्नुप्रत्ययान्तस्य धातोः भ्रूवश्च अङ्गस्य इवर्णोवर्णयोः स्थाने इयङ् उवङ् आदेशौ यथासङ्ख्यम् भवतः",
+     "kashika": "श्नुप्रत्ययान्तस्याङ्गस्य धातोरिवर्णोवर्णान्तस्य भ्रू इत्येतस्य च इयङ् उवङ् इत्येतावादेशौ भवतोऽजादौ प्रत्यये परतः।",
+     "prathamavrtti": "श्नुप्रत्ययान्तस्य इवर्णोवर्णान्तधातोः भ्रू इत्येतस्य चाङ्गस्य इयङ् उवङ् इत्येतावादेशौ भवतोऽचि परतः॥"
+    },
+    {
+     "n": "6.4.78",
+     "word": "two lists in the sūtra",
+     "trigger": "two lists in the sūtra: 1.1.50 स्थानेऽन्तरतमः (not 1.3.10 — paribhāṣā audit: the pairing comes from nearness (1.1.50), not from 1.3.10 — the same इयङ्/उवङ् pair",
+     "effect": "they pair up in order — the नैलेश-वृत्तिः says so (यथासङ्ख्यम्)",
+     "sutra": "अभ्यासस्यासवर्णे",
+     "ourVrtti": "असवर्णे अचि परे इवर्णान्तस्य उवर्णान्तस्य च अभ्यासस्य अङ्गस्य स्थाने इयङ्-उवङौ आदेशः भवतः",
+     "kashika": "अभ्यासस्येवर्णोवर्णान्तस्यासवर्णेऽचि परत इयङ् उवङ् इत्येतावादेशौ भवतः।",
+     "prathamavrtti": "इवर्णान्तस्योवर्णान्तस्याभ्यासस्य असवर्णेऽचि परत इयङ् उवङ् इत्येतावादेशौ भवतः ॥"
+    }
+   ]
+  },
+  {
+   "id": "G8",
+   "group": "carried / not a sūtra word | paribhāṣā | X",
+   "count": 1,
+   "sutras": [
+    "1.1.48 1.1.48  ⟨the short replacement would by nearness be अ; this sūtra restricts it ⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.1.48",
+     "word": "1.1.48",
+     "trigger": "1.1.48",
+     "effect": "the short replacement would by nearness be अ; this sūtra restricts it to an इक्",
+     "sutra": "एच इग्घ्रस्वादेशे",
+     "ourVrtti": "एचः स्थाने ह्रस्वादेशे कर्तव्ये इक् एव ह्रस्वः भवति",
+     "kashika": "एचो ह्रस्वादेशे कर्त्तव्य इगेव ह्रस्वो भवति नान्यः।",
+     "prathamavrtti": "एचः स्थाने ह्रस्वादेशे कर्त्तव्ये इक् एव ह्रस्वो भवति, नान्यः ॥"
+    }
+   ]
+  },
+  {
+   "id": "G9",
+   "group": "carried / not a sūtra word | paribhāṣā | X: 1.1.50 … (not 1.3.10 — paribhāṣā audi",
+   "count": 1,
+   "sutras": [
+    "1.1.51 1.1.51  ⟨ऋ takes र् after it, ऌ takes ल् — in order (नैलेश-वृत्तिः: यथासङ्ख्यम्⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.1.51",
+     "word": "1.1.51",
+     "trigger": "1.1.51: 1.1.50 स्थानेऽन्तरतमः (not 1.3.10 — paribhāṣā audit: the pairing comes from nearness (1.1.50), not from 1.3.10 — SK: अर् for ऋ and अल् for ऌ comes from ",
+     "effect": "ऋ takes र् after it, ऌ takes ल् — in order (नैलेश-वृत्तिः: यथासङ्ख्यम्)",
+     "sutra": "उरण् रपरः",
+     "ourVrtti": "ऋवर्णस्य स्थाने अण् प्रसज्यमानः एव रपरः भवति",
+     "kashika": "उः स्थानेऽण् प्रसज्यमान एव रपरो वेदितव्यः।",
+     "prathamavrtti": "ऋवर्णस्य स्थाने अण् (अ इ उ) प्रसज्यमान एव रपरो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G10",
+   "group": "named by a commentator | saṃjñā | X",
+   "count": 1,
+   "sutras": [
+    "1.1.60 named by बालमनोरमा  ⟨the replacement is the NEAREST in kind⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.1.60",
+     "word": "named by बालमनोरमा",
+     "trigger": "named by बालमनोरमा",
+     "effect": "the replacement is the NEAREST in kind",
+     "sutra": "अदर्शनं लोपः",
+     "ourVrtti": "प्रसक्तस्य अदर्शनम् 'लोपः' इति संज्ञा भवति",
+     "kashika": "प्रसक्तस्यादर्शनं लोपसंज्ञं भवति।",
+     "prathamavrtti": "यद् भूत्वा न भवति तद् अदर्शनम्=अनुपलब्धिः वर्णविनाशस्तस्य लोप इति संज्ञा भवति, अर्थात् प्रसक्तस्यादर्शनं लोपसंज्ञकं भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G11",
+   "group": "named by a commentator | atideśa | X",
+   "count": 1,
+   "sutras": [
+    "3.4.87 named by तत्त्वबोधिनी  ⟨the replacement is the NEAREST in kind⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.4.87",
+     "word": "named by तत्त्वबोधिनी",
+     "trigger": "named by तत्त्वबोधिनी",
+     "effect": "the replacement is the NEAREST in kind",
+     "sutra": "सेर्ह्यपिच्च",
+     "ourVrtti": "लोडादेशस्य अपित् च सिपः स्थाने हि आदेशः भवति",
+     "kashika": "लोडादेशस्य सेर्हीत्ययमादेशो भवति, अपिच्च भवति।",
+     "prathamavrtti": "लोडादेशस्य सिपः स्थाने ‹हि› इत्ययमादेशो भवति, अपिच्च भवति स आदेशः ॥"
+    }
+   ]
+  },
+  {
+   "id": "G12",
+   "group": "named by a commentator | āgama | X (English)",
+   "count": 1,
+   "sutras": [
+    "7.2.10 named by Vasu  ⟨the replacement is the NEAREST in kind⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.2.10",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "the replacement is the NEAREST in kind",
+     "sutra": "एकाच उपदेशेऽनुदात्तात्",
+     "ourVrtti": "उपदेशे एकाचः धातोः परस्य अनुदात्तात् इट् आगमः न भवति",
+     "kashika": "उपदेशे य एकाच् धातुरनुदात्तश्च तस्मादिडागमो न भवति।",
+     "prathamavrtti": "उपदेशे यो धातुरेकाच् अनुदात्तश्च तस्माद् इडागमो न भवति।"
+    }
+   ]
+  },
+  {
+   "id": "G13",
+   "group": "named by a commentator | adhikāra | X",
+   "count": 1,
+   "sutras": [
+    "8.2.1 named by बालमनोरमा  ⟨the replacement is the NEAREST in kind⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.2.1",
+     "word": "named by बालमनोरमा",
+     "trigger": "named by बालमनोरमा",
+     "effect": "the replacement is the NEAREST in kind",
+     "sutra": "पूर्वत्रासिद्धम्",
+     "ourVrtti": "पूर्वस्मिन् कर्तव्ये असिद्धवत् इति अधिकारः",
+     "kashika": "इत उत्तरं चोत्तर उत्तरो योगः पूर्वत्रपूर्वत्रासिद्धो भवति, असिद्धवद् भवति।",
+     "prathamavrtti": "अधिकारोऽयम्, आ अध्यायपरिसमाप्तेः । तत्र येयं सपादसप्ताध्याय्यनुक्रान्ता एतस्यामयं पादोनोऽध्यायोऽसिद्धो भवतीति वेदितव्यम्, सिद्धकार्यं न करोतीत्यर्थः । इत उत्तरं चोत्तरोत्तरो योगः पूर्वत्र पूर्वत्रासिद्धो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G14",
+   "group": "named by a commentator | ādeśa | X (English)",
+   "count": 1,
+   "sutras": [
+    "8.2.80 named by Vasu  ⟨the replacement is the NEAREST in kind⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.2.80",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "the replacement is the NEAREST in kind",
+     "sutra": "अदसोऽसेर्दादु दो मः",
+     "ourVrtti": "असकारान्तस्य अदसः दादुत्तरस्य वर्णस्य दकारस्य च स्थाने उवर्णादेशः मकारादेशः भवति",
+     "kashika": "<<भाव्यमानेनाप्युकारेण सवर्णानां ग्रहणमिष्यते>> इत्येकमात्रिकस्य मात्रिकः, द्विमात्रिकस्य  द्विमात्रिक आदेशो भवति।",
+     "prathamavrtti": "असकारान्तस्यादसो दादुत्तरस्य वर्णस्य उवर्णादेशो भवति, दकारस्य च मकारादेशो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G15",
+   "group": "named by a commentator | ṣatva | X",
+   "count": 1,
+   "sutras": [
+    "8.3.112 named by तत्त्वबोधिनी  ⟨the replacement is the NEAREST in kind⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.3.112",
+     "word": "named by तत्त्वबोधिनी",
+     "trigger": "named by तत्त्वबोधिनी",
+     "effect": "the replacement is the NEAREST in kind",
+     "sutra": "सिचो यङि",
+     "ourVrtti": "यङि परे इण्कोः उत्तरस्य सिचः सकारस्य मूर्धन्यादेशः न भवति",
+     "kashika": "सिचः सकारस्य यङि परतो मूर्धन्यादेशो न भवति।",
+     "prathamavrtti": "इण्कोरुत्तरस्य सिचः सकारस्य यङि परतो मूर्धन्यादेशो न भवति॥"
+    }
+   ]
+  }
+ ]
+}

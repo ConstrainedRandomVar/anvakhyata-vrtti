@@ -1,0 +1,97 @@
+{
+ "pid": "1.1.61",
+ "howGrouped": "case of the triggering word (own sūtra words only) | rule kind | start of the engine trigger text; member = \"<sūtra> <word>  ⟨engine effect⟩\"",
+ "applies": 12,
+ "consideredNotApplicable": 0,
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | operation | X: supplied",
+   "count": 10,
+   "sutras": [
+    "2.4.59 प्रत्ययस्य  ⟨लुक् is by definition the disappearance of a suffix, so “of the suffix⟩",
+    "2.4.60 प्रत्ययस्य  ⟨लुक् is by definition the disappearance of a suffix, so “of the suffix⟩",
+    "2.4.61 प्रत्ययस्य  ⟨लुक् is by definition the disappearance of a suffix, so “of the suffix⟩",
+    "2.4.63 प्रत्ययस्य  ⟨लुक् is by definition the disappearance of a suffix, so “of the suffix⟩",
+    "2.4.65 प्रत्ययस्य  ⟨लुक् is by definition the disappearance of a suffix, so “of the suffix⟩",
+    "2.4.67 प्रत्ययस्य  ⟨लुक् is by definition the disappearance of a suffix, so “of the suffix⟩",
+    "2.4.68 प्रत्ययस्य  ⟨लुक् is by definition the disappearance of a suffix, so “of the suffix⟩",
+    "2.4.69 प्रत्ययस्य  ⟨लुक् is by definition the disappearance of a suffix, so “of the suffix⟩",
+    "2.4.70 प्रत्ययस्य  ⟨लुक् is by definition the disappearance of a suffix, so “of the suffix⟩",
+    "6.4.104 प्रत्ययस्य  ⟨लुक् is by definition the disappearance of a suffix, so “of the suffix⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.4.59",
+     "word": "प्रत्ययस्य",
+     "trigger": "प्रत्ययस्य: supplied",
+     "effect": "लुक् is by definition the disappearance of a suffix, so “of the suffix” is understood",
+     "sutra": "पैलादिभ्यश्च",
+     "ourVrtti": "पैलादिभ्यः परस्य प्रत्ययस्य स्थाने युवापत्ये वाच्ये लुक् आदेशः भवति",
+     "kashika": "पैल इत्येवमादिभ्यश्च युवप्रत्ययस्य लुग् भवति।",
+     "prathamavrtti": "पैलादिभ्यो गोत्रवाचिभ्यः शब्देभ्यः युवापत्ये विहितस्य प्रत्ययस्य लुग् भवति॥"
+    },
+    {
+     "n": "2.4.63",
+     "word": "प्रत्ययस्य",
+     "trigger": "प्रत्ययस्य: supplied",
+     "effect": "लुक् is by definition the disappearance of a suffix, so “of the suffix” is understood",
+     "sutra": "यस्कादिभ्यो गोत्रे",
+     "ourVrtti": "तेनैव कृते बहुत्वे अस्त्रीलिङ्गस्य यस्कादिभ्यः प्रत्ययस्य स्थाने गोत्रे बहुषु अर्थेषु लुक् भवति",
+     "kashika": "यस्क इत्येवमादिभ्यः परस्य गोत्रप्रत्ययस्य बहुषु वर्तमानस्यास्त्रीलिङ्गस्य लुग् भवति, तेनैव चेद् गोत्रप्रत्ययेन कृतं बहुत्वं भवति।",
+     "prathamavrtti": "यस्कादिभ्यो विहितो यो गोत्रप्रत्ययः तस्य बहुषु वर्त्तमानस्य अस्त्रीलिङ्गस्य लुग् भवति, यदि तेनैव = गोत्रप्रत्ययेनैव कृतं बहुत्वं स्यात् ॥"
+    },
+    {
+     "n": "2.4.68",
+     "word": "प्रत्ययस्य",
+     "trigger": "प्रत्ययस्य: supplied",
+     "effect": "लुक् is by definition the disappearance of a suffix, so “of the suffix” is understood",
+     "sutra": "तिककितवादिभ्यो द्वन्द्वे",
+     "ourVrtti": "द्वन्द्वसमासे तिकादिभ्यः कितवादिभ्यश्च परस्य गोत्रे विहितस्य प्रत्ययस्य स्थाने तत्कृतबहुवचने लुक् भवति",
+     "kashika": "तिकादिभ्यः कितवादिभ्यश्च द्वन्द्वे गोत्रप्रत्ययस्य बहुषु लुग् भवति।",
+     "prathamavrtti": "द्वन्द्वसमासे तिकादिभ्यः कितवादिभ्यश्च परस्य गोत्रे विहितस्य प्रत्ययस्य तत्कृतबहुवचने लुग् भवति।"
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "group": "carried / not a sūtra word | paribhāṣā | X",
+   "count": 1,
+   "sutras": [
+    "1.1.63 1.1.63  ⟨लुमता = by a word containing लु (लुक्, श्लु, लुप् — 1.1.61)⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.1.63",
+     "word": "1.1.63",
+     "trigger": "1.1.63",
+     "effect": "लुमता = by a word containing लु (लुक्, श्लु, लुप् — 1.1.61)",
+     "sutra": "न लुमताङ्गस्य",
+     "ourVrtti": "लुमता शब्देन प्रत्ययस्य लोपे सति तस्मिन् परे यत् अङ्गम् तस्य प्रत्ययलक्षणम् कार्यम् न भवति",
+     "kashika": "लुमता शब्देन लुप्ते प्रत्यये यदङ्गम्, तस्य प्रत्ययलक्षणं कार्यं न भवति।",
+     "prathamavrtti": "लुमता शब्देन प्रत्ययस्य लोपे (अदर्शने) सति तस्मिन् परतो यदङ्गं तस्य यत् प्रत्ययलक्षणं कार्यं तन्न भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G3",
+   "group": "carried / not a sūtra word | vidhi | X: supplied",
+   "count": 1,
+   "sutras": [
+    "5.1.89 प्रत्ययस्य  ⟨लुक् is by definition the disappearance of a suffix, so “of the suffix⟩"
+   ],
+   "samples": [
+    {
+     "n": "5.1.89",
+     "word": "प्रत्ययस्य",
+     "trigger": "प्रत्ययस्य: supplied",
+     "effect": "लुक् is by definition the disappearance of a suffix, so “of the suffix” is understood",
+     "sutra": "चित्तवति नित्यम्",
+     "ourVrtti": "द्विगोः वर्षशब्दान्तात् प्रत्ययस्य स्थाने चित्तवति प्रत्ययार्थे नित्यम् लुक् भवति",
+     "kashika": "चित्तवति प्रत्ययार्थेऽभिधेये वर्षशब्दान्ताद् द्विगोर्निर्वृत्तादिष्वर्थेषूत्पन्नस्य प्रत्ययस्य नित्यं लुग् भवति।",
+     "prathamavrtti": "द्वितीयासमर्थात् वर्षाशब्दान्ताद् द्विगुसंज्ञकात् प्रातिपदिकात् चित्तवति प्रत्ययार्थेऽभिधेयेऽधीष्टादिष्वर्थेषूत्पन्नस्य प्रत्ययस्य नित्यं लुग् भवति॥"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1115 @@
+{
+ "pid": "1.1.50",
+ "audited": "2026-11-20",
+ "totals": {
+  "firings": 101,
+  "licensed": 72,
+  "not licensed": 28,
+  "unsure": 1,
+  "not_licensed_by_should_be": {
+   "none": 27,
+   "1.3.10": 1
+  },
+  "not_licensed_by_reason": {
+   "NISHEDHA": 14,
+   "SINGLE_SUBSTITUTE": 3,
+   "PAIRING_BY_1_3_10": 1,
+   "MISNUMBERED_REF": 2,
+   "UNRELATED": 5,
+   "COUNTERFACTUAL": 1,
+   "ANUVRTTI_ONLY": 1,
+   "COMMENTATOR_DENIES": 1
+  }
+ },
+ "reason_codes": {
+  "NISHEDHA": "prohibition; nothing substituted",
+  "SINGLE_SUBSTITUTE": "the substitute is one named sound, no choice",
+  "PAIRING_BY_1_3_10": "augments paired in order by 1.3.10, per the commentator",
+  "MISNUMBERED_REF": "the commentator's [[1.1.50]] is another sūtra (उरण् रपरः)",
+  "COMMENTATOR_DENIES": "the passage says 1.1.50 does not apply here",
+  "UNRELATED": "the passage is about another sūtra or topic",
+  "ANUVRTTI_ONLY": "only the word स्थाने is carried from 1.1.50",
+  "COUNTERFACTUAL": "named only to explain why a word is in the sūtra"
+ },
+ "conditions": [
+  {
+   "text": "C1 — 1.1.50: when a substitute is due, the most similar (sadṛśatama) one comes.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11050",
+     "quote": "स्थाने प्राप्यमाणानामन्तरतम आदेशो भवति सदृशतमः।"
+    },
+    {
+     "file": "kaumudi",
+     "id": "11050",
+     "quote": "प्रसङ्गे सति सदृशतम आदेशः स्यात् ।"
+    }
+   ]
+  },
+  {
+   "text": "C2 — It works only where one sthānin could get several substitutes; it picks among them. So it needs an actual substitution with more than one candidate — not a prohibition, not a single named substitute.",
+   "quotes": [
+    {
+     "file": "balamanorama",
+     "id": "11050",
+     "quote": "एकस्य स्थानिनोऽनेकादेशप्रसङ्गे सति यः स्थानार्थगुणप्रमाणतः स्थानिना सदृशतमः स एवादेशो भवतीत्यर्थः ।"
+    }
+   ]
+  },
+  {
+   "text": "C3 — Nearness is by place, meaning, quality (prayatna) and measure; place is strongest. Kāśikā examples: 6.1.101, 6.3.34 (puṃvat), 7.3.52, 8.2.80, 8.4.62; guṇa चेता/स्तोता.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11050",
+     "quote": "कुतश्च शब्दस्यान्तर्यम्? स्थानार्थगुणप्रमाणतः।"
+    },
+    {
+     "file": "kashika",
+     "id": "11050",
+     "quote": "द्वयोरकारयोः कण्ठ्य एव दीर्घ आकारो भवति।"
+    },
+    {
+     "file": "kashika",
+     "id": "11050",
+     "quote": "प्रमाणतोऽकारो गुणः प्राप्तः, तत्र स्थानत आन्तर्यादेकारौकारौ भवतः।"
+    }
+   ]
+  },
+  {
+   "text": "C4 — Commentators use 1.1.50 instead of 1.3.10 to pair a list of sthānins with a list of substitutes where the counts or classes do not match.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "82037",
+     "quote": "अत्र चत्वारो बशः स्थानिनो भषादेशाश्चत्वार एव, तत्र संख्यातानुदेशे प्राप्ते डकारस्य स्थानिनोऽभावात् ढकारादेशो न भवति? आन्तर्यतो व्यवस्था विज्ञास्यते।"
+    },
+    {
+     "file": "tattvabodhini",
+     "id": "64077",
+     "quote": "इ उ इत्यष्टादशानां संज्ञे त्युक्तत्वाद्यथासङ्ख्यमिहन न प्रवर्तते, इत्याह — आन्तरतम्यादिति ।"
+    },
+    {
+     "file": "nyaas",
+     "id": "53063",
+     "quote": "यद्येवम्, स्थान्यादेशयोरपि यथासंख्यं न प्राप्नोति? मा भूद्यथासंख्यम्, आन्तरतम्याद्व्यवस्था भविष्यति।"
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | operation | X",
+   "count": 58,
+   "verdict": "mixed",
+   "counts": {
+    "licensed": 48,
+    "not licensed": 10,
+    "unsure": 0
+   },
+   "how_checked": "All 58 read (sūtra, generated vṛtti, Kāśikā). Positive guṇa/vṛddhi substitutions are licensed (guṇa/vṛddhi is a class of three sounds; the nearest is chosen — Kāśikā on 1.1.50: चेता, स्तोता). Prohibitions and a fixed single substitute are not.",
+   "licensed": [
+    "6.4.146",
+    "6.4.156",
+    "7.2.1",
+    "7.2.3",
+    "7.2.114",
+    "7.2.115",
+    "7.2.116",
+    "7.2.117",
+    "7.2.118",
+    "7.3.11",
+    "7.3.12",
+    "7.3.13",
+    "7.3.14",
+    "7.3.15",
+    "7.3.16",
+    "7.3.17",
+    "7.3.18",
+    "7.3.19",
+    "7.3.20",
+    "7.3.21",
+    "7.3.24",
+    "7.3.26",
+    "7.3.27",
+    "7.3.28",
+    "7.3.29",
+    "7.3.30",
+    "7.3.31",
+    "7.3.82",
+    "7.3.83",
+    "7.3.84",
+    "7.3.85",
+    "7.3.86",
+    "7.3.89",
+    "7.3.90",
+    "7.3.91",
+    "7.3.108",
+    "7.3.109",
+    "7.3.110",
+    "7.3.111",
+    "7.4.10",
+    "7.4.11",
+    "7.4.16",
+    "7.4.21",
+    "7.4.29",
+    "7.4.30",
+    "7.4.57",
+    "7.4.75",
+    "7.4.82"
+   ],
+   "not_licensed": [
+    {
+     "n": "7.2.4",
+     "word": "वृद्धि replaces a vowel",
+     "should_be": "none",
+     "reason": "NISHEDHA",
+     "why": "A prohibition: the sūtra stops a guṇa/vṛddhi/yaṇ/augment that another rule would bring. Nothing is substituted, so there is no choice of nearest substitute for 1.1.50 to make.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72004",
+       "quote": "इडादौ सिचि हलन्तस्याङ्गस्य वृद्धिर्न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "7.2.5",
+     "word": "वृद्धि replaces a vowel",
+     "should_be": "none",
+     "reason": "NISHEDHA",
+     "why": "A prohibition: the sūtra stops a guṇa/vṛddhi/yaṇ/augment that another rule would bring. Nothing is substituted, so there is no choice of nearest substitute for 1.1.50 to make.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72005",
+       "quote": "हकारान्तानां मकारान्तानां यकारान्तानामङ्गानां क्षण श्वस जागृ णि श्वि इत्येतेषामेदितां च इडादौ सिचि परस्मैपदे परतो वृद्धिर्न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "7.2.6",
+     "word": "वृद्धि replaces a vowel",
+     "should_be": "none",
+     "reason": "NISHEDHA",
+     "why": "A prohibition: the sūtra stops a guṇa/vṛddhi/yaṇ/augment that another rule would bring. Nothing is substituted, so there is no choice of nearest substitute for 1.1.50 to make.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72006",
+       "quote": "ऊर्णोतेरिडादौ सिचि परस्मैपदपरे परतो विभाषा वृद्धिर्न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "7.2.7",
+     "word": "वृद्धि replaces a vowel",
+     "should_be": "none",
+     "reason": "NISHEDHA",
+     "why": "A prohibition: the sūtra stops a guṇa/vṛddhi/yaṇ/augment that another rule would bring. Nothing is substituted, so there is no choice of nearest substitute for 1.1.50 to make.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72007",
+       "quote": "हलादेरङ्गस्य लघोरकारस्येडादौ सिचि परस्मैपदपरे परतो विभाषा वृद्धिर्न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.1",
+     "word": "वृद्धि replaces a vowel",
+     "should_be": "none",
+     "reason": "SINGLE_SUBSTITUTE",
+     "why": "The substitute is आत् (long ā) named in the sūtra, in place of the vṛddhi that was due. A single named sound: there is nothing to choose, and the trigger “वृद्धि replaces a vowel” is wrong for this sūtra.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73001",
+       "quote": "देविका शिंशपा दित्यवाट् दीर्घसत्र श्रेयस् इत्येतेषामङ्गानामचामादेरचः स्थाने वृद्धिप्रसङ्ग आकारो भवति ञिति णिति किति  तद्धिते परतः।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.22",
+     "word": "वृद्धि replaces a vowel",
+     "should_be": "none",
+     "reason": "NISHEDHA",
+     "why": "A prohibition: the sūtra stops a guṇa/vṛddhi/yaṇ/augment that another rule would bring. Nothing is substituted, so there is no choice of nearest substitute for 1.1.50 to make.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73022",
+       "quote": "इन्द्रशब्दस्य परस्य यदुक्तंतद् न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.34",
+     "word": "वृद्धि replaces a vowel",
+     "should_be": "none",
+     "reason": "NISHEDHA",
+     "why": "A prohibition: the sūtra stops a guṇa/vṛddhi/yaṇ/augment that another rule would bring. Nothing is substituted, so there is no choice of nearest substitute for 1.1.50 to make.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73034",
+       "quote": "उदात्तोपदेशस्य मान्तस्याङ्गस्याचमिवर्जितस्य चिणि कृति च ञ्णिति यदुक्तंतद् न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.35",
+     "word": "वृद्धि replaces a vowel",
+     "should_be": "none",
+     "reason": "NISHEDHA",
+     "why": "A prohibition: the sūtra stops a guṇa/vṛddhi/yaṇ/augment that another rule would bring. Nothing is substituted, so there is no choice of nearest substitute for 1.1.50 to make.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73035",
+       "quote": "जनि वधि इत्येतयोश्चिणि कृति च ञ्णिति यदुक्तं तद् न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.87",
+     "word": "गुण replaces a vowel",
+     "should_be": "none",
+     "reason": "NISHEDHA",
+     "why": "A prohibition: the sūtra stops a guṇa/vṛddhi/yaṇ/augment that another rule would bring. Nothing is substituted, so there is no choice of nearest substitute for 1.1.50 to make.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73087",
+       "quote": "अभ्यस्तसंज्ञकस्याङ्गस्य लघूपधस्याजादौ पिति सार्वधातुके गुणो न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.88",
+     "word": "गुण replaces a vowel",
+     "should_be": "none",
+     "reason": "NISHEDHA",
+     "why": "A prohibition: the sūtra stops a guṇa/vṛddhi/yaṇ/augment that another rule would bring. Nothing is substituted, so there is no choice of nearest substitute for 1.1.50 to make.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73088",
+       "quote": "भू सू इत्येतयोस्तिङि सार्वधातुके गुणो न भवति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "licensed_with_caveat": [
+    {
+     "n": "7.3.27",
+     "note": "Mostly a prohibition (no vṛddhi of the ā of the parimāṇa word), but the vṛtti also carries “पूर्वस्य तु वा” — an optional vṛddhi of the first member, where nearness does choose. Kept as licensed for that clause.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73027",
+       "quote": "अर्धात् परस्य परिमाणाकारस्य वृद्धिर्न भवति, पूर्वस्य तु वा भवति तद्धिते ञिति णिति किति च परतः।"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G2",
+   "group": "carried / not a sūtra word | ādeśa | X",
+   "count": 20,
+   "verdict": "mixed",
+   "counts": {
+    "licensed": 13,
+    "not licensed": 7,
+    "unsure": 0
+   },
+   "how_checked": "All 20 read. yaṇ, jaś, car, bhaṣ for a class of sthānins: licensed by place-nearness (SK/BM/Kāśikā quoted). The ऐच् augments of 7.3.4–7.3.9 and the prohibitions are not.",
+   "licensed": [
+    "6.1.77",
+    "6.4.81",
+    "6.4.82",
+    "6.4.83",
+    "6.4.84",
+    "6.4.86",
+    "8.2.37",
+    "8.2.38",
+    "8.2.39",
+    "8.4.53",
+    "8.4.54",
+    "8.4.55",
+    "8.4.56"
+   ],
+   "not_licensed": [
+    {
+     "n": "6.4.85",
+     "word": "यण् for each sound of the place",
+     "should_be": "none",
+     "reason": "NISHEDHA",
+     "why": "A prohibition: the sūtra stops a guṇa/vṛddhi/yaṇ/augment that another rule would bring. Nothing is substituted, so there is no choice of nearest substitute for 1.1.50 to make.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "64085",
+       "quote": "भू सुधी इत्येतयोर्यणादेशो न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.4",
+     "word": "ऐच् for each sound of the place",
+     "should_be": "1.3.10",
+     "reason": "PAIRING_BY_1_3_10",
+     "why": "ऐच् here is an augment placed before य्/व् (not a substitute: “पूर्वौ तु ताभ्यामैच्”). BM on the parent sūtra 7.3.3 gives the pairing ऐ before य्, औ before व् as यथासङ्ख्यम् (1.3.10), not nearness. The engine effect “each sound is replaced” is wrong.",
+     "quotes": [
+      {
+       "file": "balamanorama",
+       "id": "73003",
+       "quote": "यथासङ्ख्यं यकारात्पूर्व ऐकारः, वकारात्पूर्व औकारः ।"
+      },
+      {
+       "file": "balamanorama",
+       "id": "73003",
+       "quote": "तेन आगमत्वं लभ्यते ।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.5",
+     "word": "ऐच् for each sound of the place",
+     "should_be": "none",
+     "reason": "SINGLE_SUBSTITUTE",
+     "why": "Only य् occurs (न्यग्रोध), so the augment is ऐ alone — the vṛtti names it (“ऐकार आगमः”). Nothing to choose, and it is an augment, not a substitute.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73005",
+       "quote": "न्यग्रोधशब्दस्य केवलस्य यकारादुत्तरस्याचामादेरचः स्थाने वृद्धिर्न भवति, तस्मात् च पूर्वमैकार आगमो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.6",
+     "word": "ऐच् for each sound of the place",
+     "should_be": "none",
+     "reason": "NISHEDHA",
+     "why": "A prohibition: the sūtra stops a guṇa/vṛddhi/yaṇ/augment that another rule would bring. Nothing is substituted, so there is no choice of nearest substitute for 1.1.50 to make.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73006",
+       "quote": "कर्मव्यतिहारे यदुक्तं तद् न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.7",
+     "word": "ऐच् for each sound of the place",
+     "should_be": "none",
+     "reason": "NISHEDHA",
+     "why": "A prohibition: the sūtra stops a guṇa/vṛddhi/yaṇ/augment that another rule would bring. Nothing is substituted, so there is no choice of nearest substitute for 1.1.50 to make.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73007",
+       "quote": "स्वागत इत्येवमादीनां यदुक्तं तद् न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.8",
+     "word": "ऐच् for each sound of the place",
+     "should_be": "none",
+     "reason": "NISHEDHA",
+     "why": "A prohibition: the sūtra stops a guṇa/vṛddhi/yaṇ/augment that another rule would bring. Nothing is substituted, so there is no choice of nearest substitute for 1.1.50 to make.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73008",
+       "quote": "श्वादेरङ्गस्येञि परतो यदुक्तं तद् न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "7.3.9",
+     "word": "ऐच् for each sound of the place",
+     "should_be": "none",
+     "reason": "NISHEDHA",
+     "why": "A prohibition: the sūtra stops a guṇa/vṛddhi/yaṇ/augment that another rule would bring. Nothing is substituted, so there is no choice of nearest substitute for 1.1.50 to make.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73009",
+       "quote": "श्वादेरङ्गस्य पदशब्दान्तस्यान्यतरस्यां यदुक्तं तद् न भवति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "licensed_with_caveat": [
+    {
+     "n": "6.1.77",
+     "note": "SK/BM: ई→य् by place-nearness; BM cites the Bhāṣya that 1.1.50 suffices here.",
+     "quotes": [
+      {
+       "file": "kaumudi",
+       "id": "61077",
+       "quote": "स्थानत आन्तर्यादीकारस्य यकारः ।"
+      },
+      {
+       "file": "balamanorama",
+       "id": "61077",
+       "quote": "तालुस्थानकत्वसाम्यादीकारस्य स्थाने स्थानेऽन्तरतम इति यकार एव भवति; न तु वरलाः, भिन्नस्थानकत्वादित्यर्थः ।"
+      }
+     ]
+    },
+    {
+     "n": "6.4.86",
+     "note": "Licensed for the yaṇ branch (“उभयथा” = yaṇ or iyaṅ/uvaṅ).",
+     "quotes": []
+    },
+    {
+     "n": "8.2.37",
+     "note": "Kāśikā itself: four बश् and four भष् would pair by 1.3.10, but the pairing is by nearness.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "82037",
+       "quote": "अत्र चत्वारो बशः स्थानिनो भषादेशाश्चत्वार एव, तत्र संख्यातानुदेशे प्राप्ते डकारस्य स्थानिनोऽभावात् ढकारादेशो न भवति? आन्तर्यतो व्यवस्था विज्ञास्यते।"
+      }
+     ]
+    },
+    {
+     "n": "8.4.54",
+     "note": "SK: the choice of jaś or car follows nearness.",
+     "quotes": [
+      {
+       "file": "kaumudi",
+       "id": "84054",
+       "quote": "तत्रापि प्रकृतिजशां प्रकृतिजशः प्रकृतिचरां प्रकृतिचर इति विवेक आन्तरतम्यात् ॥"
+      }
+     ]
+    },
+    {
+     "n": "8.4.56",
+     "note": "SK applies nearness to car-substitution (स् stays स्).",
+     "quotes": [
+      {
+       "file": "kaumudi",
+       "id": "84056",
+       "quote": "सस्य द्वित्वपक्षे खरि चे <{SK121}>ति चर्त्त्वेऽप्यान्तरतम्यात्सस्य स एव न तु तकारः ।"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G3",
+   "group": "named by a commentator | ādeśa | X",
+   "count": 5,
+   "verdict": "mixed",
+   "counts": {
+    "licensed": 3,
+    "not licensed": 2,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, engine trigger/effect, generated vṛtti, Kāśikā; for commentator-named credits the quoted passage was read in context (ctx search for न्तरतम/आन्तर्य/आन्तरतम/यथासंख्य in Kāśikā, Nyāsa, Padamañjarī, Bhāṣya, SK, BM, TB).",
+   "licensed": [
+    "3.4.84",
+    "5.3.63",
+    "8.4.40"
+   ],
+   "not_licensed": [
+    {
+     "n": "6.3.25",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "MISNUMBERED_REF",
+     "why": "The Nyāsa passage is about उरण् रपरः (1.1.51), labelled [[1.1.50]] in the Nyāsa: the ṅ of आनङ् is there so that रपरत्व does not come. The substitute आनङ् is one fixed form; 1.1.50 has nothing to choose.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "63025",
+       "quote": "असति नकार ऋकारस्या स्थानेऽणेव शिष्यते, ततश्च `उरण्? रपरः`  [[1.1.50]]  इति रपरत्वं स्यात्।"
+      }
+     ]
+    },
+    {
+     "n": "7.4.7",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "MISNUMBERED_REF",
+     "why": "Again उरण्रपरः labelled [[1.1.50]]. The Nyāsa says 7.4.7 is the apavāda of the इर्/अर्/आर् that 7.1.101, 7.3.86, 7.2.114 would give; the substitute here is the named ऋ — one sound, no choice.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "74007",
+       "quote": "`उपघायाश्च`  [[7.1.101]]  इतीकारः, `पुगन्तलघूपघस्य`  [[7.3.86]]  इति गुणोऽकारः, `मृजेर्बृद्धिः`  [[7.2.114]]  इत्याकारः - इत्येते च ऋकारस्य स्थाने `उरण्रपरः`  [[1.1.50]]  इति रपरा भवन्तो यताक्रममिररारो भवन्ति, तेषामपवादः।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "licensed_with_caveat": [
+    {
+     "n": "3.4.84",
+     "note": "Nyāsa applies 1.1.50 to link the five named sthānins with the first five substitutes.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "34084",
+       "quote": "इह हि स्थानिनः पञ्चैवाऽद्या निर्दिष्टाः, तेषाञ्च <<स्थानेऽन्तरतमः>> [[1.1.50]]  इति परिभाषया पञ्चिरेवाद्यैः सम्बन्धः सम्भवति, नेतरैश्च।"
+      }
+     ]
+    },
+    {
+     "n": "5.3.63",
+     "note": "Nyāsa: the pairing अन्तिक→नेद, बाढ→साध is by nearness, not yathāsaṅkhya (the generated vṛtti still says “यथासङ्ख्यम्”, as the Kāśikā does). The engine quote with [[1.1.49]] is the Nyāsa's misnumbering; the passage itself applies 1.1.50.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "53063",
+       "quote": "यद्येवम्, स्थान्यादेशयोरपि यथासंख्यं न प्राप्नोति? मा भूद्यथासंख्यम्, आन्तरतम्याद्व्यवस्था भविष्यति।"
+      }
+     ]
+    },
+    {
+     "n": "8.4.40",
+     "note": "TB: the yathāsaṅkhya sūtra is not cited because 1.1.50 gives the result.",
+     "quotes": [
+      {
+       "file": "tattvabodhini",
+       "id": "84040",
+       "quote": "यथासङ्ख्यसूत्रमिह नोपन्यस्तम्,स्थानेऽन्तरतमः॑ इत्यनेनापि इष्टसिद्धेर्नात्यन्तावश्यकत्वात् ।"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G4",
+   "group": "named by a commentator | operation | X",
+   "count": 4,
+   "verdict": "mixed",
+   "counts": {
+    "licensed": 2,
+    "not licensed": 1,
+    "unsure": 1
+   },
+   "how_checked": "Every member read: sūtra, engine trigger/effect, generated vṛtti, Kāśikā; for commentator-named credits the quoted passage was read in context (ctx search for न्तरतम/आन्तर्य/आन्तरतम/यथासंख्य in Kāśikā, Nyāsa, Padamañjarī, Bhāṣya, SK, BM, TB).",
+   "licensed": [
+    "7.3.101",
+    "8.1.1"
+   ],
+   "not_licensed": [
+    {
+     "n": "7.2.107",
+     "word": "named by प्रक्रियासर्वस्वम्",
+     "should_be": "none",
+     "reason": "SINGLE_SUBSTITUTE",
+     "why": "The substitute is औ, one named sound, for the स् of अदस्. The Prakriyāsarvasva line the engine quotes (“ह्रस्वस्य ह्रस्वः, दीर्घस्य दीर्घ उकारः”) belongs to the later step 8.2.80 in the same derivation.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72107",
+       "quote": "अदसः सौ परतः सकारस्य औकारादेशो भवति, सोश्च लोपो भवति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [
+    {
+     "n": "6.1.1",
+     "word": "named by पदमञ्जरी",
+     "why": "Padamañjarī applies 1.1.50 only in the “स्थाने द्विर्वचनम्” view (which two forms replace the one), not in the “द्विःप्रयोग” view; the generated vṛtti is a bare adhikāra statement that does not need it. Leans not licensed.",
+     "quotes": [
+      {
+       "file": "padamanjari",
+       "id": "61001",
+       "quote": "तत्राद्ये पक्षे'स्थाने' न्तरतमःऽ इति वचनाच्छब्दतश्चान्तरतमयोर्द्वयोविधानाद् यद्यपि ये केचन प्राप्नुत इति दोषनवतारः।"
+      }
+     ]
+    }
+   ],
+   "licensed_with_caveat": [
+    {
+     "n": "7.3.101",
+     "note": "TB: which long vowel (and its accent) is chosen for अ is given by 1.1.50.",
+     "quotes": [
+      {
+       "file": "tattvabodhini",
+       "id": "73101",
+       "quote": "केचित्तु — अत आ॑ दिति सुवचं, तपरकरणसामर्थ्याद्विकारनिवृत्तिर्भवेदिति प्लुतस्याऽप्रसङ्गात्, उदात्तस्थाने उदात्त आकारः, अनुदात्तस्थानेऽनुदात्त आकार इत्यादि तुस्थानेऽन्तरतमः॑ इत्यनेनैव सिद्धम् ।"
+      }
+     ]
+    },
+    {
+     "n": "8.1.1",
+     "note": "The Kāśikā itself (in the स्थाने-द्विर्वचन view) says the two forms are those nearest in sound and meaning; the Nyāsa ties this to 1.1.50. Only one of the two views.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "81001",
+       "quote": "के द्वे भवतः? ये शब्दतश्चार्थतश्चोभयथान्तरतमे।"
+      },
+      {
+       "file": "nyaas",
+       "id": "81001",
+       "quote": "<<स्थानेऽन्तरतमः>> [[1.1.50]]  इति परिभाषया व्यवस्था भवितव्यतीत्यनेनाभिप्रायेणाह -`ये शब्दतश्च` इत्यादि।"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G5",
+   "group": "named by a commentator | vidhi | X",
+   "count": 2,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 2,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, engine trigger/effect, generated vṛtti, Kāśikā; for commentator-named credits the quoted passage was read in context (ctx search for न्तरतम/आन्तर्य/आन्तरतम/यथासंख्य in Kāśikā, Nyāsa, Padamañjarī, Bhāṣya, SK, BM, TB).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "4.1.36",
+     "word": "named by तत्त्वबोधिनी",
+     "should_be": "none",
+     "reason": "UNRELATED",
+     "why": "TB argues that ऐ is a substitute, not a suffix; the 1.1.50 remark is about the udātta of 4.1.37 (अग्नि etc.) as the vṛtti writers give it, not about reading 4.1.36. ऐ is one named sound.",
+     "quotes": [
+      {
+       "file": "tattvabodhini",
+       "id": "41036",
+       "quote": "अन्यथालाघवन्ते इति मध्योदात्तो वृषाकपिशब्द उदात्तत्वं प्रयोजयति, अग्न्यादिषु त्रिषुस्थानेऽन्तरतमः॑इत्येव सिद्ध॑मिति वृत्त्यादिग्रन्था विरुध्येरन्निति भावः ।"
+      }
+     ]
+    },
+    {
+     "n": "4.1.73",
+     "word": "named by पदमञ्जरी",
+     "should_be": "none",
+     "reason": "UNRELATED",
+     "why": "The Padamañjarī remark concerns the vṛddhi in नर → नारी (gaṇa नृनरयोर्वृद्धिश्च) in a derivation, not the suffix ङीन् of 4.1.73.",
+     "quotes": [
+      {
+       "file": "padamanjari",
+       "id": "41073",
+       "quote": "तत्र नरशब्देऽन्त्यस्य वृद्धौ सत्यां यस्येतिलोपादानर्थक्यमिति यस्येति लोपस्तावद्भवति, तत्र कृते रेफस्य वृद्धिः प्राप्नोति, का ? अविशेष्ट्पर्यायेण सर्वैव ? नैष दोषः;'स्थाने' न्तरतमःऽ इत्यत्रान्तरतमे स्थाने षष्ठीत्यपि पक्षो व्याख्यातः, ततो नृनरयोरिति यैषा षष्ठी सा वृद्धेरन्तरतमे नृनरावयवे स्थानिन्यनुसंह्रियते ।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G6",
+   "group": "named by a commentator | ekādeśa | X",
+   "count": 2,
+   "verdict": "mixed",
+   "counts": {
+    "licensed": 1,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, engine trigger/effect, generated vṛtti, Kāśikā; for commentator-named credits the quoted passage was read in context (ctx search for न्तरतम/आन्तर्य/आन्तरतम/यथासंख्य in Kāśikā, Nyāsa, Padamañjarī, Bhāṣya, SK, BM, TB).",
+   "licensed": [
+    "6.1.87"
+   ],
+   "not_licensed": [
+    {
+     "n": "6.1.107",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "COUNTERFACTUAL",
+     "why": "The Nyāsa explains why “पूर्व” is said: if सवर्ण were carried, 1.1.50 would make the substitute the सवर्ण of the first. The sūtra names पूर्वरूप — one fixed form; 1.1.50 is not needed.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "61107",
+       "quote": "असति हि पूर्वग्रहणे यत्? पूर्वकं पूर्वग्रहणं तेनैवानुवर्त्तितव्यम्, तस्मिश्चानुवर्तमाने ततसम्बद्धं सव्रणग्रहणपि अनुवर्तेत, तथा च <<स्थानेऽन्तरतमः>> [[1.1.50]]  इत्यनया परिभाषया पूर्वस्य यः सवर्णः स एव परसज्येत।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "licensed_with_caveat": [
+    {
+     "n": "6.1.87",
+     "note": "Licensed (a+i → ए by nearness, BM), but the engine's Nyāsa quote is about उरण् रपरः (Nyāsa numbering [[1.1.50]] for 1.1.51) — wrong evidence.",
+     "quotes": [
+      {
+       "file": "balamanorama",
+       "id": "61087",
+       "quote": "उप-इन्द्र इति स्थिते पकारादकारस्य तस्मादिकारस्य च पूर्वपरयोः कण्ठतालुस्थानकयोस्तथाविध एको गुण एकारः, आन्तरतम्यात् ।"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G7",
+   "group": "carried / not a sūtra word | āgama | X: 1.1.50 … (not 1.3.10 — paribhāṣā audi",
+   "count": 2,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 2,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, engine trigger/effect, generated vṛtti, Kāśikā; for commentator-named credits the quoted passage was read in context (ctx search for न्तरतम/आन्तर्य/आन्तरतम/यथासंख्य in Kāśikā, Nyāsa, Padamañjarī, Bhāṣya, SK, BM, TB).",
+   "licensed": [
+    "6.4.77",
+    "6.4.78"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "licensed_with_caveat": [
+    {
+     "n": "6.4.77",
+     "note": "SK/BM/TB: इयङ् for इ, उवङ् for उ by place-nearness; TB: yathāsaṅkhya does not apply.",
+     "quotes": [
+      {
+       "file": "kaumudi",
+       "id": "64077",
+       "quote": "आन्तरतम्यादेरियङ् ओरुवङ् ।"
+      },
+      {
+       "file": "tattvabodhini",
+       "id": "64077",
+       "quote": "इ उ इत्यष्टादशानां संज्ञे त्युक्तत्वाद्यथासङ्ख्यमिहन न प्रवर्तते, इत्याह — आन्तरतम्यादिति ।"
+      }
+     ]
+    },
+    {
+     "n": "6.4.78",
+     "note": "Same इयङ्/उवङ् carried from 6.4.77; no separate commentary found on 6.4.78.",
+     "quotes": []
+    }
+   ],
+   "note": "Re-pointed today from 1.3.10. Licensed, but the engine effect “they pair up in order (यथासङ्ख्यम्)” and the generated vṛtti “यथासङ्ख्यम्” still describe 1.3.10 — the effect wording should say the pairing is by nearness."
+  },
+  {
+   "id": "G8",
+   "group": "carried / not a sūtra word | paribhāṣā | X",
+   "count": 1,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 1,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, engine trigger/effect, generated vṛtti, Kāśikā; for commentator-named credits the quoted passage was read in context (ctx search for न्तरतम/आन्तर्य/आन्तरतम/यथासंख्य in Kāśikā, Nyāsa, Padamañjarī, Bhāṣya, SK, BM, TB).",
+   "licensed": [
+    "1.1.48"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "licensed_with_caveat": [
+    {
+     "n": "1.1.48",
+     "note": "Licensed: after 1.1.48 restricts the short vowel to इक्, nearness gives इ for ए/ऐ and उ for ओ/औ (BM). But the engine effect “the short replacement would by nearness be अ” is wrong: BM says no short vowel is nearest to एच्, so any could come.",
+     "quotes": [
+      {
+       "file": "balamanorama",
+       "id": "11048",
+       "quote": "तस्य च इग्ग्रहणेन निवृत्तौ इवर्णसादृश्यमात्रमादाय एकारस्य ऐकारस्य च इवर्णः, उवर्णसादृस्यादोकारस्य औकारस्य च उवर्ण इति व्यवस्था न्यायप्राप्ता ।"
+      },
+      {
+       "file": "balamanorama",
+       "id": "11048",
+       "quote": "प्रकृष्टा द्यौर्यस्येति बहुव्रीहौ प्रद्योशब्दस्य 'ह्रस्वो नपुंसके' इति ह्रस्वः प्राप्नुवन्नेचो ह्रस्वाऽभावात्तेषां द्विस्थानत्वेन अ, इ, उ, ऋ, लृ, इत्येतेषां ह्रस्वानामन्तरतमत्वाऽभावादन्तरस्थानसाम्याश्रयेण अवर्णादिषु यस्य कस्यचिदनियमेन पर्यायेण वा प्राप्ताविदमारभ्यते — एच इक् ।"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G9",
+   "group": "carried / not a sūtra word | paribhāṣā | X: 1.1.50 … (not 1.3.10 — paribhāṣā audi",
+   "count": 1,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 1,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, engine trigger/effect, generated vṛtti, Kāśikā; for commentator-named credits the quoted passage was read in context (ctx search for न्तरतम/आन्तर्य/आन्तरतम/यथासंख्य in Kāśikā, Nyāsa, Padamañjarī, Bhāṣya, SK, BM, TB).",
+   "licensed": [
+    "1.1.51"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "licensed_with_caveat": [
+    {
+     "n": "1.1.51",
+     "note": "Licensed (SK: अर् for ऋ, अल् for ऌ by nearness). The effect still says “in order (यथासङ्ख्यम्)”, which is 1.3.10 — wrong wording.",
+     "quotes": [
+      {
+       "file": "kaumudi",
+       "id": "11051",
+       "quote": "तत्रान्तरतम्यात् कृष्णर्द्धिरित्यत्राऽर् ।"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G10",
+   "group": "named by a commentator | saṃjñā | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, engine trigger/effect, generated vṛtti, Kāśikā; for commentator-named credits the quoted passage was read in context (ctx search for न्तरतम/आन्तर्य/आन्तरतम/यथासंख्य in Kāśikā, Nyāsa, Padamañjarī, Bhāṣya, SK, BM, TB).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "1.1.60",
+     "word": "named by बालमनोरमा",
+     "should_be": "none",
+     "reason": "ANUVRTTI_ONLY",
+     "why": "BM says only that the word स्थाने is carried from 1.1.50 into 1.1.60. That is anuvṛtti of a word (already shown as carried), not 1.1.50 choosing a substitute.",
+     "quotes": [
+      {
+       "file": "balamanorama",
+       "id": "11060",
+       "quote": "'स्थानेऽन्तरतमः' इत्यतः स्थां इत्यनुवर्तते ।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G11",
+   "group": "named by a commentator | atideśa | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, engine trigger/effect, generated vṛtti, Kāśikā; for commentator-named credits the quoted passage was read in context (ctx search for न्तरतम/आन्तर्य/आन्तरतम/यथासंख्य in Kāśikā, Nyāsa, Padamañjarī, Bhāṣya, SK, BM, TB).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "3.4.87",
+     "word": "named by तत्त्वबोधिनी",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "TB says the हि that replaces the anudātta सिप् is NOT made anudātta by 1.1.50 (because of अपित्). A denial.",
+     "quotes": [
+      {
+       "file": "tattvabodhini",
+       "id": "34087",
+       "quote": "एवं च पित्त्वेनानुदात्तस्य सिपः स्थाने यो हिरादेशः स तुस्थानेऽन्तरतमः॑ इत्यनुदात्तो न भवति,जहि शत्रून्ट,स्तुहि श्रुतम्॥"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G12",
+   "group": "named by a commentator | āgama | X (English)",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, engine trigger/effect, generated vṛtti, Kāśikā; for commentator-named credits the quoted passage was read in context (ctx search for न्तरतम/आन्तर्य/आन्तरतम/यथासंख्य in Kāśikā, Nyāsa, Padamañjarī, Bhāṣya, SK, BM, TB).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "7.2.10",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "UNRELATED",
+     "why": "In Vasu's list of aniṭ roots “[[1.1.50]]” is a stray cross-reference after त्विष्, not 1.1.50 applied; 7.2.10 is a prohibition of the augment इट्.",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "72010",
+       "quote": "त्विष् 'to shine' [[1.1.50]] त्वेष्टा"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G13",
+   "group": "named by a commentator | adhikāra | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, engine trigger/effect, generated vṛtti, Kāśikā; for commentator-named credits the quoted passage was read in context (ctx search for न्तरतम/आन्तर्य/आन्तरतम/यथासंख्य in Kāśikā, Nyāsa, Padamañjarī, Bhāṣya, SK, BM, TB).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "8.2.1",
+     "word": "named by बालमनोरमा",
+     "should_be": "none",
+     "reason": "UNRELATED",
+     "why": "BM remarks that the external prayatnas matter for the nearness judgement of 1.1.50 — a general remark; the adhikāra 8.2.1 does not need 1.1.50.",
+     "quotes": [
+      {
+       "file": "balamanorama",
+       "id": "82001",
+       "quote": "सवर्णसंज्ञाप्रस्तावे बाह्रयत्नानामुपयोगाभावेऽपि 'स्थानेऽन्तरतमः' इति वक्ष्यमाणान्तरतम्य्विचारे तेषामुपयोगसत्त्वान्न वैयर्थ्यम् ।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G14",
+   "group": "named by a commentator | ādeśa | X (English)",
+   "count": 1,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 1,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, engine trigger/effect, generated vṛtti, Kāśikā; for commentator-named credits the quoted passage was read in context (ctx search for न्तरतम/आन्तर्य/आन्तरतम/यथासंख्य in Kāśikā, Nyāsa, Padamañjarī, Bhāṣya, SK, BM, TB).",
+   "licensed": [
+    "8.2.80"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "licensed_with_caveat": [
+    {
+     "n": "8.2.80",
+     "note": "Strong: the Kāśikā on 1.1.50 uses this very sūtra as its example of nearness by measure.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "11050",
+       "quote": "<<अदसोऽसेर्दादु दो मः>> [[८.२.८०]] इति ह्रस्वस्य ह्रस्वः, दीर्घस्य दीर्घः।"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G15",
+   "group": "named by a commentator | ṣatva | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, engine trigger/effect, generated vṛtti, Kāśikā; for commentator-named credits the quoted passage was read in context (ctx search for न्तरतम/आन्तर्य/आन्तरतम/यथासंख्य in Kāśikā, Nyāsa, Padamañjarī, Bhāṣya, SK, BM, TB).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "8.3.112",
+     "word": "named by तत्त्वबोधिनी",
+     "should_be": "none",
+     "reason": "UNRELATED",
+     "why": "TB's line is about the word लोष्ट in the Bhāṣya on 1.1.50; 8.3.112 is a prohibition of ṣatva.",
+     "quotes": [
+      {
+       "file": "tattvabodhini",
+       "id": "83112",
+       "quote": "तथा चस्थानेऽन्तरतमः॑ इति सूत्रे भाष्यंलोष्टः क्षिप्तो बाहुवेगं गत्वे॑त्यादि.अत एवलेष्टुः शण्डेऽपि लोष्टः स्यात् इति पुंलिङ्गकाण्डे बोपालितः ।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  }
+ ],
+ "missed": [
+  {
+   "n": "6.1.101",
+   "pid": "1.1.50",
+   "why": "अकः सवर्णे दीर्घः — the Kāśikā's own example (nearness by place).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11050",
+     "quote": "द्वयोरकारयोः कण्ठ्य एव दीर्घ आकारो भवति।"
+    }
+   ]
+  },
+  {
+   "n": "7.3.52",
+   "pid": "1.1.50",
+   "why": "चजोः कु घिण्ण्यतोः — Kāśikā example (nearness by quality).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11050",
+     "quote": "<<चजोः कु घिण्ण्यतोः>> [[७.३.५२]] इति चकारस्याल्पप्राणस्याघोषस्य तादृश एव ककारो भवति, जकारस्य घोषवतोऽल्पप्राणस्य तादृश एव गकारः।"
+    }
+   ]
+  },
+  {
+   "n": "8.4.62",
+   "pid": "1.1.50",
+   "why": "झयो होऽन्यतरस्याम् — Kāśikā example for तमप्.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11050",
+     "quote": "<<झयो होऽन्यतरस्याम्>> [[८.४.६२]] इति हकारस्य पूर्वसवर्णे क्रियमाणे सोष्मणः सोष्माणः।"
+    }
+   ]
+  },
+  {
+   "n": "6.3.34",
+   "pid": "1.1.50",
+   "why": "puṃvat — Kāśikā example (nearness by meaning).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11050",
+     "quote": "पुंवद्भावेनान्तरतमः पुंशब्दोऽतिदिश्यते।"
+    }
+   ]
+  },
+  {
+   "n": "6.1.88",
+   "pid": "1.1.50",
+   "why": "वृद्धिरेचि — vṛddhi ekādeśa (a+e → ऐ), same as 6.1.87 which is credited.",
+   "quotes": []
+  }
+ ],
+ "missed_note": "Common: about 180 sūtras whose vṛtti has a class substitute (dīrgha 66, mūrdhanya 49, hrasva 24, ku/cu/ṭu 21, guṇa/vṛddhi ekādeśa 10, savarṇa 7) carry no 1.1.50 credit. Recompute: in tools/recs.js, sūtras whose genC matches दीर्घः/ह्रस्वः/गुणः/वृद्धिः/सवर्ण/मूर्धन्य/कवर्ग and lack a ✔ 1.1.50. The clearest, named by the Kāśikā on 1.1.50 itself:"
+}

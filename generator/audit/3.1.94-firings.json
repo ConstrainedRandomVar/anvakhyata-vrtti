@@ -1,0 +1,967 @@
+{
+ "pid": "3.1.94",
+ "howGrouped": "case of the triggering word (own sūtra words only) | rule kind | start of the engine trigger text; member = \"<sūtra> <word>  ⟨engine effect⟩\"",
+ "applies": 418,
+ "consideredNotApplicable": 25,
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | vidhi | X (3.1.96; all dhātus)",
+   "count": 174,
+   "sutras": [
+    "3.1.97 यत् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨यत् (य) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.1.98 यत् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨यत् (य) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.1.99 यत् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨यत् (य) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.1.100 यत् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨यत् (य) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.1.106 क्यप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्यप् (य) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay avai⟩",
+    "3.1.107 क्यप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्यप् (य) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay avai⟩",
+    "3.1.108 क्यप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्यप् (य) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay avai⟩",
+    "3.1.109 क्यप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्यप् (य) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay avai⟩",
+    "3.1.110 क्यप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्यप् (य) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay avai⟩",
+    "3.1.111 क्यप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्यप् (य) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay avai⟩",
+    "3.1.112 क्यप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्यप् (य) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay avai⟩",
+    "3.1.113 क्यप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्यप् (य) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay avai⟩",
+    "3.1.118 क्यप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्यप् (य) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay avai⟩",
+    "3.1.120 क्यप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्यप् (य) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay avai⟩",
+    "3.1.124 ण्यत् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨ण्यत् (य) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay avai⟩",
+    "3.1.125 ण्यत् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨ण्यत् (य) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay avai⟩",
+    "3.1.126 ण्यत् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨ण्यत् (य) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay avai⟩",
+    "3.1.135 क is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availabl⟩",
+    "3.1.137 श is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨श (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availabl⟩",
+    "3.1.139 श is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨श (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availabl⟩",
+    "3.1.141 ण is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨ण (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availabl⟩",
+    "3.1.142 ण is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨ण (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availabl⟩",
+    "3.1.143 ण is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨ण (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availabl⟩",
+    "3.1.146 थकन् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨थकन् (थक) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay avai⟩",
+    "3.2.2 अण् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨अण् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.2.4 क is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availabl⟩",
+    "3.2.6 क is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availabl⟩",
+    "3.2.7 क is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availabl⟩",
+    "3.2.8 टक् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨टक् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.2.9 अच् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨अच् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.2.12 अच् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨अच् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.2.13 अच् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨अच् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.2.15 अच् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨अच् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.2.16 ट is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨ट (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availabl⟩",
+    "3.2.20 ट is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨ट (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availabl⟩",
+    "3.2.25 इन् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨इन् (इ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.2.27 इन् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨इन् (इ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.2.28 खश् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨खश् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.2.29 खश् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨खश् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.2.31 खश् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨खश् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.2.32 खश् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨खश् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.2.33 खश् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨खश् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.2.35 खश् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨खश् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.2.36 खश् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨खश् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.2.38 खच् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨खच् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.2.40 खच् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨खच् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.2.41 खच् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨खच् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.2.42 खच् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨खच् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.2.43 खच् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨खच् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.2.45 खच् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨खच् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.2.46 खच् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨खच् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.2.47 खच् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨खच् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.2.49 ड is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨ड (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availabl⟩",
+    "3.2.57 खिष्णुच् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨खिष्णुच् (इष्णु) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they st⟩",
+    "3.2.57 खुकञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨खुकञ् (उक) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay ava⟩",
+    "3.2.58 क्विन् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्विन् (०) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay ava⟩",
+    "3.2.59 क्विन् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्विन् (०) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay ava⟩",
+    "3.2.60 कञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨कञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.2.61 क्विप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्विप् (०) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay ava⟩",
+    "3.2.62 ण्वि is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨ण्वि (०) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay avail⟩",
+    "3.2.63 ण्वि is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨ण्वि (०) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay avail⟩",
+    "3.2.64 ण्वि is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨ण्वि (०) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay avail⟩",
+    "3.2.67 विट् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨विट् (०) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay avail⟩",
+    "3.2.68 विट् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨विट् (०) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay avail⟩",
+    "3.2.70 कप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨कप् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.2.70 घ is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घ (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availabl⟩",
+    "3.2.72 ण्विन् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨ण्विन् (०) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay ava⟩",
+    "3.2.77 क्विप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्विप् (०) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay ava⟩",
+    "3.2.82 णिनि is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨णिनि (इन्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay ava⟩",
+    "3.2.85 णिनि is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨णिनि (इन्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay ava⟩",
+    "3.2.86 णिनि is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨णिनि (इन्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay ava⟩",
+    "3.2.89 क्विप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्विप् (०) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay ava⟩",
+    "3.2.91 क्विप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्विप् (०) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay ava⟩",
+    "3.2.94 क्वनिप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्वनिप् (वन्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay ⟩",
+    "3.2.95 क्वनिप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्वनिप् (वन्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay ⟩",
+    "3.2.97 ड is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨ड (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availabl⟩",
+    "3.2.103 ङ्वनिप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨ङ्वनिप् (वन्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay ⟩",
+    "3.2.104 अतृन् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨अतृन् (अत्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay av⟩",
+    "3.2.108 क्वसु is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्वसु (वस्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay av⟩",
+    "3.2.128 शानन् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨शानन् (आन) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay ava⟩",
+    "3.2.136 इष्णुच् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨इष्णुच् (इष्णु) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they sta⟩",
+    "3.2.138 इष्णुच् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨इष्णुच् (इष्णु) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they sta⟩",
+    "3.2.139 क्स्नु is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्स्नु (undefined) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they ⟩",
+    "3.2.140 क्नु is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्नु (नु) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay avai⟩",
+    "3.2.142 घिनुण् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घिनुण् (इन्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay a⟩",
+    "3.2.143 घिनुण् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घिनुण् (इन्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay a⟩",
+    "3.2.144 घिनुण् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घिनुण् (इन्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay a⟩",
+    "3.2.145 घिनुण् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घिनुण् (इन्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay a⟩",
+    "3.2.150 युच् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨युच् (अन) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay avai⟩",
+    "3.2.151 युच् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨युच् (अन) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay avai⟩",
+    "3.2.153 युच् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨युच् (अन) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay avai⟩",
+    "3.2.154 उकञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨उकञ् (उक) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay avai⟩",
+    "3.2.155 षाकन् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨षाकन् (आक) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay ava⟩",
+    "3.2.157 इनि is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨इनि (इन्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay avai⟩",
+    "3.2.158 आलुच् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨आलुच् (आलु) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay av⟩",
+    "3.2.159 रु is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨रु (रु) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.2.160 क्मरच् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्मरच् (मर) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay av⟩",
+    "3.2.161 घुरच् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घुरच् (उर) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay ava⟩",
+    "3.2.162 कुरच् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨कुरच् (उर) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay ava⟩",
+    "3.2.163 क्वरप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्वरप् (वर) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay av⟩",
+    "3.2.167 र is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨र (र) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availabl⟩",
+    "3.2.168 उ is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨उ (उ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availabl⟩",
+    "3.2.171 कि is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨कि (इ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availab⟩",
+    "3.2.171 किन् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨किन् (इ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay avail⟩",
+    "3.2.171 लिट् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨लिट् (undefined) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they st⟩",
+    "3.2.172 नजिङ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨नजिङ् (नज्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay av⟩",
+    "3.2.173 आरु is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨आरु (आरु) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay avai⟩",
+    "3.2.174 क्रु is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्रु (रु) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay avai⟩",
+    "3.2.174 क्लुकन् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्लुकन् (लुक) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay ⟩",
+    "3.2.175 वरच् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨वरच् (वर) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay avai⟩",
+    "3.2.177 क्विप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्विप् (०) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay ava⟩",
+    "3.2.179 क्विप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्विप् (०) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay ava⟩",
+    "3.2.182 ष्ट्रन् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨ष्ट्रन् (त्र) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay ⟩",
+    "3.2.183 ष्ट्रन् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨ष्ट्रन् (त्र) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay ⟩",
+    "3.2.184 इत्र is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨इत्र (इत्र) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay av⟩",
+    "3.2.185 इत्र is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨इत्र (इत्र) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay av⟩",
+    "3.3.16 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.21 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.23 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.24 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.25 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.27 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.28 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.31 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.35 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.37 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.39 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.40 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.45 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.49 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.50 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.51 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.54 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.55 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.58 अप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨अप् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.59 अप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨अप् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.61 अप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨अप् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.62 अप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨अप् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.63 अप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨अप् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.64 अप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨अप् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.65 अप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨अप् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.66 अप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨अप् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.67 अप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨अप् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.69 अप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨अप् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.90 नङ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨नङ् (न) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.91 नन् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨नन् (न) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.120 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.121 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.125 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.127 खल् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨खल् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.4.16 तोसुन् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨तोसुन् (तोस्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay ⟩",
+    "3.4.17 कसुन् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨कसुन् (अस्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay av⟩",
+    "3.4.19 क्त्वा is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्त्वा (त्वा) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay ⟩",
+    "3.4.25 खमुञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨खमुञ् (अम्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay av⟩",
+    "3.4.29 णमुल् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨णमुल् (अम्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay av⟩",
+    "3.4.30 णमुल् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨णमुल् (अम्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay av⟩",
+    "3.4.31 णमुल् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨णमुल् (अम्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay av⟩",
+    "3.4.34 णमुल् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨णमुल् (अम्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay av⟩",
+    "3.4.35 णमुल् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨णमुल् (अम्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay av⟩",
+    "3.4.36 णमुल् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨णमुल् (अम्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay av⟩",
+    "3.4.37 णमुल् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨णमुल् (अम्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay av⟩",
+    "3.4.38 णमुल् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨णमुल् (अम्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay av⟩",
+    "3.4.39 णमुल् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨णमुल् (अम्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay av⟩",
+    "3.4.40 णमुल् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨णमुल् (अम्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay av⟩",
+    "3.4.41 णमुल् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨णमुल् (अम्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay av⟩",
+    "3.4.43 णमुल् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨णमुल् (अम्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay av⟩",
+    "3.4.44 णमुल् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨णमुल् (अम्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay av⟩",
+    "3.4.56 णमुल् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨णमुल् (अम्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay av⟩",
+    "3.4.57 णमुल् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨णमुल् (अम्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay av⟩",
+    "3.4.58 णमुल् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨णमुल् (अम्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay av⟩",
+    "3.4.59 क्त्वा is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्त्वा (त्वा) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay ⟩",
+    "3.4.59 णमुल् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨णमुल् (अम्) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay av⟩",
+    "3.4.63 क्त्वा-णमुलौ is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्त्वा-णमुलौ (undefined) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) →⟩",
+    "3.4.72 क्त is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨क्त (त) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.97",
+     "word": "यत् is an apavāda of तव्यत्, तव्य, अनीयर्",
+     "trigger": "यत् is an apavāda of तव्यत्, तव्य, अनीयर् (3.1.96; all dhātus)",
+     "effect": "यत् (य) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay available as options",
+     "sutra": "अचो यत्",
+     "ourVrtti": "अजन्तात् धातोः यत् प्रत्ययः परः च भवति",
+     "kashika": "अजन्ताद् धातोर्यत् प्रत्ययो भवति।",
+     "prathamavrtti": "अजन्ताद्धातोर्यत् प्रत्ययः परश्च भवति ॥"
+    },
+    {
+     "n": "3.2.61",
+     "word": "क्विप् is an apavāda of तव्यत्, तव्य, अनीयर्",
+     "trigger": "क्विप् is an apavāda of तव्यत्, तव्य, अनीयर् (3.1.96; all dhātus)",
+     "effect": "क्विप् (०) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay available as options",
+     "sutra": "सत्सूद्विषद्रुहदुहयुजविदभिदच्छिदजिनीराजामुपसर्गेऽपि क्विप्",
+     "ourVrtti": "उपसर्गेऽपि सुबन्ते उपपदे सद् सू द्विष द्रुह दुह युज विद भिद छिद जि णीञ् राजू इत्येतेभ्यः धातुभ्यः अनुपसर्गेऽपि क्विप् प्रत्ययः परः च भवति",
+     "kashika": "सदादिभ्यो धातुभ्यः सुबन्त उपपद उपसर्गेऽप्यनुपसर्गेऽपि क्विप् प्रत्ययो भवति।",
+     "prathamavrtti": "सद्, सू, द्विष, द्रुह, दुह, युज, विद, भिद, छिद, जि, णीञ्, राजू इत्येतेभ्यः सोपसर्गेभ्यो निरुपसर्गेभ्योऽपि धातुभ्यः सुबन्त उपपदे क्विप् प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "3.3.16",
+     "word": "घञ् is an apavāda of तव्यत्, तव्य, अनीयर्",
+     "trigger": "घञ् is an apavāda of तव्यत्, तव्य, अनीयर् (3.1.96; all dhātus)",
+     "effect": "घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay available as options",
+     "sutra": "पदरुजविशस्पृशो घञ्",
+     "ourVrtti": "धातुभ्यः पद, रुज, विश, स्पृश इत्येतेभ्यः घञ् प्रत्ययः परः च भवति",
+     "kashika": "पदादिभ्यो धातुभ्यो घञ् प्रत्ययो भवति।",
+     "prathamavrtti": "पद, रुज, विश, स्पृश इत्येतेभ्यो धातुभ्यो घञ् प्रत्ययो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "group": "carried / not a sūtra word | vidhi | X (3.1.124; …: ends in a consonant)",
+   "count": 97,
+   "sutras": [
+    "3.1.137 श is an apavāda of ण्यत्  ⟨श (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.1.141 ण is an apavāda of ण्यत्  ⟨ण (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.1.143 ण is an apavāda of ण्यत्  ⟨ण (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.12 अच् is an apavāda of ण्यत्  ⟨अच् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.13 अच् is an apavāda of ण्यत्  ⟨अच् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.16 ट is an apavāda of ण्यत्  ⟨ट (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.27 इन् is an apavāda of ण्यत्  ⟨इन् (इ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.28 खश् is an apavāda of ण्यत्  ⟨खश् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.31 खश् is an apavāda of ण्यत्  ⟨खश् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.32 खश् is an apavāda of ण्यत्  ⟨खश् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.33 खश् is an apavāda of ण्यत्  ⟨खश् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.35 खश् is an apavāda of ण्यत्  ⟨खश् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.36 खश् is an apavāda of ण्यत्  ⟨खश् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.38 खच् is an apavāda of ण्यत्  ⟨खच् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.41 खच् is an apavāda of ण्यत्  ⟨खच् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.42 खच् is an apavāda of ण्यत्  ⟨खच् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.47 खच् is an apavāda of ण्यत्  ⟨खच् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.49 ड is an apavāda of ण्यत्  ⟨ड (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.58 क्विन् is an apavāda of ण्यत्  ⟨क्विन् (०) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.59 क्विन् is an apavāda of ण्यत्  ⟨क्विन् (०) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.60 कञ् is an apavāda of ण्यत्  ⟨कञ् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.61 क्विप् is an apavāda of ण्यत्  ⟨क्विप् (०) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.62 ण्वि is an apavāda of ण्यत्  ⟨ण्वि (०) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.63 ण्वि is an apavāda of ण्यत्  ⟨ण्वि (०) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.64 ण्वि is an apavāda of ण्यत्  ⟨ण्वि (०) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.67 विट् is an apavāda of ण्यत्  ⟨विट् (०) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.68 विट् is an apavāda of ण्यत्  ⟨विट् (०) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.70 कप् is an apavāda of ण्यत्  ⟨कप् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.70 घ is an apavāda of ण्यत्  ⟨घ (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.72 ण्विन् is an apavāda of ण्यत्  ⟨ण्विन् (०) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.82 णिनि is an apavāda of ण्यत्  ⟨णिनि (इन्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.85 णिनि is an apavāda of ण्यत्  ⟨णिनि (इन्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.86 णिनि is an apavāda of ण्यत्  ⟨णिनि (इन्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.94 क्वनिप् is an apavāda of ण्यत्  ⟨क्वनिप् (वन्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.95 क्वनिप् is an apavāda of ण्यत्  ⟨क्वनिप् (वन्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.97 ड is an apavāda of ण्यत्  ⟨ड (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.108 क्वसु is an apavāda of ण्यत्  ⟨क्वसु (वस्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.136 इष्णुच् is an apavāda of ण्यत्  ⟨इष्णुच् (इष्णु) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.140 क्नु is an apavāda of ण्यत्  ⟨क्नु (नु) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.142 घिनुण् is an apavāda of ण्यत्  ⟨घिनुण् (इन्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.143 घिनुण् is an apavāda of ण्यत्  ⟨घिनुण् (इन्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.144 घिनुण् is an apavāda of ण्यत्  ⟨घिनुण् (इन्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.145 घिनुण् is an apavāda of ण्यत्  ⟨घिनुण् (इन्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.151 युच् is an apavāda of ण्यत्  ⟨युच् (अन) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.153 युच् is an apavāda of ण्यत्  ⟨युच् (अन) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.154 उकञ् is an apavāda of ण्यत्  ⟨उकञ् (उक) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.155 षाकन् is an apavāda of ण्यत्  ⟨षाकन् (आक) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.158 आलुच् is an apavāda of ण्यत्  ⟨आलुच् (आलु) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.159 रु is an apavāda of ण्यत्  ⟨रु (रु) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.161 घुरच् is an apavāda of ण्यत्  ⟨घुरच् (उर) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.162 कुरच् is an apavāda of ण्यत्  ⟨कुरच् (उर) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.163 क्वरप् is an apavāda of ण्यत्  ⟨क्वरप् (वर) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.167 र is an apavāda of ण्यत्  ⟨र (र) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.168 उ is an apavāda of ण्यत्  ⟨उ (उ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.171 कि is an apavāda of ण्यत्  ⟨कि (इ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.171 किन् is an apavāda of ण्यत्  ⟨किन् (इ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.171 लिट् is an apavāda of ण्यत्  ⟨लिट् (undefined) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.172 नजिङ् is an apavāda of ण्यत्  ⟨नजिङ् (नज्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.175 वरच् is an apavāda of ण्यत्  ⟨वरच् (वर) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.177 क्विप् is an apavāda of ण्यत्  ⟨क्विप् (०) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.182 ष्ट्रन् is an apavāda of ण्यत्  ⟨ष्ट्रन् (त्र) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.183 ष्ट्रन् is an apavāda of ण्यत्  ⟨ष्ट्रन् (त्र) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.184 इत्र is an apavāda of ण्यत्  ⟨इत्र (इत्र) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.185 इत्र is an apavāda of ण्यत्  ⟨इत्र (इत्र) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.3.16 घञ् is an apavāda of ण्यत्  ⟨घञ् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.3.35 घञ् is an apavāda of ण्यत्  ⟨घञ् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.3.45 घञ् is an apavāda of ण्यत्  ⟨घञ् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.3.51 घञ् is an apavāda of ण्यत्  ⟨घञ् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.3.58 अप् is an apavāda of ण्यत्  ⟨अप् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.3.59 अप् is an apavāda of ण्यत्  ⟨अप् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.3.61 अप् is an apavāda of ण्यत्  ⟨अप् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.3.62 अप् is an apavāda of ण्यत्  ⟨अप् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.3.64 अप् is an apavāda of ण्यत्  ⟨अप् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.3.65 अप् is an apavāda of ण्यत्  ⟨अप् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.3.66 अप् is an apavāda of ण्यत्  ⟨अप् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.3.67 अप् is an apavāda of ण्यत्  ⟨अप् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.3.69 अप् is an apavāda of ण्यत्  ⟨अप् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.3.90 नङ् is an apavāda of ण्यत्  ⟨नङ् (न) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.3.91 नन् is an apavāda of ण्यत्  ⟨नन् (न) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.3.125 घञ् is an apavāda of ण्यत्  ⟨घञ् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.4.17 कसुन् is an apavāda of ण्यत्  ⟨कसुन् (अस्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.4.30 णमुल् is an apavāda of ण्यत्  ⟨णमुल् (अम्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.4.31 णमुल् is an apavāda of ण्यत्  ⟨णमुल् (अम्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.4.34 णमुल् is an apavāda of ण्यत्  ⟨णमुल् (अम्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.4.35 णमुल् is an apavāda of ण्यत्  ⟨णमुल् (अम्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.4.36 णमुल् is an apavāda of ण्यत्  ⟨णमुल् (अम्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.4.37 णमुल् is an apavāda of ण्यत्  ⟨णमुल् (अम्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.4.38 णमुल् is an apavāda of ण्यत्  ⟨णमुल् (अम्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.4.39 णमुल् is an apavāda of ण्यत्  ⟨णमुल् (अम्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.4.40 णमुल् is an apavāda of ण्यत्  ⟨णमुल् (अम्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.4.41 णमुल् is an apavāda of ण्यत्  ⟨णमुल् (अम्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.4.43 णमुल् is an apavāda of ण्यत्  ⟨णमुल् (अम्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.4.44 णमुल् is an apavāda of ण्यत्  ⟨णमुल् (अम्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.4.56 णमुल् is an apavāda of ण्यत्  ⟨णमुल् (अम्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.4.57 णमुल् is an apavāda of ण्यत्  ⟨णमुल् (अम्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.4.58 णमुल् is an apavāda of ण्यत्  ⟨णमुल् (अम्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.4.72 क्त is an apavāda of ण्यत्  ⟨क्त (त) ≠ ण्यत् (य) → they stay available as options⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.137",
+     "word": "श is an apavāda of ण्यत्",
+     "trigger": "श is an apavāda of ण्यत् (3.1.124; दृश्: ends in a consonant)",
+     "effect": "श (अ) ≠ ण्यत् (य) → they stay available as options",
+     "sutra": "पाघ्राध्माधेट्दृशः शः",
+     "ourVrtti": "पा घ्रा ध्मा धेट् दृश् इत्येतेभ्यः धातुभ्यः शः प्रत्ययः परः च भवति",
+     "kashika": "पादिभ्यो धातुभ्य उपसर्ग उपपदे शप्रत्ययो भवति।",
+     "prathamavrtti": "पा, घ्रा, ध्मा, धेट्, दृश् इत्येतेभ्यो धातुभ्यः शः प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "3.2.86",
+     "word": "णिनि is an apavāda of ण्यत्",
+     "trigger": "णिनि is an apavāda of ण्यत् (3.1.124; हन्: ends in a consonant)",
+     "effect": "णिनि (इन्) ≠ ण्यत् (य) → they stay available as options",
+     "sutra": "कर्मणि हनः",
+     "ourVrtti": "कर्मणि उपपदे हन्तेः धातोः भूते काले णिनिः प्रत्ययः परः च भवति",
+     "kashika": "कर्मण्युपपदे हन्तेर्धातोर्णिनिः प्रत्ययो भवति भूते काले।",
+     "prathamavrtti": "कर्मणि कारक उपपदे हन्धातोरिणनि प्रत्ययो भवति भूते काले ॥"
+    },
+    {
+     "n": "3.3.16",
+     "word": "घञ् is an apavāda of ण्यत्",
+     "trigger": "घञ् is an apavāda of ण्यत् (3.1.124; रुज्: ends in a consonant)",
+     "effect": "घञ् (अ) ≠ ण्यत् (य) → they stay available as options",
+     "sutra": "पदरुजविशस्पृशो घञ्",
+     "ourVrtti": "धातुभ्यः पद, रुज, विश, स्पृश इत्येतेभ्यः घञ् प्रत्ययः परः च भवति",
+     "kashika": "पदादिभ्यो धातुभ्यो घञ् प्रत्ययो भवति।",
+     "prathamavrtti": "पद, रुज, विश, स्पृश इत्येतेभ्यो धातुभ्यो घञ् प्रत्ययो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G3",
+   "group": "named by a commentator | vidhi | X",
+   "count": 53,
+   "sutras": [
+    "3.1.97 named by महाभाष्यम्  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.1.98 named by बालमनोरमा  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.1.135 named by सिद्धान्तकौमुदी  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.1.138 named by सिद्धान्तकौमुदी  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.2.11 named by न्यासः  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.2.45 named by न्यासः  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.2.48 named by न्यासः  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.2.53 named by तत्त्वबोधिनी  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.2.68 named by महाभाष्यम्  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.2.69 named by पदमञ्जरी  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.2.77 named by पदमञ्जरी  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.2.78 named by न्यासः  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.2.83 named by पदमञ्जरी  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.2.104 named by काशिका  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.2.108 named by बालमनोरमा  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.2.128 named by न्यासः  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.2.141 named by पदमञ्जरी  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.2.146 named by काशिका  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.2.150 named by काशिका  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.2.153 named by काशिका  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.2.154 named by पदमञ्जरी  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.2.165 named by न्यासः  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.2.177 named by काशिका  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.2.178 named by महाभाष्यम्  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.3.10 named by काशिका  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.3.11 named by काशिका  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.3.12 named by काशिका  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.3.13 named by पदमञ्जरी  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.3.20 named by तत्त्वबोधिनी  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.3.43 named by न्यासः  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.3.44 named by काशिका  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.3.55 named by तत्त्वबोधिनी  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.3.89 named by न्यासः  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.3.90 named by न्यासः  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.3.94 named by पदमञ्जरी  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.3.95 named by पदमञ्जरी  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.3.107 named by काशिका  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.3.108 named by पदमञ्जरी  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.3.159 named by न्यासः  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.3.163 named by काशिका  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.3.167 named by काशिका  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.3.169 named by काशिका  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.3.172 named by पदमञ्जरी  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.4.18 named by काशिका  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.4.21 named by पदमञ्जरी  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.4.22 named by तत्त्वबोधिनी  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.4.24 named by काशिका  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.4.26 named by काशिका  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.4.28 named by पदमञ्जरी  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.4.42 named by पदमञ्जरी  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.4.47 named by काशिका  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.4.59 named by काशिका  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "4.2.52 named by पदमञ्जरी  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.97",
+     "word": "named by महाभाष्यम्",
+     "trigger": "named by महाभाष्यम्",
+     "effect": "a dissimilar apavāda blocks the utsarga only optionally (not in the strī section)",
+     "sutra": "अचो यत्",
+     "ourVrtti": "अजन्तात् धातोः यत् प्रत्ययः परः च भवति",
+     "kashika": "अजन्ताद् धातोर्यत् प्रत्ययो भवति।",
+     "prathamavrtti": "अजन्ताद्धातोर्यत् प्रत्ययः परश्च भवति ॥"
+    },
+    {
+     "n": "3.2.146",
+     "word": "named by काशिका",
+     "trigger": "named by काशिका",
+     "effect": "a dissimilar apavāda blocks the utsarga only optionally (not in the strī section)",
+     "sutra": "निन्दहिंसक्लिशखादविनाशपरिक्षिपपरिरटपरिवादिव्याभाषासूञो वुञ्",
+     "ourVrtti": "निन्दादिभ्यो धातुभ्यः तच्छीलादिषु कर्तृषु वर्तमाने काले वुञ् प्रत्ययः परः च भवति",
+     "kashika": "निन्दादिभ्यो धातुभ्यस्तच्छीलादिषु कर्तृषु वुञ् प्रत्ययो भवति।",
+     "prathamavrtti": "णिदि कुत्सायाम् (भ्वा० प०), हिसि हिंसायाम् (रुधा० प०), क्लिशू विबाधने (क्र्या० प०), खादृ भक्षणे (भ्वा० प०), वि+णश अदर्शने ण्यन्त (दिवा० प०), परि+क्षिप, परि+रट, परि+वादि, वि+आ+भाष व्यक्तायां वाचि, असूय (कण्ड्वा०) इत्येतेभ्यो धातुभ्यस्तच्छीलादिषु कर्तृ"
+    },
+    {
+     "n": "3.3.94",
+     "word": "named by पदमञ्जरी",
+     "trigger": "named by पदमञ्जरी",
+     "effect": "a dissimilar apavāda blocks the utsarga only optionally (not in the strī section)",
+     "sutra": "स्त्रियां क्तिन्",
+     "ourVrtti": "संज्ञायाम् धातोः स्त्रीलिङ्गे भावे कर्तृभिन्ने कारके क्तिन् प्रत्ययः परः च भवति",
+     "kashika": "स्त्रीलिङ्गे भावादौ धातोः क्तिन् प्रत्ययो भवति।",
+     "prathamavrtti": "—धातोः स्त्रीलिङ्गे कर्तृभिन्ने कारके संज्ञायां भावे च क्तिन् प्रत्ययो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G4",
+   "group": "carried / not a sūtra word | vidhi | X (3.1.97; …: ends in a vowel)",
+   "count": 52,
+   "sutras": [
+    "3.1.135 क is an apavāda of यत्  ⟨क (अ) ≠ यत् (य) → they stay available as options⟩",
+    "3.1.137 श is an apavāda of यत्  ⟨श (अ) ≠ यत् (य) → they stay available as options⟩",
+    "3.1.139 श is an apavāda of यत्  ⟨श (अ) ≠ यत् (य) → they stay available as options⟩",
+    "3.1.141 ण is an apavāda of यत्  ⟨ण (अ) ≠ यत् (य) → they stay available as options⟩",
+    "3.1.146 थकन् is an apavāda of यत्  ⟨थकन् (थक) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.4 क is an apavāda of यत्  ⟨क (अ) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.7 क is an apavāda of यत्  ⟨क (अ) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.15 अच् is an apavāda of यत्  ⟨अच् (अ) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.29 खश् is an apavāda of यत्  ⟨खश् (अ) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.40 खच् is an apavāda of यत्  ⟨खच् (अ) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.41 खच् is an apavāda of यत्  ⟨खच् (अ) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.45 खच् is an apavāda of यत्  ⟨खच् (अ) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.57 खिष्णुच् is an apavāda of यत्  ⟨खिष्णुच् (इष्णु) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.57 खुकञ् is an apavāda of यत्  ⟨खुकञ् (उक) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.61 क्विप् is an apavāda of यत्  ⟨क्विप् (०) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.77 क्विप् is an apavāda of यत्  ⟨क्विप् (०) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.91 क्विप् is an apavāda of यत्  ⟨क्विप् (०) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.108 क्वसु is an apavāda of यत्  ⟨क्वसु (वस्) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.138 इष्णुच् is an apavāda of यत्  ⟨इष्णुच् (इष्णु) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.139 क्स्नु is an apavāda of यत्  ⟨क्स्नु (undefined) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.145 घिनुण् is an apavāda of यत्  ⟨घिनुण् (इन्) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.150 युच् is an apavāda of यत्  ⟨युच् (अन) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.154 उकञ् is an apavāda of यत्  ⟨उकञ् (उक) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.157 इनि is an apavāda of यत्  ⟨इनि (इन्) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.159 रु is an apavāda of यत्  ⟨रु (रु) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.163 क्वरप् is an apavāda of यत्  ⟨क्वरप् (वर) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.167 र is an apavāda of यत्  ⟨र (र) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.174 क्रु is an apavāda of यत्  ⟨क्रु (रु) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.174 क्लुकन् is an apavāda of यत्  ⟨क्लुकन् (लुक) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.175 वरच् is an apavāda of यत्  ⟨वरच् (वर) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.177 क्विप् is an apavāda of यत्  ⟨क्विप् (०) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.179 क्विप् is an apavāda of यत्  ⟨क्विप् (०) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.182 ष्ट्रन् is an apavāda of यत्  ⟨ष्ट्रन् (त्र) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.184 इत्र is an apavāda of यत्  ⟨इत्र (इत्र) ≠ यत् (य) → they stay available as options⟩",
+    "3.3.21 घञ् is an apavāda of यत्  ⟨घञ् (अ) ≠ यत् (य) → they stay available as options⟩",
+    "3.3.23 घञ् is an apavāda of यत्  ⟨घञ् (अ) ≠ यत् (य) → they stay available as options⟩",
+    "3.3.24 घञ् is an apavāda of यत्  ⟨घञ् (अ) ≠ यत् (य) → they stay available as options⟩",
+    "3.3.25 घञ् is an apavāda of यत्  ⟨घञ् (अ) ≠ यत् (य) → they stay available as options⟩",
+    "3.3.27 घञ् is an apavāda of यत्  ⟨घञ् (अ) ≠ यत् (य) → they stay available as options⟩",
+    "3.3.28 घञ् is an apavāda of यत्  ⟨घञ् (अ) ≠ यत् (य) → they stay available as options⟩",
+    "3.3.31 घञ् is an apavāda of यत्  ⟨घञ् (अ) ≠ यत् (य) → they stay available as options⟩",
+    "3.3.37 घञ् is an apavāda of यत्  ⟨घञ् (अ) ≠ यत् (य) → they stay available as options⟩",
+    "3.3.39 घञ् is an apavāda of यत्  ⟨घञ् (अ) ≠ यत् (य) → they stay available as options⟩",
+    "3.3.40 घञ् is an apavāda of यत्  ⟨घञ् (अ) ≠ यत् (य) → they stay available as options⟩",
+    "3.3.49 घञ् is an apavāda of यत्  ⟨घञ् (अ) ≠ यत् (य) → they stay available as options⟩",
+    "3.3.55 घञ् is an apavāda of यत्  ⟨घञ् (अ) ≠ यत् (य) → they stay available as options⟩",
+    "3.3.63 अप् is an apavāda of यत्  ⟨अप् (अ) ≠ यत् (य) → they stay available as options⟩",
+    "3.3.127 खल् is an apavāda of यत्  ⟨खल् (अ) ≠ यत् (य) → they stay available as options⟩",
+    "3.4.16 तोसुन् is an apavāda of यत्  ⟨तोसुन् (तोस्) ≠ यत् (य) → they stay available as options⟩",
+    "3.4.19 क्त्वा is an apavāda of यत्  ⟨क्त्वा (त्वा) ≠ यत् (य) → they stay available as options⟩",
+    "3.4.63 क्त्वा-णमुलौ is an apavāda of यत्  ⟨क्त्वा-णमुलौ (undefined) ≠ यत् (य) → they stay available as options⟩",
+    "3.4.72 क्त is an apavāda of यत्  ⟨क्त (त) ≠ यत् (य) → they stay available as options⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.135",
+     "word": "क is an apavāda of यत्",
+     "trigger": "क is an apavāda of यत् (3.1.97; ज्ञा: ends in a vowel)",
+     "effect": "क (अ) ≠ यत् (य) → they stay available as options",
+     "sutra": "इगुपधज्ञाप्रीकिरः कः",
+     "ourVrtti": "इगुपधेभ्यः ज्ञा-प्री-किर् धातुभ्यः कः प्रत्ययः परः च भवति",
+     "kashika": "इगुपधेभ्यो जानातेः प्रीणातेः किरतेश्च कप्रत्ययो भवति।",
+     "prathamavrtti": "—इगुपधेभ्यो, ज्ञा, प्रीञ्, कृ(तुदादि) इत्येतेभ्यो धातुभ्यः कः प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "3.2.108",
+     "word": "क्वसु is an apavāda of यत्",
+     "trigger": "क्वसु is an apavāda of यत् (3.1.97; श्रु: ends in a vowel)",
+     "effect": "क्वसु (वस्) ≠ यत् (य) → they stay available as options",
+     "sutra": "भाषायां सदवसश्रुवः",
+     "ourVrtti": "भाषायाम् विषये सद-वस-श्रु-इत्येतेभ्यः धातुभ्यः लिटः स्थाने भूते काले विकल्पेन क्वसुरादेशः भवति",
+     "kashika": "सद वस श्रु इत्येतेभ्यः परस्य लिटो भाषायां विषये वा क्वसुरादेशो भवति।",
+     "prathamavrtti": "भाषायां=लौकिके प्रयोगे सद वस श्रु इत्येतेभ्यो धातुभ्यः परो विकल्पेन लिट् प्रत्ययो भवति, लिटश्च स्थाने नित्यं क्वसुरादेशो भवति भूते काले ॥"
+    },
+    {
+     "n": "3.3.21",
+     "word": "घञ् is an apavāda of यत्",
+     "trigger": "घञ् is an apavāda of यत् (3.1.97; इ: ends in a vowel)",
+     "effect": "घञ् (अ) ≠ यत् (य) → they stay available as options",
+     "sutra": "इङश्च",
+     "ourVrtti": "संज्ञायां विषये इङ्-धातोः कर्तृभिन्ने कारके भावे घञ् प्रत्ययः परः च भवति",
+     "kashika": "इङो धातोर्घञ् प्रत्ययो भवति।",
+     "prathamavrtti": "इङ्धातोः कर्तृभिन्ने कारके संज्ञायां विषये भावे च घञ् प्रत्ययो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G5",
+   "group": "carried / not a sūtra word | vidhi | X (3.1.124; …: ends in …)",
+   "count": 18,
+   "sutras": [
+    "3.2.9 अच् is an apavāda of ण्यत्  ⟨अच् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.20 ट is an apavāda of ण्यत्  ⟨ट (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.25 इन् is an apavāda of ण्यत्  ⟨इन् (इ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.43 खच् is an apavāda of ण्यत्  ⟨खच् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.46 खच् is an apavāda of ण्यत्  ⟨खच् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.89 क्विप् is an apavāda of ण्यत्  ⟨क्विप् (०) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.104 अतृन् is an apavāda of ण्यत्  ⟨अतृन् (अत्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.150 युच् is an apavāda of ण्यत्  ⟨युच् (अन) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.157 इनि is an apavāda of ण्यत्  ⟨इनि (इन्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.160 क्मरच् is an apavāda of ण्यत्  ⟨क्मरच् (मर) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.173 आरु is an apavāda of ण्यत्  ⟨आरु (आरु) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.3.54 घञ् is an apavāda of ण्यत्  ⟨घञ् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.3.120 घञ् is an apavāda of ण्यत्  ⟨घञ् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.3.127 खल् is an apavāda of ण्यत्  ⟨खल् (अ) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.4.16 तोसुन् is an apavāda of ण्यत्  ⟨तोसुन् (तोस्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.4.25 खमुञ् is an apavāda of ण्यत्  ⟨खमुञ् (अम्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.4.59 क्त्वा is an apavāda of ण्यत्  ⟨क्त्वा (त्वा) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.4.59 णमुल् is an apavāda of ण्यत्  ⟨णमुल् (अम्) ≠ ण्यत् (य) → they stay available as options⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.2.9",
+     "word": "अच् is an apavāda of ण्यत्",
+     "trigger": "अच् is an apavāda of ण्यत् (3.1.124; हृ: ends in ऋ)",
+     "effect": "अच् (अ) ≠ ण्यत् (य) → they stay available as options",
+     "sutra": "हरतेरनुद्यमनेऽच्",
+     "ourVrtti": "कर्मणि उपपदे धातोः हरतेः अनुद्यमने अर्थे अच् प्रत्ययः परः च भवति",
+     "kashika": "हरतेर्धातोरनुद्यमने वर्तमानात् कर्मण्युपपदेऽच् प्रत्ययो भवति।",
+     "prathamavrtti": "हरतेर्धातोः अनुद्यमनेऽर्थे वर्त्तमानात् कर्मण्युपपदेऽच् प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "3.2.104",
+     "word": "अतृन् is an apavāda of ण्यत्",
+     "trigger": "अतृन् is an apavāda of ण्यत् (3.1.124; जॄ: ends in ऋ)",
+     "effect": "अतृन् (अत्) ≠ ण्यत् (य) → they stay available as options",
+     "sutra": "जीर्यतेरतृन्",
+     "ourVrtti": "जीर्यतेः धातोः भूते काले अतृन् प्रत्ययः परः च भवति",
+     "kashika": "जीर्यतेरतृन् प्रत्ययो भवति भूते।",
+     "prathamavrtti": "‘जॄष् वयोहानौ’ इत्यस्माद् धातोः भूते काले अतृन् प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "3.3.120",
+     "word": "घञ् is an apavāda of ण्यत्",
+     "trigger": "घञ् is an apavāda of ण्यत् (3.1.124; तॄ: ends in ऋ)",
+     "effect": "घञ् (अ) ≠ ण्यत् (य) → they stay available as options",
+     "sutra": "अवे तॄस्त्रोर्घञ्",
+     "ourVrtti": "संज्ञायाम् अव उपपदे तृ स्तॄ धातुभ्याम् करणे अधिकरणे च प्रायेण घञ् प्रत्ययः परः च भवति",
+     "kashika": "अव उपपदे तरतेः स्तृणातेश्च धातोः करणाधिकरणयोः संज्ञायां घञ् प्रत्ययो भवति।",
+     "prathamavrtti": "अव उपपदे तृ स्तॄ इत्येताभ्यां धातुभ्यां करणेऽधिकरणे च कारके संज्ञायां प्रायेण घञ् प्रत्ययो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G6",
+   "group": "carried / not a sūtra word | vidhi | X (3.1.97; …,…: ends in a vowel)",
+   "count": 4,
+   "sutras": [
+    "3.1.142 ण is an apavāda of यत्  ⟨ण (अ) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.6 क is an apavāda of यत्  ⟨क (अ) ≠ यत् (य) → they stay available as options⟩",
+    "3.2.8 टक् is an apavāda of यत्  ⟨टक् (अ) ≠ यत् (य) → they stay available as options⟩",
+    "3.3.50 घञ् is an apavāda of यत्  ⟨घञ् (अ) ≠ यत् (य) → they stay available as options⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.142",
+     "word": "ण is an apavāda of यत्",
+     "trigger": "ण is an apavāda of यत् (3.1.97; दु,नी: ends in a vowel)",
+     "effect": "ण (अ) ≠ यत् (य) → they stay available as options",
+     "sutra": "दुन्योरनुपसर्गे",
+     "ourVrtti": "उपसर्गरहिते दु-नी-धात्वोः णः प्रत्ययः परः च भवति",
+     "kashika": "दुनोतेर्नयतेश्चानुपसर्गे णप्रत्ययो भवति।",
+     "prathamavrtti": "द्रुटु उपतापे, णीञ् प्रापणे इत्येताभ्यामुपसर्गरहिताभ्या धातुभ्यां णः प्रत्ययो भवति॥"
+    },
+    {
+     "n": "3.2.6",
+     "word": "क is an apavāda of यत्",
+     "trigger": "क is an apavāda of यत् (3.1.97; दै,ज्ञा: ends in a vowel)",
+     "effect": "क (अ) ≠ यत् (य) → they stay available as options",
+     "sutra": "प्रे दाज्ञः",
+     "ourVrtti": "प्रपूर्वाभ्याम् कर्मणि उपपदे दा-ज्ञा-धातुभ्याम् कः प्रत्ययः परः च भवति",
+     "kashika": "ददातेर्जानातेश्च धातोः प्रेणोपसृष्टात् कर्मण्युपपदे कप्रत्ययो भवति।",
+     "prathamavrtti": "प्रपूर्वाभ्यां ददाति जानाति इत्येताभ्यां धातुभ्यां कर्मण्युपपदे कः प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "3.2.8",
+     "word": "टक् is an apavāda of यत्",
+     "trigger": "टक् is an apavāda of यत् (3.1.97; गै,पै: ends in a vowel)",
+     "effect": "टक् (अ) ≠ यत् (य) → they stay available as options",
+     "sutra": "गापोष्टक्",
+     "ourVrtti": "कर्मणि उपपदे अनुपसर्गे गा-पा-धातुभ्याम् टक् प्रत्ययः परः च भवति",
+     "kashika": "गायतेः पिबतेश्च धातोः कर्मण्युपपदेऽनुपसर्गे टक् प्रत्ययो भवति।",
+     "prathamavrtti": "कर्मण्युपपदे गा पा इत्येताभ्यां धातुभ्यां टक् प्रत्ययो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G7",
+   "group": "named by a commentator | ādeśa | X",
+   "count": 4,
+   "sutras": [
+    "3.2.106 named by पदमञ्जरी  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.2.107 named by बालमनोरमा  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "6.3.110 named by बालमनोरमा  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "7.3.6 named by तत्त्वबोधिनी  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.2.106",
+     "word": "named by पदमञ्जरी",
+     "trigger": "named by पदमञ्जरी",
+     "effect": "a dissimilar apavāda blocks the utsarga only optionally (not in the strī section)",
+     "sutra": "लिटः कानज्वा",
+     "ourVrtti": "छन्दसि विषये लिटः स्थाने विकल्पेन कानच् आदेशः भवति",
+     "kashika": "छन्दसि लिटः कानजादेशो भवति वा।",
+     "prathamavrtti": "छन्दसि विषये लिटः स्थाने कानन् आदेशो वा भवति ॥"
+    },
+    {
+     "n": "3.2.107",
+     "word": "named by बालमनोरमा",
+     "trigger": "named by बालमनोरमा",
+     "effect": "a dissimilar apavāda blocks the utsarga only optionally (not in the strī section)",
+     "sutra": "क्वसुश्च",
+     "ourVrtti": "छन्दसि विषये लिटः स्थाने विकल्पेन क्वसुः आदेशः भवति",
+     "kashika": "छन्दसि लिटः क्वसुरादेशो भवति।",
+     "prathamavrtti": "छन्दसि विषये लिटः स्थाने क्वसुरादेशो वा भवति ॥"
+    },
+    {
+     "n": "6.3.110",
+     "word": "named by बालमनोरमा",
+     "trigger": "named by बालमनोरमा",
+     "effect": "a dissimilar apavāda blocks the utsarga only optionally (not in the strī section)",
+     "sutra": "संख्याविसायपूर्वस्याह्नस्याहन्नन्यतरस्यां ङौ",
+     "ourVrtti": "ङौ परे संख्या वि साय इत्येवंपूर्वस्य अह्नशब्दस्य स्थाने विकल्पेन अहन् आदेशः भवति",
+     "kashika": "संख्या वि साय इत्येवंपूर्वस्याह्नशब्दस्य स्थानेऽहनित्ययमादेशो भवत्यन्यतरस्यां ङौ परतः।",
+     "prathamavrtti": "संख्या, वि, साय इत्येवंपूर्वस्य अह्न शब्दस्य स्थाने अहन् इत्ययमादेशो भवति विकल्पेन, डौ परतः॥"
+    }
+   ]
+  },
+  {
+   "id": "G8",
+   "group": "named by a commentator | nipātana | X",
+   "count": 3,
+   "sutras": [
+    "3.1.132 named by सिद्धान्तकौमुदी  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.3.3 named by न्यासः  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "3.4.68 named by बालमनोरमा  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.132",
+     "word": "named by सिद्धान्तकौमुदी",
+     "trigger": "named by सिद्धान्तकौमुदी",
+     "effect": "a dissimilar apavāda blocks the utsarga only optionally (not in the strī section)",
+     "sutra": "चित्याग्निचित्ये च",
+     "ourVrtti": "चित्यशब्दः (चिञ्-धातोः कर्मणि क्यप्) अग्निचित्याशब्दश्च (अग्नि-पूर्वात् चिञ्-धातोः भावे यकारप्रत्ययः, गुणाभावः, तुक्-आगमः च) निपात्येते अग्नौ अभिधेये",
+     "kashika": "चित्यशब्दोऽग्निचित्याशब्दश्च निपात्येते।",
+     "prathamavrtti": "चित्यशब्दः अग्निचित्याशब्दश्च निपात्येते अग्नावभिधेये। ‹चित्यः› इति चिञ् धातोः कर्मणि क्यप् प्रत्ययो निपात्यते। ‹अग्निचित्या› इति अग्निपूर्वात् चिञ्धातोः भावे यकारप्रत्ययः गुणाभावः तुगागमश्च निपात्यते।"
+    },
+    {
+     "n": "3.3.3",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a dissimilar apavāda blocks the utsarga only optionally (not in the strī section)",
+     "sutra": "भविष्यति गम्यादयः",
+     "ourVrtti": "गम्यादयः शब्दाः निपात्यन्ते उणादिषु भविष्यति काले",
+     "kashika": "भविष्यति काले गम्यादयः शब्दाः साधवो भवन्ति।",
+     "prathamavrtti": "उणादिषु ये गम्यादयः शब्दास्ते भविष्यति काले साधवो भवन्ति। अर्थाद् गम्यादयः शब्दा भविष्यति काले भवन्ति॥"
+    },
+    {
+     "n": "3.4.68",
+     "word": "named by बालमनोरमा",
+     "trigger": "named by बालमनोरमा",
+     "effect": "a dissimilar apavāda blocks the utsarga only optionally (not in the strī section)",
+     "sutra": "भव्यगेयप्रवचनीयोपस्थानीयजन्याप्लाव्यापात्या वा",
+     "ourVrtti": "भव्य गेय प्रवचनीय उपस्थानीय जन्य आप्लाव्य आपात्याः कृत्यप्रत्ययान्ताः शब्दाः निपात्यन्ते कर्तरि कारके विकल्पेन",
+     "kashika": "भव्यादयः शब्दाः कर्तरि वा निपात्यन्ते।",
+     "prathamavrtti": "भव्यादयः शब्दाः कृत्यप्रत्ययान्ताः कर्त्तरि वा निपात्यन्ते ॥"
+    }
+   ]
+  },
+  {
+   "id": "G9",
+   "group": "named by a commentator | adhikāra | X",
+   "count": 2,
+   "sutras": [
+    "3.1.91 named by न्यासः  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩",
+    "4.1.1 named by पदमञ्जरी  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.91",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a dissimilar apavāda blocks the utsarga only optionally (not in the strī section)",
+     "sutra": "धातोः",
+     "ourVrtti": "धातोः इति अधिकारः",
+     "kashika": "धातोरित्ययमधिकारो वेदितव्यः।",
+     "prathamavrtti": "आ तृतीयाध्यायपरिसमाप्तेः (३।४।११७), धातोरित्ययमधिकारो वेदितव्यः॥"
+    },
+    {
+     "n": "4.1.1",
+     "word": "named by पदमञ्जरी",
+     "trigger": "named by पदमञ्जरी",
+     "effect": "a dissimilar apavāda blocks the utsarga only optionally (not in the strī section)",
+     "sutra": "ङ्याप्प्रातिपदिकात्",
+     "ourVrtti": "ङ्यन्तात् आबन्तात् प्रातिपदिकात् च इत्यधिक्रियते इति अधिकारः",
+     "kashika": "यदित ऊर्ध्वमनुक्रमिष्याम आ पञ्चमाध्यायपरिसमाप्तेर्ङ्याप्प्रातिपदिकादित्येवं तद् वेदितव्यम्।",
+     "prathamavrtti": "अधिक shellारोऽयम्, आपञ्चमाध्यायपरिसमाप्तेः, इतोऽग्रे ङ्यन्तात्, आबन्तात्, प्रातिपदिकाच्च वक्ष्यमाणाः प्रत्ययाः भवन्ति॥"
+    }
+   ]
+  },
+  {
+   "id": "G10",
+   "group": "carried / not a sūtra word | vidhi | X (3.1.124; …,…: ends in a consonant)",
+   "count": 2,
+   "sutras": [
+    "3.2.103 ङ्वनिप् is an apavāda of ण्यत्  ⟨ङ्वनिप् (वन्) ≠ ण्यत् (य) → they stay available as options⟩",
+    "3.2.128 शानन् is an apavāda of ण्यत्  ⟨शानन् (आन) ≠ ण्यत् (य) → they stay available as options⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.2.103",
+     "word": "ङ्वनिप् is an apavāda of ण्यत्",
+     "trigger": "ङ्वनिप् is an apavāda of ण्यत् (3.1.124; सु,यज्: ends in a consonant)",
+     "effect": "ङ्वनिप् (वन्) ≠ ण्यत् (य) → they stay available as options",
+     "sutra": "सुयजोर्ङ्वनिप्",
+     "ourVrtti": "सुनोतेः यजतेश्च धात्वोः भूते काले ङ्वनिप् प्रत्ययः परः च भवति",
+     "kashika": "सुनोतेर्यजतेश्च ङ्वनिप् प्रत्ययो भवति।",
+     "prathamavrtti": "षुञ् यज् इत्येताभ्यां धातुभ्यां ङ्वनिप् प्रत्ययो भवति भूते काले ॥"
+    },
+    {
+     "n": "3.2.128",
+     "word": "शानन् is an apavāda of ण्यत्",
+     "trigger": "शानन् is an apavāda of ण्यत् (3.1.124; पू,यज्: ends in a consonant)",
+     "effect": "शानन् (आन) ≠ ण्यत् (य) → they stay available as options",
+     "sutra": "पूङ्यजोः शानन्",
+     "ourVrtti": "पूङ्-यज्-धातुभ्याम् वर्तमाने काले शानन् प्रत्ययः परः च भवति",
+     "kashika": "पूङो यजेश्च धातोः शानन् प्रत्ययो भवति।",
+     "prathamavrtti": "पूङ् यज इत्येताभ्यां धातुभ्यां वर्त्तमाने काले शानन् प्रत्ययो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G11",
+   "group": "named by a commentator | saṃjñā | X",
+   "count": 1,
+   "sutras": [
+    "1.2.31 named by पदमञ्जरी  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.2.31",
+     "word": "named by पदमञ्जरी",
+     "trigger": "named by पदमञ्जरी",
+     "effect": "a dissimilar apavāda blocks the utsarga only optionally (not in the strī section)",
+     "sutra": "समाहारः स्वरितः",
+     "ourVrtti": "उदात्तानुदात्तयोः समाहारः यस्मिन् अच् 'स्वरितः' इति संज्ञा भवति",
+     "kashika": "उदात्तानुदात्तस्वर​समाहारो योऽच् स स्वरितसंज्ञो भवति।",
+     "prathamavrtti": "उदात्तानुदात्तगुणयोः समाहारो यस्मिन्नचि सोऽच् स्वरितसंज्ञको भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G12",
+   "group": "named by a commentator | ekaśeṣa | X",
+   "count": 1,
+   "sutras": [
+    "1.2.67 named by तत्त्वबोधिनी  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.2.67",
+     "word": "named by तत्त्वबोधिनी",
+     "trigger": "named by तत्त्वबोधिनी",
+     "effect": "a dissimilar apavāda blocks the utsarga only optionally (not in the strī section)",
+     "sutra": "पुमान् स्त्रिया",
+     "ourVrtti": "स्त्रिया सहवचने विशेषे सति तल्लक्षणः पुमान् शिष्यते आदेशः भवति",
+     "kashika": "स्त्रिया सहवचने पुमान् शिष्यते स्त्री निवर्तते, स्त्रीपुंसलक्षणश्चेदेव विशेषो भवति।",
+     "prathamavrtti": "पुमान् स्त्रिया सह शिष्यते स्त्री निवर्त्तते तल्लक्षण एव चेत् विशेषो भवेत्, लिङ्गभेद एव चेत् स्यादन्यत् प्रकृत्यादिकं सर्वं समानं भवेदित्यर्थः॥"
+    }
+   ]
+  },
+  {
+   "id": "G13",
+   "group": "named by a commentator | vibhakti | X",
+   "count": 1,
+   "sutras": [
+    "2.3.31 named by पदमञ्जरी  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.3.31",
+     "word": "named by पदमञ्जरी",
+     "trigger": "named by पदमञ्जरी",
+     "effect": "a dissimilar apavāda blocks the utsarga only optionally (not in the strī section)",
+     "sutra": "एनपा द्वितीया",
+     "ourVrtti": "एनप्-प्रत्ययान्तेन योगे द्वितीया विभक्तिः प्रत्ययः भवति",
+     "kashika": "तेन युक्ते द्वितीया विभक्तिर्भवति।",
+     "prathamavrtti": "एनप्प्रत्ययान्तेन योगे द्वितीया विभक्तिर्भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G14",
+   "group": "carried / not a sūtra word | vidhi | X (3.1.97; …,…,…: ends in a vowel)",
+   "count": 1,
+   "sutras": [
+    "3.2.2 अण् is an apavāda of यत्  ⟨अण् (अ) ≠ यत् (य) → they stay available as options⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.2.2",
+     "word": "अण् is an apavāda of यत्",
+     "trigger": "अण् is an apavāda of यत् (3.1.97; ह्वे,वै,मे: ends in a vowel)",
+     "effect": "अण् (अ) ≠ यत् (य) → they stay available as options",
+     "sutra": "ह्वावामश्च",
+     "ourVrtti": "कर्मणि उपपदे ह्वे-वे-मा-धातुभ्यः अण् प्रत्ययः परः च भवति",
+     "kashika": "<<ह्वेञ् स्पर्धायां शब्दे च>>,<<वेञ् तन्तुसन्ताने>>,<<माङ् माने>> इत्येतेभ्यश्च कर्मण्युपपदेऽण् प्रत्ययो भवति।",
+     "prathamavrtti": "ह्वेञ् स्पर्धायां शब्दे च, वेञ् तन्तुसन्ताने, माङ् माने इत्येतेभ्यश्च धातुभ्यः कर्मण्युपपदे अण् प्रत्ययो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G15",
+   "group": "named by a commentator | operation | X",
+   "count": 1,
+   "sutras": [
+    "3.3.75 named by न्यासः  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.3.75",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a dissimilar apavāda blocks the utsarga only optionally (not in the strī section)",
+     "sutra": "भावेऽनुपसर्गस्य",
+     "ourVrtti": "उपसर्गरहितस्य ह्वेञ् धातोः भावे वाच्ये अप् प्रत्ययः परः च भवति, सम्प्रसारणम् आदेशः च भवति",
+     "kashika": "अनुपसर्गस्य ह्वयतेः संप्रसारणमप् प्रत्ययश्च भवति भावेऽभिधेये।",
+     "prathamavrtti": "उपसर्गरहितस्य ह्वेञ्धातोः सम्प्रसारणम् अप् प्रत्ययश्च भवति भावे वाच्ये ॥"
+    }
+   ]
+  },
+  {
+   "id": "G16",
+   "group": "carried / not a sūtra word | vidhi | X (3.1.124; …/…-…: ends in a consonant)",
+   "count": 1,
+   "sutras": [
+    "3.3.121 घञ् is an apavāda of ण्यत्  ⟨घञ् (अ) ≠ ण्यत् (य) → they stay available as options⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.3.121",
+     "word": "घञ् is an apavāda of ण्यत्",
+     "trigger": "घञ् is an apavāda of ण्यत् (3.1.124; ऋ/हल्-अन्त: ends in a consonant)",
+     "effect": "घञ् (अ) ≠ ण्यत् (य) → they stay available as options",
+     "sutra": "हलश्च",
+     "ourVrtti": "संज्ञायां विषये हलन्तात् पुंसि धातोः करणाधिकरणयोः प्रायेण घञ् प्रत्ययः परः च भवति",
+     "kashika": "हलन्ताद् धातोः करणाधिकरणयोर्घञ् प्रत्ययो भवति।",
+     "prathamavrtti": "हलन्ताद् धातोः पुंसि करणाधिकरणयोः कारक्ययोः संज्ञायां विषये प्रायेण घञ् प्रत्ययो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G17",
+   "group": "carried / not a sūtra word | vidhi | X (3.1.124; …,…,…: ends in a consonant)",
+   "count": 1,
+   "sutras": [
+    "3.4.29 णमुल् is an apavāda of ण्यत्  ⟨णमुल् (अम्) ≠ ण्यत् (य) → they stay available as options⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.4.29",
+     "word": "णमुल् is an apavāda of ण्यत्",
+     "trigger": "णमुल् is an apavāda of ण्यत् (3.1.124; दृ,शि,विद्: ends in a consonant)",
+     "effect": "णमुल् (अम्) ≠ ण्यत् (य) → they stay available as options",
+     "sutra": "कर्मणि दृशिविदोः साकल्ये",
+     "ourVrtti": "कर्मणि उपपदे दृशि, विद् इत्येताभ्यां धातुभ्याम् साकल्ये अर्थे णमुल् प्रत्ययः परः च भवति",
+     "kashika": "कर्मण्युपपदे साकल्यविशिष्टेऽर्थे दृशिविदोर्धात्वोर्णमुल् प्रत्ययो भवति।",
+     "prathamavrtti": "साकल्ये=सम्पूर्णताविशिष्टे कर्मण्युपपदे दृशि विद् इत्येताभ्यां धातुभ्यां णमुल् प्रत्ययो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G18",
+   "group": "named by a commentator | vidhi | X (English)",
+   "count": 1,
+   "sutras": [
+    "3.4.56 named by Vasu  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.4.56",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "a dissimilar apavāda blocks the utsarga only optionally (not in the strī section)",
+     "sutra": "विशिपतिपदिस्कन्दां व्याप्यमानासेव्यमानयोः",
+     "ourVrtti": "द्वितीयान्ते उपपदे धातुभ्यः विशि-पति-पदि-स्कन्दिभ्यः व्याप्यमाने आसेव्यमाने च गम्यमाने णमुल् प्रत्ययः परः च भवति",
+     "kashika": "द्वितीयान्त उपपदे विश्यादिभ्यो धातुभ्यो णमुल् प्रत्ययो भवति व्याप्यमान आसेव्यमाने चार्थे गम्यमाने।",
+     "prathamavrtti": "द्वितीयान्त उपपदे विशि पति पदि स्कन्दिर् इत्येतेभ्यो धातुभ्यो व्याप्यमाने आसेव्यमाने च गम्यमाने णमुल् प्रत्ययो भवति ।।"
+    }
+   ]
+  },
+  {
+   "id": "G19",
+   "group": "named by a commentator | āgama | X",
+   "count": 1,
+   "sutras": [
+    "8.3.58 named by बालमनोरमा  ⟨a dissimilar apavāda blocks the utsarga only optionally (not in the st⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.3.58",
+     "word": "named by बालमनोरमा",
+     "trigger": "named by बालमनोरमा",
+     "effect": "a dissimilar apavāda blocks the utsarga only optionally (not in the strī section)",
+     "sutra": "नुम्विसर्जनीयशर्व्यवायेऽपि",
+     "ourVrtti": "नुम्व्यवाये विसर्जनीयव्यवाये शर्व्यवाये च सति इण्कोः उत्तरस्य सकारस्य स्थाने अपि मूर्धन्यादेशः भवति",
+     "kashika": "नुम्व्यवायेऽपि विसर्जनीयव्यवायेऽपि शर्व्यवायेऽपि इण्कोरुत्तरस्य सकारस्य मूर्धन्यादेशो भवति।",
+     "prathamavrtti": "नुम्व्यवायेऽपि विसर्जनीयव्यवायेऽपि शर्व्यवायेऽपि इणकोरूत्तरस्य सकारस्य मूर्धन्यादेशो भवति॥"
+    }
+   ]
+  }
+ ]
+}

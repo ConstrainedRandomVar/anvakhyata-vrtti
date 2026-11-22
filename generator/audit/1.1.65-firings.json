@@ -1,0 +1,215 @@
+{
+ "pid": "1.1.65",
+ "howGrouped": "case of the triggering word (own sūtra words only) | rule kind | start of the engine trigger text; member = \"<sūtra> <word>  ⟨engine effect⟩\"",
+ "applies": 43,
+ "consideredNotApplicable": 0,
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | operation | X",
+   "count": 32,
+   "sutras": [
+    "6.4.8 उपधायाः  ⟨the sound before the last⟩",
+    "6.4.9 उपधायाः  ⟨the sound before the last⟩",
+    "6.4.10 उपधायाः  ⟨the sound before the last⟩",
+    "6.4.11 उपधायाः  ⟨the sound before the last⟩",
+    "6.4.12 उपधायाः  ⟨the sound before the last⟩",
+    "6.4.13 उपधायाः  ⟨the sound before the last⟩",
+    "6.4.14 उपधायाः  ⟨the sound before the last⟩",
+    "6.4.15 उपधायाः  ⟨the sound before the last⟩",
+    "6.4.16 उपधायाः  ⟨the sound before the last⟩",
+    "6.4.17 उपधायाः  ⟨the sound before the last⟩",
+    "6.4.18 उपधायाः  ⟨the sound before the last⟩",
+    "6.4.25 उपधायाः  ⟨the sound before the last⟩",
+    "6.4.26 उपधायाः  ⟨the sound before the last⟩",
+    "6.4.27 उपधायाः  ⟨the sound before the last⟩",
+    "6.4.30 उपधायाः  ⟨the sound before the last⟩",
+    "6.4.31 उपधायाः  ⟨the sound before the last⟩",
+    "6.4.32 उपधायाः  ⟨the sound before the last⟩",
+    "6.4.33 उपधायाः  ⟨the sound before the last⟩",
+    "6.4.92 उपधायाः  ⟨the sound before the last⟩",
+    "6.4.93 उपधायाः  ⟨the sound before the last⟩",
+    "6.4.94 उपधायाः  ⟨the sound before the last⟩",
+    "6.4.95 उपधायाः  ⟨the sound before the last⟩",
+    "6.4.96 उपधायाः  ⟨the sound before the last⟩",
+    "6.4.97 उपधायाः  ⟨the sound before the last⟩",
+    "6.4.98 उपधायाः  ⟨the sound before the last⟩",
+    "6.4.99 उपधायाः  ⟨the sound before the last⟩",
+    "6.4.100 उपधायाः  ⟨the sound before the last⟩",
+    "6.4.150 उपधायाः  ⟨the sound before the last⟩",
+    "7.4.2 उपधायाः  ⟨the sound before the last⟩",
+    "7.4.3 उपधायाः  ⟨the sound before the last⟩",
+    "8.2.77 उपधायाः  ⟨the sound before the last⟩",
+    "8.2.78 उपधायाः  ⟨the sound before the last⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.8",
+     "word": "उपधायाः",
+     "trigger": "उपधायाः",
+     "effect": "the sound before the last",
+     "sutra": "सर्वनामस्थाने चासम्बुद्धौ",
+     "ourVrtti": "सम्बुद्धिभिन्ने सर्वनामस्थाने परे नान्तस्य अङ्गस्य उपधायाः स्थाने दीर्घः आदेशः भवति",
+     "kashika": "सर्वनामस्थाने च परतोऽसंबुद्धौ नोपधाया दीर्घो भवति।",
+     "prathamavrtti": "सम्बुद्धिभिन्ने सर्वनामस्थाने च परतो नान्तस्याङ्गस्योपधायाः दीर्घो भवति॥"
+    },
+    {
+     "n": "6.4.18",
+     "word": "उपधायाः",
+     "trigger": "उपधायाः",
+     "effect": "the sound before the last",
+     "sutra": "क्रमश्च क्त्वि",
+     "ourVrtti": "क्त्वाप्रत्यये परे क्रमेः झलादौ अङ्गस्य उपधायाः स्थाने विभाषा दीर्घः आदेशः भवति",
+     "kashika": "क्रम उपधाया विभाषा दीर्घो भवति क्त्वाप्रत्यये झलादौ परतः।",
+     "prathamavrtti": "क्रमेरङ्गस्य उपधाया विभाषा दीर्घो भवति झलादौ क्त्वा प्रत्यये परतः ॥"
+    },
+    {
+     "n": "6.4.94",
+     "word": "उपधायाः",
+     "trigger": "उपधायाः",
+     "effect": "the sound before the last",
+     "sutra": "खचि ह्रस्वः",
+     "ourVrtti": "खच्परे णौ परे अङ्गस्य उपधायाः स्थाने ह्रस्वः आदेशः भवति",
+     "kashika": "खच्परे णौ परतो ह्रस्वो भवत्यङ्गस्योपधायाः।",
+     "prathamavrtti": "अङ्गस्योपधायाः खच्परे णौ परतो ह्रस्वो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "group": "own word, data case 6 | operation | X",
+   "count": 6,
+   "sutras": [
+    "6.4.7 उपधायाः  ⟨the sound before the last⟩",
+    "6.4.24 उपधायाः  ⟨the sound before the last⟩",
+    "6.4.149 उपधायाः  ⟨the sound before the last⟩",
+    "7.2.116 उपधायाः  ⟨the sound before the last⟩",
+    "7.4.1 उपधायाः  ⟨the sound before the last⟩",
+    "8.2.76 उपधायाः  ⟨the sound before the last⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.7",
+     "word": "उपधायाः",
+     "trigger": "उपधायाः",
+     "effect": "the sound before the last",
+     "sutra": "नोपधायाः",
+     "ourVrtti": "नामि परे नान्तस्य उपधायाः स्थाने अङ्गस्य दीर्घः आदेशः भवति",
+     "kashika": "नान्तस्याङ्गस्योपधाया नामि परतो दीर्घो भवति।",
+     "prathamavrtti": "नान्तस्याङ्गस्योपधायाः नामि परतो दीर्घो भवति ॥"
+    },
+    {
+     "n": "6.4.149",
+     "word": "उपधायाः",
+     "trigger": "उपधायाः",
+     "effect": "the sound before the last",
+     "sutra": "सूर्यतिष्यागस्त्यमत्स्यानां य उपधायाः",
+     "ourVrtti": "ईकारे परे तद्धिते परे सूर्य-तिष्य-अगस्त्य-मत्स्य इत्येतेषाम् उपधायाः भस्य यकारस्य स्थाने अङ्गस्य लोपः भवति",
+     "kashika": "सूर्य तिष्य अगस्त्य मत्स्य इत्येतेषां यकारस्य उपधाया भस्य लोपो भवतीति परतस्तद्धिते च।",
+     "prathamavrtti": "अङ्गस्य भसंज्ञकस्योपधायाकारस्य लोपो भवति ईति परतस्तद्धिते च स चेद्यकारः सूर्य, तिष्य, अगस्त्य मत्स्य इत्येतेषां सम्बन्धी भवति॥"
+    },
+    {
+     "n": "7.4.1",
+     "word": "उपधायाः",
+     "trigger": "उपधायाः",
+     "effect": "the sound before the last",
+     "sutra": "णौ चङ्युपधाया ह्रस्वः",
+     "ourVrtti": "चङ्परे णौ उपधायाः स्थाने अङ्गस्य ह्रस्वः आदेशः भवति",
+     "kashika": "चङ्परे णौ यदङ्गम्, तस्य उपधाया ह्रस्वो भवति।",
+     "prathamavrtti": "चङ्परे णौ यदङ्गं तस्योपधायाः ह्रस्वो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G3",
+   "group": "own word, data case 5 | vidhi | X: … named",
+   "count": 2,
+   "sutras": [
+    "3.1.98 अदुपधात्  ⟨the sound before the last⟩",
+    "3.1.110 ऋदुपधात्  ⟨the sound before the last⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.98",
+     "word": "अदुपधात्",
+     "trigger": "अदुपधात्: उपधा named",
+     "effect": "the sound before the last",
+     "sutra": "पोरदुपधात्",
+     "ourVrtti": "पवर्गान्तात् अदुपधात् धातोः यत् प्रत्ययः परः च भवति",
+     "kashika": "पवर्गान्ताद् धातोरकारोपधाद् यत् प्रत्ययो भवति।",
+     "prathamavrtti": "अदुपधात् पवर्गान्ताद्धातोर्यत् प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "3.1.110",
+     "word": "ऋदुपधात्",
+     "trigger": "ऋदुपधात्: उपधा named",
+     "effect": "the sound before the last",
+     "sutra": "ऋदुपधाच्चाकॢपिचृतेः",
+     "ourVrtti": "ऋकारोपधात् कॢपिचृती वर्जयित्वा धातोः क्यप् प्रत्ययः परः च भवति",
+     "kashika": "ऋकारोपधाच्च धातोः क्यप् प्रत्ययो भवति क्ऌपिचृती वर्जयित्वा।",
+     "prathamavrtti": "ऋकारोपधाद्धातोः क्यप् प्रत्ययो भवति, कॢपिचृती वर्जयित्वा॥"
+    }
+   ]
+  },
+  {
+   "id": "G4",
+   "group": "named by a commentator | niṣedha | X",
+   "count": 1,
+   "sutras": [
+    "1.1.5 named by न्यासः  ⟨उपधा = the sound before the last⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.1.5",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "उपधा = the sound before the last",
+     "sutra": "क्ङिति च",
+     "ourVrtti": "क्ङिति परे इकः स्थाने गुणवृद्धी आदेशः न भवति",
+     "kashika": "क्ङिन्निमित्ते ये गुणवृद्धी प्राप्नुतः ते न भवतः (म० भा०)।",
+     "prathamavrtti": "गित्-कित्-ङित्-निमित्तके इकः स्थाने ये गुणवृद्धी प्राप्नुतस्ते न भवतः ।"
+    }
+   ]
+  },
+  {
+   "id": "G5",
+   "group": "own word, data case 6 | operation | X: … named",
+   "count": 1,
+   "sutras": [
+    "7.3.86 पुगन्तलघूपधस्य  ⟨the sound before the last⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.3.86",
+     "word": "पुगन्तलघूपधस्य",
+     "trigger": "पुगन्तलघूपधस्य: उपधा named",
+     "effect": "the sound before the last",
+     "sutra": "पुगन्तलघूपधस्य च",
+     "ourVrtti": "सार्वधातुके आर्धधातुके च परे पुगन्तस्य लघूपधस्य च अङ्गस्य इकः स्थाने गुणः आदेशः भवति",
+     "kashika": "पुगन्तस्याङ्गस्य लघूपधस्य च सार्वधातुकार्धधातुकयोर्गुणो भवति।",
+     "prathamavrtti": "पुगन्तस्याङ्गस्य लघूपधस्य च इकः सार्वधातुके आर्धधातुके च परतो गुणो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G6",
+   "group": "named by a commentator | adhikāra | X",
+   "count": 1,
+   "sutras": [
+    "8.2.1 named by न्यासः  ⟨उपधा = the sound before the last⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.2.1",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "उपधा = the sound before the last",
+     "sutra": "पूर्वत्रासिद्धम्",
+     "ourVrtti": "पूर्वस्मिन् कर्तव्ये असिद्धवत् इति अधिकारः",
+     "kashika": "इत उत्तरं चोत्तर उत्तरो योगः पूर्वत्रपूर्वत्रासिद्धो भवति, असिद्धवद् भवति।",
+     "prathamavrtti": "अधिकारोऽयम्, आ अध्यायपरिसमाप्तेः । तत्र येयं सपादसप्ताध्याय्यनुक्रान्ता एतस्यामयं पादोनोऽध्यायोऽसिद्धो भवतीति वेदितव्यम्, सिद्धकार्यं न करोतीत्यर्थः । इत उत्तरं चोत्तरोत्तरो योगः पूर्वत्र पूर्वत्रासिद्धो भवति ॥"
+    }
+   ]
+  }
+ ]
+}

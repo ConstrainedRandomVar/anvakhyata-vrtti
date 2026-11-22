@@ -1,0 +1,1340 @@
+{
+ "pid": "PIS 123",
+ "generated": "2026-11-20",
+ "totals_by_firing": {
+  "licensed": 24,
+  "not licensed": 61,
+  "unsure": 10
+ },
+ "totals_by_group": {
+  "mixed": 8,
+  "not licensed": 2,
+  "licensed": 1,
+  "unsure": 1
+ },
+ "not_licensed_by_should_be": {
+  "none": 61
+ },
+ "conditions": [
+  {
+   "text": "C1. Content: when a commentator splits one sūtra into two (योगविभाग), the split may be used only to get desired forms, never to produce wrong ones. Bīja: a rule that Pāṇini stated as a separate second yoga with the same operation is indicated to be anitya.",
+   "quotes": [
+    {
+     "file": "paribhashendushekhar",
+     "id": "123",
+     "quote": "इष्टसिद्धिरेव न त्वनिष्टापादनं कार्यमित्यर्थः"
+    },
+    {
+     "file": "paribhashendushekhar",
+     "id": "123",
+     "quote": "तत्तत्समानविधिकद्वितीययोगेन विभक्तस्यानित्यत्वज्ञापनमेतद्बीजम्"
+    }
+   ]
+  },
+  {
+   "text": "C2. What the paribhāṣā covers: a split made by the commentators (कर्तव्यः / क्रियते / करिष्यते / योगं विभज्य) of the sūtra being read, to get a form or meaning the undivided sūtra does not give. Nyāsa states the maxim in these words at 2.3.25.",
+   "quotes": [
+    {
+     "file": "nyaas",
+     "id": "23025",
+     "quote": "यत्रेष्यते तत्रय योगविभागादिष्टसिद्धिरिति स्त्रियामपि भवत्येव"
+    },
+    {
+     "file": "kashika",
+     "id": "63084",
+     "quote": "समानस्येति योगविभाग इष्टप्रसिद्ध्यर्थः  क्रियते"
+    },
+    {
+     "file": "kashika",
+     "id": "44078",
+     "quote": "ख इति योगविभागः कर्तव्य इष्टसंग्रहार्थः"
+    }
+   ]
+  },
+  {
+   "text": "C3. Not covered: a remark explaining why Pāṇini himself wrote two sūtras instead of one — so that only part runs on by anuvṛtti (“उत्तरार्थः”), so that yathāsaṅkhya (1.3.10) does not apply, or for illustration. Nothing is split and no extra form results; the sūtra is read as it stands. (This is also what the engine's wording “the sūtra is stated separately for a purpose” describes, so the wording itself misreads the paribhāṣā.)",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "31009",
+     "quote": "योगविभाग उत्तरत्र क्यचोऽनुवृत्त्यर्थः"
+    },
+    {
+     "file": "kashika",
+     "id": "43082",
+     "quote": "योगविभागो यथासंख्यनिरासार्थः"
+    },
+    {
+     "file": "kashika",
+     "id": "12057",
+     "quote": "किमर्थो योगविभागः? प्रदर्शनार्थः"
+    }
+   ]
+  },
+  {
+   "text": "C4. Derivation only: where the Kāśikā splits ANOTHER sūtra to account for an example compound or an extra form (“तृतीयेति योगविभागात् समासः”), PIS 123 explains how the example is made, not how this sūtra is read. That is a derivation note (↪), not a credit.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "63006",
+     "quote": "तृतीयेति योगविभागात् समासः"
+    },
+    {
+     "file": "kashika",
+     "id": "32153",
+     "quote": "अनित्योऽयं प्रतिषेध इति योगविभागाद् विज्ञायते"
+    }
+   ]
+  },
+  {
+   "text": "C5. A jñāpaka drawn from Pāṇini's separate statement is not a split; it may point to another principle.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "72016",
+     "quote": "एतद् ज्ञापयति — यदुपाधेर्विभाषा तदुपाधेः प्रतिषेध इति"
+    },
+    {
+     "file": "kashika",
+     "id": "13007",
+     "quote": "पृथग्योगकरणमस्य विधेरनित्यत्वज्ञापनार्थम्"
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | vidhi | X",
+   "count": 33,
+   "verdict": "mixed",
+   "how_checked": "Every member read: the Kāśikā sentence with योगविभाग/पृथग्योग pulled by script for all 95, with ±300 characters of context read for every member not of the formula “योगविभाग उत्तरार्थः / पृथग्योगकरणमुत्तरार्थम् / …यथासंख्य…”; our vṛtti checked for whether the split shows in it.",
+   "licensed": [
+    "3.2.4",
+    "4.1.94",
+    "4.4.78",
+    "4.4.101",
+    "5.1.24",
+    "5.1.96",
+    "5.4.75"
+   ],
+   "not_licensed": [
+    {
+     "n": "3.1.9",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "31009",
+       "quote": "योगविभाग उत्तरत्र क्यचोऽनुवृत्त्यर्थः"
+      }
+     ]
+    },
+    {
+     "n": "3.1.147",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "31147",
+       "quote": "योगविभाग उत्तरार्थः"
+      }
+     ]
+    },
+    {
+     "n": "3.2.47",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32047",
+       "quote": "योगविभाग उत्तरार्थः"
+      }
+     ]
+    },
+    {
+     "n": "3.2.64",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32064",
+       "quote": "योगविभाग उत्तरार्थः"
+      }
+     ]
+    },
+    {
+     "n": "3.2.72",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32072",
+       "quote": "योगविभाग उत्तरार्थः"
+      }
+     ]
+    },
+    {
+     "n": "3.2.138",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32138",
+       "quote": "योगविभाग उत्तरार्थः"
+      }
+     ]
+    },
+    {
+     "n": "3.2.153",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "DERIVATION_ONLY",
+     "why": "The split is of another sūtra — (the jñāpaka of anityatva drawn from Pāṇini's split) — and only accounts for an example form or compound. Reading 3.2.153 itself does not need it (C4). At most a ↪ derivation note.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32153",
+       "quote": "सूदेर्युचि प्रतिषिद्धे कथं मधुसूदनो रिपुसूदन इति? अनित्योऽयं प्रतिषेध इति योगविभागाद् विज्ञायते"
+      }
+     ]
+    },
+    {
+     "n": "3.3.115",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33115",
+       "quote": "योगविभाग उत्तरार्थः"
+      }
+     ]
+    },
+    {
+     "n": "3.3.137",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33137",
+       "quote": "योगविभाग उत्तरार्थः"
+      }
+     ]
+    },
+    {
+     "n": "3.3.148",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33148",
+       "quote": "योगविभाग उत्तरार्थः"
+      }
+     ]
+    },
+    {
+     "n": "3.3.159",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33159",
+       "quote": "योगविभागः उत्तरार्थः"
+      }
+     ]
+    },
+    {
+     "n": "3.3.162",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33162",
+       "quote": "योगविभाग उत्तरार्थः"
+      }
+     ]
+    },
+    {
+     "n": "4.1.16",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41016",
+       "quote": "योगविभाग उत्तरार्थः"
+      }
+     ]
+    },
+    {
+     "n": "4.2.28",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_SPLIT_AGAINST_YATHASANKHYA",
+     "why": "Pāṇini's separate sūtra keeps yathāsaṅkhya (1.3.10) from pairing the items; that is a remark on the sūtra division, not a split for a desired form (C3).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42028",
+       "quote": "योगविभागः सङ्ख्यातानुदेशपरिहारार्थः"
+      }
+     ]
+    },
+    {
+     "n": "4.2.45",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "JNAPAKA_NOT_SPLIT",
+     "why": "A jñāpaka: the separate listing of क्षुद्रकमालव indicates pūrvavipratiṣedha and tadantavidhi. No split is made to get a form. (C5)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42045",
+       "quote": "न च गोत्रसमुदायो गोत्रम्, न च तदन्तविधिरत्रास्ति? एवं तर्ह्येतज् ज्ञापयति — वुञि पूर्वविप्रतिषेधः, सामूहिकेषु च तदन्तविधिरस्तीति"
+      }
+     ]
+    },
+    {
+     "n": "4.3.21",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43021",
+       "quote": "योगविभाग उत्तरार्थः"
+      }
+     ]
+    },
+    {
+     "n": "4.3.44",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43044",
+       "quote": "योगविभाग उत्तरार्थः"
+      }
+     ]
+    },
+    {
+     "n": "4.3.82",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_SPLIT_AGAINST_YATHASANKHYA",
+     "why": "Pāṇini's separate sūtra keeps yathāsaṅkhya (1.3.10) from pairing the items; that is a remark on the sūtra division, not a split for a desired form (C3).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43082",
+       "quote": "योगविभागो यथासंख्यनिरासार्थः"
+      }
+     ]
+    },
+    {
+     "n": "4.3.90",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43090",
+       "quote": "योगविभाग उत्तरार्थः"
+      }
+     ]
+    },
+    {
+     "n": "4.4.3",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "44003",
+       "quote": "योगविभाग उत्तरार्थः"
+      }
+     ]
+    },
+    {
+     "n": "4.4.132",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_SPLIT_AGAINST_YATHASANKHYA",
+     "why": "Pāṇini's separate sūtra keeps yathāsaṅkhya (1.3.10) from pairing the items; that is a remark on the sūtra division, not a split for a desired form (C3).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "44132",
+       "quote": "योगविभागो यथासंख्यनिरासार्थ उत्तरार्थश्च"
+      }
+     ]
+    },
+    {
+     "n": "5.2.103",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_SPLIT_AGAINST_YATHASANKHYA",
+     "why": "Pāṇini's separate sūtra keeps yathāsaṅkhya (1.3.10) from pairing the items; that is a remark on the sūtra division, not a split for a desired form (C3).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52103",
+       "quote": "योगविभाग उत्तरार्थो यथासंख्यार्थश्च"
+      }
+     ]
+    },
+    {
+     "n": "5.3.25",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "53025",
+       "quote": "योगविभाग उत्तरार्थः"
+      }
+     ]
+    },
+    {
+     "n": "5.4.104",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "DERIVATION_ONLY",
+     "why": "The split is of another sūtra — 2.1.40 (सप्तमी शौण्डैः) — and only accounts for an example form or compound. Reading 5.4.104 itself does not need it (C4). At most a ↪ derivation note.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "54104",
+       "quote": "योगविभागात् सप्तमीसमासः"
+      }
+     ]
+    }
+   ],
+   "unsure": [
+    {
+     "n": "5.2.40",
+     "word": "the sūtra is stated separately for a purpose",
+     "why": "The split is the Kāśikā's second explanation (अथ वा); its first is a jñāpaka (एतदेव चादेशविधानं ज्ञापकम्). Licensed only if the second is the one adopted.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52040",
+       "quote": "अथ वा योगविभागेन वतुपं विधाय पश्चाद् वो घो विधीयते"
+      }
+     ]
+    },
+    {
+     "n": "5.3.102",
+     "word": "the sūtra is stated separately for a purpose",
+     "why": "The split is proposed only for a reported view (केचित् … इच्छन्ति: some want ढञ् too). If that view is adopted, PIS 123 fits; the Kāśikā does not adopt it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "53102",
+       "quote": "केचिदत्र ढञमपीच्छन्ति, तदर्थं योगविभागःकर्तव्यः"
+      }
+     ]
+    }
+   ],
+   "note": "Our vṛttis give the literal reading even where the Kāśikā splits the sūtra (e.g. 3.2.4, 4.4.78, 4.4.101, 5.1.24: the extra forms the split yields are not in the vṛtti). The credit is still licensed — the Kāśikā reads this very sūtra as two — but the vṛtti does not show the result."
+  },
+  {
+   "id": "G2",
+   "group": "carried / not a sūtra word | ādeśa | X",
+   "count": 17,
+   "verdict": "mixed",
+   "how_checked": "Every member read: the Kāśikā sentence with योगविभाग/पृथग्योग pulled by script for all 95, with ±300 characters of context read for every member not of the formula “योगविभाग उत्तरार्थः / पृथग्योगकरणमुत्तरार्थम् / …यथासंख्य…”; our vṛtti checked for whether the split shows in it.",
+   "licensed": [
+    "1.2.50",
+    "3.4.2",
+    "4.3.2",
+    "5.3.5",
+    "6.3.84",
+    "7.1.26",
+    "8.2.3"
+   ],
+   "not_licensed": [
+    {
+     "n": "1.2.57",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "12057",
+       "quote": "यद्येवं पूर्वसूत्र एव कालोपसर्जनग्रहणं कस्माद् न क्रियते? किमर्थो योगविभागः? प्रदर्शनार्थः"
+      }
+     ]
+    },
+    {
+     "n": "2.4.43",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "24043",
+       "quote": "योगविभाग उत्तरार्थः"
+      }
+     ]
+    },
+    {
+     "n": "2.4.47",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "24047",
+       "quote": "योगविभाग उत्तरार्थः"
+      }
+     ]
+    },
+    {
+     "n": "3.1.53",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "31053",
+       "quote": "पृथग्योग उत्तरार्थः"
+      }
+     ]
+    },
+    {
+     "n": "3.1.56",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "31056",
+       "quote": "पृथग्योगकरणमात्मनेपदार्थम्"
+      }
+     ]
+    },
+    {
+     "n": "3.2.107",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32107",
+       "quote": "योगविभाग उत्तरार्थः"
+      }
+     ]
+    },
+    {
+     "n": "6.3.76",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "DERIVATION_ONLY",
+     "why": "The split is of another sūtra — 2.1.30 (तृतीया …) — and only accounts for an example form or compound. Reading 6.3.76 itself does not need it (C4). At most a ↪ derivation note.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "63076",
+       "quote": "तृतीयेति योगविभागात् समासः"
+      }
+     ]
+    },
+    {
+     "n": "6.4.116",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "64116",
+       "quote": "पृथग्योगकरणमुत्तरार्थम्"
+      }
+     ]
+    },
+    {
+     "n": "7.4.33",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "74033",
+       "quote": "पृथग्योगकरणमुत्तरार्थम्"
+      }
+     ]
+    }
+   ],
+   "unsure": [
+    {
+     "n": "8.3.37",
+     "word": "the sūtra is stated separately for a purpose",
+     "why": "Reported view (केचित् … कुर्वन्ति); the Kāśikā does not adopt it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "83037",
+       "quote": "केचित् तु एतदर्थं योगविभागं कुर्वन्ति"
+      }
+     ]
+    }
+   ],
+   "note": "3.4.2 and 2.3.32 (G7) are the two places where our vṛtti does show the split (3.4.2 is printed split; 2.3.32's vṛtti adds द्वितीया)."
+  },
+  {
+   "id": "G3",
+   "group": "carried / not a sūtra word | operation | X",
+   "count": 16,
+   "verdict": "mixed",
+   "how_checked": "Every member read: the Kāśikā sentence with योगविभाग/पृथग्योग pulled by script for all 95, with ±300 characters of context read for every member not of the formula “योगविभाग उत्तरार्थः / पृथग्योगकरणमुत्तरार्थम् / …यथासंख्य…”; our vṛtti checked for whether the split shows in it.",
+   "licensed": [
+    "6.4.12",
+    "6.4.95",
+    "6.4.133",
+    "6.4.140"
+   ],
+   "not_licensed": [
+    {
+     "n": "6.1.41",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61041",
+       "quote": "पृथग्योगकरणमुत्तरार्थम्"
+      }
+     ]
+    },
+    {
+     "n": "6.1.43",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61043",
+       "quote": "योगविभाग उत्तरार्थः"
+      }
+     ]
+    },
+    {
+     "n": "6.3.6",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "DERIVATION_ONLY",
+     "why": "The split is of another sūtra — 2.1.30 — and only accounts for an example form or compound. Reading 6.3.6 itself does not need it (C4). At most a ↪ derivation note.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "63006",
+       "quote": "तृतीयेति योगविभागात् समासः"
+      }
+     ]
+    },
+    {
+     "n": "6.3.7",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "DERIVATION_ONLY",
+     "why": "The split is of another sūtra — 2.1.36 (चतुर्थी …) — and only accounts for an example form or compound. Reading 6.3.7 itself does not need it (C4). At most a ↪ derivation note.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "63007",
+       "quote": "चतुर्थीति योगविभागात् समासः"
+      }
+     ]
+    },
+    {
+     "n": "6.3.11",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "DERIVATION_ONLY",
+     "why": "The split is of another sūtra — 2.1.40 — and only accounts for an example form or compound. Reading 6.3.11 itself does not need it (C4). At most a ↪ derivation note.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "63011",
+       "quote": "सप्तमीति योगविभागात् समासः"
+      }
+     ]
+    },
+    {
+     "n": "6.3.18",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "DERIVATION_ONLY",
+     "why": "The split is of another sūtra — 2.1.40 — and only accounts for an example form or compound. Reading 6.3.18 itself does not need it (C4). At most a ↪ derivation note.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "63018",
+       "quote": "सर्वत्र सप्तमीति योगविभागात् समासः"
+      }
+     ]
+    },
+    {
+     "n": "6.3.19",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "DERIVATION_ONLY",
+     "why": "The split is of another sūtra — 2.1.40 — and only accounts for an example form or compound. Reading 6.3.19 itself does not need it (C4). At most a ↪ derivation note.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "63019",
+       "quote": "सप्तमीति योगविभागात् समासः"
+      }
+     ]
+    },
+    {
+     "n": "6.4.26",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "64026",
+       "quote": "पृथग्योगकरणमुत्तरार्थम्"
+      }
+     ]
+    },
+    {
+     "n": "7.3.17",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "DERIVATION_ONLY",
+     "why": "The split is of another sūtra — 5.1.57 (तदस्य परिमाणम्) — and only accounts for an example form or compound. Reading 7.3.17 itself does not need it (C4). At most a ↪ derivation note.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73017",
+       "quote": "पञ्च लोहिन्यः परिमाणमस्य, पञ्च कलापानि परिमाणमस्येति विगृह्य <<तदस्य परिमाणम्>> [[५.१.५७]] इति योगविभागात् प्रत्ययः, तद्धितान्तश्चायं समुदायः संज्ञा"
+      }
+     ]
+    }
+   ],
+   "unsure": [
+    {
+     "n": "5.1.125",
+     "word": "the sūtra is stated separately for a purpose",
+     "why": "Reported view (केचित् … कुर्वन्ति); the Kāśikā does not adopt it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51125",
+       "quote": "स्तेनादिति केचिद् योगविभागं कुर्वन्ति"
+      }
+     ]
+    },
+    {
+     "n": "6.1.32",
+     "word": "the sūtra is stated separately for a purpose",
+     "why": "A jñāpaka from Pāṇini's separate statement (no संप्रसारण when a suffix that is not the reduplication's condition intervenes). Close to the PIS 123 bīja, but not a split made for a desired form. Policy call.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61032",
+       "quote": "ह्वः संप्रसारणमभ्यस्तस्येत्येकयोगेन सिद्धे पृथग्योगकरणमनभ्यस्तनिमित्तप्रत्ययव्यवधाने संप्रसारणाभावज्ञापनार्थम्"
+      }
+     ]
+    },
+    {
+     "n": "7.2.3",
+     "word": "the sūtra is stated separately for a purpose",
+     "why": "Hypothetical: “if the sūtra were split, हलन्त would be unnecessary” — and the Kāśikā then defends the हल् of the sūtra as written (हल्समुदायपरिग्रहार्थम्). Naming a split is not doing one; it is unclear whether the split is adopted.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72003",
+       "quote": "अत्र योगविभागे सति हलन्तग्रहणमन्तरेणापि सिध्यति"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G4",
+   "group": "carried / not a sūtra word | svara | X",
+   "count": 9,
+   "verdict": "mixed",
+   "how_checked": "Every member read: the Kāśikā sentence with योगविभाग/पृथग्योग pulled by script for all 95, with ±300 characters of context read for every member not of the formula “योगविभाग उत्तरार्थः / पृथग्योगकरणमुत्तरार्थम् / …यथासंख्य…”; our vṛtti checked for whether the split shows in it.",
+   "licensed": [
+    "3.3.100"
+   ],
+   "not_licensed": [
+    {
+     "n": "6.1.212",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_SPLIT_AGAINST_YATHASANKHYA",
+     "why": "Pāṇini's separate sūtra keeps yathāsaṅkhya (1.3.10) from pairing the items; that is a remark on the sūtra division, not a split for a desired form (C3).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61212",
+       "quote": "पृथग्योगकरणं यथासंख्यशङ्कानिवृत्त्यर्थम्"
+      }
+     ]
+    },
+    {
+     "n": "6.2.59",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "62059",
+       "quote": "पृथग्योगकरणमुत्तरार्थम्"
+      }
+     ]
+    },
+    {
+     "n": "6.2.152",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "DERIVATION_ONLY",
+     "why": "The split is of another sūtra — 2.1.40 — and only accounts for an example form or compound. Reading 6.2.152 itself does not need it (C4). At most a ↪ derivation note.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "62152",
+       "quote": "<<सप्तमी०>>[[२.१.४०]] इति योगविभागात् समासः"
+      }
+     ]
+    },
+    {
+     "n": "6.2.162",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "DERIVATION_ONLY",
+     "why": "The split is of another sūtra — 2.1.30 — and only accounts for an example form or compound. Reading 6.2.162 itself does not need it (C4). At most a ↪ derivation note.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "62162",
+       "quote": "तृतीयेति योगविभागात् समासः"
+      }
+     ]
+    },
+    {
+     "n": "6.2.186",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "62186",
+       "quote": "योगविभाग उत्तरार्थः"
+      }
+     ]
+    },
+    {
+     "n": "8.1.40",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "81040",
+       "quote": "पृथग्योगकरणमुत्तरार्थम्"
+      }
+     ]
+    },
+    {
+     "n": "8.1.52",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "81052",
+       "quote": "पृथग्योगकरणमुत्तरार्थम्"
+      }
+     ]
+    }
+   ],
+   "unsure": [
+    {
+     "n": "5.2.44",
+     "word": "the sūtra is stated separately for a purpose",
+     "why": "The split is needed only on one of two analyses (if उभ is not a number); on the other, the sūtra just replaces the तयप् of 5.2.42. Licensed only on the second analysis.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52044",
+       "quote": "अथ न संख्या, ततो योगविभागेन तयपं विधाय तस्य नित्यमयजादेशो विधीयते"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G5",
+   "group": "carried / not a sūtra word | āgama | X",
+   "count": 4,
+   "verdict": "not licensed",
+   "how_checked": "Every member read: the Kāśikā sentence with योगविभाग/पृथग्योग pulled by script for all 95, with ±300 characters of context read for every member not of the formula “योगविभाग उत्तरार्थः / पृथग्योगकरणमुत्तरार्थम् / …यथासंख्य…”; our vṛtti checked for whether the split shows in it.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "6.4.79",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "64079",
+       "quote": "पृथग्योगकरणमुत्तरार्थम्"
+      }
+     ]
+    },
+    {
+     "n": "7.1.64",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "71064",
+       "quote": "लभेश्च पृथग्योगकरणमुत्तरार्थम्"
+      }
+     ]
+    },
+    {
+     "n": "7.2.16",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "JNAPAKA_NOT_SPLIT",
+     "why": "A jñāpaka for a different maxim (“यदुपाधेर्विभाषा तदुपाधेः प्रतिषेधः”), drawn from Pāṇini's separate statement; PIS 123 is not involved. (C5)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72016",
+       "quote": "योगविभागकरणं किमर्थम्, आदितश्च विभाषा भावादिकर्मणोरित्येवं पठितव्यम्, अन्यत्र हि भावादिकर्मभ्यां <<यस्य विभाषा>> [[७.२.१५]] इति प्रतिषेधो भविष्यति? ज्ञापनार्थम्, एतद् ज्ञापयति — यदुपाधेर्विभाषा तदुपाधेः प्रतिषेध इति"
+      }
+     ]
+    },
+    {
+     "n": "8.3.31",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "DERIVATION_ONLY",
+     "why": "The split is of another sūtra — 8.4.40 (स्तोः श्चुना श्चुः) — and only accounts for an example form or compound. Reading 8.3.31 itself does not need it (C4). At most a ↪ derivation note.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "83031",
+       "quote": "तत्र समाधिमाहुः — <<स्तोः श्चुना श्चुः>> [[८.४.४०]] इत्यत्र योगविभागः क्रियते णत्वप्रतिषेधार्थम्, स्तोः श्चुना णकारो न भवतीति, ततः श्चुरिति"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G6",
+   "group": "carried / not a sūtra word | saṃjñā | X",
+   "count": 3,
+   "verdict": "mixed",
+   "how_checked": "Every member read: the Kāśikā sentence with योगविभाग/पृथग्योग pulled by script for all 95, with ±300 characters of context read for every member not of the formula “योगविभाग उत्तरार्थः / पृथग्योगकरणमुत्तरार्थम् / …यथासंख्य…”; our vṛtti checked for whether the split shows in it.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "1.4.58",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "14058",
+       "quote": "पृथग्योगकरणमुत्तरसंज्ञाविशेषणार्थम्"
+      }
+     ]
+    },
+    {
+     "n": "1.4.60",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "14060",
+       "quote": "योगविभाग उत्तरार्थः"
+      }
+     ]
+    }
+   ],
+   "unsure": [
+    {
+     "n": "1.3.7",
+     "word": "the sūtra is stated separately for a purpose",
+     "why": "The Kāśikā draws from Pāṇini's separate statement the jñāpaka that this rule is anitya. That is exactly the bīja Nāgeśa gives for PIS 123 (“विभक्तस्यानित्यत्वज्ञापनम्”), but it is a jñāpaka about Pāṇini's own sūtra division, not a split made to get a form; our vṛtti does not use it. Policy call.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "13007",
+       "quote": "पृथग्योगकरणमस्य विधेरनित्यत्वज्ञापनार्थम्"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G7",
+   "group": "carried / not a sūtra word | vibhakti | X",
+   "count": 3,
+   "verdict": "mixed",
+   "how_checked": "Every member read: the Kāśikā sentence with योगविभाग/पृथग्योग pulled by script for all 95, with ±300 characters of context read for every member not of the formula “योगविभाग उत्तरार्थः / पृथग्योगकरणमुत्तरार्थम् / …यथासंख्य…”; our vṛtti checked for whether the split shows in it.",
+   "licensed": [
+    "2.3.31",
+    "2.3.32"
+   ],
+   "not_licensed": [
+    {
+     "n": "2.3.58",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "23058",
+       "quote": "योगविभाग उत्तरार्थः"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G8",
+   "group": "carried / not a sūtra word | nipātana | X",
+   "count": 3,
+   "verdict": "mixed",
+   "how_checked": "Every member read: the Kāśikā sentence with योगविभाग/पृथग्योग pulled by script for all 95, with ±300 characters of context read for every member not of the formula “योगविभाग उत्तरार्थः / पृथग्योगकरणमुत्तरार्थम् / …यथासंख्य…”; our vṛtti checked for whether the split shows in it.",
+   "licensed": [
+    "6.4.171",
+    "8.1.15"
+   ],
+   "not_licensed": [
+    {
+     "n": "2.4.28",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_SPLIT_AGAINST_YATHASANKHYA",
+     "why": "Pāṇini's separate sūtra keeps yathāsaṅkhya (1.3.10) from pairing the items; that is a remark on the sūtra division, not a split for a desired form (C3).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "24028",
+       "quote": "योगविभागः संख्यातानुदेशपरिहारार्थः"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G9",
+   "group": "carried / not a sūtra word | ṣatva | X",
+   "count": 3,
+   "verdict": "mixed",
+   "how_checked": "Every member read: the Kāśikā sentence with योगविभाग/पृथग्योग pulled by script for all 95, with ±300 characters of context read for every member not of the formula “योगविभाग उत्तरार्थः / पृथग्योगकरणमुत्तरार्थम् / …यथासंख्य…”; our vṛtti checked for whether the split shows in it.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "8.3.74",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "83074",
+       "quote": "पृथग्योगकरणसामर्थ्यादनिष्ठायामित्येतद् नानुवर्तते"
+      }
+     ]
+    },
+    {
+     "n": "8.3.89",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "DERIVATION_ONLY",
+     "why": "The split is of another sūtra — 3.2.4 (सुपि स्थः) — and only accounts for an example form or compound. Reading 8.3.89 itself does not need it (C4). At most a ↪ derivation note.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "83089",
+       "quote": "<<सुपि स्थः>> [[३.२.४]] इत्यत्र सुपीति योगविभागात् कप्रत्ययः"
+      }
+     ]
+    }
+   ],
+   "unsure": [
+    {
+     "n": "8.3.109",
+     "word": "the sūtra is stated separately for a purpose",
+     "why": "Reported view (केचित् … कुर्वन्ति); the Kāśikā does not adopt it.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "83109",
+       "quote": "केचित् सहेः इति योगविभागं कुर्वन्ति"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G10",
+   "group": "carried / not a sūtra word | pada | X",
+   "count": 2,
+   "verdict": "not licensed",
+   "how_checked": "Every member read: the Kāśikā sentence with योगविभाग/पृथग्योग pulled by script for all 95, with ±300 characters of context read for every member not of the formula “योगविभाग उत्तरार्थः / पृथग्योगकरणमुत्तरार्थम् / …यथासंख्य…”; our vṛtti checked for whether the split shows in it.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "1.3.33",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "13033",
+       "quote": "पृथग्योगकरणमुपसर्गविशेषणार्थम्"
+      }
+     ]
+    },
+    {
+     "n": "1.3.84",
+     "word": "the sūtra is stated separately for a purpose",
+     "should_be": "none",
+     "reason": "PANINI_OWN_SPLIT",
+     "why": "The Kāśikā only explains why Pāṇini wrote this as a separate sūtra (for the following sūtras' anuvṛtti, or a similar purpose of the sūtra division); no split is made and no extra form results (C3). Reading the sūtra as written does not need PIS 123.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "13084",
+       "quote": "पृथग्योगकरणमुत्तरार्थम्"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G11",
+   "group": "carried / not a sūtra word | adhikāra | X",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "Every member read: the Kāśikā sentence with योगविभाग/पृथग्योग pulled by script for all 95, with ±300 characters of context read for every member not of the formula “योगविभाग उत्तरार्थः / पृथग्योगकरणमुत्तरार्थम् / …यथासंख्य…”; our vṛtti checked for whether the split shows in it.",
+   "licensed": [
+    "2.1.4"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G12",
+   "group": "carried / not a sūtra word | ṇatva | X",
+   "count": 1,
+   "verdict": "unsure",
+   "how_checked": "Every member read: the Kāśikā sentence with योगविभाग/पृथग्योग pulled by script for all 95, with ±300 characters of context read for every member not of the formula “योगविभाग उत्तरार्थः / पृथग्योगकरणमुत्तरार्थम् / …यथासंख्य…”; our vṛtti checked for whether the split shows in it.",
+   "licensed": [],
+   "not_licensed": [],
+   "unsure": [
+    {
+     "n": "8.4.3",
+     "word": "the sūtra is stated separately for a purpose",
+     "why": "The split “अगः” is part of the view that 8.4.3 is a niyama (केचिदेतद् नियमार्थं वर्णयन्ति); the Kāśikā then gives another view (अपरे तु …) with no split. Fits only on the first view.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "84003",
+       "quote": "अग इति योगविभागेन णत्वप्रतिषेधः, न नियमप्रतिषेध इति"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  }
+ ],
+ "missed": [
+  {
+   "n": "2.3.25",
+   "pid": "PIS 123",
+   "why": "The Kaumudī splits विभाषा off this sūtra to get the 5th outside guṇa and in the feminine, and Nyāsa names the maxim itself here. The Kāśikā text has no योगविभाग word, so the engine misses it.",
+   "quotes": [
+    {
+     "file": "kaumudi",
+     "id": "23025",
+     "quote": "विभाषेति योगविभागादगुणे स्त्रियां च क्वचित्"
+    },
+    {
+     "file": "nyaas",
+     "id": "23025",
+     "quote": "यत्रेष्यते तत्रय योगविभागादिष्टसिद्धिरिति स्त्रियामपि भवत्येव"
+    }
+   ]
+  },
+  {
+   "n": "2.1.6",
+   "pid": "PIS 123",
+   "why": "The Kaumudī splits अव्ययम् off to give the general avyayībhāva rule.",
+   "quotes": [
+    {
+     "file": "kaumudi",
+     "id": "21006",
+     "quote": "अव्ययमिति योगो विभज्यते"
+    }
+   ]
+  },
+  {
+   "n": "1.4.9",
+   "pid": "PIS 123",
+   "why": "The Kaumudī splits वा off (all Vedic rules optional).",
+   "quotes": [
+    {
+     "file": "kaumudi",
+     "id": "14009",
+     "quote": "इह वेति योगं विभज्य छन्दसीत्यनुवर्तते"
+    }
+   ]
+  },
+  {
+   "n": "2.3.71",
+   "pid": "PIS 123",
+   "why": "The Kaumudī splits the sūtra.",
+   "quotes": [
+    {
+     "file": "kaumudi",
+     "id": "23071",
+     "quote": "अत्र योगो विभज्यते"
+    }
+   ]
+  },
+  {
+   "n": "6.3.46",
+   "pid": "PIS 123",
+   "why": "The Kaumudī splits आत् off.",
+   "quotes": [
+    {
+     "file": "kaumudi",
+     "id": "63046",
+     "quote": "आदिति योगविभागादात्वम्"
+    }
+   ]
+  },
+  {
+   "n": "8.2.86",
+   "pid": "PIS 123",
+   "why": "The Kaumudī splits प्राचाम् off.",
+   "quotes": [
+    {
+     "file": "kaumudi",
+     "id": "82086",
+     "quote": "इह प्राचाम् इति योगो विभज्यते"
+    }
+   ]
+  }
+ ]
+}

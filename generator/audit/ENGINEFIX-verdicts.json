@@ -1,0 +1,2704 @@
+{
+ "1.1.71": [
+  {
+   "n": "1.1.7",
+   "word": "हल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. हल्-ādi/-anta)"
+  },
+  {
+   "n": "1.1.47",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "1.1.48",
+   "word": "एच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. एच्-ādi/-anta)"
+  },
+  {
+   "n": "1.1.48",
+   "word": "इक्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. इक्-ādi/-anta)"
+  },
+  {
+   "n": "1.1.51",
+   "word": "अण्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अण्-ādi/-anta)"
+  },
+  {
+   "n": "1.1.57",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "1.1.58",
+   "word": "जश्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. जश्-ādi/-anta)"
+  },
+  {
+   "n": "1.1.58",
+   "word": "चर्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. चर्-ādi/-anta)"
+  },
+  {
+   "n": "1.1.59",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "1.1.64",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "1.1.65",
+   "word": "अल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अल्-ādi/-anta)"
+  },
+  {
+   "n": "1.1.73",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "1.2.15",
+   "word": "यम्",
+   "verdict": "not licensed",
+   "why": "a dhātu here (Kāśikā glosses it as the verb), not a pratyāhāra"
+  },
+  {
+   "n": "1.2.28",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "1.3.28",
+   "word": "यम्",
+   "verdict": "not licensed",
+   "why": "a dhātu here (Kāśikā glosses it as the verb), not a pratyāhāra"
+  },
+  {
+   "n": "1.3.32",
+   "word": "कृञ्",
+   "verdict": "not licensed",
+   "why": "the root कृ (कृञ्), glossed करोति/कृञो धातोः — not the pratyāhāra कृञ् of 3.1.40"
+  },
+  {
+   "n": "1.3.53",
+   "word": "चर्",
+   "verdict": "not licensed",
+   "why": "a dhātu here (Kāśikā glosses it as the verb), not a pratyāhāra"
+  },
+  {
+   "n": "1.3.56",
+   "word": "यम्",
+   "verdict": "not licensed",
+   "why": "a dhātu here (Kāśikā glosses it as the verb), not a pratyāhāra"
+  },
+  {
+   "n": "1.3.63",
+   "word": "कृञ्",
+   "verdict": "not licensed",
+   "why": "the root कृ (कृञ्), glossed करोति/कृञो धातोः — not the pratyāhāra कृञ् of 3.1.40; Kāśikā: कृञ् here excludes भू/अस्",
+   "quote": {
+    "file": "ashtadhyayi-data/sutraani/kashika.txt",
+    "id": "13063",
+    "quote": "कृञ इति किम्? ईक्षामास। ईक्षांबभूव।"
+   }
+  },
+  {
+   "n": "1.3.67",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "अ-णि (non-causal, नञ् + णि), not the pratyāhāra अण्"
+  },
+  {
+   "n": "1.3.71",
+   "word": "कृञ्",
+   "verdict": "not licensed",
+   "why": "the root कृ (कृञ्), glossed करोति/कृञो धातोः — not the pratyāhāra कृञ् of 3.1.40"
+  },
+  {
+   "n": "1.3.75",
+   "word": "यम्",
+   "verdict": "not licensed",
+   "why": "a dhātu here (Kāśikā glosses it as the verb), not a pratyāhāra"
+  },
+  {
+   "n": "1.3.79",
+   "word": "कृञ्",
+   "verdict": "not licensed",
+   "why": "the root कृ (कृञ्), glossed करोति/कृञो धातोः — not the pratyāhāra कृञ् of 3.1.40"
+  },
+  {
+   "n": "1.3.88",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "अ-णि (non-causal, नञ् + णि), not the pratyāhāra अण्"
+  },
+  {
+   "n": "1.4.32",
+   "word": "यम्",
+   "verdict": "not licensed",
+   "why": "the pronoun यद् (acc. यम्), not the pratyāhāra यम्"
+  },
+  {
+   "n": "1.4.37",
+   "word": "यम्",
+   "verdict": "not licensed",
+   "why": "the pronoun यद् (acc. यम्), not the pratyāhāra यम्"
+  },
+  {
+   "n": "1.4.64",
+   "word": "अल्",
+   "verdict": "not licensed",
+   "why": "the avyaya अलम्, not the pratyāhāra अल्"
+  },
+  {
+   "n": "1.4.72",
+   "word": "कृञ्",
+   "verdict": "not licensed",
+   "why": "the root कृ (कृञ्), glossed करोति/कृञो धातोः — not the pratyāhāra कृञ् of 3.1.40"
+  },
+  {
+   "n": "1.4.98",
+   "word": "कृञ्",
+   "verdict": "not licensed",
+   "why": "the root कृ (कृञ्), glossed करोति/कृञो धातोः — not the pratyāhāra कृञ् of 3.1.40"
+  },
+  {
+   "n": "1.4.101",
+   "word": "तिङ्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. तिङ्-ādi/-anta)"
+  },
+  {
+   "n": "1.4.103",
+   "word": "सुप्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. सुप्-ādi/-anta)"
+  },
+  {
+   "n": "2.1.2",
+   "word": "सुप्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. सुप्-ādi/-anta)"
+  },
+  {
+   "n": "2.1.4",
+   "word": "सुप्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. सुप्-ādi/-anta)"
+  },
+  {
+   "n": "2.1.9",
+   "word": "सुप्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. सुप्-ādi/-anta)"
+  },
+  {
+   "n": "2.1.65",
+   "word": "वश्",
+   "verdict": "not licensed",
+   "why": "वशा = the noun (cow), member of the पोटादि list"
+  },
+  {
+   "n": "2.2.15",
+   "word": "अक्",
+   "verdict": "not licensed",
+   "why": "अक = the kṛt suffix (ण्वुल्), a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "2.2.20",
+   "word": "अम्",
+   "verdict": "not licensed",
+   "why": "अम् = the suffix अम् (णमुल्/खमुञ्) ending the avyaya, not the pratyāhāra"
+  },
+  {
+   "n": "2.2.33",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "2.2.34",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "2.3.16",
+   "word": "अल्",
+   "verdict": "not licensed",
+   "why": "the avyaya अलम्, not the pratyāhāra अल्"
+  },
+  {
+   "n": "2.3.52",
+   "word": "इक्",
+   "verdict": "not licensed",
+   "why": "इक् = the root इक् (अधि+इक् स्मरणे) — अधीगर्थ"
+  },
+  {
+   "n": "2.3.53",
+   "word": "कृञ्",
+   "verdict": "not licensed",
+   "why": "the root कृ (कृञ्), glossed करोति/कृञो धातोः — not the pratyāhāra कृञ् of 3.1.40"
+  },
+  {
+   "n": "2.3.69",
+   "word": "उक्",
+   "verdict": "not licensed",
+   "why": "उक = the suffix उकञ् (ल-उ-उक list), not a pratyāhāra"
+  },
+  {
+   "n": "2.3.69",
+   "word": "तृन्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. तृन्-ādi/-anta)",
+   "quote": {
+    "file": "ashtadhyayi-data/sutraani/kashika.txt",
+    "id": "23069",
+    "quote": "तृन् इति प्रत्याहारग्रहणम्"
+   }
+  },
+  {
+   "n": "2.3.70",
+   "word": "अक्",
+   "verdict": "not licensed",
+   "why": "अक = the kṛt suffix, a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "2.4.32",
+   "word": "अश्",
+   "verdict": "not licensed",
+   "why": "अश् = the substitute अश् for इदम्, an ādeśa (substitute) name, not a pratyāhāra"
+  },
+  {
+   "n": "2.4.45",
+   "word": "इण्",
+   "verdict": "not licensed",
+   "why": "a dhātu here (Kāśikā glosses it as the verb), not a pratyāhāra"
+  },
+  {
+   "n": "2.4.58",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "2.4.64",
+   "word": "यञ्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "2.4.66",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "2.4.71",
+   "word": "सुप्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. सुप्-ādi/-anta)"
+  },
+  {
+   "n": "2.4.74",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "2.4.82",
+   "word": "आप्",
+   "verdict": "not licensed",
+   "why": "the feminine suffixes टाप्/डाप्/चाप् taken together (सामान्यग्रहण), not a pratyāhāra",
+   "quote": {
+    "file": "ashtadhyayi-data/sutraani/kashika.txt",
+    "id": "41001",
+    "quote": "टाप्डाप्चापामाबिति"
+   }
+  },
+  {
+   "n": "2.4.82",
+   "word": "सुप्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. सुप्-ādi/-anta)"
+  },
+  {
+   "n": "2.4.83",
+   "word": "अम्",
+   "verdict": "not licensed",
+   "why": "अम् = the substitute अम् for सुप् (अमादेश), an ādeśa (substitute) name, not a pratyāhāra"
+  },
+  {
+   "n": "2.4.85",
+   "word": "र",
+   "verdict": "not licensed",
+   "why": "रौ = the substitute रौ, an ādeśa (substitute) name, not a pratyāhāra"
+  },
+  {
+   "n": "3.1.8",
+   "word": "सुप्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. सुप्-ādi/-anta)"
+  },
+  {
+   "n": "3.1.12",
+   "word": "हल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. हल्-ādi/-anta)"
+  },
+  {
+   "n": "3.1.21",
+   "word": "हल्",
+   "verdict": "not licensed",
+   "why": "an ordinary noun stem (part of a list of words), not a pratyāhāra"
+  },
+  {
+   "n": "3.1.24",
+   "word": "चर्",
+   "verdict": "not licensed",
+   "why": "a dhātu here (Kāśikā glosses it as the verb), not a pratyāhāra"
+  },
+  {
+   "n": "3.1.40",
+   "word": "कृञ्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. कृञ्-ādi/-anta)",
+   "quote": {
+    "file": "ashtadhyayi-data/sutraani/kashika.txt",
+    "id": "31040",
+    "quote": "कृञिति प्रत्याहारेण कृभ्वस्तयो गृह्यन्ते"
+   }
+  },
+  {
+   "n": "3.1.42",
+   "word": "अक्",
+   "verdict": "not licensed",
+   "why": "अकः = a verb form of कृ (aorist अकः, used as anuprayoga), not a pratyāhāra"
+  },
+  {
+   "n": "3.1.79",
+   "word": "कृञ्",
+   "verdict": "not licensed",
+   "why": "the root कृ (कृञ्), glossed करोति/कृञो धातोः — not the pratyāhāra कृञ् of 3.1.40"
+  },
+  {
+   "n": "3.1.100",
+   "word": "चर्",
+   "verdict": "not licensed",
+   "why": "a dhātu here (Kāśikā glosses it as the verb), not a pratyāhāra"
+  },
+  {
+   "n": "3.1.100",
+   "word": "यम्",
+   "verdict": "not licensed",
+   "why": "a dhātu here (Kāśikā glosses it as the verb), not a pratyāhāra"
+  },
+  {
+   "n": "3.1.106",
+   "word": "सुप्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. सुप्-ādi/-anta)"
+  },
+  {
+   "n": "3.1.134",
+   "word": "अच्",
+   "verdict": "not licensed",
+   "why": "अच् = the kṛt suffix अच्, a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "3.2.1",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "3.2.4",
+   "word": "सुप्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. सुप्-ādi/-anta)"
+  },
+  {
+   "n": "3.2.9",
+   "word": "अच्",
+   "verdict": "not licensed",
+   "why": "अच् = the kṛt suffix अच्, a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "3.2.20",
+   "word": "कृञ्",
+   "verdict": "not licensed",
+   "why": "the root कृ (कृञ्), glossed करोति/कृञो धातोः — not the pratyāhāra कृञ् of 3.1.40"
+  },
+  {
+   "n": "3.2.40",
+   "word": "यम्",
+   "verdict": "not licensed",
+   "why": "a dhātu here (Kāśikā glosses it as the verb), not a pratyāhāra"
+  },
+  {
+   "n": "3.2.43",
+   "word": "कृञ्",
+   "verdict": "not licensed",
+   "why": "the root कृ (कृञ्), glossed करोति/कृञो धातोः — not the pratyāhāra कृञ् of 3.1.40"
+  },
+  {
+   "n": "3.2.44",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "3.2.56",
+   "word": "कृञ्",
+   "verdict": "not licensed",
+   "why": "the root कृ (कृञ्), glossed करोति/कृञो धातोः — not the pratyāhāra कृञ् of 3.1.40"
+  },
+  {
+   "n": "3.2.78",
+   "word": "सुप्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. सुप्-ādi/-anta)"
+  },
+  {
+   "n": "3.2.89",
+   "word": "कृञ्",
+   "verdict": "not licensed",
+   "why": "the root कृ (कृञ्), glossed करोति/कृञो धातोः — not the pratyāhāra कृञ् of 3.1.40"
+  },
+  {
+   "n": "3.2.95",
+   "word": "कृञ्",
+   "verdict": "not licensed",
+   "why": "the root कृ (कृञ्), glossed करोति/कृञो धातोः — not the pratyāhāra कृञ् of 3.1.40"
+  },
+  {
+   "n": "3.2.135",
+   "word": "तृन्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "3.2.136",
+   "word": "चर्",
+   "verdict": "not licensed",
+   "why": "a dhātu here (Kāśikā glosses it as the verb), not a pratyāhāra"
+  },
+  {
+   "n": "3.2.157",
+   "word": "इण्",
+   "verdict": "not licensed",
+   "why": "a dhātu here (Kāśikā glosses it as the verb), not a pratyāhāra"
+  },
+  {
+   "n": "3.2.163",
+   "word": "इण्",
+   "verdict": "not licensed",
+   "why": "a dhātu here (Kāśikā glosses it as the verb), not a pratyāhāra"
+  },
+  {
+   "n": "3.2.167",
+   "word": "र",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "3.2.183",
+   "word": "हल्",
+   "verdict": "not licensed",
+   "why": "an ordinary noun stem (part of a list of words), not a pratyāhāra"
+  },
+  {
+   "n": "3.2.184",
+   "word": "चर्",
+   "verdict": "not licensed",
+   "why": "a dhātu here (Kāśikā glosses it as the verb), not a pratyāhāra"
+  },
+  {
+   "n": "3.3.12",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "3.3.38",
+   "word": "इण्",
+   "verdict": "not licensed",
+   "why": "a dhātu here (Kāśikā glosses it as the verb), not a pratyāhāra"
+  },
+  {
+   "n": "3.3.56",
+   "word": "अच्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "3.3.63",
+   "word": "यम्",
+   "verdict": "not licensed",
+   "why": "a dhātu here (Kāśikā glosses it as the verb), not a pratyāhāra"
+  },
+  {
+   "n": "3.3.96",
+   "word": "र",
+   "verdict": "not licensed",
+   "why": "राः = end of the root list item वीराः (वृष…वीर), not a pratyāhāra"
+  },
+  {
+   "n": "3.3.99",
+   "word": "इण्",
+   "verdict": "not licensed",
+   "why": "a dhātu here (Kāśikā glosses it as the verb), not a pratyāhāra"
+  },
+  {
+   "n": "3.3.100",
+   "word": "कृञ्",
+   "verdict": "not licensed",
+   "why": "the root कृ (कृञ्), glossed करोति/कृञो धातोः — not the pratyāhāra कृञ् of 3.1.40"
+  },
+  {
+   "n": "3.3.127",
+   "word": "कृञ्",
+   "verdict": "not licensed",
+   "why": "the root कृ (कृञ्), glossed करोति/कृञो धातोः — not the pratyāhāra कृञ् of 3.1.40"
+  },
+  {
+   "n": "3.3.154",
+   "word": "अल्",
+   "verdict": "not licensed",
+   "why": "the avyaya अलम्, not the pratyāhāra अल्"
+  },
+  {
+   "n": "3.4.16",
+   "word": "इण्",
+   "verdict": "not licensed",
+   "why": "a dhātu here (Kāśikā glosses it as the verb), not a pratyāhāra (इण्, कृ, चर्)"
+  },
+  {
+   "n": "3.4.16",
+   "word": "कृञ्",
+   "verdict": "not licensed",
+   "why": "a dhātu here (Kāśikā glosses it as the verb), not a pratyāhāra (इण्, कृ, चर्)"
+  },
+  {
+   "n": "3.4.16",
+   "word": "चर्",
+   "verdict": "not licensed",
+   "why": "a dhātu here (Kāśikā glosses it as the verb), not a pratyāhāra (इण्, कृ, चर्)"
+  },
+  {
+   "n": "3.4.18",
+   "word": "अल्",
+   "verdict": "not licensed",
+   "why": "the avyaya अलम्, not the pratyāhāra अल्"
+  },
+  {
+   "n": "3.4.25",
+   "word": "कृञ्",
+   "verdict": "not licensed",
+   "why": "the root कृ (कृञ्), glossed करोति/कृञो धातोः — not the pratyāhāra कृञ् of 3.1.40"
+  },
+  {
+   "n": "3.4.36",
+   "word": "कृञ्",
+   "verdict": "not licensed",
+   "why": "the root कृ (कृञ्), glossed करोति/कृञो धातोः — not the pratyāhāra कृञ् of 3.1.40"
+  },
+  {
+   "n": "3.4.59",
+   "word": "कृञ्",
+   "verdict": "not licensed",
+   "why": "the root कृ (कृञ्), glossed करोति/कृञो धातोः — not the pratyāhāra कृञ् of 3.1.40"
+  },
+  {
+   "n": "3.4.66",
+   "word": "अल्",
+   "verdict": "not licensed",
+   "why": "the avyaya अलम्, not the pratyāhāra अल्"
+  },
+  {
+   "n": "3.4.81",
+   "word": "झय्",
+   "verdict": "not licensed",
+   "why": "झयोः here is त-झ (the endings त and झ), not the pratyāhāra झय्"
+  },
+  {
+   "n": "3.4.91",
+   "word": "अम्",
+   "verdict": "not licensed",
+   "why": "अम् = the substitute अम् for ए, an ādeśa (substitute) name, not a pratyāhāra"
+  },
+  {
+   "n": "3.4.94",
+   "word": "अट्",
+   "verdict": "not licensed",
+   "why": "an āgama (augment), not a pratyāhāra"
+  },
+  {
+   "n": "3.4.101",
+   "word": "अम्",
+   "verdict": "not licensed",
+   "why": "अम् = one of the substitutes ताम्/तम्/त/अम्, an ādeśa (substitute) name, not a pratyāhāra"
+  },
+  {
+   "n": "3.4.107",
+   "word": "सुट्",
+   "verdict": "not licensed",
+   "why": "an āgama (augment), not a pratyāhāra"
+  },
+  {
+   "n": "4.1.1",
+   "word": "आप्",
+   "verdict": "not licensed",
+   "why": "the feminine suffixes टाप्/डाप्/चाप् taken together (सामान्यग्रहण), not a pratyāhāra",
+   "quote": {
+    "file": "ashtadhyayi-data/sutraani/kashika.txt",
+    "id": "41001",
+    "quote": "टाप्डाप्चापामाबिति"
+   }
+  },
+  {
+   "n": "4.1.2",
+   "word": "अम्",
+   "verdict": "not licensed",
+   "why": "अम् = the accusative-singular ending listed here, not the pratyāhāra"
+  },
+  {
+   "n": "4.1.2",
+   "word": "सुप्",
+   "verdict": "not licensed",
+   "why": "सुप् here is the locative-plural ending whose प् is the marker that forms the pratyāhāra; the sūtra coins it rather than uses it",
+   "quote": {
+    "file": "ashtadhyayi-data/sutraani/kashika.txt",
+    "id": "41002",
+    "quote": "पकारः सुबिति प्रत्याहारार्थः"
+   }
+  },
+  {
+   "n": "4.1.15",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.1.16",
+   "word": "यञ्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.1.78",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.1.83",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.1.89",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "4.1.101",
+   "word": "यञ्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.1.105",
+   "word": "यञ्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.1.112",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.1.156",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.1.170",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.2.29",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.2.38",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.2.40",
+   "word": "यञ्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.2.48",
+   "word": "यञ्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.2.77",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.2.100",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.2.110",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.2.132",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.2.141",
+   "word": "अक्",
+   "verdict": "not licensed",
+   "why": "अक/इक = word-endings (अकेकान्त), not pratyāhāras"
+  },
+  {
+   "n": "4.2.141",
+   "word": "इक्",
+   "verdict": "not licensed",
+   "why": "अक/इक = word-endings (अकेकान्त), not pratyāhāras"
+  },
+  {
+   "n": "4.3.2",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.3.10",
+   "word": "यञ्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.3.16",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.3.22",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.3.33",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.3.57",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.3.71",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.3.73",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.3.76",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.3.93",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.3.108",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.3.124",
+   "word": "हल्",
+   "verdict": "not licensed",
+   "why": "an ordinary noun stem (part of a list of words), not a pratyāhāra"
+  },
+  {
+   "n": "4.3.127",
+   "word": "यञ्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.3.127",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.3.132",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.3.133",
+   "word": "इक्",
+   "verdict": "not licensed",
+   "why": "इक = the segment इक of आथर्वणिक (इकलोप), not a pratyāhāra"
+  },
+  {
+   "n": "4.3.136",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.3.144",
+   "word": "शर्",
+   "verdict": "not licensed",
+   "why": "an ordinary noun stem (part of a list of words), not a pratyāhāra"
+  },
+  {
+   "n": "4.3.152",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.3.164",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.3.168",
+   "word": "यञ्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.4.4",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.4.18",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.4.25",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.4.48",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.4.56",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.4.68",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.4.80",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.4.81",
+   "word": "हल्",
+   "verdict": "not licensed",
+   "why": "an ordinary noun stem (part of a list of words), not a pratyāhāra"
+  },
+  {
+   "n": "4.4.86",
+   "word": "वश्",
+   "verdict": "not licensed",
+   "why": "वश = the noun (वशं गतः)"
+  },
+  {
+   "n": "4.4.94",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.4.97",
+   "word": "हल्",
+   "verdict": "not licensed",
+   "why": "an ordinary noun stem (part of a list of words), not a pratyāhāra"
+  },
+  {
+   "n": "4.4.112",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.4.124",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.4.126",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "4.4.138",
+   "word": "मय्",
+   "verdict": "not licensed",
+   "why": "मय = the suffix मयट्, a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "5.1.27",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "5.1.36",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "5.1.41",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "5.1.97",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "5.1.105",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "5.1.110",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "5.1.130",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "5.2.38",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "5.2.61",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "5.2.103",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "5.2.107",
+   "word": "र",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "5.2.127",
+   "word": "अच्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "5.3.56",
+   "word": "तिङ्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. तिङ्-ādi/-anta)"
+  },
+  {
+   "n": "5.3.68",
+   "word": "सुप्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. सुप्-ādi/-anta)"
+  },
+  {
+   "n": "5.3.88",
+   "word": "र",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "5.3.107",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "5.3.117",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "5.3.118",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "5.3.118",
+   "word": "यञ्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "5.4.15",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "5.4.36",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "5.4.58",
+   "word": "कृञ्",
+   "verdict": "not licensed",
+   "why": "the root कृ (कृञ्), glossed करोति/कृञो धातोः — not the pratyāhāra कृञ् of 3.1.40; Kāśikā: repeating कृञ् excludes भू/अस्",
+   "quote": {
+    "file": "ashtadhyayi-data/sutraani/kashika.txt",
+    "id": "54058",
+    "quote": "पुनः कृञ्ग्रहणं भ्वस्त्योर्निवृत्त्यर्थम्।"
+   }
+  },
+  {
+   "n": "5.4.75",
+   "word": "अच्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "5.4.118",
+   "word": "अच्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "5.4.127",
+   "word": "इच्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "6.1.20",
+   "word": "वश्",
+   "verdict": "not licensed",
+   "why": "वश् = the root वश् (वशेर्धातोः)"
+  },
+  {
+   "n": "6.1.45",
+   "word": "एच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. एच्-ādi/-anta)"
+  },
+  {
+   "n": "6.1.58",
+   "word": "झल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. झल्-ādi/-anta)"
+  },
+  {
+   "n": "6.1.58",
+   "word": "अम्",
+   "verdict": "not licensed",
+   "why": "अम् = the augment अम् (अमागम), an āgama (augment), not a pratyāhāra"
+  },
+  {
+   "n": "6.1.62",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "6.1.66",
+   "word": "वल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. वल्-ādi/-anta)"
+  },
+  {
+   "n": "6.1.68",
+   "word": "हल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. हल्-ādi/-anta)"
+  },
+  {
+   "n": "6.1.69",
+   "word": "एङ्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. एङ्-ādi/-anta)"
+  },
+  {
+   "n": "6.1.88",
+   "word": "एच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. एच्-ādi/-anta)"
+  },
+  {
+   "n": "6.1.92",
+   "word": "सुप्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. सुप्-ādi/-anta)"
+  },
+  {
+   "n": "6.1.93",
+   "word": "अम्",
+   "verdict": "not licensed",
+   "why": "अम् = the accusative-singular ending (with शस्), the case ending (सुप्) of that name, not the pratyāhāra"
+  },
+  {
+   "n": "6.1.94",
+   "word": "एङ्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. एङ्-ādi/-anta)"
+  },
+  {
+   "n": "6.1.104",
+   "word": "इच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. इच्-ādi/-anta)"
+  },
+  {
+   "n": "6.1.107",
+   "word": "अम्",
+   "verdict": "not licensed",
+   "why": "अम् = the accusative-singular ending (वृक्षम्), the case ending (सुप्) of that name, not the pratyāhāra"
+  },
+  {
+   "n": "6.1.109",
+   "word": "एङ्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. एङ्-ādi/-anta)"
+  },
+  {
+   "n": "6.1.113",
+   "word": "र",
+   "verdict": "not licensed",
+   "why": "the substitute रु, not the pratyāhāra र"
+  },
+  {
+   "n": "6.1.114",
+   "word": "हश्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. हश्-ādi/-anta)"
+  },
+  {
+   "n": "6.1.125",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "6.1.127",
+   "word": "इक्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. इक्-ādi/-anta)"
+  },
+  {
+   "n": "6.1.128",
+   "word": "अक्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अक्-ādi/-anta)"
+  },
+  {
+   "n": "6.1.132",
+   "word": "अक्",
+   "verdict": "not licensed",
+   "why": "अ-क (\"without क\"), not the pratyāhāra अक्"
+  },
+  {
+   "n": "6.1.132",
+   "word": "हल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. हल्-ādi/-anta)"
+  },
+  {
+   "n": "6.1.134",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "6.1.135",
+   "word": "सुट्",
+   "verdict": "not licensed",
+   "why": "an āgama (augment), not a pratyāhāra"
+  },
+  {
+   "n": "6.1.174",
+   "word": "हल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. हल्-ādi/-anta)"
+  },
+  {
+   "n": "6.1.180",
+   "word": "झल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. झल्-ādi/-anta)"
+  },
+  {
+   "n": "6.1.183",
+   "word": "झल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. झल्-ādi/-anta)"
+  },
+  {
+   "n": "6.1.188",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "6.1.191",
+   "word": "सुप्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. सुप्-ādi/-anta)"
+  },
+  {
+   "n": "6.1.195",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "6.2.73",
+   "word": "अक्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "6.2.75",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "6.2.144",
+   "word": "अच्",
+   "verdict": "not licensed",
+   "why": "अच् = the kṛt suffix in थ-अथ-घञ्-क्त-अच्…, a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "6.2.155",
+   "word": "अल्",
+   "verdict": "not licensed",
+   "why": "the avyaya अलम्, not the pratyāhāra अल्"
+  },
+  {
+   "n": "6.2.160",
+   "word": "उक्",
+   "verdict": "not licensed",
+   "why": "उक = the suffix उकञ्, a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "6.2.161",
+   "word": "तृन्",
+   "verdict": "not licensed",
+   "why": "तृन् = the suffix तृन् (तृन्नन्त), a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "6.3.16",
+   "word": "शर्",
+   "verdict": "not licensed",
+   "why": "an ordinary noun stem (part of a list of words), not a pratyāhāra"
+  },
+  {
+   "n": "6.3.50",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "6.3.61",
+   "word": "इक्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. इक्-ādi/-anta)"
+  },
+  {
+   "n": "6.3.63",
+   "word": "आप्",
+   "verdict": "not licensed",
+   "why": "the feminine suffixes टाप्/डाप्/चाप् taken together (सामान्यग्रहण), not a pratyāhāra",
+   "quote": {
+    "file": "ashtadhyayi-data/sutraani/kashika.txt",
+    "id": "41001",
+    "quote": "टाप्डाप्चापामाबिति"
+   }
+  },
+  {
+   "n": "6.3.68",
+   "word": "इच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. इच्-ādi/-anta)"
+  },
+  {
+   "n": "6.3.68",
+   "word": "अम्",
+   "verdict": "not licensed",
+   "why": "अम् = the augment अम्, an āgama (augment), not a pratyāhāra"
+  },
+  {
+   "n": "6.3.74",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "6.3.83",
+   "word": "हल्",
+   "verdict": "not licensed",
+   "why": "an ordinary noun stem (part of a list of words), not a pratyāhāra"
+  },
+  {
+   "n": "6.3.101",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "6.3.111",
+   "word": "अण्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अण्-ādi/-anta)"
+  },
+  {
+   "n": "6.3.118",
+   "word": "वल्",
+   "verdict": "not licensed",
+   "why": "वल = the suffix वलच्, a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "6.3.121",
+   "word": "इक्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. इक्-ādi/-anta)"
+  },
+  {
+   "n": "6.3.123",
+   "word": "इक्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. इक्-ādi/-anta)"
+  },
+  {
+   "n": "6.3.133",
+   "word": "तङ्",
+   "verdict": "not licensed",
+   "why": "तङ् = the substitute त for थ (taken when ङित्), not the pratyāhāra तङ्",
+   "quote": {
+    "file": "ashtadhyayi-data/sutraani/kashika.txt",
+    "id": "63133",
+    "quote": "तङिति थादेशस्य ङित्त्वपक्षे ग्रहणम्"
+   }
+  },
+  {
+   "n": "6.3.134",
+   "word": "इक्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. इक्-ādi/-anta)"
+  },
+  {
+   "n": "6.3.135",
+   "word": "तिङ्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. तिङ्-ādi/-anta)"
+  },
+  {
+   "n": "6.4.2",
+   "word": "हल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. हल्-ādi/-anta)"
+  },
+  {
+   "n": "6.4.11",
+   "word": "तृन्",
+   "verdict": "not licensed",
+   "why": "तृन् = the suffix तृन् (with तृच्), a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "6.4.15",
+   "word": "झल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. झल्-ādi/-anta)"
+  },
+  {
+   "n": "6.4.16",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "6.4.21",
+   "word": "र",
+   "verdict": "not licensed",
+   "why": "रेफ (the sound र् / its substitute), not the pratyāhāra र (= र्, ल्)"
+  },
+  {
+   "n": "6.4.24",
+   "word": "हल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. हल्-ādi/-anta)"
+  },
+  {
+   "n": "6.4.34",
+   "word": "हल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. हल्-ādi/-anta)"
+  },
+  {
+   "n": "6.4.37",
+   "word": "झल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. झल्-ādi/-anta)"
+  },
+  {
+   "n": "6.4.42",
+   "word": "झल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. झल्-ādi/-anta)"
+  },
+  {
+   "n": "6.4.47",
+   "word": "र",
+   "verdict": "not licensed",
+   "why": "रम् = the substitute रम्, an ādeśa (substitute) name, not a pratyāhāra"
+  },
+  {
+   "n": "6.4.49",
+   "word": "हल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. हल्-ādi/-anta)"
+  },
+  {
+   "n": "6.4.57",
+   "word": "आप्",
+   "verdict": "not licensed",
+   "why": "आप् = the root आप्लृ (प्रापय्य), not a pratyāhāra or the feminine आप्",
+   "quote": {
+    "file": "ashtadhyayi-data/sutraani/kashika.txt",
+    "id": "64057",
+    "quote": "प्रापय्य गतः, प्राप्य गतः।"
+   }
+  },
+  {
+   "n": "6.4.62",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "6.4.63",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "6.4.66",
+   "word": "हल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. हल्-ādi/-anta)"
+  },
+  {
+   "n": "6.4.71",
+   "word": "अट्",
+   "verdict": "not licensed",
+   "why": "an āgama (augment), not a pratyāhāra"
+  },
+  {
+   "n": "6.4.76",
+   "word": "र",
+   "verdict": "not licensed",
+   "why": "रे = the substitute रे, an ādeśa (substitute) name, not a pratyāhāra"
+  },
+  {
+   "n": "6.4.77",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "6.4.80",
+   "word": "अम्",
+   "verdict": "not licensed",
+   "why": "अम् = the accusative-singular ending (with शस्), the case ending (सुप्) of that name, not the pratyāhāra"
+  },
+  {
+   "n": "6.4.81",
+   "word": "इण्",
+   "verdict": "not licensed",
+   "why": "a dhātu here (Kāśikā glosses it as the verb), not a pratyāhāra"
+  },
+  {
+   "n": "6.4.81",
+   "word": "यण्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. यण्-ādi/-anta)"
+  },
+  {
+   "n": "6.4.83",
+   "word": "सुप्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. सुप्-ādi/-anta)"
+  },
+  {
+   "n": "6.4.100",
+   "word": "हल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. हल्-ādi/-anta)"
+  },
+  {
+   "n": "6.4.113",
+   "word": "हल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. हल्-ādi/-anta)"
+  },
+  {
+   "n": "6.4.135",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "6.4.138",
+   "word": "अच्",
+   "verdict": "not licensed",
+   "why": "अच् = the root अञ्च् with its न् dropped, not the pratyāhāra",
+   "quote": {
+    "file": "ashtadhyayi-data/sutraani/kashika.txt",
+    "id": "64138",
+    "quote": "अच इत्ययमञ्चतिर्लुप्तनकारो गृह्यते।"
+   }
+  },
+  {
+   "n": "6.4.150",
+   "word": "हल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. हल्-ādi/-anta)"
+  },
+  {
+   "n": "6.4.161",
+   "word": "र",
+   "verdict": "not licensed",
+   "why": "र = the substitute र for ऋ, an ādeśa (substitute) name, not a pratyāhāra"
+  },
+  {
+   "n": "6.4.164",
+   "word": "अण्",
+   "verdict": "not licensed",
+   "why": "a suffix name (Kāśikā: … प्रत्ययः), not a pratyāhāra"
+  },
+  {
+   "n": "7.1.1",
+   "word": "अक्",
+   "verdict": "not licensed",
+   "why": "अक = the substitute अक for वु, an ādeśa (substitute) name, not a pratyāhāra"
+  },
+  {
+   "n": "7.1.18",
+   "word": "आप्",
+   "verdict": "not licensed",
+   "why": "the feminine suffixes टाप्/डाप्/चाप् taken together (सामान्यग्रहण), not a pratyāhāra"
+  },
+  {
+   "n": "7.1.20",
+   "word": "जश्",
+   "verdict": "not licensed",
+   "why": "जश् = the ending जस् (with शस्), not the pratyāhāra जश्"
+  },
+  {
+   "n": "7.1.24",
+   "word": "अम्",
+   "verdict": "not licensed",
+   "why": "अम् = the substitute अम् for सु/अम्, an ādeśa (substitute) name, not a pratyāhāra"
+  },
+  {
+   "n": "7.1.27",
+   "word": "अश्",
+   "verdict": "not licensed",
+   "why": "अश् = the substitute अश् for ङस्, an ādeśa (substitute) name, not a pratyāhāra"
+  },
+  {
+   "n": "7.1.40",
+   "word": "अम्",
+   "verdict": "not licensed",
+   "why": "अम् = the substitute अम् for मिप्, not the pratyāhāra",
+   "quote": {
+    "file": "ashtadhyayi-data/sutraani/kashika.txt",
+    "id": "71040",
+    "quote": "अम् इति मिबादेशो गृह्यते।"
+   }
+  },
+  {
+   "n": "7.1.52",
+   "word": "सुट्",
+   "verdict": "not licensed",
+   "why": "an āgama (augment), not a pratyāhāra"
+  },
+  {
+   "n": "7.1.54",
+   "word": "आप्",
+   "verdict": "not licensed",
+   "why": "the feminine suffixes टाप्/डाप्/चाप् taken together (सामान्यग्रहण), not a pratyāhāra"
+  },
+  {
+   "n": "7.1.60",
+   "word": "झल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. झल्-ādi/-anta)"
+  },
+  {
+   "n": "7.1.61",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "7.1.97",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "7.1.99",
+   "word": "अम्",
+   "verdict": "not licensed",
+   "why": "an āgama (augment), not a pratyāhāra"
+  },
+  {
+   "n": "7.2.3",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "7.2.8",
+   "word": "वश्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. वश्-ādi/-anta)"
+  },
+  {
+   "n": "7.2.85",
+   "word": "हल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. हल्-ādi/-anta)"
+  },
+  {
+   "n": "7.2.89",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "7.2.100",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "7.2.100",
+   "word": "र",
+   "verdict": "not licensed",
+   "why": "रेफ (the sound र् / its substitute), not the pratyāhāra र (= र्, ल्)"
+  },
+  {
+   "n": "7.2.112",
+   "word": "आप्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. आप्-ādi/-anta)",
+   "quote": {
+    "file": "ashtadhyayi-data/sutraani/kashika.txt",
+    "id": "72112",
+    "quote": "आपीति प्रत्याहारः तृतीयैकवचनात् प्रभृति सुपः पकारेण"
+   }
+  },
+  {
+   "n": "7.2.112",
+   "word": "अक्",
+   "verdict": "not licensed",
+   "why": "अ-क (\"without क\"), not the pratyāhāra अक्"
+  },
+  {
+   "n": "7.2.113",
+   "word": "हल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. हल्-ādi/-anta)"
+  },
+  {
+   "n": "7.2.117",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "7.3.3",
+   "word": "ऐच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. ऐच्-ādi/-anta)"
+  },
+  {
+   "n": "7.3.50",
+   "word": "इक्",
+   "verdict": "not licensed",
+   "why": "इक = the substitute इक for ठ, an ādeśa (substitute) name, not a pratyāhāra"
+  },
+  {
+   "n": "7.3.51",
+   "word": "उक्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. उक्-ādi/-anta)"
+  },
+  {
+   "n": "7.3.72",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "7.3.89",
+   "word": "हल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. हल्-ādi/-anta)"
+  },
+  {
+   "n": "7.3.99",
+   "word": "अट्",
+   "verdict": "not licensed",
+   "why": "an āgama (augment), not a pratyāhāra"
+  },
+  {
+   "n": "7.3.101",
+   "word": "यञ्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. यञ्-ādi/-anta)"
+  },
+  {
+   "n": "7.3.102",
+   "word": "सुप्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. सुप्-ādi/-anta)"
+  },
+  {
+   "n": "7.3.103",
+   "word": "झल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. झल्-ādi/-anta)"
+  },
+  {
+   "n": "7.3.105",
+   "word": "आप्",
+   "verdict": "not licensed",
+   "why": "the feminine suffixes टाप्/डाप्/चाप् taken together (सामान्यग्रहण), not a pratyāhāra"
+  },
+  {
+   "n": "7.3.113",
+   "word": "आप्",
+   "verdict": "not licensed",
+   "why": "the feminine suffixes टाप्/डाप्/चाप् taken together (सामान्यग्रहण), not a pratyāhāra"
+  },
+  {
+   "n": "7.3.116",
+   "word": "आप्",
+   "verdict": "not licensed",
+   "why": "the feminine suffixes टाप्/डाप्/चाप् taken together (सामान्यग्रहण), not a pratyāhāra"
+  },
+  {
+   "n": "7.4.15",
+   "word": "आप्",
+   "verdict": "not licensed",
+   "why": "the feminine suffixes टाप्/डाप्/चाप् taken together (सामान्यग्रहण), not a pratyāhāra"
+  },
+  {
+   "n": "7.4.51",
+   "word": "र",
+   "verdict": "not licensed",
+   "why": "रेफ (the sound र् / its substitute), not the pratyāhāra र (= र्, ल्)"
+  },
+  {
+   "n": "7.4.60",
+   "word": "हल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. हल्-ādi/-anta)"
+  },
+  {
+   "n": "7.4.61",
+   "word": "खय्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. खय्-ādi/-anta)"
+  },
+  {
+   "n": "7.4.69",
+   "word": "इण्",
+   "verdict": "not licensed",
+   "why": "a dhātu here (Kāśikā glosses it as the verb), not a pratyāhāra"
+  },
+  {
+   "n": "8.1.27",
+   "word": "तिङ्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. तिङ्-ādi/-anta)"
+  },
+  {
+   "n": "8.1.28",
+   "word": "तिङ्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. तिङ्-ādi/-anta)"
+  },
+  {
+   "n": "8.1.68",
+   "word": "तिङ्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. तिङ्-ādi/-anta)"
+  },
+  {
+   "n": "8.1.69",
+   "word": "सुप्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. सुप्-ādi/-anta)"
+  },
+  {
+   "n": "8.1.71",
+   "word": "तिङ्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. तिङ्-ādi/-anta)"
+  },
+  {
+   "n": "8.2.4",
+   "word": "यण्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. यण्-ādi/-anta)"
+  },
+  {
+   "n": "8.2.18",
+   "word": "र",
+   "verdict": "not licensed",
+   "why": "रेफ (the sound र् / its substitute), not the pratyāhāra र (= र्, ल्)"
+  },
+  {
+   "n": "8.2.21",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "8.2.24",
+   "word": "र",
+   "verdict": "not licensed",
+   "why": "रेफ (the sound र् / its substitute), not the pratyāhāra र (= र्, ल्)"
+  },
+  {
+   "n": "8.2.26",
+   "word": "झल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. झल्-ādi/-anta)"
+  },
+  {
+   "n": "8.2.26",
+   "word": "झल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. झल्-ādi/-anta)"
+  },
+  {
+   "n": "8.2.37",
+   "word": "बश्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. बश्-ādi/-anta)"
+  },
+  {
+   "n": "8.2.37",
+   "word": "भष्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. भष्-ādi/-anta)"
+  },
+  {
+   "n": "8.2.39",
+   "word": "झल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. झल्-ādi/-anta)"
+  },
+  {
+   "n": "8.2.39",
+   "word": "जश्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. जश्-ādi/-anta)"
+  },
+  {
+   "n": "8.2.69",
+   "word": "र",
+   "verdict": "not licensed",
+   "why": "रेफ (the sound र् / its substitute), not the pratyāhāra र (= र्, ल्)"
+  },
+  {
+   "n": "8.2.76",
+   "word": "इक्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. इक्-ādi/-anta)"
+  },
+  {
+   "n": "8.2.77",
+   "word": "हल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. हल्-ādi/-anta)"
+  },
+  {
+   "n": "8.2.96",
+   "word": "तिङ्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. तिङ्-ādi/-anta)"
+  },
+  {
+   "n": "8.2.104",
+   "word": "तिङ्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. तिङ्-ādi/-anta)"
+  },
+  {
+   "n": "8.2.106",
+   "word": "ऐच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. ऐच्-ādi/-anta)"
+  },
+  {
+   "n": "8.2.107",
+   "word": "एच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. एच्-ādi/-anta)"
+  },
+  {
+   "n": "8.2.108",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "8.3.3",
+   "word": "अट्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अट्-ādi/-anta)"
+  },
+  {
+   "n": "8.3.5",
+   "word": "सुट्",
+   "verdict": "not licensed",
+   "why": "सुट् = the augment सुट् (सँस्स्कर्ता), an āgama (augment), not a pratyāhāra"
+  },
+  {
+   "n": "8.3.6",
+   "word": "खय्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. खय्-ādi/-anta)"
+  },
+  {
+   "n": "8.3.7",
+   "word": "छव्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. छव्-ādi/-anta)"
+  },
+  {
+   "n": "8.3.9",
+   "word": "अट्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अट्-ādi/-anta)"
+  },
+  {
+   "n": "8.3.14",
+   "word": "र",
+   "verdict": "not licensed",
+   "why": "रेफ (the sound र् / its substitute), not the pratyāhāra र (= र्, ल्)"
+  },
+  {
+   "n": "8.3.14",
+   "word": "र",
+   "verdict": "not licensed",
+   "why": "रेफ (the sound र् / its substitute), not the pratyāhāra र (= र्, ल्)"
+  },
+  {
+   "n": "8.3.15",
+   "word": "खर्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. खर्-ādi/-anta)"
+  },
+  {
+   "n": "8.3.16",
+   "word": "र",
+   "verdict": "not licensed",
+   "why": "the substitute रु, not the pratyāhāra र"
+  },
+  {
+   "n": "8.3.16",
+   "word": "सुप्",
+   "verdict": "not licensed",
+   "why": "सुप् = the locative-plural ending, not the pratyāhāra",
+   "quote": {
+    "file": "ashtadhyayi-data/sutraani/kashika.txt",
+    "id": "83016",
+    "quote": "सुपीति सप्तमीबहुवचनं गृह्यते।"
+   }
+  },
+  {
+   "n": "8.3.17",
+   "word": "अश्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अश्-ādi/-anta)"
+  },
+  {
+   "n": "8.3.22",
+   "word": "हल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. हल्-ādi/-anta)"
+  },
+  {
+   "n": "8.3.24",
+   "word": "झल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. झल्-ādi/-anta)"
+  },
+  {
+   "n": "8.3.28",
+   "word": "शर्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. शर्-ādi/-anta)"
+  },
+  {
+   "n": "8.3.32",
+   "word": "ङम्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. ङम्-ādi/-anta)"
+  },
+  {
+   "n": "8.3.32",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "8.3.36",
+   "word": "शर्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. शर्-ādi/-anta)"
+  },
+  {
+   "n": "8.3.58",
+   "word": "शर्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. शर्-ādi/-anta)"
+  },
+  {
+   "n": "8.3.70",
+   "word": "सुट्",
+   "verdict": "not licensed",
+   "why": "सुट् = the augment सुट् (in the root list), an āgama (augment), not a pratyāhāra"
+  },
+  {
+   "n": "8.3.78",
+   "word": "इण्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. इण्-ādi/-anta)"
+  },
+  {
+   "n": "8.3.88",
+   "word": "सुप्",
+   "verdict": "not licensed",
+   "why": "सुपि = the root स्वप् after संप्रसारण, not the pratyāhāra सुप्",
+   "quote": {
+    "file": "ashtadhyayi-data/sutraani/kashika.txt",
+    "id": "83088",
+    "quote": "सुपीति स्वपिः कृतसंप्रसारणो गृह्यते।"
+   }
+  },
+  {
+   "n": "8.4.2",
+   "word": "अट्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अट्-ādi/-anta)"
+  },
+  {
+   "n": "8.4.5",
+   "word": "शर्",
+   "verdict": "not licensed",
+   "why": "an ordinary noun stem (part of a list of words), not a pratyāhāra"
+  },
+  {
+   "n": "8.4.29",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "8.4.31",
+   "word": "हल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. हल्-ādi/-anta)"
+  },
+  {
+   "n": "8.4.31",
+   "word": "इच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. इच्-ādi/-anta)"
+  },
+  {
+   "n": "8.4.45",
+   "word": "यर्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. यर्-ādi/-anta)"
+  },
+  {
+   "n": "8.4.46",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "8.4.49",
+   "word": "शर्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. शर्-ādi/-anta)"
+  },
+  {
+   "n": "8.4.49",
+   "word": "अच्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अच्-ādi/-anta)"
+  },
+  {
+   "n": "8.4.53",
+   "word": "झल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. झल्-ādi/-anta)"
+  },
+  {
+   "n": "8.4.53",
+   "word": "जश्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. जश्-ādi/-anta)"
+  },
+  {
+   "n": "8.4.53",
+   "word": "झश्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. झश्-ādi/-anta)"
+  },
+  {
+   "n": "8.4.54",
+   "word": "चर्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. चर्-ādi/-anta)"
+  },
+  {
+   "n": "8.4.57",
+   "word": "अण्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अण्-ādi/-anta)"
+  },
+  {
+   "n": "8.4.58",
+   "word": "यय्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. यय्-ādi/-anta)"
+  },
+  {
+   "n": "8.4.63",
+   "word": "अट्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. अट्-ādi/-anta)"
+  },
+  {
+   "n": "8.4.64",
+   "word": "हल्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. हल्-ādi/-anta)"
+  },
+  {
+   "n": "8.4.64",
+   "word": "यम्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. यम्-ādi/-anta)"
+  },
+  {
+   "n": "8.4.64",
+   "word": "यम्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. यम्-ādi/-anta)"
+  },
+  {
+   "n": "8.4.65",
+   "word": "झर्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. झर्-ādi/-anta)"
+  },
+  {
+   "n": "8.4.65",
+   "word": "झर्",
+   "verdict": "licensed",
+   "why": "pratyāhāra here: stands for the sounds/endings from its first member to the marker (Kāśikā glosses it as such, e.g. झर्-ādi/-anta)"
+  }
+ ],
+ "1.1.60": [
+  {
+   "n": "1.1.60",
+   "word": "लोप",
+   "verdict": "not licensed",
+   "why": "this is the defining sūtra itself; a saṃjñā-sūtra is not its own paribhāṣā"
+  },
+  {
+   "n": "3.4.99",
+   "word": "लोप",
+   "verdict": "licensed",
+   "why": "the technical term लोप is in force here (carried from 3.4.97) and our vṛtti reads it as लोप"
+  },
+  {
+   "n": "4.1.134",
+   "word": "लोप",
+   "verdict": "licensed",
+   "why": "the technical term लोप is in force here (carried from 4.1.133) and our vṛtti reads it as लोप"
+  },
+  {
+   "n": "4.3.133",
+   "word": "लोप",
+   "verdict": "licensed",
+   "why": "the technical term लोप is in force here (stated in the sūtra) and our vṛtti reads it as लोप"
+  },
+  {
+   "n": "5.4.1",
+   "word": "लोप",
+   "verdict": "licensed",
+   "why": "the technical term लोप is in force here (stated in the sūtra) and our vṛtti reads it as लोप"
+  },
+  {
+   "n": "6.1.68",
+   "word": "लोप",
+   "verdict": "unsure",
+   "why": "Kāśikā says लोप carried here is taken in its worldly, karma-sādhana sense (लुप्यत इति लोपः), not as the technical adarśana-saṃjñā",
+   "quote": {
+    "file": "ashtadhyayi-data/sutraani/kashika.txt",
+    "id": "61068",
+    "quote": "तदिह लौकिकेनार्थेनार्थवत् कर्मसाधनं द्रष्टव्यम्।"
+   }
+  },
+  {
+   "n": "6.1.134",
+   "word": "लोप",
+   "verdict": "licensed",
+   "why": "the technical term लोप is in force here (stated in the sūtra) and our vṛtti reads it as लोप"
+  },
+  {
+   "n": "6.4.39",
+   "word": "लोप",
+   "verdict": "licensed",
+   "why": "the technical term लोप is in force here (carried from 6.4.37) and our vṛtti reads it as लोप"
+  },
+  {
+   "n": "6.4.53",
+   "word": "लोप",
+   "verdict": "licensed",
+   "why": "the technical term लोप is in force here (carried from 6.4.48) and our vṛtti reads it as लोप"
+  },
+  {
+   "n": "6.4.54",
+   "word": "लोप",
+   "verdict": "licensed",
+   "why": "the technical term लोप is in force here (carried from 6.4.48) and our vṛtti reads it as लोप"
+  },
+  {
+   "n": "7.4.4",
+   "word": "लोप",
+   "verdict": "licensed",
+   "why": "the technical term लोप is in force here (stated in the sūtra) and our vṛtti reads it as लोप"
+  },
+  {
+   "n": "8.1.45",
+   "word": "लोप",
+   "verdict": "licensed",
+   "why": "the technical term लोप is in force here (stated in the sūtra) and our vṛtti reads it as लोप"
+  },
+  {
+   "n": "8.2.27",
+   "word": "लोप",
+   "verdict": "licensed",
+   "why": "the technical term लोप is in force here (carried from 8.2.23) and our vṛtti reads it as लोप"
+  }
+ ],
+ "2.1.1": [
+  {
+   "n": "2.1.3",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "samāsa adhikāra; every samāsa it heads is a pada-vidhi under 2.1.1 (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.1.9",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.1.10",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.1.12",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.1.13",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.1.14",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.1.18",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.1.21",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.1.23",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "names a samāsa (saṃjñā of a compound), within the samāsa pada-vidhi"
+  },
+  {
+   "n": "2.1.41",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.1.42",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.1.43",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.1.44",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.1.48",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.1.49",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.1.50",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.1.51",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.1.52",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "names a samāsa (saṃjñā of a compound), within the samāsa pada-vidhi"
+  },
+  {
+   "n": "2.1.53",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.1.54",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.1.55",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.1.56",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.1.58",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.1.59",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.1.69",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.1.71",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.2.2",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.2.3",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.2.4",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.2.5",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.2.7",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.2.10",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "restricts/prohibits a samāsa (its limits) — a pada-vidhi"
+  },
+  {
+   "n": "2.2.20",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "restricts/prohibits a samāsa (its limits) — a pada-vidhi"
+  },
+  {
+   "n": "2.2.21",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.2.22",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.2.25",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.2.26",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.2.27",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.2.28",
+   "word": "समर्थः पदविधिः",
+   "verdict": "licensed",
+   "why": "teaches a samāsa — a pada-vidhi governed by samartha (Kāśikā 2.1.1: स पुनः समासादिः)"
+  },
+  {
+   "n": "2.2.30",
+   "word": "समर्थः पदविधिः",
+   "verdict": "unsure",
+   "why": "pūrvanipāta rule: orders the members of an already-formed samāsa rather than teaching one; no vendored commentary (Kāśikā, Nyāsa, Padamañjarī, Bhāṣya, SK) reads samartha into it"
+  },
+  {
+   "n": "2.2.32",
+   "word": "समर्थः पदविधिः",
+   "verdict": "unsure",
+   "why": "pūrvanipāta rule: orders the members of an already-formed samāsa rather than teaching one; no vendored commentary (Kāśikā, Nyāsa, Padamañjarī, Bhāṣya, SK) reads samartha into it"
+  },
+  {
+   "n": "2.2.33",
+   "word": "समर्थः पदविधिः",
+   "verdict": "unsure",
+   "why": "pūrvanipāta rule: orders the members of an already-formed samāsa rather than teaching one; no vendored commentary (Kāśikā, Nyāsa, Padamañjarī, Bhāṣya, SK) reads samartha into it"
+  },
+  {
+   "n": "2.2.34",
+   "word": "समर्थः पदविधिः",
+   "verdict": "unsure",
+   "why": "pūrvanipāta rule: orders the members of an already-formed samāsa rather than teaching one; no vendored commentary (Kāśikā, Nyāsa, Padamañjarī, Bhāṣya, SK) reads samartha into it"
+  },
+  {
+   "n": "2.2.35",
+   "word": "समर्थः पदविधिः",
+   "verdict": "unsure",
+   "why": "pūrvanipāta rule: orders the members of an already-formed samāsa rather than teaching one; no vendored commentary (Kāśikā, Nyāsa, Padamañjarī, Bhāṣya, SK) reads samartha into it"
+  },
+  {
+   "n": "2.2.36",
+   "word": "समर्थः पदविधिः",
+   "verdict": "unsure",
+   "why": "pūrvanipāta rule: orders the members of an already-formed samāsa rather than teaching one; no vendored commentary (Kāśikā, Nyāsa, Padamañjarī, Bhāṣya, SK) reads samartha into it"
+  },
+  {
+   "n": "2.2.37",
+   "word": "समर्थः पदविधिः",
+   "verdict": "unsure",
+   "why": "pūrvanipāta rule: orders the members of an already-formed samāsa rather than teaching one; no vendored commentary (Kāśikā, Nyāsa, Padamañjarī, Bhāṣya, SK) reads samartha into it"
+  },
+  {
+   "n": "2.2.38",
+   "word": "समर्थः पदविधिः",
+   "verdict": "unsure",
+   "why": "pūrvanipāta rule: orders the members of an already-formed samāsa rather than teaching one; no vendored commentary (Kāśikā, Nyāsa, Padamañjarī, Bhāṣya, SK) reads samartha into it"
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "pid": "PIS 18",
+ "generated": "2026-11-20",
+ "input": "audit/PIS 18-firings.json",
+ "totals": {
+  "firings": 1,
+  "licensed": 1,
+  "not_licensed": 0,
+  "unsure": 0,
+  "groups": {
+   "licensed": 1,
+   "not licensed": 0,
+   "mixed": 0,
+   "unsure": 0
+  },
+  "not_licensed_by_should_be": {},
+  "not_licensed_by_reason": {},
+  "quotes": 6
+ },
+ "conditions": [
+  {
+   "text": "C1 — PIS 18 क्वचिदेकदेशोऽप्यनुवर्तते: sometimes only part of an earlier word is carried on. Śekhara cites Bhāṣya at 4.1.27 and 6.1.93.",
+   "quotes": [
+    {
+     "file": "paribhashendushekhar",
+     "id": "18",
+     "quote": "क्वचिदेकदेशोऽप्यनुवर्तते"
+    },
+    {
+     "file": "paribhashendushekhar",
+     "id": "18",
+     "quote": "स्पष्टा चेयम् <<दामहायनान्ताच्च>> [[4.1.27]] इति सूत्रे <<औतोऽम्शसोः>> [[6.1.93]] इति सूत्रे च भाष्ये पूर्वा च॥"
+    }
+   ]
+  },
+  {
+   "text": "C2 — At 6.1.131 Kāśikā says only \"पद\" of पदान्तात् (6.1.109) is carried.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "61131",
+     "quote": "<<एङः पदान्तादति>> [[६.१.१०९]] इत्यतः पदग्रहणमनुवर्तते।"
+    },
+    {
+     "file": "kashika",
+     "id": "61131",
+     "quote": "दिवः पदस्योकारादेशो भवति।"
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | ādeśa | X (… from …, 6.1.109)",
+   "verdict": "licensed",
+   "how_checked": "Kāśikā on 6.1.131.",
+   "licensed": [
+    "6.1.131"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "licensed 1 · not licensed 0 · unsure 0 — Licensed: Kāśikā — only \"पद\" of पदान्तात् (6.1.109) runs on (\"दिवः पदस्य\")."
+  }
+ ],
+ "missed": [
+  {
+   "n": "4.1.27",
+   "pid": "PIS 18",
+   "why": "Named by the Śekhara itself as a Bhāṣya instance of PIS 18; no credit (also 6.1.93).",
+   "quotes": [
+    {
+     "file": "paribhashendushekhar",
+     "id": "18",
+     "quote": "स्पष्टा चेयम् <<दामहायनान्ताच्च>> [[4.1.27]] इति सूत्रे <<औतोऽम्शसोः>> [[6.1.93]] इति सूत्रे च भाष्ये पूर्वा च॥"
+    }
+   ]
+  },
+  {
+   "n": "6.1.93",
+   "pid": "PIS 18",
+   "why": "As above.",
+   "quotes": [
+    {
+     "file": "paribhashendushekhar",
+     "id": "18",
+     "quote": "स्पष्टा चेयम् <<दामहायनान्ताच्च>> [[4.1.27]] इति सूत्रे <<औतोऽम्शसोः>> [[6.1.93]] इति सूत्रे च भाष्ये पूर्वा च॥"
+    }
+   ]
+  }
+ ]
+}

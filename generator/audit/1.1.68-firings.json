@@ -1,0 +1,1313 @@
+{
+ "pid": "1.1.68",
+ "howGrouped": "case of the triggering word (own sūtra words only) | rule kind | start of the engine trigger text; member = \"<sūtra> <word>  ⟨engine effect⟩\"",
+ "applies": 510,
+ "consideredNotApplicable": 0,
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | vidhi | X",
+   "count": 243,
+   "sutras": [
+    "3.1.14 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.1.15 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.1.16 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.1.19 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.1.20 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.1.21 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.2.19 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.2.22 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.2.40 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.2.95 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.2.96 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.2.120 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.2.121 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.2.122 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.2.143 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.3.27 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.3.31 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.3.37 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.3.83 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.3.84 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.3.143 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.4.13 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.4.44 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.4.58 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.4.60 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.4.63 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.4.64 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.1.31 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.1.68 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.1.72 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.1.85 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.1.87 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.1.106 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.1.109 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.1.115 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.1.116 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.1.118 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.1.119 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.1.124 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.1.127 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.1.128 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.1.129 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.1.140 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.1.144 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.1.145 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.1.150 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.1.152 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.1.168 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.1.172 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.1.173 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.1.175 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.8 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.12 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.18 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.22 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.25 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.26 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.30 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.33 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.35 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.40 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.41 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.43 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.83 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.84 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.87 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.88 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.89 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.93 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.94 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.99 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.102 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.108 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.128 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.129 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.130 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.131 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.135 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.136 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.140 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.144 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.2.145 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.4 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.8 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.9 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.14 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.15 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.21 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.22 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.29 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.30 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.32 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.33 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.35 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.42 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.45 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.46 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.49 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.58 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.65 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.97 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.98 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.100 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.107 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.108 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.109 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.111 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.114 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.128 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.132 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.133 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.160 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.162 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.4.4 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.4.6 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.4.7 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.4.9 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.4.14 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.4.17 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.4.18 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.4.40 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.4.42 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.4.46 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.4.52 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.4.54 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.4.56 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.4.58 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.4.67 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.4.68 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.4.90 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.4.96 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.4.120 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.4.133 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.4.137 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.4.138 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.4.141 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.11 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.13 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.14 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.26 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.39 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.40 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.43 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.46 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.49 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.51 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.59 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.61 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.62 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.65 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.68 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.69 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.81 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.83 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.84 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.85 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.90 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.98 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.100 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.102 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.103 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.104 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.106 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.110 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.114 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.1.136 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.2 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.8 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.13 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.25 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.28 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.31 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.33 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.35 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.38 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.39 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.41 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.54 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.75 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.98 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.99 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.102 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.103 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.106 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.108 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.109 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.113 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.120 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.123 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.124 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.133 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.134 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.3.24 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.3.25 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.3.26 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.3.28 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.3.34 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.3.35 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.3.36 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.3.52 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.3.89 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.3.90 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.3.93 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.3.94 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.3.101 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.3.102 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.3.105 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.3.109 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.6 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.13 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.16 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.18 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.20 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.25 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.26 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.27 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.28 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.30 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.31 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.32 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.33 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.35 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.36 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.37 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.60 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.62 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.63 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.64 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.65 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.66 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.67 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.70 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.87 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.89 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.90 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.96 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.100 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.101 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.102 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.130 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.136 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.137 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.139 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.14",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "कष्टाय क्रमणे",
+     "ourVrtti": "चतुर्थीसमर्थात् कष्टशब्दात् क्रमणे अनार्जवेऽर्थे क्यङ् प्रत्ययः परः च भवति",
+     "kashika": "कष्टशब्दाच् चतुर्थीसमर्थात् क्रमणेऽर्थेऽनार्जवे क्यङ्  प्रत्ययो भवति।",
+     "prathamavrtti": "चतुर्थीसमर्थात् कष्टशब्दात् क्रमणे=अनार्जवेऽर्थे वर्त्तमानात् क्यङ् प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "4.2.145",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "कृकणपर्णाद्भारद्वाजे",
+     "ourVrtti": "भारद्वाजदेशवाचिभ्याम् कृकणपर्णशब्दाभ्याम् समर्थात् छः प्रत्ययः परः च भवति",
+     "kashika": "कृकणपर्णशब्दाभ्यां भारद्वाजदेशवाचिभ्यां छः प्रत्ययो भवति शैषिकः।",
+     "prathamavrtti": "भारद्वाजदेशवाचिभ्यां क्रुकणपर्णशब्दाभ्यां शैषिकश्छः प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "5.1.106",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "छन्दसि घस्",
+     "ourVrtti": "छन्दसि विषये ऋतुशब्दात् प्रथमासमर्थात् अस्य इति अर्थे प्राप्तम् इत्यर्थे घस् प्रत्ययः परः च भवति",
+     "kashika": "ऋतुशब्दाच् छन्दसि विषये घस् प्रत्ययो भवति तदस्य प्राप्तमित्यस्मिन् विषये।",
+     "prathamavrtti": "ऋतुशब्दात् छन्दसि विषये घस् प्रत्ययो भवति, तदस्य प्राप्तमित्येतस्मिन् विषये ॥"
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "group": "carried / not a sūtra word | svara | X",
+   "count": 76,
+   "sutras": [
+    "2.4.32 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "2.4.34 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.1.38 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.44 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.1.117 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.1.118 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.1.119 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.1.121 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.1.124 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.1.184 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.1.191 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.1.201 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.1.202 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.1.204 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.1.207 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.1.208 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.1.213 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.5 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.7 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.8 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.9 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.13 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.17 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.18 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.19 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.20 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.22 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.26 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.27 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.28 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.30 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.44 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.55 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.56 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.58 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.59 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.60 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.62 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.63 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.67 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.68 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.70 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.78 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.84 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.90 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.91 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.93 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.99 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.100 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.101 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.102 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.103 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.105 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.106 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.112 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.113 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.115 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.124 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.125 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.132 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.133 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.154 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.162 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.163 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.164 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.171 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.175 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.179 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.180 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.181 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.190 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.196 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.198 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.2.199 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "8.2.87 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "8.2.93 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.4.32",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "इदमोऽन्वादेशेऽशनुदात्तस्तृतीयादौ",
+     "ourVrtti": "अन्वादेशे विषये तृतीयादौ विभक्तौ परे इदंशब्दस्य स्थाने अश् आदेशः अनुदात्तः भवति",
+     "kashika": "इदमोऽन्वादेशविषयस्याशादेशो भवत्यनुदात्तस्तृतीयादौ विभक्तौ परतः।",
+     "prathamavrtti": "अन्वादेशे वर्त्तमानस्य इदंशब्दस्य तृतीयादौ विभक्तौ परतः अनुदात्तः 'अश्' आदेशो भवति ॥"
+    },
+    {
+     "n": "6.2.20",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "वा भुवनम्",
+     "ourVrtti": "पतिशब्दे उत्तरपदे पूर्वपदम् भुवनशब्दः ऐश्वर्यवाचिनि विकल्पेन प्रकृत्या भवति",
+     "kashika": "पतिशब्द उत्तरपद ऐश्वर्यवाचिनि तत्पुरुषे समासे भुवनशब्दः पूर्वपदं वा प्रकृतिस्वरं भवति।",
+     "prathamavrtti": "ऐश्वर्यवाचिनि तत्पुरुषे समासे पतिशब्द उत्तरपदे भुवनशब्दः पूर्वपदं प्रकृतिस्वरं भवति॥"
+    },
+    {
+     "n": "6.2.102",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "कुसूलकूपकुम्भशालं बिले",
+     "ourVrtti": "बिलशब्दे उत्तरपदे पूर्वपदानि अन्तः कुसूल कूप कुम्भ शाला इत्येतानि पूर्वपदानि उदात्तः भवति",
+     "kashika": "कुसूल कूप कुम्भ शाला इत्येतानि पूर्वपदानि  बिलशब्द उत्तरपदेऽन्तोदात्तानि भवन्ति।",
+     "prathamavrtti": "कुसूल, कूप, कुम्भ, शाला इत्येतानि पूर्वपदानि बिलशब्द उत्तरपदे अन्तोदात्तानि भवन्ति॥"
+    }
+   ]
+  },
+  {
+   "id": "G3",
+   "group": "carried / not a sūtra word | ādeśa | X",
+   "count": 58,
+   "sutras": [
+    "1.2.50 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.1.60 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.1.61 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.1.62 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.1.63 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.1.64 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.1.65 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.1.66 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.4.88 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.1.33 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.32 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.3.44 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.3.60 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.3.61 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.3.62 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.19 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.88 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.129 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.135 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.1.61 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.48 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.49 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.54 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.55 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.58 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.59 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.70 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.71 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.72 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.76 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.77 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.78 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.79 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.80 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.81 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.83 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.99 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.103 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.106 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.107 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.108 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.110 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.4.84 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "7.1.26 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "7.1.46 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "7.1.96 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "7.1.97 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "7.2.84 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "7.3.5 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "8.2.22 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "8.2.37 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "8.2.38 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "8.3.10 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "8.3.11 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "8.3.42 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "8.3.47 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "8.3.49 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "8.3.51 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.2.50",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "इद्गोण्याः",
+     "ourVrtti": "तद्धितलुकि सति गोणीशब्दस्य स्थाने इकारादेशः भवति",
+     "kashika": "गोण्यास्तद्धितलुकि सतीकारादेशो भवति।",
+     "prathamavrtti": "तद्धितलुकि सति गोणीशब्दस्येकारादेशो भवति ॥"
+    },
+    {
+     "n": "6.1.61",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "ये च तद्धिते",
+     "ourVrtti": "यकारादौ तद्धिते परे शिरःशब्दस्य स्थाने शीर्षन् आदेशः भवति",
+     "kashika": "यकारादौ तद्धिते परतः शिरः शब्दस्य शीर्षन्नादेशो भवति।",
+     "prathamavrtti": "यका- रादौ तद्धिते परतः शिरःशब्दस्य शीर्षन्नादेशो भवति । आदेशोऽयमिष्यते शिरःशब्दस्य¹ ॥"
+    },
+    {
+     "n": "6.3.106",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "विभाषा पुरुषे",
+     "ourVrtti": "पुरुषशब्दे उत्तरपदे कोः स्थाने विकल्पेन का आदेशः भवति",
+     "kashika": "पुरुषशब्द उत्तरपदे विभाषा कोः का इत्ययमादेशो भवति।",
+     "prathamavrtti": "पुरुषशब्द उत्तरपदे कोः का इत्ययमादेशो विकल्पेन भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G4",
+   "group": "carried / not a sūtra word | operation | X",
+   "count": 31,
+   "sutras": [
+    "2.4.65 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.55 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.138 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.147 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.148 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.149 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.150 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.1.14 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.1.151 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.8 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.13 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.19 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.22 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.62 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.115 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.121 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.123 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.127 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.128 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.129 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.132 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.4.13 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.4.49 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.4.133 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.4.141 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.4.142 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "7.3.15 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "7.3.16 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "7.3.30 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "8.3.21 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "8.4.48 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.4.65",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "अत्रिभृगुकुत्सवसिष्ठगोतमाङ्गिरोभ्यश्च",
+     "ourVrtti": "तेनैव कृते बहुत्वे अस्त्रीलिङ्गस्य अत्रि-भृगु-कुत्स-वसिष्ठ-गोतम-अङ्गिरस्-शब्देभ्यः प्रत्ययस्य स्थाने गोत्रे बहुषु अर्थेषु लुक् भवति",
+     "kashika": "अत्र्यादिभ्यः परस्य गोत्रप्रत्ययस्य बहुषु लुग् भवति।",
+     "prathamavrtti": "अत्रि, भृगु, कुत्स, वसिष्ठ, गोतम, अङ्गिरस् इत्येतेभ्यः शब्देभ्यो गोत्रे विहितस्य प्रत्ययस्य तत्कृतबहुवचने लुग् भवति, स्त्रीलिङ्गं विहाय ॥"
+    },
+    {
+     "n": "6.3.13",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "बन्धे च विभाषा",
+     "ourVrtti": "बन्धशब्दे उत्तरपदे हलदन्ताद् उत्तरस्याः सप्तम्याः विभाषा अलुक् भवति",
+     "kashika": "तस्मिन्नुत्तरपदे हलदन्तादुत्तरस्याः सप्तम्या विभाषालुग् भवति।",
+     "prathamavrtti": "बन्धशब्द उत्तरपदे हलदन्तादुत्तरस्याः सप्तम्या विभाषाऽलुग् भवति॥"
+    },
+    {
+     "n": "6.3.132",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "ओषधेश्च विभक्तावप्रथमायाम्",
+     "ourVrtti": "मन्त्रविषये अप्रथमायाम् विभक्तौ परे ओषधिशब्दस्य स्थाने दीर्घः आदेशः भवति",
+     "kashika": "ओषधिशब्दस्य विभक्त ावप्रथमायां परतो दीर्घो भवति।",
+     "prathamavrtti": "अप्रथमायां विभक्तौ परत ओषधिशब्दस्य दीर्घो भवति मन्त्रविषये ॥"
+    }
+   ]
+  },
+  {
+   "id": "G5",
+   "group": "carried / not a sūtra word | nipātana | X",
+   "count": 22,
+   "sutras": [
+    "2.4.30 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.1.130 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.1.132 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "3.2.26 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.1.35 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.14 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.22 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.23 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.90 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.92 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.93 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.105 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.114 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.126 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.3.104 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.4.40 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.1.36 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.1.62 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.1.154 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.32 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.4.175 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "7.4.34 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.4.30",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "अपथं नपुंसकम्",
+     "ourVrtti": "तत्पुरुषः अपथशब्दः नपुंसकलिङ्गो भवति",
+     "kashika": "अपथशब्दो नपुंसकलिङ्गो भवति।",
+     "prathamavrtti": "अपथशब्दो नपुंसकलिङ्गो भवति ॥"
+    },
+    {
+     "n": "5.2.23",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "हैयंगवीनं संज्ञायाम्",
+     "ourVrtti": "हियङ्गु-आदेशः ह्योगोदोहशब्दस्य स्थाने खञ्-प्रत्ययः हैयङ्गवीनम् इति निपात्यते संज्ञायां विषये तस्य विकारे अर्थे",
+     "kashika": "हैयङ्गवीनं निपात्यते संज्ञायां विषये।",
+     "prathamavrtti": "संज्ञायां विषये हैयङ्गवीनमिति निपात्यते। ह्योगोदोहशब्दस्य स्थाने हियङ्गु आदेशः खञ् प्रत्ययश्च तस्य विकारेऽर्थे निपात्यते॥"
+    },
+    {
+     "n": "5.3.104",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "द्रव्यं च भव्ये",
+     "ourVrtti": "द्रव्यम् (द्रुशब्दात् इवार्थे यत्-प्रत्ययः) इति निपात्यते भव्ये वाच्ये",
+     "kashika": "द्रव्यशब्दो निपात्यते भव्येऽभिधेये।",
+     "prathamavrtti": "द्रव्यशब्दो निपात्यते, भव्ये अभिधेये। किन्निपात्यते ? द्रुशब्दाद्यत् प्रत्ययो निपात्यते भव्येऽभिधेये॥"
+    }
+   ]
+  },
+  {
+   "id": "G6",
+   "group": "carried / not a sūtra word | saṃjñā | X",
+   "count": 11,
+   "sutras": [
+    "1.1.23 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "1.1.35 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "1.1.36 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "1.4.8 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "1.4.9 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "1.4.92 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "1.4.94 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "1.4.95 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "1.4.96 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "1.4.97 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "1.4.98 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.1.23",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "बहुगणवतुडति संख्या",
+     "ourVrtti": "बहु-गण-शब्दौ वतु-डति-प्रत्ययान्तौ च शब्दौ 'संख्या' इति संज्ञा भवति",
+     "kashika": "बहु गण वतु डति इत्येते संख्यासंज्ञा भवन्ति।",
+     "prathamavrtti": "बहुगणशब्दौ, वतुडतिप्रत्ययान्तौ च शब्दौ संख्या-संज्ञका भवन्ति॥"
+    },
+    {
+     "n": "1.4.8",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "पतिः समास एव",
+     "ourVrtti": "समासे एव पतिशब्दः 'घिसंज्ञकः' इति संज्ञा भवति",
+     "kashika": "पतिशब्दः समास एव घिसंज्ञो भवति।",
+     "prathamavrtti": "पतिशब्दस्य शेषत्वात् पूर्वेण सूत्रेण सर्वत्र घि संज्ञा सिद्धैव, अत्र नियमः क्रियते। समासे एव पतिशब्दस्य घि संज्ञा स्यात्, नान्यत्र॥"
+    },
+    {
+     "n": "1.4.94",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "सुः पूजायाम्",
+     "ourVrtti": "सुशब्दः पूजायाम् अर्थे 'कर्मप्रवचनीयसंज्ञः' इति संज्ञा भवति",
+     "kashika": "सुशब्दः पूजायामर्थे कर्मप्रवचनीयसंज्ञो भवति।",
+     "prathamavrtti": "सुशब्दः पूजायामर्थे कर्मप्रवचनीयसंज्ञको निपातसंज्ञकश्च भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G7",
+   "group": "carried / not a sūtra word | samāsa | X",
+   "count": 9,
+   "sutras": [
+    "2.1.10 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "2.1.18 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "2.1.26 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "2.1.39 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "2.1.56 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "2.1.63 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "2.1.67 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "2.1.70 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "2.2.2 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.1.10",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "अक्षशलाकासंख्याः परिणा",
+     "ourVrtti": "अक्षशब्दः शलाकाशब्दः संख्याशब्दश्च परिणा सह 'अव्ययीभावः' इति संज्ञा 'समासः' इति संज्ञा भवति",
+     "kashika": "अक्षशब्दः शलाकाशब्दः संख्याशब्दश्च परिणा सह समस्यन्ते, अव्ययीभावश्च समासो भवति।",
+     "prathamavrtti": "अक्षशब्दः शलाका शब्दः संख्याशब्दाश्च परिशब्देन सह समस्यन्ते, अव्ययीभावश्च समासो भवति ॥"
+    },
+    {
+     "n": "2.1.39",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "स्तोकान्तिकदूरार्थकृच्छ्राणि क्तेन",
+     "ourVrtti": "पञ्चम्यन्ताः स्तोकान्तिकदूरार्थकृच्छ्रशब्दाः क्तान्तेन सह विकल्पेन 'तत्पुरुषः' इति संज्ञा भवति",
+     "kashika": "स्तोक अन्तिक दूर इत्येवमर्थाः शब्दाः कृच्छ्रशब्दश्च पञ्चम्यन्ताः क्तान्तेन सह समस्यन्ते, तत्पुरुषश्च समासो भवति।",
+     "prathamavrtti": "स्तोक, अन्तिक, दूर इत्येवमर्थाः शब्दाः कृच्छ्रशब्दश्च पञ्चम्यन्ताः क्तान्तेन समर्थेन सुबन्तेन सह विकल्पेन समस्यन्ते, तत्पुरुषश्च समासो भवति ॥"
+    },
+    {
+     "n": "2.1.67",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "युवा खलतिपलितवलिनजरतीभिः",
+     "ourVrtti": "समानाधिकरणैः युवशब्दः खलत्यादिभिः सुबन्तैः सह 'तत्पुरुषः' इति संज्ञा भवति",
+     "kashika": "खलत्यादिभिः समानाधिकरणैः सह युवशब्दः समस्यते, तत्पुरुषश्च समासो भवति।",
+     "prathamavrtti": "युवशब्दः खलति, पलित, वलिन, जरती इत्येतैः समानाधिकरणैः सुबन्तैः सह समस्यते, तत्पुरुषश्च समासो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G8",
+   "group": "carried / not a sūtra word | āgama | X",
+   "count": 9,
+   "sutras": [
+    "4.1.32 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "4.3.138 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.2.129 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.100 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "7.1.51 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "7.1.55 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "7.1.57 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "7.2.11 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "7.2.25 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩"
+   ],
+   "samples": [
+    {
+     "n": "4.1.32",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "अन्तर्वत्पतिवतोर्नुक्",
+     "ourVrtti": "अन्तर्वत्-पतिवत्-शब्दाभ्याम् स्त्रियाम् नुक् आगमः ङीप् प्रत्ययः भवति",
+     "kashika": "प्रकृतिर्निपात्यते, नुगागमस्तु विधीयते।",
+     "prathamavrtti": "अन्तर्वत् पतिवत् शब्दाभ्यां स्त्रियां ङीप् प्रत्ययो भवति तयोश्च नुक् आगमो भवति ङीप् सन्नियोगेन॥"
+    },
+    {
+     "n": "6.3.100",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "अर्थे विभाषा",
+     "ourVrtti": "अर्थशब्दे उत्तरपदे अषष्ठीस्थस्य अतृतीयास्थस्य अन्यस्य विकल्पेन दुक् आगमः भवति",
+     "kashika": "अर्थशब्द उत्तरपदेऽन्यस्य विभाषा दुगागमो भवति।",
+     "prathamavrtti": "अर्थशब्द उत्तरपदेऽषष्ठीस्थस्यातृतीयास्थस्यान्यस्य विभाषा दुगागमो भवति॥"
+    },
+    {
+     "n": "7.1.57",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "गोः पादान्ते",
+     "ourVrtti": "छन्दसि विषये ऋक्-पादान्ते वर्तमानात् गो-शब्दात् आमः अङ्गस्य नुट् आगमः भवति",
+     "kashika": "गो इत्येतस्मादृक्पादान्ते वर्तमानादुत्तरस्यामो नुडागमो भवति।",
+     "prathamavrtti": "छन्दसि विषये गोः इत्येतस्माद् ऋक्पादान्ते वर्त्तमानादुत्तरस्यामो नुडागमो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G9",
+   "group": "carried / not a sūtra word | ṇatva | X",
+   "count": 8,
+   "sutras": [
+    "8.4.4 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "8.4.5 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "8.4.6 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "8.4.8 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "8.4.10 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "8.4.24 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "8.4.25 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "8.4.27 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.4.4",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "वनं पुरगामिश्रकासिध्रकाशारिकाकोटराऽग्रेभ्यः",
+     "ourVrtti": "संज्ञायां विषये पुरगा, मिश्रका, सिध्रका, शारिका, कोटरा, अग्रे इत्येतेभ्यः पूर्वपदेभ्यः वनशब्दस्य नकारस्य णकारादेशः भवति",
+     "kashika": "पुरगा मिश्रका सिध्रका शारिका कोटरा अग्र इत्येतेभ्यः पूर्वपदेभ्य उत्तरस्य वननकारस्य णकारादेशो भवति संज्ञायां विषये।",
+     "prathamavrtti": "पुरगा, मिश्रका, सिध्रका, शारिका, कोटरा, अग्रे इत्येतेभ्यः पूर्वपदेभ्य उत्तरस्य वनशब्दस्य नकारस्य णकारादेशो भवति संज्ञायां विषये ॥"
+    },
+    {
+     "n": "8.4.6",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "विभाषौषधिवनस्पतिभ्यः",
+     "ourVrtti": "निमित्तात् ओषधिवाचिनः वनस्पतिवाचिनश्च पूर्वपदात् पूर्वपदस्थात् वनशब्दस्य नकारस्य स्थाने विकल्पेन णकारादेशः भवति",
+     "kashika": "ओषधिवाचि यत् पूर्वपदं वनस्पतिवाचि च तत्स्थाद् निमित्तादुत्तरस्य वननकारस्य णकार आदेशो भवति विभाषा।",
+     "prathamavrtti": "ओषधिवाचि यत् पूर्वपदं वनस्पतिवाचि च तत्स्थान्निमित्तादुत्तरस्य वनशब्दस्य नकारस्य विकल्पेन णकारादेशो भवति ॥"
+    },
+    {
+     "n": "8.4.10",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "वा भावकरणयोः",
+     "ourVrtti": "पूर्वपदस्थात् निमित्तात् पानशब्दस्य नकारस्य स्थाने भावे करणे च विकल्पेन णकारः आदेशः भवति",
+     "kashika": "भावे करणे च यः पानशब्दस्तदीयस्य नकारस्य णकार आदेशो भवति वा पूर्वपदस्थाद् निमित्तादुत्तरस्य।",
+     "prathamavrtti": "पूर्वपदस्थान्निमित्तादुत्तरस्य भावे करणे च यः पानशब्दस्तस्य नकारस्य णकार आदेशो विकल्पेन भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G10",
+   "group": "carried / not a sūtra word | vibhakti | X",
+   "count": 7,
+   "sutras": [
+    "2.3.26 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "2.3.27 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "2.3.72 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.3.29 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.3.37 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.3.38 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "5.3.39 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.3.26",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "षष्ठी हेतुप्रयोगे",
+     "ourVrtti": "हेतुशब्दस्य प्रयोगे हेतौ द्योत्ये षष्ठी विभक्तिः प्रत्ययः भवति",
+     "kashika": "हेतुशब्दस्य प्रयोगे हेतौ द्योत्ये षष्ठी विभक्तिर्भवति।",
+     "prathamavrtti": "हेतुशब्दस्य प्रयोगे हेतौ द्योत्ये षष्ठी विभक्तिर्भवति।"
+    },
+    {
+     "n": "2.3.72",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "तुल्यार्थैरतुलोपमाभ्यां तृतीयाऽन्यतरस्याम्",
+     "ourVrtti": "तुल्यार्थैः शब्दैः योगे तुलोपमाशब्दौ वर्जयित्वा अन्यतरस्याम् तृतीया विभक्ति पक्षे षष्ठी विभक्ति प्रत्ययौ भवतः",
+     "kashika": "तुल्यार्थैः शब्दैर्योगे तृतीया विभक्तिर्भवत्यन्यतरस्याम्, पक्षे षष्ठी च, तुलोपमाशब्दौ वर्जयित्वा।",
+     "prathamavrtti": "तुल्यार्थैः शब्दैर्योगे शेषे विवक्षिते तृतीया विभक्तिर्भवति अन्यतरस्याम्, पक्षे षष्ठी च, तुलोपमाशब्दौ वर्जयित्वा ॥"
+    },
+    {
+     "n": "5.3.37",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "आहि च दूरे",
+     "ourVrtti": "अपञ्चम्यन्तात् दक्षिणशब्दात् दूरे वाच्ये अस्तातेरर्थे आहि आच् प्रत्ययौ परौ च भवतः",
+     "kashika": "दक्षिणशब्दादाहिः प्रत्ययो भवत्यस्तातेरर्थे, चकारादाच् दूरे चेदवधिमानवधेर्भवति।",
+     "prathamavrtti": "अपञ्चम्यन्ताद् दक्षिणशब्दाद् आहि प्रत्ययो भवत्याच् च, अस्तातेरर्थे दूरे वाच्ये ॥"
+    }
+   ]
+  },
+  {
+   "id": "G11",
+   "group": "named by a commentator | vidhi | X (English)",
+   "count": 7,
+   "sutras": [
+    "3.4.40 named by Vasu  ⟨a word stands for its own form, unless it is a technical term⟩",
+    "4.3.6 named by Vasu  ⟨a word stands for its own form, unless it is a technical term⟩",
+    "4.3.68 named by Vasu  ⟨a word stands for its own form, unless it is a technical term⟩",
+    "4.3.75 named by Vasu  ⟨a word stands for its own form, unless it is a technical term⟩",
+    "4.3.81 named by Vasu  ⟨a word stands for its own form, unless it is a technical term⟩",
+    "4.4.35 named by Vasu  ⟨a word stands for its own form, unless it is a technical term⟩",
+    "5.3.81 named by Vasu  ⟨a word stands for its own form, unless it is a technical term⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.4.40",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "a word stands for its own form, unless it is a technical term",
+     "sutra": "स्वे पुषः",
+     "ourVrtti": "स्ववाचिनि उपपदे करणे पुषधातोः णमुल् प्रत्ययः परः च भवति",
+     "kashika": "स्ववाचिनि करण उपपदे पुषेर्धातोर्णमुल् प्रत्ययो भवति।",
+     "prathamavrtti": "स्ववाचिनि करणे उपपदे पुषधातोर्णमुल् प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "4.3.68",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "a word stands for its own form, unless it is a technical term",
+     "sutra": "क्रतुयज्ञेभ्यश्च",
+     "ourVrtti": "व्याख्यातव्यनामप्रातिपदिकेभ्यः क्रतुवाचिभ्यो यज्ञवाचिभ्यश्च प्रातिपदिकेभ्यः षष्ठीसमर्थात् भवे अर्थे व्याख्याने च अर्थे ठञ् प्रत्ययः परः च भवति",
+     "kashika": "क्रतुभ्यो यज्ञेभ्यश्च व्याख्यातव्यनामभ्यः प्रातिपदिकेभ्यो भवव्याख्यानयोरर्थयोष्ठञ् प्रत्ययो भवति।",
+     "prathamavrtti": "क्रतुवाचिभ्यो यज्ञवाचिभ्यश्च षष्ठीसप्तमीसमर्थेभ्यो व्याख्यातव्यनामप्रातिपदिकेभ्यो भवव्याख्यानयोरर्थयोः ठञ् प्रत्ययो भवति॥"
+    },
+    {
+     "n": "4.3.81",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "a word stands for its own form, unless it is a technical term",
+     "sutra": "हेतुमनुष्येभ्योऽन्यतरस्यां रूप्यः",
+     "ourVrtti": "हेतुवाचिभ्यो मनुष्यवाचिभ्यश्च प्रातिपदिकेभ्यः पञ्चमीसमर्थेभ्यः आगतार्थे विकल्पेन रूप्यः प्रत्ययः परः च भवति",
+     "kashika": "हेतुभ्यो मनुष्येभ्यश्चान्यतरस्यां रूप्यः प्रत्ययो भवति तत आगत इत्येतस्मिन् विषये।",
+     "prathamavrtti": "पञ्चमीसमर्थेभ्यो हेतुवाचिभ्यो मनुष्यवाचिभ्यः प्रातिपदिकेभ्यो विकल्पेन रूप्यः प्रत्ययो भवति आगतार्थे ॥"
+    }
+   ]
+  },
+  {
+   "id": "G12",
+   "group": "carried / not a sūtra word | ṣatva | X",
+   "count": 7,
+   "sutras": [
+    "8.3.63 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "8.3.80 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "8.3.81 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "8.3.83 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "8.3.84 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "8.3.85 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "8.3.97 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.3.63",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "प्राक्सितादड्व्यवायेऽपि",
+     "ourVrtti": "प्राक् सितशब्दात् अड्व्यवाये अपि मूर्धन्यः भवति इति अधिकारः, अपि ग्रहणात् अनड्व्यवाये अपि",
+     "kashika": "प्राक्  सितसंशब्दनाद् यानित ऊर्ध्वमनुक्रमिष्यामस्तत्राड्व्यवायेऽपि मूर्धन्यो भवतीत्येवं वेदितव्यम्, अपिशब्दादनड्व्यवायेऽपि।",
+     "prathamavrtti": "प्राक् सितशब्दाद् अङ्व्यवायेऽपि मूर्धन्यो भवति अपि ग्रहणादनङ्व्यवायेऽपि॥"
+    },
+    {
+     "n": "8.3.81",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "भीरोः स्थानम्",
+     "ourVrtti": "समासे भीरोः परस्य स्थानशब्दस्य सकारस्य स्थाने मूर्धन्यादेशः भवति",
+     "kashika": "स्थानसकारस्य भीरोरुत्तरस्य मूर्धन्यादेशो भवति।",
+     "prathamavrtti": "स्थानसकारस्य भीरोरुत्तरस्य मूर्धन्यादेशो भवति समासे ॥"
+    },
+    {
+     "n": "8.3.84",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "मातृपितृभ्यां स्वसा",
+     "ourVrtti": "समासे मातृ पितृ इत्येताभ्याम् परस्य स्वसृशब्दस्य सकारस्य स्थाने मूर्धन्यादेशः भवति",
+     "kashika": "मातृ पितृ इत्येताभ्यामुत्तरस्य स्वसृसकारस्य समासे मूर्धन्यादेशो भवति।",
+     "prathamavrtti": "मातृ पितृ इत्येताभ्यामुत्तरस्य स्वसृसकारस्य समासे मूर्धन्यादेशो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G13",
+   "group": "carried / not a sūtra word | atideśa | X",
+   "count": 4,
+   "sutras": [
+    "6.3.34 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "6.3.39 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "7.1.90 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "7.1.95 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.3.34",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "स्त्रियाः पुंवद्भाषितपुंस्कादनूङ् समानाधिकरणे स्त्रियामपूरणीप्रियाऽऽदिषु",
+     "ourVrtti": "समानाधिकरणे स्त्रीलिङ्गे पूरणीप्रियादिवर्जिते उत्तरपदे परे भाषितपुंस्कात् ऊङ्-प्रत्यय-रहितात् स्त्रीशब्दस्य पुंशब्दस्येव रूपम् भवति",
+     "kashika": "तदेतदेवं कथं भवति? भाषितः पुमान् यस्मिन्नर्थे प्रवृत्तिनिमित्ते स भाषितपुंस्कशब्देनोच्यते, तस्य प्रतिपादको यः शब्दः सोऽपि भाषितपुंस्कः।",
+     "prathamavrtti": "यस्मात् भाषितपुंस्कात् पर ऊङ् न कृतस्तस्य स्त्रीशब्दस्य पुंशब्दस्येव रूपं भवति, पूरणीप्रियादिवर्जिते स्त्रीलिङ्गे समानाधिकरण उत्तरपदे॥"
+    },
+    {
+     "n": "6.3.39",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "वृद्धिनिमित्तस्य च तद्धितस्यारक्तविकारे",
+     "ourVrtti": "रक्ते विकारे चार्थे अविहितस्य वृद्धिनिमित्तस्य तद्धितान्तस्य स्त्रीशब्दस्य पुंवत् न भवति",
+     "kashika": "वृद्धेर्निमित्तं यस्मिन् स वृद्धिनिमित्तस्तद्धितः, स यदि रक्ते ऽर्थे विकारे च न विहितः, तदन्तस्य स्त्रीशब्दस्य न पुंवद् भवति।",
+     "prathamavrtti": "स्वाङ्गादुत्तरो य ईकारस्तदन्तायाः स्त्रियाः न पुंवद् भवति॥"
+    },
+    {
+     "n": "7.1.90",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "गोतो णित्",
+     "ourVrtti": "गोशब्दात् परम् सर्वनामस्थानम् णिद्वत् भवति",
+     "kashika": "गोशब्दात् परं सर्वनामस्थानं णिद् भवति।",
+     "prathamavrtti": "गोशब्द सर्वनामस्थानं णित् भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G14",
+   "group": "named by a commentator | saṃjñā | X",
+   "count": 2,
+   "sutras": [
+    "1.2.27 named by महाभाष्यम्  ⟨a word stands for its own form, unless it is a technical term⟩",
+    "3.1.1 named by न्यासः  ⟨a word stands for its own form, unless it is a technical term⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.2.27",
+     "word": "named by महाभाष्यम्",
+     "trigger": "named by महाभाष्यम्",
+     "effect": "a word stands for its own form, unless it is a technical term",
+     "sutra": "ऊकालोऽज्झ्रस्वदीर्घप्लुतः",
+     "ourVrtti": "उ-ऊ-उ३ इत्येवंकालः अच् 'ह्रस्व-दीर्घ-प्लुत-संज्ञकः' इति संज्ञा यथासङ्ख्यम् भवति",
+     "kashika": "उ ऊ ऊ३ इत्येवंकालोऽज् यथाक्रमं ह्रस्वदीर्घप्लुतः इत्येवंसंज्ञो भवति।",
+     "prathamavrtti": "उ ऊ उ३ इत्येवंकालो योऽच् स यथासङ्ख्यं ह्रस्वदीर्घप्लुतसंज्ञको भवति॥"
+    },
+    {
+     "n": "3.1.1",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a word stands for its own form, unless it is a technical term",
+     "sutra": "प्रत्ययः",
+     "ourVrtti": "प्रत्ययः इति अधिकारः",
+     "kashika": "आ पञ्चमाध्यायपरिसमाप्तेर्यानित ऊर्ध्वमनुक्रमिष्यामः, प्रत्ययसंज्ञास्ते वेदितव्याः, प्रकृत्युपपदोपाधिविकारागमान् वर्जयित्वा।",
+     "prathamavrtti": "इतोऽग्रे आपञ्चमाध्यायपरिसमाप्तेः (५।४।१६० इति यावत्) 'प्रत्ययः' इति संज्ञात्वेनाधिक्रियते ॥"
+    }
+   ]
+  },
+  {
+   "id": "G15",
+   "group": "carried / not a sūtra word | ekavat | X",
+   "count": 2,
+   "sutras": [
+    "1.2.61 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩",
+    "1.2.62 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.2.61",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "छन्दसि पुनर्वस्वोरेकवचनम्",
+     "ourVrtti": "छन्दसि विषये पुनर्वसू-शब्दात् द्वित्वे नक्षत्रे वाच्ये विकल्पेन एकवचनम् प्रत्ययः परः च भवति",
+     "kashika": "द्वयोर्द्विवचने प्राप्ते पुनर्वस्वोश्छन्दसि विषय एकवचनमन्यतरस्यां भवति।",
+     "prathamavrtti": "छन्दसि विषये पुनर्वस्वोः नक्षत्रयोः द्वित्वे विकल्पेनैकवचनं भवति । पुनर्वसू द्वे नक्षत्रे, तेन द्वयोर्द्विवचने प्राप्ते पक्ष एकवचनं विधीयते ॥"
+    },
+    {
+     "n": "1.2.62",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "विशाखयोश्च",
+     "ourVrtti": "छन्दसि विषये विशाखा-शब्दात् द्वित्वे नक्षत्रे वाच्ये विकल्पेन एकवचनम् प्रत्ययः परः च भवति",
+     "kashika": "छन्दसीति वर्तते, द्विवचने प्राप्ते छन्दसि विषये विशाखयोरेकवचनमन्यतरस्यां भवति।",
+     "prathamavrtti": "छन्दसि विषये विशाखयोर्नक्षत्रयोर्द्वित्वे, एकवचनं विकल्पेन भवति। द्वयोर्द्विवचने प्राप्ते, पक्षे एकवचनं विधीयते॥"
+    }
+   ]
+  },
+  {
+   "id": "G16",
+   "group": "named by a commentator | ādeśa | X",
+   "count": 2,
+   "sutras": [
+    "1.2.63 named by न्यासः  ⟨a word stands for its own form, unless it is a technical term⟩",
+    "5.3.62 named by न्यासः  ⟨a word stands for its own form, unless it is a technical term⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.2.63",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a word stands for its own form, unless it is a technical term",
+     "sutra": "तिष्यपुनर्वस्वोर्नक्षत्रद्वन्द्वे बहुवचनस्य द्विवचनं नित्यम्",
+     "ourVrtti": "नक्षत्रद्वन्द्वे विषये तिष्यपुनर्वस्वोः बहुवचनस्य स्थाने नित्यम् द्विवचनम् आदेशः भवति",
+     "kashika": "तिष्यपुनर्वस्वोर्नक्षत्रविषये द्वन्द्वे बहुवचनप्रसङ्गे नित्यं द्विवचनं भवति।",
+     "prathamavrtti": "तिष्यपुनर्वस्वोः नक्षत्रद्वन्द्वे बहुवचनस्य नित्यं द्विवचनं भवति। तिष्य एकः, पुनर्वसू द्वौ, एतेषां द्वन्द्वे बहुत्वं प्राप्तं द्विवचनं नित्यं विधीयते॥"
+    },
+    {
+     "n": "5.3.62",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a word stands for its own form, unless it is a technical term",
+     "sutra": "वृद्धस्य च",
+     "ourVrtti": "अजाद्योः प्रत्यययोः परे वृद्धशब्दस्य स्थाने ज्य आदेशः भवति",
+     "kashika": "वृद्धशब्दस्य च ज्य इत्ययमादेशो भवत्यजाद्योः प्रत्यययोः परतः।",
+     "prathamavrtti": "वृद्धशब्दस्य च ‹ज्य› आदेशो भवति, अजाद्योः प्रत्यययोः परतः ॥"
+    }
+   ]
+  },
+  {
+   "id": "G17",
+   "group": "named by a commentator | vibhakti | X (English)",
+   "count": 2,
+   "sutras": [
+    "2.3.12 named by Vasu  ⟨a word stands for its own form, unless it is a technical term⟩",
+    "2.3.27 named by Vasu  ⟨a word stands for its own form, unless it is a technical term⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.3.12",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "a word stands for its own form, unless it is a technical term",
+     "sutra": "गत्यर्थकर्मणि द्वितीयाचतुर्थ्यौ चेष्टायामनध्वनि",
+     "ourVrtti": "चेष्टाक्रियाणाम् अध्ववर्जिते गत्यर्थानां धातूनां कर्मणि कारके द्वितीयाचतुर्थ्यौ विभक्ती प्रत्ययः भवति",
+     "kashika": "गत्यर्थानां धातूनां चेष्टाक्रियाणां परिस्पन्दक्रियाणां कर्मणि कारकेऽध्ववर्जिते द्वितीयाचतुर्थ्यौ भवतः।",
+     "prathamavrtti": "चेष्टाक्रियाणां गत्यर्थानां धातूनामध्ववर्जितेऽनभिहिते कर्मणि कारके द्वितीयाचतुर्थ्यौ विभक्ती भवतः॥"
+    },
+    {
+     "n": "2.3.27",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "a word stands for its own form, unless it is a technical term",
+     "sutra": "सर्वनाम्नस्तृतीया च",
+     "ourVrtti": "हेतुशब्दस्य प्रयोगे सर्वनाम्नः प्रातिपदिकात् हेतौ द्योत्ये तृतीया विभक्ति षष्ठी विभक्ति प्रत्ययौ भवतः",
+     "kashika": "सर्वनाम्नो हेतुशब्दप्रयोगे हेतौ द्योत्ये तृतीया विभक्तिर्भवति, षष्ठी च।",
+     "prathamavrtti": "सर्वनाम्नो हेतुशब्दस्य प्रयोगे हेतौ द्योत्ये तृतीया विभक्तिर्भवति, चकारात् षष्ठी च।"
+    }
+   ]
+  },
+  {
+   "id": "G18",
+   "group": "named by a commentator | vidhi | X",
+   "count": 2,
+   "sutras": [
+    "3.4.26 named by न्यासः  ⟨a word stands for its own form, unless it is a technical term⟩",
+    "5.2.59 named by महाभाष्यम्  ⟨a word stands for its own form, unless it is a technical term⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.4.26",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a word stands for its own form, unless it is a technical term",
+     "sutra": "स्वादुमि णमुल्",
+     "ourVrtti": "स्वाद्वर्थेषु उपपदेषु समानकर्तृकयोः धात्वर्थयोः कृञः धातोः पूर्वकाले धात्वर्थे णमुल् प्रत्ययः परः च भवति",
+     "kashika": "स्वाद्वर्थेषूपपदेषु कृञो णमुल् प्रत्ययो भवति।",
+     "prathamavrtti": "स्वाद्वर्थेषु शब्देषूपपदेषु समानकर्त्तृकयोः पूर्वकाले कृञ्धातोर्णमुल् प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "5.2.59",
+     "word": "named by महाभाष्यम्",
+     "trigger": "named by महाभाष्यम्",
+     "effect": "a word stands for its own form, unless it is a technical term",
+     "sutra": "मतौ छः सूक्तसाम्नोः",
+     "ourVrtti": "प्रातिपदिकात् समर्थात् मत्वर्थे सूक्ते सामनि चाभिधेये छः प्रत्ययः परः च भवति",
+     "kashika": "प्रातिपदिकाद् मत्वर्थे छः प्रत्ययो भवति सूक्ते सामनि चाभिधेये।",
+     "prathamavrtti": "प्रातिपदिकमात्रात् मत्वर्थे छः प्रत्ययो भवति सूक्ते सामनि चाभिधेये ॥"
+    }
+   ]
+  },
+  {
+   "id": "G19",
+   "group": "named by a commentator | operation | X",
+   "count": 2,
+   "sutras": [
+    "7.3.24 named by न्यासः  ⟨a word stands for its own form, unless it is a technical term⟩",
+    "8.1.1 named by न्यासः  ⟨a word stands for its own form, unless it is a technical term⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.3.24",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a word stands for its own form, unless it is a technical term",
+     "sutra": "प्राचां नगरान्ते",
+     "ourVrtti": "प्राचां देशे विषये तद्धिते ञिति णिति किति च परे आदेः नगरान्ते अङ्गे पूर्वपदस्य उत्तरपदस्य अचः स्थाने अङ्गस्य स्थाने वृद्धिः आदेशः भवति",
+     "kashika": "प्राचां देशे नगरान्तेऽङ्गे पूर्वपदस्योत्तरपदस्य चाचामादेरचो वृद्धिर्भवति तद्धिते ञिति णिति किति च परतः।",
+     "prathamavrtti": "प्राचां देशे नगरान्तेऽङ्गे पूर्वपदस्योत्तरपदस्याचामादेरचः स्थाने वृद्धिर्भवति तद्धिते ञिति णिति किति च परतः ॥"
+    },
+    {
+     "n": "8.1.1",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a word stands for its own form, unless it is a technical term",
+     "sutra": "सर्वस्य द्वे",
+     "ourVrtti": "सर्वस्य द्वे इति अधिकारः",
+     "kashika": "सर्वस्येति च द्वे इति चैतदधिकृतं वेदितव्यम् ।",
+     "prathamavrtti": "अधिकारोऽयम्। इत उत्तरं यद्वक्ष्यामः पदस्येत्यतः प्राक्, तत्र सर्वस्य द्वे भवत इत्येवं तद्वेदितव्यम्॥"
+    }
+   ]
+  },
+  {
+   "id": "G20",
+   "group": "named by a commentator | samāsa | X (English)",
+   "count": 1,
+   "sutras": [
+    "2.1.49 named by Vasu  ⟨a word stands for its own form, unless it is a technical term⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.1.49",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "a word stands for its own form, unless it is a technical term",
+     "sutra": "पूर्वकालैकसर्वजरत्पुराणनवकेवलाः समानाधिकरणेन",
+     "ourVrtti": "समानाधिकरणेन सुबन्तेन सह पूर्वकाल एक सर्व जरत् पुराण नव केवल इत्येते सुबन्ताः विभाषा 'तत्पुरुषः समासः' इति संज्ञा भवति",
+     "kashika": "पूर्वकाल एक सर्व जरत् पुराण नव केवल इत्येते सुबन्ताः समानाधिकरणेन सुपा सह समस्यन्ते, तत्पुरुषश्च समासो भवति।",
+     "prathamavrtti": "पूर्वकाल, एक, सर्व, जरत्, पुराण, नव, केवल इत्येते सुबन्ता समानाधिकरणेन सुबन्तेन सह विभाषा समस्यन्ते, तत्पुरुषश्च समासो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G21",
+   "group": "named by a commentator | nipātana | X",
+   "count": 1,
+   "sutras": [
+    "2.4.23 named by न्यासः  ⟨a word stands for its own form, unless it is a technical term⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.4.23",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a word stands for its own form, unless it is a technical term",
+     "sutra": "सभा राजामनुष्यपूर्वा",
+     "ourVrtti": "सभान्तः राजपूर्वा अमनुष्यपूर्वा च अनञ्कर्मधारयः तत्पुरुषः 'नपुंसकम्' इति संज्ञा भवति",
+     "kashika": "सभान्तस्तत्पुरुषो नपुंसकलिङ्गो भवति, सा चेत् सभा राजपूर्वा अमनुष्यपूर्वा च भवति।",
+     "prathamavrtti": "अनञ्कर्मधारयः सभान्तस्तत्पुरुषो नपुंसकलिङ्गो भवति, सा चेत् सभा राजपूर्वा अमनुष्यपूर्वा च भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G22",
+   "group": "named by a commentator | ādeśa | X (English)",
+   "count": 1,
+   "sutras": [
+    "2.4.49 named by Vasu  ⟨a word stands for its own form, unless it is a technical term⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.4.49",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "a word stands for its own form, unless it is a technical term",
+     "sutra": "गाङ् लिटि",
+     "ourVrtti": "लिटि परे आर्धधातुके इङः स्थाने गाङ् आदेशः भवति",
+     "kashika": "गाङादेशो भवतीङो लिटि परतः।",
+     "prathamavrtti": "इङः गाङ् आदेशो भवति लिट्यार्धधातुके परतः॥"
+    }
+   ]
+  },
+  {
+   "id": "G23",
+   "group": "named by a commentator | ekādeśa | X",
+   "count": 1,
+   "sutras": [
+    "6.1.84 named by महाभाष्यम्  ⟨a word stands for its own form, unless it is a technical term⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.84",
+     "word": "named by महाभाष्यम्",
+     "trigger": "named by महाभाष्यम्",
+     "effect": "a word stands for its own form, unless it is a technical term",
+     "sutra": "एकः पूर्वपरयोः",
+     "ourVrtti": "एकः आदेशः पूर्वपरयोः स्थाने इति अधिकारः",
+     "kashika": "<<ख्यत्यात् परस्य>> [[६.१.११२]] इति प्रागेतस्मात् सूत्रादित उत्तरं यद् वक्ष्यामस्तत्र पूर्वस्य परस्य द्वयोरपि स्थान एकादेशो भवतीत्येतद् वेदितव्यम्।",
+     "prathamavrtti": "अधिकारोऽयम्, ऋत उत् (६।१।१०७) इति यावत् । तत्र पर्यन्तं यद्वक्ष्यति तत्र पूर्वस्य परस्य द्वयोरपि स्थान एकादेशो भवतीति वेदितव्यम् ॥"
+    }
+   ]
+  },
+  {
+   "id": "G24",
+   "group": "carried / not a sūtra word | ekādeśa | X",
+   "count": 1,
+   "sutras": [
+    "6.1.98 the vṛtti writes the word as “X-शब्द”  ⟨the word means its own form, not its meaning or synonyms⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.98",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "trigger": "the vṛtti writes the word as “X-शब्द”",
+     "effect": "the word means its own form, not its meaning or synonyms",
+     "sutra": "अव्यक्तानुकरणस्यात इतौ",
+     "ourVrtti": "संहितायाम् इतौ परे अत्-शब्दात् अव्यक्तानुकरणस्य पूर्वपरयोः स्थाने पररूपम् एकादेशः भवति",
+     "kashika": "केनचित् सादृश्येन तदव्यक्तमनुकरोति,तस्य योऽच्छब्दस्तस्मादितौ पूर्वपरयोः स्थाने पररूपमेकादेशो भवति।",
+     "prathamavrtti": "अव्यक्तमपरिस्फुटवर्णं, तस्याव्यक्तानुकरणस्य योऽच्छब्दस्तस्मादितौ परतः पूर्वपरयोः स्थाने पररूपमेकादेशो भवति संहितायां विषये ॥"
+    }
+   ]
+  },
+  {
+   "id": "G25",
+   "group": "named by a commentator | ekādeśa | X (English)",
+   "count": 1,
+   "sutras": [
+    "6.1.101 named by Vasu  ⟨a word stands for its own form, unless it is a technical term⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.101",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "a word stands for its own form, unless it is a technical term",
+     "sutra": "अकः सवर्णे दीर्घः",
+     "ourVrtti": "संहितायाम् सवर्णे अचि परे अकः परस्य पूर्वपरयोः स्थाने दीर्घः एकादेशः भवति",
+     "kashika": "अकः सवर्णेऽचि परतः पूर्वपरयोः स्थाने दीर्घ एकादेशो भवति।",
+     "prathamavrtti": "अक उत्तरस्य सवर्णेऽचि परतः पूर्वपरयोः स्थाने दीर्घ एकादेशो भवति संहितायां विषये ॥"
+    }
+   ]
+  }
+ ]
+}

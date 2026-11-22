@@ -1,0 +1,28 @@
+{
+ "pid": "1.3.2",
+ "howGrouped": "case of the triggering word (own sūtra words only) | rule kind | start of the engine trigger text; member = \"<sūtra> <word>  ⟨engine effect⟩\"",
+ "applies": 1,
+ "consideredNotApplicable": 0,
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | saṃjñā | X",
+   "count": 1,
+   "sutras": [
+    "1.1.71 1.1.71  ⟨इता = with a sound that is an इत् (1.3.2–3), the marker at the end⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.1.71",
+     "word": "1.1.71",
+     "trigger": "1.1.71",
+     "effect": "इता = with a sound that is an इत् (1.3.2–3), the marker at the end",
+     "sutra": "आदिरन्त्येन सहेता",
+     "ourVrtti": "आदिः अन्त्येन इता सह तयोः मध्यस्थानाम् वर्णानाम् ग्राहकः भवति स्वस्य च रूपस्य",
+     "kashika": "आदिरन्त्येनेत्संज्ञकेन सह गृह्यमाणस्तन्मध्यपतितानां वर्णानां ग्राहको भवति, स्वस्य च रूपस्य।",
+     "prathamavrtti": "आदिः अन्त्येन इता=इत्संज्ञकेन वर्णेन सह तयोर्मध्यस्थानां स्वस्य च रूपस्य ग्राहको भवति ॥"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,428 @@
+{
+ "pid": "1.2.28",
+ "generated": "2026-11-20",
+ "totals_by_firing": {
+  "licensed": 118,
+  "not licensed": 9,
+  "unsure": 1
+ },
+ "totals_by_group": {
+  "mixed": 2,
+  "licensed": 1,
+  "unsure": 1
+ },
+ "not_licensed_by_should_be": {
+  "none": 9
+ },
+ "conditions": [
+  {
+   "text": "C1. Content: when ह्रस्व, दीर्घ or प्लुत is taught by its own name (as what comes in), it takes the place only of a vowel; the word “अचः” (6th case) is supplied in every such sūtra. A restriction of the place (sthāni-niyama).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "12028",
+     "quote": "परिभाषेयं स्थानिनियमार्था। ह्रस्वदीर्घप्लुताः स्वसंज्ञया शिष्यमाणा अच एव स्थाने वेदितव्याः।"
+    },
+    {
+     "file": "kaumudi",
+     "id": "12028",
+     "quote": "ह्रस्वदीर्घप्लुतशब्दैर्यत्राज्विधीयते तत्राच इति षष्ठ्यन्तं पदमुपतिष्ठते"
+    }
+   ]
+  },
+  {
+   "text": "C2. Where it does visible work: the named place could end in a consonant (prātipadika, aṅga, टि, a whole word). The Bhāṣya debates whether it is an addendum to 1.1.52 or an exception that lets a non-final vowel be hit.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "12028",
+     "quote": "अच इति किम्? सुवाग् ब्राह्मणकुलम्।"
+    },
+    {
+     "file": "kashika",
+     "id": "12028",
+     "quote": "अच इति किम्? अग्निचि३त्। सोमसु३त्। तकारस्य मा भूत्।"
+    },
+    {
+     "file": "bhashya",
+     "id": "12028",
+     "quote": "अथ नानावाक्यम्- अलोन्त्यस्य विधयो भवन्ति अचो ह्रस्वदीर्घप्लुता अन्त्यस्यानन्त्यस्य चेति, ततोऽयं तदपवादः।"
+    }
+   ]
+  },
+  {
+   "text": "C3. Only for vowels taught by these NAMES. A vowel named by its own form gets no such restriction, and a substitute that replaces the whole place (8.2.89 प्रणव for the whole टि) is outside it.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "12028",
+     "quote": "स्वसंज्ञया विधाने नियमः"
+    },
+    {
+     "file": "kashika",
+     "id": "12028",
+     "quote": "इह मा भूत् — द्यौः। पन्थाः। सः।"
+    },
+    {
+     "file": "kashika",
+     "id": "82089",
+     "quote": "टिग्रहणं सर्वादेशार्थम्।"
+    }
+   ]
+  },
+  {
+   "text": "C4. A sūtra that forbids the long/short vowel teaches no substitute, so the restriction has nothing to restrict.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "74015",
+     "quote": "आबन्तस्याङ्गस्य कपि ह्रस्वः न भवत्यन्तरस्याम्।"
+    },
+    {
+     "file": "kashika",
+     "id": "72040",
+     "quote": "परस्मैपदपरे सिचि वृृत उत्तरस्येटो दीर्घो  न भवति"
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | operation | X",
+   "count": 104,
+   "verdict": "mixed",
+   "how_checked": "Every member read: the sūtra, the roles (place and substitute), and our vṛtti; the Kāśikā's first clause pulled by script for each. Sorted into: vowel taught by name as the substitute (vidhi) / the same vowel forbidden (“… न भवति”) / substitute that is not ह्रस्व/दीर्घ/प्लुत by name.",
+   "licensed": [
+    "1.2.47",
+    "1.2.48",
+    "3.1.6",
+    "6.1.7",
+    "6.1.127",
+    "6.1.128",
+    "6.3.43",
+    "6.3.44",
+    "6.3.45",
+    "6.3.61",
+    "6.3.62",
+    "6.3.63",
+    "6.3.64",
+    "6.3.65",
+    "6.3.66",
+    "6.3.111",
+    "6.3.115",
+    "6.3.116",
+    "6.3.117",
+    "6.3.118",
+    "6.3.119",
+    "6.3.120",
+    "6.3.121",
+    "6.3.122",
+    "6.3.123",
+    "6.3.124",
+    "6.3.125",
+    "6.3.126",
+    "6.3.127",
+    "6.3.128",
+    "6.3.129",
+    "6.3.130",
+    "6.3.131",
+    "6.3.132",
+    "6.3.133",
+    "6.3.134",
+    "6.3.135",
+    "6.3.136",
+    "6.3.137",
+    "6.3.138",
+    "6.3.139",
+    "6.4.2",
+    "6.4.3",
+    "6.4.5",
+    "6.4.6",
+    "6.4.7",
+    "6.4.8",
+    "6.4.9",
+    "6.4.10",
+    "6.4.11",
+    "6.4.12",
+    "6.4.13",
+    "6.4.14",
+    "6.4.15",
+    "6.4.16",
+    "6.4.17",
+    "6.4.18",
+    "6.4.58",
+    "6.4.59",
+    "6.4.60",
+    "6.4.61",
+    "6.4.92",
+    "6.4.93",
+    "6.4.94",
+    "6.4.95",
+    "6.4.96",
+    "6.4.97",
+    "7.2.37",
+    "7.2.38",
+    "7.3.74",
+    "7.3.75",
+    "7.3.76",
+    "7.3.80",
+    "7.3.81",
+    "7.3.101",
+    "7.3.102",
+    "7.3.107",
+    "7.3.114",
+    "7.3.115",
+    "7.4.1",
+    "7.4.3",
+    "7.4.12",
+    "7.4.13",
+    "7.4.23",
+    "7.4.24",
+    "7.4.25",
+    "7.4.26",
+    "7.4.59",
+    "7.4.69",
+    "7.4.70",
+    "7.4.83",
+    "7.4.94",
+    "8.2.76",
+    "8.2.77",
+    "8.2.78",
+    "8.2.82"
+   ],
+   "not_licensed": [
+    {
+     "n": "6.4.4",
+     "word": "दीर्घ taught by name as the substitute",
+     "should_be": "none",
+     "reason": "PROHIBITION",
+     "why": "The sūtra forbids the ह्रस्व/दीर्घ (optionally at 7.4.15); it teaches no substitute, so 1.2.28 is not needed to read it (C4). Where the vowel does come (the other option, or outside the prohibition), it comes from the rule that teaches it, which has its own credit.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "64004",
+       "quote": "तिसृ चतसृ इत्येतयोर्नामि दीर्घो न भवति"
+      }
+     ]
+    },
+    {
+     "n": "6.4.39",
+     "word": "दीर्घ taught by name as the substitute",
+     "should_be": "none",
+     "reason": "PROHIBITION",
+     "why": "The sūtra forbids the ह्रस्व/दीर्घ (optionally at 7.4.15); it teaches no substitute, so 1.2.28 is not needed to read it (C4). Where the vowel does come (the other option, or outside the prohibition), it comes from the rule that teaches it, which has its own credit.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "64039",
+       "quote": "क्ति चि परतोऽनुदात्तोपदेशादीनामनुनासिकलोपो दीर्घश्च न भवति"
+      }
+     ]
+    },
+    {
+     "n": "7.2.39",
+     "word": "दीर्घ taught by name as the substitute",
+     "should_be": "none",
+     "reason": "PROHIBITION",
+     "why": "The sūtra forbids the ह्रस्व/दीर्घ (optionally at 7.4.15); it teaches no substitute, so 1.2.28 is not needed to read it (C4). Where the vowel does come (the other option, or outside the prohibition), it comes from the rule that teaches it, which has its own credit.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72039",
+       "quote": "वृृत उत्तरस्येटो लिङि दीर्घो न भवति"
+      }
+     ]
+    },
+    {
+     "n": "7.2.40",
+     "word": "दीर्घ taught by name as the substitute",
+     "should_be": "none",
+     "reason": "PROHIBITION",
+     "why": "The sūtra forbids the ह्रस्व/दीर्घ (optionally at 7.4.15); it teaches no substitute, so 1.2.28 is not needed to read it (C4). Where the vowel does come (the other option, or outside the prohibition), it comes from the rule that teaches it, which has its own credit.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72040",
+       "quote": "परस्मैपदपरे सिचि वृृत उत्तरस्येटो दीर्घो  न भवति"
+      }
+     ]
+    },
+    {
+     "n": "7.4.2",
+     "word": "ह्रस्व taught by name as the substitute",
+     "should_be": "none",
+     "reason": "PROHIBITION",
+     "why": "The sūtra forbids the ह्रस्व/दीर्घ (optionally at 7.4.15); it teaches no substitute, so 1.2.28 is not needed to read it (C4). Where the vowel does come (the other option, or outside the prohibition), it comes from the rule that teaches it, which has its own credit.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "74002",
+       "quote": "अग्लोपिनामङ्गानां शासेः ऋदितां च णौ चङि उपधाया ह्रस्वो न भवति"
+      }
+     ]
+    },
+    {
+     "n": "7.4.14",
+     "word": "ह्रस्व taught by name as the substitute",
+     "should_be": "none",
+     "reason": "PROHIBITION",
+     "why": "The sūtra forbids the ह्रस्व/दीर्घ (optionally at 7.4.15); it teaches no substitute, so 1.2.28 is not needed to read it (C4). Where the vowel does come (the other option, or outside the prohibition), it comes from the rule that teaches it, which has its own credit.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "74014",
+       "quote": "कपि प्रत्यये परतोऽणो ह्रस्वो न भवति"
+      }
+     ]
+    },
+    {
+     "n": "7.4.15",
+     "word": "ह्रस्व taught by name as the substitute",
+     "should_be": "none",
+     "reason": "PROHIBITION",
+     "why": "The sūtra forbids the ह्रस्व/दीर्घ (optionally at 7.4.15); it teaches no substitute, so 1.2.28 is not needed to read it (C4). Where the vowel does come (the other option, or outside the prohibition), it comes from the rule that teaches it, which has its own credit.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "74015",
+       "quote": "आबन्तस्याङ्गस्य कपि ह्रस्वः न भवत्यन्तरस्याम्"
+      }
+     ]
+    },
+    {
+     "n": "8.2.79",
+     "word": "दीर्घ taught by name as the substitute",
+     "should_be": "none",
+     "reason": "PROHIBITION",
+     "why": "The sūtra forbids the ह्रस्व/दीर्घ (optionally at 7.4.15); it teaches no substitute, so 1.2.28 is not needed to read it (C4). Where the vowel does come (the other option, or outside the prohibition), it comes from the rule that teaches it, which has its own credit.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "82079",
+       "quote": "रेफवकारान्तस्य भस्य कुर् छुर् इत्येतयोश्च दीर्घो न भवति"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "Licensed includes 18 members where the place is itself named as a vowel (इक्, अक्, अण्, अत्, the augment इट्, सम्प्रसारण): 6.1.127, 6.1.128, 6.3.61, 6.3.111, 6.3.121, 6.3.134, 6.3.135, 6.3.138, 6.3.139, 7.2.37, 7.2.38, 7.3.101, 7.3.102, 7.4.13, 7.4.70, 8.2.76, 8.2.77, 8.2.78. There the supplied “अचः” restricts nothing, but the Kaumudī says the word is supplied wherever a vowel is taught by these names (C1), so it is part of the reading. Kept as licensed and listed here in case Harsha prefers to treat them as idle (✖ or ↪)."
+  },
+  {
+   "id": "G2",
+   "group": "carried / not a sūtra word | svara | X",
+   "count": 22,
+   "verdict": "mixed",
+   "how_checked": "Every member read: the sūtra, the roles (place and substitute), and our vṛtti; the Kāśikā's first clause pulled by script for each. Sorted into: vowel taught by name as the substitute (vidhi) / the same vowel forbidden (“… न भवति”) / substitute that is not ह्रस्व/दीर्घ/प्लुत by name.",
+   "licensed": [
+    "8.2.83",
+    "8.2.84",
+    "8.2.85",
+    "8.2.86",
+    "8.2.87",
+    "8.2.88",
+    "8.2.90",
+    "8.2.91",
+    "8.2.92",
+    "8.2.93",
+    "8.2.94",
+    "8.2.95",
+    "8.2.96",
+    "8.2.97",
+    "8.2.98",
+    "8.2.99",
+    "8.2.101",
+    "8.2.102",
+    "8.2.103",
+    "8.2.104",
+    "8.2.105"
+   ],
+   "not_licensed": [
+    {
+     "n": "8.2.89",
+     "word": "प्लुत taught by name as the substitute",
+     "should_be": "none",
+     "reason": "WHOLE_PLACE_SUBSTITUTE",
+     "why": "What comes in is the प्रणव (ओम् / three-mora ओ) and it replaces the WHOLE टि, consonant included — the Kāśikā says “टि” is named so that it replaces the whole (C3). 1.2.28 would wrongly limit it to the vowel. The engine credits it only because प्लुत is carried in.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "82089",
+       "quote": "यज्ञकर्मणि टेः प्रणव आदेशो भवति।"
+      },
+      {
+       "file": "kashika",
+       "id": "82089",
+       "quote": "टिग्रहणं सर्वादेशार्थम्।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "The pluta rules on the टि are the Kāśikā's own type example (C2: “अग्निचि३त् … तकारस्य मा भूत्”). 8.2.86 (गुरोः) is licensed but idle in the same way as the vowel-named places in G1 (a guru is a vowel)."
+  },
+  {
+   "id": "G3",
+   "group": "carried / not a sūtra word | ekādeśa | X",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "Every member read: the sūtra, the roles (place and substitute), and our vṛtti; the Kāśikā's first clause pulled by script for each. Sorted into: vowel taught by name as the substitute (vidhi) / the same vowel forbidden (“… न भवति”) / substitute that is not ह्रस्व/दीर्घ/प्लुत by name.",
+   "licensed": [
+    "6.1.101"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "6.1.101 is licensed but idle: the ekādeśa दीर्घ replaces two vowels."
+  },
+  {
+   "id": "G4",
+   "group": "carried / not a sūtra word | ādeśa | X",
+   "count": 1,
+   "verdict": "unsure",
+   "how_checked": "Every member read: the sūtra, the roles (place and substitute), and our vṛtti; the Kāśikā's first clause pulled by script for each. Sorted into: vowel taught by name as the substitute (vidhi) / the same vowel forbidden (“… न भवति”) / substitute that is not ह्रस्व/दीर्घ/प्लुत by name.",
+   "licensed": [],
+   "not_licensed": [],
+   "unsure": [
+    {
+     "n": "8.2.106",
+     "word": "प्लुत taught by name as the substitute",
+     "why": "The Kāśikā reads “प्लुतौ” as describing what happens to the इ/उ parts of ऐ/औ (“इदुतौ प्लवेते”); the places are named by form as vowels. So it is unclear whether a vowel is “taught by the name प्लुत” here at all, and in any case the restriction is idle.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "82106",
+       "quote": "प्लुताविति हि क्रियानिमित्तोऽयं व्यपदेशः। इदुतौ प्लवेते वृद्धिं गच्छत इत्यर्थः।"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  }
+ ],
+ "missed": [
+  {
+   "n": "8.2.100",
+   "pid": "1.2.28",
+   "why": "An anudātta pluta taught (प्लुत carried from 8.2.82, on the टि) — the same type as the credited 8.2.99 and 8.2.101, but no credit.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "82100",
+     "quote": "अनुदात्तः प्लुतो भवति प्रश्नान्ते, अभिपूजिते च।"
+    }
+   ]
+  },
+  {
+   "n": "6.1.102",
+   "pid": "1.2.28",
+   "why": "दीर्घ carried from 6.1.101 (pūrvasavarṇa-दीर्घ). Idle like 6.1.101, but credited there and not here — inconsistent. 6.1.106 वा छन्दसि is the same.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "61102",
+     "quote": "अक इति दीर्घ इति वर्तते।"
+    }
+   ]
+  }
+ ]
+}

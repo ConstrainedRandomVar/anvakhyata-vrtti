@@ -1,0 +1,1356 @@
+{
+ "pid": "1.4.13",
+ "howGrouped": "case of the triggering word (own sūtra words only) | rule kind | start of the engine trigger text; member = \"<sūtra> <word>  ⟨engine effect⟩\"",
+ "applies": 596,
+ "consideredNotApplicable": 0,
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | ādeśa | X",
+   "count": 219,
+   "sutras": [
+    "3.4.110 the base before the suffix  ⟨the aṅga — the नैलेश-वृत्तिः says अङ्गात्⟩",
+    "6.4.19 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.20 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.34 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.36 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.56 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.57 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.63 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.65 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.66 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.67 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.68 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.69 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.70 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.76 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.81 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.82 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.83 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.84 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.85 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.86 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.87 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.88 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.89 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.90 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.102 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.103 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.110 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.113 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.114 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.115 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.116 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.120 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.121 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.122 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.123 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.124 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.125 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.126 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.127 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.130 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.139 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.160 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.161 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.162 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.163 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.1 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.2 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.3 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.4 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.5 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.9 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.10 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.11 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.12 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.13 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.14 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.15 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.16 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.17 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.18 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.19 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.20 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.21 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.24 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.25 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.26 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.28 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.31 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.32 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.33 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.34 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.35 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.40 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.44 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.53 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.74 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.84 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.85 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.86 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.87 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.89 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.93 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.94 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.99 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.100 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.101 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.102 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.103 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.2 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.36 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.61 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.80 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.81 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.83 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.84 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.85 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.86 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.87 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.88 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.89 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.92 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.93 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.94 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.95 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.96 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.97 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.98 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.99 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.100 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.101 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.102 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.103 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.106 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.108 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.109 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.111 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.112 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.2 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.3 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.4 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.5 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.6 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.7 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.8 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.9 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.25 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.32 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.38 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.39 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.41 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.42 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.43 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.44 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.45 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.46 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.47 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.48 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.49 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.50 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.52 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.53 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.54 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.55 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.57 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.58 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.59 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.60 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.63 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.64 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.65 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.66 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.67 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.77 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.78 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.79 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.92 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.94 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.95 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.96 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.97 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.98 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.100 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.103 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.104 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.105 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.113 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.117 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.118 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.119 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.120 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.4 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.5 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.6 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.7 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.9 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.17 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.18 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.19 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.27 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.28 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.31 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.32 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.33 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.35 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.37 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.38 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.40 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.41 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.42 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.43 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.46 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.47 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.48 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.49 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.52 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.54 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.55 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.56 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.60 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.61 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.62 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.63 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.64 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.65 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.66 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.73 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.74 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.76 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.79 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.80 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.81 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.84 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.88 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.89 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.90 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.95 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.96 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.97 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.4.110",
+     "word": "the base before the suffix",
+     "trigger": "the base before the suffix",
+     "effect": "the aṅga — the नैलेश-वृत्तिः says अङ्गात्",
+     "sutra": "आतः",
+     "ourVrtti": "आकारान्तात् परस्य सिज्‌लुकि झेः जुस् आदेशः भवति",
+     "kashika": "सिच आकारान्ताच्च परस्य झेर्जुसादेशो भवति।",
+     "prathamavrtti": "पूर्वेणैव प्राप्ते नियमार्थमिदं सूत्रम्। सिचः = सिज्‌लुकि आकाराताद्देव झेर्जुस् भवति॥"
+    },
+    {
+     "n": "7.1.40",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य",
+     "effect": "the aṅga = what the suffix was introduced after, together with whatever begins it, when that suffix follows",
+     "sutra": "अमो मश्",
+     "ourVrtti": "छन्दसि विषये अमः स्थाने अङ्गस्य स्थाने मश् आदेशः भवति",
+     "kashika": "तस्य छन्दसि विषये मशादेशो भवति।",
+     "prathamavrtti": "अमः स्थाने मश् आदेशो भवति छन्दसि विषये । 'अम्' इति मिबादेशो गृह्यते ॥"
+    },
+    {
+     "n": "7.3.59",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य",
+     "effect": "the aṅga = what the suffix was introduced after, together with whatever begins it, when that suffix follows",
+     "sutra": "न क्वादेः",
+     "ourVrtti": "कवर्गादेः धातोः चकारजकारयोः कवर्गादेशः न भवति",
+     "kashika": "कवर्गादेर्धातोश्चजोः कवर्गादेशो न भवति।",
+     "prathamavrtti": "कवर्गादेर्धातोश्चजो"
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "group": "carried / not a sūtra word | operation | X",
+   "count": 201,
+   "sutras": [
+    "6.4.2 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.3 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.4 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.5 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.6 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.7 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.8 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.9 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.10 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.11 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.12 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.13 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.14 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.15 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.16 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.17 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.18 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.21 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.23 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.24 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.25 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.26 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.27 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.30 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.31 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.32 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.33 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.35 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.37 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.38 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.39 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.40 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.41 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.42 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.43 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.44 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.45 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.47 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.48 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.49 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.50 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.52 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.55 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.58 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.59 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.60 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.61 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.64 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.92 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.93 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.94 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.95 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.96 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.97 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.98 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.99 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.100 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.104 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.105 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.106 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.107 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.108 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.109 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.111 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.112 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.118 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.119 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.131 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.132 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.133 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.134 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.135 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.136 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.137 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.138 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.141 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.142 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.144 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.145 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.146 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.147 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.148 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.149 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.150 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.151 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.152 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.153 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.154 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.156 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.157 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.158 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.22 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.23 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.39 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.41 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.1 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.3 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.4 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.5 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.6 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.7 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.37 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.38 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.39 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.40 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.79 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.90 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.107 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.113 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.114 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.115 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.116 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.117 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.118 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.1 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.11 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.12 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.13 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.14 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.15 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.16 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.17 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.18 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.19 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.20 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.21 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.22 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.23 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.24 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.26 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.27 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.28 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.29 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.30 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.31 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.34 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.35 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.70 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.71 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.72 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.73 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.74 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.75 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.76 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.80 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.81 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.82 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.83 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.84 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.85 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.86 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.87 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.88 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.89 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.90 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.91 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.101 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.102 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.107 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.108 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.109 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.110 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.111 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.114 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.115 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.1 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.2 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.3 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.10 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.11 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.12 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.13 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.14 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.15 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.16 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.21 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.23 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.24 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.25 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.26 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.29 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.30 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.39 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.50 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.51 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.53 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.57 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.58 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.59 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.67 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.68 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.69 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.70 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.75 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.77 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.78 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.82 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.83 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.92 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.94 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "8.2.27 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.2",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य",
+     "effect": "the aṅga = what the suffix was introduced after, together with whatever begins it, when that suffix follows",
+     "sutra": "हलः",
+     "ourVrtti": "अङ्गावयवात् हलः परस्य सम्प्रसारणान्तस्य अङ्गस्य स्थाने दीर्घः आदेशः भवति",
+     "kashika": "अङ्गावयवाद्धलो यदुत्तरं संप्रसारणं तदन्तस्याङ्गस्य दीर्घो भवति।",
+     "prathamavrtti": "अङ्गावयवाद् हलः परं यत् सम्प्रसारणम् अण् तदन्तस्याङ्गस्य दीर्घो भवति॥"
+    },
+    {
+     "n": "6.4.131",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य",
+     "effect": "the aṅga = what the suffix was introduced after, together with whatever begins it, when that suffix follows",
+     "sutra": "वसोः सम्प्रसारणम्",
+     "ourVrtti": "भस्य अङ्गस्य वस्वन्तस्य स्थाने सम्प्रसारणम् आदेशः भवति",
+     "kashika": "वस्वन्तस्य भस्य संप्रसारणं भवति।",
+     "prathamavrtti": "वस्वन्तस्याङ्गस्य भस्य सम्प्रसारणं भवति॥"
+    },
+    {
+     "n": "7.3.31",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य",
+     "effect": "the aṅga = what the suffix was introduced after, together with whatever begins it, when that suffix follows",
+     "sutra": "यथातथयथापुरयोः पर्यायेण",
+     "ourVrtti": "तद्धिते ञिति णिति किति च परे नञ उत्तरयोः आदेः यथातथ-यथापुरयोः अङ्गयोः पूर्वपदस्य उत्तरपदस्य अचः अङ्गस्य स्थाने पर्यायेण वृद्धिः आदेशः भवति",
+     "kashika": "यथातथ यथापुर इत्येतयोर्नञ उत्तरयोः पर्यायेणाचामादेरचो वृद्धिर्भवति तद्धिते ञिति णिति किति च परतः।",
+     "prathamavrtti": "नञ उत्तरयोः यथातथ यथापुर इत्येतयोरङ्गयोः पूर्वपदस्योत्तरपदस्याचामादेरचः स्थाने पर्यायेण वृद्धिर्भवति, तद्धिते ञिति णिति किति च परतः॥"
+    }
+   ]
+  },
+  {
+   "id": "G3",
+   "group": "carried / not a sūtra word | āgama | X",
+   "count": 109,
+   "sutras": [
+    "6.4.71 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.72 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.73 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.74 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.75 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.77 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.78 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.79 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.80 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.6 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.7 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.8 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.50 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.51 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.52 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.54 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.55 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.56 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.57 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.58 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.59 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.60 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.61 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.62 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.63 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.64 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.65 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.66 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.67 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.68 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.69 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.70 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.71 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.72 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.73 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.75 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.76 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.77 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.78 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.79 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.80 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.82 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.83 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.8 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.9 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.10 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.11 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.12 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.13 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.14 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.15 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.16 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.17 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.22 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.24 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.25 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.28 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.29 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.31 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.41 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.42 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.43 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.44 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.45 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.46 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.47 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.48 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.49 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.50 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.51 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.52 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.53 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.54 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.55 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.56 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.57 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.58 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.59 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.60 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.62 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.63 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.64 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.65 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.66 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.67 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.68 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.70 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.71 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.72 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.74 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.75 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.76 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.77 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.78 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.2.82 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.33 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.36 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.37 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.40 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.93 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.99 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.3.112 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.20 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.71 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.72 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.85 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.86 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.87 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.4.91 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.71",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य",
+     "effect": "the aṅga = what the suffix was introduced after, together with whatever begins it, when that suffix follows",
+     "sutra": "लुङ्लङ्लृङ्क्ष्वडुदात्तः",
+     "ourVrtti": "लुङ् लङ् लृङ् इत्येतेषु परे अङ्गस्य अट् आगमः उदात्तः भवति",
+     "kashika": "लुङ् लङ् लृङ् इत्येतेषु परतोऽङ्गस्याडागमो भवति, उदात्तश्च स भवति ।",
+     "prathamavrtti": "लुङ् लङ् लृङ् इत्येतेषु परतोऽङ्गस्य ‹अट्› आगमो भवति, उदात्तश्च स भवति ॥"
+    },
+    {
+     "n": "7.1.76",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य",
+     "effect": "the aṅga = what the suffix was introduced after, together with whatever begins it, when that suffix follows",
+     "sutra": "छन्दस्यपि दृश्यते",
+     "ourVrtti": "छन्दसि अस्थिदधिसक्थ्यक्ष्णाम् अङ्गस्य स्थाने दृश्यते अन्यत्रापि अनङ् आदेशः भवति",
+     "kashika": "अस्थिदधिसक्थ्यक्ष्णामनङ्  छन्दस्यपि दृश्यते।",
+     "prathamavrtti": "अस्थिदधिसक्थ्यक्ष्णां छन्दस्यप्यनङ् दृश्यते । यत्र विहितस्ततोऽन्यत्रापि दृश्यत इत्यर्थः ॥"
+    },
+    {
+     "n": "7.2.54",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य",
+     "effect": "the aṅga = what the suffix was introduced after, together with whatever begins it, when that suffix follows",
+     "sutra": "लुभो विमोहने",
+     "ourVrtti": "क्त्वानिष्ठयोः परे लुभ्-धातोः अङ्गस्य विमोहने अर्थे इडागमः भवति",
+     "kashika": "लुभो विमोहनेऽर्थे वर्तमानात् क्त्वानिष्ठयोरिडागमो भवति।",
+     "prathamavrtti": "विमोहनेऽर्थे वर्त्तमानात् लुभ उत्तरस्य क्त्वानिष्ठयोरिडागमो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G4",
+   "group": "carried / not a sūtra word | ādeśa | X: sthani",
+   "count": 19,
+   "sutras": [
+    "6.4.91 अङ्गस्य  ⟨“अङ्गस्य”⟩",
+    "6.4.101 अङ्गस्य  ⟨“अङ्गस्य”⟩",
+    "6.4.117 अङ्गस्य  ⟨“अङ्गस्य”⟩",
+    "6.4.159 अङ्गस्य  ⟨“अङ्गस्य”⟩",
+    "7.1.29 अङ्गस्य  ⟨“अङ्गस्य”⟩",
+    "7.1.30 अङ्गस्य  ⟨“अङ्गस्य”⟩",
+    "7.1.36 अङ्गस्य  ⟨“अङ्गस्य”⟩",
+    "7.1.37 अङ्गस्य  ⟨“अङ्गस्य”⟩",
+    "7.1.38 अङ्गस्य  ⟨“अङ्गस्य”⟩",
+    "7.1.42 अङ्गस्य  ⟨“अङ्गस्य”⟩",
+    "7.1.45 अङ्गस्य  ⟨“अङ्गस्य”⟩",
+    "7.1.46 अङ्गस्य  ⟨“अङ्गस्य”⟩",
+    "7.1.47 अङ्गस्य  ⟨“अङ्गस्य”⟩",
+    "7.1.81 अङ्गस्य  ⟨“अङ्गस्य”⟩",
+    "7.2.104 अङ्गस्य  ⟨“अङ्गस्य”⟩",
+    "7.2.105 अङ्गस्य  ⟨“अङ्गस्य”⟩",
+    "7.2.110 अङ्गस्य  ⟨“अङ्गस्य”⟩",
+    "7.3.56 अङ्गस्य  ⟨“अङ्गस्य”⟩",
+    "7.4.8 अङ्गस्य  ⟨“अङ्गस्य”⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.91",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य: sthani",
+     "effect": "“अङ्गस्य”",
+     "sutra": "वा चित्तविरागे",
+     "ourVrtti": "णौ परे दोषः उपधायाः अङ्गस्य स्थाने चित्तविरागे अर्थे विकल्पेन ऊकारः आदेशः भवति",
+     "kashika": "चित्तविकारार्थे दोष उपधाया वा ऊकारादेशो भवति णौ परतः।",
+     "prathamavrtti": "चित्तविरागेऽर्थे दोष उपधाया वा ऊकारादेशो भवति णौ परतः ॥"
+    },
+    {
+     "n": "7.1.36",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य: sthani",
+     "effect": "“अङ्गस्य”",
+     "sutra": "विदेः शतुर्वसुः",
+     "ourVrtti": "विदेः धातोः उत्तरस्य शतृ-प्रत्ययस्य स्थाने अङ्गस्य स्थाने विकल्पेन वसु-आदेशः भवति",
+     "kashika": "<<विद ज्ञाने>> इत्येतस्माद् धातोरुत्तरस्य शतुर्वसुरादेशो भवति।",
+     "prathamavrtti": "विद ज्ञाने इत्येतस्माद्धातोरुत्तरस्य शतुर्र्वसुरादेशो भवति ॥"
+    },
+    {
+     "n": "7.1.47",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य: sthani",
+     "effect": "“अङ्गस्य”",
+     "sutra": "क्त्वो यक्",
+     "ourVrtti": "छन्दसि विषये क्त्वा-प्रत्ययस्य अङ्गस्य यक् आगमः भवति",
+     "kashika": "क्त्वा इत्येतस्य यगागमो भवति छन्दसि विषये।",
+     "prathamavrtti": "छन्दसि विषये क्त्वा इत्येतस्य यक् आगमो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G5",
+   "group": "carried / not a sūtra word | svara | X",
+   "count": 8,
+   "sutras": [
+    "6.4.164 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.165 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.166 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.167 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.168 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.169 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "6.4.170 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "7.1.98 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.164",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य",
+     "effect": "the aṅga = what the suffix was introduced after, together with whatever begins it, when that suffix follows",
+     "sutra": "इनण्यनपत्ये",
+     "ourVrtti": "अणि परे इन्नन्तं भसंज्ञकम् अङ्गम् अनपत्यार्थे प्रकृत्या भवति",
+     "kashika": "इन्नन्तमनपत्यार्थेऽणि परतः प्रकृत्या भवति।",
+     "prathamavrtti": "अनपत्यार्थेऽणि परत इन्नन्तं भसंज्ञकाङ्गं प्रकृत्या भवति ॥"
+    },
+    {
+     "n": "6.4.166",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य",
+     "effect": "the aṅga = what the suffix was introduced after, together with whatever begins it, when that suffix follows",
+     "sutra": "संयोगादिश्च",
+     "ourVrtti": "अणि परे संयोगादिः इन्नन्तं भसंज्ञकम् अङ्गम् अङ्गस्य स्थाने प्रकृत्या आदेशः भवति",
+     "kashika": "संयोगादिश्चेनणि प्रकृत्या भवति।",
+     "prathamavrtti": "संयोगादिश्च इन् अणि परतः प्रकृत्या भवति ॥"
+    },
+    {
+     "n": "6.4.168",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य",
+     "effect": "the aṅga = what the suffix was introduced after, together with whatever begins it, when that suffix follows",
+     "sutra": "ये चाभावकर्मणोः",
+     "ourVrtti": "यकारादौ तद्धिते परे अन्-अन्तस्य भस्य अङ्गस्य स्थाने भावकर्मणोः अन्यस्मिन् अर्थे प्रकृत्या आदेशः भवति",
+     "kashika": "यकारादौ च तद्धितेऽभावकर्मणोरर्थयोरन् प्रकृत्या भवति।",
+     "prathamavrtti": "यकारादौ च तद्धिते परतोऽभावकर्मगोरर्थयोरन् प्रकृत्या भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G6",
+   "group": "carried / not a sūtra word | vidhi | X",
+   "count": 5,
+   "sutras": [
+    "3.1.80 the अ replaces the end of the aṅga धिन्व्/कृण्व् — the aṅga is what comes before the suffix उ  ⟨अङ्गस्य च अकारादेशः⟩",
+    "4.1.55 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "4.1.56 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "4.1.57 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩",
+    "4.1.58 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.80",
+     "word": "the अ replaces the end of the aṅga धिन्व्/कृण्व् — the aṅga is what comes before the suffix उ",
+     "trigger": "the अ replaces the end of the aṅga धिन्व्/कृण्व् — the aṅga is what comes before the suffix उ",
+     "effect": "अङ्गस्य च अकारादेशः",
+     "sutra": "धिन्विकृण्व्योर च",
+     "ourVrtti": "सार्वधातुके परे धातुभ्याम् धिन्वि-कृण्वि-धातुभ्याम् कर्तृवाचिनि उः प्रत्ययः परः च भवति, अकारः अन्तादेशः च भवति",
+     "kashika": "<<हिवि धिवि जिवि प्रीणनार्थाः>>, <<कृवि हिंसाकरणयोश्च>> इत्येतयोर्धात्वोरुप्रत्ययो भवति, अकारश्चान्तादेशः।",
+     "prathamavrtti": "धिन्वि कृण्वि इत्येताभ्यां धातुभ्याम् उः प्रत्ययो भवति कर्त्तृवाचिनि सार्वधातुके परतः, अकारश्चान्तादेशो भवति।"
+    },
+    {
+     "n": "4.1.55",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य",
+     "effect": "the aṅga = what the suffix was introduced after, together with whatever begins it, when that suffix follows",
+     "sutra": "नासिकोदरौष्ठजङ्घादन्तकर्णशृङ्गाच्च",
+     "ourVrtti": "नासिकोदरौष्ठजङ्घादन्तकर्णशृङ्गान्तात् स्वाङ्गवाचिनः उपसर्जनात् प्रातिपदिकात् स्त्रियाम् विकल्पेन ङीष् प्रत्ययः परः च भवति",
+     "kashika": "नासिकाद्यन्तात् प्रातिपदिकात् स्त्रियां वा ङीष् प्रत्ययो भवति।",
+     "prathamavrtti": "नासिका, उदर, ओष्ठ, जङ्घा, दन्त, कर्ण, शृङ्ग इत्येवमन्तात् स्वाङ्गवाचिन उपसर्जनात् प्रातिपदिकात् स्त्रियां वा ङीप् प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "4.1.56",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य",
+     "effect": "the aṅga = what the suffix was introduced after, together with whatever begins it, when that suffix follows",
+     "sutra": "न क्रोडादिबह्वचः",
+     "ourVrtti": "क्रोडाद्यन्तात् बह्वजन्ताच्च स्वाङ्गवाचिनः उपसर्जनात् प्रातिपदिकात् स्त्रियाम् ङीष् प्रत्ययः न भवति",
+     "kashika": "क्रोडाद्यन्ताद् बह्वजन्तात् च प्रातिपदिकात् स्त्रियां ङीष् प्रत्ययो न भवति।",
+     "prathamavrtti": "स्वाङ्गवाचिन उपसर्जनात् अदन्तान् क्रोडाद्यन्तात् प्रातिपदिकात् बह्वजन्ताच्च प्रातिपदिकात् स्त्रियां ङीष् प्रत्ययो न भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G7",
+   "group": "carried / not a sūtra word | āgama | X (6.4.1)",
+   "count": 4,
+   "sutras": [
+    "5.2.51 the aṅga adhikāra  ⟨the operation is on the aṅga — the नैलेश-वृत्तिः says अङ्गस्य⟩",
+    "5.2.52 the aṅga adhikāra  ⟨the operation is on the aṅga — the नैलेश-वृत्तिः says अङ्गस्य⟩",
+    "5.2.53 the aṅga adhikāra  ⟨the operation is on the aṅga — the नैलेश-वृत्तिः says अङ्गस्य⟩",
+    "5.2.129 the aṅga adhikāra  ⟨the operation is on the aṅga — the नैलेश-वृत्तिः says अङ्गस्य⟩"
+   ],
+   "samples": [
+    {
+     "n": "5.2.51",
+     "word": "the aṅga adhikāra",
+     "trigger": "the aṅga adhikāra (6.4.1)",
+     "effect": "the operation is on the aṅga — the नैलेश-वृत्तिः says अङ्गस्य",
+     "sutra": "षट्कतिकतिपयचतुरां थुक्",
+     "ourVrtti": "डटि परतस् षट् कति कतिपय चतुर् इत्येतेषाम् थुक् आगमः भवति",
+     "kashika": "षट् कति कतिपय चतुर् इत्येतेषां डटि परतस्थुगागमो भवति।",
+     "prathamavrtti": "षट्, कति, कतिपयं, चतुर इत्येतेषां पूरणार्थे डटि परतस्थुक् आगमो भवति ॥"
+    },
+    {
+     "n": "5.2.52",
+     "word": "the aṅga adhikāra",
+     "trigger": "the aṅga adhikāra (6.4.1)",
+     "effect": "the operation is on the aṅga — the नैलेश-वृत्तिः says अङ्गस्य",
+     "sutra": "बहुपूगगणसंघस्य तिथुक्",
+     "ourVrtti": "डटि परतस् बहु पूग गण संघ इत्येतेषाम् तिथुक् आगमः भवति",
+     "kashika": "बहु पूग गण संघ इत्येतेषां डटि परतस्तिथुगागमो भवति।",
+     "prathamavrtti": "बहु, पूग, गण, संघ इत्येतेषां पूरणार्थे डटि परतस्तिथुक् आगमो भवति ॥"
+    },
+    {
+     "n": "5.2.53",
+     "word": "the aṅga adhikāra",
+     "trigger": "the aṅga adhikāra (6.4.1)",
+     "effect": "the operation is on the aṅga — the नैलेश-वृत्तिः says अङ्गस्य",
+     "sutra": "वतोरिथुक्",
+     "ourVrtti": "डटि प्रत्यये परे संख्यावाचिनः वत्वन्तस्य प्रातिपदिकस्य पूरणे अर्थे इथुक् आगमः भवति",
+     "kashika": "वतोर्डटि परत इथुगागमो भवति।",
+     "prathamavrtti": "संख्यावाचिनो वत्वन्तस्य प्रातिपदिकस्य पूरणार्थे डटि परत इथुग् आगमो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G8",
+   "group": "carried / not a sūtra word | ādeśa | X (6.4.1)",
+   "count": 4,
+   "sutras": [
+    "6.4.128 the aṅga adhikāra  ⟨the operation is on the aṅga — the prathamāvṛtti, Kāśikā say अङ्गस्य⟩",
+    "7.3.106 the aṅga adhikāra  ⟨the operation is on the aṅga — the नैलेश-वृत्तिः, prathamāvṛtti, Kāśik⟩",
+    "7.4.22 the aṅga adhikāra  ⟨the operation is on the aṅga — the Kāśikā says अङ्गस्य⟩",
+    "7.4.44 the aṅga adhikāra  ⟨the operation is on the aṅga — the prathamāvṛtti, Kāśikā say अङ्गस्य⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.128",
+     "word": "the aṅga adhikāra",
+     "trigger": "the aṅga adhikāra (6.4.1)",
+     "effect": "the operation is on the aṅga — the prathamāvṛtti, Kāśikā say अङ्गस्य",
+     "sutra": "मघवा बहुलम्",
+     "ourVrtti": "अङ्गस्य मघवन्-इत्येतस्य स्थाने बहुलम् तृ-आदेशः भवति",
+     "kashika": "मघवन्नित्येतस्याङ्गस्य बहुलं तृ इत्ययमादेशो भवति।",
+     "prathamavrtti": "मघवन् इत्येतस्याङ्गस्य बहुलं तृ इत्ययमादेशो भवति ॥"
+    },
+    {
+     "n": "7.3.106",
+     "word": "the aṅga adhikāra",
+     "trigger": "the aṅga adhikāra (6.4.1)",
+     "effect": "the operation is on the aṅga — the नैलेश-वृत्तिः, prathamāvṛtti, Kāśikā say अङ्गस्य",
+     "sutra": "सम्बुद्धौ च",
+     "ourVrtti": "सम्बुद्धौ परे आबन्तस्य अङ्गस्य स्थाने एकारादेशः भवति",
+     "kashika": "संबुद्धौ च परत आबन्तस्याङ्गस्य एत्वं भवति।",
+     "prathamavrtti": "सम्बुद्धौ च परत आबन्तस्याङ्गस्य एकारादेशो भवति॥"
+    },
+    {
+     "n": "7.4.22",
+     "word": "the aṅga adhikāra",
+     "trigger": "the aṅga adhikāra (6.4.1)",
+     "effect": "the operation is on the aṅga — the Kāśikā says अङ्गस्य",
+     "sutra": "अयङ् यि क्ङिति",
+     "ourVrtti": "यकारादौ क्ङिति प्रत्यये परे अङ्गस्य शीङः स्थाने अयङ् आदेशः भवति",
+     "kashika": "यकारादौ क्ङिति प्रत्यये परतः शीङः अङ्गस्य अयङित्ययमादेशो भवति।",
+     "prathamavrtti": "यकारादौ क्ङिति प्रत्यये परतः शीङोऽङ्गस्य अयङ् इत्ययमादेशो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G9",
+   "group": "carried / not a sūtra word | operation | X (6.4.1)",
+   "count": 4,
+   "sutras": [
+    "6.4.140 the aṅga adhikāra  ⟨the operation is on the aṅga — the नैलेश-वृत्तिः, prathamāvṛtti, Laghu⟩",
+    "6.4.143 the aṅga adhikāra  ⟨the operation is on the aṅga — the नैलेश-वृत्तिः, prathamāvṛtti say अङ⟩",
+    "6.4.155 the aṅga adhikāra  ⟨the operation is on the aṅga — the prathamāvṛtti says अङ्गस्य⟩",
+    "7.1.88 the aṅga adhikāra  ⟨the operation is on the aṅga — the नैलेश-वृत्तिः says अङ्गस्य⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.140",
+     "word": "the aṅga adhikāra",
+     "trigger": "the aṅga adhikāra (6.4.1)",
+     "effect": "the operation is on the aṅga — the नैलेश-वृत्तिः, prathamāvṛtti, Laghu-kaumudī say अङ्गस्य",
+     "sutra": "आतो धातोः",
+     "ourVrtti": "आकारान्तस्य धातोः तदन्तस्य भस्य अङ्गस्य स्थाने लोपः भवति",
+     "kashika": "आकारान्तस्य धातोर्भस्य लोपो भवति।",
+     "prathamavrtti": "आकारान्तो यो धातुस्तदन्तस्य भस्याङ्गस्य लोपो भवति ॥"
+    },
+    {
+     "n": "6.4.143",
+     "word": "the aṅga adhikāra",
+     "trigger": "the aṅga adhikāra (6.4.1)",
+     "effect": "the operation is on the aṅga — the नैलेश-वृत्तिः, prathamāvṛtti say अङ्गस्य",
+     "sutra": "टेः",
+     "ourVrtti": "डिति प्रत्यये परे भसंज्ञकस्य अङ्गस्य टेः भागस्य स्थाने लोपः भवति",
+     "kashika": "टिसंज्ञकस्य डिति प्रत्यये परतो लोपो भवति।",
+     "prathamavrtti": "भसंज्ञकस्याङ्गस्य टेर्लोपो भवति, डिति प्रत्यये परतः॥"
+    },
+    {
+     "n": "6.4.155",
+     "word": "the aṅga adhikāra",
+     "trigger": "the aṅga adhikāra (6.4.1)",
+     "effect": "the operation is on the aṅga — the prathamāvṛtti says अङ्गस्य",
+     "sutra": "टेः",
+     "ourVrtti": "इष्ठेमेयस्सु परे भसंज्ञकस्य अङ्गस्य टेः स्थाने लोपः भवति",
+     "kashika": "भस्य टेर्लोपो भवतीष्ठेमेयस्सु परतः।",
+     "prathamavrtti": "इष्ठेमेयस्सु परतः भसंज्ञकस्याङ्गस्य टेर्लोपो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G10",
+   "group": "carried / not a sūtra word | vidhi | X: prakriti",
+   "count": 2,
+   "sutras": [
+    "5.3.83 अङ्गस्य  ⟨“अङ्गस्य”⟩",
+    "5.3.84 शेवल-सुपरिविशाल-वरुण-अर्यमा-आदीनाम्  ⟨“शेवलसुपरिविशालवरुणार्यमादीनाम् अङ्गानाम्”⟩"
+   ],
+   "samples": [
+    {
+     "n": "5.3.83",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य: prakriti",
+     "effect": "“अङ्गस्य”",
+     "sutra": "ठाजादावूर्ध्वं द्वितीयादचः",
+     "ourVrtti": "ठाजादौ प्रत्यये परे अचः परस्य द्वितीयात् ऊर्ध्वस्य शब्दरूपस्य स्थाने अङ्गस्य लोपः भवति",
+     "kashika": "अस्मिन् प्रकरणे यष्ठोऽजादिश्च प्रत्ययः, तस्मिन् परतः प्रकृतेर्द्वितीयादच ऊर्ध्वं यच्छब्दरूपं तस्य लोपो भवति।",
+     "prathamavrtti": "अस्मिन् प्रकरणे यष्टः अजादिश्च प्रत्ययस्तस्मिन् परतो द्वितीयादच ऊर्ध्वं यच्छब्दरूपं तस्य लोपो भवति॥"
+    },
+    {
+     "n": "5.3.84",
+     "word": "शेवल-सुपरिविशाल-वरुण-अर्यमा-आदीनाम्",
+     "trigger": "शेवल-सुपरिविशाल-वरुण-अर्यमा-आदीनाम्: prakriti",
+     "effect": "“शेवलसुपरिविशालवरुणार्यमादीनाम् अङ्गानाम्”",
+     "sutra": "शेवलसुपरिविशालवरुणार्यमादीनां तृतीयात्",
+     "ourVrtti": "ठाजादौ प्रत्यये परे अचः परस्य तृतीयात् शेवलसुपरिविशालवरुणार्यमादीनाम् अङ्गानाम् ऊर्ध्वस्य शब्दरूपस्य स्थाने लोपः भवति",
+     "kashika": "शेवलादीनां मनुष्यनाम्नां ठाजादौ प्रत्यये परतः तृतीयादच ऊर्ध्वस्य लोपो भवति।",
+     "prathamavrtti": "शेवलसुपरिविशालवरुणार्यमादीनां मनुष्यनामवाचिनां शब्दानां ठाजादौ प्रत्यये परतस्तृतीयादच ऊर्ध्वं यत् शब्दरूपं तस्य लोपो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G11",
+   "group": "carried / not a sūtra word | atideśa | X: adhikara",
+   "count": 2,
+   "sutras": [
+    "6.4.62 अङ्गस्य  ⟨“अङ्गानाम्”⟩",
+    "7.1.95 अङ्गस्य  ⟨“अङ्गस्य”⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.62",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य: adhikara",
+     "effect": "“अङ्गानाम्”",
+     "sutra": "स्यसिच्सीयुट्तासिषु भावकर्मणोरुपदेशेऽज्झनग्रहदृशां वा चिण्वदिट् च",
+     "ourVrtti": "भावकर्मविषयेषु स्य सिच् सीयुट् तासि इत्येतेषु परेषु उपदेशे अजन्तानाम् हन्-ग्रह-दृशाम् अङ्गानाम् च विकल्पेन चिण्वत् कार्यम् इडागमः भवति",
+     "kashika": "स्य सिच् सीयुट् तासि इत्येतेषु भावकर्मविषयेषु परत उपदेशेऽजन्तानामङ्गानां हन् ग्रह दृश् इत्येतेषां च चिण्वत् कार्यं भवति वा।",
+     "prathamavrtti": "स्य, सिच्, सीयुट्, तासि इत्येतेषु परतो भावकर्मविषयेषु उपदेशेऽजन्तानामङ्गानां हन्, ग्रह, दृश् इत्येतेषां च चिण्वत् कार्यं विकल्पेन भवति, इडागमश्च॥"
+    },
+    {
+     "n": "7.1.95",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य: adhikara",
+     "effect": "“अङ्गस्य”",
+     "sutra": "तृज्वत् क्रोष्टुः",
+     "ourVrtti": "सर्वनामस्थाने परे असम्बुद्धौ क्रोष्टुशब्दः तृजन्तवत् भवति",
+     "kashika": "क्रोष्टुशब्दस्तुन्प्रत्ययान्तः संज्ञाशब्दः सर्वनामस्थानेऽसंबुद्धौ परतः तृज्वद् भवति।",
+     "prathamavrtti": "सर्वनामस्थानेऽसंबुद्धौ परतस्तृन्प्रत्ययान्तः क्रोष्टुशब्दस्तृज्वत् भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G12",
+   "group": "carried / not a sūtra word | ādeśa | X: qualifier",
+   "count": 2,
+   "sutras": [
+    "7.1.27 अङ्गस्य  ⟨“अङ्गाभ्याम्”⟩",
+    "7.3.116 अङ्गस्य  ⟨“अङ्गात्”⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.1.27",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य: qualifier",
+     "effect": "“अङ्गाभ्याम्”",
+     "sutra": "युष्मदस्मद्भ्यां ङसोऽश्",
+     "ourVrtti": "युष्मदस्मद्भ्याम् अङ्गाभ्याम् ङसः स्थाने अङ्गस्य स्थाने अश् आदेशः भवति",
+     "kashika": "युष्मदस्मदित्येताभ्यामुत्तरस्य ङसोऽशित्ययमादेशो भवति।",
+     "prathamavrtti": "युष्मद् अस्मद् इत्ये- ताभ्यामङ्गाभ्यामुत्तरस्य ङसः स्थाने 'अश्' इत्ययमादेशो भवति ॥"
+    },
+    {
+     "n": "7.3.116",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य: qualifier",
+     "effect": "“अङ्गात्”",
+     "sutra": "ङेराम्नद्याम्नीभ्यः",
+     "ourVrtti": "नद्यन्तात् आबन्तात् नी इत्येतस्माच्च अङ्गात् ङेः स्थाने आम् आदेशः भवति",
+     "kashika": "नद्यन्तादाबन्ताद् नीत्येतस्मात् चोत्तरस्य ङेरामित्ययमादेशो भवति।",
+     "prathamavrtti": "नद्यन्तादाबन्तात् नी इत्येतस्माच्चोत्तरस्य ङेः 'आम्' इत्ययमादेशो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G13",
+   "group": "carried / not a sūtra word | ādeśa | X: adhikara",
+   "count": 2,
+   "sutras": [
+    "7.1.96 अङ्गस्य  ⟨“अङ्गस्य”⟩",
+    "7.1.97 अङ्गस्य  ⟨“अङ्गस्य”⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.1.96",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य: adhikara",
+     "effect": "“अङ्गस्य”",
+     "sutra": "स्त्रियां च",
+     "ourVrtti": "क्रोष्टुशब्दस्य स्त्रियाम् अर्थे तृजन्तवत् भवति",
+     "kashika": "स्त्रियां च क्रोष्टुशब्दस्य तृज्वद् भवति।",
+     "prathamavrtti": "स्त्रियां च क्रोष्टुशब्दस्य तृज्वत् भवति ॥"
+    },
+    {
+     "n": "7.1.97",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य: adhikara",
+     "effect": "“अङ्गस्य”",
+     "sutra": "विभाषा तृतीयादिष्वचि",
+     "ourVrtti": "अजादिषु तृतीयादिषु विभक्तिषु परे क्रोष्टुशब्दः विकल्पेन तृजन्तवत् भवति",
+     "kashika": "तृतीयादिषु विभक्तिष्वजादिषु क्रोष्टुर्विभाषा तृज्वद् भवति।",
+     "prathamavrtti": "तृतीयादिष्वजादिषु विभक्तिषु परतो क्रोष्टुर्विभाषा तृज्वत् भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G14",
+   "group": "carried / not a sūtra word | paribhāṣā | X",
+   "count": 1,
+   "sutras": [
+    "1.1.63 1.1.63  ⟨अङ्गस्य: the aṅga before that suffix — its suffix-caused operation doe⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.1.63",
+     "word": "1.1.63",
+     "trigger": "1.1.63",
+     "effect": "अङ्गस्य: the aṅga before that suffix — its suffix-caused operation does not take place",
+     "sutra": "न लुमताङ्गस्य",
+     "ourVrtti": "लुमता शब्देन प्रत्ययस्य लोपे सति तस्मिन् परे यत् अङ्गम् तस्य प्रत्ययलक्षणम् कार्यम् न भवति",
+     "kashika": "लुमता शब्देन लुप्ते प्रत्यये यदङ्गम्, तस्य प्रत्ययलक्षणं कार्यं न भवति।",
+     "prathamavrtti": "लुमता शब्देन प्रत्ययस्य लोपे (अदर्शने) सति तस्मिन् परतो यदङ्गं तस्य यत् प्रत्ययलक्षणं कार्यं तन्न भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G15",
+   "group": "named by a commentator | operation | X",
+   "count": 1,
+   "sutras": [
+    "1.2.48 named by न्यासः  ⟨the aṅga = what a suffix is introduced after (with whatever begins it)⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.2.48",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "the aṅga = what a suffix is introduced after (with whatever begins it), when that suffix follows",
+     "sutra": "गोस्त्रियोरुपसर्जनस्य",
+     "ourVrtti": "उपसर्जनगोशब्दान्तस्य उपसर्जनस्त्रीप्रत्ययान्तस्य च उपसर्जनस्य प्रातिपदिकस्य स्थाने ह्रस्वः आदेशः भवति",
+     "kashika": "उपसर्जनगोशब्दान्तस्य उपसर्जनस्त्रीप्रत्ययान्तान्तस्य च प्रातिपदिकस्य ह्रस्वो भवति।",
+     "prathamavrtti": "उपसर्जनगोशब्दान्तस्य प्रातिपदिकस्य, उपसर्जनस्त्रीप्रत्ययान्तस्य च प्रातिपदिकस्य ह्रस्वो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G16",
+   "group": "carried / not a sūtra word | ekavat | X",
+   "count": 1,
+   "sutras": [
+    "2.4.2 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.4.2",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य",
+     "effect": "the aṅga = what the suffix was introduced after, together with whatever begins it, when that suffix follows",
+     "sutra": "द्वन्द्वश्च प्राणितूर्यसेनाङ्गानाम्",
+     "ourVrtti": "प्राण्यङ्गानां तूर्याङ्गानां सेनाङ्गानां च द्वन्द्वसमासः एकवद् भवति",
+     "kashika": "प्राण्यङ्गानां द्वन्द्व एकवद् भवति, तथा तूर्याङ्गानां सेनाङ्गानां च।",
+     "prathamavrtti": "प्राण्यङ्गानां तूर्याङ्गानां सेनाङ्गानां च द्वन्द्व एकवद्भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G17",
+   "group": "named by a commentator | saṃjñā | X",
+   "count": 1,
+   "sutras": [
+    "3.1.1 named by न्यासः  ⟨the aṅga = what a suffix is introduced after (with whatever begins it)⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.1",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "the aṅga = what a suffix is introduced after (with whatever begins it), when that suffix follows",
+     "sutra": "प्रत्ययः",
+     "ourVrtti": "प्रत्ययः इति अधिकारः",
+     "kashika": "आ पञ्चमाध्यायपरिसमाप्तेर्यानित ऊर्ध्वमनुक्रमिष्यामः, प्रत्ययसंज्ञास्ते वेदितव्याः, प्रकृत्युपपदोपाधिविकारागमान् वर्जयित्वा।",
+     "prathamavrtti": "इतोऽग्रे आपञ्चमाध्यायपरिसमाप्तेः (५।४।१६० इति यावत्) 'प्रत्ययः' इति संज्ञात्वेनाधिक्रियते ॥"
+    }
+   ]
+  },
+  {
+   "id": "G18",
+   "group": "named by a commentator | adhikāra | X",
+   "count": 1,
+   "sutras": [
+    "3.1.91 named by महाभाष्यम्  ⟨the aṅga = what a suffix is introduced after (with whatever begins it)⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.91",
+     "word": "named by महाभाष्यम्",
+     "trigger": "named by महाभाष्यम्",
+     "effect": "the aṅga = what a suffix is introduced after (with whatever begins it), when that suffix follows",
+     "sutra": "धातोः",
+     "ourVrtti": "धातोः इति अधिकारः",
+     "kashika": "धातोरित्ययमधिकारो वेदितव्यः।",
+     "prathamavrtti": "आ तृतीयाध्यायपरिसमाप्तेः (३।४।११७), धातोरित्ययमधिकारो वेदितव्यः॥"
+    }
+   ]
+  },
+  {
+   "id": "G19",
+   "group": "carried / not a sūtra word | vidhi | X (…-…: … …)",
+   "count": 1,
+   "sutras": [
+    "5.3.72 the क-final base before अकच् is an aṅga  ⟨ककारान्तस्य अङ्गस्य⟩"
+   ],
+   "samples": [
+    {
+     "n": "5.3.72",
+     "word": "the क-final base before अकच् is an aṅga",
+     "trigger": "the क-final base before अकच् is an aṅga (नैलेश-वृत्तिः: ककारान्तस्य अङ्गस्य)",
+     "effect": "ककारान्तस्य अङ्गस्य",
+     "sutra": "कस्य च दः",
+     "ourVrtti": "अकच्सन्नियोगेन ककारान्तस्य प्रातिपदिकस्य स्थाने दकारादेशः भवति",
+     "kashika": "ककारान्तस्य प्रातिपदिकस्याकच्सन्नियोगेन दकारादेशो भवति।",
+     "prathamavrtti": "ककारान्तस्याव्ययस्य प्रातिपदिकस्याकच्सन्नियोगेन दकारादेशो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G20",
+   "group": "own word, data case 6 | operation | X: sthani",
+   "count": 1,
+   "sutras": [
+    "6.3.119 बह्वचः  ⟨“बह्वचः अङ्गस्य”⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.3.119",
+     "word": "बह्वचः",
+     "trigger": "बह्वचः: sthani",
+     "effect": "“बह्वचः अङ्गस्य”",
+     "sutra": "मतौ बह्वचोऽनजिरादीनाम्",
+     "ourVrtti": "संज्ञायाम् विषये मतौ परे अजिरादिवर्जितस्य बह्वचः अङ्गस्य स्थाने दीर्घः आदेशः भवति",
+     "kashika": "मतौ परतो बह्वचोऽजिरादिवर्जितस्य दीर्घो भवति संज्ञायां विषये।",
+     "prathamavrtti": "अजिरादिवर्जितस्य बह्वचो मतौ परतोऽणोदीर्घो भवति संज्ञायां विषये॥"
+    }
+   ]
+  },
+  {
+   "id": "G21",
+   "group": "own word, data case 6 | adhikāra | X",
+   "count": 1,
+   "sutras": [
+    "6.4.1 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.1",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य",
+     "effect": "the aṅga = what the suffix was introduced after, together with whatever begins it, when that suffix follows",
+     "sutra": "अङ्गस्य",
+     "ourVrtti": "अङ्गस्य इति अधिकारः",
+     "kashika": "यदित ऊर्ध्वमनुक्रमिष्यामोऽङ्गस्येत्येवं तद् वेदितव्यम्।",
+     "prathamavrtti": "अधिकारोऽयम् आसप्तमाध्यायपरिसमाप्तेः। यदित ऊर्ध्वमनुक्रमिष्यामोऽङ्गस्य इत्येवं तद्वेदितव्यम्॥"
+    }
+   ]
+  },
+  {
+   "id": "G22",
+   "group": "carried / not a sūtra word | operation | X: sthani",
+   "count": 1,
+   "sutras": [
+    "6.4.51 अङ्गस्य  ⟨“अङ्गस्य”⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.51",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य: sthani",
+     "effect": "“अङ्गस्य”",
+     "sutra": "णेरनिटि",
+     "ourVrtti": "अनिडादौ आर्धधातुके परे णिप्रत्ययस्य अङ्गस्य स्थाने लोपः भवति",
+     "kashika": "अनिडादावार्धधातुके णेर्लोपो भवति।",
+     "prathamavrtti": "अनिडादावार्धधातुके णेलोपो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G23",
+   "group": "own word, data case 5 | atideśa | X: purva",
+   "count": 1,
+   "sutras": [
+    "7.1.92 सख्युः  ⟨“सख्युः अङ्गात् परम्”⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.1.92",
+     "word": "सख्युः",
+     "trigger": "सख्युः: purva",
+     "effect": "“सख्युः अङ्गात् परम्”",
+     "sutra": "सख्युरसम्बुद्धौ",
+     "ourVrtti": "असम्बुद्धौ सख्युः अङ्गात् परम् अङ्गस्य सर्वनामस्थानम् णिद्वत् भवति",
+     "kashika": "असंबुद्धौ यः सखिशब्दः तस्मात् परं सर्वनामस्थानं णिद् भवति।",
+     "prathamavrtti": "असंबुद्धौ यः सखिशब्दस्तस्मात् परं सर्वनामस्थानं णित् भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G24",
+   "group": "carried / not a sūtra word | āgama | X: sthani",
+   "count": 1,
+   "sutras": [
+    "7.2.35 अङ्गस्य  ⟨“अङ्गस्य”⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.2.35",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य: sthani",
+     "effect": "“अङ्गस्य”",
+     "sutra": "आर्धधातुकस्येड् वलादेः",
+     "ourVrtti": "वलादेः आर्धधातुकस्य अङ्गस्य इट् आगमः भवति",
+     "kashika": "आर्धधातुकस्य वलादेरिडागमो भवति।",
+     "prathamavrtti": "वलादेरार्धधातुकस्य इडागमो भवति।"
+    }
+   ]
+  },
+  {
+   "id": "G25",
+   "group": "carried / not a sūtra word | pada | X",
+   "count": 1,
+   "sutras": [
+    "7.2.73 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.2.73",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य",
+     "effect": "the aṅga = what the suffix was introduced after, together with whatever begins it, when that suffix follows",
+     "sutra": "यमरमनमातां सक् च",
+     "ourVrtti": "सिचि परे परस्मैपदेषु परे यम, रम्, णम इत्येतेषामङ्गानामाकारान्तानाञ्च अङ्गस्य सिचः च सक् आगमः इडागमः भवति",
+     "kashika": "यम रम नम इत्येतेषामङ्गानामाकारान्तानां च सगागमो भवति परस्मैपदे सिचि, इडागमश्च।",
+     "prathamavrtti": "यम, रम्, णम इत्येतेषामङ्गानामाकारान्तानाञ्च सक् आगमो भवति, सिच इडागमश्च परस्मैपदेषु परतः ॥"
+    }
+   ]
+  },
+  {
+   "id": "G26",
+   "group": "carried / not a sūtra word | ādeśa | X: purva",
+   "count": 1,
+   "sutras": [
+    "7.3.51 अङ्गस्य  ⟨“अङ्गात् परस्य”⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.3.51",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य: purva",
+     "effect": "“अङ्गात् परस्य”",
+     "sutra": "इसुसुक्तान्तात् कः",
+     "ourVrtti": "अङ्गात् परस्य इसुसुक्तान्तात् ठस्य स्थाने ककारादेशः भवति",
+     "kashika": "इस् उस् इत्येवमन्तानामुगन्तानां तान्तानां चाङ्गानामुत्तरस्य ठस्य क इत्ययमादेशो भवति।",
+     "prathamavrtti": "इसन्तात्, उसन्तात्, उगन्तात्, तकारान्तात् चाङ्गादुत्तरस्य ठस्य स्थाने क इत्ययमादेशो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G27",
+   "group": "carried / not a sūtra word | atideśa | X: prakriti",
+   "count": 1,
+   "sutras": [
+    "7.4.93 अङ्गस्य  ⟨“अङ्गस्य”⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.4.93",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य: prakriti",
+     "effect": "“अङ्गस्य”",
+     "sutra": "सन्वल्लघुनि चङ्परेऽनग्लोपे",
+     "ourVrtti": "चङ्परे लघुनि धात्वक्षरे परे अकः लोपे असति णौ परे अभ्यासस्य अङ्गस्य सनि इव कार्यम् भवति",
+     "kashika": "लघुनि धात्वक्षरे परतो योऽभ्यासः तस्य चङ्परे णौ परतः सनीव कार्यं भवति अनग्लोपे।",
+     "prathamavrtti": "चङ्परे णौ परतो यदङ्गं तस्य योऽभ्यासस्तस्य सनीव कार्यं भवति लघुनि धात्वक्षरे परतोऽनग्लोपे ॥"
+    }
+   ]
+  },
+  {
+   "id": "G28",
+   "group": "carried / not a sūtra word | ṣatva | X",
+   "count": 1,
+   "sutras": [
+    "8.3.78 अङ्गस्य  ⟨the aṅga = what the suffix was introduced after, together with whateve⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.3.78",
+     "word": "अङ्गस्य",
+     "trigger": "अङ्गस्य",
+     "effect": "the aṅga = what the suffix was introduced after, together with whatever begins it, when that suffix follows",
+     "sutra": "इणः षीध्वंलुङ्लिटां धोऽङ्गात्",
+     "ourVrtti": "इणन्तात् अङ्गात् उत्तरेषां षीध्वम् लुङ् लिट् इत्येतेषाम् धकारस्य स्थाने मूर्धन्यादेशः भवति",
+     "kashika": "इणन्तादङ्गादुत्तरेषां षीध्वंलुङ्लिटां यो धकारस्तस्य मूर्धन्यादेशो भवति।",
+     "prathamavrtti": "इणन्तादङ्गादुत्तरेषां षीध्वम्, लुङ्, लिट् इत्येतेषां यो धकारस्तस्य मूर्धन्यादेशो भवति ॥"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1237 @@
+{
+ "pid": "1.1.46",
+ "generated": "2026-11-20",
+ "totals_by_firing": {
+  "licensed": 114,
+  "not licensed": 33,
+  "unsure": 11
+ },
+ "totals_by_group": {
+  "mixed": 3,
+  "licensed": 8,
+  "unsure": 2,
+  "not licensed": 3
+ },
+ "not_licensed_by_should_be": {
+  "none": 33
+ },
+ "conditions": [
+  {
+   "text": "C1. Content: an augment marked ṭ becomes the first part, one marked k the last part, of what is named in the 6th case. It places an augment (āgama) that a sūtra teaches.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11046",
+     "quote": "आदिष्टिद् भवति अन्तःकिद् भवति षष्ठीनिर्दिष्टस्य"
+    },
+    {
+     "file": "kashika",
+     "id": "11046",
+     "quote": "टित्प्रदेशाः — <<आर्धधातुकस्येड् वलादेः>>[[७.२.३५]] इत्येवमादयः"
+    }
+   ]
+  },
+  {
+   "text": "C2. Only augments: a ṭ/k marker on a suffix or on a substitute does not bring in 1.1.46 (a suffix cannot be part of anything; इट् in the tiṅ list is a substitute of ल).",
+   "quotes": [
+    {
+     "file": "nyaas",
+     "id": "32008",
+     "quote": "टित्करणं ङीबर्थम्; न तु <<आद्यन्तौ टकितौ>> [[1.1.46]]  इत्येवमर्थम्। कुत एतत्? आद्यन्तयोरवयवत्वात्। न च प्रत्ययोऽवयवो युज्यते"
+    },
+    {
+     "file": "nyaas",
+     "id": "34078",
+     "quote": "इटोऽप्यादेशत्वं तेन भवतीति न भवति देशवनिध्यर्थष्टकारः"
+    }
+   ]
+  },
+  {
+   "text": "C3. The host: the item in the 6th case. With a 5th, the Kāśikā takes the following item (1.1.67) or, for तुक् after a long vowel, the preceding vowel.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "64063",
+     "quote": "दीङ इति पञ्चमीनिर्देशादजादेर्युडागमो भवति"
+    },
+    {
+     "file": "kashika",
+     "id": "61075",
+     "quote": "दीर्घात् परो यश्छकारस्तस्मिन् पूर्वस्य तस्यैव दीर्घस्य तुगागमो भवति"
+    }
+   ]
+  },
+  {
+   "text": "C4. A sūtra that forbids the augment (also optionally: “वा … न भवति”) places nothing, so it does not need 1.1.46. Where the absence of इट् is given as a nipātana (7.2.64) the same holds.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "72008",
+     "quote": "वशादौ कृति प्रत्यये परत इडागमो न भवति"
+    },
+    {
+     "file": "kashika",
+     "id": "72029",
+     "quote": "लोमसु वर्तमानस्य हृषेर्निष्ठायां वेडागमो न भवति"
+    }
+   ]
+  },
+  {
+   "text": "C5. सुट् (6.1.135–142) is disputed. The Kāśikā: “कात् पूर्वः” shows that सुट् is no part of anything (abhakta), and its ṭ serves 8.3.70 — so 1.1.46 is not used. The Bhāṣya (followed by the Kaumudī and the Padamañjarī): the ṭ already puts सुट् before the क of कृ, and “कात् पूर्वः” is set aside — so 1.1.46 does the work.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "61135",
+     "quote": "कात् पूर्वग्रहणं सुटोऽभक्त त्वज्ञापनार्थम्"
+    },
+    {
+     "file": "kashika",
+     "id": "61135",
+     "quote": "टित्करणं सुट्स्तुस्वञ्जाम् [[८.३.७०]] इत्यत्र विशेषणार्थम्"
+    },
+    {
+     "file": "bhashya",
+     "id": "61135",
+     "quote": "सुडिति आदिलिङ्गोऽयं क्रियते, करोतिश्च ककारादिः, तत्रान्तरेण कात्पूर्वग्रहणं कात्पूर्व एव भविष्यति"
+    },
+    {
+     "file": "kaumudi",
+     "id": "61135",
+     "quote": "कात्पूर्व इत्यादि भाष्ये प्रत्याख्यातम्"
+    },
+    {
+     "file": "padamanjari",
+     "id": "61135",
+     "quote": "ककारादावागमिनि टित्वादेव सुट् कात्पूर्वो लभ्यते"
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | āgama | X: ṭit augment",
+   "count": 71,
+   "verdict": "mixed",
+   "how_checked": "Every member read: the sūtra, the augment named, and the Kāśikā's first clause (pulled by script for all 158). Each was sorted by script and by eye into: augment taught (vidhi, incl. optional) / augment forbidden (“…आगमो न भवति”) / not an augment (substitute, suffix, pratyāhāra) / disputed. The ṭit vs kit marker of each augment was checked against the engine's effect text.",
+   "licensed": [
+    "3.4.104",
+    "5.2.57",
+    "5.2.58",
+    "6.3.100",
+    "6.4.73",
+    "6.4.75",
+    "7.1.7",
+    "7.1.8",
+    "7.1.55",
+    "7.1.56",
+    "7.1.57",
+    "7.2.42",
+    "7.2.43",
+    "7.2.44",
+    "7.2.45",
+    "7.2.46",
+    "7.2.48",
+    "7.2.49",
+    "7.2.50",
+    "7.2.51",
+    "7.2.53",
+    "7.2.54",
+    "7.2.55",
+    "7.2.56",
+    "7.2.57",
+    "7.2.67",
+    "7.2.68",
+    "7.2.70",
+    "7.2.71",
+    "7.2.72",
+    "7.2.74",
+    "7.2.75",
+    "7.2.76",
+    "7.2.77",
+    "7.2.78",
+    "7.4.72",
+    "7.4.91",
+    "8.2.17",
+    "8.3.30"
+   ],
+   "not_licensed": [
+    {
+     "n": "6.4.74",
+     "word": "अट्",
+     "should_be": "none",
+     "reason": "PROHIBITION",
+     "why": "The sūtra forbids the augment (optionally or always); it places nothing, so 1.1.46 is not needed to read it (C4). In the other option of a वा-prohibition, इट् comes from 7.2.35, where it is credited.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "64074",
+       "quote": "माङ्योगे लुङ्लङ्लृङ्क्षु यदुक्त ं तन्न भवति"
+      }
+     ]
+    },
+    {
+     "n": "6.4.78",
+     "word": "इयङ्-उवङौ",
+     "should_be": "none",
+     "reason": "SUBSTITUTE_NOT_AUGMENT",
+     "why": "इयङ्/उवङ् are ṅit substitutes (ādeśa) of इ/उ, not ṭit augments (the it is ङ्). 1.1.53 ङिच्च, already credited on this sūtra, is the rule that places them. Drop the 1.1.46 credit.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "64078",
+       "quote": "अभ्यासस्येवर्णोवर्णान्तस्यासवर्णेऽचि परत इयङ् उवङ् इत्येतावादेशौ भवतः"
+      }
+     ]
+    },
+    {
+     "n": "6.4.79",
+     "word": "इयङ्-उवङौ",
+     "should_be": "none",
+     "reason": "SUBSTITUTE_NOT_AUGMENT",
+     "why": "इयङ्/उवङ् are ṅit substitutes (ādeśa) of इ/उ, not ṭit augments (the it is ङ्). 1.1.53 ङिच्च, already credited on this sūtra, is the rule that places them. Drop the 1.1.46 credit.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "64079",
+       "quote": "स्त्री इत्येतस्याजादौ प्रत्यये परत इयङादेशो भवति"
+      }
+     ]
+    },
+    {
+     "n": "6.4.80",
+     "word": "इयङ्-उवङौ",
+     "should_be": "none",
+     "reason": "SUBSTITUTE_NOT_AUGMENT",
+     "why": "इयङ्/उवङ् are ṅit substitutes (ādeśa) of इ/उ, not ṭit augments (the it is ङ्). 1.1.53 ङिच्च, already credited on this sūtra, is the rule that places them. Drop the 1.1.46 credit.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "64080",
+       "quote": "अमि शसि परतः स्त्रिया वेयङादेशो भवति"
+      }
+     ]
+    },
+    {
+     "n": "7.2.9",
+     "word": "इट्",
+     "should_be": "none",
+     "reason": "PROHIBITION",
+     "why": "The sūtra forbids the augment (optionally or always); it places nothing, so 1.1.46 is not needed to read it (C4). In the other option of a वा-prohibition, इट् comes from 7.2.35, where it is credited.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72009",
+       "quote": "ति तु त्र त थ सि सु सर क स इत्येतेषु कृत्सु इडागमो न भवति"
+      }
+     ]
+    },
+    {
+     "n": "7.2.10",
+     "word": "इट्",
+     "should_be": "none",
+     "reason": "PROHIBITION",
+     "why": "The sūtra forbids the augment (optionally or always); it places nothing, so 1.1.46 is not needed to read it (C4). In the other option of a वा-prohibition, इट् comes from 7.2.35, where it is credited.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72010",
+       "quote": "उपदेशे य एकाच् धातुरनुदात्तश्च तस्मादिडागमो न भवति"
+      }
+     ]
+    },
+    {
+     "n": "7.2.11",
+     "word": "इट्",
+     "should_be": "none",
+     "reason": "PROHIBITION",
+     "why": "The sūtra forbids the augment (optionally or always); it places nothing, so 1.1.46 is not needed to read it (C4). In the other option of a वा-prohibition, इट् comes from 7.2.35, where it is credited.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72011",
+       "quote": "श्रि इत्येतस्योगन्तानां च किति प्रत्यये परत इडागमो न भवति"
+      }
+     ]
+    },
+    {
+     "n": "7.2.12",
+     "word": "इट्",
+     "should_be": "none",
+     "reason": "PROHIBITION",
+     "why": "The sūtra forbids the augment (optionally or always); it places nothing, so 1.1.46 is not needed to read it (C4). In the other option of a वा-prohibition, इट् comes from 7.2.35, where it is credited.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72012",
+       "quote": "ग्रह गुह इत्येतयोरुगन्तानां च सनि प्रत्यये परत इडागमो न भवति"
+      }
+     ]
+    },
+    {
+     "n": "7.2.13",
+     "word": "इट्",
+     "should_be": "none",
+     "reason": "PROHIBITION",
+     "why": "The sūtra forbids the augment (optionally or always); it places nothing, so 1.1.46 is not needed to read it (C4). In the other option of a वा-prohibition, इट् comes from 7.2.35, where it is credited.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72013",
+       "quote": "कृ सृ भृ वृ स्तु द्रु स्रु श्रु इत्येतेषां लिटि प्रत्यय इडागमो न भवति"
+      }
+     ]
+    },
+    {
+     "n": "7.2.14",
+     "word": "इट्",
+     "should_be": "none",
+     "reason": "PROHIBITION",
+     "why": "The sūtra forbids the augment (optionally or always); it places nothing, so 1.1.46 is not needed to read it (C4). In the other option of a वा-prohibition, इट् comes from 7.2.35, where it is credited.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72014",
+       "quote": "श्वयतेरीदितश्च निष्ठायामिडागमो न भवति"
+      }
+     ]
+    },
+    {
+     "n": "7.2.15",
+     "word": "इट्",
+     "should_be": "none",
+     "reason": "PROHIBITION",
+     "why": "The sūtra forbids the augment (optionally or always); it places nothing, so 1.1.46 is not needed to read it (C4). In the other option of a वा-prohibition, इट् comes from 7.2.35, where it is credited.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72015",
+       "quote": "यस्य धातोर्विभाषा क्वचिदिडुक्तः, तस्य निष्ठायां परत इडागमो न भवति"
+      }
+     ]
+    },
+    {
+     "n": "7.2.16",
+     "word": "इट्",
+     "should_be": "none",
+     "reason": "PROHIBITION",
+     "why": "The sūtra forbids the augment (optionally or always); it places nothing, so 1.1.46 is not needed to read it (C4). In the other option of a वा-prohibition, इट् comes from 7.2.35, where it is credited.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72016",
+       "quote": "आदितश्च धातोर्निष्ठायामिडागमो न भवति"
+      }
+     ]
+    },
+    {
+     "n": "7.2.17",
+     "word": "इट्",
+     "should_be": "none",
+     "reason": "PROHIBITION",
+     "why": "The sūtra forbids the augment (optionally or always); it places nothing, so 1.1.46 is not needed to read it (C4). In the other option of a वा-prohibition, इट् comes from 7.2.35, where it is credited.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72017",
+       "quote": "भाव आदिकर्मणि च आदितो धातोर्विभाषा निष्ठायामिडागमो न भवति"
+      }
+     ]
+    },
+    {
+     "n": "7.2.22",
+     "word": "इट्",
+     "should_be": "none",
+     "reason": "PROHIBITION",
+     "why": "The sūtra forbids the augment (optionally or always); it places nothing, so 1.1.46 is not needed to read it (C4). In the other option of a वा-prohibition, इट् comes from 7.2.35, where it is credited.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72022",
+       "quote": "कृच्छ्र गहन इत्येतयोरर्थयोः कषेर्धातोर्निष्ठायामिडागमो न भवति"
+      }
+     ]
+    },
+    {
+     "n": "7.2.24",
+     "word": "इट्",
+     "should_be": "none",
+     "reason": "PROHIBITION",
+     "why": "The sūtra forbids the augment (optionally or always); it places nothing, so 1.1.46 is not needed to read it (C4). In the other option of a वा-prohibition, इट् comes from 7.2.35, where it is credited.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72024",
+       "quote": "सं नि वि इत्येतेभ्य उत्तरस्यार्देर्निष्ठायामिडागमो न भवति"
+      }
+     ]
+    },
+    {
+     "n": "7.2.25",
+     "word": "इट्",
+     "should_be": "none",
+     "reason": "PROHIBITION",
+     "why": "The sūtra forbids the augment (optionally or always); it places nothing, so 1.1.46 is not needed to read it (C4). In the other option of a वा-prohibition, इट् comes from 7.2.35, where it is credited.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72025",
+       "quote": "अभिशब्दादुत्तरस्यार्देराविदूर्येऽर्थे निष्ठायामिडागमो न भवति"
+      }
+     ]
+    },
+    {
+     "n": "7.2.28",
+     "word": "इट्",
+     "should_be": "none",
+     "reason": "PROHIBITION",
+     "why": "The sūtra forbids the augment (optionally or always); it places nothing, so 1.1.46 is not needed to read it (C4). In the other option of a वा-prohibition, इट् comes from 7.2.35, where it is credited.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72028",
+       "quote": "रुषि अम त्वर संघुष आस्वन इत्येतेषां निष्ठायां वेडागमो न भवति"
+      }
+     ]
+    },
+    {
+     "n": "7.2.29",
+     "word": "इट्",
+     "should_be": "none",
+     "reason": "PROHIBITION",
+     "why": "The sūtra forbids the augment (optionally or always); it places nothing, so 1.1.46 is not needed to read it (C4). In the other option of a वा-prohibition, इट् comes from 7.2.35, where it is credited.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72029",
+       "quote": "लोमसु वर्तमानस्य हृषेर्निष्ठायां वेडागमो न भवति"
+      }
+     ]
+    },
+    {
+     "n": "7.2.31",
+     "word": "इट्",
+     "should_be": "none",
+     "reason": "NO_AUGMENT_PLACED",
+     "why": "The sūtra substitutes ह्रु for ह्वृ before the niṣṭhā; the Kāśikā says nothing about इट्. The carried इट् does nothing here.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72031",
+       "quote": "ह्वरतेर्धातोर्निष्ठायां छन्दसि ह्रु इत्ययमादेशो भवति"
+      }
+     ]
+    },
+    {
+     "n": "7.2.59",
+     "word": "इट्",
+     "should_be": "none",
+     "reason": "PROHIBITION",
+     "why": "The sūtra forbids the augment (optionally or always); it places nothing, so 1.1.46 is not needed to read it (C4). In the other option of a वा-prohibition, इट् comes from 7.2.35, where it is credited.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72059",
+       "quote": "वृतादिभ्यश्चतुर्भ्य उत्तरस्य सकारादेरार्धधातुकस्य परस्मैपदेष्विडागमो न भवति"
+      }
+     ]
+    },
+    {
+     "n": "7.2.60",
+     "word": "इट्",
+     "should_be": "none",
+     "reason": "PROHIBITION",
+     "why": "The sūtra forbids the augment (optionally or always); it places nothing, so 1.1.46 is not needed to read it (C4). In the other option of a वा-prohibition, इट् comes from 7.2.35, where it is credited.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72060",
+       "quote": "कृप उत्तरस्य तासेः सकारादेश्चार्धधातुकस्य परस्मैपदेष्विडागमो न भवति"
+      }
+     ]
+    },
+    {
+     "n": "7.2.62",
+     "word": "इट्",
+     "should_be": "none",
+     "reason": "PROHIBITION",
+     "why": "The sūtra forbids the augment (optionally or always); it places nothing, so 1.1.46 is not needed to read it (C4). In the other option of a वा-prohibition, इट् comes from 7.2.35, where it is credited.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72062",
+       "quote": "उपदेशे यो धातुरकारवान् तासौ नित्यानिट् तस्मात् तासाविव थलीडागमो न भवति"
+      }
+     ]
+    },
+    {
+     "n": "7.2.63",
+     "word": "इट्",
+     "should_be": "none",
+     "reason": "PROHIBITION",
+     "why": "The sūtra forbids the augment (optionally or always); it places nothing, so 1.1.46 is not needed to read it (C4). In the other option of a वा-prohibition, इट् comes from 7.2.35, where it is credited.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72063",
+       "quote": "ऋकारान्ताद् धातोर्भारद्वाजस्याचार्यस्य मतेन तासाविव नित्यानिटस्थलीडागमो न भवति"
+      }
+     ]
+    },
+    {
+     "n": "7.2.64",
+     "word": "इट्",
+     "should_be": "none",
+     "reason": "NO_AUGMENT_PLACED",
+     "why": "Nipātana of forms without इट् (बभूथ for बभूविथ …); no augment is placed (C4).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72064",
+       "quote": "बभूथ आततन्थ जगृभ्म ववर्थ इत्येतानि निपात्यन्ते निगमविषये"
+      }
+     ]
+    },
+    {
+     "n": "7.2.65",
+     "word": "इट्",
+     "should_be": "none",
+     "reason": "PROHIBITION",
+     "why": "The sūtra forbids the augment (optionally or always); it places nothing, so 1.1.46 is not needed to read it (C4). In the other option of a वा-prohibition, इट् comes from 7.2.35, where it is credited.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72065",
+       "quote": "सृजि दृशि इत्येतयोस्थलि विभाषेडागमो न भवति"
+      }
+     ]
+    }
+   ],
+   "unsure": [
+    {
+     "n": "6.1.136",
+     "word": "सुट्",
+     "why": "Disputed (C5): the Kāśikā makes सुट् abhakta (“कात् पूर्वः”), so 1.1.46 is not used; the Bhāṣya/Kaumudī set “कात् पूर्वः” aside and let the ṭ (1.1.46) place सुट् before क. A credit follows the Bhāṣya; a ✖ follows the Kāśikā. Policy call.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61135",
+       "quote": "कात् पूर्वग्रहणं सुटोऽभक्त त्वज्ञापनार्थम्"
+      },
+      {
+       "file": "bhashya",
+       "id": "61135",
+       "quote": "सुडिति आदिलिङ्गोऽयं क्रियते, करोतिश्च ककारादिः, तत्रान्तरेण कात्पूर्वग्रहणं कात्पूर्व एव भविष्यति"
+      }
+     ]
+    },
+    {
+     "n": "6.1.137",
+     "word": "सुट्",
+     "why": "Disputed (C5): the Kāśikā makes सुट् abhakta (“कात् पूर्वः”), so 1.1.46 is not used; the Bhāṣya/Kaumudī set “कात् पूर्वः” aside and let the ṭ (1.1.46) place सुट् before क. A credit follows the Bhāṣya; a ✖ follows the Kāśikā. Policy call.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61135",
+       "quote": "कात् पूर्वग्रहणं सुटोऽभक्त त्वज्ञापनार्थम्"
+      },
+      {
+       "file": "bhashya",
+       "id": "61135",
+       "quote": "सुडिति आदिलिङ्गोऽयं क्रियते, करोतिश्च ककारादिः, तत्रान्तरेण कात्पूर्वग्रहणं कात्पूर्व एव भविष्यति"
+      }
+     ]
+    },
+    {
+     "n": "6.1.138",
+     "word": "सुट्",
+     "why": "Disputed (C5): the Kāśikā makes सुट् abhakta (“कात् पूर्वः”), so 1.1.46 is not used; the Bhāṣya/Kaumudī set “कात् पूर्वः” aside and let the ṭ (1.1.46) place सुट् before क. A credit follows the Bhāṣya; a ✖ follows the Kāśikā. Policy call.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61135",
+       "quote": "कात् पूर्वग्रहणं सुटोऽभक्त त्वज्ञापनार्थम्"
+      },
+      {
+       "file": "bhashya",
+       "id": "61135",
+       "quote": "सुडिति आदिलिङ्गोऽयं क्रियते, करोतिश्च ककारादिः, तत्रान्तरेण कात्पूर्वग्रहणं कात्पूर्व एव भविष्यति"
+      }
+     ]
+    },
+    {
+     "n": "6.1.139",
+     "word": "सुट्",
+     "why": "Disputed (C5): the Kāśikā makes सुट् abhakta (“कात् पूर्वः”), so 1.1.46 is not used; the Bhāṣya/Kaumudī set “कात् पूर्वः” aside and let the ṭ (1.1.46) place सुट् before क. A credit follows the Bhāṣya; a ✖ follows the Kāśikā. Policy call.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61135",
+       "quote": "कात् पूर्वग्रहणं सुटोऽभक्त त्वज्ञापनार्थम्"
+      },
+      {
+       "file": "bhashya",
+       "id": "61135",
+       "quote": "सुडिति आदिलिङ्गोऽयं क्रियते, करोतिश्च ककारादिः, तत्रान्तरेण कात्पूर्वग्रहणं कात्पूर्व एव भविष्यति"
+      }
+     ]
+    },
+    {
+     "n": "6.1.140",
+     "word": "सुट्",
+     "why": "Disputed (C5): the Kāśikā makes सुट् abhakta (“कात् पूर्वः”), so 1.1.46 is not used; the Bhāṣya/Kaumudī set “कात् पूर्वः” aside and let the ṭ (1.1.46) place सुट् before क. A credit follows the Bhāṣya; a ✖ follows the Kāśikā. Policy call.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61135",
+       "quote": "कात् पूर्वग्रहणं सुटोऽभक्त त्वज्ञापनार्थम्"
+      },
+      {
+       "file": "bhashya",
+       "id": "61135",
+       "quote": "सुडिति आदिलिङ्गोऽयं क्रियते, करोतिश्च ककारादिः, तत्रान्तरेण कात्पूर्वग्रहणं कात्पूर्व एव भविष्यति"
+      }
+     ]
+    },
+    {
+     "n": "6.1.141",
+     "word": "सुट्",
+     "why": "Disputed (C5): the Kāśikā makes सुट् abhakta (“कात् पूर्वः”), so 1.1.46 is not used; the Bhāṣya/Kaumudī set “कात् पूर्वः” aside and let the ṭ (1.1.46) place सुट् before क. A credit follows the Bhāṣya; a ✖ follows the Kāśikā. Policy call.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61135",
+       "quote": "कात् पूर्वग्रहणं सुटोऽभक्त त्वज्ञापनार्थम्"
+      },
+      {
+       "file": "bhashya",
+       "id": "61135",
+       "quote": "सुडिति आदिलिङ्गोऽयं क्रियते, करोतिश्च ककारादिः, तत्रान्तरेण कात्पूर्वग्रहणं कात्पूर्व एव भविष्यति"
+      }
+     ]
+    },
+    {
+     "n": "6.1.142",
+     "word": "सुट्",
+     "why": "Disputed (C5): the Kāśikā makes सुट् abhakta (“कात् पूर्वः”), so 1.1.46 is not used; the Bhāṣya/Kaumudī set “कात् पूर्वः” aside and let the ṭ (1.1.46) place सुट् before क. A credit follows the Bhāṣya; a ✖ follows the Kāśikā. Policy call.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61135",
+       "quote": "कात् पूर्वग्रहणं सुटोऽभक्त त्वज्ञापनार्थम्"
+      },
+      {
+       "file": "bhashya",
+       "id": "61135",
+       "quote": "सुडिति आदिलिङ्गोऽयं क्रियते, करोतिश्च ककारादिः, तत्रान्तरेण कात्पूर्वग्रहणं कात्पूर्व एव भविष्यति"
+      }
+     ]
+    }
+   ],
+   "note": "Prohibitions are the main error: 20 of the 71 members are sūtras that forbid इट्/अट् (Kāśikā “इडागमो न भवति”, “तन्न भवति”); a prohibition places nothing. The सुट् sūtras 6.1.136–142 are disputed (see C5).",
+   "defects": [
+    {
+     "n": "6.3.100",
+     "word": "दुक्",
+     "note": "दुक् is kit (goes at the END of अन्य, 6.3.99), but the effect says “ṭit augment … at the BEGINNING”."
+    },
+    {
+     "n": "7.4.91",
+     "word": "रीक्",
+     "note": "रुक्/रिक्/रीक् are kit and go at the end of the abhyāsa (Kāśikā “योऽभ्यासस् तस्य रुग्रिकौ आगमौ”); the effect says ṭit/BEGINNING."
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "group": "own word, data case 1 | āgama | X: ṭit augment",
+   "count": 32,
+   "verdict": "mixed",
+   "how_checked": "Every member read: the sūtra, the augment named, and the Kāśikā's first clause (pulled by script for all 158). Each was sorted by script and by eye into: augment taught (vidhi, incl. optional) / augment forbidden (“…आगमो न भवति”) / not an augment (substitute, suffix, pratyāhāra) / disputed. The ṭit vs kit marker of each augment was checked against the engine's effect text.",
+   "licensed": [
+    "3.4.94",
+    "3.4.102",
+    "3.4.103",
+    "3.4.107",
+    "5.1.23",
+    "5.2.49",
+    "5.2.50",
+    "5.2.51",
+    "5.2.52",
+    "5.2.53",
+    "5.2.56",
+    "6.3.74",
+    "6.4.71",
+    "6.4.72",
+    "7.1.6",
+    "7.1.52",
+    "7.1.54",
+    "7.2.35",
+    "7.2.41",
+    "7.2.47",
+    "7.2.52",
+    "7.2.58",
+    "7.2.66",
+    "7.3.93",
+    "7.3.99",
+    "7.3.112",
+    "7.4.71",
+    "8.2.16",
+    "8.3.29"
+   ],
+   "not_licensed": [
+    {
+     "n": "6.4.77",
+     "word": "इयङ्-उवङौ",
+     "should_be": "none",
+     "reason": "SUBSTITUTE_NOT_AUGMENT",
+     "why": "इयङ्/उवङ् are ṅit substitutes (ādeśa) of इ/उ, not ṭit augments (the it is ङ्). 1.1.53 ङिच्च, already credited on this sūtra, is the rule that places them. Drop the 1.1.46 credit.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "64077",
+       "quote": "श्नुप्रत्ययान्तस्याङ्गस्य धातोरिवर्णोवर्णान्तस्य भ्रू इत्येतस्य च इयङ् उवङ् इत्येतावादेशौ भवतोऽजादौ प्रत्यये परतः"
+      }
+     ]
+    },
+    {
+     "n": "7.2.8",
+     "word": "इट्",
+     "should_be": "none",
+     "reason": "PROHIBITION",
+     "why": "The sūtra forbids the augment (optionally or always); it places nothing, so 1.1.46 is not needed to read it (C4). In the other option of a वा-prohibition, इट् comes from 7.2.35, where it is credited.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72008",
+       "quote": "वशादौ कृति प्रत्यये परत इडागमो न भवति"
+      }
+     ]
+    }
+   ],
+   "unsure": [
+    {
+     "n": "6.1.135",
+     "word": "सुट्",
+     "why": "Disputed (C5): the Kāśikā makes सुट् abhakta (“कात् पूर्वः”), so 1.1.46 is not used; the Bhāṣya/Kaumudī set “कात् पूर्वः” aside and let the ṭ (1.1.46) place सुट् before क. A credit follows the Bhāṣya; a ✖ follows the Kāśikā. Policy call.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61135",
+       "quote": "कात् पूर्वग्रहणं सुटोऽभक्त त्वज्ञापनार्थम्"
+      },
+      {
+       "file": "bhashya",
+       "id": "61135",
+       "quote": "सुडिति आदिलिङ्गोऽयं क्रियते, करोतिश्च ककारादिः, तत्रान्तरेण कात्पूर्वग्रहणं कात्पूर्व एव भविष्यति"
+      }
+     ]
+    }
+   ],
+   "note": "Same pattern: 7.2.8 is a prohibition; 6.4.77 इयङ्/उवङ् are ṅit substitutes (1.1.53 is already credited there).",
+   "defects": [
+    {
+     "n": "5.2.51",
+     "word": "थुक्",
+     "note": "kit → end of षट् etc.; effect says ṭit/BEGINNING."
+    },
+    {
+     "n": "5.2.52",
+     "word": "तिथुक्",
+     "note": "kit → end of बहु etc.; effect says ṭit/BEGINNING."
+    },
+    {
+     "n": "5.2.53",
+     "word": "इथुक्",
+     "note": "kit → end of the वतु-final; effect says ṭit/BEGINNING."
+    }
+   ]
+  },
+  {
+   "id": "G3",
+   "group": "own word, data case 1 | āgama | X: kit augment",
+   "count": 15,
+   "verdict": "licensed",
+   "how_checked": "Every member read: the sūtra, the augment named, and the Kāśikā's first clause (pulled by script for all 158). Each was sorted by script and by eye into: augment taught (vidhi, incl. optional) / augment forbidden (“…आगमो न भवति”) / not an augment (substitute, suffix, pratyāhāra) / disputed. The ṭit vs kit marker of each augment was checked against the engine's effect text.",
+   "licensed": [
+    "4.1.32",
+    "4.1.158",
+    "4.1.161",
+    "4.2.91",
+    "4.3.138",
+    "5.2.129",
+    "6.1.71",
+    "7.1.50",
+    "7.2.82",
+    "7.3.33",
+    "7.3.36",
+    "7.3.37",
+    "7.3.40",
+    "7.4.85",
+    "8.3.31"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G4",
+   "group": "own word, data case 6 | ādeśa | X: 1.1.46 … … (not 1.1.49 — paribhāṣā au",
+   "count": 12,
+   "verdict": "licensed",
+   "how_checked": "Every member read: the sūtra, the augment named, and the Kāśikā's first clause (pulled by script for all 158). Each was sorted by script and by eye into: augment taught (vidhi, incl. optional) / augment forbidden (“…आगमो न भवति”) / not an augment (substitute, suffix, pratyāhāra) / disputed. The ṭit vs kit marker of each augment was checked against the engine's effect text.",
+   "licensed": [
+    "6.3.76",
+    "6.3.99",
+    "6.4.88",
+    "6.4.159",
+    "7.1.47",
+    "7.2.36",
+    "7.3.38",
+    "7.3.39",
+    "7.4.17",
+    "7.4.84",
+    "7.4.90",
+    "8.3.28"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "All licensed: each sūtra teaches a ṭit/kit augment. 6.3.76 and 8.3.28 have the Kāśikā's own statement that the kit augment is the end of the first item (quoted below).",
+   "defects": [
+    {
+     "n": "7.2.36",
+     "word": "स्नुक्रमोः",
+     "note": "Wrong host word: इट् goes at the start of the ārdhadhātuka suffix (carried आर्धधातुकस्य, Kāśikā “स्नुक्रमोरार्धधातुकस्य वलादेरिडागमो भवति”), not of स्नु/क्रम."
+    },
+    {
+     "n": "7.4.84",
+     "word": "वञ्चुस्रंसुध्वंसुभ्रंसुकसपतपदस्कन्दाम्",
+     "note": "Wrong host word: नीक् is the augment of the abhyāsa (Kāśikā “इत्येतेषामभ्यासस्य नीगागमो भवति”)."
+    },
+    {
+     "n": "7.4.90",
+     "word": "ऋदुपधस्य",
+     "note": "Wrong host word: रीक् is the augment of the abhyāsa (Kāśikā “योऽभ्यासः तस्य रीगागमो भवति”)."
+    },
+    {
+     "n": "(all 12)",
+     "word": "",
+     "note": "(Re-pointed today from 1.1.49; 21 credits carry that trigger.) The rule applies — this sūtra teaches a ṭit/kit augment and the 6th names its host — but the effect text still reads “names the place — the thing replaced (स्थाने)”, which is 1.1.49's wording: an augment replaces nothing."
+    }
+   ],
+   "note_quotes": [
+    {
+     "file": "kashika",
+     "id": "63076",
+     "quote": "पूर्वान्तोऽयमादुक् क्रियते"
+    },
+    {
+     "file": "kashika",
+     "id": "83028",
+     "quote": "पूर्वान्तकरणं प्राङ्क् छेते इत्यत्र छत्वार्थम्"
+    }
+   ]
+  },
+  {
+   "id": "G5",
+   "group": "carried / not a sūtra word | āgama | X: kit augment",
+   "count": 7,
+   "verdict": "licensed",
+   "how_checked": "Every member read: the sūtra, the augment named, and the Kāśikā's first clause (pulled by script for all 158). Each was sorted by script and by eye into: augment taught (vidhi, incl. optional) / augment forbidden (“…आगमो न भवति”) / not an augment (substitute, suffix, pratyāhāra) / disputed. The ṭit vs kit marker of each augment was checked against the engine's effect text.",
+   "licensed": [
+    "6.1.73",
+    "6.1.74",
+    "6.1.75",
+    "6.1.76",
+    "7.1.51",
+    "7.4.86",
+    "7.4.87"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "",
+   "note_quotes": [
+    {
+     "file": "kashika",
+     "id": "61075",
+     "quote": "दीर्घात् परो यश्छकारस्तस्मिन् पूर्वस्य तस्यैव दीर्घस्य तुगागमो भवति"
+    }
+   ]
+  },
+  {
+   "id": "G6",
+   "group": "carried / not a sūtra word | ādeśa | X: 1.1.46 … … (not 1.1.49 — paribhāṣā au",
+   "count": 7,
+   "verdict": "licensed",
+   "how_checked": "Every member read: the sūtra, the augment named, and the Kāśikā's first clause (pulled by script for all 158). Each was sorted by script and by eye into: augment taught (vidhi, incl. optional) / augment forbidden (“…आगमो न भवति”) / not an augment (substitute, suffix, pratyāhāra) / disputed. The ṭit vs kit marker of each augment was checked against the engine's effect text.",
+   "licensed": [
+    "6.4.63",
+    "7.3.94",
+    "7.3.95",
+    "7.3.96",
+    "7.3.97",
+    "7.3.98",
+    "7.3.113"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "",
+   "defects": [
+    {
+     "n": "(all 7)",
+     "word": "",
+     "note": "(Re-pointed today from 1.1.49; 21 credits carry that trigger.) The rule applies — this sūtra teaches a ṭit/kit augment and the 6th names its host — but the effect text still reads “names the place — the thing replaced (स्थाने)”, which is 1.1.49's wording: an augment replaces nothing."
+    }
+   ],
+   "note_quotes": [
+    {
+     "file": "kashika",
+     "id": "64063",
+     "quote": "दीङ इति पञ्चमीनिर्देशादजादेर्युडागमो भवति"
+    }
+   ]
+  },
+  {
+   "id": "G7",
+   "group": "named by a commentator | ādeśa | X",
+   "count": 3,
+   "verdict": "mixed",
+   "how_checked": "Nyāsa read in full at each place where it names 1.1.46 (34078, 64019, 64063).",
+   "licensed": [
+    "6.4.63"
+   ],
+   "not_licensed": [
+    {
+     "n": "3.4.78",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "STATED_DENIAL",
+     "why": "Nyāsa raises 1.1.46 for the ṭ of इट् in the tiṅ list and rejects it: इट् is a substitute of ल like the other endings, so its ṭ is not for 1.1.46 (C2). Naming a rule in order to deny it is a ✖.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "34078",
+       "quote": "अथ <<आद्यन्तौ टकितौ>> [[1.1.46]]  इति विशिष्टदेश आगमभूतस्यास्य विधानं यथा स्यादित्येवमर्थष्टकारः कस्मान्न विज्ञायते?"
+      },
+      {
+       "file": "nyaas",
+       "id": "34078",
+       "quote": "इटोऽप्यादेशत्वं तेन भवतीति न भवति देशवनिध्यर्थष्टकारः"
+      }
+     ]
+    },
+    {
+     "n": "6.4.19",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "STATED_DENIAL",
+     "why": "ऊठ् is a substitute marked with ठ्, not ṭ. Nyāsa names 1.1.46 only to say it would wrongly put ऊठ् at the beginning IF it were ṭit; that is a denial.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "64019",
+       "quote": "ऊडयं यदि टित्? स्यात्? <<आद्यन्तौ टकितौ>> [[1.1.46]]  इत्यादौ स्यात्।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G8",
+   "group": "carried / not a sūtra word | atideśa | X",
+   "count": 2,
+   "verdict": "unsure",
+   "how_checked": "Every member read: the sūtra, the augment named, and the Kāśikā's first clause (pulled by script for all 158). Each was sorted by script and by eye into: augment taught (vidhi, incl. optional) / augment forbidden (“…आगमो न भवति”) / not an augment (substitute, suffix, pratyāhāra) / disputed. The ṭit vs kit marker of each augment was checked against the engine's effect text.",
+   "licensed": [],
+   "not_licensed": [],
+   "unsure": [
+    {
+     "n": "1.2.2",
+     "word": "इट् is the augment at the start of the suffix",
+     "why": "Reading इट् as “इडादिः प्रत्ययः” (a suffix beginning with इट्): Nyāsa and the Manoramā get “ādi” from the word आदि carried from 1.1.73, not from 1.1.46. Newer writers (Tattvabodhinī) say इट् is simply the beginning of the suffix — which is 1.1.46's effect — and call that anuvṛtti needless. Disputed.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "12002",
+       "quote": "<<वृद्धिर्यस्याचामादिस्तद् वृद्धम्>> [[1.1.73]]  इत्यत आदिग्रहणमनुवर्तते"
+      },
+      {
+       "file": "tattvabodhini",
+       "id": "12002",
+       "quote": "एंच इडादिरिति लाभाय यस्यादिरित्यनुवर्तनक्लेशो व्यर्थ एवेत्याहुः"
+      }
+     ]
+    },
+    {
+     "n": "1.2.3",
+     "word": "इट् is the augment at the start of the suffix",
+     "why": "Reading इट् as “इडादिः प्रत्ययः” (a suffix beginning with इट्): Nyāsa and the Manoramā get “ādi” from the word आदि carried from 1.1.73, not from 1.1.46. Newer writers (Tattvabodhinī) say इट् is simply the beginning of the suffix — which is 1.1.46's effect — and call that anuvṛtti needless. Disputed.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "12002",
+       "quote": "<<वृद्धिर्यस्याचामादिस्तद् वृद्धम्>> [[1.1.73]]  इत्यत आदिग्रहणमनुवर्तते"
+      },
+      {
+       "file": "tattvabodhini",
+       "id": "12002",
+       "quote": "एंच इडादिरिति लाभाय यस्यादिरित्यनुवर्तनक्लेशो व्यर्थ एवेत्याहुः"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G9",
+   "group": "own word, data case 7 | āgama | X: ṭit augment",
+   "count": 2,
+   "verdict": "not licensed",
+   "how_checked": "Every member read: the sūtra, the augment named, and the Kāśikā's first clause (pulled by script for all 158). Each was sorted by script and by eye into: augment taught (vidhi, incl. optional) / augment forbidden (“…आगमो न भवति”) / not an augment (substitute, suffix, pratyāhāra) / disputed. The ṭit vs kit marker of each augment was checked against the engine's effect text.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "8.4.2",
+     "word": "अट्-कु-पु-आङ्-नुम्-व्यवाये",
+     "should_be": "none",
+     "reason": "NOT_AN_AUGMENT",
+     "why": "अट् here is the pratyāhāra अट् (vowels + ह य व र), and नुम्/आङ् are only named as intervening; the sūtra teaches ṇatva and places no augment.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "84002",
+       "quote": "अट् कु पु आङ् नुम् इत्येतैर्व्यवायेऽपि रेफषकाराभ्यामुत्तरस्य नकारस्य णकार आदेशो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "8.4.11",
+     "word": "प्रातिपदिकान्त-नुम्-विभक्तिषु",
+     "should_be": "none",
+     "reason": "NOT_AN_AUGMENT",
+     "why": "नुम् is only named as a place where ṇatva applies (and it is a mit augment, 1.1.47, in any case); nothing is placed.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "84011",
+       "quote": "प्रातिपदिकान्ते नुमि विभक्तौ च यो नकारस्तस्य पूर्वपदस्थाद् निमित्तादुत्तरस्य वा णकार आदेशो भवति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G10",
+   "group": "carried / not a sūtra word | paribhāṣā | X",
+   "count": 1,
+   "verdict": "unsure",
+   "how_checked": "Every member read: the sūtra, the augment named, and the Kāśikā's first clause (pulled by script for all 158). Each was sorted by script and by eye into: augment taught (vidhi, incl. optional) / augment forbidden (“…आगमो न भवति”) / not an augment (substitute, suffix, pratyāhāra) / disputed. The ṭit vs kit marker of each augment was checked against the engine's effect text.",
+   "licensed": [],
+   "not_licensed": [],
+   "unsure": [
+    {
+     "n": "1.1.47",
+     "word": "1.1.47",
+     "why": "The effect (“मित् is an exception to 1.1.46”) is not what the sources say: the Bhāṣya and Kāśikā make 1.1.47 an exception to 1.1.49 and 3.1.2. The Padamañjarī, though, gives one of three readings where अन्त is carried from 1.1.46 into 1.1.47 (the mit is the end-part of what precedes). A credit needs that reading and a different effect text.",
+     "quotes": [
+      {
+       "file": "bhashya",
+       "id": "11047",
+       "quote": "स्थानेयोगत्वस्य प्रत्ययपरत्वस्य चापवादः"
+      },
+      {
+       "file": "padamanjari",
+       "id": "11047",
+       "quote": "अत्र 'आद्यन्तौ टकितौ' इत्यतः 'अन्त' इत्यनुवृतौ पूर्वस्य सङ्घातस्य मिदन्तावयवो भवति"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G11",
+   "group": "named by a commentator | vidhi | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "how_checked": "Every member read: the sūtra, the augment named, and the Kāśikā's first clause (pulled by script for all 158). Each was sorted by script and by eye into: augment taught (vidhi, incl. optional) / augment forbidden (“…आगमो न भवति”) / not an augment (substitute, suffix, pratyāhāra) / disputed. The ṭit vs kit marker of each augment was checked against the engine's effect text.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "3.2.8",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "STATED_DENIAL",
+     "why": "टक् is a suffix; Nyāsa says outright that its ṭ is for ङीप्, not for 1.1.46, because a suffix cannot be a part (C2).",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "32008",
+       "quote": "टित्करणं ङीबर्थम्; न तु <<आद्यन्तौ टकितौ>> [[1.1.46]]  इत्येवमर्थम्।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G12",
+   "group": "own word, data case 6 | atideśa | X: 1.1.46 … … (not 1.1.49 — paribhāṣā au",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "Every member read: the sūtra, the augment named, and the Kāśikā's first clause (pulled by script for all 158). Each was sorted by script and by eye into: augment taught (vidhi, incl. optional) / augment forbidden (“…आगमो न भवति”) / not an augment (substitute, suffix, pratyāhāra) / disputed. The ṭit vs kit marker of each augment was checked against the engine's effect text.",
+   "licensed": [
+    "3.4.92"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "",
+   "defects": [
+    {
+     "n": "3.4.92",
+     "word": "उत्तमस्य",
+     "note": "Re-pointed from 1.1.49; licensed (आट् is ṭit, Kāśikā “उत्तमपुरुषस्याडागमो भवति”). The effect “उत्तमपुरुषस्य” is just the gloss."
+    }
+   ]
+  },
+  {
+   "id": "G13",
+   "group": "named by a commentator | vidhi | X (English)",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "Vasu's English read.",
+   "licensed": [
+    "4.1.125"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G14",
+   "group": "named by a commentator | atideśa | X (English)",
+   "count": 1,
+   "verdict": "not licensed",
+   "how_checked": "Vasu's English read; the bracketed reference checked against the sentence it supports.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "6.1.85",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "MISCITATION",
+     "why": "Vasu's “[[1.1.46]]” is attached to a sentence about a feminine form ceasing to be a prātipadika — a prātipadika matter (1.2.45/46), not augments. The citation is a slip; 6.1.85 (अन्तादिवच्च) has nothing to do with augments.",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "61085",
+       "quote": "by virtue of the feminine affix ऊ the word would have rather ceased to be a <i>pratipadika</i> [[1.1.46]]"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G15",
+   "group": "carried / not a sūtra word | operation | X: 1.1.46 … … (not 1.1.49 — paribhāṣā au",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "Every member read: the sūtra, the augment named, and the Kāśikā's first clause (pulled by script for all 158). Each was sorted by script and by eye into: augment taught (vidhi, incl. optional) / augment forbidden (“…आगमो न भवति”) / not an augment (substitute, suffix, pratyāhāra) / disputed. The ṭit vs kit marker of each augment was checked against the engine's effect text.",
+   "licensed": [
+    "7.4.92"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "",
+   "defects": [
+    {
+     "n": "7.4.92",
+     "word": "the place is named in the 6th",
+     "note": "Licensed (रुक्/रिक्/रीक्, kit augments of the abhyāsa — Kāśikā “योऽभ्यासः तस्य रुग्रिकौ आगमौ भवतः”), but the effect says “the operation replaces it (स्थाने)”. An augment replaces nothing."
+    }
+   ]
+  },
+  {
+   "id": "G16",
+   "group": "named by a commentator | ādeśa | X (English)",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "Vasu's English read.",
+   "licensed": [
+    "8.3.28"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  }
+ ],
+ "missed": [
+  {
+   "n": "4.1.49",
+   "pid": "1.1.46",
+   "why": "आनुक् (kit) is taught as an augment.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "41049",
+     "quote": "इन्द्रादिभ्यः प्रातिपदिकेभ्यः स्त्रियां ङीष् प्रत्ययो भवति, आनुक् चागमः"
+    }
+   ]
+  },
+  {
+   "n": "4.3.23",
+   "pid": "1.1.46",
+   "why": "तुट् (ṭit) at the start of ट्यु/ट्युल्.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "43023",
+     "quote": "तयोश्चादिष्टयोः तुडागमो भवति"
+    }
+   ]
+  },
+  {
+   "n": "7.2.73",
+   "pid": "1.1.46",
+   "why": "सक् (kit) and इट्, taught together.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "72073",
+     "quote": "यम रम नम इत्येतेषामङ्गानामाकारान्तानां च सगागमो भवति परस्मैपदे सिचि, इडागमश्च"
+    }
+   ]
+  },
+  {
+   "n": "7.3.115",
+   "pid": "1.1.46",
+   "why": "स्याट् (ṭit) at the start of the ङित् suffix.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "73115",
+     "quote": "द्वितीया तृतीया इत्येताभ्यामुत्तरस्य ङितः प्रत्ययस्य विभाषा स्याडागमो भवति"
+    }
+   ]
+  },
+  {
+   "n": "8.3.32",
+   "pid": "1.1.46",
+   "why": "ङमुट् (ṭit) at the start of the following vowel.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "83032",
+     "quote": "ह्रस्वात् परो यो ङम् तदन्तात् पदादुत्तरस्याचो ङमुडागमो भवति नित्यम्"
+    }
+   ]
+  }
+ ]
+}

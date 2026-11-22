@@ -1,0 +1,1597 @@
+{
+ "pid": "3.1.92",
+ "generated": "2026-11-20",
+ "input": "audit/3.1.92-firings.json",
+ "conditions": [
+  {
+   "text": "Definition and scope: in the (third) dhātu section, what is denoted by a 7th-case word of a sūtra is called upapada; the word expressing it (कुम्भ…) is the upapada, and the suffix comes only when it is present.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "31092",
+     "quote": "तत्रैतस्मिन् धात्वधिकारे तृतीये यत् सप्तम्या निर्दिष्टं तदुपपदसंज्ञं भवति।"
+    },
+    {
+     "file": "kaumudi",
+     "id": "31092",
+     "quote": "वाच्यत्वेन स्थितं कुम्भादि तद्वाचकं पदमुपपदसंज्ञं स्यात्तस्मिंश्च सत्येव वक्ष्यमाणः प्रत्ययः"
+    }
+   ]
+  },
+  {
+   "text": "Range: only the third dhātu-adhikāra, i.e. 3.1.91–3.4.117 (not e.g. च्लि लुङि 3.1.43).",
+   "quotes": [
+    {
+     "file": "balamanorama",
+     "id": "31092",
+     "quote": "तत्र प्रत्यासत्त्या तृतीयधात्वधिकारस्थसप्तम्यन्तस्यैव ग्रहणात्"
+    },
+    {
+     "file": "nyaas",
+     "id": "31091",
+     "quote": "तसमादिह धात्वधिकारे कृदुपपदसंज्ञे यथा स्यातां पूर्वत्र मा भूतामिति पूनर्धातुग्रहणम्"
+    }
+   ]
+  },
+  {
+   "text": "Exclusion: a 7th-case word that states a MEANING (the suffix’s kāraka sense, a time, a circumstance) is not an upapada — by the commentators’ reading (व्याख्यानात्).",
+   "quotes": [
+    {
+     "file": "balamanorama",
+     "id": "31092",
+     "quote": "'धः कर्मणि ष्ट्रन्' 'भुवो भावे' इत्यादौ सप्तम्यन्तमर्थनिर्देशपरमेव, व्याख्यानादिति भाष्यकैयटादिषु स्पष्टम्"
+    },
+    {
+     "file": "tattvabodhini",
+     "id": "31092",
+     "quote": "क्वचिदर्थग्रहणं व्याख्यानादित्याहुः"
+    }
+   ]
+  },
+  {
+   "text": "An optional co-occurrence (“उपसर्गेऽपि” = with or without an upasarga) is not an upapada: the upapada must be present for the suffix.",
+   "quotes": [
+    {
+     "file": "kaumudi",
+     "id": "32061",
+     "quote": "एभ्यः क्विप्स्यादुपरसर्गे सत्यसति च सुप्युपपदे"
+    },
+    {
+     "file": "balamanorama",
+     "id": "32061",
+     "quote": "'अनुपसर्गे' इत्यस्य निवृत्त्यैव सिद्धे"
+    }
+   ]
+  },
+  {
+   "text": "The term defined here is what 2.2.19 (उपपदमतिङ्) and similar rules use; the उपपद of 1.3.77 is the non-technical “word said nearby”.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "31092",
+     "quote": "उपपदप्रदेशाः — <<उपपदमतिङ्>> (२.२.१९) इत्येवमादयः॥"
+    },
+    {
+     "file": "nyaas",
+     "id": "13077",
+     "quote": "न च स्वशब्द एवंविध इत्याह"
+    }
+   ]
+  }
+ ],
+ "totals": {
+  "firings": 299,
+  "licensed": 246,
+  "not_licensed": 51,
+  "unsure": 2,
+  "not_licensed_by_should_be": {
+   "none": 39,
+   "3.1.92": 12
+  }
+ },
+ "groups": [
+  {
+   "id": "G1",
+   "group": "own word, data case 7 | vidhi | X: 7th case in the dhātu section",
+   "count": 149,
+   "verdict": "mixed",
+   "how_checked": "All 149 member(s) read one by one against the Kāśikā (and SK/BM where KV is silent): is the credited word the word that must stand nearby (“X उपपदे”), or a meaning/circumstance/qualifier? Scripted pre-sort (KV text after the word: “…उपपद…” vs “गम्यमाने/अभिधेये/कर्तरि/कारके/विषये/वर्तमानात्”), then every non-clear case and a spot-check of the clear ones read in full.",
+   "licensed": [
+    "3.1.136",
+    "3.2.1",
+    "3.2.5",
+    "3.2.13",
+    "3.2.14",
+    "3.2.17",
+    "3.2.18",
+    "3.2.19",
+    "3.2.21",
+    "3.2.23",
+    "3.2.24",
+    "3.2.25",
+    "3.2.29",
+    "3.2.30",
+    "3.2.31",
+    "3.2.32",
+    "3.2.33",
+    "3.2.34",
+    "3.2.35",
+    "3.2.36",
+    "3.2.38",
+    "3.2.39",
+    "3.2.40",
+    "3.2.42",
+    "3.2.43",
+    "3.2.44",
+    "3.2.48",
+    "3.2.50",
+    "3.2.51",
+    "3.2.52",
+    "3.2.54",
+    "3.2.58",
+    "3.2.60",
+    "3.2.61",
+    "3.2.65",
+    "3.2.66",
+    "3.2.69",
+    "3.2.78",
+    "3.2.85",
+    "3.2.86",
+    "3.2.87",
+    "3.2.89",
+    "3.2.90",
+    "3.2.91",
+    "3.2.93",
+    "3.2.95",
+    "3.2.96",
+    "3.2.97",
+    "3.2.99",
+    "3.2.100",
+    "3.2.101",
+    "3.2.112",
+    "3.2.113",
+    "3.2.116",
+    "3.2.118",
+    "3.2.120",
+    "3.2.121",
+    "3.2.147",
+    "3.3.4",
+    "3.3.5",
+    "3.3.12",
+    "3.3.22",
+    "3.3.26",
+    "3.3.28",
+    "3.3.29",
+    "3.3.39",
+    "3.3.59",
+    "3.3.63",
+    "3.3.82",
+    "3.3.83",
+    "3.3.92",
+    "3.3.93",
+    "3.3.106",
+    "3.3.127",
+    "3.3.133",
+    "3.3.134",
+    "3.3.142",
+    "3.3.143",
+    "3.3.144",
+    "3.3.146",
+    "3.3.147",
+    "3.3.148",
+    "3.3.152",
+    "3.3.153",
+    "3.3.157",
+    "3.3.158",
+    "3.3.165",
+    "3.3.167",
+    "3.3.168",
+    "3.3.175",
+    "3.3.176",
+    "3.4.12",
+    "3.4.13",
+    "3.4.24",
+    "3.4.26",
+    "3.4.27",
+    "3.4.28",
+    "3.4.30",
+    "3.4.31",
+    "3.4.33",
+    "3.4.34",
+    "3.4.35",
+    "3.4.36",
+    "3.4.37",
+    "3.4.39",
+    "3.4.40",
+    "3.4.41",
+    "3.4.44",
+    "3.4.45",
+    "3.4.47",
+    "3.4.49",
+    "3.4.53",
+    "3.4.58",
+    "3.4.59",
+    "3.4.63",
+    "3.4.64",
+    "3.4.65",
+    "3.4.66"
+   ],
+   "not_licensed": [
+    {
+     "n": "3.1.148",
+     "word": "व्रीहि-कालयोः",
+     "should_be": "none",
+     "reason": "SENSE",
+     "why": "the 7th-case word states a meaning, circumstance or the suffix’s kāraka sense (“… गम्यमाने / अभिधेये / कर्तरि / कारके / विषये”), not a word standing nearby — KV reads व्रीहौ काले as the AGENT the suffix denotes (हायन = the grain / the year), not a word nearby",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "31148",
+       "quote": "जहातेर्जिहातेश्च धातोर्ण्युट् प्रत्ययो भवति व्रीहौ काले च कर्तरि"
+      }
+     ]
+    },
+    {
+     "n": "3.2.53",
+     "word": "अमनुष्यकर्तृके",
+     "should_be": "3.1.92",
+     "reason": "QUALIFIES_DHATU",
+     "why": "the word qualifies the dhātu or its meaning (incl. “उपसर्गेऽपि / अनुपसर्गे”), not a word standing nearby — अमनुष्यकर्तृके qualifies the dhātu (हन् used with a non-human agent); the upapada is the carried कर्मणि — so the credit stands for the sūtra but on the wrong word (real upapada: कर्मणि (carried))",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32053",
+       "quote": "अमनुष्यकर्तृके वर्तमानाद् हन्तेर्धातोः कर्मण्युपपदे टक् प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.2.114",
+     "word": "साकाङ्क्षे",
+     "should_be": "3.1.92",
+     "reason": "SENSE",
+     "why": "the 7th-case word states a meaning, circumstance or the suffix’s kāraka sense (“… गम्यमाने / अभिधेये / कर्तरि / कारके / विषये”), not a word standing nearby — साकाङ्क्षे is a condition on the speaker; the upapada is the carried अभिज्ञावचने (real upapada: अभिज्ञावचने (carried))",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32114",
+       "quote": "अभिज्ञावचन उपपदे यच्छब्दसहिते केवले च विभाषा लृट् प्रत्ययो भवति साकाङ्क्षश्चेत् प्रयोक्ता"
+      }
+     ]
+    },
+    {
+     "n": "3.2.119",
+     "word": "अपरोक्षे",
+     "should_be": "3.1.92",
+     "reason": "SENSE",
+     "why": "the 7th-case word states a meaning, circumstance or the suffix’s kāraka sense (“… गम्यमाने / अभिधेये / कर्तरि / कारके / विषये”), not a word standing nearby — अपरोक्षे is the time the dhātu expresses; the upapada is the carried स्म (real upapada: स्मे (carried))",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32119",
+       "quote": "अपरोक्षे च भूतानद्यतनेऽर्थे वर्तमानाद् धातोः स्म उपपदे लट् प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.2.132",
+     "word": "यज्ञसंयोगे",
+     "should_be": "none",
+     "reason": "SENSE",
+     "why": "the 7th-case word states a meaning, circumstance or the suffix’s kāraka sense (“… गम्यमाने / अभिधेये / कर्तरि / कारके / विषये”), not a word standing nearby — यज्ञसंयोगे qualifies the sense of the dhātu (अभिषव connected with a sacrifice)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32132",
+       "quote": "यज्ञसंयुक्तेऽभिषवे वर्तमानात् सुनोतेर्धातोः शतृप्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.2.181",
+     "word": "कर्मणि",
+     "should_be": "none",
+     "reason": "SENSE",
+     "why": "the 7th-case word states a meaning, circumstance or the suffix’s kāraka sense (“… गम्यमाने / अभिधेये / कर्तरि / कारके / विषये”), not a word standing nearby — कर्मणि here is the kāraka the suffix denotes (धात्री); BM names exactly this sūtra as the type where the 7th is a meaning, not an upapada",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32181",
+       "quote": "धयतेर्दधातेश्च कर्मणि कारके ष्ट्रन् प्रत्ययो भवति"
+      },
+      {
+       "file": "balamanorama",
+       "id": "31092",
+       "quote": "'धः कर्मणि ष्ट्रन्' 'भुवो भावे' इत्यादौ सप्तम्यन्तमर्थनिर्देशपरमेव, व्याख्यानादिति भाष्यकैयटादिषु स्पष्टम्"
+      }
+     ]
+    },
+    {
+     "n": "3.2.183",
+     "word": "हल-सूकरयोः",
+     "should_be": "none",
+     "reason": "SENSE",
+     "why": "the 7th-case word states a meaning, circumstance or the suffix’s kāraka sense (“… गम्यमाने / अभिधेये / कर्तरि / कारके / विषये”), not a word standing nearby — हलसूकरयोः qualifies the करण the suffix denotes (पोत्र = part of a plough / a boar)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32183",
+       "quote": "अस्माद् धातोः करणे कारके ष्ट्रन् प्रत्ययो भवति, तच्चेत् करणं हलसूकरयोरवयवो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.3.8",
+     "word": "लोट्-अर्थलक्षणे",
+     "should_be": "none",
+     "reason": "SENSE",
+     "why": "the 7th-case word states a meaning, circumstance or the suffix’s kāraka sense (“… गम्यमाने / अभिधेये / कर्तरि / कारके / विषये”), not a word standing nearby — लोडर्थलक्षणे describes the dhātu’s own meaning",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33008",
+       "quote": "स लोडर्थलक्षणो धात्वर्थः, तत्र वर्तमानाद् धातोर्भविष्यति काले विभाषा लट् प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.3.13",
+     "word": "शेषे",
+     "should_be": "3.1.92",
+     "reason": "SENSE",
+     "why": "the 7th-case word states a meaning, circumstance or the suffix’s kāraka sense (“… गम्यमाने / अभिधेये / कर्तरि / कारके / विषये”), not a word standing nearby — शेषे = the plain future, other than the क्रियार्था-upapada case; a circumstance (real upapada: क्रियायाम् (carried, चकारात्))",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33013",
+       "quote": "शेषः क्रियार्थोपपदादन्यः। शेषे शुद्धे भविष्यति काले"
+      }
+     ]
+    },
+    {
+     "n": "3.3.17",
+     "word": "स्थिरे",
+     "should_be": "none",
+     "reason": "SENSE",
+     "why": "the 7th-case word states a meaning, circumstance or the suffix’s kāraka sense (“… गम्यमाने / अभिधेये / कर्तरि / कारके / विषये”), not a word standing nearby — स्थिरे is the agent the suffix denotes",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33017",
+       "quote": "सर्तेर्धातोः स्थिरे कर्तरि घञ् प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.3.30",
+     "word": "धान्ये",
+     "should_be": "3.1.92",
+     "reason": "SENSE",
+     "why": "the 7th-case word states a meaning, circumstance or the suffix’s kāraka sense (“… गम्यमाने / अभिधेये / कर्तरि / कारके / विषये”), not a word standing nearby — धान्ये restricts the dhātu’s object-domain; the upapadas are the carried उद्/नि (real upapada: उन्न्योः (carried))",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33030",
+       "quote": "धान्यविषयश्चेद् धात्वर्थो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.3.32",
+     "word": "अयज्ञे",
+     "should_be": "none",
+     "reason": "SENSE",
+     "why": "the 7th-case word states a meaning, circumstance or the suffix’s kāraka sense (“… गम्यमाने / अभिधेये / कर्तरि / कारके / विषये”), not a word standing nearby — अयज्ञे is a condition on the usage",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33032",
+       "quote": "न चेद् यज्ञविषयः प्रयोगो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.3.33",
+     "word": "अशब्दे",
+     "should_be": "none",
+     "reason": "SENSE",
+     "why": "the 7th-case word states a meaning, circumstance or the suffix’s kāraka sense (“… गम्यमाने / अभिधेये / कर्तरि / कारके / विषये”), not a word standing nearby — अशब्दे qualifies the प्रथन meaning",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33033",
+       "quote": "तच्चेत् प्रथनं शब्दविषयं न भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.3.36",
+     "word": "मुष्टौ",
+     "should_be": "none",
+     "reason": "SENSE",
+     "why": "the 7th-case word states a meaning, circumstance or the suffix’s kāraka sense (“… गम्यमाने / अभिधेये / कर्तरि / कारके / विषये”), not a word standing nearby — मुष्टौ restricts the dhātu’s meaning",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33036",
+       "quote": "मुष्टिविषयश्चेद् धात्वर्थो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.3.38",
+     "word": "अवनुपात्यये",
+     "should_be": "none",
+     "reason": "SENSE",
+     "why": "the 7th-case word states a meaning, circumstance or the suffix’s kāraka sense (“… गम्यमाने / अभिधेये / कर्तरि / कारके / विषये”), not a word standing nearby — “अवनुपात्यये” is a mis-split of परौ + अनुपात्यये; अनुपात्यये is a meaning (गम्यमाने); परौ is credited separately",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33038",
+       "quote": "अनुपात्यये गम्यमाने"
+      }
+     ]
+    },
+    {
+     "n": "3.3.42",
+     "word": "अनौत्तराधर्ये",
+     "should_be": "none",
+     "reason": "SENSE",
+     "why": "the 7th-case word states a meaning, circumstance or the suffix’s kāraka sense (“… गम्यमाने / अभिधेये / कर्तरि / कारके / विषये”), not a word standing nearby — अनौत्तराधर्ये qualifies संघे, the sense the suffix expresses",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33042",
+       "quote": "संघे वाच्ये चिनोतेर्धातोर्घञ् प्रत्ययो भवति, आदेश्च कः"
+      }
+     ]
+    },
+    {
+     "n": "3.3.47",
+     "word": "यज्ञे",
+     "should_be": "none",
+     "reason": "SENSE",
+     "why": "the 7th-case word states a meaning, circumstance or the suffix’s kāraka sense (“… गम्यमाने / अभिधेये / कर्तरि / कारके / विषये”), not a word standing nearby — यज्ञे restricts what the derivative denotes",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33047",
+       "quote": "यज्ञविषयश्चेत् प्रत्ययान्ताभिधेयः स्यात्"
+      }
+     ]
+    },
+    {
+     "n": "3.3.48",
+     "word": "धान्ये",
+     "should_be": "none",
+     "reason": "SENSE",
+     "why": "the 7th-case word states a meaning, circumstance or the suffix’s kāraka sense (“… गम्यमाने / अभिधेये / कर्तरि / कारके / विषये”), not a word standing nearby — धान्ये is what the derivative denotes",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33048",
+       "quote": "धान्यविशेषेऽभिधेये घञ् प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.3.51",
+     "word": "वर्षप्रतिबन्धे",
+     "should_be": "none",
+     "reason": "SENSE",
+     "why": "the 7th-case word states a meaning, circumstance or the suffix’s kāraka sense (“… गम्यमाने / अभिधेये / कर्तरि / कारके / विषये”), not a word standing nearby — वर्षप्रतिबन्धे is what the derivative denotes",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33051",
+       "quote": "विभाषा वर्षप्रतिबन्धेऽभिधेये"
+      }
+     ]
+    },
+    {
+     "n": "3.3.53",
+     "word": "रश्मौ",
+     "should_be": "3.1.92",
+     "reason": "SENSE",
+     "why": "the 7th-case word states a meaning, circumstance or the suffix’s kāraka sense (“… गम्यमाने / अभिधेये / कर्तरि / कारके / विषये”), not a word standing nearby — रश्मौ is what the derivative denotes; the upapada is the carried प्र (real upapada: प्रे (carried))",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33053",
+       "quote": "रश्मिश्चेत् प्रत्ययान्तेनाभिधीयते"
+      }
+     ]
+    },
+    {
+     "n": "3.3.118",
+     "word": "पुंसि",
+     "should_be": "none",
+     "reason": "SENSE",
+     "why": "the 7th-case word states a meaning, circumstance or the suffix’s kāraka sense (“… गम्यमाने / अभिधेये / कर्तरि / कारके / विषये”), not a word standing nearby — पुंसि qualifies the करण/अधिकरण the suffix denotes",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33118",
+       "quote": "पुँल्लिङ्गयोः करणाधिकरणयोरभिधेययोर्धातोर्घः प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.3.136",
+     "word": "अ-वरस्मिन्",
+     "should_be": "none",
+     "reason": "SENSE",
+     "why": "the 7th-case word states a meaning, circumstance or the suffix’s kāraka sense (“… गम्यमाने / अभिधेये / कर्तरि / कारके / विषये”), not a word standing nearby — अवरस्मिन् (प्रविभागे) is a circumstance of the future time",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33136",
+       "quote": "भविष्यति काले मर्यादावचने सत्यवरस्मिन् प्रविभागेऽनद्यतनवत् प्रत्ययविधिर्न भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.3.137",
+     "word": "कालविभागे",
+     "should_be": "none",
+     "reason": "SENSE",
+     "why": "the 7th-case word states a meaning, circumstance or the suffix’s kāraka sense (“… गम्यमाने / अभिधेये / कर्तरि / कारके / विषये”), not a word standing nearby — कालविभागे is a circumstance of the future time",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33137",
+       "quote": "कालमर्यादाविभागे सत्यवरस्मिन् प्रविभागे भविष्यति कालेऽनद्यतनवत् प्रत्ययविधिर्न भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.3.150",
+     "word": "चित्रीकरणे",
+     "should_be": "3.1.92",
+     "reason": "SENSE",
+     "why": "the 7th-case word states a meaning, circumstance or the suffix’s kāraka sense (“… गम्यमाने / अभिधेये / कर्तरि / कारके / विषये”), not a word standing nearby — चित्रीकरणे is a meaning (गम्यमाने); the upapadas are the carried यच्च/यत्र (real upapada: यच्चयत्रयोः (carried))",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33150",
+       "quote": "यच्चयत्रयोरुपपदयोश्चित्रीकरणे गम्यमाने धातोर्लिङ् प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.3.154",
+     "word": "सिद्धाप्रयोगे",
+     "should_be": "none",
+     "reason": "SENSE",
+     "why": "the 7th-case word states a meaning, circumstance or the suffix’s kāraka sense (“… गम्यमाने / अभिधेये / कर्तरि / कारके / विषये”), not a word standing nearby — सिद्धाप्रयोगे says अलम् is NOT used — there is no word standing nearby at all",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33154",
+       "quote": "सिद्धाप्रयोग इत्यलमो विशेषणम्। सिद्धश्चेदलमोऽप्रयोगः।"
+      }
+     ]
+    },
+    {
+     "n": "3.3.163",
+     "word": "प्रैष-अतिसर्ग-प्राप्तकालेषु",
+     "should_be": "none",
+     "reason": "SENSE",
+     "why": "the 7th-case word states a meaning, circumstance or the suffix’s kāraka sense (“… गम्यमाने / अभिधेये / कर्तरि / कारके / विषये”), not a word standing nearby — प्रैष etc. are the meanings in which the suffixes come",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33163",
+       "quote": "एतेष्वर्थेषु धातोः कृत्यसंज्ञकाः प्रत्यया भवन्ति"
+      }
+     ]
+    },
+    {
+     "n": "3.4.21",
+     "word": "समानकर्त्तृकयोः",
+     "should_be": "none",
+     "reason": "QUALIFIES_DHATU",
+     "why": "the word qualifies the dhātu or its meaning (incl. “उपसर्गेऽपि / अनुपसर्गे”), not a word standing nearby — समानकर्तृकयोः qualifies the two dhātu-meanings, not a nearby word",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "34021",
+       "quote": "समानः कर्ता ययोर्धात्वर्थयोस्तत्र पूर्वकाले धात्वर्थे वर्तमानाद् धातोः क्त्वाप्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.4.50",
+     "word": "समासत्तौ",
+     "should_be": "3.1.92",
+     "reason": "SENSE",
+     "why": "the 7th-case word states a meaning, circumstance or the suffix’s kāraka sense (“… गम्यमाने / अभिधेये / कर्तरि / कारके / विषये”), not a word standing nearby — समासत्तौ is a meaning (गम्यमाने); the upapadas are the carried तृतीया/सप्तमी (real upapada: तृतीयासप्तम्योः (carried))",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "34050",
+       "quote": "समासत्तौ गम्यमानायां तृतीयासप्तम्योरुपपदयोर्धातोर्णमुल् प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.4.51",
+     "word": "प्रमाणे",
+     "should_be": "3.1.92",
+     "reason": "SENSE",
+     "why": "the 7th-case word states a meaning, circumstance or the suffix’s kāraka sense (“… गम्यमाने / अभिधेये / कर्तरि / कारके / विषये”), not a word standing nearby — प्रमाणे is a meaning (गम्यमाने) (real upapada: तृतीयासप्तम्योः (carried))",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "34051",
+       "quote": "प्रमाणे गम्यमाने तृतीयासप्तम्योरुपपदयोर्धातोर्णमुल् प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.4.52",
+     "word": "परीप्सायाम्",
+     "should_be": "3.1.92",
+     "reason": "SENSE",
+     "why": "the 7th-case word states a meaning, circumstance or the suffix’s kāraka sense (“… गम्यमाने / अभिधेये / कर्तरि / कारके / विषये”), not a word standing nearby — परीप्सायाम् is a meaning (गम्यमाने); the upapada is the अपादान word (real upapada: अपादाने (carried))",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "34052",
+       "quote": "परीप्सायां गम्यमानायामपादान उपपदे धातोर्णमुल् प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.4.56",
+     "word": "व्याप्यमान-आसेव्यमानयोः",
+     "should_be": "3.1.92",
+     "reason": "SENSE",
+     "why": "the 7th-case word states a meaning, circumstance or the suffix’s kāraka sense (“… गम्यमाने / अभिधेये / कर्तरि / कारके / विषये”), not a word standing nearby — व्याप्यमान/आसेव्यमान are meanings (गम्यमाने); the upapada is the carried द्वितीया (real upapada: द्वितीयायाम् (carried))",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "34056",
+       "quote": "द्वितीयान्त उपपदे विश्यादिभ्यो धातुभ्यो णमुल् प्रत्ययो भवति व्याप्यमान आसेव्यमाने चार्थे गम्यमाने"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G2",
+   "group": "carried / not a sūtra word | vidhi | X (carried): 7th case in the dhātu secti",
+   "count": 41,
+   "verdict": "mixed",
+   "how_checked": "All 41 member(s) read one by one against the Kāśikā (and SK/BM where KV is silent): is the credited word the word that must stand nearby (“X उपपदे”), or a meaning/circumstance/qualifier? Scripted pre-sort (KV text after the word: “…उपपद…” vs “गम्यमाने/अभिधेये/कर्तरि/कारके/विषये/वर्तमानात्”), then every non-clear case and a spot-check of the clear ones read in full.",
+   "licensed": [
+    "3.1.137",
+    "3.2.2",
+    "3.2.3",
+    "3.2.6",
+    "3.2.7",
+    "3.2.8",
+    "3.2.9",
+    "3.2.10",
+    "3.2.11",
+    "3.2.12",
+    "3.2.20",
+    "3.2.27",
+    "3.2.41",
+    "3.2.46",
+    "3.2.49",
+    "3.2.57",
+    "3.2.88",
+    "3.2.144",
+    "3.3.11",
+    "3.3.34",
+    "3.3.54",
+    "3.3.65",
+    "3.3.128",
+    "3.3.159",
+    "3.3.166",
+    "3.4.48",
+    "3.4.55"
+   ],
+   "not_licensed": [
+    {
+     "n": "3.2.62",
+     "word": "उपसर्गे, अपि",
+     "should_be": "none",
+     "reason": "QUALIFIES_DHATU",
+     "why": "the word qualifies the dhātu or its meaning (incl. “उपसर्गेऽपि / अनुपसर्गे”), not a word standing nearby — the carried “उपसर्गेऽपि” only cancels अनुपसर्गे — the dhātu may or may not have an upasarga; SK/KV put the upapada on सुप्. “अपि” is a particle, not a 7th-case word at all.",
+     "quotes": [
+      {
+       "file": "kaumudi",
+       "id": "32061",
+       "quote": "एभ्यः क्विप्स्यादुपरसर्गे सत्यसति च सुप्युपपदे"
+      },
+      {
+       "file": "balamanorama",
+       "id": "32061",
+       "quote": "'अनुपसर्गे' इत्यस्य निवृत्त्यैव सिद्धे"
+      },
+      {
+       "file": "kashika",
+       "id": "32061",
+       "quote": "सुबन्त उपपद उपसर्गेऽप्यनुपसर्गेऽपि क्विप् प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.2.63",
+     "word": "उपसर्गे, अपि",
+     "should_be": "none",
+     "reason": "QUALIFIES_DHATU",
+     "why": "the word qualifies the dhātu or its meaning (incl. “उपसर्गेऽपि / अनुपसर्गे”), not a word standing nearby — the carried “उपसर्गेऽपि” only cancels अनुपसर्गे — the dhātu may or may not have an upasarga; SK/KV put the upapada on सुप्. “अपि” is a particle, not a 7th-case word at all.",
+     "quotes": [
+      {
+       "file": "kaumudi",
+       "id": "32061",
+       "quote": "एभ्यः क्विप्स्यादुपरसर्गे सत्यसति च सुप्युपपदे"
+      },
+      {
+       "file": "balamanorama",
+       "id": "32061",
+       "quote": "'अनुपसर्गे' इत्यस्य निवृत्त्यैव सिद्धे"
+      },
+      {
+       "file": "kashika",
+       "id": "32061",
+       "quote": "सुबन्त उपपद उपसर्गेऽप्यनुपसर्गेऽपि क्विप् प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.2.64",
+     "word": "अपि",
+     "should_be": "none",
+     "reason": "NOT_7TH",
+     "why": "the credited word is not a 7th-case word — अपि is a particle carried from 3.2.61’s “उपसर्गेऽपि”, not a 7th-case word; the sūtra’s upapada is the carried सुपि (credited separately)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32064",
+       "quote": "वहेर्धातोश्छन्दसि विषये सुबन्त उपपदे ण्विप्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.2.67",
+     "word": "उपसर्गे, अपि",
+     "should_be": "none",
+     "reason": "QUALIFIES_DHATU",
+     "why": "the word qualifies the dhātu or its meaning (incl. “उपसर्गेऽपि / अनुपसर्गे”), not a word standing nearby — the carried “उपसर्गेऽपि” only cancels अनुपसर्गे — the dhātu may or may not have an upasarga; SK/KV put the upapada on सुप्. “अपि” is a particle, not a 7th-case word at all.",
+     "quotes": [
+      {
+       "file": "kaumudi",
+       "id": "32061",
+       "quote": "एभ्यः क्विप्स्यादुपरसर्गे सत्यसति च सुप्युपपदे"
+      },
+      {
+       "file": "balamanorama",
+       "id": "32061",
+       "quote": "'अनुपसर्गे' इत्यस्य निवृत्त्यैव सिद्धे"
+      },
+      {
+       "file": "kashika",
+       "id": "32061",
+       "quote": "सुबन्त उपपद उपसर्गेऽप्यनुपसर्गेऽपि क्विप् प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.2.68",
+     "word": "उपसर्गे, अपि",
+     "should_be": "none",
+     "reason": "QUALIFIES_DHATU",
+     "why": "the word qualifies the dhātu or its meaning (incl. “उपसर्गेऽपि / अनुपसर्गे”), not a word standing nearby — the carried “उपसर्गेऽपि” only cancels अनुपसर्गे — the dhātu may or may not have an upasarga; SK/KV put the upapada on सुप्. “अपि” is a particle, not a 7th-case word at all.",
+     "quotes": [
+      {
+       "file": "kaumudi",
+       "id": "32061",
+       "quote": "एभ्यः क्विप्स्यादुपरसर्गे सत्यसति च सुप्युपपदे"
+      },
+      {
+       "file": "balamanorama",
+       "id": "32061",
+       "quote": "'अनुपसर्गे' इत्यस्य निवृत्त्यैव सिद्धे"
+      },
+      {
+       "file": "kashika",
+       "id": "32061",
+       "quote": "सुबन्त उपपद उपसर्गेऽप्यनुपसर्गेऽपि क्विप् प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.2.70",
+     "word": "उपसर्गे, अपि",
+     "should_be": "none",
+     "reason": "QUALIFIES_DHATU",
+     "why": "the word qualifies the dhātu or its meaning (incl. “उपसर्गेऽपि / अनुपसर्गे”), not a word standing nearby — the carried “उपसर्गेऽपि” only cancels अनुपसर्गे — the dhātu may or may not have an upasarga; SK/KV put the upapada on सुप्. “अपि” is a particle, not a 7th-case word at all.",
+     "quotes": [
+      {
+       "file": "kaumudi",
+       "id": "32061",
+       "quote": "एभ्यः क्विप्स्यादुपरसर्गे सत्यसति च सुप्युपपदे"
+      },
+      {
+       "file": "balamanorama",
+       "id": "32061",
+       "quote": "'अनुपसर्गे' इत्यस्य निवृत्त्यैव सिद्धे"
+      },
+      {
+       "file": "kashika",
+       "id": "32061",
+       "quote": "सुबन्त उपपद उपसर्गेऽप्यनुपसर्गेऽपि क्विप् प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.2.71",
+     "word": "उपसर्गे, अपि",
+     "should_be": "none",
+     "reason": "QUALIFIES_DHATU",
+     "why": "the word qualifies the dhātu or its meaning (incl. “उपसर्गेऽपि / अनुपसर्गे”), not a word standing nearby — the carried “उपसर्गेऽपि” only cancels अनुपसर्गे — the dhātu may or may not have an upasarga; SK/KV put the upapada on सुप्. “अपि” is a particle, not a 7th-case word at all.",
+     "quotes": [
+      {
+       "file": "kaumudi",
+       "id": "32061",
+       "quote": "एभ्यः क्विप्स्यादुपरसर्गे सत्यसति च सुप्युपपदे"
+      },
+      {
+       "file": "balamanorama",
+       "id": "32061",
+       "quote": "'अनुपसर्गे' इत्यस्य निवृत्त्यैव सिद्धे"
+      },
+      {
+       "file": "kashika",
+       "id": "32061",
+       "quote": "सुबन्त उपपद उपसर्गेऽप्यनुपसर्गेऽपि क्विप् प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.2.72",
+     "word": "अपि, उपसर्गे",
+     "should_be": "none",
+     "reason": "QUALIFIES_DHATU",
+     "why": "the word qualifies the dhātu or its meaning (incl. “उपसर्गेऽपि / अनुपसर्गे”), not a word standing nearby — the carried “उपसर्गेऽपि” only cancels अनुपसर्गे — the dhātu may or may not have an upasarga; SK/KV put the upapada on सुप्. “अपि” is a particle, not a 7th-case word at all.",
+     "quotes": [
+      {
+       "file": "kaumudi",
+       "id": "32061",
+       "quote": "एभ्यः क्विप्स्यादुपरसर्गे सत्यसति च सुप्युपपदे"
+      },
+      {
+       "file": "balamanorama",
+       "id": "32061",
+       "quote": "'अनुपसर्गे' इत्यस्य निवृत्त्यैव सिद्धे"
+      },
+      {
+       "file": "kashika",
+       "id": "32061",
+       "quote": "सुबन्त उपपद उपसर्गेऽप्यनुपसर्गेऽपि क्विप् प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.2.73",
+     "word": "उपसर्गे, अपि",
+     "should_be": "none",
+     "reason": "QUALIFIES_DHATU",
+     "why": "the word qualifies the dhātu or its meaning (incl. “उपसर्गेऽपि / अनुपसर्गे”), not a word standing nearby — the carried “उपसर्गेऽपि” only cancels अनुपसर्गे — the dhātu may or may not have an upasarga; SK/KV put the upapada on सुप्. “अपि” is a particle, not a 7th-case word at all.",
+     "quotes": [
+      {
+       "file": "kaumudi",
+       "id": "32061",
+       "quote": "एभ्यः क्विप्स्यादुपरसर्गे सत्यसति च सुप्युपपदे"
+      },
+      {
+       "file": "balamanorama",
+       "id": "32061",
+       "quote": "'अनुपसर्गे' इत्यस्य निवृत्त्यैव सिद्धे"
+      },
+      {
+       "file": "kashika",
+       "id": "32061",
+       "quote": "सुबन्त उपपद उपसर्गेऽप्यनुपसर्गेऽपि क्विप् प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.2.74",
+     "word": "अपि, उपसर्गे",
+     "should_be": "none",
+     "reason": "QUALIFIES_DHATU",
+     "why": "the word qualifies the dhātu or its meaning (incl. “उपसर्गेऽपि / अनुपसर्गे”), not a word standing nearby — the carried “उपसर्गेऽपि” only cancels अनुपसर्गे — the dhātu may or may not have an upasarga; SK/KV put the upapada on सुप्. “अपि” is a particle, not a 7th-case word at all.",
+     "quotes": [
+      {
+       "file": "kaumudi",
+       "id": "32061",
+       "quote": "एभ्यः क्विप्स्यादुपरसर्गे सत्यसति च सुप्युपपदे"
+      },
+      {
+       "file": "balamanorama",
+       "id": "32061",
+       "quote": "'अनुपसर्गे' इत्यस्य निवृत्त्यैव सिद्धे"
+      },
+      {
+       "file": "kashika",
+       "id": "32061",
+       "quote": "सुबन्त उपपद उपसर्गेऽप्यनुपसर्गेऽपि क्विप् प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.2.75",
+     "word": "अपि, उपसर्गे",
+     "should_be": "none",
+     "reason": "QUALIFIES_DHATU",
+     "why": "the word qualifies the dhātu or its meaning (incl. “उपसर्गेऽपि / अनुपसर्गे”), not a word standing nearby — the carried “उपसर्गेऽपि” only cancels अनुपसर्गे — the dhātu may or may not have an upasarga; SK/KV put the upapada on सुप्. “अपि” is a particle, not a 7th-case word at all.",
+     "quotes": [
+      {
+       "file": "kaumudi",
+       "id": "32061",
+       "quote": "एभ्यः क्विप्स्यादुपरसर्गे सत्यसति च सुप्युपपदे"
+      },
+      {
+       "file": "balamanorama",
+       "id": "32061",
+       "quote": "'अनुपसर्गे' इत्यस्य निवृत्त्यैव सिद्धे"
+      },
+      {
+       "file": "kashika",
+       "id": "32061",
+       "quote": "सुबन्त उपपद उपसर्गेऽप्यनुपसर्गेऽपि क्विप् प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.2.76",
+     "word": "उपसर्गे, अपि",
+     "should_be": "none",
+     "reason": "QUALIFIES_DHATU",
+     "why": "the word qualifies the dhātu or its meaning (incl. “उपसर्गेऽपि / अनुपसर्गे”), not a word standing nearby — the carried “उपसर्गेऽपि” only cancels अनुपसर्गे — the dhātu may or may not have an upasarga; SK/KV put the upapada on सुप्. “अपि” is a particle, not a 7th-case word at all.",
+     "quotes": [
+      {
+       "file": "kaumudi",
+       "id": "32061",
+       "quote": "एभ्यः क्विप्स्यादुपरसर्गे सत्यसति च सुप्युपपदे"
+      },
+      {
+       "file": "balamanorama",
+       "id": "32061",
+       "quote": "'अनुपसर्गे' इत्यस्य निवृत्त्यैव सिद्धे"
+      },
+      {
+       "file": "kashika",
+       "id": "32061",
+       "quote": "सुबन्त उपपद उपसर्गेऽप्यनुपसर्गेऽपि क्विप् प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.2.77",
+     "word": "उपसर्गे, अपि",
+     "should_be": "none",
+     "reason": "QUALIFIES_DHATU",
+     "why": "the word qualifies the dhātu or its meaning (incl. “उपसर्गेऽपि / अनुपसर्गे”), not a word standing nearby — the carried “उपसर्गेऽपि” only cancels अनुपसर्गे — the dhātu may or may not have an upasarga; SK/KV put the upapada on सुप्. “अपि” is a particle, not a 7th-case word at all.",
+     "quotes": [
+      {
+       "file": "kaumudi",
+       "id": "32061",
+       "quote": "एभ्यः क्विप्स्यादुपरसर्गे सत्यसति च सुप्युपपदे"
+      },
+      {
+       "file": "balamanorama",
+       "id": "32061",
+       "quote": "'अनुपसर्गे' इत्यस्य निवृत्त्यैव सिद्धे"
+      },
+      {
+       "file": "kashika",
+       "id": "32061",
+       "quote": "सुबन्त उपपद उपसर्गेऽप्यनुपसर्गेऽपि क्विप् प्रत्ययो भवति"
+      }
+     ]
+    }
+   ],
+   "unsure": [
+    {
+     "n": "3.2.47",
+     "word": "कर्मणि",
+     "why": "Our vṛtti and the engine read the carried कर्मणि as the upapada; KV says सुप्युपपदे (KV on 3.2.46: कर्मणि and सुपि both run on, “यथासंभवं”). SK gives only the example सुतंगमः. Which carried word is the upapada here is not settled by the sources I have.",
+     "quotes": []
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G3",
+   "group": "own word, data case 7 | vidhi | X: an upasarga in the 7th, in the dhātu ",
+   "count": 33,
+   "verdict": "licensed",
+   "how_checked": "All 33 member(s) read one by one against the Kāśikā (and SK/BM where KV is silent): is the credited word the word that must stand nearby (“X उपपदे”), or a meaning/circumstance/qualifier? Scripted pre-sort (KV text after the word: “…उपपद…” vs “गम्यमाने/अभिधेये/कर्तरि/कारके/विषये/वर्तमानात्”), then every non-clear case and a spot-check of the clear ones read in full.",
+   "licensed": [
+    "3.2.6",
+    "3.2.7",
+    "3.2.11",
+    "3.2.31",
+    "3.2.50",
+    "3.2.72",
+    "3.2.73",
+    "3.2.100",
+    "3.2.143",
+    "3.2.144",
+    "3.2.145",
+    "3.3.23",
+    "3.3.25",
+    "3.3.27",
+    "3.3.31",
+    "3.3.32",
+    "3.3.33",
+    "3.3.35",
+    "3.3.36",
+    "3.3.38",
+    "3.3.46",
+    "3.3.47",
+    "3.3.48",
+    "3.3.49",
+    "3.3.50",
+    "3.3.51",
+    "3.3.52",
+    "3.3.55",
+    "3.3.60",
+    "3.3.64",
+    "3.3.84",
+    "3.3.120",
+    "3.3.152"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G4",
+   "group": "carried / not a sūtra word | vidhi | X: 7th case in the dhātu section",
+   "count": 26,
+   "verdict": "licensed",
+   "how_checked": "All 26 member(s) read one by one against the Kāśikā (and SK/BM where KV is silent): is the credited word the word that must stand nearby (“X उपपदे”), or a meaning/circumstance/qualifier? Scripted pre-sort (KV text after the word: “…उपपद…” vs “गम्यमाने/अभिधेये/कर्तरि/कारके/विषये/वर्तमानात्”), then every non-clear case and a spot-check of the clear ones read in full.",
+   "licensed": [
+    "3.2.22",
+    "3.2.45",
+    "3.2.56",
+    "3.2.92",
+    "3.2.98",
+    "3.2.122",
+    "3.3.6",
+    "3.3.10",
+    "3.3.37",
+    "3.3.45",
+    "3.3.69",
+    "3.3.112",
+    "3.3.126",
+    "3.3.145",
+    "3.3.151",
+    "3.3.155",
+    "3.4.18",
+    "3.4.23",
+    "3.4.25",
+    "3.4.29",
+    "3.4.43",
+    "3.4.54",
+    "3.4.57",
+    "3.4.60",
+    "3.4.61",
+    "3.4.62"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G5",
+   "group": "carried / not a sūtra word | vidhi | X: a 7th-case word in the dhātu section ",
+   "count": 25,
+   "verdict": "mixed",
+   "how_checked": "All 25 member(s) read one by one against the Kāśikā (and SK/BM where KV is silent): is the credited word the word that must stand nearby (“X उपपदे”), or a meaning/circumstance/qualifier? Scripted pre-sort (KV text after the word: “…उपपद…” vs “गम्यमाने/अभिधेये/कर्तरि/कारके/विषये/वर्तमानात्”), then every non-clear case and a spot-check of the clear ones read in full.",
+   "licensed": [
+    "3.1.107",
+    "3.1.108",
+    "3.2.15",
+    "3.2.16",
+    "3.2.57",
+    "3.2.59",
+    "3.2.62",
+    "3.2.63",
+    "3.2.64",
+    "3.2.67",
+    "3.2.68",
+    "3.2.70",
+    "3.2.71",
+    "3.2.74",
+    "3.2.75",
+    "3.2.77",
+    "3.2.79",
+    "3.2.80",
+    "3.2.81",
+    "3.2.82",
+    "3.2.83"
+   ],
+   "not_licensed": [
+    {
+     "n": "3.2.28",
+     "word": "सुपि",
+     "should_be": "3.1.92",
+     "reason": "WRONG_TRIGGER",
+     "why": "the sūtra has an upapada, but it is another word than the one credited — KV and our own vṛtti read the carried कर्मणि as the upapada, not सुपि (real upapada: कर्मणि (carried))",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32028",
+       "quote": "इत्यस्माण् ण्यन्तात् कर्मण्युपपदे खश् प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.2.72",
+     "word": "सुपि",
+     "should_be": "none",
+     "reason": "WRONG_TRIGGER",
+     "why": "the sūtra has an upapada, but it is another word than the one credited — the upapada is the upasarga अव (credited separately); BM: an upasarga is not covered by a सुप् mention",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32072",
+       "quote": "अव उपपदे यजेर्धातोर्ण्विन् प्रत्ययो भवति मन्त्रे विषये"
+      },
+      {
+       "file": "balamanorama",
+       "id": "32061",
+       "quote": "वचनमन्यत्र सुब्ग्रहणे उपसर्गग्रहणं नेति ज्ञापनार्थम्"
+      }
+     ]
+    },
+    {
+     "n": "3.2.73",
+     "word": "सुपि",
+     "should_be": "none",
+     "reason": "WRONG_TRIGGER",
+     "why": "the sūtra has an upapada, but it is another word than the one credited — the upapada is the upasarga उप (credited separately)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32073",
+       "quote": "उप उपपदे यजेश्छन्दसि विषये विच् प्रत्ययो भविति"
+      },
+      {
+       "file": "balamanorama",
+       "id": "32061",
+       "quote": "वचनमन्यत्र सुब्ग्रहणे उपसर्गग्रहणं नेति ज्ञापनार्थम्"
+      }
+     ]
+    },
+    {
+     "n": "3.2.76",
+     "word": "सुपि",
+     "should_be": "none",
+     "reason": "NO_UPAPADA_REQUIRED",
+     "why": "no upapada is a condition of this sūtra — KV: क्विप् after every dhātu with or without an upapada — no upapada is a condition; our own vṛtti has none",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32076",
+       "quote": "सर्वधातुभ्यः सोपपदेभ्यो निरुपपदेभ्यश्च छन्दसि भाषायां च क्विप् प्रत्ययो भवति"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G6",
+   "group": "own word, data case 7 | vidhi | X: a 7th-case word in the dhātu section",
+   "count": 3,
+   "verdict": "licensed",
+   "how_checked": "All 3 member(s) read one by one against the Kāśikā (and SK/BM where KV is silent): is the credited word the word that must stand nearby (“X उपपदे”), or a meaning/circumstance/qualifier? Scripted pre-sort (KV text after the word: “…उपपद…” vs “गम्यमाने/अभिधेये/कर्तरि/कारके/विषये/वर्तमानात्”), then every non-clear case and a spot-check of the clear ones read in full.",
+   "licensed": [
+    "3.1.106",
+    "3.2.4",
+    "3.2.78"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G7",
+   "group": "carried / not a sūtra word | vidhi | X (carried): a 7th case in the dhātu sec",
+   "count": 3,
+   "verdict": "licensed",
+   "how_checked": "All 3 member(s) read one by one against the Kāśikā (and SK/BM where KV is silent): is the credited word the word that must stand nearby (“X उपपदे”), or a meaning/circumstance/qualifier? Scripted pre-sort (KV text after the word: “…उपपद…” vs “गम्यमाने/अभिधेये/कर्तरि/कारके/विषये/वर्तमानात्”), then every non-clear case and a spot-check of the clear ones read in full.",
+   "licensed": [
+    "3.2.16",
+    "3.4.39",
+    "3.4.40"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G8",
+   "group": "own word, data case 7 | vidhi | X: a 7th case in the dhātu section",
+   "count": 2,
+   "verdict": "licensed",
+   "how_checked": "All 2 member(s) read one by one against the Kāśikā (and SK/BM where KV is silent): is the credited word the word that must stand nearby (“X उपपदे”), or a meaning/circumstance/qualifier? Scripted pre-sort (KV text after the word: “…उपपद…” vs “गम्यमाने/अभिधेये/कर्तरि/कारके/विषये/वर्तमानात्”), then every non-clear case and a spot-check of the clear ones read in full.",
+   "licensed": [
+    "3.2.15",
+    "3.4.38"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G9",
+   "group": "carried / not a sūtra word | nipātana | X: upapada",
+   "count": 2,
+   "verdict": "licensed",
+   "how_checked": "All 2 member(s) read one by one against the Kāśikā (and SK/BM where KV is silent): is the credited word the word that must stand nearby (“X उपपदे”), or a meaning/circumstance/qualifier? Scripted pre-sort (KV text after the word: “…उपपद…” vs “गम्यमाने/अभिधेये/कर्तरि/कारके/विषये/वर्तमानात्”), then every non-clear case and a spot-check of the clear ones read in full.",
+   "licensed": [
+    "3.2.55",
+    "3.3.86"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G10",
+   "group": "carried / not a sūtra word | operation | X: upapada",
+   "count": 2,
+   "verdict": "licensed",
+   "how_checked": "All 2 member(s) read one by one against the Kāśikā (and SK/BM where KV is silent): is the credited word the word that must stand nearby (“X उपपदे”), or a meaning/circumstance/qualifier? Scripted pre-sort (KV text after the word: “…उपपद…” vs “गम्यमाने/अभिधेये/कर्तरि/कारके/विषये/वर्तमानात्”), then every non-clear case and a spot-check of the clear ones read in full.",
+   "licensed": [
+    "3.3.72",
+    "3.4.32"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G11",
+   "group": "carried / not a sūtra word | vidhi | X: upapada",
+   "count": 2,
+   "verdict": "licensed",
+   "how_checked": "All 2 member(s) read one by one against the Kāśikā (and SK/BM where KV is silent): is the credited word the word that must stand nearby (“X उपपदे”), or a meaning/circumstance/qualifier? Scripted pre-sort (KV text after the word: “…उपपद…” vs “गम्यमाने/अभिधेये/कर्तरि/कारके/विषये/वर्तमानात्”), then every non-clear case and a spot-check of the clear ones read in full.",
+   "licensed": [
+    "3.3.129",
+    "3.3.149"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G12",
+   "group": "named by a commentator | pada | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "how_checked": "All 1 member(s) read one by one against the Kāśikā (and SK/BM where KV is silent): is the credited word the word that must stand nearby (“X उपपदे”), or a meaning/circumstance/qualifier? Scripted pre-sort (KV text after the word: “…उपपद…” vs “गम्यमाने/अभिधेये/कर्तरि/कारके/विषये/वर्तमानात्”), then every non-clear case and a spot-check of the clear ones read in full.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "1.3.77",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "DENIED",
+     "why": "a commentator names the rule only to deny it — Nyāsa names 3.1.92 only to deny it: 1.3.77’s उपपद is the non-technical “word said nearby” (स्व in स्वं यज्ञं यजते is no 7th-case word of the dhātu section). Should be a ✖.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "13077",
+       "quote": "न च स्वशब्द एवंविध इत्याह"
+      },
+      {
+       "file": "kashika",
+       "id": "13077",
+       "quote": "समीपे श्रूयमाणं शब्दान्तरमुपपदम्"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G13",
+   "group": "named by a commentator | samāsa | X (English)",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) read one by one against the Kāśikā (and SK/BM where KV is silent): is the credited word the word that must stand nearby (“X उपपदे”), or a meaning/circumstance/qualifier? Scripted pre-sort (KV text after the word: “…उपपद…” vs “गम्यमाने/अभिधेये/कर्तरि/कारके/विषये/वर्तमानात्”), then every non-clear case and a spot-check of the clear ones read in full.",
+   "licensed": [
+    "2.2.19"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G14",
+   "group": "named by a commentator | adhikāra | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "how_checked": "All 1 member(s) read one by one against the Kāśikā (and SK/BM where KV is silent): is the credited word the word that must stand nearby (“X उपपदे”), or a meaning/circumstance/qualifier? Scripted pre-sort (KV text after the word: “…उपपद…” vs “गम्यमाने/अभिधेये/कर्तरि/कारके/विषये/वर्तमानात्”), then every non-clear case and a spot-check of the clear ones read in full.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "3.1.91",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "NAMED_NOT_APPLIED",
+     "why": "named in the commentary, not applied to read this sūtra — Nyāsa explains that 3.1.91 repeats धातोः so that 3.1.92 is confined to this section — 3.1.91 delimits 3.1.92; 3.1.92 is not needed to read “धातोः इति अधिकारः”",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "31091",
+       "quote": "तसमादिह धात्वधिकारे कृदुपपदसंज्ञे यथा स्यातां पूर्वत्र मा भूतामिति पूनर्धातुग्रहणम्"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G15",
+   "group": "carried / not a sūtra word | nipātana | X (KV: …)",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) read one by one against the Kāśikā (and SK/BM where KV is silent): is the credited word the word that must stand nearby (“X उपपदे”), or a meaning/circumstance/qualifier? Scripted pre-sort (KV text after the word: “…उपपद…” vs “गम्यमाने/अभिधेये/कर्तरि/कारके/विषये/वर्तमानात्”), then every non-clear case and a spot-check of the clear ones read in full.",
+   "licensed": [
+    "3.1.122"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G16",
+   "group": "own word, data case 1 | nipātana | X: nipatana",
+   "count": 1,
+   "verdict": "unsure",
+   "how_checked": "All 1 member(s) read one by one against the Kāśikā (and SK/BM where KV is silent): is the credited word the word that must stand nearby (“X उपपदे”), or a meaning/circumstance/qualifier? Scripted pre-sort (KV text after the word: “…उपपद…” vs “गम्यमाने/अभिधेये/कर्तरि/कारके/विषये/वर्तमानात्”), then every non-clear case and a spot-check of the clear ones read in full.",
+   "licensed": [],
+   "not_licensed": [],
+   "unsure": [
+    {
+     "n": "3.1.130",
+     "word": "कुण्डपाय्य-संचाय्यौ",
+     "why": "KV calls कुण्ड (a 3rd-case word) the upapada inside a nipātana (“कुण्डशब्दे तृतीयान्त उपपदे”). 3.1.92 itself reads 7th-case words; whether a nipātana-supplied upapada is credited to 3.1.92 is a policy question, not settled by the sources.",
+     "quotes": []
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G17",
+   "group": "carried / not a sūtra word | vidhi | X (from 3.2.93; the anuvṛtti data leaves",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) read one by one against the Kāśikā (and SK/BM where KV is silent): is the credited word the word that must stand nearby (“X उपपदे”), or a meaning/circumstance/qualifier? Scripted pre-sort (KV text after the word: “…उपपद…” vs “गम्यमाने/अभिधेये/कर्तरि/कारके/विषये/वर्तमानात्”), then every non-clear case and a spot-check of the clear ones read in full.",
+   "licensed": [
+    "3.2.94"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G18",
+   "group": "own word, data case 7 | vidhi | X: qualifier",
+   "count": 1,
+   "verdict": "not licensed",
+   "how_checked": "All 1 member(s) read one by one against the Kāśikā (and SK/BM where KV is silent): is the credited word the word that must stand nearby (“X उपपदे”), or a meaning/circumstance/qualifier? Scripted pre-sort (KV text after the word: “…उपपद…” vs “गम्यमाने/अभिधेये/कर्तरि/कारके/विषये/वर्तमानात्”), then every non-clear case and a spot-check of the clear ones read in full.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "3.3.61",
+     "word": "अनुपसर्गे",
+     "should_be": "none",
+     "reason": "QUALIFIES_DHATU",
+     "why": "the word qualifies the dhātu or its meaning (incl. “उपसर्गेऽपि / अनुपसर्गे”), not a word standing nearby — अनुपसर्गे qualifies the dhātus (“not preceded by an upasarga”); the sūtra has no upapada",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33061",
+       "quote": "व्यध जप इत्येतयोरनुपसर्गयोरप् प्रत्ययो भवति"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G19",
+   "group": "own word, data case 7 | operation | X: upapada",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) read one by one against the Kāśikā (and SK/BM where KV is silent): is the credited word the word that must stand nearby (“X उपपदे”), or a meaning/circumstance/qualifier? Scripted pre-sort (KV text after the word: “…उपपद…” vs “गम्यमाने/अभिधेये/कर्तरि/कारके/विषये/वर्तमानात्”), then every non-clear case and a spot-check of the clear ones read in full.",
+   "licensed": [
+    "3.3.73"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G20",
+   "group": "own word, data case 7 | ādeśa | X: upapada",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) read one by one against the Kāśikā (and SK/BM where KV is silent): is the credited word the word that must stand nearby (“X उपपदे”), or a meaning/circumstance/qualifier? Scripted pre-sort (KV text after the word: “…उपपद…” vs “गम्यमाने/अभिधेये/कर्तरि/कारके/विषये/वर्तमानात्”), then every non-clear case and a spot-check of the clear ones read in full.",
+   "licensed": [
+    "3.3.116"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G21",
+   "group": "carried / not a sūtra word | vidhi | X (3.3.126) runs on as the upapadas",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) read one by one against the Kāśikā (and SK/BM where KV is silent): is the credited word the word that must stand nearby (“X उपपदे”), or a meaning/circumstance/qualifier? Scripted pre-sort (KV text after the word: “…उपपद…” vs “गम्यमाने/अभिधेये/कर्तरि/कारके/विषये/वर्तमानात्”), then every non-clear case and a spot-check of the clear ones read in full.",
+   "licensed": [
+    "3.3.130"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G22",
+   "group": "named by a commentator | svara | X (English)",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) read one by one against the Kāśikā (and SK/BM where KV is silent): is the credited word the word that must stand nearby (“X उपपदे”), or a meaning/circumstance/qualifier? Scripted pre-sort (KV text after the word: “…उपपद…” vs “गम्यमाने/अभिधेये/कर्तरि/कारके/विषये/वर्तमानात्”), then every non-clear case and a spot-check of the clear ones read in full.",
+   "licensed": [
+    "6.2.139"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  }
+ ],
+ "missed": [
+  {
+   "n": "3.2.26",
+   "pid": "3.1.92",
+   "why": "nipātana फलेग्रहिः / आत्मम्भरिः: KV names फल as the upapada; same footing as 3.1.122 (credited).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "32026",
+     "quote": "फलशब्दस्य उपपदस्यैकारान्तत्वमिन्प्रत्ययश्च ग्रहेर्निपात्यते"
+    }
+   ]
+  },
+  {
+   "n": "3.1.123",
+   "pid": "3.1.92",
+   "why": "nipātana list: KV derives देवहूय etc. with देव as upapada; same footing as 3.1.122.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "31123",
+     "quote": "देवशब्द उपपदे ह्वयतेर्जुहोतेर्वा क्यप्"
+    }
+   ]
+  },
+  {
+   "n": "3.2.19 / 3.2.79 / 3.4.45",
+   "pid": "3.1.92",
+   "why": "not a missing credit at sūtra level (each has one), but the ✖ entries on कर्तरि (3.2.19, 3.2.79) and उपमाने (3.4.45) give a wrong reason: these words describe the upapada itself (“कर्तृवाचिन्युपपदे”, “उपमाने कर्मण्युपपदे”), just as अजातौ (3.2.78) or समर्थयोः (3.3.152) do, which the engine credits.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "32019",
+     "quote": "पूर्वशब्दे कर्तृवाचिन्युपपदे सर्तेर्धातोष्टप्रत्ययो भवति"
+    },
+    {
+     "file": "kashika",
+     "id": "34045",
+     "quote": "उपमाने कर्मण्युपपदे"
+    }
+   ]
+  }
+ ],
+ "effect_defects": [
+  {
+   "n": "3.2.45",
+   "word": "आशिते, करण-भावयोः",
+   "kind": "TRIGGER_WORDING",
+   "note": "करण-भावयोः is the suffix’s sense (KV “करणे भावे चार्थे”)"
+  },
+  {
+   "n": "3.2.92",
+   "word": "कर्मशब्दे, अग्न्याख्यायाम्",
+   "kind": "TRIGGER_WORDING",
+   "note": "अग्न्याख्यायाम् is a meaning; “कर्मशब्दे” mis-names the carried कर्मणि (the sūtra’s own कर्मणि is the kāraka sense)"
+  },
+  {
+   "n": "3.3.6",
+   "word": "किंवृत्ते, लिप्सायाम्",
+   "kind": "TRIGGER_WORDING",
+   "note": "लिप्सायाम् is a meaning"
+  },
+  {
+   "n": "3.3.37",
+   "word": "परि-न्योः, द्यूत-अभ्रेषयोः",
+   "kind": "TRIGGER_WORDING",
+   "note": "द्यूत-अभ्रेषयोः restrict the dhātu meanings (KV “द्यूतविषयश्चेन्नयतेरर्थः”)"
+  },
+  {
+   "n": "3.3.45",
+   "word": "आक्रोशे, अव-न्योः",
+   "kind": "TRIGGER_WORDING",
+   "note": "आक्रोशे is a meaning"
+  },
+  {
+   "n": "3.3.69",
+   "word": "सम्-उदोः, पशुषु",
+   "kind": "TRIGGER_WORDING",
+   "note": "पशुषु restricts the dhātu meaning (KV “पशुविषये धात्वर्थे”)"
+  },
+  {
+   "n": "3.3.112",
+   "word": "आक्रोशे, नञि, अनिः",
+   "kind": "TRIGGER_WORDING",
+   "note": "आक्रोशे is a meaning; अनिः is the suffix (1st case)"
+  },
+  {
+   "n": "3.3.145",
+   "word": "अनवकॢप्ति-अमर्षयोः, अकिंवृत्ते",
+   "kind": "TRIGGER_WORDING",
+   "note": "अनवकॢप्ति-अमर्षयोः are meanings"
+  },
+  {
+   "n": "3.4.23",
+   "word": "यदि, अनाकाङ्क्षे",
+   "kind": "TRIGGER_WORDING",
+   "note": "अनाकाङ्क्षे is a condition (KV “अनाकाङ्क्षे वाच्ये”)"
+  },
+  {
+   "n": "3.4.25",
+   "word": "कर्मणि, आक्रोशे",
+   "kind": "TRIGGER_WORDING",
+   "note": "आक्रोशे is a meaning"
+  },
+  {
+   "n": "3.4.29",
+   "word": "कर्मणि, साकल्ये",
+   "kind": "TRIGGER_WORDING",
+   "note": "साकल्ये is a meaning"
+  },
+  {
+   "n": "3.4.57",
+   "word": "क्रियान्तरे, कालेषु",
+   "kind": "TRIGGER_WORDING",
+   "note": "क्रियान्तरे qualifies the dhātu meaning (KV “क्रियान्तरे धात्वर्थे वर्तमानाभ्याम्”)"
+  },
+  {
+   "n": "3.4.60",
+   "word": "तिर्यचि, अपवर्गे",
+   "kind": "TRIGGER_WORDING",
+   "note": "अपवर्गे is a meaning"
+  }
+ ]
+}

@@ -1,0 +1,671 @@
+{
+ "pid": "PIS 119",
+ "generated": "2026-11-20",
+ "totals_by_firing": {
+  "licensed": 164,
+  "not licensed": 2,
+  "unsure": 10
+ },
+ "totals_by_group": {
+  "mixed": 2,
+  "licensed": 8,
+  "unsure": 1
+ },
+ "not_licensed_by_should_be": {
+  "none": 2
+ },
+ "conditions": [
+  {
+   "text": "C1. Content: a nipātana is undertaken only where some general rule would otherwise apply, so within its own scope it blocks that rule (the regular form is not also correct there). The rival view, that nipātanas need not block, is rejected as against the Bhāṣya.",
+   "quotes": [
+    {
+     "file": "paribhashendushekhar",
+     "id": "119",
+     "quote": "तत्तत्कायें नाप्राप्ते निपातनारम्भात्"
+    },
+    {
+     "file": "paribhashendushekhar",
+     "id": "119",
+     "quote": "अबाधकान्यपि निपातनानीति तु भाष्यविरुद्धम्"
+    },
+    {
+     "file": "bhashya",
+     "id": "11027",
+     "quote": "बाधकान्येव हि निपातनानि भवन्ति"
+    },
+    {
+     "file": "tattvabodhini",
+     "id": "11027",
+     "quote": "अत्र भाष्यानुसाराद्बाधकान्येव निपातनानि भवन्तीति पक्ष आश्रितः"
+    }
+   ]
+  },
+  {
+   "text": "C2. Scope: the sūtra must state a form ready-made (Kāśikā “निपात्यते/निपात्यन्ते”, or a list of forms valid exactly as spoken). A time rule or a saṃjñā that makes listed words correct by another route is not a nipātana.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "33003",
+     "quote": "भविष्यति काले गम्यादयः शब्दाः साधवो भवन्ति। प्रत्ययस्यैव भविष्यत्कालता विधीयते न प्रकृतेः।"
+    },
+    {
+     "file": "kashika",
+     "id": "14020",
+     "quote": "भपदसंज्ञाधिकारे विधानात् तेन मुखेन साधुत्वमयस्मयादीनां विधीयते।"
+    }
+   ]
+  },
+  {
+   "text": "C3. What blocking means, in a commentator's words; and its absence: where the text says the regular form is also used, PIS 119 does no work.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "54139",
+     "quote": "समुदायपाठस्य च प्रयोजनं विषयनियमः — स्त्रियामेव, तत्र ङीप्प्रत्यय एव, नान्यदा।"
+    },
+    {
+     "file": "kashika",
+     "id": "61060",
+     "quote": "न पुनरयमादेशः शिरःशब्दस्य, सोऽपि हि छन्दसि प्रयुज्यत एव"
+    }
+   ]
+  },
+  {
+   "text": "C4. Optional nipātanas: where the sūtra itself keeps the regular form as an option, blocking and not blocking give the same forms (see the “unsure” members). Where commentators invoke the rival maxim “अबाधकान्यपि निपातनानि” it is on sūtras that are not in this firing list.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "51060",
+     "quote": "वावचनात् पक्षे सोऽपि भवति"
+    },
+    {
+     "file": "kashika",
+     "id": "72027",
+     "quote": "विकल्पार्थं निपातनम्"
+    },
+    {
+     "file": "padamanjari",
+     "id": "42004",
+     "quote": "अबाधकान्यपि निपातनानि भवन्ति"
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | nipātana | X",
+   "count": 129,
+   "verdict": "mixed",
+   "how_checked": "Every member read: sūtra, our vṛtti, and the Kāśikā sentence that says what is nipātita (pulled by script for all 176); every member checked by script for a Kāśikā/Kaumudī “निपात” word (171 have it in the Kāśikā; the 5 that do not were read in full).",
+   "licensed": [
+    "3.1.101",
+    "3.1.102",
+    "3.1.103",
+    "3.1.104",
+    "3.1.105",
+    "3.1.114",
+    "3.1.115",
+    "3.1.116",
+    "3.1.117",
+    "3.1.121",
+    "3.1.123",
+    "3.1.127",
+    "3.1.128",
+    "3.1.129",
+    "3.1.130",
+    "3.1.131",
+    "3.1.132",
+    "3.2.26",
+    "3.2.37",
+    "3.2.55",
+    "3.2.109",
+    "3.2.164",
+    "3.2.169",
+    "3.3.68",
+    "3.3.70",
+    "3.3.78",
+    "3.3.79",
+    "3.3.80",
+    "3.3.81",
+    "3.3.85",
+    "3.3.86",
+    "3.3.101",
+    "3.3.119",
+    "3.3.122",
+    "3.3.123",
+    "3.3.124",
+    "3.4.73",
+    "3.4.74",
+    "4.1.62",
+    "5.2.14",
+    "5.2.20",
+    "5.2.22",
+    "5.2.23",
+    "5.2.71",
+    "5.2.73",
+    "5.2.74",
+    "5.2.80",
+    "5.2.84",
+    "5.2.89",
+    "5.2.90",
+    "5.2.92",
+    "5.2.93",
+    "5.2.114",
+    "5.2.126",
+    "5.3.17",
+    "5.3.104",
+    "5.4.77",
+    "5.4.83",
+    "5.4.84",
+    "5.4.120",
+    "5.4.123",
+    "5.4.126",
+    "5.4.160",
+    "6.1.12",
+    "6.1.27",
+    "6.1.36",
+    "6.1.81",
+    "6.1.82",
+    "6.1.83",
+    "6.1.143",
+    "6.1.144",
+    "6.1.145",
+    "6.1.146",
+    "6.1.147",
+    "6.1.148",
+    "6.1.149",
+    "6.1.152",
+    "6.1.153",
+    "6.1.154",
+    "6.1.155",
+    "6.1.156",
+    "6.1.157",
+    "6.3.33",
+    "6.3.69",
+    "6.3.113",
+    "6.4.28",
+    "6.4.29",
+    "6.4.53",
+    "6.4.54",
+    "6.4.171",
+    "6.4.172",
+    "6.4.173",
+    "6.4.174",
+    "6.4.175",
+    "7.1.43",
+    "7.1.48",
+    "7.2.18",
+    "7.2.20",
+    "7.2.21",
+    "7.2.26",
+    "7.2.32",
+    "7.2.33",
+    "7.2.34",
+    "7.2.69",
+    "7.3.61",
+    "7.3.62",
+    "7.3.68",
+    "7.3.69",
+    "7.4.34",
+    "7.4.36",
+    "8.1.14",
+    "8.1.15",
+    "8.2.13",
+    "8.2.50",
+    "8.2.55",
+    "8.2.58",
+    "8.2.59",
+    "8.2.60",
+    "8.2.61",
+    "8.2.67"
+   ],
+   "not_licensed": [
+    {
+     "n": "3.3.3",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "should_be": "none",
+     "reason": "NOT_A_NIPATANA",
+     "why": "Not a nipātana: the sūtra fixes the time sense (future) of the suffixes in गमी, आगामी, भावी …; no form is stated against a general rule (C2). The engine took the nipātana label from the page kind.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33003",
+       "quote": "भविष्यति काले गम्यादयः शब्दाः साधवो भवन्ति। प्रत्ययस्यैव भविष्यत्कालता विधीयते न प्रकृतेः।"
+      }
+     ]
+    },
+    {
+     "n": "6.1.60",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "should_be": "none",
+     "reason": "NIPATANA_DOES_NOT_BLOCK",
+     "why": "The Kāśikā makes शीर्षन् a separate word, explicitly not a substitute for शिरस्, because शिरस् is also used in the Veda — so nothing is blocked (C3). (The Kaumudī instead reads it as a substitute, “शिरःशब्दस्य शीर्षन् स्यात्”, which is an ādeśa rule, not a nipātana — PIS 119 is not needed on either reading.)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61060",
+       "quote": "शीर्षन्निति शब्दान्तरं शिरःशब्देन समानार्थं छन्दसि विषये निपात्यते, न पुनरयमादेशः शिरःशब्दस्य, सोऽपि हि छन्दसि प्रयुज्यत एव"
+      },
+      {
+       "file": "kaumudi",
+       "id": "61060",
+       "quote": "शिरःशब्दस्य शीर्षन् स्यात्"
+      }
+     ]
+    }
+   ],
+   "unsure": [
+    {
+     "n": "3.1.42",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "why": "Optional nipātana: the sūtra itself (वा / अन्यतरस्याम् / उदीचाम्) keeps the regular form beside the nipātana, so the question PIS 119 settles — does a nipātana shut out the regular form? — gets the same answer (both forms) whether nipātanas block or not. In the nipātana's own option the regular rule is set aside, so a credit is defensible; it is not needed to read the sūtra. Policy call for Harsha.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "31042",
+       "quote": "अभ्युत्सादयामित्येवमादयश्छन्दसि विषयेऽन्यतरस्यां निपात्यन्ते"
+      }
+     ]
+    },
+    {
+     "n": "3.1.122",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "why": "Optional nipātana: the sūtra itself (वा / अन्यतरस्याम् / उदीचाम्) keeps the regular form beside the nipātana, so the question PIS 119 settles — does a nipātana shut out the regular form? — gets the same answer (both forms) whether nipātanas block or not. In the nipātana's own option the regular rule is set aside, so a credit is defensible; it is not needed to read the sūtra. Policy call for Harsha.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "31122",
+       "quote": "तत्रान्यतरस्यां वृद्ध्यभावो निपात्यते"
+      }
+     ]
+    },
+    {
+     "n": "3.4.68",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "why": "Optional nipātana: the sūtra itself (वा / अन्यतरस्याम् / उदीचाम्) keeps the regular form beside the nipātana, so the question PIS 119 settles — does a nipātana shut out the regular form? — gets the same answer (both forms) whether nipātanas block or not. In the nipātana's own option the regular rule is set aside, so a credit is defensible; it is not needed to read the sūtra. Policy call for Harsha.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "34068",
+       "quote": "भव्यादयः शब्दाः कर्तरि वा निपात्यन्ते"
+      },
+      {
+       "file": "kashika",
+       "id": "34068",
+       "quote": "भावकर्मणोः प्राप्तयोः कर्ता च वाच्यः पक्ष उच्यते"
+      }
+     ]
+    },
+    {
+     "n": "6.1.150",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "why": "Optional nipātana: the sūtra itself (वा / अन्यतरस्याम् / उदीचाम्) keeps the regular form beside the nipātana, so the question PIS 119 settles — does a nipātana shut out the regular form? — gets the same answer (both forms) whether nipātanas block or not. In the nipātana's own option the regular rule is set aside, so a credit is defensible; it is not needed to read the sūtra. Policy call for Harsha.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61150",
+       "quote": "विकिरशब्दाभिधेयो वा शकुनिर्भवति"
+      }
+     ]
+    },
+    {
+     "n": "6.3.32",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "why": "Optional nipātana: the sūtra itself (वा / अन्यतरस्याम् / उदीचाम्) keeps the regular form beside the nipātana, so the question PIS 119 settles — does a nipātana shut out the regular form? — gets the same answer (both forms) whether nipātanas block or not. In the nipātana's own option the regular rule is set aside, so a credit is defensible; it is not needed to read the sūtra. Policy call for Harsha.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "63032",
+       "quote": "उदीचामिति किम्? मातापितरौ"
+      }
+     ]
+    },
+    {
+     "n": "7.2.27",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "why": "Optional nipātana: the sūtra itself (वा / अन्यतरस्याम् / उदीचाम्) keeps the regular form beside the nipātana, so the question PIS 119 settles — does a nipātana shut out the regular form? — gets the same answer (both forms) whether nipātanas block or not. In the nipātana's own option the regular rule is set aside, so a credit is defensible; it is not needed to read the sūtra. Policy call for Harsha.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72027",
+       "quote": "विकल्पार्थं निपातनम्"
+      }
+     ]
+    },
+    {
+     "n": "7.2.30",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "why": "Optional nipātana: the sūtra itself (वा / अन्यतरस्याम् / उदीचाम्) keeps the regular form beside the nipātana, so the question PIS 119 settles — does a nipātana shut out the regular form? — gets the same answer (both forms) whether nipātanas block or not. In the nipātana's own option the regular rule is set aside, so a credit is defensible; it is not needed to read the sūtra. Policy call for Harsha.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72030",
+       "quote": "अपचितोऽनेन गुरुः, अपचायितोऽनेन गुरुः"
+      }
+     ]
+    }
+   ],
+   "note": "6.1.27 (शृतं पाके) is licensed: the Kāśikā makes its विभाषा a fixed one (quoted below), so the nipātana does block श्राण/श्रपित for milk and oblation. 3.3.78 (अन्तर्घनः) is licensed although the Kāśikā words it as a vidhi: the irregular घन stands against अन्तर्घात, which the Kāśikā gives only outside the meaning. 7.2.18 is licensed; note the Kāśikā on 7.2.28 lets a later option override its स्वान्त — a nipātana can itself be overridden; that does not touch the credit here.",
+   "note_quotes": [
+    {
+     "file": "kashika",
+     "id": "61027",
+     "quote": "व्यवस्थितविभाषा चेयम्, तेन क्षीरहविषोर्नित्यं शृभावो भवति"
+    },
+    {
+     "file": "kashika",
+     "id": "33078",
+     "quote": "अन्तःपूर्वाद् हन्तेरप् प्रत्ययो भवति, घनादेशश्च भवति देशेऽभिधेये।"
+    },
+    {
+     "file": "kashika",
+     "id": "33078",
+     "quote": "देश इति किम्? अन्तर्घातोऽन्यः"
+    },
+    {
+     "file": "kashika",
+     "id": "72028",
+     "quote": "परत्वादयं विकल्पः <<क्षुब्धस्वान्त०>> [[७.२.१८]] इति निपातनं बाधते"
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "group": "carried / not a sūtra word | vidhi | X",
+   "count": 19,
+   "verdict": "mixed",
+   "how_checked": "Every member read: sūtra, our vṛtti, and the Kāśikā sentence that says what is nipātita (pulled by script for all 176); every member checked by script for a Kāśikā/Kaumudī “निपात” word (171 have it in the Kāśikā; the 5 that do not were read in full).",
+   "licensed": [
+    "3.2.71",
+    "3.3.87",
+    "3.4.10",
+    "3.4.11",
+    "3.4.15",
+    "4.2.13",
+    "4.2.36",
+    "4.4.89",
+    "5.1.59",
+    "5.1.90",
+    "5.1.113",
+    "5.1.114",
+    "5.2.13",
+    "5.3.22",
+    "5.4.125",
+    "5.4.128",
+    "5.4.139"
+   ],
+   "not_licensed": [],
+   "unsure": [
+    {
+     "n": "3.1.41",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "why": "Optional nipātana: the sūtra itself (वा / अन्यतरस्याम् / उदीचाम्) keeps the regular form beside the nipātana, so the question PIS 119 settles — does a nipātana shut out the regular form? — gets the same answer (both forms) whether nipātanas block or not. In the nipātana's own option the regular rule is set aside, so a credit is defensible; it is not needed to read the sūtra. Policy call for Harsha.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "31041",
+       "quote": "विदाङ्कुर्वन्त्वित्येतदन्यतरस्यां निपात्यते"
+      }
+     ]
+    },
+    {
+     "n": "5.1.60",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "why": "Optional nipātana: the sūtra itself (वा / अन्यतरस्याम् / उदीचाम्) keeps the regular form beside the nipātana, so the question PIS 119 settles — does a nipātana shut out the regular form? — gets the same answer (both forms) whether nipātanas block or not. In the nipātana's own option the regular rule is set aside, so a credit is defensible; it is not needed to read the sūtra. Policy call for Harsha.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51060",
+       "quote": "वावचनात् पक्षे सोऽपि भवति"
+      }
+     ]
+    }
+   ],
+   "note": "5.4.139 is licensed with the clearest statement of what PIS 119 does: the listed forms fix the domain and shut out the 4.1.8 option (quoted below).",
+   "note_quotes": [
+    {
+     "file": "kashika",
+     "id": "54139",
+     "quote": "समुदायपाठस्य च प्रयोजनं विषयनियमः — स्त्रियामेव, तत्र ङीप्प्रत्यय एव, नान्यदा।"
+    },
+    {
+     "file": "kashika",
+     "id": "54139",
+     "quote": "<<पादोऽन्यतरस्याम्>> [[४.१.८]] इति विकल्पो न भवति"
+    }
+   ]
+  },
+  {
+   "id": "G3",
+   "group": "carried / not a sūtra word | ādeśa | X",
+   "count": 7,
+   "verdict": "licensed",
+   "how_checked": "Every member read: sūtra, our vṛtti, and the Kāśikā sentence that says what is nipātita (pulled by script for all 176); every member checked by script for a Kāśikā/Kaumudī “निपात” word (171 have it in the Kāśikā; the 5 that do not were read in full).",
+   "licensed": [
+    "7.1.49",
+    "7.3.64",
+    "7.4.45",
+    "7.4.65",
+    "7.4.74",
+    "8.2.12",
+    "8.2.14"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G4",
+   "group": "carried / not a sūtra word | ṣatva | X",
+   "count": 7,
+   "verdict": "licensed",
+   "how_checked": "Every member read: sūtra, our vṛtti, and the Kāśikā sentence that says what is nipātita (pulled by script for all 176); every member checked by script for a Kāśikā/Kaumudī “निपात” word (171 have it in the Kāśikā; the 5 that do not were read in full).",
+   "licensed": [
+    "8.3.75",
+    "8.3.90",
+    "8.3.91",
+    "8.3.92",
+    "8.3.93",
+    "8.3.94",
+    "8.3.114"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G5",
+   "group": "carried / not a sūtra word | operation | X",
+   "count": 4,
+   "verdict": "licensed",
+   "how_checked": "Every member read: sūtra, our vṛtti, and the Kāśikā sentence that says what is nipātita (pulled by script for all 176); every member checked by script for a Kāśikā/Kaumudī “निपात” word (171 have it in the Kāśikā; the 5 that do not were read in full).",
+   "licensed": [
+    "3.3.74",
+    "4.1.59",
+    "5.4.147",
+    "5.4.150"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G6",
+   "group": "carried / not a sūtra word | samāsa | X",
+   "count": 3,
+   "verdict": "licensed",
+   "how_checked": "Every member read: sūtra, our vṛtti, and the Kāśikā sentence that says what is nipātita (pulled by script for all 176); every member checked by script for a Kāśikā/Kaumudī “निपात” word (171 have it in the Kāśikā; the 5 that do not were read in full).",
+   "licensed": [
+    "2.1.17",
+    "2.1.48",
+    "2.1.72"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G7",
+   "group": "carried / not a sūtra word | vibhakti | X",
+   "count": 3,
+   "verdict": "licensed",
+   "how_checked": "Every member read: sūtra, our vṛtti, and the Kāśikā sentence that says what is nipātita (pulled by script for all 176); every member checked by script for a Kāśikā/Kaumudī “निपात” word (171 have it in the Kāśikā; the 5 that do not were read in full).",
+   "licensed": [
+    "5.3.31",
+    "5.3.32",
+    "5.3.33"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G8",
+   "group": "carried / not a sūtra word | saṃjñā | X",
+   "count": 1,
+   "verdict": "unsure",
+   "how_checked": "Every member read: sūtra, our vṛtti, and the Kāśikā sentence that says what is nipātita (pulled by script for all 176); every member checked by script for a Kāśikā/Kaumudī “निपात” word (171 have it in the Kāśikā; the 5 that do not were read in full).",
+   "licensed": [],
+   "not_licensed": [],
+   "unsure": [
+    {
+     "n": "1.4.20",
+     "word": "a nipātana stands against the general rules that would give another form",
+     "why": "Probably not licensed: the Kāśikā says these forms are made correct through the bha/pada saṃjñā, not by nipātana (C2), and a vārttika lets both saṃjñās apply together. But the list is read as ready-made Vedic forms (an ākṛtigaṇa), and the Kaumudī's wording is “एतानि छन्दसि साधूनि”, as with nipātana lists. Left for Harsha.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "14020",
+       "quote": "भपदसंज्ञाधिकारे विधानात् तेन मुखेन साधुत्वमयस्मयादीनां विधीयते।"
+      },
+      {
+       "file": "kaumudi",
+       "id": "14020",
+       "quote": "उभयसंज्ञान्यपीति वक्तव्यमिति"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G9",
+   "group": "carried / not a sūtra word | ekavat | X",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "Every member read: sūtra, our vṛtti, and the Kāśikā sentence that says what is nipātita (pulled by script for all 176); every member checked by script for a Kāśikā/Kaumudī “निपात” word (171 have it in the Kāśikā; the 5 that do not were read in full).",
+   "licensed": [
+    "2.4.11"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "2.4.11 is licensed: the Kāśikā treats the list as forms taken exactly as spoken, and the regular option comes back only for other forms (quoted below).",
+   "note_quotes": [
+    {
+     "file": "kashika",
+     "id": "24011",
+     "quote": "गवाश्वप्रभृतिषु यथोच्चारितं द्वन्द्ववृत्तम्"
+    },
+    {
+     "file": "kashika",
+     "id": "24011",
+     "quote": "रूपान्तरे तु नायं विधिर्भवति"
+    }
+   ]
+  },
+  {
+   "id": "G10",
+   "group": "carried / not a sūtra word | svara | X",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "Every member read: sūtra, our vṛtti, and the Kāśikā sentence that says what is nipātita (pulled by script for all 176); every member checked by script for a Kāśikā/Kaumudī “निपात” word (171 have it in the Kāśikā; the 5 that do not were read in full).",
+   "licensed": [
+    "3.3.97"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G11",
+   "group": "carried / not a sūtra word | āgama | X",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "Every member read: sūtra, our vṛtti, and the Kāśikā sentence that says what is nipātita (pulled by script for all 176); every member checked by script for a Kāśikā/Kaumudī “निपात” word (171 have it in the Kāśikā; the 5 that do not were read in full).",
+   "licensed": [
+    "7.2.64"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  }
+ ],
+ "missed": [
+  {
+   "n": "3.2.59",
+   "pid": "PIS 119",
+   "why": "The Kāśikā says the five forms are nipātita with क्विन्; the page kind is \"suffix rule\", so no credit.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "32059",
+     "quote": "ऋत्विगादयः पञ्चशब्दाः क्विन्प्रत्ययान्ता निपात्यन्ते"
+    }
+   ]
+  },
+  {
+   "n": "6.3.109",
+   "pid": "PIS 119",
+   "why": "पृषोदरादीनि — the paradigm list of forms valid as spoken (the PIS 119 text itself treats पुराण as पृषोदरादि). No credit.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "63109",
+     "quote": "तानि यथोपदिष्टानि साधूनि भवन्ति"
+    },
+    {
+     "file": "paribhashendushekhar",
+     "id": "119",
+     "quote": "पृषोदरादित्वान्नेति बोध्यम्"
+    }
+   ]
+  },
+  {
+   "n": "5.2.12",
+   "pid": "PIS 119",
+   "why": "Partly a nipātana (य-lopa in the first member).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "52012",
+     "quote": "तेषां पूर्वपदे यलोपमात्रं निपात्यते"
+    }
+   ]
+  },
+  {
+   "n": "4.1.32",
+   "pid": "PIS 119",
+   "why": "The base forms अन्तर्वत्/पतिवत् are nipātita (the augment is taught separately).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "41032",
+     "quote": "प्रकृतिर्निपात्यते, नुगागमस्तु विधीयते"
+    }
+   ]
+  },
+  {
+   "n": "5.1.65",
+   "pid": "PIS 119",
+   "why": "शीर्ष for शिरस् is nipātita along with the suffix.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "51065",
+     "quote": "प्रत्ययसन्नियोगेन शिरसः शीर्षभावो निपात्यते"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,223 @@
+{
+ "pid": "PIS 122",
+ "howGrouped": "case of the triggering word (own sūtra words only) | rule kind | start of the engine trigger text; member = \"<sūtra> <word>  ⟨engine effect⟩\"",
+ "applies": 42,
+ "consideredNotApplicable": 0,
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | vidhi | X (…)",
+   "count": 29,
+   "sutras": [
+    "4.4.141 no meaning is taught for this suffix, so it is in the base’s own sense  ⟨no meaning is taught for this suffix, so it is in the base’s own sense⟩",
+    "4.4.142 no meaning is taught for this suffix, so it is in the base’s own sense  ⟨no meaning is taught for this suffix, so it is in the base’s own sense⟩",
+    "5.1.118 no meaning is taught for this suffix, so it is in the base’s own sense  ⟨no meaning is taught for this suffix, so it is in the base’s own sense⟩",
+    "5.2.18 no meaning is taught for this suffix, so it is in the base’s own sense  ⟨no meaning is taught for this suffix, so it is in the base’s own sense⟩",
+    "5.2.77 no meaning is taught for this suffix, so it is in the base’s own sense  ⟨no meaning is taught for this suffix, so it is in the base’s own sense⟩",
+    "5.3.112 no meaning is taught for this suffix, so it is in the base’s own sense  ⟨no meaning is taught for this suffix, so it is in the base’s own sense⟩",
+    "5.3.113 no meaning is taught for this suffix, so it is in the base’s own sense  ⟨no meaning is taught for this suffix, so it is in the base’s own sense⟩",
+    "5.3.114 no meaning is taught for this suffix, so it is in the base’s own sense  ⟨no meaning is taught for this suffix, so it is in the base’s own sense⟩",
+    "5.3.115 no meaning is taught for this suffix, so it is in the base’s own sense  ⟨no meaning is taught for this suffix, so it is in the base’s own sense⟩",
+    "5.3.116 no meaning is taught for this suffix, so it is in the base’s own sense  ⟨no meaning is taught for this suffix, so it is in the base’s own sense⟩",
+    "5.3.117 no meaning is taught for this suffix, so it is in the base’s own sense  ⟨no meaning is taught for this suffix, so it is in the base’s own sense⟩",
+    "5.3.118 no meaning is taught for this suffix, so it is in the base’s own sense  ⟨no meaning is taught for this suffix, so it is in the base’s own sense⟩",
+    "5.4.6 no meaning is taught for this suffix, so it is in the base’s own sense  ⟨no meaning is taught for this suffix, so it is in the base’s own sense⟩",
+    "5.4.13 no meaning is taught for this suffix, so it is in the base’s own sense  ⟨no meaning is taught for this suffix, so it is in the base’s own sense⟩",
+    "5.4.14 no meaning is taught for this suffix, so it is in the base’s own sense  ⟨no meaning is taught for this suffix, so it is in the base’s own sense⟩",
+    "5.4.23 no meaning is taught for this suffix, so it is in the base’s own sense  ⟨no meaning is taught for this suffix, so it is in the base’s own sense⟩",
+    "5.4.27 no meaning is taught for this suffix, so it is in the base’s own sense  ⟨no meaning is taught for this suffix, so it is in the base’s own sense⟩",
+    "5.4.28 no meaning is taught for this suffix, so it is in the base’s own sense  ⟨no meaning is taught for this suffix, so it is in the base’s own sense⟩",
+    "5.4.29 no meaning is taught for this suffix, so it is in the base’s own sense  ⟨no meaning is taught for this suffix, so it is in the base’s own sense⟩",
+    "5.4.30 no meaning is taught for this suffix, so it is in the base’s own sense  ⟨no meaning is taught for this suffix, so it is in the base’s own sense⟩",
+    "5.4.31 no meaning is taught for this suffix, so it is in the base’s own sense  ⟨no meaning is taught for this suffix, so it is in the base’s own sense⟩",
+    "5.4.32 no meaning is taught for this suffix, so it is in the base’s own sense  ⟨no meaning is taught for this suffix, so it is in the base’s own sense⟩",
+    "5.4.33 no meaning is taught for this suffix, so it is in the base’s own sense  ⟨no meaning is taught for this suffix, so it is in the base’s own sense⟩",
+    "5.4.34 no meaning is taught for this suffix, so it is in the base’s own sense  ⟨no meaning is taught for this suffix, so it is in the base’s own sense⟩",
+    "5.4.35 no meaning is taught for this suffix, so it is in the base’s own sense  ⟨no meaning is taught for this suffix, so it is in the base’s own sense⟩",
+    "5.4.36 no meaning is taught for this suffix, so it is in the base’s own sense  ⟨no meaning is taught for this suffix, so it is in the base’s own sense⟩",
+    "5.4.37 no meaning is taught for this suffix, so it is in the base’s own sense  ⟨no meaning is taught for this suffix, so it is in the base’s own sense⟩",
+    "5.4.38 no meaning is taught for this suffix, so it is in the base’s own sense  ⟨no meaning is taught for this suffix, so it is in the base’s own sense⟩",
+    "5.4.39 no meaning is taught for this suffix, so it is in the base’s own sense  ⟨no meaning is taught for this suffix, so it is in the base’s own sense⟩"
+   ],
+   "samples": [
+    {
+     "n": "4.4.141",
+     "word": "no meaning is taught for this suffix, so it is in the base’s own sense",
+     "trigger": "no meaning is taught for this suffix, so it is in the base’s own sense (स्वार्थे)",
+     "effect": "no meaning is taught for this suffix, so it is in the base’s own sense (स्वार्थे)",
+     "sutra": "नक्षत्राद्घः",
+     "ourVrtti": "छन्दसि विषये नक्षत्रशब्दात् समर्थात् स्वार्थे घः प्रत्ययः परः च भवति",
+     "kashika": "नक्षत्रशब्दाद् घः प्रत्ययो भवति स्वार्थे।",
+     "prathamavrtti": "नक्षत्रशब्दाद् घः प्रत्ययो भवति छन्दसि विषये॥"
+    },
+    {
+     "n": "5.3.116",
+     "word": "no meaning is taught for this suffix, so it is in the base’s own sense",
+     "trigger": "no meaning is taught for this suffix, so it is in the base’s own sense (स्वार्थे)",
+     "effect": "no meaning is taught for this suffix, so it is in the base’s own sense (स्वार्थे)",
+     "sutra": "दामन्यादित्रिगर्तषष्ठाच्छः",
+     "ourVrtti": "आयुधजीविसङ्घवाचिभ्यः दामन्यादिभ्यः त्रिगर्तषष्ठेभ्यश्च प्रातिपदिकेभ्यः स्वार्थे छः प्रत्ययः परः च भवति",
+     "kashika": "दामन्यादिभ्यः प्रातिपदिकेभ्यः त्रिगर्तषष्ठेभ्यश्चायुध — जीविसंघवाचिभ्यः स्वार्थे छः प्रत्ययो भवति।",
+     "prathamavrtti": "दामन्यादिभ्यः त्रिगर्त्तषष्ठेभ्यश्च आयुधजीविसंघवाचिभ्यः प्रातिपदिकेभ्यः स्वार्थे छः प्रत्ययो भवति ।"
+    },
+    {
+     "n": "5.4.29",
+     "word": "no meaning is taught for this suffix, so it is in the base’s own sense",
+     "trigger": "no meaning is taught for this suffix, so it is in the base’s own sense (स्वार्थे)",
+     "effect": "no meaning is taught for this suffix, so it is in the base’s own sense (स्वार्थे)",
+     "sutra": "यावादिभ्यः कन्",
+     "ourVrtti": "यावादिभ्यः प्रातिपदिकेभ्यः स्वार्थे कन् प्रत्ययः परः च भवति",
+     "kashika": "याव इत्येवमादिभ्यः स्वार्थे कन् प्रत्ययो भवति।",
+     "prathamavrtti": "यावादिभ्यः प्रातिपदिकेभ्यः स्वार्थे कन् प्रत्ययो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "group": "named by a commentator | vidhi | X",
+   "count": 8,
+   "sutras": [
+    "3.1.5 named by न्यासः  ⟨a suffix with no stated meaning has the base’s own meaning⟩",
+    "3.1.22 named by न्यासः  ⟨a suffix with no stated meaning has the base’s own meaning⟩",
+    "3.2.4 named by महाभाष्यम्  ⟨a suffix with no stated meaning has the base’s own meaning⟩",
+    "3.3.19 named by महाभाष्यम्  ⟨a suffix with no stated meaning has the base’s own meaning⟩",
+    "3.4.67 named by न्यासः  ⟨a suffix with no stated meaning has the base’s own meaning⟩",
+    "5.2.27 named by न्यासः  ⟨a suffix with no stated meaning has the base’s own meaning⟩",
+    "5.2.28 named by न्यासः  ⟨a suffix with no stated meaning has the base’s own meaning⟩",
+    "5.2.77 named by न्यासः  ⟨a suffix with no stated meaning has the base’s own meaning⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.5",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a suffix with no stated meaning has the base’s own meaning",
+     "sutra": "गुप्तिज्किद्भ्यः सन्",
+     "ourVrtti": "गुप् तिज् कित् इत्येतेभ्यः धातुभ्यः सन् प्रत्ययः परः च भवति",
+     "kashika": "<<गुप गोपने>> , <<तिज निशाने>> , <<कित निवासे>>  एतेभ्यो धातुभ्यः सन् प्रत्ययो भवति।",
+     "prathamavrtti": "गुप गोपने, तिज निशाने, कित निवासे रोगापनयने च, एतेभ्यो धातुभ्यः सन् प्रत्ययः परश्च भवति ॥"
+    },
+    {
+     "n": "3.2.4",
+     "word": "named by महाभाष्यम्",
+     "trigger": "named by महाभाष्यम्",
+     "effect": "a suffix with no stated meaning has the base’s own meaning",
+     "sutra": "सुपि स्थः",
+     "ourVrtti": "सुबन्ते उपपदे स्था-धातोः कः प्रत्ययः परः च भवति",
+     "kashika": "सुबन्त उपपदे तिष्ठतेः कप्रत्ययो भवति।",
+     "prathamavrtti": "सुबन्त उपपदे स्थाधातोः कः प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "3.4.67",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a suffix with no stated meaning has the base’s own meaning",
+     "sutra": "कर्तरि कृत्",
+     "ourVrtti": "कर्तरि कारके कृत्संज्ञकाः प्रत्ययाः भवन्ति",
+     "kashika": "कृत्संज्ञकाः प्रत्ययाः कर्तरि कारके भवन्ति।",
+     "prathamavrtti": "अस्मिन् धात्वधिकारे कृत्संज्ञकाः प्रत्ययाः कर्त्तरि कारके भवन्ति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G3",
+   "group": "named by a commentator | nipātana | X",
+   "count": 1,
+   "sutras": [
+    "1.4.21 named by न्यासः  ⟨a suffix with no stated meaning has the base’s own meaning⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.4.21",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a suffix with no stated meaning has the base’s own meaning",
+     "sutra": "बहुषु बहुवचनम्",
+     "ourVrtti": "बहुत्वे विवक्षिते बहुवचनम् प्रत्ययः परः च भवति",
+     "kashika": "बहुषु बहुवचनं भवति।",
+     "prathamavrtti": "बहुत्वे विवक्षिते बहुवचनं भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G4",
+   "group": "named by a commentator | operation | X",
+   "count": 1,
+   "sutras": [
+    "2.4.81 named by न्यासः  ⟨a suffix with no stated meaning has the base’s own meaning⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.4.81",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a suffix with no stated meaning has the base’s own meaning",
+     "sutra": "आमः",
+     "ourVrtti": "आमः परस्य लेः स्थाने लुक् भवति",
+     "kashika": "आमः परस्य लेर्लुग् भवति।",
+     "prathamavrtti": "आम उत्तरस्य लेर्लुग् भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G5",
+   "group": "named by a commentator | saṃjñā | X",
+   "count": 1,
+   "sutras": [
+    "3.1.1 named by न्यासः  ⟨a suffix with no stated meaning has the base’s own meaning⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.1",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a suffix with no stated meaning has the base’s own meaning",
+     "sutra": "प्रत्ययः",
+     "ourVrtti": "प्रत्ययः इति अधिकारः",
+     "kashika": "आ पञ्चमाध्यायपरिसमाप्तेर्यानित ऊर्ध्वमनुक्रमिष्यामः, प्रत्ययसंज्ञास्ते वेदितव्याः, प्रकृत्युपपदोपाधिविकारागमान् वर्जयित्वा।",
+     "prathamavrtti": "इतोऽग्रे आपञ्चमाध्यायपरिसमाप्तेः (५।४।१६० इति यावत्) 'प्रत्ययः' इति संज्ञात्वेनाधिक्रियते ॥"
+    }
+   ]
+  },
+  {
+   "id": "G6",
+   "group": "named by a commentator | ādeśa | X",
+   "count": 1,
+   "sutras": [
+    "3.4.9 named by काशिका  ⟨a suffix with no stated meaning has the base’s own meaning⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.4.9",
+     "word": "named by काशिका",
+     "trigger": "named by काशिका",
+     "effect": "a suffix with no stated meaning has the base’s own meaning",
+     "sutra": "तुमर्थे सेसेनसेऽसेन्क्सेकसेनध्यैअध्यैन्कध्यैकध्यैन्शध्यैशध्यैन्तवैतवेङ्तवेनः",
+     "ourVrtti": "छन्दसि विषये धातोः तुमर्थे से, सेन्, असे, असेन्, क्से, कसेन्, अध्यै, अध्यैन्, कध्यै, कध्यैन्, शध्यै, शध्यैन्, तवै, तवेङ्, तवेन् प्रत्ययाः पराः च भवन्ति",
+     "kashika": "तत्र छन्दसि विषये धातोः सयादयः प्रत्यया भवन्ति।",
+     "prathamavrtti": "छन्दसि विषये तुमर्थे धातोः से, सेन्, असे, असेन्, क्से, कसेन्, अध्यै, अध्यैन्, कध्यै, कध्यैन्, शध्यै, शध्यैन्, तवै, तवेङ्, तवेन् इत्येते प्रत्यया भवन्ति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G7",
+   "group": "named by a commentator | svara | X",
+   "count": 1,
+   "sutras": [
+    "6.1.162 named by महाभाष्यम्  ⟨a suffix with no stated meaning has the base’s own meaning⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.162",
+     "word": "named by महाभाष्यम्",
+     "trigger": "named by महाभाष्यम्",
+     "effect": "a suffix with no stated meaning has the base’s own meaning",
+     "sutra": "धातोः",
+     "ourVrtti": "अन्तः धातोः उदात्तः भवति",
+     "kashika": "धातोरन्त उदात्तो भवति।",
+     "prathamavrtti": "धातोरन्त उदात्तो भवति ॥"
+    }
+   ]
+  }
+ ]
+}

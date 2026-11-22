@@ -1,0 +1,1380 @@
+{
+ "fallback": {
+  "1.3.9": {
+   "why": "The gloss fails to specify that ‹तस्य› refers to the it-element (‹इतः› / ‹इत्संज्ञकस्य›).",
+   "should": "तस्य इत्संज्ञकस्य स्थाने लोपः आदेशः भवति"
+  },
+  "1.2.66": {
+   "why": "'स्त्री' is the surviving female gotra word that becomes 'पुंवत्', but the gloss misreads it as part of the condition for 'विशेषः' and drops 'शिष्यते'.",
+   "should": "वृद्धा स्त्री यूना सहवचने तल्लक्षणे विशेषे सति शिष्यते, सा च पुंवद् भवति।"
+  },
+  "1.3.61": {
+   "why": "The carried condition 'शिति' and the sūtra word 'च' are dropped, omitting the environment where a śit affix follows.",
+   "should": "शिति प्रत्यये, लुङ्-लिङ्-लकारयोः च परतः मृङ्-धातोः आत्मनेपदं भवति।"
+  },
+  "1.2.26": {
+   "why": "KV states that the suffixes optionally become kit ‹वा कितौ भवतः›, whereas our gloss states they do not become kit ‹किद् न भवति›.",
+   "should": "रलन्तात् उकारोपधात् इकारोपधात् च हलादेः धातोः सेटौ सन्-क्त्वा-प्रत्ययौ विकल्पेन कितौ भवतः"
+  },
+  "1.3.90": {
+   "why": "The rule prescribes parasmaipada affixes after the root, not the name 'परस्मैपदम्' ('परस्मैपदम् इति संज्ञा भवति').",
+   "should": "क्यषन्तात् धातोः विकल्पेन परस्मैपदं भवति"
+  },
+  "1.3.91": {
+   "why": "The rule prescribes parasmaipada affixes, not the name 'परस्मैपदम्' ('परस्मैपदम् इति संज्ञा भवति').",
+   "should": "लुङि परे द्युतादिभ्यो धातुभ्यः विकल्पेन परस्मैपदं भवति"
+  },
+  "1.3.92": {
+   "why": "The rule prescribes parasmaipada affixes, not the name 'परस्मैपदम्' ('परस्मैपदम् इति संज्ञा भवति').",
+   "should": "स्ये सनि च परे वृतादिभ्यो धातुभ्यः विकल्पेन परस्मैपदं भवति"
+  },
+  "1.3.93": {
+   "why": "The rule prescribes parasmaipada affixes, not the name 'परस्मैपदम्' ('परस्मैपदम् इति संज्ञा भवति').",
+   "should": "लुटि स्ये सनि च परे कॢप्-धातोः विकल्पेन परस्मैपदं भवति"
+  },
+  "1.4.28": {
+   "why": "The word ‹येन› belongs with ‹अदर्शनम् इच्छति› in the condition clause but is placed after ‹तत् कारकम्› as the saṃjñin.",
+   "should": "अन्तर्धौ येन आत्मनः अदर्शनम् इच्छति तत् कारकम् ‹अपादानम्› इति संज्ञा भवति"
+  },
+  "1.4.37": {
+   "why": "The carried term ‹तत् कारकम्› is dropped, leaving the relative clause ‹यं प्रति› without a correlative.",
+   "should": "क्रुधार्थानां द्रुहार्थानाम् ईर्ष्यार्थानाम् असूयार्थानां च धातूनां प्रयोगे यं प्रति कोपः तत् कारकं सम्प्रदानसंज्ञं भवति"
+  },
+  "2.1.32": {
+   "why": "‹कर्तृकरणे› specifies the sense of the instrumental case affix, not the meaning condition of the compound.",
+   "should": "कर्तरि करणे च या तृतीया तदन्तं सुबन्तं कृदन्तेन सुबन्तेन सह बहुलं ‹तत्पुरुषः› इति संज्ञा भवति"
+  },
+  "2.3.36": {
+   "why": "OUR GLOSS wrongly restricts अधिकरणे कारके to ‹दूरान्तिकार्थेभ्यः शब्देभ्यः›, conflating the general rule for अधिकरण with the additional provision carried by ‹च›.",
+   "should": "अधिकरणे कारके सप्तमी विभक्तिः भवति, चकारात् दूरान्तिकार्थेभ्यः अपि सप्तमी विभक्तिः भवति।"
+  },
+  "2.3.43": {
+   "why": "OUR GLOSS wrongly negates the rule with ‹न भवति› and drops the condition of ‹प्रति› from ‹अप्रतेः›.",
+   "should": "साधुनिपुणशब्दाभ्यां योगे अर्चायां गम्यमानायां सप्तमी विभक्तिः भवति, प्रतेः प्रयोगे तु न भवति।"
+  },
+  "2.3.9": {
+   "why": "'अधिके अर्थे' and 'ईश्वरवचने' treat qualifiers of the base as suffix meanings, and 'यस्मात् यस्य ... तस्मात्' garbles the dual condition.",
+   "should": "यस्माद् अधिकं यस्य च ईश्वरवचनं तत्र कर्मप्रवचनीययुक्ते सप्तमी विभक्तिः भवति।"
+  },
+  "2.3.11": {
+   "why": "'प्रतिनिधिप्रतिदाने' and 'यस्मात्' are misconstrued as condition and base-qualifier, losing the relation 'यस्मात् प्रतिनिधिः यस्माच्च प्रतिदानम्'.",
+   "should": "यस्मात् प्रतिनिधिः यस्माच्च प्रतिदानं तत्र कर्मप्रवचनीययुक्ते पञ्चमी विभक्तिः भवति।"
+  },
+  "3.2.43": {
+   "why": "The word ‹कर्मणि› is wrongly presented as the meaning of the suffix instead of qualifying the upapadas as ‹कर्मसूपपदेषु›.",
+   "should": "मेघ ऋति भय इत्येतेषु कर्मसूपपदेषु कृञ् धातोः खच् प्रत्ययः परः च भवति"
+  },
+  "3.2.44": {
+   "why": "The word ‹कर्मणि› is wrongly presented as the meaning of the suffixes instead of qualifying the upapadas as ‹कर्मसूपपदेषु›.",
+   "should": "क्षेम प्रिय मद्र इत्येतेषु कर्मसूपपदेषु कृञ् धातोः अण् खच् च प्रत्ययौ परौ भवतः"
+  },
+  "3.2.62": {
+   "why": "The carried condition ‹अपि› (signifying अनुपसर्गेऽपि) is dropped, incorrectly restricting the rule to cases with an upasarga.",
+   "should": "‹भजधातोः सुबन्ते उपपदे उपसर्गेऽपि अनुपसर्गेऽपि ण्वि-प्रत्ययः परः च भवति›"
+  },
+  "3.3.61": {
+   "why": "‹अनुपसर्गे› does not mean an upapada (‹अनुपसर्गे उपपदे›); it means when the roots are without an upasarga (‹अनुपसर्गयोः› / ‹उपसर्ग उपपदे न›).",
+   "should": "संज्ञायाम् अनुपसर्गयोः व्यध-जप्-धातुभ्याम् भावे कर्तृभिन्ने कारके अप् प्रत्ययः परः च भवति"
+  },
+  "3.4.42": {
+   "why": "The carried condition ‹अधिकरणे› (अधिकरणवाचिनि उपपदे) is dropped.",
+   "should": "अधिकरणवाचिनि उपपदे संज्ञायां विषये बन्ध्धातोः णमुल् प्रत्ययः परः च भवति"
+  },
+  "4.1.92": {
+   "why": "The gloss designates the rule as an अधिकार (‹इति अधिकारः›) instead of a suffix-prescribing rule (‹प्रत्ययो भवति›).",
+   "should": "षष्ठीसमर्थात् प्रातिपदिकात् अपत्ये अर्थे अण् प्रत्ययः भवति"
+  },
+  "4.2.84": {
+   "why": "The gloss drops the carried meaning ‹चातुरर्थिकेषु अर्थेषु›.",
+   "should": "शर्कराशब्दात् चातुरर्थिकेषु अर्थेषु ठक्-छौ प्रत्ययौ परौ च भवतः"
+  },
+  "4.2.85": {
+   "why": "The gloss drops the carried meaning ‹चातुरर्थिकेषु अर्थेषु›.",
+   "should": "प्रातिपदिकात् नद्याम् अभिधेयायां चातुरर्थिकेषु अर्थेषु मतुप् प्रत्ययः परः च भवति"
+  },
+  "4.2.86": {
+   "why": "The gloss drops the carried meaning ‹चातुरर्थिकेषु अर्थेषु›.",
+   "should": "मध्वादिभ्यः प्रातिपदिकेभ्यः चातुरर्थिकेषु अर्थेषु मतुप् प्रत्ययः परः च भवति"
+  },
+  "4.2.87": {
+   "why": "The gloss drops the carried meaning ‹चातुरर्थिकेषु अर्थेषु›.",
+   "should": "कुमुद-नड-वेतस-शब्देभ्यः चातुरर्थिकेषु अर्थेषु ड्मतुप् प्रत्ययः परः च भवति"
+  },
+  "4.2.88": {
+   "why": "The gloss drops the carried meaning ‹चातुरर्थिकेषु अर्थेषु›.",
+   "should": "नड-शाद-शब्दाभ्याम् चातुरर्थिकेषु अर्थेषु ड्वलच् प्रत्ययः परः च भवति"
+  },
+  "4.3.105": {
+   "why": "‹पुराणप्रोक्तेषु› qualifies the denotation ‹ब्राह्मणकल्पेषु›, but is mistakenly treated as the base ‹प्रातिपदिकात्›.",
+   "should": "तृतीयासमर्थात् प्रातिपदिकात् पुराणप्रोक्तेषु ब्राह्मणकल्पेषु अभिधेयेषु प्रोक्तार्थे णिनिः प्रत्ययः परः च भवति"
+  },
+  "4.3.83": {
+   "why": "The gloss omits the carried words ‹प्रत्ययः› and ‹प्रातिपदिकात्›, leaving ‹परः च भवति› without a subject.",
+   "should": "पञ्चमीसमर्थात् प्रातिपदिकात् प्रभवति इत्यर्थे प्रत्ययः परः च भवति"
+  },
+  "5.1.65": {
+   "why": "Our gloss drops the sūtra word ‹च› and the additional suffix ‹यथाविहितं ठक्› brought by it.",
+   "should": "शीर्षच्छेदशब्दात् द्वितीयासमर्थात् नित्यम् अर्हति इत्यर्थे यत् प्रत्ययः चकाराद् यथाविहितं ठक् च परौ भवतः"
+  },
+  "5.2.18": {
+   "why": "‹भूतपूर्वे› is an upādhi of the base meaning rather than the meaning of the suffix (which is svārthika).",
+   "should": "भूतपूर्वेऽर्थे वर्तमानात् गोष्ठप्रातिपदिकात् स्वार्थे खञ् प्रत्ययः परः च भवति"
+  },
+  "5.2.53": {
+   "why": "The sūtra word ‹वतोः› is genitive denoting the recipient of the augment, but OUR GLOSS treats it as an ablative base ‹वत्वन्तात् प्रातिपदिकात्›.",
+   "should": "डटि प्रत्यये परे संख्यावाचिनः वत्वन्तस्य प्रातिपदिकस्य (अङ्गस्य) इथुक् आगमः भवति"
+  },
+  "5.2.89": {
+   "why": "The second nipātita stem is ‹परिपरिन्›, not ‹परिपरीन्›.",
+   "should": "परिपन्थिन् परिपरिन् इति शब्दौ निपात्येते छन्दसि विषये पर्यवस्थातरि वाच्ये"
+  },
+  "5.2.127": {
+   "why": "The gloss drops the carried meaning condition ‹मत्वर्थे›.",
+   "should": "अर्शआदिभ्यः प्रातिपदिकेभ्यः मत्वर्थे अच् प्रत्ययः परः च भवति"
+  },
+  "5.2.130": {
+   "why": "The gloss drops the carried meaning condition ‹मत्वर्थे›.",
+   "should": "पूरणप्रत्ययान्तात् प्रातिपदिकात् वयसि गम्यमाने मत्वर्थे इनिः प्रत्ययः परः च भवति"
+  },
+  "5.3.85": {
+   "why": "The gloss drops the carried suffix ‹कः› (or ‹यथाविहितः›), stating merely ‹प्रत्ययः›.",
+   "should": "प्रातिपदिकात् तिङन्तात् च अल्पे अर्थे कः (यथाविहितः) प्रत्ययः परः च भवति"
+  },
+  "5.4.6": {
+   "why": "The word ‹आच्छादने› is a condition on the base (आच्छादने वर्तमानात्) and the suffix is स्वार्थे, not the meaning of the suffix कन्.",
+   "should": "आच्छादने वर्तमानात् बृहतीशब्दात् स्वार्थे कन् प्रत्ययः परः च भवति"
+  },
+  "5.4.23": {
+   "why": "The meaning 'स्वार्थे' is missing.",
+   "should": "अनन्तादिभ्यः स्वार्थे ञ्यः प्रत्ययः परः च भवति"
+  },
+  "5.3.86": {
+   "why": "Dropped ‹यथाविहितम्› (or ‹कः›), leaving the suffix unspecified.",
+   "should": "ह्रस्वेऽर्थे वर्तमानात् प्रातिपदिकात् यथाविहितं प्रत्ययः परः च भवति"
+  },
+  "5.4.7": {
+   "why": "The sūtra words आशितङ्गु, अलंकर्मन्, and अलंपुरुष are dropped and replaced with an invented gaṇa अषडक्षादिभ्यः.",
+   "should": "अषडक्ष-आशितङ्गु-अलंकर्मन्-अलंपुरुष-इत्येतेभ्यः अध्युत्तरपदाच्च प्रातिपदिकात् खः प्रत्ययः परः च भवति"
+  },
+  "5.4.144": {
+   "why": "The condition 'स्त्रियाम्' does not carry from 5.4.143 ('स्त्रियामिति निवृत्तम्').",
+   "should": "श्याव-अरोक इत्येताभ्यां परस्य बहुव्रीहौ समासे दन्तस्य स्थाने विभाषा दतृ आदेशः भवति"
+  },
+  "5.4.145": {
+   "why": "The condition 'स्त्रियाम्' does not carry from 5.4.143 ('स्त्रियामिति निवृत्तम्').",
+   "should": "अग्रान्तात् शुद्ध-शुभ्र-वृष-वराहेभ्यश्च परस्य बहुव्रीहौ समासे दन्तस्य स्थाने विभाषा दतृ आदेशः भवति"
+  },
+  "5.4.159": {
+   "why": "‹स्वाङ्गे› qualifies the member words ‹नाडी› and ‹तन्त्री› (body parts), not the meaning of the Bahuvrīhi compound (‹स्वाङ्गे वाच्ये›).",
+   "should": "स्वाङ्गवाचिनौ यौ नाडी-तन्त्री-शब्दौ तदन्तात् बहुव्रीहेः कप् प्रत्ययः न भवति।"
+  },
+  "6.1.45": {
+   "why": "The condition ‹अशिति› is incorrectly expressed as ‹शिति प्रत्यये परे न›, misplacing ‹न› and distorting the positive prescription.",
+   "should": "उपदेशावस्थायाम् एजन्तस्य धातोः अशिति प्रत्यये परे आकारादेशः भवति"
+  },
+  "6.1.137": {
+   "why": "The gloss states ‹सम् परि उप इत्येतेभ्यः पूर्वः›, erroneously making the augment suट् precede the prefixes instead of following them (‹सम्पर्युपेभ्यः परः कात् पूर्वः›).",
+   "should": "संहितायाम् भूषणे अर्थे करोतौ परे सम्-परि-उप इत्येतेभ्यः परः कात् पूर्वः सुट् आगमः भवति।"
+  },
+  "6.1.216": {
+   "why": "The gloss drops the sūtra words ‹राग›, ‹हास›, ‹कुह›, ‹श्वठ›, and ‹क्रथ› by using ‹त्यागादीनाम्› instead of enumerating them.",
+   "should": "त्याग-राग-हास-कुह-श्वठ-क्रथ इत्येतेषां शब्दानाम् आदिः विकल्पेन उदात्तः भवति"
+  },
+  "6.1.214": {
+   "why": "The sūtra roots 'वन्द', 'वृ', 'शंस', and 'दुह्' are dropped and wrongly replaced with ‹ईडादीनाम्›.",
+   "should": "ईड-वन्द-वृ-शंस-दुह् इत्येतेषां धातूनां ण्यदन्तस्य आदिः उदात्तः भवति"
+  },
+  "6.1.194": {
+   "why": "The condition ‹अभ्यस्तानाम्› is wrongly included as the base, though it has ceased.",
+   "should": "णमुलि प्रत्यये परे आदिः स्वरः विकल्पेन उदात्तः भवति।"
+  },
+  "6.2.80": {
+   "why": "The sūtra word 'एव' is omitted.",
+   "should": "णिनन्ते उत्तरपदे उपमानवाचि पूर्वपदं शब्दार्थप्रकृतावेव आद्युदात्तं भवति"
+  },
+  "6.2.77": {
+   "why": "The gloss inserts ‹परः›, incorrectly making the pūrvapada follow ‹अकृञः›, whereas ‹अकृञः› qualifies the aṇ-anta uttarapada.",
+   "should": "संज्ञायां विषये कृञ्-व्यतिरिक्तात् अणन्ते उत्तरपदे पूर्वपदम् आद्युदात्तं भवति।"
+  },
+  "6.2.143": {
+   "why": "The gloss omits the carried terms ‹उत्तरपदस्य› and ‹उदात्तः›, failing to state what is governed by the adhikāra.",
+   "should": "इत ऊर्ध्वम् उत्तरपदस्य अन्तः उदात्तः भवति इत्यधिक्रियते"
+  },
+  "6.2.38": {
+   "why": "The gloss drops the sūtra words 'अपराह्ण', 'गृष्टि', 'इष्वास', 'जाबाल', 'भार', 'भारत', 'हैलिहिल', 'रौरव', and 'प्रवृद्ध', replacing them with 'व्रीह्यादिषु'.",
+   "should": "व्रीहि-अपराह्ण-गृष्टि-इष्वास-जाबाल-भार-भारत-हैलिहिल-रौरव-प्रवृद्ध इत्येतेषु उत्तरपदेषु महान् इति पूर्वपदं प्रकृत्या भवति"
+  },
+  "6.3.12": {
+   "why": "The carried operation ‹अलुक्› is dropped, erroneously stating ‹सप्तम्याः न भवति›.",
+   "should": "मूर्धमस्तकवर्जितात् स्वाङ्गात् हलदन्ताद् उत्तरस्याः सप्तम्याः अकामे उत्तरपदे अलुग् भवति"
+  },
+  "6.3.13": {
+   "why": "The carried operation ‹अलुक्› is dropped, erroneously stating ‹विभाषा न भवति›.",
+   "should": "बन्धशब्दे उत्तरपदे हलदन्ताद् उत्तरस्याः सप्तम्याः विभाषा अलुग् भवति"
+  },
+  "6.3.2": {
+   "why": "Carried operation ‹लुक्› (from ‹अलुक्› 6.3.1) is missing, leaving ‹न भवति› with no subject.",
+   "should": "उत्तरपदे परे स्तोकादिभ्यः परस्याः पञ्चम्याः विभक्तेः अलुग् भवति।"
+  },
+  "6.3.3": {
+   "why": "Carried operation ‹लुक्› (from ‹अलुक्› 6.3.1) is missing, leaving ‹न भवति› with no subject.",
+   "should": "उत्तरपदे परे ओजस्-सहस्-अम्भस्-तमस् इत्येतेभ्यः उत्तरस्याः तृतीयायाः विभक्तेः अलुग् भवति।"
+  },
+  "6.3.4": {
+   "why": "Carried operation ‹लुक्› (from ‹अलुक्› 6.3.1) is missing, leaving ‹न भवति› with no subject.",
+   "should": "संज्ञायां विषये उत्तरपदे परे मनसः उत्तरस्याः तृतीयायाः विभक्तेः अलुग् भवति।"
+  },
+  "6.3.5": {
+   "why": "Carried operation ‹लुक्› (from ‹अलुक्› 6.3.1) is missing, leaving ‹न भवति› with no subject.",
+   "should": "आज्ञायिनि उत्तरपदे परे मनसः उत्तरस्याः तृतीयायाः विभक्तेः अलुग् भवति।"
+  },
+  "6.3.6": {
+   "why": "Carried operation ‹लुक्› (from ‹अलुक्› 6.3.1) is missing, leaving ‹न भवति› with no subject.",
+   "should": "पूरणप्रत्ययान्ते उत्तरपदे परे आत्मनः उत्तरस्याः तृतीयायाः विभक्तेः अलुग् भवति।"
+  },
+  "6.3.9": {
+   "why": "Carried terms ‹अलुक्› (or ‹लुक्›) and ‹उत्तरपदे› are missing from the gloss.",
+   "should": "संज्ञायां विषये उत्तरपदे परे हलन्ताद् अदन्ताच्च उत्तरस्याः सप्तम्याः अलुग् भवति।"
+  },
+  "6.3.11": {
+   "why": "Carried operation ‹लुक्› (from ‹अलुक्› 6.3.1) is missing, leaving ‹न भवति› with no subject.",
+   "should": "गुरुशब्दे उत्तरपदे परे मध्याद् उत्तरस्याः सप्तम्याः अलुग् भवति।"
+  },
+  "6.4.64": {
+   "why": "The sūtra word ‹च› is dropped, improperly merging two independent environments (इडादौ and अजादौ क्ङिति) into one.",
+   "should": "इडादौ आर्धधातुके परे अजादौ क्ङिति आर्धधातुके च परे आकारान्तस्य अङ्गस्य लोपो भवति"
+  },
+  "6.4.174": {
+   "why": "The gloss summarizes the eleven words of the sūtra as 'दाण्डिनायनादीनि', dropping ten explicitly listed words.",
+   "should": "दाण्डिनायन हास्तिनायन आथर्वणिक जैह्माशिनेय वाशिनायनि भ्रौणहत्य धैवत्य सारव ऐक्ष्वाक मैत्रेय हिरण्मय इत्येतानि रूपाणि निपात्यन्ते"
+  },
+  "7.2.49": {
+   "why": "The gloss drops the roots ‹भ्रस्ज्, दम्भु, श्रि, स्वृ, यु, ऊर्णु, भर, ज्ञपि› and the stem ‹सन्› (सन्नन्ताः), collapsing them into ‹ऋधादिभ्यः›.",
+   "should": "इवन्तेभ्यः ऋधु-भ्रस्ज-दम्भु-श्रि-स्वृ-यु-ऊर्णु-भर-ज्ञपि-सन्नन्तेभ्यश्च धातुभ्यः परस्य सनः वा इडागमो भवति।"
+  },
+  "7.2.51": {
+   "why": "The augment ‹इट्› belongs to the suffixes ‹क्त्वानिष्ठयोः›, not to the root ‹पूङ्›.",
+   "should": "पूङ्-धातोः उत्तरयोः क्त्वानिष्ठयोः वा इडागमो भवति।"
+  },
+  "8.3.25": {
+   "why": "The sthānī is the makāra of sam, not the entire word sam ('समो मकारस्य', not 'सम्-इत्यस्य स्थाने').",
+   "should": "क्विप्प्रत्ययान्ते राज्धातौ परे सम्-इत्यस्य मकारस्य स्थाने मकारादेशः भवति"
+  },
+  "8.3.110": {
+   "why": "The gloss drops ‹सृजि›, ‹स्पृशि›, ‹स्पृहि› and ‹सवनादीनाम्›, substituting an erroneous ‹सृप्यादीनाम्›.",
+   "should": "रेफपरस्य सकारस्य सृपि-सृजि-स्पृशि-स्पृहि इत्येतेषां सवनादीनां च सकारस्य मूर्धन्यादेशः न भवति"
+  },
+  "8.3.97": {
+   "why": "The sūtra words ‹आम्ब› through ‹अग्नि› are dropped and replaced with ‹अम्बादिभ्यः›.",
+   "should": "अम्ब, आम्ब, गो, भूमि, सव्य, अप, द्वि, त्रि, कु, शेकु, शङ्कु, अङ्गु, मञ्जि, पुञ्जि, परमे, बर्हिस्, दिवि, अग्नि इत्येतेभ्यः उत्तरस्य स्थशब्दस्य सकारस्य स्थाने मूर्धन्यादेशः भवति"
+  },
+  "8.3.101": {
+   "why": "‹तादौ› qualifies ‹तद्धिते› (तकारादौ तद्धिते परे) and ‹ह्रस्वात्› qualifies ‹इणः›, but the gloss scrambles them as ‹इणः उत्तरस्य ह्रस्वात् तकारादौ सकारस्य›.",
+   "should": "ह्रस्वाद् इणः उत्तरस्य सकारस्य स्थाने तकारादौ तद्धिते परे मूर्धन्यादेशः भवति"
+  },
+  "8.4.65": {
+   "why": "The word ‹सवर्णे› modifies ‹झरि› (the following sound), not ‹झरः› (the sthānin).",
+   "should": "सवर्णे झरि परे हलः उत्तरस्य झरः स्थाने विकल्पेन लोपः भवति"
+  },
+  "2.1.4": {
+   "why": "The gloss drops the carried item ‹सुप्› and the predicate ‹समस्यते›, leaving only ‹सह सुबन्तेन इति अधिकारः›.",
+   "should": "सुबन्तं समर्थेन सुबन्तेन सह समस्यते इत्यधिकारः"
+  },
+  "2.1.18": {
+   "why": "The gloss completely omits the sūtra words ‹पारे› and ‹मध्ये› which are the first members of the compound.",
+   "should": "पारे मध्ये इत्येतौ शब्दौ षष्ठ्यन्तेन सुबन्तेन सह विकल्पेन समस्येते अव्ययीभावसमासः च भवति"
+  },
+  "6.2.121": {
+   "why": "The gloss has ‹उदात्तः भवति› instead of ‹आद्युदात्तं भवति›, dropping the carried specification ‹आद्युदात्तम्›.",
+   "should": "अव्ययीभावे समासे कूल-तीर-तूल-मूल-शाला-अक्ष-समम् इत्येतानि उत्तरपदानि आद्युदात्तानि भवन्ति"
+  },
+  "6.2.122": {
+   "why": "The gloss has ‹उदात्तः भवति› instead of ‹आद्युदात्तं भवति›, dropping the carried specification ‹आद्युदात्तम्›.",
+   "should": "द्विगौ समासे कंस-मन्थ-शूर्प-पाय्य-काण्डम् इत्येतानि उत्तरपदानि आद्युदात्तानि भवन्ति"
+  },
+  "6.2.123": {
+   "why": "The gloss states ‹उदात्तः भवति› instead of ‹आद्युदात्तं भवति›, dropping the carried condition ‹आदिः›.",
+   "should": "तत्पुरुषे समासे नपुंसकलिङ्गे शालाशब्दान्ते उत्तरपदम् आद्युदात्तं भवति"
+  },
+  "2.1.40": {
+   "why": "The rule prescribes compounding ('समस्यते'), but our gloss treats it as a saṃjñā rule ('तत्पुरुषः इति संज्ञा भवति').",
+   "should": "सप्तम्यन्तं सुबन्तं शौण्डादिभिः समर्थैः सुबन्तैः सह विकल्पेन समस्यते, तत्पुरुषश्च समासो भवति"
+  },
+  "7.4.25": {
+   "why": "OUR GLOSS treats 'अकृत्-असार्वधातुकयोः यकारे प्रत्यये' as modifying a single suffix instead of distributing to both environments 'अकृद्यकारे असार्वधातुकयकारे च'.",
+   "should": "अकृद्यकारे असार्वधातुकयकारे च क्ङिति प्रत्यये परे अजन्तस्य अङ्गस्य स्थाने दीर्घादेशः भवति"
+  }
+ },
+ "fix": {
+  "1.2.37": {
+   "newProblem": "The gloss conflates two separate clauses into one, incorrectly negating the udātta substitution for svarita instead of stating that ekaśruti is prohibited in subrahmaṇyā and svarita is replaced by udātta.",
+   "oldProblem": "‹सुब्रह्मण्यायाम्› is an adhikaraṇa, not a following condition (‹परतः›), and the negated ‹एकश्रुतिः› is dropped.",
+   "should": "सुब्रह्मण्यायां निगदे एकश्रुतिः न भवति, स्वरितस्य तु स्थाने उदात्तादेशः भवति"
+  },
+  "1.1.18": {
+   "newProblem": "The rule prescribes the substitute 'ऊँ' (ऊँ इत्यादेशो भवति), but our gloss frames it as a saṃjñā rule assigning the designation ‹प्रगृह्यसंज्ञकश्च›.",
+   "oldProblem": "The rule prescribes the substitute ‹ऊँ› for उञ्, but the gloss omits that ‹ऊँ› is an आदेश and treats the rule as merely giving प्रगृह्यसंज्ञा.",
+   "should": "इतौ अनार्षे परे उञः स्थाने शाकल्यस्य मतेन ऊँ इत्यादेशः भवति, प्रगृह्यसंज्ञकश्च भवति"
+  },
+  "1.3.55": {
+   "newProblem": "The pronoun ‹सा› refers to ‹तृतीया› as the subject of ‹चतुर्थ्यर्थे [भवति]›, but our gloss ungrammatically places ‹सा› before ‹तृतीयायुक्तात्› and leaves ‹चतुर्थ्यर्थे चेत्› disconnected.",
+   "oldProblem": "‹चतुर्थ्यर्थे› is a meaning condition of the instrumental case, but it is wrongly read as a following condition (‹चतुर्थी अर्थे परतः›).",
+   "should": "सम्पूर्वात् तृतीयायुक्तात् दाण्-धातोः आत्मनेपदं भवति, सा चेत् तृतीया चतुर्थ्यर्थे भवति"
+  },
+  "1.2.65": {
+   "newProblem": "'वृद्धः' here means 'गोत्रप्रत्ययान्तः' (an ancient term for gotra), not the Pāṇinian 'वृद्धसंज्ञकः' of 1.1.73.",
+   "oldProblem": "The essential condition ‹तल्लक्षणश्चेदेव विशेषः› is completely dropped from the gloss.",
+   "should": "वृद्धः (गोत्रप्रत्ययान्तः) यूना सहवचने तल्लक्षणे विशेषे सति शिष्यते।"
+  },
+  "1.2.69": {
+   "newProblem": "'अन्यतरस्याम्' qualifies 'एकवत्' (singular treatment is optional), not 'नपुंसकम् शिष्यते' which is mandatory.",
+   "oldProblem": "The sūtra word and operation ‹एकवत्› is dropped, and ‹अन्यतरस्याम्› is wrongly applied to retention (‹शिष्यते›) instead of singular treatment.",
+   "should": "अनपुंसकेन सहवचने तल्लक्षणे विशेषे नपुंसकं शिष्यते, अस्य च अन्यतरस्याम् एकवद् भवति।"
+  },
+  "1.4.38": {
+   "newProblem": "The carried term ‹तत् कारकम्› is dropped, leaving the relative clause ‹यं प्रति› without a correlative.",
+   "oldProblem": "The sūtra assigns the saṃjñā ‹कर्म›, but the gloss assigns ‹सम्प्रदानम्›.",
+   "should": "उपसृष्टयोः क्रुधद्रुहोः प्रयोगे यं प्रति कोपः तत् कारकं कर्मसंज्ञं भवति"
+  },
+  "1.4.81": {
+   "newProblem": "The sūtra word ‹अपि› is dropped, and the spurious word ‹परस्य› is added.",
+   "oldProblem": "The sūtra governs the position of गति and उपसर्ग after the verb in Vedic, but the gloss frames it as assigning the saṃjñā ‹निपात›.",
+   "should": "छन्दसि विषये ते धातोः परे अपि भवन्ति"
+  },
+  "1.4.106": {
+   "newProblem": "The gloss conflates ‹मन्योपपदे धातोः› and ‹मन्यतेः› with ‹उत्तमपुरुष मध्यमपुरुष प्रत्ययौ एकवत्›, whereas मध्यम occurs after मन्योपपद धातु and उत्तम (एकवत्) occurs after मन्यतेः.",
+   "oldProblem": "The sūtra prescribes उत्तमपुरुष and एकवचन for the verb मन्, but the gloss frames it as a nipātana of ‹उत्तमः›.",
+   "should": "प्रहासे गम्यमाने मन्योपपदे धातोः मध्यमपुरुषः भवति, मन्यतेः च उत्तमपुरुषः भवति, स च एकवद् भवति"
+  },
+  "2.2.10": {
+   "newProblem": "The carried condition ‹समासः› (or ‹सह समस्यते›) is dropped, making the gloss wrongly prohibit the genitive subanta itself from occurring in nirdhāraṇa.",
+   "oldProblem": "The negation ‹न› is construed with ‹षष्ठ्यन्तम्› instead of negating the compounding (‹न समस्यते›).",
+   "should": "निर्धारणे वर्तमानं षष्ठ्यन्तं सुबन्तं समर्थेन सुबन्तेन सह न समस्यते (समासो न भवति)"
+  },
+  "2.2.14": {
+   "newProblem": "The rule prohibits compounding of a karma-genitive, but the gloss states that a genitive does not occur in karma, dropping ‹न समस्यते›.",
+   "oldProblem": "The rule prohibits compounding with 'न समस्यते', but the gloss prescribes compounding with 'विभाषा समस्यते'.",
+   "should": "कर्मणि या षष्ठी सा समर्थेन सुबन्तेन सह न समस्यते"
+  },
+  "2.2.15": {
+   "newProblem": "The carried condition ‹कर्मणि› (कर्मणि या षष्ठी) from the previous sūtra is completely dropped.",
+   "oldProblem": "The rule prohibits compounding with 'न समस्यते', but the gloss prescribes compounding with 'विभाषा समस्यते'.",
+   "should": "कर्तरि यौ तृच्-अकौ ताभ्यां सह कर्मणि या षष्ठी सा न समस्यते"
+  },
+  "2.2.20": {
+   "newProblem": "The sūtra word ‹एव› (signifying restriction: अमन्तेनैव, नान्येन) and ‹समासः› are dropped.",
+   "oldProblem": "The gloss takes 'एव' and 'अम्' as stems being compounded instead of a restriction that upapada compounding with an avyaya occurs only if it ends in 'am'.",
+   "should": "अव्ययेन उपपदस्य यः समासः स अमन्तेन अव्ययेनैव सह भवति"
+  },
+  "2.4.17": {
+   "newProblem": "The rule prescribes neuter gender ‹नपुंसकलिङ्गो भवति›, not a technical name ‹'नपुंसकम्' इति संज्ञा›.",
+   "oldProblem": "The gloss treats the rule as a nipātana of ‹सः› instead of assigning neuter gender to compounds prescribed to be singular.",
+   "should": "अस्मिन् एकवद्भावप्रकरणे यस्य एकवद्भावो विहितः स नपुंसकलिङ्गो भवति"
+  },
+  "2.4.18": {
+   "newProblem": "The rule prescribes neuter gender ‹नपुंसकलिङ्गो भवति›, not a technical name ‹'नपुंसकम्' इति संज्ञा›.",
+   "oldProblem": "The gloss defines the compounding operation instead of assigning neuter gender to the avyayībhāva compound ('नपुंसकलिङ्गः भवति').",
+   "should": "अव्ययीभावः समासः नपुंसकलिङ्गो भवति"
+  },
+  "2.4.19": {
+   "newProblem": "The carried predicate ‹नपुंसकम्› (or ‹नपुंसकलिङ्गो भवति›) is missing from the adhikāra.",
+   "oldProblem": "The gloss treats the rule as compounding ‹अ नञ्› instead of an adhikāra for neuter gender in tatpuruṣa excluding nañ and karmadhāraya.",
+   "should": "नञ्कर्मधारयवर्जितः तत्पुरुषः नपुंसकलिङ्गो भवति इति अधिकारः"
+  },
+  "2.4.30": {
+   "newProblem": "The rule assigns neuter gender ('नपुंसकलिङ्गो भवति'), not the saṃjñā 'नपुंसकम्'.",
+   "oldProblem": "OUR GLOSS treats the prescribed neuter gender (vidheya) as a condition (‹नपुंसकम् चेत्›).",
+   "should": "तत्पुरुषे अपथशब्दः नपुंसकलिङ्गे भवति"
+  },
+  "2.4.33": {
+   "newProblem": "The suffixes 'त्रतसौ' are made anudātta, not the sthānin ('त्रतसौ प्रत्ययौ स्थाने').",
+   "oldProblem": "OUR GLOSS erroneously introduces ‹इदमः› and scrambles the sthānin and substitutes.",
+   "should": "अन्वादेशे विषये त्रतसोः प्रत्यययोः परतः एतच्छब्दस्य स्थाने अनुदात्तः अश् आदेशः भवति त्रतसौ च प्रत्ययौ अनुदात्तौ भवतः"
+  },
+  "2.4.83": {
+   "newProblem": "The gloss conflates the prohibition of luk and the prescription of am into the garbled phrase ‹अम्-आदेशः लुक् न भवति› and misconstrues ‹अतः›.",
+   "oldProblem": "OUR GLOSS drops the substitute ‹अम्› prescribed for sup.",
+   "should": "अदन्तात् अव्ययीभावसमासात् परस्य सुपः लुक् न भवति, पञ्चमीं विहाय तस्य सुपः स्थाने अम्-आदेशः तु भवति"
+  },
+  "2.4.70": {
+   "newProblem": "The gloss wrongly pairs ‹प्रकृतिभाग› and ‹प्रत्यय› with ‹अगस्तिकुण्डिनच्› and ‹लुक्› via yathāsaṅkhya, instead of ‹अगस्ति› and ‹कुण्डिनच्› replacing the bases of ‹आगस्त्य› and ‹कौण्डिन्य› respectively and ‹लुक्› eliding the gotra suffix.",
+   "oldProblem": "OUR GLOSS drops the stem substitutes ‹अगस्ति› and ‹कुण्डिनच्›.",
+   "should": "बहुषु आगस्त्य-कौण्डिन्ययोः गोत्रप्रत्ययस्य लुग् भवति, प्रकृतिभागस्य च यथासङ्ख्यम् अगस्ति कुण्डिनच् एतौ आदेशौ भवतः"
+  },
+  "2.4.60": {
+   "newProblem": "The qualification ‹प्राचां गोत्रे विहितः› applies to the base suffix ‹इञ्›, not to the suffix being elided.",
+   "oldProblem": "OUR GLOSS treats ‹प्राचाम्› as the sthānin (‹प्राचशब्दस्य लुक्›) instead of the carried ‹युवप्रत्ययस्य›.",
+   "should": "प्राचां गोत्रे विहिताद् इञन्तात् परस्य युवप्रत्ययस्य लुक् भवति"
+  },
+  "3.1.39": {
+   "newProblem": "The gloss omits the atideśa of aṅga operations ‹कार्यम्›, making ‹श्लौ इव› absurdly qualify ‹आम् प्रत्ययः परः च भवति›.",
+   "oldProblem": "OUR GLOSS drops ‹श्लुवच्च›, corrupts the roots as ‹हु,वै इत्येतयोः धात्वोः›, and contains an unresolved ‹?›.",
+   "should": "अमन्त्रे विषये लिटि परे भी-ह्री-भृ-हु-धातुभ्यः विकल्पेन आम् प्रत्ययः भवति, श्लौ इव च एषां कार्यं भवति"
+  },
+  "3.1.65": {
+   "newProblem": "The sūtra word ‹च› is dropped, incorrectly turning two distinct conditions into ‹अनुतापे अर्थे कर्मकर्तरि›.",
+   "oldProblem": "OUR GLOSS drops the carried condition ‹कर्मकर्तरि› and the sūtra word ‹च›.",
+   "should": "तशब्दे परे तपः धातोः उत्तरस्य च्लेः स्थाने कर्मकर्तरि अनुतापे च चिण् आदेशः न भवति"
+  },
+  "3.1.141": {
+   "newProblem": "The sūtra roots 'आस्रु, संस्रु, अतीण्, अवसा, अवहृ, लिह, श्लिष, श्वस्' are omitted and falsely replaced with 'व्यधादिभ्यः'.",
+   "oldProblem": "OUR GLOSS drops five bases: ‹आस्रु›, ‹संस्रु›, ‹अतीण्›, ‹अवसा›, and ‹अवहृ›.",
+   "should": "श्यैङ्-आकारान्तेभ्यः व्यध-आस्रु-संस्रु-अतीण्-अवसा-अवहृ-लिह-श्लिष-श्वस्-धातुभ्यः णः प्रत्ययः परः च भवति"
+  },
+  "3.1.88": {
+   "newProblem": "The sūtra word ‹एव› is dropped.",
+   "oldProblem": "OUR GLOSS treats the atideśa ‹कर्मवत्› as a suffix (‹कर्मवत् ? प्रत्ययः परः च भवति›).",
+   "should": "तपःकर्मकस्य एव तप-धातोः कर्ता कर्मवत् भवति"
+  },
+  "3.1.134": {
+   "newProblem": "The word ‹आदि› applies to all three bases, but the gloss treats ‹नन्दि› and ‹ग्रहि› as individual roots rather than gaṇas.",
+   "oldProblem": "OUR GLOSS drops ‹पचादिभ्यः› from the base gaṇas.",
+   "should": "नन्द्यादिभ्यो ग्रहादिभ्यः पचादिभ्यश्च धातुभ्यो यथासङ्ख्यं ल्यु-णिनि-अच् प्रत्ययाः परश्च भवन्ति"
+  },
+  "3.2.13": {
+   "newProblem": "The words ‹धात्वोः› and ‹सुबन्तयोः› are transposed, wrongly describing ‹स्तम्ब-कर्णयोः› as roots and ‹रमि-जपोः› as nominals.",
+   "oldProblem": "'स्तम्बकर्णयोः' are saptamyanta upapadas, not karma ('कर्मणोः').",
+   "should": "स्तम्ब-कर्णयोः सुबन्तयोः उपपदयोः यथासङ्ख्यं रमि-जपोः धात्वोः अच् प्रत्ययः परः च भवति"
+  },
+  "3.2.53": {
+   "newProblem": "The condition ‹जायापत्योः उपपदयोः› is erroneously carried from the previous sūtra.",
+   "oldProblem": "'अमनुष्यकर्तृके' qualifies the agent of the root 'हन्', not the 'कर्मणि उपपदे'.",
+   "should": "‹अमनुष्यकर्तृके वर्तमानात् हन्धातोः कर्मण्युपपदे टक् प्रत्ययः परः च भवति›"
+  },
+  "3.2.59": {
+   "newProblem": "The first five items (ऋत्विगादयः) are nipātana words ending in क्विन्, not roots taking the suffix.",
+   "oldProblem": "'ऋत्विज् दधृष् स्रज् दिश् उष्णिह् अञ्चु' are dropped from the gloss.",
+   "should": "‹ऋत्विगादयः पञ्च शब्दाः क्विन्प्रत्ययान्ताः निपात्यन्ते, अञ्चु-युजि-क्रुञ्च्-धातुभ्यः च क्विन्-प्रत्ययः परः च भवति›"
+  },
+  "3.2.61": {
+   "newProblem": "The sūtra word ‹अपि› (signifying अनुपसर्गेऽपि) is dropped, incorrectly restricting the rule to cases with an upasarga.",
+   "oldProblem": "'सद्' and 'च्छिद्' are dropped from the list of roots.",
+   "should": "‹सदादिभ्यो धातुभ्यः सुबन्ते उपपदे उपसर्गेऽपि अनुपसर्गेऽपि क्विप् प्रत्ययः परः च भवति›"
+  },
+  "3.2.71": {
+   "newProblem": "The gloss is syntactically garbled, leaving ‹ण्विन् प्रत्ययः› unconnected rather than stating that these words are nipātanas ending in ण्विन् (‹ण्विन्-प्रत्ययान्ताः निपात्यन्ते›).",
+   "oldProblem": "'श्वेतवह उक्थशस् पुरोडाश्' are dropped from the gloss.",
+   "should": "मन्त्रे विषये श्वेतवह, उक्थशस्, पुरोडाश् इत्येते शब्दाः ण्विन्-प्रत्ययान्ताः निपात्यन्ते"
+  },
+  "3.2.186": {
+   "newProblem": "OUR GLOSS pairs ‹ऋषौ› with ‹कर्तरि› and ‹देवतायाम्› with ‹करणे› via yathāsaṅkhya, which reverses the correct relation",
+   "oldProblem": "'ऋषिदेवतयोः' are the meanings, not upapadas ('उपपदयोः').",
+   "should": "पू धातोः ऋषौ करणे कारके देवतायां च कर्तरि कारके इत्र प्रत्ययः परः च भवति"
+  },
+  "3.2.182": {
+   "newProblem": "The sūtra words ‹नी, शस, यु, युज, स्तु, तुद, सि, सिच, मिह, पत, दंश, नह› are dropped and replaced by ‹दाबादिभ्यो›.",
+   "oldProblem": "'शस् सि सिच् दश्' are dropped from the list of roots.",
+   "should": "दाप्-णी-शस्-यु-युज्-स्तु-तुद्-सि-सिच्-मिह्-पत्-दंश्-णह्-धातुभ्यः करणे कारके ष्ट्रन् प्रत्ययः भवति"
+  },
+  "3.3.13": {
+   "newProblem": "The gloss conflates ‹शेषे› with ‹क्रियार्थायां क्रियायाम् उपपदे› and drops the sūtra word ‹च›, missing the primary scope of लृट् in the general future.",
+   "oldProblem": "‹शेषे› indicates the simple future (केवले भविष्यति काले), not an upapada (‹शेषे उपपदे› is wrong).",
+   "should": "शेषे भविष्यति काले चकारात् क्रियार्थायां क्रियायाम् उपपदे च धातोः लृट् प्रत्ययः परः च भवति"
+  },
+  "3.3.74": {
+   "newProblem": "The gloss omits ‹वृद्धिः›, which is the crucial operation nipātita here to derive ‹आहावः› rather than ‹आहवः›.",
+   "oldProblem": "The rule is a nipātana of ‹आहावः› in the sense of ‹निपानम्›, not a simple substitute rule.",
+   "should": "आङ्पूर्वात् ह्वेञ्-धातोः निपानेऽर्थे सम्प्रसारणम् अप् प्रत्ययः वृद्धिश्च निपात्यन्ते, आहावः इति रूपं भवति"
+  },
+  "3.3.113": {
+   "newProblem": "The gloss omits ‹अर्थेषु›, which specifies that the suffixes occur diversely across various kārakas or meanings.",
+   "oldProblem": "The rule prescribes that kṛtya suffixes and ‹ल्युट्› occur diversely in various kārakas, not as a nipātana (‹इति निपात्यते›).",
+   "should": "कृत्यसंज्ञकाः प्रत्ययाः ल्युट् च बहुलम् अर्थेषु भवन्ति"
+  },
+  "3.3.141": {
+   "newProblem": "The gloss omits the essential content of the adhikāra, namely ‹भूते लिङ्निमित्ते क्रियातिपत्तौ लृङ्›.",
+   "oldProblem": "‹उताप्योः› marks the boundary of an adhikāra (‹आ उताप्योः समर्थयोर्लिङ् इति सूत्रात् प्राक्›), not an upapada (‹उताप्योः उपपदे›).",
+   "should": "‹उताप्योः समर्थयोर्लिङ्› (३।३।१५२) इति सूत्रात् प्राक् भूते काले लिङ्निमित्ते क्रियातिपत्तौ सत्यां विभाषा लृङ् भवति इत्यधिकृतं वेदितव्यम्"
+  },
+  "3.3.130": {
+   "newProblem": "The carried condition ‹ईषदादिषु उपपदेषु› is dropped.",
+   "oldProblem": "The carried condition ‹ईषदादिषु उपपदेषु› and the restriction of ‹अन्येभ्यः› to non-movement roots are dropped.",
+   "should": "छन्दसि विषये ईषदादिषु उपपदेषु गत्यर्थव्यतिरिक्तेभ्यः धातुभ्यः युच् प्रत्ययः भवति"
+  },
+  "3.4.32": {
+   "newProblem": "‹अन्यतरस्याम्› applies to ‹ऊलोपः› (making elision of ū optional), but the gloss attaches optionality to the suffix णमुल् and makes elision mandatory.",
+   "oldProblem": "The suffix ‹णमुल्› (brought by ‹च›) is completely dropped from the gloss.",
+   "should": "कर्मणि उपपदे पूरेः धातोः वर्षप्रमाणे गम्यमाने णमुल् प्रत्ययः परः च भवति, अस्य पूरेः च अन्यतरस्याम् ऊकारलोपः भवति"
+  },
+  "3.4.69": {
+   "newProblem": "The gloss drops ‹सकर्मकेभ्यः› and wrongly states that lakāras occur in karma-kāraka from akarmaka roots.",
+   "oldProblem": "'लेट् प्रत्ययः' is given instead of 'लकाराः', and 'कर्मणि' is incorrectly glossed as an 'उपपद'.",
+   "should": "सकर्मकेभ्यो धातुभ्यः कर्मणि कर्तरि च, अकर्मकेभ्यो धातुभ्यो भावे कर्तरि च लकाराः भवन्ति"
+  },
+  "3.4.1": {
+   "newProblem": "Missing ‹अयथाकालोक्ताः अपि›, which expresses the rule's essential function of allowing tense-specific affixes in other tenses.",
+   "oldProblem": "The rule is an atideśa allowing suffixes across different times in action-connection, not a nipātana of ‹प्रत्ययाः›.",
+   "should": "धात्वर्थसम्बन्धे सति अयथाकालोक्ताः अपि प्रत्ययाः साधवः भवन्ति"
+  },
+  "3.4.2": {
+   "newProblem": "The gloss scrambles the rule by making ‹लोट्› an optional substitute for ‹तध्वम्भावी लोट्› rather than prescribing ‹हिस्वौ› as optional substitutes for ‹तध्वम्भाविनः लोटः›.",
+   "oldProblem": "The substitutes for ‹लोट्› are ‹हि› and ‹स्व› (optionally for ‹तध्वमोः›), but our gloss states ‹लोट् आदेशः›.",
+   "should": "धात्वर्थसम्बन्धे क्रियासमभिहारे गम्यमाने धातोः लोट् प्रत्ययः भवति, तस्य लोटः स्थाने हिस्वौ आदेशौ भवतः, तध्वम्भाविनस्तु लोटः स्थाने वा हिस्वौ भवतः"
+  },
+  "3.4.3": {
+   "newProblem": "Missing the carried operations ‹लोटः स्थाने हिस्वौ आदेशौ भवतः, तध्वम्भाविनस्तु वा› specified in the references.",
+   "oldProblem": "Our gloss has a ‹?› for the suffix instead of naming ‹लोट्›.",
+   "should": "धातुसम्बन्धे समुच्चये गम्यमाने धातोः विकल्पेन लोट् प्रत्ययः भवति, तस्य च लोटः स्थाने हिस्वौ आदेशौ भवतः, तध्वम्भाविनस्तु वा हिस्वौ भवतः"
+  },
+  "3.4.92": {
+   "newProblem": "The word ‹पित्› is syntactically attached to ‹आट् आगमः› instead of being predicated of ‹उत्तमपुरुषः› (स च उत्तमपुरुषः पित् भवति).",
+   "oldProblem": "Misattributes ‹पित्› to ‹आट्› instead of to the ‹उत्तमस्य› affix, and omits that ‹आट्› is an augment.",
+   "should": "लोट्सम्बन्धिनः उत्तमपुरुषस्य आट् आगमः भवति, स च उत्तमपुरुषः पित् भवति"
+  },
+  "3.4.82": {
+   "newProblem": "The ninth substitute is given as ‹माः› instead of ‹म›.",
+   "oldProblem": "Dropped the essential condition ‹लिटः›, making the substitution apply to all ‹लस्य› instead of only Liṭ.",
+   "should": "लिटः आदेशानाम् परस्मैपदसंज्ञकानाम् तिबादीनाम् स्थाने यथासङ्ख्यम् णल् अतुस् उस् थल् अथुस् अ णल् व म एते नव आदेशाः भवन्ति"
+  },
+  "3.4.84": {
+   "newProblem": "The gloss merges two distinct substitutions into an incoherent single clause with conflicting sthānins and ādeśas (‹तिबादीनाम् स्थाने ब्रुवः स्थाने ... पञ्च णलादयः आदेशाः आह इत्यादेशः भवति›).",
+   "oldProblem": "Dropped the replacement of the first five affixes by ‹णलादयः› and the anuvṛtti of ‹लटः›.",
+   "should": "ब्रुवः परस्य लटः परस्मैपदानाम् आदिभूतानां पञ्चानां तिबादीनां स्थाने विकल्पेन पञ्च णलादयः आदेशाः भवन्ति तत्सन्नियोगेन च ब्रुवः स्थाने आह इत्यादेशः भवति"
+  },
+  "4.1.13": {
+   "newProblem": "The base for ‹मन्नन्तात्› is wrongly restricted to ‹बहुव्रीहेः› instead of any prātipadika as specified in ‹मन्नन्तात् प्रातिपदिकात् अन्नन्ताच्च बहुव्रीहेः›.",
+   "oldProblem": "‹उभाभ्याम्› is wrongly interpreted as a base ‹उभान्तात्› instead of referring to the two preceding sūtras.",
+   "should": "मन्नन्तात् प्रातिपदिकात् अन्नन्ताच्च बहुव्रीहेः स्त्रियां विकल्पेन डाप् प्रत्ययो भवति।"
+  },
+  "4.1.73": {
+   "newProblem": "‹अञन्तेभ्यः› is construed as an adjective of ‹शार्ङ्गरवादिभ्यः› rather than as an independent coordinate base (‹शार्ङ्गरवादिभ्यः अञन्तेभ्यश्च›).",
+   "oldProblem": "The gaṇa ‹शार्ङ्गरवादि› is wrongly glossed as an -anta condition ‹शार्ङ्गरवान्तात्›.",
+   "should": "शार्ङ्गरवादिभ्यः अञन्तेभ्यश्च प्रातिपदिकेभ्यः स्त्रियाम् ङीन् प्रत्ययः परः च भवति"
+  },
+  "4.1.37": {
+   "newProblem": "The word 'उदात्तः' qualifies the substitute 'ऐकारादेशः', not the suffix 'ङीप् प्रत्ययः'.",
+   "oldProblem": "Dropped the feminine suffix ‹ङीप्›, which is the primary pratyaya ordained in this section.",
+   "should": "अनुपसर्जनात् वृषाकप्यादिभ्यः प्रातिपदिकेभ्यः स्त्रियाम् ङीप् प्रत्ययः परः च भवति, प्रकृतेः च उदात्तः ऐकारः अन्तादेशः भवति"
+  },
+  "4.1.38": {
+   "newProblem": "The word 'उदात्तः' qualifies 'ऐकारादेशः' rather than 'ङीप्', and 'औकारः' and 'ऐकारः' are alternative substitutes rather than occurring together.",
+   "oldProblem": "Dropped the feminine suffix ‹ङीप्› that accompanies the substitute.",
+   "should": "मनुशब्दात् स्त्रियाम् विकल्पेन ङीप् प्रत्ययः भवति, तस्य च स्थाने औकारः वा उदात्तः ऐकारः वा अन्तादेशः भवति"
+  },
+  "4.1.78": {
+   "newProblem": "‹गोत्रे› specifies the condition of the affixes अणिञौ (‹गोत्रे विहितयोः›), not the meaning of the substitute ष्यङ् (‹गोत्रे अर्थे›).",
+   "oldProblem": "The essential carried condition 'स्त्रियाम्' (4.1.3) is missing.",
+   "should": "गोत्रे विहितयोः अनार्षयोः अणिञोः स्थाने तदन्तयोः गुरूपोत्तमयोः प्रातिपदिकयोः स्त्रियाम् ष्यङ् आदेशः भवति"
+  },
+  "4.1.104": {
+   "newProblem": "The gloss restricts the rule only to non-rishis and conflates the two distinct scopes into ‹अनन्तरापत्ये वाच्ये गोत्रे अपत्ये›, missing that for rishis it applies in gotra and for non-rishis in anantarāpatya.",
+   "oldProblem": "'अनृषि' qualifies the base ('अनृषिवाचिभ्यः'), not the meaning of the suffix ('अनृषि इत्येतस्मिन्नर्थे'), and the gotra meaning for ṛṣi stems is dropped.",
+   "should": "बिदादिभ्यः प्रातिपदिकेभ्यः गोत्रे अपत्ये अञ् प्रत्ययः परः च भवति, अनृषिवाचिभ्यः तु अनन्तरापत्ये एव"
+  },
+  "4.1.134": {
+   "newProblem": "The gloss conflates two separate operations into an ungrammatical statement, incorrectly making ढकि परे condition छण्: ‹ढकि परे मातृष्वसुः प्रातिपदिकात् छण् प्रत्ययः लोपः भवति›.",
+   "oldProblem": "'ढकि' is the condition for lopa of मातृष्वसृ, not for the suffix 'छण्', and both 'छण्' and 'ढक्' are suffixes.",
+   "should": "मातृष्वसुः प्रातिपदिकात् अपत्ये अर्थे छण् प्रत्ययः भवति, ढकि प्रत्यये परे च लोपः भवति"
+  },
+  "4.1.62": {
+   "newProblem": "The citation particle ‹इति› is incorrectly interpreted as the meaning condition ‹प्रकारार्थे›.",
+   "oldProblem": "‹अशिश्वी› is treated as a condition (‹अशिश्वी चेत्›) instead of as an independent nipātana alongside ‹सखी›.",
+   "should": "‹सखी› ‹अशिश्वी› इत्येतौ शब्दौ भाषायां विषये स्त्रियां निपात्येते"
+  },
+  "4.1.127": {
+   "newProblem": "The option ‹वा› qualifies the substitute ‹इनङ्›, not the suffix ‹ढक्› (‹विकल्पेन ढक् प्रत्ययः›).",
+   "oldProblem": "The optional item is the substitute 'इनङ्' for कुलटा, not the suffix 'ढक्' which is mandatory.",
+   "should": "कुलटा-शब्दात् अपत्ये अर्थे ढक् प्रत्ययः परः च भवति, कुलटाशब्दस्य स्थाने विकल्पेन इनङ् आदेशः च भवति"
+  },
+  "4.2.41": {
+   "newProblem": "The base should only be कवचिन्, but our gloss erroneously includes ‹केदार-शब्दात्›.",
+   "oldProblem": "The word 'च' attracts the base 'केदार' from the previous rule, not the suffix 'अण्'.",
+   "should": "षष्ठीसमर्थात् कवचिन्-प्रातिपदिकात् समूहार्थे ठञ् प्रत्ययः (चकारात् वुञ् च) परः भवति"
+  },
+  "4.1.89": {
+   "newProblem": "The gloss drops ‹लुक्›, stating only ‹न भवति› without specifying that elision (लुक्) does not occur.",
+   "oldProblem": "The rule is a prohibition of luk of a gotra suffix, not an injunction of an 'अण्' suffix.",
+   "should": "अजादौ प्राग्दीव्यतीये प्रत्यये विवक्षिते गोत्रे विहितस्य प्रत्ययस्य लुक् न भवति"
+  },
+  "4.2.58": {
+   "newProblem": "The gloss drops the sūtra word अस्याम् and the carried meaning क्रीडायाम्, leaving the locative denotation unspecified.",
+   "oldProblem": "'क्रिया' is a qualifier of the base ('क्रियावाचिनः घञन्तात्'), not the meaning of the suffix ('क्रिया इत्येतस्मिन्नर्थे').",
+   "should": "क्रियावाचिनः घञन्तात् प्रातिपदिकात् प्रथमासमर्थात् अस्याम् इति सप्तम्यर्थे क्रीडायाम् अभिधेयायाम् ञः प्रत्ययः परः च भवति"
+  },
+  "4.2.80": {
+   "newProblem": "The seventeen bases are each gaṇas ('अरीहणादिभ्यः' etc.), but OUR GLOSS drops ‹आदि› from the first sixteen.",
+   "oldProblem": "Suffixes such as 'वुञ्' are misidentified as meanings ('इत्येतेष्वर्थेषु'), and 'अण्' is wrongly given as the suffix.",
+   "should": "अरीहणादिभ्यः कृशाश्वादिभ्यः ऋष्यादिभ्यः कुमुदादिभ्यः काशादिभ्यः तृणादिभ्यः प्रेक्षादिभ्यः अश्मादिभ्यः सख्यादिभ्यः संकाशादिभ्यः बलादिभ्यः पक्षादिभ्यः कर्णादिभ्यः सुतङ्गमादिभ्यः प्रगदिन्नादिभ्यः वराहादिभ्यः कुमुदादिभ्यः सप्तदशभ्यः गणेभ्यः चातुरर्थिकेषु अर्थेषु वुञ्-छण्-क-ठच्-इल-स-इनि-र-ढञ्-ण्य-य-फक्-फिञ्-इञ्-ञ्य-कक्-ठक् प्रत्ययाः पराः च यथासङ्ख्यम् भवन्ति"
+  },
+  "4.3.22": {
+   "newProblem": "The gloss fails to mention the suffix ‹ठञ्› (यथाप्राप्त) carried by the first ‹च›.",
+   "oldProblem": "The sūtra word ‹सर्वत्र› is dropped and ‹तकारः च अन्तादेशः› is spurious.",
+   "should": "सर्वत्र हेमन्तशब्दात् अण् ठञ् च प्रत्ययौ भवतः, अणि परतः तकारस्य लोपः च भवति"
+  },
+  "4.3.94": {
+   "newProblem": "The meaning ‹अभिजनः› from 4.3.90 is dropped, leaving only ‹अस्य इति अर्थे›.",
+   "oldProblem": "The base is प्रथमासमर्थ and the meaning is अस्याभिजनः, but OUR GLOSS gives षष्ठीसमर्थात् and अभिजनः as the meaning.",
+   "should": "तूद्यादिभ्यश्चतुर्भ्यः प्रातिपदिकेभ्यः प्रथमासमर्थेभ्योऽस्याभिजन इत्यर्थे यथासंख्यं ढक् छण् ढञ् यक् प्रत्ययाः भवन्ति"
+  },
+  "4.3.135": {
+   "newProblem": "The gloss omits ‹प्रत्ययः› (or ‹यथाविहितं प्रत्ययः›), leaving the verb ‹भवति› without a subject.",
+   "oldProblem": "The rule extends vikāra affixes to the meaning of avayava यथाविहितम्, rather than prescribing the affix अण्.",
+   "should": "प्राण्योषधिवृक्षवाचिभ्यः प्रातिपदिकेभ्यः षष्ठीसमर्थेभ्यः अवयवे विकारे चार्थे यथाविहितं प्रत्ययः भवति"
+  },
+  "4.3.66": {
+   "newProblem": "The carried item ‹प्रत्ययः› (or ‹यथाविहितं प्रत्ययः›) is completely missing, leaving ‹परः च भवति› without a subject.",
+   "oldProblem": "‹व्याख्यातव्यनाम्नः› is read as the stem itself instead of the name of the work, and भवार्थ is attached to षष्ठीसमर्थ.",
+   "should": "व्याख्यातव्यनामवाचिनः प्रातिपदिकात् तस्य इति षष्ठीसमर्थात् व्याख्याने सप्तमीसमर्थात् भवे च अर्थे यथाविहितं प्रत्ययः परः च भवति"
+  },
+  "4.3.89": {
+   "newProblem": "'निवासः' qualifies the प्रथमासमर्थ base (यत् प्रथमासमर्थं तत् चेन्निवासः), not the suffix meaning ('निवासे वाच्ये')",
+   "oldProblem": "The pronoun ‹सः› is the nominative base condition, not a suffix ‹स प्रत्ययः›.",
+   "should": "निवासवाचिनः प्रथमासमर्थात् अस्य इति षष्ठ्यर्थे यथाविहितं प्रत्ययः परः च भवति"
+  },
+  "4.3.92": {
+   "newProblem": "The carried condition 'अभिजनः' from 4.3.90 is dropped from the meaning 'सोऽस्याभिजनः'",
+   "oldProblem": "The stems are nominative ‹प्रथमासमर्थेभ्यः› denoting the abhijana, not ‹षष्ठीसमर्थात् अभिजनः इत्यर्थे›.",
+   "should": "शण्डिकादिभ्यः प्रातिपदिकेभ्यः प्रथमासमर्थेभ्यः सोऽस्याभिजनः इत्यर्थे ञ्य-प्रत्ययः परः च भवति"
+  },
+  "4.3.93": {
+   "newProblem": "The carried condition 'अभिजनः' from 4.3.90 is dropped from the meaning 'सोऽस्याभिजनः'",
+   "oldProblem": "The stems are nominative ‹प्रथमासमर्थेभ्यः› denoting the abhijana, not ‹षष्ठीसमर्थात् अभिजनः इत्यर्थे›.",
+   "should": "सिन्ध्वादिभ्यः तक्षशिलादिभ्यश्च प्रथमासमर्थेभ्यः सोऽस्याभिजनः इत्यर्थे यथासङ्ख्यम् अण् अञ् च प्रत्ययौ परौ च भवतः"
+  },
+  "4.3.168": {
+   "newProblem": "The stems ‹कंसीय› and ‹परशव्य› are erroneously described as suffixes in ‹कंसीय-परशव्ययोः प्रत्यययोः स्थाने›.",
+   "oldProblem": "The luk applies to the base words कंसीय and परशव्य, not to a spurious affix अण्.",
+   "should": "कंसीय-परशव्य-प्रातिपदिकाभ्याम् षष्ठीसमर्थाभ्याम् विकारे अर्थे यञ्-अञ् प्रत्ययौ परौ च यथासङ्ख्यम् भवतः, तत्संनियोगेन च कंसीय-परशव्ययोः लुक् भवति"
+  },
+  "4.3.155": {
+   "newProblem": "The word 'तत्प्रत्ययात्' means 'विकारावयवप्रत्ययात्' (a suffix prescribed for vikāra/avayava), but OUR GLOSS drops this condition and treats it merely as any ñit suffix ('ञितः प्रत्ययस्य तदन्तात्').",
+   "oldProblem": "The base is a stem ending in a ñit-affix of vikāra/avayava, not the word ‹ञित्› nor a पञ्चमीसमर्थ base.",
+   "should": "विकारावयवार्थे विहितात् यो ञित्-प्रत्ययः तदन्तात् षष्ठीसमर्थात् प्रातिपदिकात् विकारे अवयवे च अञ् प्रत्ययः भवति"
+  },
+  "4.4.108": {
+   "newProblem": "‹उदात्तः› is wrongly construed with ‹यत् प्रत्ययः› instead of ‹ओकारः›, leaving ‹ओकारः› unpredicated.",
+   "oldProblem": "समानोदर is the base rather than the meaning, and ओ च उदात्तः specifies the accent of vowel ओ rather than a meaning.",
+   "should": "समानोदरप्रातिपदिकात् सप्तमीसमर्थात् शयित इत्यर्थे यत् प्रत्ययः परः च भवति, ओकारः च उदात्तः भवति"
+  },
+  "4.4.66": {
+   "newProblem": "‹नियुक्ते› is erroneously inflected in the locative and placed before ‹प्रातिपदिकात्› instead of construing ‹नियुक्तम्› with ‹दीयते› (‹नियुक्तं दीयते›).",
+   "oldProblem": "The base is प्रथमासमर्थ (from तत्) and the meaning is अस्मै दीयते नियुक्तम्, not the base इदम्-शब्दात् द्वितीयासमर्थात्.",
+   "should": "तद् इति प्रथमासमर्थात् प्रातिपदिकात् अस्मै नियुक्तं दीयते इत्यर्थे ठक् प्रत्ययः परः च भवति"
+  },
+  "4.4.129": {
+   "newProblem": "The carried condition ‹मासतन्वोः› is missing.",
+   "oldProblem": "The suffix ञ taught in the sūtra is omitted, as is the meaning मत्वर्थे.",
+   "should": "छन्दसि विषये मधोः प्रातिपदिकात् मत्वर्थे मासतन्वोः प्रत्ययार्थयोः ञः यत् च प्रत्ययौ परौ भवतः"
+  },
+  "4.4.133": {
+   "newProblem": "The gloss garbles the inclusion of suffix ख by describing the suffixes as dual ‹इन य इत्येतौ ख प्रत्ययौ परौ च भवतः›.",
+   "oldProblem": "The suffixes are इन and य (and ख by cakāra), not यत्, and the base is तृतीयासमर्थ, not द्वितीयासमर्थात्.",
+   "should": "छन्दसि विषये तृतीयासमर्थात् पूर्वशब्दात् कृतम् इति अर्थे इन य इत्येतौ प्रत्ययौ ख-प्रत्ययः च परः भवति"
+  },
+  "5.1.64": {
+   "newProblem": "Our gloss drops the suffix ‹यथाविहितं प्रत्ययः›, leaving ‹परः च भवति› without a subject.",
+   "oldProblem": "The carried meaning ‹अर्हति› is dropped from the meaning condition ‹नित्यमर्हति›.",
+   "should": "छेदादिभ्यः प्रातिपदिकेभ्यः द्वितीयासमर्थेभ्यः नित्यम् अर्हति इत्यर्थे यथाविहितं प्रत्ययः परः च भवति"
+  },
+  "5.1.92": {
+   "newProblem": "The gloss omits the carried meaning condition ‹निर्वृत्तादिषु अधीष्टादिषु वा अर्थेषु› and the case condition ‹द्वितीयासमर्थात्›.",
+   "oldProblem": "The sūtra's suffix ‹ख›, the carried base ‹वत्सरान्तात्›, and the carried meaning are dropped.",
+   "should": "छन्दसि विषये संपरिपूर्वात् वत्सरान्तात् द्वितीयासमर्थात् प्रातिपदिकात् निर्वृत्तादिषु अधीष्टादिषु च अर्थेषु ख छ प्रत्ययौ परौ च भवतः"
+  },
+  "5.1.120": {
+   "newProblem": "The gloss omits the items being authorized, namely ‹त्वतलौ›.",
+   "oldProblem": "'त्वात्' is an adhikāra limit up to 'ब्रह्मणस्त्वः' (5.1.136), not a base 'त्वशब्द' after which suffixes are added.",
+   "should": "इतः प्रभृति ‹ब्रह्मणस्त्वः› पर्यन्तं त्वतलौ प्रत्ययौ अधिक्रियेते"
+  },
+  "5.1.104": {
+   "newProblem": "The meaning word ‹प्राप्तम्› is read as a condition ‹प्राप्ते› and ‹अस्य› is left as a bare pronoun rather than the meaning of the suffix.",
+   "oldProblem": "'समय' is the base (प्रातिपदिक) and 'अस्य प्राप्तम्' is the meaning, but our gloss treats 'समयः प्राप्तम्' as meanings.",
+   "should": "समयशब्दात् प्रथमासमर्थात् अस्य इति षष्ठ्यर्थे प्राप्तम् इत्यर्थे ठञ् प्रत्ययः परः च भवति"
+  },
+  "5.1.77": {
+   "newProblem": "The samartha-vibhakti condition ‹तृतीयासमर्थात्› (indicated by the instrumental in ‹उत्तरपथेन›) is omitted.",
+   "oldProblem": "The meaning ‹गच्छति› brought by ‹च› is dropped, and the base is given as ‹उत्तरपथेन› instead of ‹उत्तरपथ›.",
+   "should": "तृतीयासमर्थात् उत्तरपथ-प्रातिपदिकात् आहृतम् इत्यर्थे गच्छति इत्यर्थे च ठञ् प्रत्ययः परः च भवति"
+  },
+  "5.1.87": {
+   "newProblem": "The carried meaning condition ‹अधीष्टादिषु अर्थेषु› is missing.",
+   "oldProblem": "The carried meanings (‹निर्वृत्तादिषु› / ‹अधीष्टादिषु›) are completely dropped.",
+   "should": "द्विगोः रात्र्यहस्संवत्सरान्तात् अधीष्टादिषु अर्थेषु विकल्पेन खः प्रत्ययः परः च भवति"
+  },
+  "5.1.88": {
+   "newProblem": "The carried meaning condition ‹अधीष्टादिषु अर्थेषु› and the specification that लुक् is of the suffix are missing.",
+   "oldProblem": "The carried meanings (‹निर्वृत्तादिषु› / ‹अधीष्टादिषु›) are completely dropped.",
+   "should": "द्विगोः वर्षान्तात् अधीष्टादिषु अर्थेषु विकल्पेन खः प्रत्ययः परः च भवति, प्रत्ययस्य लुक् च भवति"
+  },
+  "5.1.91": {
+   "newProblem": "The carried meaning condition ‹अधीष्टादिषु अर्थेषु› is missing.",
+   "oldProblem": "The carried meanings (‹निर्वृत्तादिषु› / ‹अधीष्टादिषु›) are completely dropped.",
+   "should": "छन्दसि विषये वत्सरान्तात् प्रातिपदिकात् अधीष्टादिषु अर्थेषु छः प्रत्ययः परः च भवति"
+  },
+  "5.1.52": {
+   "newProblem": "The carried word ‹प्रत्ययः› is dropped, leaving ‹परः च भवति› without a subject.",
+   "oldProblem": "The sūtra word ‹पचति› is dropped and ‹तद्› is wrongly given as the suffix instead of यथाविहितम्.",
+   "should": "द्वितीयासमर्थात् सम्भवति इत्यर्थे अवहरति इत्यर्थे पचति इत्यर्थे प्रत्ययः परः च भवति"
+  },
+  "5.1.55": {
+   "newProblem": "‹लुक्› is an elision of a suffix, not a suffix (‹प्रत्ययः›).",
+   "oldProblem": "‹लुक्› and ‹खौ› are an elision and a suffix, not meanings, and ‹तद्› is not a suffix.",
+   "should": "द्विगुसंज्ञकात् कुलिजशब्दान्तात् द्वितीयासमर्थात् सम्भवत्यादिष्वर्थेषु ठञः लुक् खः ष्ठन् च प्रत्ययौ भवतः"
+  },
+  "5.1.56": {
+   "newProblem": "The carried word ‹प्रत्ययः› is dropped, leaving ‹परः च भवति› without a subject.",
+   "oldProblem": "‹सः› indicates a first-case base, not a suffix, and ‹अस्य› is the meaning, not the base.",
+   "should": "अंश-वस्न-भृतयश्चेत् प्रथमासमर्थात् अस्य इति षष्ठ्यर्थे प्रत्ययः परः च भवति"
+  },
+  "5.1.16": {
+   "newProblem": "The gloss has garbled phrasing with duplicated ‹प्रथमासमर्थात्›, an unclosed parenthesis in ‹(चेत् तद् इति›, and missing ‹षष्ठ्यर्थे सप्तम्यर्थे च›.",
+   "oldProblem": "The meaning तदस्य (अस्य स्यात्) is omitted, and the rule applies यथाविहितम् rather than prescribing छ.",
+   "should": "तद् इति प्रथमासमर्थात् प्रातिपदिकात् अस्य अस्मिन् स्यात् इति षष्ठ्यर्थे सप्तम्यर्थे च यथाविहितं प्रत्ययः परः च भवति"
+  },
+  "5.2.77": {
+   "newProblem": "The elision (लुक्) of the pūraṇa suffix is optional while कन् is mandatory, but the gloss makes कन् optional and लुक् mandatory.",
+   "oldProblem": "'तावतिथं ग्रहणम्' is the base condition, not suffixes ('इत्येते प्रत्ययाः') as stated in our gloss.",
+   "should": "ग्रहणसमानाधिकरणात् पूरणप्रत्ययान्तात् प्रातिपदिकात् स्वार्थे कन् प्रत्ययः परः च भवति, पूरणप्रत्ययस्य च विकल्पेन लुक् भवति"
+  },
+  "5.2.105": {
+   "newProblem": "‹लुप्› is an elision of matup rather than an affix that occurs after the stem.",
+   "oldProblem": "'लुबिलचौ' are the elision 'लुप्' and suffix 'इलच्', not an aṇ-ending nipātana word ('अण्प्रत्ययान्तः निपात्यते').",
+   "should": "सिकताशर्कराशब्दाभ्याम् देशेऽभिधेये मत्वर्थे मतुपो लुब् भवति, इलच् अण् मतुप् च प्रत्ययाः पराः च भवन्ति"
+  },
+  "5.2.128": {
+   "newProblem": "The gloss drops the carried meaning condition ‹मत्वर्थे› and the base condition ‹अतः› (अदन्तात्).",
+   "oldProblem": "The sūtra condition 'प्राणिस्थात्' (residing in living beings) is completely dropped.",
+   "should": "प्राणिस्थवाचिभ्यः अदन्तेभ्यः द्वन्द्वोपतापगर्ह्यवाचिभ्यः प्रातिपदिकेभ्यः मत्वर्थे इनिः प्रत्ययः परः च भवति"
+  },
+  "5.2.129": {
+   "newProblem": "The gloss drops the carried meaning condition ‹मत्वर्थे› and fails to specify the locus ‹तयोः› for the augment ‹कुक्›.",
+   "oldProblem": "The suffix 'इनिः' and the meaning 'मत्वर्थे' are dropped.",
+   "should": "वातातिसारशब्दाभ्याम् मत्वर्थे इनिः प्रत्ययो भवति, तत्संनियोगेन च तयोः कुक् आगमः भवति"
+  },
+  "5.2.125": {
+   "newProblem": "The carried condition ‹मत्वर्थे› is missing.",
+   "oldProblem": "The specific base 'वाचः' (from 5.2.124) is dropped, with our gloss stating generic 'प्रातिपदिकात्'.",
+   "should": "वाच्-शब्दात् मत्वर्थे बहुभाषिणि वाच्ये आलच्-आटचौ प्रत्ययौ परौ च भवतः"
+  },
+  "5.3.25": {
+   "newProblem": "The suffix ‹थाल्›, attracted by the sūtra word ‹च›, is dropped; KV and PV state ‹चकारात् थाल् च›.",
+   "oldProblem": "The carried meaning condition 'प्रकारवचने' is dropped.",
+   "should": "किंशब्दात् प्रकारवचने अर्थे थमुः थाल् च प्रत्ययौ परौ च भवतः"
+  },
+  "5.3.51": {
+   "newProblem": "The gloss drops ‹अञ्ञौ› (the suffixes ‹अन्› and ‹ञ›) carried by the sūtra word ‹च›.",
+   "oldProblem": "The bases 'षष्ठाष्टमाभ्याम्' are dropped and the rule is mistakenly described as nipātana ('निपात्यते').",
+   "should": "षष्ठाष्टमाभ्याम् मानपश्वङ्गयोः भागयोः यथासङ्ख्यम् कन्-प्रत्ययः लुक् च, चकारात् अञ्ञौ च परौ भवतः"
+  },
+  "5.3.72": {
+   "newProblem": "The rule is an ādeśa rule, but the gloss also treats it as a suffix rule ordaining akac (‹अकच् प्रत्ययः परः च भवति›) instead of treating it as an accompanying condition (‹अकच्सन्नियोगेन›).",
+   "oldProblem": "The rule prescribes the substitute 'दकारादेशः' for 'क', but OUR GLOSS treats it as a suffix rule ('दा प्रत्ययः').",
+   "should": "ककारान्तस्य प्रातिपदिकस्य अकच्सन्नियोगेन दकारादेशः भवति"
+  },
+  "5.3.58": {
+   "newProblem": "The sūtra word 'एव' is dropped, which is essential for the restrictive meaning (नियम).",
+   "oldProblem": "The suffix slot contains '?' instead of 'इष्ठन्-ईयसुनौ', and 'अजादी' is misconstrued as a meaning.",
+   "should": "गुणवचनाद् एव अजादी प्रत्ययौ भवतः"
+  },
+  "5.3.109": {
+   "newProblem": "The suffix is 'ठच्', not 'ठञ्', as shown by the sūtra 'ठजन्यतरस्याम्' and Kāśikā.",
+   "oldProblem": "The carried meaning condition 'इवार्थे' (इवे प्रतिकृतौ) is dropped.",
+   "should": "एकशाला-शब्दात् इवार्थे विकल्पेन ठच् प्रत्ययः परः च भवति"
+  },
+  "5.3.94": {
+   "newProblem": "Dropped the carried condition ‹निर्धारणे› (‹स्वस्मिन् विषये›).",
+   "oldProblem": "The suffix 'डतरच्' (attracted by 'च') is dropped.",
+   "should": "एकशब्दात् प्राचामाचार्याणां मतेन स्वस्मिन् निर्धारणे विषये डतरच्-डतमचौ प्रत्ययौ परौ च भवतः"
+  },
+  "5.4.22": {
+   "newProblem": "The rule extends the group-suffixes (समूहप्रत्ययाः) and adds मयट् by cakāra, but the gloss drops the समूहप्रत्ययाः.",
+   "oldProblem": "The gloss states 'मयट् विकल्पेन समूहवत् भवति' instead of prescribing the samūha suffixes (समूहप्रत्ययाः / अण्-आदयः) by atideśa",
+   "should": "प्रथमासमर्थात् बहुषु प्रकृतेषूच्यमानेषु समूहवत् प्रत्ययाः भवन्ति चकारात् मयट् च भवति"
+  },
+  "5.4.101": {
+   "newProblem": "The gloss drops ‹च› and the independent ‹द्विगोः› base, erroneously conflating them into ‹अर्ध-शब्दात् परस्य खारी-अन्तात् द्विगोः›.",
+   "oldProblem": "The carried conditions 'द्विगोः' and 'अर्धात्' are dropped, incorrectly making the rule apply to any samāsa ending in khārī",
+   "should": "खारी-अन्तात् द्विगोः अर्ध-शब्दात् परस्य च खारी-अन्तात् तत्पुरुषात् प्राचाम् आचार्याणाम् मतेन टच् प्रत्ययः परः च भवति"
+  },
+  "5.4.160": {
+   "newProblem": "‹प्रतिषेधः› is dropped, leaving ‹कप्-प्रत्ययस्य› dangling and failing to state that the prohibition of the kap suffix is nipātita.",
+   "oldProblem": "The gloss claims 'कप्प्रत्ययान्तः निपात्यते' when the sūtra actually nipāts the prohibition/absence of the kap suffix (कपः प्रतिषेधः)",
+   "should": "निष्प्रवाणिः इति शब्दे नदीलक्षणस्य कप्-प्रत्ययस्य प्रतिषेधः निपात्यते।"
+  },
+  "6.1.2": {
+   "newProblem": "The carried words ‹एकाचः द्वे भवतः› are dropped, leaving the अधिकार rule without its operation.",
+   "oldProblem": "The gloss treats this as an ādeśa rule for the word 'द्वितीय' ('द्वितीयशब्दस्य आदेशः भवति') instead of an adhikāra for reduplication of the second syllable (द्वितीयस्य एकाचः द्वे भवतः)",
+   "should": "अजादेः धातोः द्वितीयस्य एकाचः द्वे भवतः इति अधिकारः।"
+  },
+  "6.1.3": {
+   "newProblem": "The carried word ‹द्वे› (reduplication) is dropped, wrongly stating that ‹न्द्राः› themselves do not occur (‹न भवति›).",
+   "oldProblem": "The sūtra words 'न्द्राः' and 'संयोगादयः' are dropped and the operation 'द्वित्वम्' is wrongly called 'आदेशः'.",
+   "should": "अजादेः धातोः द्वितीयस्य एकाचः संयोगस्यादयः न्द्राः द्वे न भवतः।"
+  },
+  "6.1.99": {
+   "newProblem": "The gloss drops the prohibition of pararūpa for the āmreḍita (‹आम्रेडितस्य न भवति›) and wrongly negates the optional pararūpa for the final consonant (‹अन्त्यस्य तु वा भवति›).",
+   "oldProblem": "The rule states pararūpa optionally occurs for the final letter ('अन्त्यस्य तु वा'), but the gloss states it optionally does not occur ('विकल्पेन न भवति').",
+   "should": "इतौ परे आम्रेडितस्य अव्यक्तानुकरणस्य अतः पररूपम् एकादेशः न भवति, अन्त्यस्य तकारस्य तु विकल्पेन पररूपम् एकादेशः भवति"
+  },
+  "6.1.119": {
+   "newProblem": "The gloss misconstrues ‹इत्यादौ› as ‹इति-आदौ› instead of explaining it as an akāra having the word aṅga at the beginning (‹तदादौ चाति परतः›).",
+   "oldProblem": "'अङ्ग' is made a following condition ('अङ्गे परतः') instead of the stem containing the 'eṅ', and 'एङ्' is dropped.",
+   "should": "यजुषि विषये अङ्गशब्दे यः एङ् सः अति परे, तदादौ चाति परे पूर्वः एङ् प्रकृत्या भवति"
+  },
+  "6.1.168": {
+   "newProblem": "‹सौ› is glossed as a following condition ‹सौ परे› for the case affixes rather than qualifying the stem as monosyllabic in the locative plural",
+   "oldProblem": "The operation 'उदात्ता' is dropped and 'सौ' is wrongly read as a following condition ('सौ परतः').",
+   "should": "सौ यः एकाच् तस्मात् परा तृतीयादिर्विभक्तिः उदात्ता भवति"
+  },
+  "6.1.134": {
+   "newProblem": "The conditional marker ‹चेत्› is attached to ‹सुलोपः भवति› instead of ‹पादपूरणम्›, turning the main operation into an if-clause.",
+   "oldProblem": "The essential condition 'चेत् पादपूरणम्' is dropped and 'लोपे' is left untranslated as a condition.",
+   "should": "संहितायाम् अचि परे लोपे सति चेत् पादपूरणं भवति तर्हि स इत्येतस्य सुलोपः भवति।"
+  },
+  "6.1.136": {
+   "newProblem": "The gloss omits the carried operation ‹सुट् कात् पूर्वो भवति›, leaving only the condition.",
+   "oldProblem": "The condition 'प्रत्यये परे' is spuriously added though absent in the sūtra and references.",
+   "should": "अड्व्यवाये अभ्यासव्यवाये च अपि सुट् कात् पूर्वो भवति इति अधिकारः।"
+  },
+  "6.1.186": {
+   "newProblem": "The gloss states 'अनुदात्तम् न भवति' making a prohibition instead of the rule's positive prescription 'अनुदात्तं भवति', and drops 'अह्न्विङोः'.",
+   "oldProblem": "The mandatory rule is made optional ('विकल्पेन भवति') and 'नाम्' is spuriously inserted.",
+   "should": "तासेः अनुदात्तेतः ङितः अदुपदेशात् च परम् लसार्वधातुकम् अनुदात्तं भवति ह्नुङ्-इङ्-वर्जयित्वा।"
+  },
+  "6.1.177": {
+   "newProblem": "‹मतुपि› is read as a following condition ‹मतुपि परे› instead of qualifying the base as ‹मतुबन्ते यो ह्रस्वस्तदन्तात्›.",
+   "oldProblem": "'नाम्' is made a following condition ('नाम् परतः') instead of the target, and the udātta accent on it is lost.",
+   "should": "मतुबन्ते यो ह्रस्वस्तदन्तादन्तोदात्तात् परो नाम् अन्यतरस्याम् उदात्तो भवति"
+  },
+  "6.2.51": {
+   "newProblem": "The gloss conflates two distinct simultaneous operations (तवैप्रत्ययस्य अन्तः उदात्तः and अनन्तरः गतिः प्रकृत्या) into an ungrammatical single clause ‹उदात्तः प्रकृत्या भवति›.",
+   "oldProblem": "The gloss omits ‹उदात्तः› for the final syllable of the tavai suffix, nonsensically applying ‹प्रकृत्या› to ‹अन्तः›.",
+   "should": "तवैप्रत्ययस्य अन्तः उदात्तः भवति अनन्तरः गतिः पूर्वपदं प्रकृत्या भवति च एतद् उभयं युगपत् भवति"
+  },
+  "6.1.196": {
+   "newProblem": "The three alternatives (इट्, अन्तः, आदिः) are garbled together without expressing that each is an alternative with ‹वा›.",
+   "oldProblem": "The gloss conflates three alternative accents into ‹इट् अन्तः आद्युदात्तः› instead of stating that the augment ‹इट्›, the final syllable, or the initial syllable optionally becomes udātta.",
+   "should": "सेटि थलि प्रत्यये परे इट् वा अन्तः स्वरः वा आदिः स्वरः वा उदात्तः भवति।"
+  },
+  "6.2.42": {
+   "newProblem": "The gloss drops the enumerated sūtra words 'रिक्तगुरु', 'असूतजरती', 'अश्लीलदृढरूपा', 'पारेवडवा', 'तैतिलकद्रू', and 'पण्यकम्बल', abbreviating them to 'कुरुगार्हपतादीनां सप्तानां'.",
+   "oldProblem": "The gloss wrongly segments the bases ‹असूतजरती› and ‹अश्लीलदृढरूपा› as ‹असूतजरति› and ‹यश्लीलदृढरूपा›.",
+   "should": "कुरुगार्हपत-रिक्तगुरु-असूतजरती-अश्लीलदृढरूपा-पारेवडवा-तैतिलकद्रू-पण्यकम्बल इत्येतेषां सप्तानां समासानां दासीभारादीनां च पूर्वपदं प्रकृत्या भवति"
+  },
+  "6.3.14": {
+   "newProblem": "The carried operation ‹अलुक्› is dropped, erroneously stating ‹बहुलम् न भवति›.",
+   "oldProblem": "कृति is taken as a following suffix and तत्पुरुषे as a following word instead of a tatpuruṣa compound with a kṛdanta second member.",
+   "should": "तत्पुरुषे समासे कृदन्ते उत्तरपदे सप्तम्याः बहुलम् अलुग् भवति"
+  },
+  "6.2.175": {
+   "newProblem": "The gloss omits the carried operation ‹स्वरः›, leaving ‹नञः इव भवति› without a subject or specification of accent.",
+   "oldProblem": "‹उत्तरपदादिः अन्तः भवति› is nonsensical and fails to state the atideśa of the accent of नञ् (‹नञ्वत् स्वरो भवति›).",
+   "should": "उत्तरपदार्थस्य बहुत्वे यो बहुशब्दो वर्तते तस्मात् परस्य उत्तरपदस्य नञः इव स्वरः भवति"
+  },
+  "6.3.7": {
+   "newProblem": "Carried operation ‹लुक्› (from ‹अलुक्› 6.3.1) is missing, leaving ‹न भवति› with no subject.",
+   "oldProblem": "‹वैयाकरणाख्यायाम्› is a semantic condition/domain, not a suffix (‹प्रत्यये परे›).",
+   "should": "वैयाकरणाख्यायां विषये उत्तरपदे परे आत्मनः उत्तरस्याः चतुर्थ्याः विभक्तेः अलुग् भवति।"
+  },
+  "6.3.8": {
+   "newProblem": "Carried operation ‹लुक्› (from ‹अलुक्› 6.3.1) is missing, leaving ‹न भवति› with no subject.",
+   "oldProblem": "The sthānī ‹चतुर्थ्याः› is dropped and replaced with ‹परान्तस्य›, and ‹वैयाकरणाख्यायाम्› is taken as a suffix.",
+   "should": "वैयाकरणाख्यायां विषये उत्तरपदे परे पर-शब्दात् उत्तरस्याः चतुर्थ्याः विभक्तेः अलुग् भवति।"
+  },
+  "6.3.10": {
+   "newProblem": "Carried operation ‹लुक्› (from ‹अलुक्› 6.3.1) is missing, leaving ‹न भवति› with no subject.",
+   "oldProblem": "कारनाम्नि is treated as a suffix and प्राचाम् as the base प्राचशब्द instead of eastern artisan names.",
+   "should": "प्राचां देशे कारनाम्नि विषये हलादौ उत्तरपदे परे हलदन्ताद् उत्तरस्याः सप्तम्याः अलुग् भवति।"
+  },
+  "6.2.156": {
+   "newProblem": "The carried condition ‹तद्धिताः› from 6.2.155 is omitted, which is required so that kṛt य/यत् suffixes are not included.",
+   "oldProblem": "‹नञः› is dropped from the anuvṛtti, omitting the first member of the compound.",
+   "should": "गुणप्रतिषेधे वर्तमानात् नञः परयोः अतदर्थे वर्तमानयोः य-यत्-तद्धितप्रत्ययान्तस्य उत्तरपदस्य अन्तः उदात्तः भवति"
+  },
+  "6.3.49": {
+   "newProblem": "The gloss has ‹अशीतौ च› making it an affirmative condition, whereas ‹अशीत्योः› is carried as a prohibition (अशीतिवर्जिते).",
+   "oldProblem": "त्रयः is wrongly given as a substitute for सर्वेषाम् and संख्यायाम् is taken as a suffix.",
+   "should": "चत्वारिंशत्प्रभृतौ संख्यायाम् उत्तरपदे परे अबहुव्रीहौ अशीतिवर्जिते च सर्वेषां द्वि-अष्टन्-त्रिशब्दानां पूर्वोक्तः आदेशः विकल्पेन भवति"
+  },
+  "6.3.62": {
+   "newProblem": "The sūtra word 'च' is dropped, which is essential to connect 'तद्धिते' and 'उत्तरपदे' as alternative environments.",
+   "oldProblem": "त्रेः is given as the sthānin instead of एकशब्दस्य.",
+   "should": "तद्धिते उत्तरपदे च परतः एकशब्दस्य ह्रस्वः आदेशः भवति"
+  },
+  "6.3.83": {
+   "newProblem": "‹प्रकृत्या› denotes prakṛtibhāva (remaining in original form), not a substitute (‹प्रकृत्या आदेशः›).",
+   "oldProblem": "स् आदेश is asserted instead of सह remaining unchanged (प्रकृत्या).",
+   "should": "आशिषि विषये गो-वत्स-हल-वर्जितेषु उत्तरपदेषु परे सहशब्दः प्रकृत्या भवति"
+  },
+  "6.3.76": {
+   "newProblem": "The gloss conflates two separate operations into one garbled sentence, stating ‹आदुक् आगमः प्रकृत्या भवति› and making ‹नञः› an attribute of the augment.",
+   "oldProblem": "आदुक् आगम is omitted and एकादि is misstated as a substitute for नञ्.",
+   "should": "एकादौ उत्तरपदे नञ् प्रकृत्या भवति, एकशब्दस्य च आदुक् आगमः भवति"
+  },
+  "6.3.115": {
+   "newProblem": "The gloss invents a gaṇa ‹विष्टादीन्›, omitting eight explicit sūtra words 'अष्ट, पञ्च, मणि, भिन्न, छिन्न, छिद्र, स्रुव, स्वस्तिक'.",
+   "oldProblem": "The word 'लक्षणस्य' denotes a word meaning a mark ('लक्षणवाचिनः'), not the form 'लक्षणशब्दस्य'.",
+   "should": "कर्णशब्दे उत्तरपदे परे विष्ट-अष्टन्-पञ्चन्-मणि-भिन्न-छिन्न-छिद्र-स्रुव-स्वस्तिक-वर्जितानां लक्षणवाचिनां पूर्वपदानां स्थाने दीर्घः आदेशः भवति संहितायां विषये"
+  },
+  "6.3.39": {
+   "newProblem": "‹अरक्तविकारे› qualifies the taddhita suffix, but OUR GLOSS treats ‹रक्तविकारवर्जिते अर्थे› as a condition for ‹पुंवत् न भवति›.",
+   "oldProblem": "अरक्तविकारे is treated as a following suffix rather than a meaning condition on the taddhita suffix.",
+   "should": "रक्ते विकारे चार्थे अविहितस्य वृद्धिनिमित्ततद्धितान्तस्य स्त्रीशब्दस्य पुंवत् न भवति"
+  },
+  "6.3.124": {
+   "newProblem": "‹दा इत्येतस्य आदेशस्य› is wrongly construed with the sthānin ‹उपसर्गस्य› instead of qualifying the condition ‹तकारादौ उत्तरपदे परे›.",
+   "oldProblem": "'दस्ति' is 'दः ति', meaning when a 't'-initial substitute replaces 'दा', lengthening applies to 'इगन्तस्योपसर्गस्य', not 'दकारान्तस्य'.",
+   "should": "दा इत्येतस्य तकारादौ आदेशे उत्तरपदे परे इगन्तस्य उपसर्गस्य स्थाने दीर्घः आदेशः भवति"
+  },
+  "6.4.10": {
+   "newProblem": "The gloss fails to coordinate ‹सान्तस्य संयोगस्य› with ‹महच्छब्दस्य›, dropping the rule's application to s-ending conjunct stems.",
+   "oldProblem": "The sūtra component 'सान्त' ('सकारान्तस्य संयोगस्य') was dropped and replaced with 'नकारान्तस्य अङ्गस्य'.",
+   "should": "सर्वनामस्थाने परे असम्बुद्धौ सकारान्तस्य संयोगस्य महतश्च यो नकारः तस्य उपधायाः स्थाने दीर्घः आदेशः भवति"
+  },
+  "6.4.39": {
+   "newProblem": "The sūtra word 'च' is dropped, leaving 'दीर्घः' and 'लोपः' unconjoined in ‹दीर्घः आदेशः लोपः न भवति›.",
+   "oldProblem": "The prohibition of 'अनुनासिकलोपः' (brought by 'च') and the carried base 'अनुदात्तोपदेशादीनाम्' were dropped.",
+   "should": "क्तिचि परे अनुदात्तोपदेशवनतितनोत्यादीनाम् अङ्गानाम् अनुनासिकलोपः दीर्घश्च न भवति"
+  },
+  "6.4.73": {
+   "newProblem": "The sūtra word ‹अपि› (conveying ‹अनजादीनामपि›) and the carried condition ‹लुङ्लङ्लृङ्क्षु› are dropped.",
+   "oldProblem": "The carried augment is 'आट्' (from 6.4.72 'आडजादीनाम्'), not 'अट्'.",
+   "should": "छन्दसि विषये लुङ्लङ्लृङ्क्षु परतः अनजादीनामपि अङ्गानाम् आट् आगमः दृश्यते"
+  },
+  "6.4.75": {
+   "newProblem": "OUR GLOSS drops ‹अपि› and the carried negation ‹न›, stating that aṭ and āṭ occur in ‹अमाङ्-योगे› instead of stating that they occur even in māṅ-yoga and do not occur even without māṅ.",
+   "oldProblem": "Dropped the sūtra word 'बहुलम्' and 'आट्', failing to state the optional absence in 'अमाङ्योग' and presence in 'माङ्योग'.",
+   "should": "छन्दसि विषये माङ्योगे अपि बहुलम् अडाटौ भवतः, अमाङ्योगे अपि न भवतः"
+  },
+  "6.4.62": {
+   "newProblem": "The sūtra word ‹च› is dropped and ‹उपदेशे› is duplicated, leaving ‹चिण्वत् कार्यम् इडागमः भवति› without conjunction.",
+   "oldProblem": "The augment 'इट्' is treated as a following condition ('इट् आर्धधातुके प्रत्यये परे') rather than an augment ordained by the rule ('इडागमश्च').",
+   "should": "भावकर्मविषयेषु स्य-सिच्-सीयुट्-तासिषु परेषु उपदेशेऽजन्तानाम् हन्-ग्रह-दृशां च अङ्गानां विकल्पेन चिण्वत् कार्यम् इडागमश्च भवति"
+  },
+  "6.4.63": {
+   "newProblem": "The carried condition ‹आर्धधातुके› is put in the genitive modifying the base ‹दीङः› instead of being a locative condition on the following suffix.",
+   "oldProblem": "'युट्' is an augment ('युडागमः'), not a substitute ('आदेशः'), and the condition 'क्ङिति' is dropped.",
+   "should": "अजादौ क्ङिति आर्धधातुके प्रत्यये परे दीङः युडागमो भवति"
+  },
+  "6.4.45": {
+   "newProblem": "The gloss conflates two distinct operations into the garbled phrase ‹लोपः आकारः आदेशः भवति› without separating the mandatory ‹आकारादेशः› and optional ‹लोपः›.",
+   "oldProblem": "'सनः' refers to the root 'सन्' ('सनोतेः'), not a desiderative stem ('सन्नन्तस्य'), and the prescription of 'आकारादेशः' is omitted.",
+   "should": "क्तिचि प्रत्यये परे सनोतेः अङ्गस्य आकारादेशः भवति, अस्य च विकल्पेन लोपः भवति"
+  },
+  "6.4.110": {
+   "newProblem": "'उकारप्रत्ययान्तस्य प्रत्ययस्य' wrongly names 'प्रत्ययस्य' instead of 'करोतेः' as the base ending in the u-suffix.",
+   "oldProblem": "‹अतः› is the ‹अ› of the stem ‹करोति› itself, not a sound occurring after it ('करोतेः अङ्गात् उत्तरस्य अतः').",
+   "should": "क्ङिति सार्वधातुके परे उकारप्रत्ययान्तस्य करोतेः अकारस्य स्थाने उकारः आदेशः भवति"
+  },
+  "6.4.127": {
+   "newProblem": "The condition ‹असौ› (not followed by su) is garbled into ‹सौ परे›, stating the opposite condition.",
+   "oldProblem": "Dropped the condition ‹असाव्› meaning ‹असुप्रत्यये परतः› (when not followed by the nominative singular suffix 'सु').",
+   "should": "सु-प्रत्यये अपरे नञा रहितस्य अङ्गस्य अर्वन्-इत्येतस्य स्थाने तृ-आदेशः भवति"
+  },
+  "6.4.156": {
+   "newProblem": "The two operations 'यणादिपरं लुप्यते' and 'पूर्वस्य च गुणो भवति' are conflated into 'यणादिपरस्य भागस्य पूर्वस्य स्थाने लोपः गुणः आदेशः भवति'.",
+   "oldProblem": "Dropped ‹यणादिपरम्› and its deletion (लोपः).",
+   "should": "इष्ठेमेयस्सु परे स्थूलदूरयुवह्रस्वक्षिप्रक्षुद्राणाम् अङ्गानां यणादिपरस्य लोपो भवति पूर्वस्य च गुणो भवति"
+  },
+  "6.4.158": {
+   "newProblem": "'इष्ठेमेयसां लोपो भवति' and 'बहोः स्थाने भूरादेशो भवति' are conflated into 'बहोः परस्य इष्ठेमेयसाम् बहोः स्थाने लोपः भू इत्यादेशः भवति'.",
+   "oldProblem": "Dropped the substitute ‹भू› for ‹बहु› and misidentified the stem as the object of deletion instead of the following suffixes.",
+   "should": "बहोः परेषाम् इष्ठेमेयसां लोपो भवति बहोः स्थाने च भू इत्यादेशो भवति"
+  },
+  "6.4.159": {
+   "newProblem": "'इष्ठस्य यिडागमो भवति' and 'बहोश्च भूरादेशो भवति' are conflated into 'इष्ठस्य बहोः स्थाने यिट् आगमः भू आदेशः भवति'.",
+   "oldProblem": "‹यिट्› is an augment (आगमः), not a substitute ('यिट् आदेशः भवति').",
+   "should": "बहोः परस्य इष्ठस्य यिट् आगमो भवति बहोः स्थाने च भू इत्यादेशो भवति"
+  },
+  "6.4.163": {
+   "newProblem": "The rule prescribes prakṛtibhāva ('प्रकृत्या भवति'), not a substitute ('प्रकृत्या आदेशः भवति').",
+   "oldProblem": "‹एकाच्› is the stem that remains unchanged ('प्रकृत्या भवति'), not a substitute ('एकाच् आदेशः भवति').",
+   "should": "इष्ठेमेयस्सु परे एकाच् भसंज्ञकम् अङ्गं प्रकृत्या भवति"
+  },
+  "6.4.164": {
+   "newProblem": "The rule prescribes prakṛtibhāva ('प्रकृत्या भवति'), not a substitute ('प्रकृत्या आदेशः भवति').",
+   "oldProblem": "‹इन्› is the stem ending ('इन्नन्तस्य अङ्गस्य'), not a following condition ('इन् अणि परतः').",
+   "should": "अनपत्यार्थे अणि परे इन्नन्तं भसंज्ञकम् अङ्गं प्रकृत्या भवति"
+  },
+  "6.4.144": {
+   "newProblem": "The gloss states ‹अङ्गस्य लोपः भवति› (elision of the aṅga) instead of elision of the ṭi portion (‹टेर्लोपः›).",
+   "oldProblem": "Dropped ‹टेः› carried from 6.4.143; the sthānin is ‹टेः›, not ‹अन्त्यस्य अलः›.",
+   "should": "तद्धिते प्रत्यये परे नकारान्तस्य भसंज्ञकस्य अङ्गस्य टेः लोपः भवति।"
+  },
+  "6.4.145": {
+   "newProblem": "The particle 'एव' restricts 'टखोः' ('टखोरेव परतः'), but our gloss attaches it to 'टेः स्थाने' ('टेः स्थाने एव').",
+   "oldProblem": "Dropped ‹टेः› carried from 6.4.143; the sthānin is ‹टेः›, not ‹अन्त्यस्य अलः›.",
+   "should": "टखोरेव परे अहन् इत्येतस्य अङ्गस्य टेः लोपः भवति"
+  },
+  "7.1.46": {
+   "newProblem": "The rule states that 'मस्' becomes 'इदन्तः' (ends in short i), not that 'इकारान्तः' is a substitute आदेश.",
+   "oldProblem": "The gloss omits the sūtra word 'मसि' (मस् इत्ययं शब्दः).",
+   "should": "छन्दसि विषये मस्-प्रत्ययः इकारान्तः भवति"
+  },
+  "7.1.76": {
+   "newProblem": "The sūtra word 'अपि' (indicating 'अन्यत्रापि') is dropped",
+   "oldProblem": "The gloss provides 'नुम् आगमः' for 'नपुंसकस्य' instead of 'अनङ् आदेशः' for 'अस्थिदधिसक्थ्यक्षि'.",
+   "should": "छन्दसि अस्थिदधिसक्थ्यक्ष्णाम् अन्यत्रापि अनङ् आदेशः दृश्यते"
+  },
+  "7.2.15": {
+   "newProblem": "Misconstrues ‹निष्ठायां परे› with ‹विभाषया इट् विहितः› instead of the main clause ‹तस्य निष्ठायां परे इट् आगमः न भवति›",
+   "oldProblem": "The word 'विभाषा' is taken as making this prohibition optional ('विकल्पेन न भवति') instead of describing the root ('यस्य क्वचिद् विभाषा इट्').",
+   "should": "यस्य धातोः क्वचिद् विभाषया इट् विहितः तस्य निष्ठायां परे इट् आगमः न भवति"
+  },
+  "7.2.60": {
+   "newProblem": "The sūtra word 'च' is dropped, conflating ‹तासेः› and ‹सकारादेः आर्धधातुकस्य› into ‹तासेः सकारादेः आर्धधातुकस्य›.",
+   "oldProblem": "The gloss omits the sūtra word 'तासि' and the carried 'सकारादेः'.",
+   "should": "परस्मैपदेषु परे कॢपः धातोः उत्तरस्य तासेः सकारादेः च आर्धधातुकस्य इट् आगमः न भवति"
+  },
+  "7.2.43": {
+   "newProblem": "‹संयोगादेः› qualifies the root ‹धातोः›, but the gloss makes it qualify the suffixes ‹लिङ्-सिचोः›.",
+   "oldProblem": "The gloss omits the condition 'आत्मनेपदेषु' carried from 7.2.42.",
+   "should": "ऋदन्तात् संयोगादेः धातोः उत्तरयोः लिङ्-सिचोः आत्मनेपदेषु वा इडागमो भवति।"
+  },
+  "7.2.52": {
+   "newProblem": "The augment ‹इट्› belongs to the suffixes ‹क्त्वानिष्ठयोः›, not to the roots ‹वसति-क्षुध्योः›.",
+   "oldProblem": "The gloss omits the carried condition 'क्त्वानिष्ठयोः'.",
+   "should": "वसतेः क्षुधेश्च उत्तरयोः क्त्वानिष्ठयोः इडागमो भवति।"
+  },
+  "7.2.73": {
+   "newProblem": "The condition ‹सिचि› is missing and turned into genitive ‹सिचः›, wrongly assigning ‹सक्› to सिच् instead of the aṅga and omitting the condition that सिच् must follow.",
+   "oldProblem": "‹सिच्› is the recipient of the augment ‹इट्› (सिचः इट्), but the gloss treats it as a following condition (‹सिचि परे›).",
+   "should": "परस्मैपदे सिचि परे यम, रम्, णम इत्येतेषामङ्गानामाकारान्तानाञ्च सक् आगमः भवति, सिचः च इडागमः भवति"
+  },
+  "7.2.79": {
+   "newProblem": "The sthānin of lopa is non-final s, but OUR GLOSS puts liṅ as the sthānin ‹अनन्त्यस्य लिङः स्थाने›.",
+   "oldProblem": "‹सलोपः› means elision of s (‹सकारस्य लोपः›), not a substitute named ‹सलोप› replacing the final sound of an ‹अनन्त्य› stem.",
+   "should": "सार्वधातुके लिङः अवयवस्य अनन्त्यस्य सकारस्य लोपः भवति"
+  },
+  "7.2.64": {
+   "newProblem": "The gloss ends with an ungrammatical dangling fragment ‹थलि परतः इट्›.",
+   "oldProblem": "The sūtra is a nipātana of specific Vedic forms (‹बभूथ आततन्थ जगृम्भ ववर्थ›), but the gloss treats it as a general prohibition of it-āgama.",
+   "should": "बभूथ आततन्थ जगृम्भ ववर्थ इत्येतानि पदानि थलि परतो निपात्यन्ते निगमविषये।"
+  },
+  "7.3.17": {
+   "newProblem": "The rule prescribes vṛddhi for parimāṇānta stems except in a saṃjñā or before śāṇa, but OUR GLOSS states an absolute prohibition and drops ‹असंज्ञाशाणयोः›.",
+   "oldProblem": "The adhikāra word 'उत्तरपदस्य' is dropped, wrongly applying vṛddhi to the initial vowel of the entire aṅga rather than the uttarapada.",
+   "should": "तद्धिते ञिति णिति किति च परे संख्यायाः उत्तरस्य परिमाणान्तस्य अङ्गस्य उत्तरपदस्य अचामादेरचः वृद्धिः भवति, संज्ञायां शाणे च न भवति"
+  },
+  "7.3.25": {
+   "newProblem": "By ‹विभाषितमुत्तरम्› only the uttarapada is optional while pūrvapada gets nitya vṛddhi, but OUR GLOSS makes both optional.",
+   "oldProblem": "'उत्तरम्' is misinterpreted as a substitute (‹उत्तरम् आदेशः भवति›) instead of the uttarapada receiving optional vṛddhi.",
+   "should": "तद्धिते ञिति णिति किति च परे जङ्गल-धेनु-वलज-अन्तस्य अङ्गस्य पूर्वपदस्य अचामादेरचः नित्यं वृद्धिः भवति, उत्तरपदस्य तु विकल्पेन भवति"
+  },
+  "7.3.26": {
+   "newProblem": "By ‹पूर्वस्य तु वा› only the pūrvapada is optional while the uttarapada gets nitya vṛddhi, but OUR GLOSS makes both optional.",
+   "oldProblem": "The gloss invents ‹इकः वृद्धिः› and conflates pūrvapada and uttarapada, missing that the uttarapada gets obligatory vṛddhi and the pūrvapada optional vṛddhi.",
+   "should": "तद्धिते ञिति णिति किति च परे अर्धात् परस्य परिमाणवाचिनः उत्तरपदस्य अचामादेरचः नित्यं वृद्धिः भवति, पूर्वपदस्य तु विकल्पेन भवति"
+  },
+  "7.2.38": {
+   "newProblem": "The sūtra term 'वॄतः' includes both 'वृ' and 'ऋकारान्ताः धातवः', but our gloss drops 'ऋकारान्तेभ्यश्च' and only says 'वृतः'.",
+   "oldProblem": "The gloss targets 'ग्रहः अङ्गस्य अन्त्यस्य अलः' instead of replacing the augment 'इट्' following 'वृ' and 'ऋ'-ending roots.",
+   "should": "अलिटि वृ-धातोः ऋकारान्तेभ्यश्च धातुभ्यः उत्तरस्य इटः विकल्पेन दीर्घः आदेशः भवति"
+  },
+  "7.3.3": {
+   "newProblem": "The gloss states that the aic augments do not occur ('ऐच् आगमौ ... न भवति'), whereas they are enjoined before y and v ('पूर्वौ तु ताभ्यामैच्').",
+   "oldProblem": "The gloss drops both ‹वृद्धिः› (the prohibition) and ‹ऐच्› (the augments prescribed), inventing an ungrammatical ‹पूर्वौ आदेशः न भवति›.",
+   "should": "पदान्ताभ्यां यकारवकाराभ्याम् उत्तरस्य अचामादेरचः स्थाने वृद्धिः न भवति, ताभ्यां पूर्वौ तु ऐचौ आगमौ भवतः तद्धिते ञिति णिति किति परतः।"
+  },
+  "7.3.4": {
+   "newProblem": "The gloss states that the aic augments do not occur ('ऐच् आगमौ ... न भवति'), whereas they are enjoined before y and v.",
+   "oldProblem": "The sūtra prescribes that for ‹द्वारादि› stems vṛddhi does not occur and ‹ऐच्› augments do occur, but the gloss says ‹ऐच् आदेशः न भवति›.",
+   "should": "द्वारादीनां यकारवकाराभ्याम् उत्तरस्य अचामादेरचः स्थाने वृद्धिः न भवति, ताभ्यां पूर्वौ ऐचौ आगमौ भवतः तद्धिते ञिति णिति किति परतः।"
+  },
+  "7.3.5": {
+   "newProblem": "The gloss states that the aikāra augment does not occur ('ऐकारः आगमः न भवति') instead of enjoining it before y.",
+   "oldProblem": "For ‹न्यग्रोध›, vṛddhi is prohibited and aikāra-āgama is prescribed before ‹य्›, but the gloss states that ‹ऐच् आदेशः न भवति›.",
+   "should": "केवलस्य न्यग्रोधशब्दस्य यकारात् परस्य अचामादेरचः स्थाने वृद्धिः न भवति, यकारात् पूर्वम् ऐकारः आगमो भवति तद्धिते ञिति णिति किति परतः।"
+  },
+  "7.3.6": {
+   "newProblem": "The gloss drops the negation of the prohibition of vṛddhi ('यदुक्तं तत्'), negating only the aic augment.",
+   "oldProblem": "The rule negates both the ‹ऐच्› augment and the prohibition of vṛddhi, but the gloss describes ‹ऐच्› as an आदेश replacing an ajanta aṅga.",
+   "should": "कर्मव्यतिहारेऽर्थे पूर्वेण यदुक्तम् (ऐचागमः वृद्धिप्रतिषेधश्च) तत् न भवति तद्धिते ञिति णिति किति परतः।"
+  },
+  "7.3.7": {
+   "newProblem": "The gloss drops the negation of the prohibition of vṛddhi ('यदुक्तं तत्'), negating only the aic augment.",
+   "oldProblem": "The rule cancels the ‹ऐच्› augment and vṛddhi prohibition for ‹स्वागतादि› stems, but the gloss describes ‹ऐच्› as an आदेश replacing the aṅga.",
+   "should": "स्वागतादीनां पूर्वेण यदुक्तम् (ऐचागमः वृद्धिप्रतिषेधश्च) तत् न भवति तद्धिते ञिति णिति किति परतः।"
+  },
+  "7.3.8": {
+   "newProblem": "The gloss drops the negation of the prohibition of vṛddhi ('यदुक्तं तत्'), negating only the aic augment.",
+   "oldProblem": "The rule cancels the ‹ऐच्› augment and vṛddhi prohibition for ‹श्वादि› stems before ‹इञ्›, but the gloss describes ‹ऐच्› as an आदेश replacing the aṅga.",
+   "should": "इञि परतः श्वादेरङ्गस्य पूर्वेण यदुक्तम् (ऐचागमः वृद्धिप्रतिषेधश्च) तत् न भवति।"
+  },
+  "7.3.9": {
+   "newProblem": "The gloss drops the negation of the prohibition of vṛddhi ('यदुक्तं तत्'), negating only the aic augment.",
+   "oldProblem": "‹पदान्तस्य› means ‹पद-शब्दान्तस्य श्वादेः› (a śvādi stem ending in the word 'pada'), not a padānta aṅga, and ‹ऐच्› is not an आदेश replacing the aṅga.",
+   "should": "पदशब्दान्तस्य श्वादेरङ्गस्य पूर्वेण यदुक्तम् (ऐचागमः वृद्धिप्रतिषेधश्च) तत् विकल्पेन न भवति तद्धिते ञिति णिति किति परतः।"
+  },
+  "7.3.27": {
+   "newProblem": "The gloss states that vṛddhi does not optionally occur to the pūrvapada ('पूर्वपदस्य विकल्पेन वृद्धिः न भवति'), whereas the prohibition applies to the uttarapada and the pūrvapada does optionally receive vṛddhi ('पूर्वपदस्य तु वा भवति').",
+   "oldProblem": "The gloss states that vṛddhi is optionally barred (‹विकल्पेन न भवति›) and garbles the sthānin with ‹पूर्वस्य परान्तस्य›, whereas the uttarapada's a-kāra is obligatorily barred from vṛddhi.",
+   "should": "तद्धिते ञिति णिति किति च परे अर्धात् परस्य अकारान्तस्य परिमाणवाचिनः उत्तरपदस्य वृद्धिः न भवति पूर्वपदस्य तु विकल्पेन वृद्धिः भवति"
+  },
+  "7.3.28": {
+   "newProblem": "The gloss conflates uttarapada and pūrvapada under optional vṛddhi ('उत्तरपदस्य पूर्वपदस्य अचः स्थाने विकल्पेन वृद्धिः भवति'), whereas uttarapada gets vṛddhi obligatorily and only pūrvapada gets it optionally.",
+   "oldProblem": "The obligatory vṛddhi of the uttarapada is dropped, mentioning only optional vṛddhi for the pūrvapada.",
+   "should": "ढे प्रत्यये परे प्रवाहणस्य अङ्गस्य उत्तरपदस्य अचः स्थाने नित्यं वृद्धिः भवति पूर्वपदस्य तु विकल्पेन भवति"
+  },
+  "7.3.29": {
+   "newProblem": "The gloss conflates uttarapada and pūrvapada under optional vṛddhi ('उत्तरपदस्य पूर्वपदस्य अचः स्थाने विकल्पेन वृद्धिः भवति'), whereas uttarapada gets vṛddhi obligatorily and only pūrvapada gets it optionally.",
+   "oldProblem": "‹तत्प्रत्ययस्य› is taken literally as the word ‹तत्प्रत्ययशब्दस्य› instead of ढक्-प्रत्ययान्तस्य प्रवाहणस्य, and uttarapada vṛddhi is omitted.",
+   "should": "तद्धिते ञिति णिति किति च परे ढक्प्रत्ययान्तस्य प्रवाहणशब्दस्य उत्तरपदस्य अचः स्थाने नित्यं वृद्धिः भवति पूर्वपदस्य तु विकल्पेन भवति"
+  },
+  "7.3.30": {
+   "newProblem": "The gloss omits the obligatory vṛddhi of the uttarapada words śuci etc. ('उत्तरपदस्य वृद्धिः भवति') and wrongly prescribes vṛddhi only for the pūrvapada.",
+   "oldProblem": "The gloss treats the uttarapadas (शुचि etc.) as optional (‹विकल्पेन भवति›) and pūrvapada (‹पूर्वस्य›), whereas uttarapada vṛddhi is nitya and pūrvapada (नञ्) is optional.",
+   "should": "तद्धिते ञिति णिति किति च परे नञ उत्तरेषां शुचि-ईश्वर-क्षेत्रज्ञ-कुशल-निपुण-शब्दानाम् उत्तरपदस्य अचः स्थाने नित्यं वृद्धिः भवति पूर्वपदस्य तु विकल्पेन भवति"
+  },
+  "7.3.49": {
+   "newProblem": "The gloss drops मपूर्वायाः and misses आतः स्थाने (योऽकारः), misreading it as अतः स्थाने.",
+   "oldProblem": "‹आचार्याणाम्› is treated as the sthānin to be replaced (‹आचार्याणाम् अङ्गस्य स्थाने›) instead of indicating optionality / the view of the teachers.",
+   "should": "‹अभाषितपुंस्कात् मपूर्वायाः आतः स्थाने योऽकारः तस्य आचार्याणां मतेन आकारादेशः भवति›"
+  },
+  "7.4.36": {
+   "newProblem": "The nipātana words 'दुरस्युः' and 'द्रविणस्युः' are erroneously given as 'दुर' and 'द्रविण'.",
+   "oldProblem": "The words ‹वृषण्यति› and ‹रिषण्यति› are dropped, and ‹द्रविणस्युः› is misread as a condition.",
+   "should": "छन्दसि विषये क्यचि दुरस्युः द्रविणस्युः वृषण्यति रिषण्यति इत्येतानि निपात्यन्ते"
+  },
+  "7.4.80": {
+   "newProblem": "The condition ‹अपरे› (followed by an 'a') qualifies ‹पुयण्जि›, but OUR GLOSS wrongly construes it with ‹अभ्यासस्य›.",
+   "oldProblem": "The sūtra word ‹अपरे› (अवर्णपरे) is dropped and ‹अभ्यासस्य› is replaced with ‹अङ्गस्य›.",
+   "should": "सनि प्रत्यये परे अवर्णपरे पवर्गे यणि जकारे च परतः उवर्णान्तस्य अभ्यासस्य स्थाने इकारादेशः भवति"
+  },
+  "8.1.37": {
+   "newProblem": "The sūtra word ‹न› is dropped, stating ‹अनुदात्तम् न भवति› instead of ‹नानुदात्तं न भवति›.",
+   "oldProblem": "The carried word ‹अनुदात्तम्› is dropped, turning an accent rule into meaningless gibberish.",
+   "should": "पूजायां विषये यावद्यथाभ्यां युक्तम् अनन्तरं तिङन्तं नानुदात्तं न भवति (अनुदात्तमेव भवति)"
+  },
+  "8.1.38": {
+   "newProblem": "The carried negation ‹न› from sūtra 37 is dropped, stating ‹अनुदात्तम् न भवति› instead of ‹नानुदात्तं न भवति›.",
+   "oldProblem": "The carried word ‹अनुदात्तम्› is dropped, stating ‹तिङ् न भवति›.",
+   "should": "पूजायां विषये यावद्यथाभ्यां युक्तम् उपसर्गव्यपेतं तिङन्तं नानुदात्तं न भवति (अनुदात्तमेव भवति)"
+  },
+  "8.1.26": {
+   "newProblem": "The condition ‹सपूर्वायाः› qualifies ‹प्रथमायाः› (विद्यमानपूर्वात् प्रथमान्तात् पदात्), but our gloss wrongly attaches ‹विद्यमानपूर्वायाः› to ‹युष्मदस्मदोः›.",
+   "oldProblem": "The carried substitute ‹वान्नावादयः› that is optionally prohibited is dropped.",
+   "should": "विद्यमानपूर्वात् प्रथमान्तात् पदात् परयोः युष्मदस्मदोः विभाषा वान्नावादयः आदेशाः न भवन्ति"
+  },
+  "8.1.30": {
+   "newProblem": "The sūtra words ‹यदि, हन्त, कुवित्, नेत्, चेत्, चण्, कच्चित्, यत्र› are omitted and replaced by non-existent ‹यदादिभिः›.",
+   "oldProblem": "The carried word ‹अनुदात्तम्› is dropped, wrongly stating ‹तिङ् न भवति›.",
+   "should": "यत् यदि हन्त कुवित् नेत् चेत् चण् कच्चित् यत्र एतैः निपातैः युक्तं तिङन्तं पदम् अनुदात्तं न भवति"
+  },
+  "7.4.81": {
+   "newProblem": "The sthānī is the u-kāra of the abhyāsa (‹ओः› = अभ्यासस्य उवर्णस्य), not the whole abhyāsa (‹उवर्णान्तस्य अभ्यासस्य›), and the condition ‹अवर्णपरे यणि› is scrambled.",
+   "oldProblem": "The sthānin is ‹अभ्यासस्य ओः›, not ‹अङ्गस्य›.",
+   "should": "सनि परे अवर्णपरे यणि परे स्रु-श्रु-द्रु-प्रु-प्लु-च्यु इत्येतेषाम् अभ्यासस्य उवर्णस्य स्थाने विकल्पेन इकारादेशः भवति"
+  },
+  "8.1.47": {
+   "newProblem": "'अपूर्वम्' qualifies 'जातु' (अविद्यमानपूर्वेण जातुना), not 'तिङन्तम्'.",
+   "oldProblem": "The carried word ‹अनुदात्तम्› is dropped, stating ‹तिङ् न भवति› instead of ‹तिङन्तं नानुदात्तं भवति›.",
+   "should": "अविद्यमानपूर्वेण जातु इत्यनेन युक्तं तिङन्तं नानुदात्तं भवति"
+  },
+  "8.1.48": {
+   "newProblem": "'चिदुत्तरम्' and 'अपूर्वम्' qualify 'किंवृत्तम्', not 'तिङन्तम्'.",
+   "oldProblem": "The carried word ‹अनुदात्तम्› is dropped, stating ‹तिङ् न अपूर्वम् भवति›.",
+   "should": "अविद्यमानपूर्वेण चिदुत्तरेण किंवृत्तेन युक्तं तिङन्तं नानुदात्तं भवति"
+  },
+  "8.1.51": {
+   "newProblem": "The condition 'न चेत् कारकं सर्वान्यत्' is reversed because 'न' was omitted from the condition, asserting the opposite meaning.",
+   "oldProblem": "The carried word ‹अनुदात्तम्› and negation are dropped, stating ‹तिङ् भवति› instead of ‹लृडन्तं नानुदात्तं भवति›.",
+   "should": "गत्यर्थकलोडन्तेन युक्तं लृडन्तं तिङन्तं नानुदात्तं भवति, चेत् कारकं सर्वम् अन्यत् न भवति"
+  },
+  "8.1.52": {
+   "newProblem": "The condition 'न चेत् कारकं सर्वान्यत्' is reversed because 'न' was omitted from the condition, asserting the opposite meaning.",
+   "oldProblem": "The condition ‹न चेत् कारकं सर्वान्यत्› is stated in reverse as ‹चेत् कारकम् सर्वान्यत्›, and ‹अनुदात्तम्› is omitted.",
+   "should": "गत्यर्थकलोडन्तेन युक्तं लोडन्तं तिङन्तं नानुदात्तं भवति, चेत् कारकं सर्वम् अन्यत् न भवति"
+  },
+  "8.1.53": {
+   "newProblem": "The condition 'न चेत् कारकं सर्वान्यत्' is reversed because 'न' was omitted from the condition, asserting the opposite meaning.",
+   "oldProblem": "The condition ‹न चेत् कारकं सर्वान्यत्› is stated in reverse as ‹चेत् कारकम् सर्वान्यत्›, ‹अनुदात्तम्› is missing, and the syntax garbles the predicate as ‹लोट् भवति›.",
+   "should": "गत्यर्थकलोडन्तेन युक्तं सोपसर्गम् उत्तमपुरुषवर्जितं लोडन्तं तिङन्तं विभाषा नानुदात्तं भवति, चेत् कारकं सर्वम् अन्यत् न भवति"
+  },
+  "8.1.62": {
+   "newProblem": "The condition ‹एवेत्यवधारणम्› is syntactically garbled as ‹एवशब्दः प्रथमा तिङ् अवधारणार्थे›, leaving ‹एवशब्दः› as a stranded nominative.",
+   "oldProblem": "The gloss erroneously carries ‹क्षियायाम्›, reads ‹चाहलोपे› as a following condition (‹परतः›), and omits ‹अनुदात्तम्›.",
+   "should": "चाहयोः लोपे एवशब्दश्चेदवधारणार्थे प्रयुज्यते प्रथमा तिङ् अनुदात्ता न भवति"
+  },
+  "8.2.4": {
+   "newProblem": "The qualification 'उदात्तस्य स्वरितस्य च स्थाने जातस्य' is wrongly construed with 'अनुदात्तस्य' instead of with 'यणः'.",
+   "oldProblem": "The gloss treats ‹उदात्तस्वरितयोः› as following yaṇ (‹यणः उत्तरस्य उदात्तस्वरितयोः›) instead of as the sthānins replaced by yaṇ before anudātta.",
+   "should": "उदात्तस्य स्वरितस्य च स्थाने जातस्य यणः परस्य अनुदात्तस्य स्थाने स्वरितः आदेशः भवति"
+  },
+  "8.2.29": {
+   "newProblem": "The sūtra word ‹च› is dropped, incorrectly combining the two alternative environments ‹पदान्ते› and ‹झलि परे› into one.",
+   "oldProblem": "The genitive dual ‹स्कोः› (सकारककारयोः) is wrongly glossed as ‹स्कुशब्दस्य›.",
+   "should": "पदान्ते झलि च परे संयोगाद्योः सकारककारयोः स्थाने लोपः भवति"
+  },
+  "8.2.42": {
+   "newProblem": "The sūtra word ‹च› is dropped and two sthānins are jammed together incoherently with ‹तकारात् पूर्वस्य› qualifying ‹निष्ठातकारस्य›.",
+   "oldProblem": "The substitution of ‹न्› for the niṣṭhā-takāra is dropped, turning ‹निष्ठातः› into a condition for replacing a ‹दकारान्त पद›.",
+   "should": "रेफदकाराभ्याम् उत्तरस्य निष्ठातकारस्य स्थाने तकारात् पूर्वस्य दकारस्य च स्थाने नकारादेशः भवति"
+  },
+  "8.2.13": {
+   "newProblem": "Dropped the sūtra word 'च' which connects 'उदधावर्थे' and 'संज्ञायां च'.",
+   "oldProblem": "The condition ‹संज्ञायाम्› brought in by ‹च› is omitted.",
+   "should": "उदन्वान् इति निपात्यते उदधावर्थे संज्ञायां विषये च"
+  },
+  "8.2.80": {
+   "newProblem": "Our gloss makes 'दकारस्य स्थाने' the place for both 'उवर्णादेशः' and 'मकारः', instead of 'दादुत्तरस्य वर्णस्य' for 'उ' and 'दकारस्य' for 'म'.",
+   "oldProblem": "The substitution of ‹उ/ऊ› for the vowel following 'd' (‹दात् उः›) is completely omitted.",
+   "should": "‹असकारान्तस्य अदसः दादुत्तरस्य वर्णस्य उवर्णादेशः दकारस्य च मकारादेशः भवति›"
+  },
+  "8.2.81": {
+   "newProblem": "Our gloss wrongly assigns 'दकारस्य स्थाने' as the place for both substitutions instead of 'एकारस्य ईकारः' and 'दकारस्य मकारः'.",
+   "oldProblem": "'एदन्तस्य पदस्य स्थाने' sets the whole pada ending in 'ए' as the sthānin instead of 'एकारस्य', and drops 'अदसः' and 'दकारस्य मकारः'.",
+   "should": "‹असकारान्तस्य अदसः दादुत्तरस्य एकारस्य ईकारादेशः दकारस्य च मकारादेशः भवति बहुवचने›"
+  },
+  "8.2.71": {
+   "newProblem": "The carried condition ‹उभयथा› (meaning ‹रुर्वा रेफो वा›) is dropped, leaving the two substitutes without an indication of alternation.",
+   "oldProblem": "The sthānin ‹भुवस्› (the mahāvyāhṛti) is wrongly presented as the substitute (‹भुवः आदेशः भवति›) in place of ‹महाव्याहृतेः›.",
+   "should": "छन्दसि विषये महाव्याहृतेः भुवः स्थाने उभयथा रुर्वा रेफो वा आदेशः भवति"
+  },
+  "7.3.119": {
+   "newProblem": "'अत्' is the substitute for 'घि' and 'औत्' for 'ङि', but the gloss conflates them under ‹ङेः स्थाने›.",
+   "oldProblem": "The gloss assigns ‹अ› as the substitute for ‹ङेः› (‹ङेः स्थाने अ आदेशः भवति›) instead of for the ghi-saṃjñaka stem.",
+   "should": "घिसंज्ञकात् परस्य ङेः स्थाने औत् आदेशः भवति घेरङ्गस्य च अत् आदेशः भवति"
+  },
+  "7.4.4": {
+   "newProblem": "The gloss conflates two separate operations instead of assigning ‹लोपः› to ‹उपधायाः› and ‹ईत्› to ‹अभ्यासस्य›.",
+   "oldProblem": "The substitute ‹ईत्› for the abhyāsa is dropped and ‹लोपः› is incorrectly applied to the abhyāsa (‹अभ्यासस्य अङ्गस्य स्थाने लोपः›) rather than the upadhā.",
+   "should": "चङ्परे णौ पिबतेरङ्गस्य उपधायाः लोपो भवति अभ्यासस्य च ईकारादेशो भवति"
+  },
+  "8.2.92": {
+   "newProblem": "Both the initial vowel and the following vowel become pluta ('आदेः परस्य च'), but the gloss makes 'the initial of the following' ('तस्मात् परस्य आदेः') the sole target.",
+   "oldProblem": "'अग्नीत्प्रेषणे परतः' misinterprets the context as a following element and drops the fact that both 'आदेः' and 'परस्य' receive pluta.",
+   "should": "यज्ञकर्मणि अग्नीधः प्रेषणे आदेः तस्मात् परस्य च स्थाने प्लुतः आदेशः उदात्तः भवति"
+  },
+  "8.3.21": {
+   "newProblem": "The sūtra word ‹पदे› qualifies ‹उञि› (i.e. ‹उञ्-पदे परे›), but OUR GLOSS misattaches it as ‹पदसंज्ञके› to the sthānī ‹पदान्तयोः›.",
+   "oldProblem": "'अशि प्रत्यये परे' treats the pratyāhāra 'अश्' as a following suffix alongside 'उञि पदे' instead of being replaced by it.",
+   "should": "उञ्-पदे परे अवर्णपूर्वयोः पदान्तयोः वकारयकारयोः स्थाने लोपः भवति"
+  },
+  "8.3.37": {
+   "newProblem": "The gloss drops the sūtra word ‹च› which brings in ‹विसर्जनीयः› as an alternative.",
+   "oldProblem": "Dropped the sūtra word 'च' which provides the optional retention of visarga ('चकाराद्विसर्जनीयश्च / वा').",
+   "should": "कुप्वोः परे विसर्जनीयस्य स्थाने यथासङ्ख्यं जिह्वामूलीयोपध्मानीयौ चकाराद् विसर्जनीयः च आदेशाः भवन्ति"
+  },
+  "8.3.61": {
+   "newProblem": "In ‹अभ्यासात् परस्य इणः›, ‹इणः› is wrongly taken as a genitive qualified by ‹परस्य› instead of an ablative ‹अभ्यासाद् इणः› governing ‹उत्तरस्य/परस्य आदेशसकारस्य›.",
+   "oldProblem": "Dropped 'इणः' qualifying 'अभ्यासात्' and the restrictive force of 'एव' (नियम).",
+   "should": "षत्वभूते सनि परे अभ्यासाद् इण उत्तरस्य स्तौतेः ण्यन्तानां च आदेशसकारस्य एव मूर्धन्यादेशः भवति"
+  },
+  "8.2.107": {
+   "newProblem": "The gloss scrambles the two separate operations, misplacing ‹अदूरात्›, attaching ‹प्लुतः› to the sthānin ‹पूर्वस्य अर्धस्य›, and conflating the substitutes.",
+   "oldProblem": "Dropped the substitute 'अत्' for the first half, dropped 'हूते' from 'अदूराद्धूते', and garbled the substitution.",
+   "should": "अप्रगृह्यस्य एचः अदूराद्धूते प्लुतविषये पूर्वस्य अर्धस्य स्थाने प्लुतः आकारः आदेशः, उत्तरस्य अर्धस्य स्थाने इकारोकारौ आदेशौ यथासङ्ख्यम् भवतः"
+  },
+  "8.3.63": {
+   "newProblem": "The gloss omits the carried operation ‹मूर्धन्यो भवति› (or ‹मूर्धन्यादेशः भवति›).",
+   "oldProblem": "'प्राक्सितात्' is an adhikāra limit meaning 'prior to the word सित', wrongly glossed as 'सितात् उत्तरस्य', and 'अड्व्यवाये' wrongly glossed as 'अड्व्यवाये परे'.",
+   "should": "प्राक् सितशब्दात् अड्व्यवाये अनड्व्यवाये अपि मूर्धन्यो भवति इत्यधिकारः"
+  },
+  "8.3.64": {
+   "newProblem": "The gloss omits the operation ‹मूर्धन्यादेशः भवति› and omits that the dhātu s- also undergoes ṣatva alongside ‹अभ्यासस्य च›.",
+   "oldProblem": "Dropped the condition of intervention by the abhyāsa ('अभ्यासेन व्यवाये') and dropped the primary substitute for the sakāra of 'स्थादि' roots.",
+   "should": "स्थादिषु प्राक् सितशब्दात् अभ्यासेन व्यवाये सकारस्य अभ्याससकारस्य च मूर्धन्यादेशः भवति इत्यधिकारः"
+  },
+  "8.3.65": {
+   "newProblem": "The gloss replaces the eleven roots of the sūtra with ‹सुनोत्यादीनाम्›, dropping ten sūtra words.",
+   "oldProblem": "Dropped the carried condition 'इणः' qualifying 'उपसर्गात्' ('उपसर्गस्थाद् इण्कोः / निमित्तात्') and misphrased intervention as 'अड्व्यवाये परे'.",
+   "should": "उपसर्गस्थात् निमित्तात् उत्तरस्य सुनोति-सुवति-स्यति-स्तौति-स्तोभति-स्था-सेनय-सेध-सिच-सञ्ज-स्वञ्जां सकारस्य स्थाने मूर्धन्यादेशः भवति"
+  },
+  "8.3.103": {
+   "newProblem": "‹तकारादौ› qualifies the following items ‹युष्मत्...› rather than the sthānin ‹सकारस्य›.",
+   "oldProblem": "The stems and verbal form युष्मत्, तत्, and ततक्षुस् are wrongly characterized as suffixes (‹प्रत्यये›).",
+   "should": "अन्तःपादं स्थितस्य इण्कोरुत्तरस्य सकारस्य तकारादिषु युष्मत्तत्ततक्षुःषु परतः मूर्धन्यादेशः भवति"
+  },
+  "8.3.104": {
+   "newProblem": "‹तादौ› qualifies the following condition ‹युष्मत्तत्ततक्षुःषु› rather than the sthānin ‹सकारस्य›.",
+   "oldProblem": "The word ‹एकेषाम्› indicates the view of some teachers (एकेषां मतेन), not a stem qualifying ‹सकारस्य›, and ‹युष्मत्तत्ततक्षुःषु› is dropped.",
+   "should": "यजुषि विषये तादौ युष्मत्तत्ततक्षुःषु परतः इण्कोरुत्तरस्य सकारस्य एकेषामाचार्याणां मतेन मूर्धन्यादेशः भवति"
+  },
+  "8.3.114": {
+   "newProblem": "The gloss states that retroflexion is nipātita with ‹निपात्यते मूर्धन्यः› instead of retroflexion being negated (मूर्धन्याभावः / मूर्धन्यप्रतिषेधः).",
+   "oldProblem": "The rule is a nipātana (निपातनम्) of the forms प्रतिस्तब्ध and निस्तब्ध, not an ordinary prohibition rule.",
+   "should": "प्रतिस्तब्ध-निस्तब्धौ इत्यत्र मूर्धन्यादेशस्य अभावः निपात्यते"
+  },
+  "8.3.78": {
+   "newProblem": "‹इणन्तात्› should qualify the base ‹अङ्गात्› (इणन्तादङ्गात्), but is placed after ‹उत्तरस्य› as if modifying ‹षीध्वम्-लुङ्-लिटाम्›.",
+   "oldProblem": "The sthānin is dhakāra (धकारस्य), but the gloss wrongly specifies sakāra (सकारस्य).",
+   "should": "इणन्तात् अङ्गात् उत्तरेषां षीध्वम्-लुङ्-लिटाम् धकारस्य स्थाने मूर्धन्यादेशः भवति"
+  },
+  "8.4.4": {
+   "newProblem": "The gloss omits the sūtra words ‹मिश्रकासिध्रकाशारिकाकोटराऽग्रेभ्यः›, replacing them with non-existent ‹पुरगादिभ्यः›.",
+   "oldProblem": "The essential carried condition ‹संज्ञायाम्› is omitted.",
+   "should": "संज्ञायां विषये पुरगा, मिश्रका, सिध्रका, शारिका, कोटरा, अग्रे इत्येतेभ्यः पूर्वपदेभ्यः उत्तरस्य वनशब्दस्य नकारस्य णकारादेशः भवति"
+  },
+  "8.4.5": {
+   "newProblem": "The gloss omits the sūtra words ‹निर्, अन्तर्, शर, इक्षु, प्लक्ष, आम्र, कार्ष्य, खदिर, पीयूक्षा›, replacing them with ‹प्र आदिभ्यः›.",
+   "oldProblem": "The carried sthānin ‹वनशब्दस्य› and the sūtra word ‹असंज्ञायाम् अपि› are both omitted.",
+   "should": "संज्ञायामसंज्ञायां च विषये प्र, निर्, अन्तर्, शर, इक्षु, प्लक्ष, आम्र, कार्ष्य, खदिर, पीयूक्षा इत्येतेभ्यः उत्तरस्य वनशब्दस्य नकारस्य स्थाने णकारादेशः भवति"
+  },
+  "8.2.55": {
+   "newProblem": "The phrase ‹अनुपसर्गात् परस्य› has an ungrammatical dangling genitive instead of expressing the condition ‹उपसर्गाभावे› or ‹अनुपसर्गादुत्तराः›.",
+   "oldProblem": "The sūtra condition ‹अनुपसर्गात्› is omitted.",
+   "should": "उपसर्गरहितानाम् (अनुपसर्गादुत्तराः) फुल्ल, क्षीब, कृश, उल्लाघ इत्येते शब्दाः निपात्यन्ते।"
+  },
+  "8.4.61": {
+   "newProblem": "‹पूर्वस्य› is construed as an adjective to the sthānin ‹स्थास्तम्भोः› instead of combining with ‹सवर्णः› to form the substitute ‹पूर्वसवर्णः›.",
+   "oldProblem": "The word पूर्वस्य specifies the substitute (पूर्वसवर्णः), not the sthānin (‹पूर्वस्य स्थाने›).",
+   "should": "उदः परयोः स्थास्तम्भोः स्थाने पूर्वसवर्णादेशः भवति"
+  },
+  "8.4.62": {
+   "newProblem": "The carried word ‹पूर्वस्य› is treated as a qualifier of the sthānin ‹हकारस्य› rather than forming the substitute ‹पूर्वसवर्णादेशः›.",
+   "oldProblem": "The substitute for हकार is पूर्वसवर्णः, not परसवर्णः.",
+   "should": "झयः परस्य हकारस्य स्थाने विकल्पेन पूर्वसवर्णादेशः भवति"
+  },
+  "8.4.17": {
+   "newProblem": "The sūtra words ‹नद-पत-पद-घु-मा-स्यति-हन्ति-याति-वाति-द्राति-प्साति-वपति-वहति-शाम्यति-चिनोति-देग्धिषु› are dropped and replaced by ‹गदादिषु›.",
+   "oldProblem": "The entire list of verbal forms ‹गदनदपतपदघुमास्यतिहन्तियातिवातिद्रातिप्सातिवपतिवहतिशाम्यतिचिनोतिदेग्धिषु› is omitted.",
+   "should": "गद-नद-पत-पद-घु-मा-स्यति-हन्ति-याति-वाति-द्राति-प्साति-वपति-वहति-शाम्यति-चिनोति-देग्धि इत्येतेषु परतः उपसर्गस्थान्निमित्तादुत्तरस्य नेर्नकारस्य णकारादेशो भवति"
+  },
+  "3.4.117": {
+   "newProblem": "The sūtra word ‹उभयथा› is omitted, leaving a garbled statement of the saṃjñās.",
+   "oldProblem": "The gloss names only 'आर्धधातुकम्', dropping 'सार्वधातुकम्' which is essential to the meaning of ‹उभयथा›.",
+   "should": "छन्दसि विषये धात्वधिकारे विहितः प्रत्ययः उभयथा सार्वधातुकसंज्ञकः आर्धधातुकसंज्ञकः च भवति"
+  },
+  "2.3.37": {
+   "newProblem": "The base from which saptamī occurs (‹तस्मात् / ततो भाववतः›) is missing and ‹भावलक्षणम्› is misconstrued as a condition ‹लक्षणे›.",
+   "oldProblem": "The instrumental ‹भावेन› is wrongly treated as an upapada condition ('भावेन योगे') instead of the indicating action ('क्रियया क्रियान्तरं लक्ष्यते').",
+   "should": "यस्य क्रियया क्रियान्तरं लक्ष्यते तस्मात् भाववतः सप्तमी विभक्तिः भवति"
+  },
+  "1.1.75": {
+   "newProblem": "The carried condition ‹यस्याचामादिः› is missing, wrongly making the vowels ‹ए ओ› themselves the saṃjñin instead of the word whose first vowel is eṅ.",
+   "oldProblem": "The saṃjñā ‹वृद्धम्› is wrongly assigned to the vowels e and o ('ए ओ इति एतयोः वर्णयोः') instead of the word whose first vowel is eṅ ('यस्याचामादिः एङ्').",
+   "should": "प्राचां देशाभिधाने यस्य शब्दरूपस्य अचामादिः एङ् भवति तस्य वृद्धसंज्ञा भवति"
+  },
+  "4.1.97": {
+   "newProblem": "The base is ‹सुधातृ› (not ‹सुधातु›) and ‹अकङ्› replaces ‹सुधातृ›.",
+   "oldProblem": "The substitute ‹अकङ्› is treated as the meaning of the suffix ('अकङ् इत्येतस्मिन्नर्थे') while the carried meaning ‹अपत्ये› is dropped.",
+   "should": "सुधातृप्रातिपदिकात् षष्ठीसमर्थात् अपत्ये अर्थे इञ् प्रत्ययः परः च भवति, तस्य अकङ् आदेशः च भवति"
+  },
+  "6.4.16": {
+   "newProblem": "The gloss has ‹गेश्च› instead of ‹गमेः› for the root गम्.",
+   "oldProblem": "The gloss adds spurious conditioning suffixes ('क्वौ' and 'क्ङिति') and wrongly applies lengthening to the 'उपधा' of ajanta stems.",
+   "should": "झलादौ सनि परे अजन्तानाम् अङ्गानां हन्तेः गमेश्च अङ्गस्य स्थाने दीर्घः आदेशः भवति"
+  },
+  "7.1.102": {
+   "newProblem": "The phrase ‹ओष्ठ्यपूर्वस्य ऋकारात् तदन्तस्य› is syntactically garbled because ‹यस्मात्› was omitted while keeping the ablative ‹ऋकारात्› alongside genitive ‹ओष्ठ्यपूर्वस्य›.",
+   "oldProblem": "The gloss omits the carried item 'ऋतः' (ऋकारस्य), making the entire aṅga the place of substitution.",
+   "should": "ओष्ठ्यः पूर्वो यस्मात् ऋकारात् तदन्तस्य धातोः अङ्गस्य स्थाने उकारादेशः भवति"
+  },
+  "7.3.11": {
+   "newProblem": "The carried condition 'किति' is missing from the gloss.",
+   "oldProblem": "The carried adhikāra 'उत्तरपदस्य' and condition 'किति' are dropped, and 'ऋतोः' is misconstrued.",
+   "should": "अवयववाचिनः पूर्वपदात् उत्तरस्य ऋतुवाचिनः उत्तरपदस्य अचामादेरचः स्थाने तद्धिते ञिति णिति किति च परे वृद्धिः भवति"
+  },
+  "7.3.114": {
+   "newProblem": "The sthānin for ‹ह्रस्वः› (‹सर्वनाम्नः / अङ्गस्य›) is dropped, leaving ‹ङितः प्रत्ययस्य› as the apparent target of the hrasva substitute.",
+   "oldProblem": "The sūtra word 'स्याट्' (the augment to ङित्) is completely dropped.",
+   "should": "सर्वनाम्नः आबन्तात् अङ्गात् परस्य ङितः प्रत्ययस्य स्याडागमः, सर्वनाम्नः अङ्गस्य च ह्रस्वः आदेशः भवति"
+  },
+  "7.3.44": {
+   "newProblem": "'असुपः' qualifies 'आपि' ('स चेदाप् सुपः परो न भवति'), but our gloss construes it with 'अकारस्य'.",
+   "oldProblem": "The word 'धातोः' is wrongly introduced as the base, and 'कात्' is misread as 'कान्तात् अङ्गात्'.",
+   "should": "प्रत्ययस्थात् ककारात् पूर्वस्य अकारस्य स्थाने आपि परतः स चेदाप् सुपः परो न भवति इकारादेशः भवति"
+  },
+  "7.3.47": {
+   "newProblem": "Both references state that ittvam does not occur ('इत्त्वं न भवति'), but our gloss states that it occurs ('इत् आदेशः भवति').",
+   "oldProblem": "The rule is an optional prohibition of ittvam, but the gloss treats 'भस्त्रैषा...' as a substitute.",
+   "should": "भस्त्रैषाऽजाज्ञाद्वास्वानां नञ्पूर्वाणाम् अनञ्पूर्वाणां च आतः स्थाने योऽकारः तस्य उदीचां मतेन इत्त्वं न भवति"
+  },
+  "7.3.48": {
+   "newProblem": "Both references state that ittvam does not occur ('इकारादेशो न भवति'), but our gloss states that it occurs ('इकारादेशः भवति').",
+   "oldProblem": "The rule optionally prohibits ittvam, but the gloss states that 'इ' occurs.",
+   "should": "अभाषितपुंस्कात् शब्दाद् विहितस्य आतः स्थाने योऽकारः तस्य उदीचां मतेन इकारादेशो न भवति"
+  }
+ }
+}

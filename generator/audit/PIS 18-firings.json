@@ -1,0 +1,28 @@
+{
+ "pid": "PIS 18",
+ "howGrouped": "case of the triggering word (own sūtra words only) | rule kind | start of the engine trigger text; member = \"<sūtra> <word>  ⟨engine effect⟩\"",
+ "applies": 1,
+ "consideredNotApplicable": 0,
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | ādeśa | X (… from …, 6.1.109)",
+   "count": 1,
+   "sutras": [
+    "6.1.131 only part of an earlier word runs on  ⟨only part of an earlier word runs on (पद from पदान्तात्, 6.1.109) — का⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.131",
+     "word": "only part of an earlier word runs on",
+     "trigger": "only part of an earlier word runs on (पद from पदान्तात्, 6.1.109)",
+     "effect": "only part of an earlier word runs on (पद from पदान्तात्, 6.1.109) — काशिका: “… [6.1.109] इत्यतः पदग्रहणमनुवर्तते”",
+     "sutra": "दिव उत्",
+     "ourVrtti": "पदस्य दिवः प्रातिपदिकस्य स्थाने उकारादेशः भवति",
+     "kashika": "दिवः पदस्योकारादेशो भवति।",
+     "prathamavrtti": "दिवः पदस्य उकारादेशो भवति ॥"
+    }
+   ]
+  }
+ ]
+}

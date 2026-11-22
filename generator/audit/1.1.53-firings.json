@@ -1,0 +1,559 @@
+{
+ "pid": "1.1.53",
+ "howGrouped": "case of the triggering word (own sūtra words only) | rule kind | start of the engine trigger text; member = \"<sūtra> <word>  ⟨engine effect⟩\"",
+ "applies": 48,
+ "consideredNotApplicable": 0,
+ "groups": [
+  {
+   "id": "G1",
+   "group": "named by a commentator | ādeśa | X",
+   "count": 12,
+   "sutras": [
+    "2.4.53 named by सिद्धान्तकौमुदी  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+    "3.1.83 named by महाभाष्यम्  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+    "4.1.78 named by न्यासः  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+    "6.1.123 named by बालमनोरमा  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+    "6.3.25 named by महाभाष्यम्  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+    "7.1.18 named by काशिका  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+    "7.1.35 named by न्यासः  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+    "7.1.93 named by सिद्धान्तकौमुदी  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+    "7.1.94 named by बालमनोरमा  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+    "7.2.101 named by तत्त्वबोधिनी  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+    "7.4.27 named by बालमनोरमा  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+    "8.4.61 named by न्यासः  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.4.53",
+     "word": "named by सिद्धान्तकौमुदी",
+     "trigger": "named by सिद्धान्तकौमुदी",
+     "effect": "a ङित् replacement replaces only the last sound, even if it has several sounds",
+     "sutra": "ब्रुवो वचिः",
+     "ourVrtti": "आर्धधातुके विषये ब्रुवः स्थाने वचिः आदेशः भवति",
+     "kashika": "ब्रुवो वचिरादेशो भवत्यार्धधातुकविषये।",
+     "prathamavrtti": "आर्धधातुके विषये ब्रूञ्धातोः वचिरादेशो भवति ॥"
+    },
+    {
+     "n": "6.3.25",
+     "word": "named by महाभाष्यम्",
+     "trigger": "named by महाभाष्यम्",
+     "effect": "a ङित् replacement replaces only the last sound, even if it has several sounds",
+     "sutra": "आनङ् ऋतो द्वन्द्वे",
+     "ourVrtti": "द्वन्द्वे समासे उत्तरपदे परे विद्यायोनिसम्बन्धवाचिनाम् ऋकारान्तानां पूर्वपदस्य स्थाने आनङ् आदेशः भवति",
+     "kashika": "ऋकारान्तानां विद्यायोनिसंबन्धवाचिनां यो द्वन्द्वस्तत्रोत्तरपदे पूर्वपदस्यानङादेशो भवति।",
+     "prathamavrtti": "ऋकारान्तानां विद्यायोनिसम्बन्धवाचिनां यो द्वन्द्वस्तत्र पूर्वपदस्यानङ्_आदेशो भवत्युत्तरपदे परतः ॥"
+    },
+    {
+     "n": "7.1.94",
+     "word": "named by बालमनोरमा",
+     "trigger": "named by बालमनोरमा",
+     "effect": "a ङित् replacement replaces only the last sound, even if it has several sounds",
+     "sutra": "ऋदुशनस्पुरुदंसोऽनेहसां च",
+     "ourVrtti": "सौ परे असम्बुद्धौ ऋदन्तानाम् उशनस् पुरुदंसस् अनेहस् इत्येतेषाम् अङ्गानाम् स्थाने अनङ् आदेशः भवति",
+     "kashika": "ऋकारान्तानामङ्गानामुशनस् पुरुदंसस् अनेहस् इत्येतेषां चासंबुद्धौ सौ परतोऽनङादेशो भवति।",
+     "prathamavrtti": "ऋकारान्तानामङ्गा-नाम्, उशनस्, पुरुदंसस्¹, अनेहस् इत्येतेषां चाङ्गानामसंबुद्धौ सौ परतोऽनङादेशो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "group": "own word, data case 1 | ādeśa | X: 1.1.53 … (not 1.1.55 — paribhāṣā audi",
+   "count": 4,
+   "sutras": [
+    "5.4.134 निङ्  ⟨it replaces the WHOLE of the place⟩",
+    "7.1.89 असुङ्  ⟨it replaces the WHOLE of the place⟩",
+    "7.4.27 रीङ्  ⟨it replaces the WHOLE of the place⟩",
+    "7.4.28 रिङ्  ⟨it replaces the WHOLE of the place⟩"
+   ],
+   "samples": [
+    {
+     "n": "5.4.134",
+     "word": "निङ्",
+     "trigger": "निङ्: 1.1.53 ङिच्च (not 1.1.55 — paribhāṣā audit: निङ् is ṅit: it replaces the final of जाया only (युवजानिः keeps जा-).)",
+     "effect": "it replaces the WHOLE of the place",
+     "sutra": "जायाया निङ्",
+     "ourVrtti": "बहुव्रीहेः जाया-शब्दान्तस्य स्थाने निङ् आदेशः भवति",
+     "kashika": "जायाशब्दान्तस्य बहुव्रीहेर्निङादेशो भवति।",
+     "prathamavrtti": "जायाशब्दान्तस्य बहुव्रीहेर्निङ् आदेशो भवति समासान्तः॥"
+    },
+    {
+     "n": "7.1.89",
+     "word": "असुङ्",
+     "trigger": "असुङ्: 1.1.53 ङिच्च (not 1.1.55 — paribhāṣā audit: असुङ् is ṅit and multi-sound: by 1.1.53 it takes only the last sound (स्) of पुंस् — पुमान्, पुमांसौ keep पुम",
+     "effect": "it replaces the WHOLE of the place",
+     "sutra": "पुंसोऽसुङ्",
+     "ourVrtti": "सर्वनामस्थाने परे अङ्गस्य पुंसः स्थाने असुङ् आदेशः भवति",
+     "kashika": "पुंस् इत्येतस्य सर्वनामस्थाने परतोऽसुङित्ययमादेशो भवति।",
+     "prathamavrtti": "पुंस इत्येतस्याङ्गस्य सर्वनामस्थाने परतोऽसुङ् इत्ययमादेशो भवति ॥"
+    },
+    {
+     "n": "7.4.27",
+     "word": "रीङ्",
+     "trigger": "रीङ्: 1.1.53 ङिच्च (not 1.1.55 — paribhāṣā audit: रीङ् is ṅit: it replaces the final ऋ only (मात्रीयति, पित्रीयति keep मात्-/पित्-); the Bālamanoramā says \"ङिच्",
+     "effect": "it replaces the WHOLE of the place",
+     "sutra": "रीङ् ऋतः",
+     "ourVrtti": "यकारे परे च्वौ च परे अङ्गस्य अकृत्-असार्वधातुकयोः ऋकारान्तस्य स्थाने रीङ् आदेशः भवति",
+     "kashika": "ऋकारान्तस्य अङ्गस्य अकृद्यकारे असार्वधातुके यकारे च्वौ च परतो रीङित्ययमादेशो भवति।",
+     "prathamavrtti": "ऋकारान्तस्याङ्गस्य अकृद्यकारेऽसार्वधातुकयकारे च्वौ च परतो रीङ् इत्ययमादेशो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G3",
+   "group": "named by a commentator | operation | X",
+   "count": 4,
+   "sutras": [
+    "6.1.68 named by तत्त्वबोधिनी  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+    "6.4.23 named by महाभाष्यम्  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+    "7.3.89 named by न्यासः  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+    "7.3.91 named by सिद्धान्तकौमुदी  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.68",
+     "word": "named by तत्त्वबोधिनी",
+     "trigger": "named by तत्त्वबोधिनी",
+     "effect": "a ङित् replacement replaces only the last sound, even if it has several sounds",
+     "sutra": "हल्ङ्याब्भ्यो दीर्घात् सुतिस्यपृक्तं हल्",
+     "ourVrtti": "हलन्तात् ङ्यन्तात् आबन्तात् च दीर्घात् सु, ति, सि इत्येतेषाम् अपृक्तम् हल् स्थाने लोपः भवति",
+     "kashika": "तदिह लौकिकेनार्थेनार्थवत् कर्मसाधनं द्रष्टव्यम्।",
+     "prathamavrtti": "हलन्ताद् ङ्यन्ताद् आबन्ताच्च दीर्घात् परं सु, ति, सि इत्येतदपृक्तं हल् लुप्यते ॥"
+    },
+    {
+     "n": "6.4.23",
+     "word": "named by महाभाष्यम्",
+     "trigger": "named by महाभाष्यम्",
+     "effect": "a ङित् replacement replaces only the last sound, even if it has several sounds",
+     "sutra": "श्नान्नलोपः",
+     "ourVrtti": "श्नादुत्तरस्य नकारस्य अङ्गस्य स्थाने लोपः भवति",
+     "kashika": "तत उत्तरस्य नकारस्य लोपो भवति।",
+     "prathamavrtti": "श्नादुत्तरस्य नकारस्य लोपो भवति ॥"
+    },
+    {
+     "n": "7.3.89",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a ङित् replacement replaces only the last sound, even if it has several sounds",
+     "sutra": "उतो वृद्धिर्लुकि हलि",
+     "ourVrtti": "हलादौ लुकि सति सार्वधातुके परे पिति अङ्गस्य उकारान्तस्य स्थाने वृद्धिः आदेशः भवति",
+     "kashika": "उकारान्तस्याङ्गस्य वृद्धिर्भवति लुकि सति हलादौ पिति सार्वधातुके।",
+     "prathamavrtti": "उकारान्तस्याङ्गस्य वृद्धिर्भवति लुकि सति हलादौ पिति सार्वधातुके परतः॥"
+    }
+   ]
+  },
+  {
+   "id": "G4",
+   "group": "own word, data case 1 | ādeśa | X: a … substitute of more than one sound",
+   "count": 4,
+   "sutras": [
+    "6.1.123 अवङ्  ⟨it replaces only the last sound⟩",
+    "6.3.25 आनङ्  ⟨it replaces only the last sound⟩",
+    "7.1.35 तातङ्  ⟨it replaces only the last sound⟩",
+    "7.1.93 अनङ्  ⟨it replaces only the last sound⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.123",
+     "word": "अवङ्",
+     "trigger": "अवङ्: a ङित् substitute of more than one sound",
+     "effect": "it replaces only the last sound",
+     "sutra": "अवङ् स्फोटायनस्य",
+     "ourVrtti": "अचि परे गोः स्थाने स्फोटायनस्य आचार्यस्य मतेन विकल्पेन अवङ् आदेशः भवति",
+     "kashika": "अचि परतो गोः स्फोटायनस्याचार्यस्य मतेनावङादेशो भवति।",
+     "prathamavrtti": "स्फोटायनस्याचार्यस्य मतेनाचि परतो गोरवङादेशो भवति, विकल्पेन ॥"
+    },
+    {
+     "n": "6.3.25",
+     "word": "आनङ्",
+     "trigger": "आनङ्: a ङित् substitute of more than one sound",
+     "effect": "it replaces only the last sound",
+     "sutra": "आनङ् ऋतो द्वन्द्वे",
+     "ourVrtti": "द्वन्द्वे समासे उत्तरपदे परे विद्यायोनिसम्बन्धवाचिनाम् ऋकारान्तानां पूर्वपदस्य स्थाने आनङ् आदेशः भवति",
+     "kashika": "ऋकारान्तानां विद्यायोनिसंबन्धवाचिनां यो द्वन्द्वस्तत्रोत्तरपदे पूर्वपदस्यानङादेशो भवति।",
+     "prathamavrtti": "ऋकारान्तानां विद्यायोनिसम्बन्धवाचिनां यो द्वन्द्वस्तत्र पूर्वपदस्यानङ्_आदेशो भवत्युत्तरपदे परतः ॥"
+    },
+    {
+     "n": "7.1.35",
+     "word": "तातङ्",
+     "trigger": "तातङ्: a ङित् substitute of more than one sound",
+     "effect": "it replaces only the last sound",
+     "sutra": "तुह्योस्तातङ्ङाशिष्यन्यतरस्याम्",
+     "ourVrtti": "आशिषि विषये तु हि इत्येतयोः स्थाने अङ्गस्य स्थाने विकल्पेन तातङ् आदेशः भवति",
+     "kashika": "तु हि इत्येतयोराशिषि विषये तातङादेशो भवत्यन्यतरस्याम्।",
+     "prathamavrtti": "आशिषि विषये तु हि इत्येतयोः तातङ् आदेशो भवति, विकल्पेन ॥"
+    }
+   ]
+  },
+  {
+   "id": "G5",
+   "group": "carried / not a sūtra word | āgama | X: a … substitute of more than one sound",
+   "count": 4,
+   "sutras": [
+    "6.4.78 इयङ्-उवङौ  ⟨it replaces only the last sound⟩",
+    "6.4.79 इयङ्  ⟨it replaces only the last sound⟩",
+    "6.4.80 इयङ्  ⟨it replaces only the last sound⟩",
+    "7.1.76 अनङ्  ⟨it replaces only the last sound⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.78",
+     "word": "इयङ्-उवङौ",
+     "trigger": "इयङ्-उवङौ: a ङित् substitute of more than one sound",
+     "effect": "it replaces only the last sound",
+     "sutra": "अभ्यासस्यासवर्णे",
+     "ourVrtti": "असवर्णे अचि परे इवर्णान्तस्य उवर्णान्तस्य च अभ्यासस्य अङ्गस्य स्थाने इयङ्-उवङौ आदेशः भवतः",
+     "kashika": "अभ्यासस्येवर्णोवर्णान्तस्यासवर्णेऽचि परत इयङ् उवङ् इत्येतावादेशौ भवतः।",
+     "prathamavrtti": "इवर्णान्तस्योवर्णान्तस्याभ्यासस्य असवर्णेऽचि परत इयङ् उवङ् इत्येतावादेशौ भवतः ॥"
+    },
+    {
+     "n": "6.4.79",
+     "word": "इयङ्",
+     "trigger": "इयङ्: a ङित् substitute of more than one sound",
+     "effect": "it replaces only the last sound",
+     "sutra": "स्त्रियाः",
+     "ourVrtti": "अजादौ प्रत्यये परे स्त्री इत्येतस्य अङ्गस्य स्थाने इयङ् आदेशः भवति",
+     "kashika": "स्त्री इत्येतस्याजादौ प्रत्यये परत इयङादेशो भवति।",
+     "prathamavrtti": "स्त्री इत्येतस्य अजादौ प्रत्यये परत इयङादेशो भवति ॥"
+    },
+    {
+     "n": "6.4.80",
+     "word": "इयङ्",
+     "trigger": "इयङ्: a ङित् substitute of more than one sound",
+     "effect": "it replaces only the last sound",
+     "sutra": "वाऽम्शसोः",
+     "ourVrtti": "अमि शसि च परे स्त्रियाः अङ्गस्य स्थाने विकल्पेन इयङ् आदेशः भवति",
+     "kashika": "अमि शसि परतः स्त्रिया वेयङादेशो भवति।",
+     "prathamavrtti": "अमि शसि च परतः स्त्रियाः वा इयङादेशो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G6",
+   "group": "named by a commentator | vidhi | X",
+   "count": 3,
+   "sutras": [
+    "4.1.15 named by बालमनोरमा  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+    "4.3.97 named by न्यासः  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+    "5.4.131 named by बालमनोरमा  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩"
+   ],
+   "samples": [
+    {
+     "n": "4.1.15",
+     "word": "named by बालमनोरमा",
+     "trigger": "named by बालमनोरमा",
+     "effect": "a ङित् replacement replaces only the last sound, even if it has several sounds",
+     "sutra": "टिड्ढाणञ्द्वयसज्दघ्नञ्मात्रच्तयप्ठक्ठञ्कञ्क्वरपः",
+     "ourVrtti": "अनुपसर्जनेभ्यः टिदादिप्रत्ययान्तेभ्यः प्रातिपदिकेभ्यः स्त्रियाम् ङीप् प्रत्ययः परः च भवति",
+     "kashika": "टिदादिभ्यः प्रातिपदिकेभ्यः स्त्रियां ङीप् प्रत्ययो भवति।",
+     "prathamavrtti": "टित्, ढ, अण्, अञ्, द्वयसच्, दघ्नच्, मात्रच्, तयप्, ठक्, ठञ्, कञ्, क्वरप् इत्येवमन्तेभ्योऽनुपसर्जनेभ्यः प्रातिपदिकेभ्यः स्त्रियां ङीप् प्रत्ययो भवति॥"
+    },
+    {
+     "n": "4.3.97",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a ङित् replacement replaces only the last sound, even if it has several sounds",
+     "sutra": "महाराजाट्ठञ्",
+     "ourVrtti": "महाराजशब्दात् प्रथमासमर्थात् षष्ठ्यर्थे भक्तिः इत्यर्थे ठञ् प्रत्ययः परः च भवति",
+     "kashika": "महाराजशब्दाट् ठञ् प्रत्ययो भवति सोऽस्य भक्तिरित्येतस्मिन् विषये।",
+     "prathamavrtti": "प्रथमासमर्थाद् भक्तिसमानाधिकरणात् महाराजात् प्रातिपदिकात् षष्ठ्यर्थे ठञ् प्रत्ययो भवति॥"
+    },
+    {
+     "n": "5.4.131",
+     "word": "named by बालमनोरमा",
+     "trigger": "named by बालमनोरमा",
+     "effect": "a ङित् replacement replaces only the last sound, even if it has several sounds",
+     "sutra": "ऊधसोऽनङ्",
+     "ourVrtti": "बहुव्रीहेः ऊधः-शब्दान्तस्य स्थाने अनङ् आदेशः भवति",
+     "kashika": "ऊधःशब्दान्तस्य बहुव्रीहेरनङादेशो भवति समासान्तः।",
+     "prathamavrtti": "ऊधः शब्दान्तस्य बहुव्रीहेः समासान्तोऽनङादेशो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G7",
+   "group": "named by a commentator | adhikāra | X",
+   "count": 2,
+   "sutras": [
+    "3.1.3 named by महाभाष्यम्  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+    "3.1.91 named by महाभाष्यम्  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.3",
+     "word": "named by महाभाष्यम्",
+     "trigger": "named by महाभाष्यम्",
+     "effect": "a ङित् replacement replaces only the last sound, even if it has several sounds",
+     "sutra": "आद्युदात्तश्च",
+     "ourVrtti": "आद्युदात्तः इति अधिकारः",
+     "kashika": "आद्युदात्तश्च स भवति यः प्रत्ययसंज्ञः।",
+     "prathamavrtti": "यस्य प्रत्ययसंज्ञा विहिता सः प्रत्यय आद्युदात्तोऽपि भवति ॥"
+    },
+    {
+     "n": "3.1.91",
+     "word": "named by महाभाष्यम्",
+     "trigger": "named by महाभाष्यम्",
+     "effect": "a ङित् replacement replaces only the last sound, even if it has several sounds",
+     "sutra": "धातोः",
+     "ourVrtti": "धातोः इति अधिकारः",
+     "kashika": "धातोरित्ययमधिकारो वेदितव्यः।",
+     "prathamavrtti": "आ तृतीयाध्यायपरिसमाप्तेः (३।४।११७), धातोरित्ययमधिकारो वेदितव्यः॥"
+    }
+   ]
+  },
+  {
+   "id": "G8",
+   "group": "named by a commentator | āgama | X",
+   "count": 2,
+   "sutras": [
+    "3.4.103 named by काशिका  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+    "6.4.77 named by सिद्धान्तकौमुदी  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.4.103",
+     "word": "named by काशिका",
+     "trigger": "named by काशिका",
+     "effect": "a ङित् replacement replaces only the last sound, even if it has several sounds",
+     "sutra": "यासुट् परस्मैपदेषूदात्तो ङिच्च",
+     "ourVrtti": "परस्मैपदविषये लिङः यासुट् आगमः उदात्तः ङिद्वत् भवति",
+     "kashika": "परस्मैपदविषयस्य लिङो यासुडागमो भवति, स चोदात्तो भवति, ङिच्च।",
+     "prathamavrtti": "परस्मैपदविषयस्य लिङो यासुडागमो भवति, स चोदात्तो भवति ङिच्च ॥"
+    },
+    {
+     "n": "6.4.77",
+     "word": "named by सिद्धान्तकौमुदी",
+     "trigger": "named by सिद्धान्तकौमुदी",
+     "effect": "a ङित् replacement replaces only the last sound, even if it has several sounds",
+     "sutra": "अचि श्नुधातुभ्रुवां य्वोरियङुवङौ",
+     "ourVrtti": "अचि परे श्नुप्रत्ययान्तस्य धातोः भ्रूवश्च अङ्गस्य इवर्णोवर्णयोः स्थाने इयङ् उवङ् आदेशौ यथासङ्ख्यम् भवतः",
+     "kashika": "श्नुप्रत्ययान्तस्याङ्गस्य धातोरिवर्णोवर्णान्तस्य भ्रू इत्येतस्य च इयङ् उवङ् इत्येतावादेशौ भवतोऽजादौ प्रत्यये परतः।",
+     "prathamavrtti": "श्नुप्रत्ययान्तस्य इवर्णोवर्णान्तधातोः भ्रू इत्येतस्य चाङ्गस्य इयङ् उवङ् इत्येतावादेशौ भवतोऽचि परतः॥"
+    }
+   ]
+  },
+  {
+   "id": "G9",
+   "group": "own word, data case 1 | vidhi | X: a … substitute of more than one sound",
+   "count": 2,
+   "sutras": [
+    "4.1.97 अकङ्  ⟨it replaces only the last sound⟩",
+    "5.4.131 अनङ्  ⟨it replaces only the last sound⟩"
+   ],
+   "samples": [
+    {
+     "n": "4.1.97",
+     "word": "अकङ्",
+     "trigger": "अकङ्: a ङित् substitute of more than one sound",
+     "effect": "it replaces only the last sound",
+     "sutra": "सुधातुरकङ् च",
+     "ourVrtti": "सुधातृप्रातिपदिकात् षष्ठीसमर्थात् अपत्ये अर्थे इञ् प्रत्ययः परः च भवति, तस्य अकङ् आदेशः च भवति",
+     "kashika": "सुधातृशब्दादपत्य इञ् प्रत्ययो भवति, तत्सन्नियोगेन च तस्याकङादेशो भवति।",
+     "prathamavrtti": "सुधातुप्रातिपदिकात् तस्यापत्यमित्येतस्मिन्नर्थे इञ् प्रत्ययो भवति, तत्सन्नियोगेन चाकङ् आदेशो भवति ॥"
+    },
+    {
+     "n": "5.4.131",
+     "word": "अनङ्",
+     "trigger": "अनङ्: a ङित् substitute of more than one sound",
+     "effect": "it replaces only the last sound",
+     "sutra": "ऊधसोऽनङ्",
+     "ourVrtti": "बहुव्रीहेः ऊधः-शब्दान्तस्य स्थाने अनङ् आदेशः भवति",
+     "kashika": "ऊधःशब्दान्तस्य बहुव्रीहेरनङादेशो भवति समासान्तः।",
+     "prathamavrtti": "ऊधः शब्दान्तस्य बहुव्रीहेः समासान्तोऽनङादेशो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G10",
+   "group": "carried / not a sūtra word | vidhi | X: a … substitute of more than one sound",
+   "count": 2,
+   "sutras": [
+    "5.4.132 अनङ्  ⟨it replaces only the last sound⟩",
+    "5.4.133 अनङ्  ⟨it replaces only the last sound⟩"
+   ],
+   "samples": [
+    {
+     "n": "5.4.132",
+     "word": "अनङ्",
+     "trigger": "अनङ्: a ङित् substitute of more than one sound",
+     "effect": "it replaces only the last sound",
+     "sutra": "धनुषश्च",
+     "ourVrtti": "बहुव्रीहेः धनुः-शब्दान्तस्य स्थाने अनङ् आदेशः भवति",
+     "kashika": "धनुःशब्दान्तस्य बहुव्रीहेरनङादेशो भवति समासान्तः।",
+     "prathamavrtti": "धनुः शब्दान्तस्य बहुव्रीहेः समासान्तोऽनङ् आदेशो भवति ॥"
+    },
+    {
+     "n": "5.4.133",
+     "word": "अनङ्",
+     "trigger": "अनङ्: a ङित् substitute of more than one sound",
+     "effect": "it replaces only the last sound",
+     "sutra": "वा संज्ञायाम्",
+     "ourVrtti": "संज्ञायाम् विषये बहुव्रीहेः धनुः-शब्दान्तस्य स्थाने विकल्पेन अनङ् आदेशः भवति",
+     "kashika": "धनुःशब्दान्ताद् बहुव्रीहेरनङादेशो वा भवति संज्ञायां विषये।",
+     "prathamavrtti": "संज्ञायां विषये धनुः शब्दान्तस्य बहुव्रीहेरनङ् आदेशो वा भवति समासान्तः॥"
+    }
+   ]
+  },
+  {
+   "id": "G11",
+   "group": "carried / not a sūtra word | ādeśa | X: a … substitute of more than one sound",
+   "count": 2,
+   "sutras": [
+    "6.3.26 आनङ्  ⟨it replaces only the last sound⟩",
+    "7.1.94 अनङ्  ⟨it replaces only the last sound⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.3.26",
+     "word": "आनङ्",
+     "trigger": "आनङ्: a ङित् substitute of more than one sound",
+     "effect": "it replaces only the last sound",
+     "sutra": "देवताद्वन्द्वे च",
+     "ourVrtti": "देवताद्वन्द्वे समासे उत्तरपदे परे पूर्वपदस्य स्थाने आनङ् आदेशः भवति",
+     "kashika": "देवतावाचिनां यो द्वन्द्वस्तत्रोत्तरपदे पूर्वपदस्यानङादेशो भवति।",
+     "prathamavrtti": "देवतावाचिनां यो द्वन्द्वस्तत्रोत्तरपदे पूर्वपदस्यानङादेशो भवति ॥"
+    },
+    {
+     "n": "7.1.94",
+     "word": "अनङ्",
+     "trigger": "अनङ्: a ङित् substitute of more than one sound",
+     "effect": "it replaces only the last sound",
+     "sutra": "ऋदुशनस्पुरुदंसोऽनेहसां च",
+     "ourVrtti": "सौ परे असम्बुद्धौ ऋदन्तानाम् उशनस् पुरुदंसस् अनेहस् इत्येतेषाम् अङ्गानाम् स्थाने अनङ् आदेशः भवति",
+     "kashika": "ऋकारान्तानामङ्गानामुशनस् पुरुदंसस् अनेहस् इत्येतेषां चासंबुद्धौ सौ परतोऽनङादेशो भवति।",
+     "prathamavrtti": "ऋकारान्तानामङ्गा-नाम्, उशनस्, पुरुदंसस्¹, अनेहस् इत्येतेषां चाङ्गानामसंबुद्धौ सौ परतोऽनङादेशो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G12",
+   "group": "own word, data case 1 | āgama | X: a … substitute of more than one sound",
+   "count": 2,
+   "sutras": [
+    "6.4.77 इयङ्-उवङौ  ⟨it replaces only the last sound⟩",
+    "7.1.75 अनङ्  ⟨it replaces only the last sound⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.77",
+     "word": "इयङ्-उवङौ",
+     "trigger": "इयङ्-उवङौ: a ङित् substitute of more than one sound",
+     "effect": "it replaces only the last sound",
+     "sutra": "अचि श्नुधातुभ्रुवां य्वोरियङुवङौ",
+     "ourVrtti": "अचि परे श्नुप्रत्ययान्तस्य धातोः भ्रूवश्च अङ्गस्य इवर्णोवर्णयोः स्थाने इयङ् उवङ् आदेशौ यथासङ्ख्यम् भवतः",
+     "kashika": "श्नुप्रत्ययान्तस्याङ्गस्य धातोरिवर्णोवर्णान्तस्य भ्रू इत्येतस्य च इयङ् उवङ् इत्येतावादेशौ भवतोऽजादौ प्रत्यये परतः।",
+     "prathamavrtti": "श्नुप्रत्ययान्तस्य इवर्णोवर्णान्तधातोः भ्रू इत्येतस्य चाङ्गस्य इयङ् उवङ् इत्येतावादेशौ भवतोऽचि परतः॥"
+    },
+    {
+     "n": "7.1.75",
+     "word": "अनङ्",
+     "trigger": "अनङ्: a ङित् substitute of more than one sound",
+     "effect": "it replaces only the last sound",
+     "sutra": "अस्थिदधिसक्थ्यक्ष्णामनङुदात्तः",
+     "ourVrtti": "विभक्तिषु परे नपुंसकानाम् तृतीयादिषु अजादिषु अस्थि-दधि-सक्थि-अक्षि इत्येतेषाम् अङ्गस्य स्थाने अनङ् आदेशः उदात्तः भवति",
+     "kashika": "अस्थि दधि सक्थि अक्षि इत्येतेषां नपुंसकानां तृतीयादिष्वजादिषु विभक्तिषु परतोऽनङित्ययमादेशो भवति, स चोदात्तो भवति।",
+     "prathamavrtti": "अस्थि, दधि, सक्थि, अक्षि इत्येतेषां नपुंसकानामङ्गानां तृतीयादिष्वजादिषु विभक्तिषु परतोऽनङ् इत्ययमादेशो भवति, स चोदात्तो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G13",
+   "group": "named by a commentator | niṣedha | X",
+   "count": 1,
+   "sutras": [
+    "1.1.5 named by न्यासः  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.1.5",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a ङित् replacement replaces only the last sound, even if it has several sounds",
+     "sutra": "क्ङिति च",
+     "ourVrtti": "क्ङिति परे इकः स्थाने गुणवृद्धी आदेशः न भवति",
+     "kashika": "क्ङिन्निमित्ते ये गुणवृद्धी प्राप्नुतः ते न भवतः (म० भा०)।",
+     "prathamavrtti": "गित्-कित्-ङित्-निमित्तके इकः स्थाने ये गुणवृद्धी प्राप्नुतस्ते न भवतः ।"
+    }
+   ]
+  },
+  {
+   "id": "G14",
+   "group": "named by a commentator | atideśa | X",
+   "count": 1,
+   "sutras": [
+    "3.4.87 named by न्यासः  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.4.87",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a ङित् replacement replaces only the last sound, even if it has several sounds",
+     "sutra": "सेर्ह्यपिच्च",
+     "ourVrtti": "लोडादेशस्य अपित् च सिपः स्थाने हि आदेशः भवति",
+     "kashika": "लोडादेशस्य सेर्हीत्ययमादेशो भवति, अपिच्च भवति।",
+     "prathamavrtti": "लोडादेशस्य सिपः स्थाने ‹हि› इत्ययमादेशो भवति, अपिच्च भवति स आदेशः ॥"
+    }
+   ]
+  },
+  {
+   "id": "G15",
+   "group": "carried / not a sūtra word | svara | X: a … substitute of more than one sound",
+   "count": 1,
+   "sutras": [
+    "6.1.124 अवङ्  ⟨it replaces only the last sound⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.124",
+     "word": "अवङ्",
+     "trigger": "अवङ्: a ङित् substitute of more than one sound",
+     "effect": "it replaces only the last sound",
+     "sutra": "इन्द्रे च",
+     "ourVrtti": "इन्द्रशब्दे परे अचि गोः स्थाने अवङ् आदेशः भवति",
+     "kashika": "इन्द्रशब्दस्थेऽचि परतो गोर्नित्यमवङादेशो भवति।",
+     "prathamavrtti": "इन्द्रशब्दस्थेऽचि परतो गोरवङादेशो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G16",
+   "group": "named by a commentator | āgama | X (English)",
+   "count": 1,
+   "sutras": [
+    "7.2.10 named by Vasu  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.2.10",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "a ङित् replacement replaces only the last sound, even if it has several sounds",
+     "sutra": "एकाच उपदेशेऽनुदात्तात्",
+     "ourVrtti": "उपदेशे एकाचः धातोः परस्य अनुदात्तात् इट् आगमः न भवति",
+     "kashika": "उपदेशे य एकाच् धातुरनुदात्तश्च तस्मादिडागमो न भवति।",
+     "prathamavrtti": "उपदेशे यो धातुरेकाच् अनुदात्तश्च तस्माद् इडागमो न भवति।"
+    }
+   ]
+  },
+  {
+   "id": "G17",
+   "group": "carried / not a sūtra word | ādeśa | X: 1.1.53 … (not 1.1.55 — paribhāṣā audi",
+   "count": 1,
+   "sutras": [
+    "7.4.22 अ-यङ्  ⟨it replaces the WHOLE of the place⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.4.22",
+     "word": "अ-यङ्",
+     "trigger": "अ-यङ्: 1.1.53 ङिच्च (not 1.1.55 — paribhāṣā audit: अयङ् is ṅit: it replaces only the last sound ई of शी (Kāśikā examples शय्यते, शाशय्यते keep श-).)",
+     "effect": "it replaces the WHOLE of the place",
+     "sutra": "अयङ् यि क्ङिति",
+     "ourVrtti": "यकारादौ क्ङिति प्रत्यये परे अङ्गस्य शीङः स्थाने अयङ् आदेशः भवति",
+     "kashika": "यकारादौ क्ङिति प्रत्यये परतः शीङः अङ्गस्य अयङित्ययमादेशो भवति।",
+     "prathamavrtti": "यकारादौ क्ङिति प्रत्यये परतः शीङोऽङ्गस्य अयङ् इत्ययमादेशो भवति ॥"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,376 @@
+{
+ "pid": "1.1.69",
+ "howGrouped": "case of the triggering word (own sūtra words only) | rule kind | start of the engine trigger text; member = \"<sūtra> <word>  ⟨engine effect⟩\"",
+ "applies": 31,
+ "consideredNotApplicable": 0,
+ "groups": [
+  {
+   "id": "G1",
+   "group": "named by a commentator | saṃjñā | X",
+   "count": 6,
+   "sutras": [
+    "1.1.1 named by न्यासः  ⟨aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)⟩",
+    "1.1.9 named by बालमनोरमा  ⟨aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)⟩",
+    "1.1.10 named by न्यासः  ⟨aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)⟩",
+    "1.1.73 named by न्यासः  ⟨aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)⟩",
+    "1.2.27 named by महाभाष्यम्  ⟨aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)⟩",
+    "1.3.5 named by न्यासः  ⟨aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.1.1",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)",
+     "sutra": "वृद्धिरादैच्",
+     "ourVrtti": "आ ऐ औ इति एतेषाम् वर्णानाम् 'वृद्धिः' इति संज्ञा भवति",
+     "kashika": "वृद्धि-शब्दः संज्ञात्वेन विधीयते प्रत्येकमादैचां वर्णानां सामान्येन तद्भावितानाम्, अतद्भावितानाञ्च।",
+     "prathamavrtti": "आ ऐ औ इत्येतेषां वर्णानां वृद्धिसंज्ञा भवति ॥"
+    },
+    {
+     "n": "1.1.10",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)",
+     "sutra": "नाज्झलौ",
+     "ourVrtti": "अच्-हलौ 'सवर्णसंज्ञकौ' इति संज्ञा न भवति",
+     "kashika": "तुल्यास्यप्रयत्नावपि अज्झलौ परस्परं सवर्णसंज्ञौ न भवतः।",
+     "prathamavrtti": "तुल्यास्यप्रयत्नावपि अच्-हलौ परस्परं सवर्णसंज्ञकौ न भवतः ॥"
+    },
+    {
+     "n": "1.2.27",
+     "word": "named by महाभाष्यम्",
+     "trigger": "named by महाभाष्यम्",
+     "effect": "aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)",
+     "sutra": "ऊकालोऽज्झ्रस्वदीर्घप्लुतः",
+     "ourVrtti": "उ-ऊ-उ३ इत्येवंकालः अच् 'ह्रस्व-दीर्घ-प्लुत-संज्ञकः' इति संज्ञा यथासङ्ख्यम् भवति",
+     "kashika": "उ ऊ ऊ३ इत्येवंकालोऽज् यथाक्रमं ह्रस्वदीर्घप्लुतः इत्येवंसंज्ञो भवति।",
+     "prathamavrtti": "उ ऊ उ३ इत्येवंकालो योऽच् स यथासङ्ख्यं ह्रस्वदीर्घप्लुतसंज्ञको भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "group": "own word, data case 5 | vidhi | X: … sound",
+   "count": 6,
+   "sutras": [
+    "3.1.98 पोः  ⟨पु = the whole पवर्ग⟩",
+    "3.2.183 पुवः  ⟨पु = the whole पवर्ग⟩",
+    "3.2.185 पुवः  ⟨पु = the whole पवर्ग⟩",
+    "5.3.59 तुः  ⟨तु = the whole तवर्ग⟩",
+    "5.4.105 कु-महद्भ्याम्  ⟨कु = the whole कवर्ग⟩",
+    "5.4.106 चु-द-ष-हान्तात्  ⟨चु = the whole चवर्ग⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.98",
+     "word": "पोः",
+     "trigger": "पोः: उदित् sound",
+     "effect": "पु = the whole पवर्ग",
+     "sutra": "पोरदुपधात्",
+     "ourVrtti": "पवर्गान्तात् अदुपधात् धातोः यत् प्रत्ययः परः च भवति",
+     "kashika": "पवर्गान्ताद् धातोरकारोपधाद् यत् प्रत्ययो भवति।",
+     "prathamavrtti": "अदुपधात् पवर्गान्ताद्धातोर्यत् प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "3.2.185",
+     "word": "पुवः",
+     "trigger": "पुवः: उदित् sound",
+     "effect": "पु = the whole पवर्ग",
+     "sutra": "पुवः संज्ञायाम्",
+     "ourVrtti": "संज्ञायां विषये पू धातोः करणे कारके इत्र प्रत्ययः परः च भवति",
+     "kashika": "पवतेर्धातोःकरणे कारक इत्र प्रत्ययो भवति, समुदायेन चेत् संज्ञा गम्यते।",
+     "prathamavrtti": "संज्ञायां गम्यमानायां पूधातोः करणे कारके इत्रः प्रत्ययो भवति॥"
+    },
+    {
+     "n": "5.4.105",
+     "word": "कु-महद्भ्याम्",
+     "trigger": "कु-महद्भ्याम्: उदित् sound",
+     "effect": "कु = the whole कवर्ग",
+     "sutra": "कुमहद्भ्यामन्यतरस्याम्",
+     "ourVrtti": "कु महत् इत्येताभ्याम् परः ब्रह्मन्शब्दान्तात् तत्पुरुषात् विकल्पेन टच् प्रत्ययः परः च भवति",
+     "kashika": "कुमहद्भ्यां परो यो ब्रह्मा तदन्तात् तत्पुरुषात् टच् प्रत्ययो भवत्यन्यतरस्याम्।",
+     "prathamavrtti": "कु, महत् इत्येताभ्यां परो यो ब्रह्मन् शब्दस्तदन्तात् तत्पुरुषाद् विकल्पेन टच् प्रत्ययो भवति समासान्तः ॥"
+    }
+   ]
+  },
+  {
+   "id": "G3",
+   "group": "own word, data case 5 | vidhi | X: … vowel, not …",
+   "count": 6,
+   "sutras": [
+    "3.1.125 ओः  ⟨उ = उवर्ण (short, long, pluta)⟩",
+    "3.3.56 एः  ⟨इ = इवर्ण (short, long, pluta)⟩",
+    "4.2.71 ओः  ⟨उ = उवर्ण (short, long, pluta)⟩",
+    "4.2.119 ओः  ⟨उ = उवर्ण (short, long, pluta)⟩",
+    "4.3.139 ओः  ⟨उ = उवर्ण (short, long, pluta)⟩",
+    "5.1.2 उ-गो-आदिभ्यः  ⟨उ = उवर्ण (short, long, pluta)⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.125",
+     "word": "ओः",
+     "trigger": "ओः: अण् vowel, not तपर",
+     "effect": "उ = उवर्ण (short, long, pluta)",
+     "sutra": "ओरावश्यके",
+     "ourVrtti": "उवर्णान्तात् धातोः आवश्यके द्योत्ये ण्यत् प्रत्ययः परः च भवति",
+     "kashika": "उवर्णान्ताद् धातोर्ण्यत् प्रत्ययो भवत्यावश्यके द्योत्ये।",
+     "prathamavrtti": "उवर्णान्ताद्धातोरावश्यके द्योत्ये ण्यत् प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "4.2.71",
+     "word": "ओः",
+     "trigger": "ओः: अण् vowel, not तपर",
+     "effect": "उ = उवर्ण (short, long, pluta)",
+     "sutra": "ओरञ्",
+     "ourVrtti": "उवर्णान्तात् प्रातिपदिकात् समर्थात् चातुरर्थिकेषु अर्थेषु अञ् प्रत्ययः परः च भवति",
+     "kashika": "उवर्णान्तात् प्रातिपदिकाद् यथाविहितं समर्थविभक्तियुक्तादञ् प्रत्ययो भवति तदस्मिन्नस्तीत्येवमादिष्वर्थेषु।",
+     "prathamavrtti": "प्रथमा-तृतीयाषष्ठीसमर्थाद् उवर्णान्तात् प्रातिपदिकात् चतुर्ष्वर्थेष्वञ् प्रत्ययो भवति॥"
+    },
+    {
+     "n": "4.3.139",
+     "word": "ओः",
+     "trigger": "ओः: अण् vowel, not तपर",
+     "effect": "उ = उवर्ण (short, long, pluta)",
+     "sutra": "ओरञ्",
+     "ourVrtti": "उवर्णान्तात् प्रातिपदिकात् षष्ठीसमर्थात् विकारे अर्थे अवयवे अर्थे अञ् प्रत्ययः परः च भवति",
+     "kashika": "उवर्णान्तात् प्रातिपदिकादञ् प्रत्ययो भवति विकारावयवयोरर्थयोः।",
+     "prathamavrtti": "षष्ठीसमर्थाद् उवर्णान्तात् प्रातिपदिकादञ् प्रत्ययो भवति विकारावयवयोरर्थयोः॥"
+    }
+   ]
+  },
+  {
+   "id": "G4",
+   "group": "carried / not a sūtra word | paribhāṣā | X",
+   "count": 2,
+   "sutras": [
+    "1.1.51 1.1.51  ⟨उः = ऋ (6th) — ऋ is अण्, so it stands for the whole ऋवर्ण (ऌ too)⟩",
+    "1.1.70 1.1.70  ⟨a sound with त् after it stands only for savarṇas of the same length (⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.1.51",
+     "word": "1.1.51",
+     "trigger": "1.1.51",
+     "effect": "उः = ऋ (6th) — ऋ is अण्, so it stands for the whole ऋवर्ण (ऌ too)",
+     "sutra": "उरण् रपरः",
+     "ourVrtti": "ऋवर्णस्य स्थाने अण् प्रसज्यमानः एव रपरः भवति",
+     "kashika": "उः स्थानेऽण् प्रसज्यमान एव रपरो वेदितव्यः।",
+     "prathamavrtti": "ऋवर्णस्य स्थाने अण् (अ इ उ) प्रसज्यमान एव रपरो भवति ॥"
+    },
+    {
+     "n": "1.1.70",
+     "word": "1.1.70",
+     "trigger": "1.1.70",
+     "effect": "a sound with त् after it stands only for savarṇas of the same length (restricting 1.1.69)",
+     "sutra": "तपरस्तत्कालस्य",
+     "ourVrtti": "तपरः वर्णः तत्कालस्य सवर्णस्य ग्राहकः भवति स्वस्य च रूपस्य",
+     "kashika": "तपरो वर्णस्तत्कालस्यात्मना तुल्यकालस्य गुणान्तरयुक्तस्य सवर्णस्य ग्राहको भवति, स्वस्य च रूपस्य।",
+     "prathamavrtti": "तपरो वर्णः तत्कालस्य सवर्णस्य (गुणान्तरयुक्तस्य) स्वस्य च रूपस्य ग्राहको भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G5",
+   "group": "named by a commentator | ādeśa | X",
+   "count": 2,
+   "sutras": [
+    "3.4.106 named by न्यासः  ⟨aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)⟩",
+    "8.2.80 named by न्यासः  ⟨aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.4.106",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)",
+     "sutra": "इटोऽत्",
+     "ourVrtti": "लिङादेशस्य इटः स्थाने अत् आदेशः भवति",
+     "kashika": "लिङादेशस्य इटोऽत् इत्ययमादेशो भवति।",
+     "prathamavrtti": "लिङादेशस्य इटः स्थाने ‹अत्› इत्ययमादेशो भवति ॥"
+    },
+    {
+     "n": "8.2.80",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)",
+     "sutra": "अदसोऽसेर्दादु दो मः",
+     "ourVrtti": "असकारान्तस्य अदसः दादुत्तरस्य वर्णस्य दकारस्य च स्थाने उवर्णादेशः मकारादेशः भवति",
+     "kashika": "<<भाव्यमानेनाप्युकारेण सवर्णानां ग्रहणमिष्यते>> इत्येकमात्रिकस्य मात्रिकः, द्विमात्रिकस्य  द्विमात्रिक आदेशो भवति।",
+     "prathamavrtti": "असकारान्तस्यादसो दादुत्तरस्य वर्णस्य उवर्णादेशो भवति, दकारस्य च मकारादेशो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G6",
+   "group": "named by a commentator | vidhi | X (English)",
+   "count": 2,
+   "sutras": [
+    "4.1.95 named by Vasu  ⟨aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)⟩",
+    "4.4.43 named by Vasu  ⟨aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)⟩"
+   ],
+   "samples": [
+    {
+     "n": "4.1.95",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)",
+     "sutra": "अत इञ्",
+     "ourVrtti": "अकारान्तात् प्रातिपदिकात् षष्ठीसमर्थात् अपत्ये अर्थे इञ् प्रत्ययः परः च भवति",
+     "kashika": "अकारान्तात् प्रातिपदिकादिञ् प्रत्ययो भवति।",
+     "prathamavrtti": "अकारान्तात् प्रातिपदिकात् षष्ठीसमर्थाद् अपत्यमित्येतस्मिन्नर्थे इञ् प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "4.4.43",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)",
+     "sutra": "समवायान् समवैति",
+     "ourVrtti": "समवायवाचिभ्यः द्वितीयासमर्थेभ्यः प्रातिपदिकेभ्यः समवैति इत्यर्थे ठक् प्रत्ययः परः च भवति",
+     "kashika": "समवायवाचिभ्यः शब्देभ्यस्तदिति द्वितीयासमर्थेभ्यः समवैतीत्येतस्मिन्नर्थे ठक्  प्रत्ययो भवति।",
+     "prathamavrtti": "द्वितीयासमर्थेभ्यः समवायवाचिभ्यः प्रातिपदिकेभ्यः समवैतीत्येतस्मिन्नर्थे ठक् प्रत्ययो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G7",
+   "group": "own word, data case 6 | vidhi | X: … vowel, not …",
+   "count": 1,
+   "sutras": [
+    "3.1.124 ऋ-हलोः  ⟨ऋ = ऋवर्ण (short, long, pluta)⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.124",
+     "word": "ऋ-हलोः",
+     "trigger": "ऋ-हलोः: अण् vowel, not तपर",
+     "effect": "ऋ = ऋवर्ण (short, long, pluta)",
+     "sutra": "ऋहलोर्ण्यत्",
+     "ourVrtti": "ऋवर्णान्तात् हलन्तात् च धातोः ण्यत् प्रत्ययः परः च भवति",
+     "kashika": "पञ्चम्यर्थे षष्ठी, ऋवर्णान्ताद् धातोर्हलन्ताच्च ण्यत् प्रत्ययो भवति।",
+     "prathamavrtti": "ऋवर्णान्ताद्धलन्ताच धातोरण्यत् प्रत्ययो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G8",
+   "group": "carried / not a sūtra word | vidhi | X: an … vowel",
+   "count": 1,
+   "sutras": [
+    "3.3.57 उ  ⟨stands for all its lengths⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.3.57",
+     "word": "उ",
+     "trigger": "उ: an अण् vowel",
+     "effect": "stands for all its lengths",
+     "sutra": "ॠदोरप्",
+     "ourVrtti": "संज्ञायाम् ऋकारान्तेभ्यः उवर्णान्तेभ्यश्च धातुभ्यः भावे कर्तृवर्जिते कारके अप् प्रत्ययः परः च भवति",
+     "kashika": "ॠकारान्तेभ्य उवर्णान्तेभ्यश्च अप् प्रत्ययो भवति।",
+     "prathamavrtti": "ऋकारान्तेभ्यः उवर्णान्तेभ्यश्च धातुभ्यः कर्त्तृवर्जिते कारके संज्ञायां विषये भावे चाप् प्रत्ययो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G9",
+   "group": "named by a commentator | ekādeśa | X (English)",
+   "count": 1,
+   "sutras": [
+    "6.1.101 named by Vasu  ⟨aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.101",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)",
+     "sutra": "अकः सवर्णे दीर्घः",
+     "ourVrtti": "संहितायाम् सवर्णे अचि परे अकः परस्य पूर्वपरयोः स्थाने दीर्घः एकादेशः भवति",
+     "kashika": "अकः सवर्णेऽचि परतः पूर्वपरयोः स्थाने दीर्घ एकादेशो भवति।",
+     "prathamavrtti": "अक उत्तरस्य सवर्णेऽचि परतः पूर्वपरयोः स्थाने दीर्घ एकादेशो भवति संहितायां विषये ॥"
+    }
+   ]
+  },
+  {
+   "id": "G10",
+   "group": "named by a commentator | svara | X",
+   "count": 1,
+   "sutras": [
+    "6.1.185 named by महाभाष्यम्  ⟨aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.185",
+     "word": "named by महाभाष्यम्",
+     "trigger": "named by महाभाष्यम्",
+     "effect": "aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)",
+     "sutra": "तित्स्वरितम्",
+     "ourVrtti": "तित् स्वरितम् भवति",
+     "kashika": "तित् स्वरितं भवति।",
+     "prathamavrtti": "तित्स्वरितं भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G11",
+   "group": "named by a commentator | operation | X",
+   "count": 1,
+   "sutras": [
+    "6.3.122 named by न्यासः  ⟨aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.3.122",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)",
+     "sutra": "उपसर्गस्य घञ्यमनुष्ये बहुलम्",
+     "ourVrtti": "घञन्ते उत्तरपदे परे उत्तरपदे उपसर्गस्य स्थाने अमनुष्ये वाच्ये बहुलम् दीर्घः आदेशः भवति",
+     "kashika": "उपसर्गस्य घञन्त उत्तरपदेऽमनुष्येऽभिधेये बहुलं दीर्घो भवति।",
+     "prathamavrtti": "घञन्त उत्तरपदेऽमनुष्येऽभिधेय उपसर्गस्याणो बहुलं दीर्घो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G12",
+   "group": "named by a commentator | adhikāra | X",
+   "count": 1,
+   "sutras": [
+    "8.3.57 named by न्यासः  ⟨aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.3.57",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)",
+     "sutra": "इण्कोः",
+     "ourVrtti": "इण्-कवर्गाभ्याम् उत्तरस्य इत्यधिकारः इति अधिकारः",
+     "kashika": "इत उत्तरं यद् वक्ष्यामः, इणः कवर्गात् चेत्येवं तद् वेदितव्यम्।",
+     "prathamavrtti": "इतोऽग्रे वक्ष्यमाणानि कार्याणि इण्कवर्गाभ्यामुत्तरस्य भवन्तीत्यधिकारो वेदितव्यः, आपादपरिसमाप्तेः ॥"
+    }
+   ]
+  },
+  {
+   "id": "G13",
+   "group": "named by a commentator | āgama | X",
+   "count": 1,
+   "sutras": [
+    "8.4.2 named by न्यासः  ⟨aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.4.2",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)",
+     "sutra": "अट्कुप्वाङ्नुम्व्यवायेऽपि",
+     "ourVrtti": "समानपदे रेफषकाराभ्याम् उत्तरस्य नकारस्य स्थाने अट्-कु-पु-आङ्-नुम् इत्येतैः व्यवाये अपि णकारादेशः भवति",
+     "kashika": "अट् कु पु आङ् नुम् इत्येतैर्व्यवायेऽपि रेफषकाराभ्यामुत्तरस्य नकारस्य णकार आदेशो भवति।",
+     "prathamavrtti": "अट्, कु, पु, आङ्, नुम् इत्येतैर्व्यवायेऽपि रेफषकाराभ्यामुत्तरस्य नकारस्य णकारादेशो भवति॥"
+    }
+   ]
+  }
+ ]
+}

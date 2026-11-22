@@ -1,0 +1,776 @@
+{
+ "pid": "1.1.47",
+ "audited": "2026-11-20",
+ "totals": {
+  "firings": 50,
+  "licensed": 32,
+  "not licensed": 18,
+  "unsure": 0,
+  "not_licensed_by_should_be": {
+   "none": 14,
+   "1.1.53": 2,
+   "1.1.52": 1,
+   "1.1.46": 1
+  },
+  "not_licensed_by_reason": {
+   "NISHEDHA": 3,
+   "NOT_MIT": 3,
+   "COMMENTATOR_DENIES": 1,
+   "CROSS_REFERENCE": 1,
+   "UNRELATED": 5,
+   "COUNTERFACTUAL": 2,
+   "DERIVATION_ONLY": 1,
+   "KIT_NOT_MIT": 1,
+   "ONLY_NAMED": 1
+  }
+ },
+ "reason_codes": {
+  "NISHEDHA": "prohibition",
+  "NOT_MIT": "the element is a substitute (ṅit/single sound), not a mit augment",
+  "ONLY_NAMED": "नुम् only named as an intervening element",
+  "COMMENTATOR_DENIES": "the passage says 1.1.47 does not apply",
+  "COUNTERFACTUAL": "only about what would happen if a म् were इत्",
+  "CROSS_REFERENCE": "points to a discussion located under 1.1.47",
+  "DERIVATION_ONLY": "only in a derivation",
+  "UNRELATED": "stray reference / other topic",
+  "KIT_NOT_MIT": "the augment is कित् (1.1.46)"
+ },
+ "conditions": [
+  {
+   "text": "C1 — An element with म् as इत् goes after the last vowel of what it is added to (as its final part); this overrides both स्थाने (1.1.49) and “परः” of suffixes.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11047",
+     "quote": "अचां संनिविष्टानामन्त्यादचः परो मिद् भवति।"
+    },
+    {
+     "file": "kashika",
+     "id": "11047",
+     "quote": "स्थानेयोगप्रत्ययपरत्वस्य ([[३.१.१]], [[३.१.२]]) अयमपवादः।"
+    },
+    {
+     "file": "kaumudi",
+     "id": "11047",
+     "quote": "अचां मध्ये योऽन्त्यस्तस्मात्परस्तस्यैवान्तावयवो मित्स्यात् ॥"
+    }
+   ]
+  },
+  {
+   "text": "C2 — Kāśikā examples: श्नम् (3.1.78 विरुणद्धि), नुम् (7.1.59 मुञ्चति, 7.1.72 पयांसि). Exception: for मस्ज् the नुम् is wanted before the last sound.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11047",
+     "quote": "विरुणद्धि ([[३.१.७८]]) ।"
+    },
+    {
+     "file": "kashika",
+     "id": "11047",
+     "quote": "मस्जेरन्त्यात्पूर्वं नुममिच्छन्त्यनुषङ्गसंयोगादिलोपार्थम् (म.भा. [[१.१.४८]])॥"
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | āgama | X: mit augment",
+   "count": 22,
+   "verdict": "mixed",
+   "counts": {
+    "licensed": 16,
+    "not licensed": 6,
+    "unsure": 0
+   },
+   "how_checked": "All 22 read. Positive नुम् rules licensed; prohibitions and the अनङ्/ई substitute rules not.",
+   "licensed": [
+    "7.1.59",
+    "7.1.60",
+    "7.1.61",
+    "7.1.63",
+    "7.1.64",
+    "7.1.65",
+    "7.1.66",
+    "7.1.67",
+    "7.1.69",
+    "7.1.70",
+    "7.1.71",
+    "7.1.72",
+    "7.1.73",
+    "7.1.79",
+    "7.1.82",
+    "7.1.83"
+   ],
+   "not_licensed": [
+    {
+     "n": "7.1.62",
+     "word": "नुम्",
+     "should_be": "none",
+     "reason": "NISHEDHA",
+     "why": "A prohibition: the नुम् is not added, so there is no mit element to place.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "71062",
+       "quote": "इडादावलिटि प्रत्यये परे रधेर्नुमागमो न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "7.1.68",
+     "word": "नुम्",
+     "should_be": "none",
+     "reason": "NISHEDHA",
+     "why": "A prohibition (न सुदुर्भ्याम्): no नुम् in सुलभम्, दुर्लभम्. (The vendored Kāśikā sentence lacks the न, but its examples show no नुम्.)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "71068",
+       "quote": "सुलभम्। दुर्लभम्। घञि — सुलाभः।"
+      }
+     ]
+    },
+    {
+     "n": "7.1.75",
+     "word": "नुम्",
+     "should_be": "1.1.53",
+     "reason": "NOT_MIT",
+     "why": "अनङ् is a ṅit substitute for the final (1.1.53), not a mit augment; the credit “नुम्: mit augment” was swept in from the surrounding नुम् sūtras.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "71075",
+       "quote": "अस्थि दधि सक्थि अक्षि इत्येतेषां नपुंसकानां तृतीयादिष्वजादिषु विभक्तिषु परतोऽनङित्ययमादेशो भवति, स चोदात्तो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "7.1.76",
+     "word": "नुम्",
+     "should_be": "1.1.53",
+     "reason": "NOT_MIT",
+     "why": "Carries अनङ् from 7.1.75 — a ṅit substitute, not a mit augment.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "71076",
+       "quote": "अस्थिदधिसक्थ्यक्ष्णामनङ्  छन्दस्यपि दृश्यते।"
+      }
+     ]
+    },
+    {
+     "n": "7.1.77",
+     "word": "नुम्",
+     "should_be": "1.1.52",
+     "reason": "NOT_MIT",
+     "why": "The substitute is ई, a single sound replacing the final (1.1.52); the Kāśikā even says the नुम् is overridden by this ई.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "71077",
+       "quote": "द्विवचने परतश्छन्दसि विषयेऽस्थ्यादीनामीकारादेशो भवति, स चोदात्तः।"
+      },
+      {
+       "file": "kashika",
+       "id": "71077",
+       "quote": "अक्षी इत्यत्र नुम् परत्वादीकारेण बाध्यते।"
+      }
+     ]
+    },
+    {
+     "n": "7.1.78",
+     "word": "नुम्",
+     "should_be": "none",
+     "reason": "NISHEDHA",
+     "why": "A prohibition: the नुम् is not added, so there is no mit element to place.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "71078",
+       "quote": "अभ्यस्तादङ्गादुत्तरस्य शतुर्नुम् न भवति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "licensed_with_caveat": [
+    {
+     "n": "7.1.59",
+     "note": "Kāśikā example under 1.1.47 (मुञ्चति).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "11047",
+       "quote": "मुञ्चति ([[७.१.५९]]) ।"
+      }
+     ]
+    },
+    {
+     "n": "7.1.60",
+     "note": "Licensed for नश्; for मस्ज् the Kāśikā (citing the Bhāṣya) wants the नुम् before the last sound, against 1.1.47.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "11047",
+       "quote": "मस्जेरन्त्यात्पूर्वं नुममिच्छन्त्यनुषङ्गसंयोगादिलोपार्थम् (म.भा. [[१.१.४८]])॥"
+      }
+     ]
+    },
+    {
+     "n": "7.1.72",
+     "note": "Kāśikā example under 1.1.47 (पयांसि).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "11047",
+       "quote": "पयांसि ([[७.१.७२]]) ।"
+      }
+     ]
+    },
+    {
+     "n": "7.1.73",
+     "note": "Re-pointed today from 1.1.52: नुम् is an augment, placed after the last vowel (वारिणी). Right.",
+     "quotes": []
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G2",
+   "group": "own word, data case 6 | ādeśa | X: 1.1.47 … (not 1.1.49 — paribhāṣā audi",
+   "count": 9,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 9,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, generated vṛtti, Kāśikā; commentator passages read in context (search मिदचो).",
+   "licensed": [
+    "6.1.58",
+    "6.1.59",
+    "6.3.67",
+    "6.3.70",
+    "6.3.71",
+    "6.3.72",
+    "7.1.81",
+    "7.3.92",
+    "7.4.19"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "Re-pointed today from 1.1.49. All nine add a mit augment (अम्, मुम्, नुम्, इम्, पुम्) — licensed. The effect text “names the place — the thing replaced (स्थाने)” is still 1.1.49's and is wrong for these."
+  },
+  {
+   "id": "G3",
+   "group": "own word, data case 1 | āgama | X: mit augment",
+   "count": 3,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 3,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "All 3 read: नुम् (7.1.58, 7.1.80), उम् (7.4.20 वोचत्) — licensed.",
+   "licensed": [
+    "7.1.58",
+    "7.1.80",
+    "7.4.20"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G4",
+   "group": "named by a commentator | vidhi | X",
+   "count": 2,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 2,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, generated vṛtti, Kāśikā; commentator passages read in context (search मिदचो).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "3.1.35",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "The Nyāsa argues the म् of आम् is not इत्, and rejects applying 1.1.47 because it would give a wrong form.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "31035",
+       "quote": "<<मिदचोऽन्त्यात्परः>> [[1.1.47]]  इति परिभाषा वा नोपस्थास्य इत्येतच्च नाशङ्कनीयं लक्ष्यविरोधमनिच्छता।"
+      }
+     ]
+    },
+    {
+     "n": "4.1.122",
+     "word": "named by तत्त्वबोधिनी",
+     "should_be": "none",
+     "reason": "CROSS_REFERENCE",
+     "why": "TB points to the Bhāṣya under 1.1.47 for मरीचि being in the बाह्वादि list; 4.1.122 adds ढक्.",
+     "quotes": [
+      {
+       "file": "tattvabodhini",
+       "id": "41122",
+       "quote": "न चास्य बाह्वादित्वमव्वक्षितम्,मरीचिशब्दो बाह्वादिषु पठते॑इतिमिदचोऽन्त्यात्परः॑इति सूत्रे भाष्ये स्थित्वात् ।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G5",
+   "group": "named by a commentator | vidhi | X (English)",
+   "count": 2,
+   "verdict": "mixed",
+   "counts": {
+    "licensed": 1,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, generated vṛtti, Kāśikā; commentator passages read in context (search मिदचो).",
+   "licensed": [
+    "3.1.78"
+   ],
+   "not_licensed": [
+    {
+     "n": "5.3.71",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "UNRELATED",
+     "why": "Vasu's remark is about the vārttika काम् (तूष्णीकाम्). The sūtra's अकच् is placed “प्राक् टेः”, not by 1.1.47.",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "53071",
+       "quote": "The म् is indicatory, therefore, का comes before the final vowel (1.1.47)."
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "licensed_with_caveat": [
+    {
+     "n": "3.1.78",
+     "note": "Kāśikā example under 1.1.47 (विरुणद्धि).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "11047",
+       "quote": "विरुणद्धि ([[३.१.७८]]) ।"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G6",
+   "group": "named by a commentator | atideśa | X (English)",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, generated vṛtti, Kāśikā; commentator passages read in context (search मिदचो).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "1.1.58",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "UNRELATED",
+     "why": "Vasu's long note on सवर्णविधि (शाधि) mentions 1.1.47 in passing; 1.1.58 is a prohibition of sthānivadbhāva.",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "11058",
+       "quote": "6. सवर्णविधिः 'a rule relating to the substitution of homogeneous letters.'"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G7",
+   "group": "named by a commentator | saṃjñā | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, generated vṛtti, Kāśikā; commentator passages read in context (search मिदचो).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "1.3.4",
+     "word": "named by महाभाष्यम्",
+     "should_be": "none",
+     "reason": "COUNTERFACTUAL",
+     "why": "The Bhāṣya names the work a म्-इत् would do (1.1.47) to show why the prohibition of इत्-hood is needed; 1.1.47 does not apply.",
+     "quotes": [
+      {
+       "file": "bhashya",
+       "id": "13004",
+       "quote": "इदमस्तीत्कार्यं - मिदचोन्त्यात्परः [[1.1.47]] इति ।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G8",
+   "group": "named by a commentator | nipātana | X (English)",
+   "count": 1,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 1,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, generated vṛtti, Kāśikā; commentator passages read in context (search मिदचो).",
+   "licensed": [
+    "3.2.169"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "licensed_with_caveat": [
+    {
+     "n": "3.2.169",
+     "note": "Nipātana; the vṛtti analyses विन्दुः as विद् + नुम् + उ, so the mit नुम् is placed by 1.1.47.",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "32169",
+       "quote": "विद् + नुम् + उ = विन्दुः [[1.1.47]]"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G9",
+   "group": "named by a commentator | saṃjñā | X (English)",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, generated vṛtti, Kāśikā; commentator passages read in context (search मिदचो).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "5.3.1",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "COUNTERFACTUAL",
+     "why": "Vasu: the म् of दानीम् is not इत् (vibhakti), otherwise 1.1.47 would have applied. 5.3.1 is an adhikāra.",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "53001",
+       "quote": "had it been so, rule [[1.1.47]] would have applied"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G10",
+   "group": "named by a commentator | ekādeśa | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, generated vṛtti, Kāśikā; commentator passages read in context (search मिदचो).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "6.1.84",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "UNRELATED",
+     "why": "The Nyāsa remark is about the रम् augment (6.4.47) in a discussion under the ekādeśa adhikāra; reading 6.1.84 does not need 1.1.47.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "61084",
+       "quote": "रमागमेन हि मित्वात्? `मिदचोन्त्यात्परः`  [[1.1.47]]  इत्यचोऽन्त्यात्? परेण भवितव्यम्।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G11",
+   "group": "named by a commentator | operation | X (English)",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, generated vṛtti, Kāśikā; commentator passages read in context (search मिदचो).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "6.4.23",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "DERIVATION_ONLY",
+     "why": "Vasu's derivation of अनक्ति (श्नम् inside the root); 6.4.23 teaches lopa of न after श्न.",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "64023",
+       "quote": "अञ्ज् + श्नम् +तिप् = अनञ्ज् + ति [[1.1.47]]"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G12",
+   "group": "named by a commentator | operation | X",
+   "count": 1,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 1,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, generated vṛtti, Kāśikā; commentator passages read in context (search मिदचो).",
+   "licensed": [
+    "6.4.47"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "licensed_with_caveat": [
+    {
+     "n": "6.4.47",
+     "note": "The Bhāṣya on 6.4.47 itself: रम् goes after the last vowel by 1.1.47 (not in place of र्).",
+     "quotes": [
+      {
+       "file": "bhashya",
+       "id": "64047",
+       "quote": "भ्रस्जो रोपधयोरमन्यतरस्याम् (3045) (रमागमाधिकरणम्) (रमागमस्थाननिर्धारणभाष्यम्) अयं रम् रेफस्य स्थाने कस्मान्न भवति ? मिदचोन्त्यात्परः [[1.1.47]] इत्यनेनाचामन्त्यात्परः क्रियते ।"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G13",
+   "group": "carried / not a sūtra word | ādeśa | X: 1.1.47 … (not 1.1.49 — paribhāṣā audi",
+   "count": 1,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 1,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, generated vṛtti, Kāśikā; commentator passages read in context (search मिदचो).",
+   "licensed": [
+    "7.1.99"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "licensed_with_caveat": [
+    {
+     "n": "7.1.99",
+     "note": "अम् is mit: चतुर् → चत्वर् (हे चत्वः).",
+     "quotes": []
+    }
+   ],
+   "note": "Re-pointed from 1.1.49; effect text still 1.1.49's."
+  },
+  {
+   "id": "G14",
+   "group": "named by a commentator | āgama | X (English)",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, generated vṛtti, Kāśikā; commentator passages read in context (search मिदचो).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "7.2.10",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "UNRELATED",
+     "why": "Stray number in Vasu's root list (“भज् … [[1.1.47]]”); 7.2.10 prohibits इट्.",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "72010",
+       "quote": "भज् 'to honor' [[1.1.47]] भक्ता"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G15",
+   "group": "named by a commentator | āgama | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, generated vṛtti, Kāśikā; commentator passages read in context (search मिदचो).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "7.3.36",
+     "word": "named by तत्त्वबोधिनी",
+     "should_be": "1.1.46",
+     "reason": "KIT_NOT_MIT",
+     "why": "TB cites Kaiyaṭa under 1.1.47 only for the root मर्च्. The augment of 7.3.36 is पुक् — कित्, placed at the end by 1.1.46, not 1.1.47.",
+     "quotes": [
+      {
+       "file": "tattvabodhini",
+       "id": "73036",
+       "quote": "मिदचोऽन्त्यात्परः॑ इति सूत्रे कैयटेनाऽस्योपन्यस्तत्वात् ।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G16",
+   "group": "own word, data case 7 | āgama | X: mit augment",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, generated vṛtti, Kāśikā; commentator passages read in context (search मिदचो).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "8.3.58",
+     "word": "नुम्-विसर्जनीय-शर्-व्यवाये",
+     "should_be": "none",
+     "reason": "ONLY_NAMED",
+     "why": "नुम् is only named as one of the things that may intervene before ṣatva; nothing is added here.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "83058",
+       "quote": "नुम्व्यवायेऽपि विसर्जनीयव्यवायेऽपि शर्व्यवायेऽपि इण्कोरुत्तरस्य सकारस्य मूर्धन्यादेशो भवति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G17",
+   "group": "named by a commentator | ṣatva | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, generated vṛtti, Kāśikā; commentator passages read in context (search मिदचो).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "8.3.112",
+     "word": "named by तत्त्वबोधिनी",
+     "should_be": "none",
+     "reason": "UNRELATED",
+     "why": "TB's “मिदचोऽन्त्यात्परः” is in an uṇādi passage (मञ्जूषा from मस्ज्) printed under this id; 8.3.112 is a ṣatva prohibition.",
+     "quotes": [
+      {
+       "file": "tattvabodhini",
+       "id": "83112",
+       "quote": "टुमस्जो शुद्धौ, अस्मादूषन्स्यान्नुमागमश्च धातोः ।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  }
+ ],
+ "missed": [
+  {
+   "n": "7.1.98",
+   "pid": "1.1.47",
+   "why": "चतुरनडुहोरामुदात्तः — आम् (म्-इत्) after the last vowel: चत्वारः, अनड्वान्.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "71098",
+     "quote": "चतुर् अनडुह् इत्येतयोः सर्वनामस्थाने परत आमागमो भवति, स चोदात्तः।"
+    }
+   ]
+  },
+  {
+   "n": "6.3.68",
+   "pid": "1.1.47",
+   "why": "इच एकाचोऽम्प्रत्ययवच्च — the augment अम्.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "63068",
+     "quote": "इजन्तस्य एकाचः खिदन्त उत्तरपदेऽमागमो भवति, अम्प्रत्ययवच्च द्वितीयैकवचनवच्च स भवति।"
+    }
+   ]
+  },
+  {
+   "n": "6.3.69",
+   "pid": "1.1.47",
+   "why": "वाचंयमपुरंदरौ च — nipātana analysed with मुम्.",
+   "quotes": []
+  }
+ ],
+ "missed_note": "Mit augments without a 1.1.47 credit:"
+}

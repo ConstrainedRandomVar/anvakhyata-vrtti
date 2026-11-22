@@ -1,0 +1,535 @@
+{
+ "pid": "1.1.51",
+ "howGrouped": "case of the triggering word (own sūtra words only) | rule kind | start of the engine trigger text; member = \"<sūtra> <word>  ⟨engine effect⟩\"",
+ "applies": 92,
+ "consideredNotApplicable": 0,
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | operation | X",
+   "count": 58,
+   "sutras": [
+    "6.4.146 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "6.4.156 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.2.1 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.2.3 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.2.4 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.2.5 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.2.6 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.2.7 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.2.114 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.2.115 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.2.116 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.2.117 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.2.118 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.1 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.11 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.12 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.13 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.14 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.15 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.16 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.17 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.18 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.19 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.20 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.21 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.22 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.24 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.26 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.27 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.28 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.29 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.30 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.31 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.34 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.35 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.82 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.83 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.84 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.85 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.86 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.87 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.88 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.89 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.90 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.91 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.108 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.109 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.110 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.3.111 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.4.10 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.4.11 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.4.16 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.4.21 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.4.29 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.4.30 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.4.57 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.4.75 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.4.82 when the vowel replaced is ऋ/ऌ  ⟨it comes with र्/ल् (अर्, आर्, अल्)⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.146",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "trigger": "when the vowel replaced is ऋ/ऌ",
+     "effect": "it comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "ओर्गुणः",
+     "ourVrtti": "तद्धिते परे भस्य उवर्णान्तस्य अङ्गस्य स्थाने गुणः आदेशः भवति",
+     "kashika": "उवर्णान्तस्य भस्य गुणो भवति तद्धिते परतः।",
+     "prathamavrtti": "उवर्णान्तस्याङ्गस्य भस्य गुणो भवति तद्धिते परतः ॥"
+    },
+    {
+     "n": "7.3.16",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "trigger": "when the vowel replaced is ऋ/ऌ",
+     "effect": "it comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "वर्षस्याभविष्यति",
+     "ourVrtti": "तद्धिते संख्यायाः उत्तरस्य वर्षशब्दस्य आदेः ञिति णिति किति च परे उत्तरपदस्य अचः स्थाने अङ्गस्य स्थाने अभविष्यति अर्थे वृद्धिः आदेशः भवति",
+     "kashika": "संख्याया उत्तरस्य वर्षशब्दस्याचामादेरचो वृद्धिर्भवति तद्धिते ञिति णिति किति च परतः, स चेत् तद्धितो भविष्यत्यर्थे न भवति।",
+     "prathamavrtti": "सङ्ख्याया उत्तरस्य वर्षशब्दस्याचामादेरचो वृद्धिर्भवति, तद्धिते ञिति णिति किति च परतः स चेत्तद्धितो भविष्यत्यर्थे न भवति ॥"
+    },
+    {
+     "n": "7.3.85",
+     "word": "when the vowel replaced is ऋ/ऌ",
+     "trigger": "when the vowel replaced is ऋ/ऌ",
+     "effect": "it comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "जाग्रोऽविचिण्णल्ङित्सु",
+     "ourVrtti": "वि-चिण्-णल्-ङित्-वर्जितेषु सार्वधातुके आर्धधातुके च प्रत्यये परे अङ्गस्य जागृ इत्येतस्य स्थाने गुणः आदेशः भवति",
+     "kashika": "जागृ इत्येतस्याङ्गस्य गुणो भवत्यविचिण्णल्ङित्सु परतः।",
+     "prathamavrtti": "जागृ इत्येतस्याङ्गस्य गुणो भवति, अविचिण्णल्ङित्सु सार्वधातुकार्धधातुकेषु परतः॥"
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "group": "named by a commentator | ādeśa | X",
+   "count": 7,
+   "sutras": [
+    "6.3.25 named by पदमञ्जरी  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "6.4.126 named by पदमञ्जरी  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.2.100 named by न्यासः  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.2.108 named by न्यासः  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.4.7 named by न्यासः  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "8.2.80 named by न्यासः  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "8.3.23 named by न्यासः  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.3.25",
+     "word": "named by पदमञ्जरी",
+     "trigger": "named by पदमञ्जरी",
+     "effect": "an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "आनङ् ऋतो द्वन्द्वे",
+     "ourVrtti": "द्वन्द्वे समासे उत्तरपदे परे विद्यायोनिसम्बन्धवाचिनाम् ऋकारान्तानां पूर्वपदस्य स्थाने आनङ् आदेशः भवति",
+     "kashika": "ऋकारान्तानां विद्यायोनिसंबन्धवाचिनां यो द्वन्द्वस्तत्रोत्तरपदे पूर्वपदस्यानङादेशो भवति।",
+     "prathamavrtti": "ऋकारान्तानां विद्यायोनिसम्बन्धवाचिनां यो द्वन्द्वस्तत्र पूर्वपदस्यानङ्_आदेशो भवत्युत्तरपदे परतः ॥"
+    },
+    {
+     "n": "7.2.100",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "अचि र ऋतः",
+     "ourVrtti": "अजादौ विभक्तौ परे ऋतः स्थाने तिसृ-चतसृ इत्येतयोः अङ्गस्य स्थाने रेफादेशः भवति",
+     "kashika": "तिसृ चतसृ इत्येतयोर्ऋतः स्थाने रेफादेशो भवत्यजादौ विभक्तौ परतः।",
+     "prathamavrtti": "तिसृ चतसृ इत्येतयोर्ऋतः स्थाने रेफादेशो भवति, अजादौ विभक्तौ परतः ॥"
+    },
+    {
+     "n": "7.4.7",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "उर्ऋत्",
+     "ourVrtti": "णौ परे चङ्परे उपधाभूतायाः ऋवर्णस्य स्थाने अङ्गस्य स्थाने विकल्पेन ऋकारादेशः भवति",
+     "kashika": "णौ चङि उपधायाः ऋवर्णस्य स्थाने वा ऋकारादेशो भवति।",
+     "prathamavrtti": "णौ चङ्युपधाया ऋवर्णस्य स्थाने वा ऋकारादेशो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G3",
+   "group": "named by a commentator | operation | X",
+   "count": 5,
+   "sutras": [
+    "6.1.37 named by न्यासः  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "6.4.3 named by बालमनोरमा  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "8.2.23 named by न्यासः  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "8.2.24 named by काशिका  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "8.2.82 named by न्यासः  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.37",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "न सम्प्रसारणे सम्प्रसारणम्",
+     "ourVrtti": "सम्प्रसारणे परे पूर्वस्य यणः स्थाने सम्प्रसारणम् आदेशः न भवति",
+     "kashika": "संप्रसारणे परतः पूर्वस्य यणः संप्रसारणं न भवति।",
+     "prathamavrtti": "सम्प्रसारणे परतः पूर्वस्य यणः सम्प्रसारणं न भवति ॥"
+    },
+    {
+     "n": "6.4.3",
+     "word": "named by बालमनोरमा",
+     "trigger": "named by बालमनोरमा",
+     "effect": "an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "नामि",
+     "ourVrtti": "नामि परे अङ्गस्य स्थाने दीर्घः आदेशः भवति",
+     "kashika": "तस्मिन् परतोऽङ्गस्य दीर्घो भवति।",
+     "prathamavrtti": "नामि परतोऽङ्गस्य दीर्घो भवति ॥"
+    },
+    {
+     "n": "8.2.23",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "संयोगान्तस्य लोपः",
+     "ourVrtti": "पदस्य संयोगान्तस्य स्थाने लोपः भवति",
+     "kashika": "संयोगान्तस्य पदस्य लोपो भवति।",
+     "prathamavrtti": "संयोगान्तस्य पदस्य लोपो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G4",
+   "group": "named by a commentator | vidhi | X (English)",
+   "count": 4,
+   "sutras": [
+    "3.1.135 named by Vasu  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "3.2.104 named by Vasu  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "3.3.94 named by Vasu  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "4.4.24 named by Vasu  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.135",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "इगुपधज्ञाप्रीकिरः कः",
+     "ourVrtti": "इगुपधेभ्यः ज्ञा-प्री-किर् धातुभ्यः कः प्रत्ययः परः च भवति",
+     "kashika": "इगुपधेभ्यो जानातेः प्रीणातेः किरतेश्च कप्रत्ययो भवति।",
+     "prathamavrtti": "—इगुपधेभ्यो, ज्ञा, प्रीञ्, कृ(तुदादि) इत्येतेभ्यो धातुभ्यः कः प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "3.2.104",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "जीर्यतेरतृन्",
+     "ourVrtti": "जीर्यतेः धातोः भूते काले अतृन् प्रत्ययः परः च भवति",
+     "kashika": "जीर्यतेरतृन् प्रत्ययो भवति भूते।",
+     "prathamavrtti": "‘जॄष् वयोहानौ’ इत्यस्माद् धातोः भूते काले अतृन् प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "3.3.94",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "स्त्रियां क्तिन्",
+     "ourVrtti": "संज्ञायाम् धातोः स्त्रीलिङ्गे भावे कर्तृभिन्ने कारके क्तिन् प्रत्ययः परः च भवति",
+     "kashika": "स्त्रीलिङ्गे भावादौ धातोः क्तिन् प्रत्ययो भवति।",
+     "prathamavrtti": "—धातोः स्त्रीलिङ्गे कर्तृभिन्ने कारके संज्ञायां भावे च क्तिन् प्रत्ययो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G5",
+   "group": "named by a commentator | vidhi | X",
+   "count": 3,
+   "sutras": [
+    "3.1.80 named by न्यासः  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "4.1.73 named by न्यासः  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "5.4.1 named by न्यासः  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.80",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "धिन्विकृण्व्योर च",
+     "ourVrtti": "सार्वधातुके परे धातुभ्याम् धिन्वि-कृण्वि-धातुभ्याम् कर्तृवाचिनि उः प्रत्ययः परः च भवति, अकारः अन्तादेशः च भवति",
+     "kashika": "<<हिवि धिवि जिवि प्रीणनार्थाः>>, <<कृवि हिंसाकरणयोश्च>> इत्येतयोर्धात्वोरुप्रत्ययो भवति, अकारश्चान्तादेशः।",
+     "prathamavrtti": "धिन्वि कृण्वि इत्येताभ्यां धातुभ्याम् उः प्रत्ययो भवति कर्त्तृवाचिनि सार्वधातुके परतः, अकारश्चान्तादेशो भवति।"
+    },
+    {
+     "n": "4.1.73",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "शार्ङ्गरवाद्यञो ङीन्",
+     "ourVrtti": "अनुपसर्जनेभ्यः जातिवाचिभ्यः शार्ङ्गरवादिभ्यः अञन्तेभ्यश्च प्रातिपदिकेभ्यः स्त्रियाम् ङीन् प्रत्ययः परः च भवति",
+     "kashika": "शार्ङ्गरवादिभ्योऽञन्तेभ्यश्च प्रातिपदिकेभ्यः स्त्रियां ङीन् प्रत्ययो भवति।",
+     "prathamavrtti": "जातिवाचिभ्योऽनुपसर्जनेभ्यः शार्ङ्गरवादिभ्योऽञन्तेभ्यश्च प्रातिपदिकेभ्यः स्त्रियां ङीन् प्रत्ययो भवति॥"
+    },
+    {
+     "n": "5.4.1",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "पादशतस्य संख्यादेर्वीप्सायां वुन् लोपश्च",
+     "ourVrtti": "संख्यादेः पादशतान्तस्य प्रातिपदिकस्य वीप्सायाम् वुन् प्रत्ययः परः च भवति, अन्तस्य लोपः च भवति",
+     "kashika": "पादशतान्तस्य संख्यादेः प्रातिपदिकस्य वीप्सायां द्योत्यायां वुन् प्रत्ययो भवति, तत्सन्नियोगेन चान्तस्य लोपो भवति।",
+     "prathamavrtti": "पादशतान्तस्य सङ्ख्यादेः प्रातिपदिकस्य वीप्सायां गम्यमानायाम् वुन् प्रत्ययो भवति तत्सन्न्नियोगेन पादशतशब्दयोरन्तस्य लोपो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G6",
+   "group": "named by a commentator | ādeśa | X (English)",
+   "count": 3,
+   "sutras": [
+    "7.1.100 named by Vasu  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.4.55 named by Vasu  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.4.66 named by Vasu  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.1.100",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "ॠत इद्धातोः",
+     "ourVrtti": "ऋकारान्तस्य धातोः अङ्गस्य स्थाने इकारादेशः भवति",
+     "kashika": "ॠकारान्तस्य धातोरङ्गस्य इकारादेशो भवति।",
+     "prathamavrtti": "ऋकारान्तस्य धातोरङ्गस्य इकारादेशो भवति ॥"
+    },
+    {
+     "n": "7.4.55",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "आप्ज्ञप्यृधामीत्",
+     "ourVrtti": "सनि परे आप्-ज्ञपि-ऋधाम् सकारादौ अङ्गानाम् अचः स्थाने अङ्गस्य स्थाने ईत् आदेशः भवति",
+     "kashika": "आप् ज्ञपि ऋध इत्येतेषामङ्गानामच ईकारादेशो भवति सनि सकारादौ परतः।",
+     "prathamavrtti": "आप्, ज्ञपि, ऋध् इत्येतेषामङ्गानामचः स्थाने ईकारादेशो भवति सनि सकारादौ प्रत्यये परतः ॥"
+    },
+    {
+     "n": "7.4.66",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "उरत्",
+     "ourVrtti": "अभ्यासस्य ऋवर्णान्तस्य अङ्गस्य स्थाने अकारादेशः भवति",
+     "kashika": "ऋवर्णान्तस्य अभ्यासस्य अकारादेशो भवति।",
+     "prathamavrtti": "ऋवर्णान्तस्याभ्यासस्याकारादेशो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G7",
+   "group": "named by a commentator | saṃjñā | X",
+   "count": 2,
+   "sutras": [
+    "1.1.9 named by महाभाष्यम्  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "1.4.110 named by न्यासः  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.1.9",
+     "word": "named by महाभाष्यम्",
+     "trigger": "named by महाभाष्यम्",
+     "effect": "an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "तुल्यास्यप्रयत्नं सवर्णम्",
+     "ourVrtti": "तुल्यास्यप्रयत्नं वर्णजातम् 'सवर्णम्' इति संज्ञा भवति",
+     "kashika": "तुल्य आस्ये प्रयत्नो यस्य वर्णस्य येन वर्णेन सह, स समानजातीयं प्रति सवर्णसंज्ञो भवति।",
+     "prathamavrtti": "तुल्य आस्ये प्रयत्नो येषां, ते वर्णाः परस्परं सवर्णसंज्ञका भवन्ति ॥"
+    },
+    {
+     "n": "1.4.110",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "विरामोऽवसानम्",
+     "ourVrtti": "विरामः 'अवसानसंज्ञकः' इति संज्ञा भवति",
+     "kashika": "सोऽवसानसंज्ञो भवति।",
+     "prathamavrtti": "विरामोऽवसानसंज्ञको भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G8",
+   "group": "named by a commentator | atideśa | X",
+   "count": 2,
+   "sutras": [
+    "1.2.16 named by न्यासः  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "7.1.95 named by पदमञ्जरी  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.2.16",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "विभाषोपयमने",
+     "ourVrtti": "आत्मनेपदेषु परे यमेः धातोः सिच् उपयमने अर्थे विकल्पेन किद्वत् भवति",
+     "kashika": "यमेर्धातोरुपयमने वर्तमानात् परः सिच् प्रत्ययो विभाषा किद् भवत्यात्मनेपदेषु परतः।",
+     "prathamavrtti": "उपयमनेऽर्थे वर्त्तमानाद् यम् धातोः परः सिच् प्रत्ययः आत्मनेपदविषये विकल्पेन किद्वद् भवति ॥"
+    },
+    {
+     "n": "7.1.95",
+     "word": "named by पदमञ्जरी",
+     "trigger": "named by पदमञ्जरी",
+     "effect": "an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "तृज्वत् क्रोष्टुः",
+     "ourVrtti": "सर्वनामस्थाने परे असम्बुद्धौ क्रोष्टुशब्दः तृजन्तवत् भवति",
+     "kashika": "क्रोष्टुशब्दस्तुन्प्रत्ययान्तः संज्ञाशब्दः सर्वनामस्थानेऽसंबुद्धौ परतः तृज्वद् भवति।",
+     "prathamavrtti": "सर्वनामस्थानेऽसंबुद्धौ परतस्तृन्प्रत्ययान्तः क्रोष्टुशब्दस्तृज्वत् भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G9",
+   "group": "named by a commentator | ekādeśa | X",
+   "count": 2,
+   "sutras": [
+    "6.1.105 named by तत्त्वबोधिनी  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩",
+    "6.1.111 named by काशिका  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.105",
+     "word": "named by तत्त्वबोधिनी",
+     "trigger": "named by तत्त्वबोधिनी",
+     "effect": "an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "दीर्घाज्जसि च",
+     "ourVrtti": "जसि इचि दीर्घात् दीर्घः पूर्वपरयोः पूर्वसवर्णः आदेशः एकः आदेशः न भवति",
+     "kashika": "दीर्घात् जसि इचि च परतः पूर्वसवर्णदीर्घो न भवति।",
+     "prathamavrtti": "दीर्घात् परः जसि इचि परतः पूर्वपरयोः स्थाने पूर्वसवर्णदीर्घ एकादेशो न भवति ॥"
+    },
+    {
+     "n": "6.1.111",
+     "word": "named by काशिका",
+     "trigger": "named by काशिका",
+     "effect": "an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "ऋत उत्",
+     "ourVrtti": "अति परे ऋकारान्तात् ङसिङसोः पूर्वपरयोः स्थाने उकारः एकादेशः भवति",
+     "kashika": "ऋकारान्तादुत्तरयोर्ङसिङसोरति परतः पूर्वपरयोरुकार एकादेशो भवति।",
+     "prathamavrtti": "ऋकारान्तादुत्तरयोर्ङसिङसोरति परतः पूर्वपरयो स्थाने उकार एकादेशो भवति संहितायां विषये॥"
+    }
+   ]
+  },
+  {
+   "id": "G10",
+   "group": "named by a commentator | operation | X (English)",
+   "count": 1,
+   "sutras": [
+    "6.1.68 named by Vasu  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.68",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "हल्ङ्याब्भ्यो दीर्घात् सुतिस्यपृक्तं हल्",
+     "ourVrtti": "हलन्तात् ङ्यन्तात् आबन्तात् च दीर्घात् सु, ति, सि इत्येतेषाम् अपृक्तम् हल् स्थाने लोपः भवति",
+     "kashika": "तदिह लौकिकेनार्थेनार्थवत् कर्मसाधनं द्रष्टव्यम्।",
+     "prathamavrtti": "हलन्ताद् ङ्यन्ताद् आबन्ताच्च दीर्घात् परं सु, ति, सि इत्येतदपृक्तं हल् लुप्यते ॥"
+    }
+   ]
+  },
+  {
+   "id": "G11",
+   "group": "named by a commentator | ekādeśa | X (English)",
+   "count": 1,
+   "sutras": [
+    "6.1.87 named by Vasu  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.87",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "आद्गुणः",
+     "ourVrtti": "संहितायां विषये अचि परे अवर्णात् एकः पूर्वपरयोः स्थाने गुणः आदेशः भवति",
+     "kashika": "अवर्णात् परो योऽच् अचि च पूर्वो योऽवर्णः, तयोः पूर्वपरयोरवर्णाचोः स्थान एको गुण आदेशो भवति।",
+     "prathamavrtti": "अचि पूर्वो योऽवर्णः, अवर्णाच्च परो योऽच्, तयोः द्वयोः पूर्वपरयोः स्थान एको गुणादेशो भवति संहितायां विषये ॥"
+    }
+   ]
+  },
+  {
+   "id": "G12",
+   "group": "named by a commentator | āgama | X",
+   "count": 1,
+   "sutras": [
+    "7.1.59 named by तत्त्वबोधिनी  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.1.59",
+     "word": "named by तत्त्वबोधिनी",
+     "trigger": "named by तत्त्वबोधिनी",
+     "effect": "an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "शे मुचादीनाम्",
+     "ourVrtti": "शे प्रत्यये परे अङ्गानाम् मुचादीनाम् अङ्गस्य नुम् आगमः भवति",
+     "kashika": "शे प्रत्यये परतो मुचादीनां नुमागमो भवति।",
+     "prathamavrtti": "शे प्रत्यये परतो मुचादीनामङ्गानां नुमागमो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G13",
+   "group": "named by a commentator | āgama | X (English)",
+   "count": 1,
+   "sutras": [
+    "7.2.10 named by Vasu  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.2.10",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "एकाच उपदेशेऽनुदात्तात्",
+     "ourVrtti": "उपदेशे एकाचः धातोः परस्य अनुदात्तात् इट् आगमः न भवति",
+     "kashika": "उपदेशे य एकाच् धातुरनुदात्तश्च तस्मादिडागमो न भवति।",
+     "prathamavrtti": "उपदेशे यो धातुरेकाच् अनुदात्तश्च तस्माद् इडागमो न भवति।"
+    }
+   ]
+  },
+  {
+   "id": "G14",
+   "group": "named by a commentator | svara | X",
+   "count": 1,
+   "sutras": [
+    "8.2.89 named by न्यासः  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.2.89",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "प्रणवष्टेः",
+     "ourVrtti": "यज्ञकर्मणि वाक्यस्य पदस्य टेः स्थाने प्रणवः प्लुतः आदेशः उदात्तः भवति",
+     "kashika": "यज्ञकर्मणि टेः प्रणव आदेशो भवति।",
+     "prathamavrtti": "यज्ञकर्मणि वाक्यस्य पदस्य टेः प्रणवः = ओम् इत्यादेशो भवति स च प्लुतोदात्तो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G15",
+   "group": "named by a commentator | ṣatva | X",
+   "count": 1,
+   "sutras": [
+    "8.3.56 named by न्यासः  ⟨an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.3.56",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "an aṇ replacing ऋ/ऌ comes with र्/ल् (अर्, आर्, अल्)",
+     "sutra": "सहेः साडः सः",
+     "ourVrtti": "साड्रूपस्य अपदान्तस्य सहेः धातोः सकारस्य स्थाने मूर्धन्यादेशः भवति",
+     "kashika": "सहेर्धातोः साड्रूपस्य यः सकारस्तस्य मूर्धन्य आदेशो भवति।",
+     "prathamavrtti": "सहेर्धातोर्यत् साड्रूपं तस्य सकारस्य मूर्धन्य आदेशो भवति ॥"
+    }
+   ]
+  }
+ ]
+}

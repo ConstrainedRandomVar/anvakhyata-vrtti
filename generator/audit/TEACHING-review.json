@@ -1,0 +1,1684 @@
+{
+ "1.1.3": {
+  "gaps": [
+   {
+    "condition": "Not where the rule itself names the place (e.g. अत उपधायाः): such guṇa/vṛddhi is not इग्लक्षण (Nyāsa).",
+    "status": "partly",
+    "why": "Implied by 'named without a target', but never said; the card at 7.2.1 ('taught by those words, fall on an इक्') drops the condition entirely."
+   },
+   {
+    "condition": "Guṇa/vṛddhi taught by its own name replaces an इक्; इकः (6th) is supplied.",
+    "status": "taught",
+    "why": "Gloss, explanation and the 6.4.156 step all say it."
+   },
+   {
+    "condition": "Kāśikā's list of sūtras where the supplied इक् qualifies the aṅga (मिदि-मृजि-पुगन्त-लघूपध …).",
+    "status": "not taught",
+    "why": "Background; matters only for the listed sūtras."
+   }
+  ],
+  "contradicted_texts": [],
+  "proposed_gloss": "guṇa/vṛddhi taught by name, with no sound named to replace → supply इकः (not where the rule names the place, e.g. उपधा)",
+  "proposed_explanation": "When a rule teaches guṇa or vṛddhi by those words and names no sound to replace, इकः is supplied: an इक् vowel is replaced. Where the rule names the place itself (अत उपधायाः), 1.1.3 is not used. (Kāśikā: “वृद्धिगुणौ स्वसंज्ञया शिष्यमाणौ इकः एव स्थाने वेदितव्यौ।”)",
+  "quote": {
+   "file": "kashika",
+   "id": "11003",
+   "quote": "वृद्धिगुणौ स्वसंज्ञया शिष्यमाणौ इकः एव स्थाने वेदितव्यौ।"
+  }
+ },
+ "1.1.44": {
+  "gaps": [
+   {
+    "condition": "Limit: a carried option word licenses an option only where it is still in force — the commentary may call a rule nitya inside a vibhāṣā heading, or नित्यम् / a prohibition overrides it.",
+    "status": "not taught",
+    "why": "Nothing tells the student that a carried वा/विभाषा can be out of force; steps simply print 'option' wherever the word is carried (e.g. 2.1.12, 2.1.13)."
+   },
+   {
+    "condition": "बहुलम् is wider than an option; an ācārya/region word is an option only where the commentary says so (not when it only restricts, Kāśikā 2.4.60).",
+    "status": "not taught",
+    "why": "The explanation equates only वा/विभाषा/अन्यतरस्याम् with 'optionally'; nothing on बहुलम् or ācārya names."
+   },
+   {
+    "condition": "विभाषा names the two senses ‘not’ and ‘optionally’ together (pratiṣedha + vikalpa), not the words न/वा.",
+    "status": "not taught",
+    "why": "Gloss 'विभाषा = option' gives only the second sense."
+   },
+   {
+    "condition": "Mechanism: the ‘not’ levels the domain, then the option works — needed for ubhayatra-vibhāṣā (prāpta/aprāpta).",
+    "status": "not taught",
+    "why": "Background; explains why one word covers both prāpta- and aprāpta-vibhāṣā."
+   },
+   {
+    "condition": "वा / अन्यतरस्याम् convey the same sense (Bhāṣya's survey).",
+    "status": "taught",
+    "why": "Explanation lists them."
+   }
+  ],
+  "contradicted_texts": [],
+  "proposed_gloss": "विभाषा = ‘not, or optionally’: the operation may or may not apply (so too वा, अन्यतरस्याम्) — only where the option is in force",
+  "proposed_explanation": "विभाषा names ‘not’ and ‘optionally’ together, so the rule's operation is optional; वा and अन्यतरस्याम् work the same way. A carried option word counts only where it is still in force (the commentary may call a rule nitya). बहुलम् is wider than an option. (Kāśikā: “विभाषाधिकारेऽपि नित्यसमास एवायम्।”)",
+  "quote": {
+   "file": "kashika",
+   "id": "21021",
+   "quote": "विभाषाधिकारेऽपि नित्यसमास एवायम्।"
+  }
+ },
+ "1.1.46": {
+  "gaps": [
+   {
+    "condition": "The host is the item named in the 6th case; with a 5th case the augment goes on what FOLLOWS (युट् after दीङ् goes to the vowel-initial suffix; तुक् after a long vowel to that vowel).",
+    "status": "not taught",
+    "why": "Never said; the cards say 'the BEGINNING of the place', and 'place' (sthāna) is the 1.1.49 word for what is replaced."
+   },
+   {
+    "condition": "Only augments: a ṭ/k marker on a suffix or a substitute does not bring in 1.1.46.",
+    "status": "partly",
+    "why": "Gloss says 'augment', but steps at 6.4.77–6.4.80 call the ṅit substitutes इयङ्/उवङ् a 'ṭit augment'."
+   },
+   {
+    "condition": "ṭit → first part, kit → last part of the host.",
+    "status": "taught",
+    "why": "Gloss, explanation and cards."
+   },
+   {
+    "condition": "A sūtra that forbids the augment places nothing.",
+    "status": "not taught",
+    "why": "Minor."
+   },
+   {
+    "condition": "सुट् (6.1.135ff) is disputed: Kāśikā abhakta vs Bhāṣya/SK by 1.1.46.",
+    "status": "not taught",
+    "why": "Background."
+   }
+  ],
+  "contradicted_texts": [
+   {
+    "text": "इयङ्-उवङौ: ṭit augment → it goes at the BEGINNING of the place",
+    "n": "6.4.77, 6.4.78, 6.4.79, 6.4.80",
+    "why": "इयङ्/उवङ् are ṅit substitutes (ādeśa) for इ/उ, placed by 1.1.53, not augments; 1.1.46 applies only to augments (Nyāsa 3.2.8, 3.4.78)."
+   },
+   {
+    "text": "उत्तरस्य: 6th case → names the place — the thing replaced (“स्थाने”)",
+    "n": "6.4.63 (7 shown)",
+    "why": "युट् is an augment: the 6th names the host, nothing is replaced (Nyāsa 1.1.46: 1.1.46 is an apavāda of 1.1.49; Kāśikā 6.4.63: “दीङ इति पञ्चमीनिर्देशादजादेर्युडागमो भवति”)."
+   },
+   {
+    "text": "the place is a whole aṅga/dhātu and the replacement is one sound → it replaces the LAST sound → अन्त्यस्य अलः",
+    "n": "7.1.6, 7.1.7",
+    "why": "रुट् is an augment (Kāśikā 7.1.6 “रुडागमो भवति”); 1.1.52 covers substitutes only (Bhāṣya 1.1.52: “टित्किन्मितोऽप्यन्त्यस्य स्युः”)."
+   },
+   {
+    "text": "लेटः → what is replaced: “लेटः”",
+    "n": "3.4.94 (5)",
+    "why": "अट्/आट् are augments of लेट्; लेट् is the host, not replaced."
+   }
+  ],
+  "proposed_gloss": "an augment marked ṭ goes at the BEGINNING, one marked k at the END, of the item in the 6th case (augments only)",
+  "proposed_explanation": "An augment (āgama) marked ṭ is joined as the first part, one marked k as the last part, of the item named in the 6th case; with a 5th case it goes on what follows. It replaces nothing, and a ṭ/k marker on a suffix or a substitute does not bring in this rule. (Kāśikā: “आदिष्टिद् भवति अन्तःकिद् भवति षष्ठीनिर्दिष्टस्य”)",
+  "quote": {
+   "file": "kashika",
+   "id": "11046",
+   "quote": "आदिष्टिद् भवति अन्तःकिद् भवति षष्ठीनिर्दिष्टस्य"
+  }
+ },
+ "1.1.47": {
+  "gaps": [
+   {
+    "condition": "A mit element is an augment: it replaces nothing; this overrides both the ‘in place of’ reading (1.1.49) and the ‘suffix follows’ rule.",
+    "status": "not taught",
+    "why": "Not said; steps at 6.1.58, 6.1.59, 6.3.67, 6.3.70 call the 6th-case host 'the thing replaced' and treat मुम् as a substitute."
+   },
+   {
+    "condition": "It goes after the last vowel of what it is added to, as its final part.",
+    "status": "taught",
+    "why": "Gloss, explanation, cards."
+   },
+   {
+    "condition": "Exception: for मस्ज् the नुम् is wanted before the last sound (Bhāṣya).",
+    "status": "not taught",
+    "why": "Minor."
+   }
+  ],
+  "contradicted_texts": [
+   {
+    "text": "सृजि-दृशोः: 6th case → names the place — the thing replaced (“स्थाने”) [same step also says ‘1.1.49 not applicable’]",
+    "n": "6.1.58; likewise 6.1.59",
+    "why": "अम् is a mit augment; the 6th names the host (Kāśikā 1.1.47: “स्थानेयोगप्रत्ययपरत्वस्य ([[३.१.१]], [[३.१.२]]) अयमपवादः।”). The step contradicts itself."
+   },
+   {
+    "text": "अरुस्-द्विषस्-अजन्तस्य: 6th case → names the place … — मुम् replaces अरुस्-द्विषस्-अजन्तस्य → the replacement is treated like what it replaced; मुम्: more than one sound → it replaces the WHOLE",
+    "n": "6.3.67, 6.3.70, 6.3.71, 6.3.72",
+    "why": "मुम् is an augment placed by 1.1.47 (the step's own prathamāvṛtti at 6.3.70: “मुमागमो भवति”); it replaces nothing, is not sthānivat, and 1.1.55 does not apply."
+   }
+  ],
+  "proposed_gloss": "a mit element (marked म्) goes right after the LAST vowel of its base, as its final part — it replaces nothing",
+  "proposed_explanation": "An element marked with म् (नुम्, मुम्, श्नम्, अम्) goes right after the last vowel of what it is added to and becomes its final part. It replaces nothing: it overrides both the ‘in place of’ reading and the rule that a suffix follows. (Kāśikā: “अचां संनिविष्टानामन्त्यादचः परो मिद् भवति।”)",
+  "quote": {
+   "file": "kashika",
+   "id": "11047",
+   "quote": "अचां संनिविष्टानामन्त्यादचः परो मिद् भवति।"
+  }
+ },
+ "1.1.48": {
+  "gaps": [
+   {
+    "condition": "A short vowel replacing ए/ऐ/ओ/औ is an इक् (इ for ए/ऐ, उ for ओ/औ), never अ.",
+    "status": "partly",
+    "why": "No gloss or explanation; only the cards at 1.2.47/1.2.48 say it."
+   }
+  ],
+  "contradicted_texts": [],
+  "proposed_gloss": "a short vowel replacing ए/ऐ/ओ/औ is an इक्: इ for ए/ऐ, उ for ओ/औ — never अ",
+  "proposed_explanation": "When a rule makes ए, ऐ, ओ or औ short, the short vowel is always an इक् — इ for ए/ऐ, उ for ओ/औ — never अ (रै → अतिरि, नौ → अतिनु, गो → उपगु). (Kāśikā: “एचो ह्रस्वादेशे कर्त्तव्य इगेव ह्रस्वो भवति नान्यः।”)",
+  "quote": {
+   "file": "kashika",
+   "id": "11048",
+   "quote": "एचो ह्रस्वादेशे कर्त्तव्य इगेव ह्रस्वो भवति नान्यः।"
+  }
+ },
+ "1.1.49": {
+  "gaps": [
+   {
+    "condition": "It is a niyama: if another word (in the sūtra or carried) names the part actually replaced — उपधा, एच्, अच्, अभ्यास, a visarga — the 6th of the whole is a part/qualifier 6th, not the place.",
+    "status": "not taught",
+    "why": "The explanation says every 6th names what is replaced; steps print 'अङ्गस्य → what is replaced' at 6.4.47, 6.4.49, 6.4.63 where the part replaced is named separately (or nothing is replaced)."
+   },
+   {
+    "condition": "There must be a substitute: no work in saṃjñā, atideśa, prakṛtibhāva, prohibition, suffix or gender rules.",
+    "status": "not taught",
+    "why": "Not said; the step at 3.1.47 (a prohibition) prints 'names the place — the thing replaced'."
+   },
+   {
+    "condition": "Augments (1.1.46, 1.1.47) are apavādas: the 6th in an augment rule names the host.",
+    "status": "not taught",
+    "why": "Not said; contradicted at 6.4.63, 6.1.58/59, 6.3.67, 6.3.70, 3.4.94."
+   },
+   {
+    "condition": "Scope: a 6th uttered in the śāstra whose relation is not otherwise fixed is read ‘in place of’.",
+    "status": "partly",
+    "why": "Explanation gives the effect but drops 'not otherwise fixed'."
+   },
+   {
+    "condition": "Only what is actually uttered in the 6th is bound (PIS 12).",
+    "status": "not taught",
+    "why": "Minor."
+   },
+   {
+    "condition": "Anuvāda: disputed (Nyāsa/PM/BM vs Śekhara).",
+    "status": "not taught",
+    "why": "Background."
+   },
+   {
+    "condition": "Doubling: 6.1 dvitva is repetition, 8.1/8.4 is substitution.",
+    "status": "not taught",
+    "why": "Background."
+   },
+   {
+    "condition": "Tripādī: asiddhatva does not block 1.1.49; पदस्य a place-6th only where the pada itself is replaced.",
+    "status": "not taught",
+    "why": "Background."
+   }
+  ],
+  "contradicted_texts": [
+   {
+    "text": "अङ्गस्य (carried from 6.4.1) → what is replaced: “अङ्गस्य”",
+    "n": "6.4.63 (27 steps of this pattern, e.g. 6.4.47, 6.4.49)",
+    "why": "At 6.4.63 युट् is an augment (host, not place); at 6.4.49 the य् is what goes. अङ्गस्य is a 6th of general relation re-cast per rule (Kāśikā 6.4.1: “संबन्धसामान्य एषा षष्ठी यथायोगं विशेषेष्ववतिष्ठते”); when another word names the part replaced, the niyama does not apply (Bhāṣya 1.1.49: “सन्देहे नियमः”)."
+   },
+   {
+    "text": "उत्तरस्य: 6th case → names the place — the thing replaced (“स्थाने”)",
+    "n": "3.1.47 (15)",
+    "why": "3.1.47 न दृशः is a prohibition (Kāśikā: “क्सादेशो न भवति”): no substitute is taught, so 1.1.49 has no work (Nyāsa 1.1.49: “योगः पुनरिह स्थान्यादेशभावलक्षणः।”)."
+   }
+  ],
+  "proposed_gloss": "a 6th-case word names WHAT IS REPLACED (… स्थाने) — only where a substitute is taught and no other word names the part",
+  "proposed_explanation": "Where a rule teaches a substitute, a 6th-case word whose link is otherwise unclear names what is replaced (“… स्थाने”). Not in augment rules (the 6th is the host), not where another word names the part replaced (उपधायाः, एचः), not where no substitute is taught. (Bhāṣya: “सन्देहे नियमः।”)",
+  "quote": {
+   "file": "bhashya",
+   "id": "11049",
+   "quote": "सन्देहे नियमः।"
+  }
+ },
+ "1.1.50": {
+  "gaps": [
+   {
+    "condition": "It works only where one original could get several substitutes; it picks among them — not for a prohibition or a single named substitute.",
+    "status": "not taught",
+    "why": "Not said anywhere; the explanation reads as if every substitute were chosen by nearness."
+   },
+   {
+    "condition": "Nearness is by place, meaning, quality (effort) and measure; place is strongest.",
+    "status": "partly",
+    "why": "Explanation says 'nearest in articulation' — place only; meaning (puṃvat 6.3.34) and measure (two अs → आ) are left out."
+   },
+   {
+    "condition": "The most similar substitute comes.",
+    "status": "taught",
+    "why": "Gloss and explanation."
+   },
+   {
+    "condition": "Commentators use 1.1.50, not 1.3.10, to pair lists whose counts or classes do not match.",
+    "status": "not taught",
+    "why": "Background (cross-reference to 1.3.10)."
+   }
+  ],
+  "contradicted_texts": [],
+  "proposed_gloss": "when several substitutes could come, the one MOST LIKE the original comes — by place, effort, length or meaning",
+  "proposed_explanation": "Where a rule allows several substitutes for one original (guṇa = अ/ए/ओ; a class like जश्), the one most like it is chosen — by place of articulation first, then effort, length or meaning (चेता, स्तोता). It does nothing where only one substitute is possible. (Kāśikā: “स्थाने प्राप्यमाणानामन्तरतम आदेशो भवति सदृशतमः।”)",
+  "quote": {
+   "file": "kashika",
+   "id": "11050",
+   "quote": "स्थाने प्राप्यमाणानामन्तरतम आदेशो भवति सदृशतमः।"
+  }
+ },
+ "1.1.51": {
+  "gaps": [
+   {
+    "condition": "An अण् (अ इ उ) in place of ऋ comes with र्; in place of ऌ, with ल् — at the moment it is taught.",
+    "status": "partly",
+    "why": "Gloss has ल्; the explanation drops ऌ/ल् and the ‘at once’ point."
+   },
+   {
+    "condition": "The original must be ऋ (खेयम्, गेयम् get nothing).",
+    "status": "taught",
+    "why": "Implied by both texts."
+   },
+   {
+    "condition": "अण् here is अ इ उ only (the earlier ण्); a yaṇ र् or ऋ itself takes nothing.",
+    "status": "taught",
+    "why": "Explanation: 'a / i / u'."
+   }
+  ],
+  "contradicted_texts": [],
+  "proposed_gloss": "an अ, इ or उ replacing ऋ comes with र् (अर्, आर्, इर्, उर्); replacing ऌ, with ल्",
+  "proposed_explanation": "When अ, इ or उ comes in place of ऋ/ॠ, it comes with र् after it (कर्ता, किरति); in place of ऌ, with ल्. The र् is there from the moment the substitute is taught. Other substitutes (a yaṇ) take nothing. (Kāśikā: “उः स्थानेऽण् प्रसज्यमान एव रपरो वेदितव्यः।”)",
+  "quote": {
+   "file": "kashika",
+   "id": "11051",
+   "quote": "उः स्थानेऽण् प्रसज्यमान एव रपरो वेदितव्यः।"
+  }
+ },
+ "1.1.52": {
+  "gaps": [
+   {
+    "condition": "The substitute must be ONE sound (counted without it-letters); a multi-sound or śit substitute replaces the whole (1.1.55), a ṅit one the last sound (1.1.53).",
+    "status": "not taught",
+    "why": "Gloss 'a replacement replaces the LAST sound' and the explanation omit it; only some step texts ('a single sound → LAST') carry it."
+   },
+   {
+    "condition": "If the place is already one sound, or a position word (उपधायाः, टेः, आदेः), 1.1.52 decides nothing.",
+    "status": "not taught",
+    "why": "Not said; contradicted at 6.4.34 (उपधा), 6.4.144 (टि), 8.2.9 (म of मतुप्)."
+   },
+   {
+    "condition": "Only substitutes for a 6th-case place: augments are outside it.",
+    "status": "not taught",
+    "why": "Not said; contradicted at 7.1.6/7.1.7 (रुट्)."
+   },
+   {
+    "condition": "लुक् removes the WHOLE suffix (1.1.61); लोप does take 1.1.52.",
+    "status": "not taught",
+    "why": "Not said; contradicted at 6.4.104 (चिणो लुक्)."
+   },
+   {
+    "condition": "What it does: picks the last sound of a longer 6th-case item.",
+    "status": "partly",
+    "why": "Said, but without the deciding limits."
+   },
+   {
+    "condition": "After a 5th-case word, the first sound (1.1.54).",
+    "status": "not taught",
+    "why": "Cross-reference only."
+   },
+   {
+    "condition": "PIS 105: a meaningless named piece goes whole (except abhyāsa).",
+    "status": "not taught",
+    "why": "Background."
+   },
+   {
+    "condition": "ह्रस्व/दीर्घ/प्लुत via 1.2.28: tadanta qualifiers → last vowel; a medial vowel is 'the ac of X'.",
+    "status": "not taught",
+    "why": "Background."
+   }
+  ],
+  "contradicted_texts": [
+   {
+    "text": "इ: a single sound → it replaces the LAST sound",
+    "n": "6.4.34 (9)",
+    "why": "इ replaces the उपधा of शास् (Kāśikā 6.4.34: “शास उपधाया इकारादेशो भवति”); Bhāṣya 1.1.49 names शास इदङ्हलोः as a case where the part is named."
+   },
+   {
+    "text": "the place is a whole aṅga/dhātu and the replacement is one sound → it replaces the LAST sound → अन्त्यस्य अलः",
+    "n": "6.4.104",
+    "why": "लुक् removes the whole suffix after चिण् (Kāśikā: “चिण उत्तरस्य प्रत्ययस्य लुग् भवति”)."
+   },
+   {
+    "text": "the place is a whole aṅga/dhātu and the replacement is one sound → it replaces the LAST sound → अन्त्यस्य अलः",
+    "n": "6.4.144",
+    "why": "The lopa is of the whole टि (Kāśikā: “नकारान्तस्य भस्य टेर्लोपो भवति”); a position word leaves 1.1.52 nothing to decide."
+   },
+   {
+    "text": "व्: a single sound → it replaces the LAST sound",
+    "n": "8.2.9 (also 8.2.10, 8.2.11, 8.2.14, 8.2.15)",
+    "why": "व replaces the म of मतुप् after a 5th-case condition (मात्) — the first sound, by 1.1.54 (Kāśikā 8.2.9: “मतोर्व इत्ययमादेशो भवति”)."
+   },
+   {
+    "text": "कु: more than one sound → it replaces the WHOLE of the place",
+    "n": "8.2.62 (and कु at 17 sūtras incl. 7.2.104, 7.3.52–58)",
+    "why": "कु is an उदित् = one sound of the k-class; Kāśikā 8.2.62: “तस्य पदस्यालोऽन्त्यस्य कवर्गादेशो भवति”."
+   },
+   {
+    "text": "उत्: more than one sound → it replaces the WHOLE of the place",
+    "n": "6.1.131 (and 6.1.113, 6.1.114, 6.4.110, 7.1.102, 7.1.103, 7.4.88, 7.4.89)",
+    "why": "उत् is one sound (त् only marks tapara); Kāśikā 6.1.131 “दिवः पदस्योकारादेशो भवति” — the audit records 6.1.131 as a place with no sarvādeśa."
+   }
+  ],
+  "proposed_gloss": "a one-sound substitute replaces only the LAST sound of the 6th-case item (a multi-sound one: 1.1.55; augments: 1.1.46)",
+  "proposed_explanation": "When one sound is taught in place of a longer item named in the 6th case, it replaces only that item's last sound. Not when the place is itself one sound or a position (उपधा, टि), not for augments, and not for लुक् — the whole suffix goes. (Nyāsa: “आदेशः पुनरत्रैकाल्लभ्यते।”)",
+  "quote": {
+   "file": "nyaas",
+   "id": "11052",
+   "quote": "आदेशः पुनरत्रैकाल्लभ्यते।"
+  }
+ },
+ "1.1.53": {
+  "gaps": [
+   {
+    "condition": "Where the ङ् has another job (तातङ् 7.1.35: it blocks guṇa/vṛddhi), 1.1.55 wins and the substitute replaces the whole.",
+    "status": "not taught",
+    "why": "Not said."
+   },
+   {
+    "condition": "A ṅit substitute, even of several sounds, replaces only the last sound; apavāda of 1.1.55.",
+    "status": "taught",
+    "why": "Gloss, explanation, cards at 4.1.97, 6.4.77 — but several steps contradict it (below)."
+   },
+   {
+    "condition": "The string ङिच्च in other texts (ङिच्च पिन्न; 3.4.103) is not 1.1.53.",
+    "status": "not taught",
+    "why": "Engine-side only."
+   }
+  ],
+  "contradicted_texts": [
+   {
+    "text": "अवङ्: more than one sound → it replaces the WHOLE of the place",
+    "n": "6.1.123",
+    "why": "अवङ् is ṅit: it replaces only the ओ of गो (Kāśikā 1.1.53: “ङिच्च य आदेशः, सोऽनेकालपि अलोऽन्त्यस्य स्थाने भवति।”)."
+   },
+   {
+    "text": "रीङ्: more than one sound → it replaces the WHOLE of the place",
+    "n": "7.4.27",
+    "why": "रीङ् is ṅit and replaces the final ऋ (Kāśikā 7.4.27: “रीङित्ययमादेशो भवति”)."
+   },
+   {
+    "text": "आनङ् / अनङ्: more than one sound → it replaces the WHOLE of the place",
+    "n": "6.3.25, 6.3.26; 7.1.93, 7.1.94",
+    "why": "Both are ṅit substitutes → last sound only, by 1.1.53."
+   },
+   {
+    "text": "the place is a whole aṅga/dhātu and the replacement is one sound → it replaces the LAST sound",
+    "n": "6.4.77",
+    "why": "Right result, wrong reason: इयङ्/उवङ् have several sounds; it is 1.1.53 (the card on the same sūtra says so)."
+   }
+  ],
+  "proposed_gloss": "a ङित् substitute replaces only the last sound, even with several sounds (not where the ङ् has another job, e.g. तातङ्)",
+  "proposed_explanation": "A substitute marked with ङ् (अनङ्, इयङ्, अवङ्, रीङ्) replaces only the last sound of the 6th-case item, even though it has several sounds — overriding 1.1.55. Where the ङ् has another job (तातङ्: it blocks guṇa), it replaces the whole. (Kāśikā: “ङिच्च य आदेशः, सोऽनेकालपि अलोऽन्त्यस्य स्थाने भवति।”)",
+  "quote": {
+   "file": "kashika",
+   "id": "11053",
+   "quote": "ङिच्च य आदेशः, सोऽनेकालपि अलोऽन्त्यस्य स्थाने भवति।"
+  }
+ },
+ "1.1.54": {
+  "gaps": [
+   {
+    "condition": "1.1.55 overrides it: a multi-sound or śit substitute replaces the whole even after a 5th-case word (अतो भिस ऐस्); लुक् removes the whole suffix.",
+    "status": "not taught",
+    "why": "Not said."
+   },
+   {
+    "condition": "Applies to what FOLLOWS a 5th-case word (via 1.1.67): its first sound.",
+    "status": "partly",
+    "why": "Gloss ties it to the 5th case; the explanation says only 'a substitute for what follows'."
+   },
+   {
+    "condition": "Commentators often name 1.1.54 counterfactually — not an application.",
+    "status": "not taught",
+    "why": "Engine-side only."
+   }
+  ],
+  "contradicted_texts": [
+   {
+    "text": "व्: a single sound → it replaces the LAST sound",
+    "n": "8.2.9 (4)",
+    "why": "After मात् (5th) the व replaces the FIRST sound of मतुप् — this rule, not 1.1.52."
+   }
+  ],
+  "proposed_gloss": "after a 5th-case word, the operation on what follows hits its FIRST sound (a multi-sound or śit substitute still takes all)",
+  "proposed_explanation": "When a rule operates on what comes after a 5th-case word (1.1.67), a one-sound substitute or elision hits only the first sound of that item. A substitute of several sounds, or a śit one, still replaces the whole (अतो भिस ऐस्), and लुक् removes the whole suffix. (Kāśikā: “परस्य कार्यं शिष्यमाणमादेरलः प्रत्येतव्यम्”)",
+  "quote": {
+   "file": "kashika",
+   "id": "11054",
+   "quote": "परस्य कार्यं शिष्यमाणमादेरलः प्रत्येतव्यम्"
+  }
+ },
+ "1.1.55": {
+  "gaps": [
+   {
+    "condition": "Sounds are counted AFTER the it-letters are removed (नानुबन्धकृतमनेकाल्त्वम्): उत्, अङ्, चङ्, सिच्, तृ, कु, रु, चिण् are one sound each.",
+    "status": "contradicted",
+    "why": "Not taught, and the step texts count markers as sounds across dozens of sūtras (below)."
+   },
+   {
+    "condition": "Only a substitution of a 6th-case item: an augment, a new suffix, a nipātana, an atideśa, a prohibition, or a number/gender/case rule is outside it.",
+    "status": "contradicted",
+    "why": "Not taught; steps apply 'more than one sound → WHOLE' to augments (मुम्, ईट्, अम्) and to non-substitutes (बहुवचन, तृतीया, नपुंसकम्, लोपः)."
+   },
+   {
+    "condition": "An initial it-letter that is an it only because the substitute is a pratyaya still counts when it is taught (डा, णल्) → whole.",
+    "status": "contradicted",
+    "why": "Not taught; the 3.4.82/3.4.83 steps say 'णल्: a single sound → LAST'."
+   },
+   {
+    "condition": "Beats 1.1.54 by paratva (अतो भिस ऐस्).",
+    "status": "not taught",
+    "why": "Not said here or at 1.1.54."
+   },
+   {
+    "condition": "ṅit exception (1.1.53) and its own exception (तातङ्).",
+    "status": "partly",
+    "why": "Taught under 1.1.53 only."
+   },
+   {
+    "condition": "A multi-sound or śit substitute replaces the whole.",
+    "status": "taught",
+    "why": "Gloss, explanation, the 2.4.37 card."
+   }
+  ],
+  "contradicted_texts": [
+   {
+    "text": "उत्: more than one sound → it replaces the WHOLE of the place",
+    "n": "6.1.113, 6.1.114, 6.1.131, 6.4.110, 7.1.102, 7.1.103, 7.4.88, 7.4.89",
+    "why": "उत् is one sound; markers do not count (Bhāṣya 1.1.55: “नानुबन्धकृतमनेकाल्त्वं”); Śekhara PIS 6 names अर्वणस्तृ as not sarvādeśa for the same reason."
+   },
+   {
+    "text": "अङ् / चङ् / सिच् / चिण्: more than one sound → it replaces the WHOLE of the place",
+    "n": "3.1.44, 3.1.48–3.1.59, 3.1.60–3.1.66",
+    "why": "अङ्/चङ्/चिण् are one vowel, सिच् is स्; the original च्लि is itself one sound, so 'the whole' is trivially right but the stated reason is false."
+   },
+   {
+    "text": "कु / रु / चु / श्चु / ष्टु: more than one sound → it replaces the WHOLE of the place",
+    "n": "कु 17 sūtras (7.2.104, 7.3.52–58 …), रु 11 (8.2.66 …), चु 7.4.62–64, श्चु 8.4.40/44, ष्टु 8.4.42/43",
+    "why": "These name one sound of a class (उदित्, 1.1.69) or a class sound-for-sound; each substitute is a single sound."
+   },
+   {
+    "text": "विसर्जनीय / अनुस्वार / अनुनासिक / परसवर्ण: more than one sound → it replaces the WHOLE of the place",
+    "n": "8.3.15, 8.3.16, 8.3.35, 8.3.36; 8.3.23/24; 8.3.2, 8.4.45, 8.4.57; 8.4.58–62",
+    "why": "Each is the name of a single sound, not a multi-sound substitute."
+   },
+   {
+    "text": "बहुवचन / द्विवचन / तृतीया / नपुंसकम् / तुल्यम् / एक-शेष / लोपः: more than one sound → it replaces the WHOLE of the place",
+    "n": "1.2.56–1.2.64, 2.3.3, 2.4.25, 3.4.97, 3.4.99, 7.4.4",
+    "why": "Not substitutes (number/case/gender/atideśa rules) or not sounds (लोप); 1.1.55 is outside its scope."
+   },
+   {
+    "text": "मुम् / ईट् / अम्: more than one sound → it replaces the WHOLE of the place",
+    "n": "6.3.67, 6.3.70–72; 7.3.94–98; 6.1.58, 6.1.59",
+    "why": "Augments: placed by 1.1.46/1.1.47, they replace nothing."
+   },
+   {
+    "text": "णल्: a single sound → it replaces the LAST sound",
+    "n": "3.4.82, 3.4.83",
+    "why": "णल् is anekāl when taught (its ण् is not yet an it) and replaces the whole (Padamañjarī 3.4.82: “णकारस्यानेकालत्वात्सर्वादेशः”)."
+   }
+  ],
+  "proposed_gloss": "a substitute of more than one sound (not counting it-letters), or a śit one, replaces the WHOLE item",
+  "proposed_explanation": "A substitute of more than one real sound, or one marked श्, replaces the whole 6th-case item (अस्तेर्भूः). Count without it-letters: उत्, अङ्, सिच्, कु, रु are one sound (→ 1.1.52); डा and णल् count their first letter. Augments and case/number rules are outside it. (Bhāṣya: “नानुबन्धकृतमनेकाल्त्वं भवतीति”)",
+  "quote": {
+   "file": "bhashya",
+   "id": "11055",
+   "quote": "नानुबन्धकृतमनेकाल्त्वं भवतीति"
+  }
+ },
+ "1.1.56": {
+  "gaps": [
+   {
+    "condition": "Only a real substitute counts: an augment, a newly introduced suffix, a nipātana, a prakṛtibhāva, a number/gender/case rule or an atideśa introduces nothing to be sthānivat.",
+    "status": "contradicted",
+    "why": "Not taught; the step note 'X replaces Y → the replacement is treated like what it replaced' is attached to augments (ईट्, मुम्, अम्, युट्, वुक्, दुक्, नुम्, याट् …), to non-substitutes (नपुंसकम्, तुल्यम्, भाषितपुंस्कम्) and to prohibitions."
+   },
+   {
+    "condition": "What is inherited is the status later rules depend on (dhātu, aṅga, kṛt, taddhita, avyaya, sup, tiṅ, pada), so a later rule applies to the substitute.",
+    "status": "partly",
+    "why": "The step example 'a तिङ् replacing a तिङ् is still तिङ्' shows it; gloss/explanation say only 'treated like the replaced'."
+   },
+   {
+    "condition": "Anal-vidhi: not for an operation that depends on a SOUND of the original (द्यौः, पन्थाः, सः).",
+    "status": "partly",
+    "why": "Gloss says 'except in single-sound rules' — ambiguous (it is about rules conditioned by a sound of the original, not rules teaching one sound)."
+   },
+   {
+    "condition": "It is an atideśa used where a later operation is done ('… कर्तव्ये'), not in stating the substitution.",
+    "status": "not taught",
+    "why": "Engine-side mainly."
+   },
+   {
+    "condition": "1.1.57–1.1.59 extend and limit it for vowel substitutes.",
+    "status": "not taught",
+    "why": "Background."
+   }
+  ],
+  "contradicted_texts": [
+   {
+    "text": "ईट् / मुम् / अम् / युट् / वुक् / नुम् … replaces X → the replacement is treated like what it replaced",
+    "n": "7.3.94–98, 6.3.67, 6.3.70–72, 6.1.58, 6.1.59, 6.4.63, 6.4.88, 6.3.99, 6.4.159, 7.1.81, 7.3.38, 7.3.113, 7.4.17, 7.4.84, 7.4.90, 8.3.28",
+    "why": "Augments are not substitutes (BM 1.1.56: “यस्य स्थानेऽन्यद्विधीयते तत्स्थानि । येन विधीयमानेन अन्यत्प्रसक्तं निवर्तते स आदेशः ।”). These texts are not tagged with pid 1.1.56 in the input but teach its content."
+   },
+   {
+    "text": "नपुंसकम् / तुल्यम् / प्रधान-प्रत्यय-अर्थवचनम् / भाषितपुंस्कम् … replaces X → the replacement is treated like what it replaced",
+    "n": "2.4.25, 1.2.57, 1.2.56, 7.1.74, 3.3.116, 7.3.25",
+    "why": "Gender, number and atideśa rules introduce no substitute."
+   },
+   {
+    "text": "… आदेशो न भवति … → the replacement is treated like what it replaced",
+    "n": "3.1.51, 6.4.85, 7.1.11, 7.3.59, 7.3.60",
+    "why": "Prohibitions: nothing is substituted."
+   }
+  ],
+  "proposed_gloss": "a substitute keeps the original's status (dhātu, aṅga, sup, tiṅ …) — but not for a rule that depends on a sound of the original",
+  "proposed_explanation": "A substitute counts as the original for later rules that depend on its status (dhātu, aṅga, kṛt, sup, tiṅ, pada), not for a rule that depends on one of its sounds (द्यौः, पन्थाः). Only a real substitute — not an augment, a new suffix or a prohibition. (Kāśikā: “अनल्विधाविति किम्? द्युपथित्यदादेशा न स्थानिवद् भवन्ति।”)",
+  "quote": {
+   "file": "kashika",
+   "id": "11056",
+   "quote": "अनल्विधाविति किम्? द्युपथित्यदादेशा न स्थानिवद् भवन्ति।"
+  }
+ },
+ "1.1.60": {
+  "gaps": [
+   {
+    "condition": "लोप is the non-appearance of what was DUE (प्रसक्तस्य), a saṃjñā needed to read every vṛtti using the word.",
+    "status": "partly",
+    "why": "Gloss says 'non-appearance' without 'of what was due'; no explanation."
+   },
+   {
+    "condition": "स्थाने is carried in: lopa takes the place of what it removes (so it 'counts as a replacement').",
+    "status": "taught",
+    "why": "Gloss and the 1.3.9 card."
+   }
+  ],
+  "contradicted_texts": [],
+  "proposed_gloss": "लोप = the non-appearance of what would otherwise appear; it stands in the place of what it removes",
+  "proposed_explanation": "लोप names the disappearance of an element that was due to appear. It stands in the place of what it removes, so it is treated as a substitute: on a longer item it removes only the last sound (1.1.52) unless the rule says otherwise. (Kāśikā: “प्रसक्तस्यादर्शनं लोपसंज्ञं भवति।”)",
+  "quote": {
+   "file": "kashika",
+   "id": "11060",
+   "quote": "प्रसक्तस्यादर्शनं लोपसंज्ञं भवति।"
+  }
+ },
+ "1.1.61": {
+  "gaps": [
+   {
+    "condition": "लुक्, श्लु, लुप् name the disappearance of a whole SUFFIX; a sūtra says लुक् precisely to remove the whole suffix.",
+    "status": "contradicted",
+    "why": "The gloss shown is the placeholder 'cited by the paribhāṣā audit' — nothing is taught — and the 6.4.104 step says the replacement 'replaces the LAST sound'."
+   }
+  ],
+  "contradicted_texts": [
+   {
+    "text": "cited by the paribhāṣā audit  [the gloss itself]",
+    "n": "(every page showing 1.1.61)",
+    "why": "A placeholder, not a gloss."
+   },
+   {
+    "text": "the place is a whole aṅga/dhātu and the replacement is one sound → it replaces the LAST sound → अन्त्यस्य अलः",
+    "n": "6.4.104 (7)",
+    "why": "चिणो लुक् removes the whole suffix (Kāśikā 6.4.104: “चिण उत्तरस्य प्रत्ययस्य लुग् भवति”)."
+   }
+  ],
+  "proposed_gloss": "लुक्, श्लु, लुप् = names for the disappearance of a whole SUFFIX",
+  "proposed_explanation": "लुक्, श्लु and लुप् name the disappearance of a suffix. A rule ordering one of them removes the whole suffix, not just its last sound, and the name matters later (1.1.63: after a लु-elision the aṅga undergoes no operation caused by that suffix). (Kāśikā: “प्रत्ययादर्शनस्य लुक्, श्लु, लुप् इत्येताः संज्ञा भवन्ति।”)",
+  "quote": {
+   "file": "kashika",
+   "id": "11061",
+   "quote": "प्रत्ययादर्शनस्य लुक्, श्लु, लुप् इत्येताः संज्ञा भवन्ति।"
+  }
+ },
+ "1.1.62": {
+  "gaps": [
+   {
+    "condition": "After a suffix is elided, operations conditioned by it still take place.",
+    "status": "not taught",
+    "why": "No gloss, no explanation."
+   },
+   {
+    "condition": "1.1.63 prohibits it for the aṅga when the elision is by a लु-word.",
+    "status": "not taught",
+    "why": "Only the 1.1.63 card hints at it."
+   }
+  ],
+  "contradicted_texts": [],
+  "proposed_gloss": "after a suffix is elided, the operations it causes still apply (not on the aṅga after लुक्/श्लु/लुप्, 1.1.63)",
+  "proposed_explanation": "When a suffix has been elided by लोप, the operations it would cause still take place, as if it were present. 1.1.63 limits this: if the elision is by a word containing लु (लुक्, श्लु, लुप्), the aṅga undergoes no operation caused by it. (Kāśikā: “प्रत्ययलोपे कृते प्रत्ययलक्षणं प्रत्ययहेतुकं कार्यं भवति।”)",
+  "quote": {
+   "file": "kashika",
+   "id": "11062",
+   "quote": "प्रत्ययलोपे कृते प्रत्ययलक्षणं प्रत्ययहेतुकं कार्यं भवति।"
+  }
+ },
+ "1.1.64": {
+  "gaps": [
+   {
+    "condition": "टि = the part from the last vowel to the end.",
+    "status": "taught",
+    "why": "Gloss."
+   },
+   {
+    "condition": "A rule on the टि (टेः) affects that whole piece; 1.1.52 does not narrow it.",
+    "status": "contradicted",
+    "why": "No explanation; the 6.4.144 step says 'replaces the LAST sound'."
+   }
+  ],
+  "contradicted_texts": [
+   {
+    "text": "the place is a whole aṅga/dhātu and the replacement is one sound → it replaces the LAST sound → अन्त्यस्य अलः",
+    "n": "6.4.144 (2)",
+    "why": "The lopa is of the whole टि (Kāśikā 6.4.144: “नकारान्तस्य भस्य टेर्लोपो भवति”)."
+   }
+  ],
+  "proposed_gloss": "टि = the last vowel together with everything after it",
+  "proposed_explanation": "टि names the last vowel of a word together with everything after it. A rule that operates on the टि (टेः) affects that whole piece: टित आत्मनेपदानां टेरे replaces it with ए, नस्तद्धिते drops it. (Kāśikā: “अचां संनिविष्टानां योऽन्त्योऽच्, तदादि शब्दरूपं टिसंज्ञं भवति।”)",
+  "quote": {
+   "file": "kashika",
+   "id": "11064",
+   "quote": "अचां संनिविष्टानां योऽन्त्योऽच्, तदादि शब्दरूपं टिसंज्ञं भवति।"
+  }
+ },
+ "1.1.65": {
+  "gaps": [
+   {
+    "condition": "उपधा = the ONE sound just before the last; never a group (शिष्टः).",
+    "status": "partly",
+    "why": "Gloss 'the sound before the last' implies one sound; no explanation."
+   },
+   {
+    "condition": "A rule on the उपधा changes that sound, not the last one.",
+    "status": "contradicted",
+    "why": "The 6.4.34 step says the इ 'replaces the LAST sound'."
+   }
+  ],
+  "contradicted_texts": [
+   {
+    "text": "इ: a single sound → it replaces the LAST sound",
+    "n": "6.4.34 (9)",
+    "why": "इ replaces the उपधा of शास् (Kāśikā 6.4.34: “शास उपधाया इकारादेशो भवति”)."
+   }
+  ],
+  "proposed_gloss": "उपधा = the ONE sound just before the last sound",
+  "proposed_explanation": "उपधा names the single sound just before the final sound of a word or root — one sound only, never a group. A rule on the उपधा changes that sound, not the last one (शास् → शिष्टः: the आ becomes इ). (Kaumudī: “अन्त्यादलः पूर्वो वर्ण उपधासंज्ञः स्यात्”)",
+  "quote": {
+   "file": "kaumudi",
+   "id": "11065",
+   "quote": "अन्त्यादलः पूर्वो वर्ण उपधासंज्ञः स्यात्"
+  }
+ },
+ "1.1.66": {
+  "gaps": [
+   {
+    "condition": "Only a 7th naming a WORD-FORM that follows (a sound, suffix or word) — never a 7th naming a meaning, circumstance or domain (जनपदे, अतिशायने), a viṣaya-saptamī (आर्धधातुके 2.4.35) or a bhāva-lakṣaṇa 7th (क्ङिति 1.1.5).",
+    "status": "contradicted",
+    "why": "The explanation says every 7th-case word 'names what must FOLLOW' — the sources deny this for meaning, viṣaya and nimitta 7ths."
+   },
+   {
+    "condition": "Immediacy: the operation falls on what IMMEDIATELY precedes, with no sound between (अग्निचिदत्र).",
+    "status": "not taught",
+    "why": "Not said."
+   },
+   {
+    "condition": "When a sūtra has both a 5th and a 7th, the 5th wins and the operation falls on the 7th-named element itself (तास्यादिभ्यः …).",
+    "status": "not taught",
+    "why": "Not said."
+   },
+   {
+    "condition": "The operation is on the element BEFORE the 7th-named one (niyama).",
+    "status": "taught",
+    "why": "Gloss."
+   },
+   {
+    "condition": "Where the 7th-named item is itself the recipient (iṭ), 1.1.66 does not decide.",
+    "status": "not taught",
+    "why": "Background."
+   },
+   {
+    "condition": "By lakṣya it does not apply in कर्तृकर्मणोः कृति; ekādeśa rules take both neighbours.",
+    "status": "not taught",
+    "why": "Background."
+   }
+  ],
+  "contradicted_texts": [
+   {
+    "text": "a word in the 7th case names what must FOLLOW — so we read “… परे”  [the general explanation]",
+    "n": "1.1.16 (891 cards of this pattern)",
+    "why": "Over-broad: Bhāṣya 1.1.66 “अर्थे मा भूत्”, Kāśikā 2.4.35 “विषयसप्तमी चेयं न परसप्तमी”. Correct on most cards, wrong wherever the 7th names a meaning or domain."
+   }
+  ],
+  "proposed_gloss": "a 7th-case word naming a following sound/suffix/word → the operation is on what IMMEDIATELY precedes it",
+  "proposed_explanation": "A 7th-case word naming a following sound, suffix or word (“… परे”) puts the operation on what comes immediately before it. Not a 7th naming a meaning or domain (आर्धधातुके as ‘in its sphere’); if the rule also has a 5th, the 5th wins. (Bhāṣya: “शब्दे सप्तम्या निर्दिष्टे पूर्वस्य कार्यं यथा स्यात्। अर्थे मा भूत्।”)",
+  "quote": {
+   "file": "bhashya",
+   "id": "11066",
+   "quote": "शब्दे सप्तम्या निर्दिष्टे पूर्वस्य कार्यं यथा स्यात्। अर्थे मा भूत्।"
+  }
+ },
+ "1.1.67": {
+  "gaps": [
+   {
+    "condition": "Immediacy (from 1.1.66): the operation falls on what IMMEDIATELY follows; a sūtra that allows an intervener overrides only that part.",
+    "status": "not taught",
+    "why": "Not said."
+   },
+   {
+    "condition": "The element must already be there; placing a NEW suffix is 3.1.2 परश्च, not 1.1.67.",
+    "status": "taught",
+    "why": "Gloss."
+   },
+   {
+    "condition": "Only a 5th of direction: not a 5th of cause, distance, ‘other than’, or where the sūtra itself says पूर्व / प्राक् / आङ्.",
+    "status": "not taught",
+    "why": "Not said."
+   },
+   {
+    "condition": "Both 5th and 7th: the 5th wins, except where the 7th has no other use (7.2.82 आने मुक्; 6.1.75–76 tuk on the long vowel).",
+    "status": "not taught",
+    "why": "Not said."
+   },
+   {
+    "condition": "Two equivalent readings (niyama / ṣaṣṭhī-prakḷpti); it works in the tripādī too.",
+    "status": "not taught",
+    "why": "Background."
+   }
+  ],
+  "contradicted_texts": [],
+  "proposed_gloss": "5th-case word → the operation falls on what IMMEDIATELY follows, an element already there (placing a suffix is 3.1.2)",
+  "proposed_explanation": "A 5th-case word of direction (‘after X’) puts the operation on what comes immediately after it — something already there (substitute, augment, elision, accent). Placing a new suffix is 3.1.2; a 5th of cause or ‘other than’, or an explicit पूर्व, is not this rule. (Kāśikā: “पञ्चम्यर्थनिर्देश उत्तरस्यैव कार्यं भवति”)",
+  "quote": {
+   "file": "kashika",
+   "id": "11067",
+   "quote": "तस्मादिति पञ्चम्यर्थनिर्देश उत्तरस्यैव कार्यं भवति"
+  }
+ },
+ "1.1.68": {
+  "gaps": [
+   {
+    "condition": "Where the rule word is meant for its SENSE (अर्थपरो निर्देशः) — signalled by a plural, पद, नाम, आख्या, -अर्थ, -वाचिन्, or a word naming a class of words — it does not stand for its own form.",
+    "status": "contradicted",
+    "why": "Not taught; the per-word card '<X> here means the word X itself' is printed for the 5.4.87 list including एकदेश, which the Kāśikā reads by sense (पूर्वरात्रः, अपररात्रः)."
+   },
+   {
+    "condition": "A word stands for its own form, not its meaning or synonyms.",
+    "status": "taught",
+    "why": "Gloss, explanation, cards."
+   },
+   {
+    "condition": "A technical term names its members (घु, घ; also कर्म, करण).",
+    "status": "taught",
+    "why": "'unless it is a technical name'."
+   },
+   {
+    "condition": "Marked words: sit → species; pit → synonyms + species + own; jit → synonyms only; jhit → own + species (vārttikas 5–8).",
+    "status": "not taught",
+    "why": "Matters only at the few marked sūtras (2.4.12, 3.4.40, 2.4.23, 4.4.35)."
+   },
+   {
+    "condition": "Scope: words of the rule (own or carried); a word the commentator adds for a nipātana is not one.",
+    "status": "not taught",
+    "why": "Engine-side."
+   },
+   {
+    "condition": "The Bhāṣya at one point drops the sūtra (pratyākhyāta).",
+    "status": "not taught",
+    "why": "Background."
+   }
+  ],
+  "contradicted_texts": [
+   {
+    "text": "अहन्-सर्व-एकदेश-सङ्ख्यात-पुण्य here means the word अहन्-सर्व-एकदेश-सङ्ख्यात-पुण्य itself, not its meaning or its synonyms",
+    "n": "5.4.87 (2)",
+    "why": "एकदेश is read by sense — words for a part of the night (Kāśikā 5.4.87: “एकदेशे — पूर्वं रात्रेः पूर्वरात्रः। अपररात्रः।”). Also the card hyphen-joins the whole list as one 'word'."
+   },
+   {
+    "text": "(कुण्ड here means the word (कुण्ड itself …",
+    "n": "3.1.130 (13), 6.4.175",
+    "why": "Display defect: a stray '(' is taken into the word."
+   }
+  ],
+  "proposed_gloss": "a word in a rule stands for its own form, not its meaning or synonyms — unless it is a technical term or meant for its sense",
+  "proposed_explanation": "A word quoted in a rule stands for that word-form, not its meaning or synonyms (अग्नि → only the word अग्नि). Not so for a technical term (घु names its members), nor where the rule plainly means the sense — e.g. a plural, or -अर्थ, -वाचिन्. (Kāśikā: “शास्त्रे स्वमेव रूपं शब्दस्य ग्राह्यं … न बाह्योऽर्थः”)",
+  "quote": {
+   "file": "kashika",
+   "id": "11068",
+   "quote": "शास्त्रे स्वमेव रूपं शब्दस्य ग्राह्यं बोध्यं प्रत्याय्यं भवति, न बाह्योऽर्थः"
+  }
+ },
+ "1.1.69": {
+  "gaps": [
+   {
+    "condition": "Not for a sound that is itself being taught (भाव्यमान, अप्रत्यय) — a substitute or suffix stands only for itself.",
+    "status": "not taught",
+    "why": "Not said; the rule text's अप्रत्ययः is never explained."
+   },
+   {
+    "condition": "Not for a tapara sound: only 1.1.70 governs those.",
+    "status": "not taught",
+    "why": "Not said."
+   },
+   {
+    "condition": "An अण् (later ण्) or an उदित् stands for its savarṇas too (उ = उवर्ण, कु = कवर्ग).",
+    "status": "taught",
+    "why": "Gloss, explanation, steps."
+   },
+   {
+    "condition": "Not yet in force for the अच् of 1.1.10.",
+    "status": "not taught",
+    "why": "Background."
+   }
+  ],
+  "contradicted_texts": [],
+  "proposed_gloss": "an अण् or an उदित् also stands for its savarṇas (कु = the k-class) — not when it is what is taught, nor with त् (1.1.70)",
+  "proposed_explanation": "An अण् (vowels, semivowels, ह) or an उदित् (कु = the k-class) in a rule also stands for its savarṇas: उ = उवर्ण, short, long and pluta. Not when that sound is itself what the rule introduces, and not when त् follows it — then only 1.1.70. (Kaumudī: “अविधीयमानोऽण् उदिच्च सवर्णस्य संज्ञा स्यात्”)",
+  "quote": {
+   "file": "kaumudi",
+   "id": "11069",
+   "quote": "अविधीयमानोऽण् उदिच्च सवर्णस्य संज्ञा स्यात्"
+  }
+ },
+ "1.1.70": {
+  "gaps": [
+   {
+    "condition": "Length is the sound's OWN: अत् = short अ, but आत् = long आ, ईत्/ऊत् = long, एत्/ऐत्/ओत्/औत् = the two-mora vowel (pluta excluded).",
+    "status": "contradicted",
+    "why": "Not taught; 24 sūtras print 'only the short आ' (16) or 'only the short ए/ओ/औ' (8) — some steps carry an audit correction, but the cards still show the wrong text."
+   },
+   {
+    "condition": "Not a tapara at all: आत् as the 5th case of अ (आद्गुणः), a त् that belongs to the form (वृक्षात्, ददति), a त् that is a suffix's marker, ऋतोः = ‘season’.",
+    "status": "not taught",
+    "why": "Not said."
+   },
+   {
+    "condition": "A त् said to be only for ease of pronunciation does no 1.1.70 work at that sūtra.",
+    "status": "not taught",
+    "why": "Not said."
+   },
+   {
+    "condition": "A vowel AFTER त् is also tapara (तादपि परस्तपरः).",
+    "status": "not taught",
+    "why": "Minor."
+   },
+   {
+    "condition": "A tapara stands only for sounds of its own length.",
+    "status": "taught",
+    "why": "Gloss and explanation."
+   },
+   {
+    "condition": "Covers every tapara, incl. substitutes (6.4.41 example).",
+    "status": "not taught",
+    "why": "Background."
+   }
+  ],
+  "contradicted_texts": [
+   {
+    "text": "a vowel with त् after it (तपर) means only that one length — only the short आ",
+    "n": "3.1.136 (43 cards of this pattern); 'only the short आ' at 16 sūtras: 3.1.136, 3.1.141, 3.2.3, 3.2.74, 3.3.106, 3.3.128, 5.2.96, 6.4.42, 6.4.43, 6.4.45, 6.4.64, 6.4.112, 6.4.140, 7.1.51, 7.1.52, 7.3.33",
+    "why": "आत् is long आ only (Kāśikā 3.1.136: “आकारान्तेभ्यो धातुभ्य”; Kāśikā 1.1.70: “तत्कालस्यात्मना तुल्यकालस्य”)."
+   },
+   {
+    "text": "… (तपर) → only the short ए / ओ / औ",
+    "n": "1.1.15, 3.4.96, 5.4.11, 6.3.112, 6.4.119, 7.3.71, 7.3.103, 7.3.118",
+    "why": "ए/ओ/ऐ/औ have no short; एत्/ओत् etc. mean the two-mora vowel, excluding pluta. 7.1.51, 7.1.52, 7.3.71 have no audit correction at all."
+   }
+  ],
+  "proposed_gloss": "a vowel with त् (तपर) stands only for its own length: अत् = short अ, आत् = long आ, एत् = ए (not pluta)",
+  "proposed_explanation": "A vowel with त् after it stands only for vowels of its own length: अत् = short अ, आत् = long आ, एत्/ओत् = two-mora ए/ओ, not pluta. Check it is a real tapara: आत् may be the 5th case of अ (आद्गुणः), and a त् may belong to the form. (Kāśikā: “तपरो वर्णस्तत्कालस्यात्मना तुल्यकालस्य … ग्राहको भवति”)",
+  "quote": {
+   "file": "kashika",
+   "id": "11070",
+   "quote": "तपरो वर्णस्तत्कालस्यात्मना तुल्यकालस्य गुणान्तरयुक्तस्य सवर्णस्य ग्राहको भवति"
+  }
+ },
+ "1.1.71": {
+  "gaps": [
+   {
+    "condition": "Look-alikes are not pratyāhāras: the feminine आप् (टाप्/डाप्/चाप्), a root (इण्, आप्ऌ), a noun (हल, शर), a taddhita (यञ्, अण्).",
+    "status": "not taught",
+    "why": "Not said."
+   },
+   {
+    "condition": "First element + a final इत् = all between, and itself.",
+    "status": "taught",
+    "why": "Gloss, explanation, cards."
+   },
+   {
+    "condition": "Covers suffix pratyāhāras (सुप्, तिङ्, सुट्), not only sounds.",
+    "status": "partly",
+    "why": "Explanation says 'every sound'; steps say 'sound/suffix group'."
+   },
+   {
+    "condition": "इक् via 1.1.3 only where no other place is named.",
+    "status": "not taught",
+    "why": "Background (see 1.1.3)."
+   }
+  ],
+  "contradicted_texts": [],
+  "proposed_gloss": "a pratyāhāra: first item + a final इत् marker = everything from that item up to the marker (sounds or suffixes)",
+  "proposed_explanation": "A first element said with a later इत् letter names everything from it up to that marker: अच् = the vowels, सुप् = the case endings, तिङ् = the verb endings. Look-alikes are not pratyāhāras: feminine आप् (टाप्, डाप्), a root like इण्, a suffix like अण्. (Kaumudī: “अन्त्येनेता सहित आदिर्मध्यगानां स्वस्य च संज्ञा स्यात्”)",
+  "quote": {
+   "file": "kaumudi",
+   "id": "11071",
+   "quote": "अन्त्येनेता सहित आदिर्मध्यगानां स्वस्य च संज्ञा स्यात्"
+  }
+ },
+ "1.1.72": {
+  "gaps": [
+   {
+    "condition": "Vārttika 1: no tadanta in rules that prescribe a samāsa or a suffix after a named word (नडादिभ्यः फक् does not reach सूत्रनड) — unless the qualifier is a sound or an ugit (vt.2) or a lift applies (strī section, compounds, listed prayojanas).",
+    "status": "not taught",
+    "why": "The deciding limit of 1.1.72 in suffix/compound rules is never stated on 1.1.72's own cards; only the vt.2 cards ('…so the block is lifted') presuppose it."
+   },
+   {
+    "condition": "A 7th-case sound naming the condition gives tadādi (what BEGINS with it) — PIS 33, an apavāda of tadanta.",
+    "status": "not taught",
+    "why": "Not said."
+   },
+   {
+    "condition": "In the pada and aṅga headings a NAMED word also gets tadanta (परममहान्); a sound qualifier gets it everywhere.",
+    "status": "not taught",
+    "why": "Not said."
+   },
+   {
+    "condition": "A viśeṣya must be present (direct, by heading, or implied); none in एचोऽयवायावः, आद्गुणः.",
+    "status": "taught",
+    "why": "'agreeing with the word it qualifies'; cards name the viśeṣya."
+   },
+   {
+    "condition": "Only the qualifier, never the viśeṣya; a qualifier of the sound (असंयोगपूर्व) qualifies the sound.",
+    "status": "taught",
+    "why": "Gloss and explanation."
+   },
+   {
+    "condition": "A meaningless qualifier gives tadanta only if one sound, plus अन्/इन्/अस्/मन् (PIS 16).",
+    "status": "not taught",
+    "why": "Background."
+   },
+   {
+    "condition": "A named suffix → PIS 23; explicit -अन्त needs no paribhāṣā.",
+    "status": "not taught",
+    "why": "Cross-reference."
+   }
+  ],
+  "contradicted_texts": [],
+  "proposed_gloss": "a qualifier agreeing with the word it qualifies stands for what ENDS in it — never the qualified word; not in samāsa/suffix rules",
+  "proposed_explanation": "A qualifier (viśeṣaṇa) agreeing with the word it qualifies stands for whatever ends in it (“…-अन्त”), never for the qualified word. But in rules that form a samāsa or add a suffix, a named word is not extended (नडादिभ्यः फक् does not reach सूत्रनड) unless it is a sound or an ugit. (Bhāṣya: “समासप्रत्ययविधौ प्रतिषेधः।”)",
+  "quote": {
+   "file": "bhashya",
+   "id": "11072",
+   "quote": "समासप्रत्ययविधौ प्रतिषेधः।"
+  }
+ },
+ "1.1.72 vt.2": {
+  "gaps": [
+   {
+    "condition": "The bar it lifts: vārttika 1 — no tadanta in a samāsa- or suffix-rule after a named base.",
+    "status": "not taught",
+    "why": "No explanation; the gloss '…except an ugit or a SOUND as qualifier' starts mid-sentence."
+   },
+   {
+    "condition": "The exception: the qualifier is an ugit (उगितश्च → भवती, अतिभवती) or a sound (अत इञ् → दाक्षिः).",
+    "status": "taught",
+    "why": "Gloss and cards."
+   },
+   {
+    "condition": "The 'sound' must really be a sound: not a homonymous root/noun/saṃjñā, not a suffix name (PIS 23), not an उपधा/आदि qualifier, not a बह्वच्/द्व्यच् bahuvrīhi.",
+    "status": "partly",
+    "why": "The steps at 4.2.123 and 4.3.72 carry audit corrections making exactly this point; the general text does not."
+   },
+   {
+    "condition": "Kṛt rules with a sound-qualified dhātu: Śekhara says vt.1 never arises there.",
+    "status": "not taught",
+    "why": "Background (credits kept, flagged)."
+   }
+  ],
+  "contradicted_texts": [],
+  "proposed_gloss": "in samāsa/suffix rules a named base is not read as ‘ending in it’ (vt.1) — except an ugit or a single sound (vt.2)",
+  "proposed_explanation": "Vārttika 1 stops 1.1.72 in rules that form a samāsa or add a suffix after a named base (नडादिभ्यः फक् does not reach सूत्रनड). Vārttika 2 lifts the bar when the qualifier is an ugit (उगितश्च → अतिभवती) or a real sound (अत इञ् → दाक्षिः). (Bhāṣya: “उगिद्ग्रहणं वर्णग्रहणं च वर्जयित्वा।”)",
+  "quote": {
+   "file": "bhashya",
+   "id": "11072",
+   "quote": "उगिद्ग्रहणं वर्णग्रहणं च वर्जयित्वा।"
+  }
+ },
+ "1.2.28": {
+  "gaps": [
+   {
+    "condition": "ह्रस्व, दीर्घ, प्लुत taught by those names replace only a vowel; अचः (6th) is supplied.",
+    "status": "contradicted",
+    "why": "The gloss shown is the placeholder 'cited by the paribhāṣā audit'; only the 1.2.47 / 7.4.25 cards teach it."
+   },
+   {
+    "condition": "Only when taught by these NAMES: a vowel named by its own form, or a substitute for the whole टि (8.2.89), is outside it.",
+    "status": "partly",
+    "why": "The 1.2.47 card says 'taught by its own name'; the rest is not said."
+   },
+   {
+    "condition": "Its visible work is where the named place could end in a consonant (सुवाग्, अग्निचि३त्).",
+    "status": "not taught",
+    "why": "Not said."
+   },
+   {
+    "condition": "A prohibition of the long/short teaches nothing to restrict.",
+    "status": "not taught",
+    "why": "Minor."
+   }
+  ],
+  "contradicted_texts": [
+   {
+    "text": "cited by the paribhāṣā audit  [the gloss itself]",
+    "n": "(every page showing 1.2.28)",
+    "why": "A placeholder, not a gloss."
+   }
+  ],
+  "proposed_gloss": "ह्रस्व, दीर्घ, प्लुत taught by those names replace only a VOWEL (अचः is supplied)",
+  "proposed_explanation": "When a rule teaches ह्रस्व, दीर्घ or प्लुत by those names, only a vowel is replaced: अचः is supplied, so in an item ending in a consonant its vowel changes, never the consonant (सुवाग्, अग्निचि३त्). Not when a vowel is named by its own form. (Kāśikā: “ह्रस्वदीर्घप्लुताः स्वसंज्ञया शिष्यमाणा अच एव स्थाने वेदितव्याः।”)",
+  "quote": {
+   "file": "kashika",
+   "id": "12028",
+   "quote": "ह्रस्वदीर्घप्लुताः स्वसंज्ञया शिष्यमाणा अच एव स्थाने वेदितव्याः।"
+  }
+ },
+ "1.3.10": {
+  "gaps": [
+   {
+    "condition": "Only where intended: where the tradition says yathāsaṅkhya is not wanted (frequent: “यथासंख्यमत्र नेष्यते”, a yogavibhāga to avoid it), it does not apply.",
+    "status": "not taught",
+    "why": "Not said; the student is never warned that two equal lists may not pair."
+   },
+   {
+    "condition": "Where a class name (इ, उ = 18 sounds) or nearness decides the match, it is 1.1.50, not 1.3.10.",
+    "status": "not taught",
+    "why": "Not said."
+   },
+   {
+    "condition": "Equal lists pair in order.",
+    "status": "taught",
+    "why": "Gloss, explanation, cards."
+   },
+   {
+    "condition": "Unequal lists do not pair (1.4.90: all with all).",
+    "status": "partly",
+    "why": "Implied by 'same number'."
+   },
+   {
+    "condition": "The lists may be two lists of conditions with one thing taught (समूलाकृतजीवेषु हन्कृञ्ग्रहः).",
+    "status": "partly",
+    "why": "Cards at 3.2.186 and 4.1.87 show such pairings."
+   }
+  ],
+  "contradicted_texts": [],
+  "proposed_gloss": "two lists of the same length pair up in order (yathāsaṅkhya) — unless the commentary says the pairing is not meant",
+  "proposed_explanation": "When a rule has two lists with the same number of members, first goes with first, second with second. Unequal lists do not pair; where the commentators say the pairing is not meant, it does not apply; where nearness decides, it is 1.1.50. (Kāśikā: “स्वरितेन लिङ्गेन यथासंख्यम्, यत्र नेष्यते तत्र स्वरितत्वं न प्रतिज्ञा”)",
+  "quote": {
+   "file": "kashika",
+   "id": "13010",
+   "quote": "स्वरितेन लिङ्गेन यथासंख्यम्, यत्र नेष्यते तत्र स्वरितत्वं न प्रतिज्ञा"
+  }
+ },
+ "1.3.2": {
+  "gaps": [
+   {
+    "condition": "In upadeśa a nasalised vowel is an इत्; such a vowel can also close a pratyāhāra (र = र्, ल् with the अँ of लँण्).",
+    "status": "not taught",
+    "why": "No gloss or explanation; only the 1.1.71 card refers to 1.3.2–3."
+   }
+  ],
+  "contradicted_texts": [],
+  "proposed_gloss": "in the grammar's own statements (upadeśa) a nasalised vowel is an इत् (a marker)",
+  "proposed_explanation": "In the grammar's own statements (upadeśa) a nasalised vowel is an इत्, a marker letter. It can also close a pratyāhāra: र (= र्, ल्) is formed with the nasal अँ of लँण्. (Kāśikā: “तत्र योऽनुनासिकः स इत्संज्ञो भवति।”)",
+  "quote": {
+   "file": "kashika",
+   "id": "13002",
+   "quote": "तत्र योऽनुनासिकः स इत्संज्ञो भवति।"
+  }
+ },
+ "1.4.13": {
+  "gaps": [
+   {
+    "condition": "Where the term works: the अङ्गस्य heading 6.4.1 runs to the end of book 7, not into book 8 (there a rule says अङ्ग itself if it needs it).",
+    "status": "not taught",
+    "why": "Not said."
+   },
+   {
+    "condition": "अङ्गस्य is a 6th of general relation, re-cast per rule — it names the base, not necessarily what is replaced, and is not in apposition to the suffix.",
+    "status": "contradicted",
+    "why": "Not taught; steps print 'अङ्गस्य (carried from 6.4.1) → what is replaced' (6.4.47, 6.4.49, 6.4.63)."
+   },
+   {
+    "condition": "Only a suffix enjoined after the base makes it an aṅga (स्त्री इयती: merely standing before is not enough); the aṅga is relative to that suffix.",
+    "status": "taught",
+    "why": "Gloss: 'what a suffix is introduced after … when that suffix follows'."
+   },
+   {
+    "condition": "तदादि: whatever begins with the base counts — vikaraṇa (स्य, शप्), augment (नुम्).",
+    "status": "partly",
+    "why": "Gloss 'with whatever begins it' is opaque."
+   },
+   {
+    "condition": "It stops before that suffix.",
+    "status": "taught",
+    "why": "Implied."
+   },
+   {
+    "condition": "Distinct from ordinary aṅga 'limb'; coexists with bha/pada.",
+    "status": "not taught",
+    "why": "Background."
+   }
+  ],
+  "contradicted_texts": [
+   {
+    "text": "अङ्गस्य (carried from 6.4.1) → what is replaced: “अङ्गस्य”",
+    "n": "6.4.63 (27; also 6.4.47 (28), 6.4.49 (30))",
+    "why": "See 1.1.49: at 6.4.63 nothing is replaced (युट् augment); at 6.4.49 the य् is what goes. Kāśikā 6.4.1: “संबन्धसामान्य एषा षष्ठी यथायोगं विशेषेष्ववतिष्ठते”."
+   }
+  ],
+  "proposed_gloss": "aṅga = the base a suffix was introduced after, with anything added to it (vikaraṇa, augment), when that suffix follows",
+  "proposed_explanation": "What a suffix was introduced after — a dhātu or prātipadika, with any vikaraṇa or augment added to it — is the aṅga of that suffix. The अङ्गस्य heading (6.4.1) runs to the end of book 7; it names the base, not necessarily the part that changes. (Kāśikā: “यस्मात् प्रत्ययो विधीयते … प्रत्यये परतोऽङ्गसंज्ञं भवति।”)",
+  "quote": {
+   "file": "kashika",
+   "id": "14013",
+   "quote": "यस्मात् प्रत्ययो विधीयते धातोर्वा प्रातिपदिकाद् वा तदादि शब्दरूपं प्रत्यये परतोऽङ्गसंज्ञं भवति।"
+  }
+ },
+ "2.1.1": {
+  "gaps": [
+   {
+    "condition": "Every padavidhi (samāsa etc.) applies only to words that are समर्थ — connected in meaning.",
+    "status": "not taught",
+    "why": "No gloss or explanation; steps only echo “समर्थेन सुबन्तेन सह”."
+   },
+   {
+    "condition": "Scope: samāsa first, but also taddhita (BM 4.1.82).",
+    "status": "not taught",
+    "why": "Not said."
+   }
+  ],
+  "contradicted_texts": [],
+  "proposed_gloss": "a rule that joins words (samāsa, taddhita) applies only to words connected in meaning (समर्थ)",
+  "proposed_explanation": "Every rule that operates on words together — samāsa first, also taddhita — applies only to words that are समर्थ, connected in meaning so as to give the analysed sense; words merely standing side by side do not combine. (Kāśikā: “यः कश्चिदिह शास्त्रे पदविधिः श्रूयते स सर्वः समर्थो वेदितव्यः।”)",
+  "quote": {
+   "file": "kashika",
+   "id": "21001",
+   "quote": "यः कश्चिदिह शास्त्रे पदविधिः श्रूयते स सर्वः समर्थो वेदितव्यः।"
+  }
+ },
+ "3.1.92": {
+  "gaps": [
+   {
+    "condition": "A 7th-case word that states a MEANING (the suffix's kāraka sense, a time, a circumstance — धः कर्मणि ष्ट्रन्, भुवो भावे) is not an upapada.",
+    "status": "not taught",
+    "why": "Not said; the explanation calls every 7th in the section an upapada."
+   },
+   {
+    "condition": "Range: only the third dhātu-heading, 3.1.91–3.4.117 (not च्लि लुङि 3.1.43).",
+    "status": "partly",
+    "why": "'In the kṛt section' — approximately right."
+   },
+   {
+    "condition": "An optional co-occurrence (उपसर्गेऽपि) is not an upapada: the upapada must be present for the suffix.",
+    "status": "not taught",
+    "why": "Not said."
+   },
+   {
+    "condition": "Definition: what a 7th names in the section is the upapada; the suffix comes only when it is present.",
+    "status": "taught",
+    "why": "Gloss, explanation, cards."
+   },
+   {
+    "condition": "1.3.77's उपपद is non-technical.",
+    "status": "not taught",
+    "why": "Background."
+   }
+  ],
+  "contradicted_texts": [],
+  "proposed_gloss": "in the dhātu section (3.1.91–3.4.117) a 7th-case word naming a co-occurring word is an upapada — not one naming a meaning",
+  "proposed_explanation": "In the dhātu section (3.1.91 to the end of book 3) what a sūtra names in the 7th case is the upapada, the word used with the dhātu; the suffix comes only when it is there. A 7th stating the suffix's meaning (कर्मणि in धः कर्मणि ष्ट्रन्) is not an upapada. (Bālamanoramā: “सप्तम्यन्तमर्थनिर्देशपरमेव, व्याख्यानादिति”)",
+  "quote": {
+   "file": "balamanorama",
+   "id": "31092",
+   "quote": "सप्तम्यन्तमर्थनिर्देशपरमेव, व्याख्यानादिति"
+  }
+ },
+ "3.1.94": {
+  "gaps": [
+   {
+    "condition": "The utsarga is the rule the apavāda actually narrows in its own domain; suffixes for different senses (kartari vs bhāva/karman) do not block each other — the kṛtyas (3.1.95–3.1.132) are bhāva/karman only.",
+    "status": "contradicted",
+    "why": "Not taught; cards/steps at 144 sūtras of 3.2–3.4 name a kṛtya (तव्यत्/तव्य/अनीयर्, ण्यत्, यत्) as the utsarga of kartari or other suffixes (विट्, खच्, अतृन्, शानन् …)."
+   },
+   {
+    "condition": "Not for lādeśas (PIS 70: सद्/वस्/श्रु take only क्वसु), not among tācchīlikas (PIS 68), not with a kriyārtha upapada, and after the strī section not for क्त, ल्युट्, तुमुन्, खल् and their senses (PIS 69).",
+    "status": "not taught",
+    "why": "Not said; e.g. 3.2.108 (क्वसु, a lādeśa) still gets a kṛtya-utsarga card."
+   },
+   {
+    "condition": "Only inside the dhātu heading (3.1.91–3.4.117).",
+    "status": "partly",
+    "why": "Gloss says 'not in the strī section' but not the range."
+   },
+   {
+    "condition": "Sarūpa test without markers (PIS 8): a sarūpa apavāda blocks outright.",
+    "status": "not taught",
+    "why": "Not said here (only on the PIS 8 card)."
+   },
+   {
+    "condition": "Strī exception: only when both suffixes are from 3.3.94ff.",
+    "status": "partly",
+    "why": "Gloss: 'not in the strī section'."
+   },
+   {
+    "condition": "A dissimilar apavāda blocks only optionally.",
+    "status": "taught",
+    "why": "Gloss; cards 'they stay available as options'."
+   },
+   {
+    "condition": "Kṛtya generals तव्यत्/तव्य/अनीयर् survive beside यत् etc.",
+    "status": "taught",
+    "why": "3.1.97 card (Bhāṣya 3.1.97)."
+   },
+   {
+    "condition": "णमुल् section: क्त्वा comes too, except where both are taught together.",
+    "status": "not taught",
+    "why": "Background."
+   }
+  ],
+  "contradicted_texts": [
+   {
+    "text": "विट् is an apavāda of ण्यत् (3.1.124; अद्: ends in a consonant) → … they stay available as options",
+    "n": "3.2.68 (7)",
+    "why": "विट् is kartari; ण्यत् is a kṛtya (bhāva/karman). The audit's real utsarga is अण् (Prakriyāsarvasva: अण् beside विट्)."
+   },
+   {
+    "text": "खच् is an apavāda of यत् (3.1.97; भू: ends in a vowel) → …",
+    "n": "3.2.45 (5)",
+    "why": "The audit's real utsarga is ल्युट् (Nyāsa/Tattvabodhinī: ल्युट् also beside खच्)."
+   },
+   {
+    "text": "अतृन् is an apavāda of ण्यत् (3.1.124; जॄ) → …",
+    "n": "3.2.104 (2)",
+    "why": "Real utsarga: निष्ठा (Kāśikā/SK: जीर्णः beside अतृन्)."
+   },
+   {
+    "text": "शानन् is an apavāda of ण्यत् (3.1.124; पू, यज्) → …",
+    "n": "3.2.128 (1)",
+    "why": "Real utsarga: लट् (Nyāsa)."
+   },
+   {
+    "text": "X is an apavāda of तव्यत्, तव्य, अनीयर् / ण्यत् / यत् → they stay available as options",
+    "n": "144 sūtras in 3.2–3.4 (3.2.2, 3.2.4, 3.2.6 …)",
+    "why": "Same defect throughout: Kāśikā 3.1.94's own example pairs क with the kartari ण्वुल्/तृच्, not with a kṛtya."
+   }
+  ],
+  "proposed_gloss": "in the dhātu section a suffix-exception of different form leaves its general suffix optional — same sense only; not strī",
+  "proposed_explanation": "In 3.1.91–3.4.117 an exception suffix whose form differs (markers ignored) from the general suffix it narrows, in the same sense, leaves the general one optional (क beside ण्वुल्/तृच्: विक्षेपकः). Not in the strī section, nor for lādeśas or tācchīlikas. (Kāśikā: “धात्वधिकारेऽसमानरूपोऽपवादप्रत्ययो वा बाधको भवति”)",
+  "quote": {
+   "file": "kashika",
+   "id": "31094",
+   "quote": "धात्वधिकारेऽसमानरूपोऽपवादप्रत्ययो वा बाधको भवति"
+  }
+ },
+ "3.3.108 vt.2": {
+  "gaps": [
+   {
+    "condition": "Optional: a root may be cited bare (दृशः, यजः, खनः) — not an instance of इक्/श्तिप्.",
+    "status": "not taught",
+    "why": "Not said."
+   },
+   {
+    "condition": "Not every final -इ is इक्: an इ for pronunciation (वयि, गमि), an incidental इ, a ṇyanta stem (पूरि).",
+    "status": "not taught",
+    "why": "Not said."
+   },
+   {
+    "condition": "The श्तिप् form carries the vikaraṇa and so picks out one of several homonymous roots (कवतेः, दयतेः).",
+    "status": "taught",
+    "why": "The 7.3.63 card names 'the Kāśikā's choice among 2 roots'."
+   },
+   {
+    "condition": "Two suffixes for CITING a dhātu by name.",
+    "status": "taught",
+    "why": "Gloss and cards."
+   },
+   {
+    "condition": "Names dhātus only.",
+    "status": "partly",
+    "why": "Implied by 'a dhātu is cited'."
+   }
+  ],
+  "contradicted_texts": [],
+  "proposed_gloss": "a dhātu may be cited by name with इक् (भिदि) or श्तिप् (पचति); a bare root or an इ for pronunciation is not this",
+  "proposed_explanation": "A vārttika lets a dhātu be cited by name with इक् (भिदि, छिदि) or श्तिप् (पचति — with its vikaraṇa, which picks the root: दयतेः = दीङ्). It is optional: a bare root (दृशः) is not an instance, and an इ added only for pronunciation (वयि, गमि) is not इक्. (Bhāṣya: “इक्श्तिपावित्येतौ प्रत्ययौ धातुनिर्देशे वक्तव्यौ।”)",
+  "quote": {
+   "file": "bhashya",
+   "id": "33108",
+   "quote": "इक्श्तिपावित्येतौ प्रत्ययौ धातुनिर्देशे वक्तव्यौ।"
+  }
+ },
+ "4.1.82": {
+  "gaps": [
+   {
+    "condition": "Range: a heading over 4.1.83 up to 5.2.140; from 5.3.1 समर्थ and प्रथम stop and only वा continues.",
+    "status": "not taught",
+    "why": "Not said."
+   },
+   {
+    "condition": "वा: every taddhita here is optional against the plain phrase (उपगोरपत्यम्).",
+    "status": "not taught",
+    "why": "The gloss and explanation leave out वा entirely."
+   },
+   {
+    "condition": "प्रथम = the word in the case the defining sentence uses (तस्य, तेन, तत्र …), not the word naming the suffix's meaning (अस्य, अपत्यम्).",
+    "status": "partly",
+    "why": "'In the case the sūtra names' — the pratyayārtha exclusion is not said."
+   },
+   {
+    "condition": "Svārthika suffixes: समर्थ/प्रथम have nothing to work on; some are obligatory.",
+    "status": "not taught",
+    "why": "Background."
+   },
+   {
+    "condition": "Rules that only elide, substitute or prohibit get nothing from it unless a commentator reads it in.",
+    "status": "not taught",
+    "why": "Engine-side."
+   },
+   {
+    "condition": "Nipātanas: case, suffix and meaning come from the form.",
+    "status": "not taught",
+    "why": "Background."
+   }
+  ],
+  "contradicted_texts": [],
+  "proposed_gloss": "a taddhita comes, optionally, after the FIRST-named word, in the case its defining sentence uses (4.1.83–5.2.140)",
+  "proposed_explanation": "From 4.1.83 to 5.2.140 a taddhita comes, optionally (the phrase stays possible: उपगोरपत्यम्), after the first-named word — the one in the case its defining sentence uses (तस्य in तस्यापत्यम्), not the word for the meaning. From 5.3.1 only the option goes on. (Kāśikā: “वेति किम्? वाक्यमपि हि यथा स्यात्”)",
+  "quote": {
+   "file": "kashika",
+   "id": "41082",
+   "quote": "वेति किम्? वाक्यमपि हि यथा स्यात्"
+  }
+ },
+ "6.1.158": {
+  "gaps": [
+   {
+    "condition": "Wherever a rule gives one vowel udātta/svarita, the rest of the pada is anudātta; the one excepted is the vowel the rule accents.",
+    "status": "partly",
+    "why": "No gloss or explanation; the 3.1.3 and 6.2.27 cards say it."
+   },
+   {
+    "condition": "Kāryakāla: present at every such accent rule in the whole text.",
+    "status": "not taught",
+    "why": "Not said."
+   },
+   {
+    "condition": "Domain is the pada, not the sentence.",
+    "status": "not taught",
+    "why": "Not said."
+   },
+   {
+    "condition": "A tripādī accent is asiddha for it (8.4.66), except the ekādeśa-svara (8.2.5 vārttika).",
+    "status": "not taught",
+    "why": "Background."
+   },
+   {
+    "condition": "Rules teaching two udāttas at once override it.",
+    "status": "not taught",
+    "why": "Background."
+   }
+  ],
+  "contradicted_texts": [],
+  "proposed_gloss": "where a rule gives one vowel udātta or svarita, every other vowel of that pada is anudātta",
+  "proposed_explanation": "Wherever a rule makes one vowel udātta or svarita, every other vowel of that pada becomes anudātta — the one kept is the vowel the rule accents. It is read into every such rule, works within one pada, and tripādī accents are asiddha for it. (Kāśikā: “कः पुनरेको वर्ज्यते ? यस्यासौ स्वरो विधीयते।”)",
+  "quote": {
+   "file": "kashika",
+   "id": "61158",
+   "quote": "कः पुनरेको वर्ज्यते ? यस्यासौ स्वरो विधीयते।"
+  }
+ },
+ "8.2.1": {
+  "gaps": [
+   {
+    "condition": "A heading to the end of the text: each later rule is asiddha for every earlier one (the first 7¼ books, and within the tripādī).",
+    "status": "not taught",
+    "why": "No gloss, explanation or card."
+   },
+   {
+    "condition": "It runs into every tripādī sūtra and forms one sentence with it.",
+    "status": "not taught",
+    "why": "Not said (only 'पूर्वत्रासिद्धम् → carried in' in step lists)."
+   },
+   {
+    "condition": "Limits on its effect: नलोप is asiddha only for sup/svara/saṃjñā/kṛt-tuk (8.2.2); some vārttikas make operations siddha.",
+    "status": "not taught",
+    "why": "Background."
+   }
+  ],
+  "contradicted_texts": [],
+  "proposed_gloss": "from here to the end, each later rule counts as not yet applied (asiddha) for every earlier rule",
+  "proposed_explanation": "पूर्वत्रासिद्धम् heads 8.2.1 to the end of the Aṣṭādhyāyī: each later rule counts as not having applied for all earlier rules — the first seven and a quarter books and the earlier tripādī rules alike. It runs into every tripādī sūtra. (Kāśikā: “उत्तरो योगः पूर्वत्रपूर्वत्रासिद्धो भवति”)",
+  "quote": {
+   "file": "kashika",
+   "id": "82001",
+   "quote": "उत्तरो योगः पूर्वत्रपूर्वत्रासिद्धो भवति, असिद्धवद् भवति।"
+  }
+ },
+ "PIS 119": {
+  "gaps": [
+   {
+    "condition": "A nipātana is taught only where a general rule would apply, so in its own domain it blocks that rule (the regular form is not also right); the rival view is against the Bhāṣya.",
+    "status": "not taught",
+    "why": "No gloss, explanation or card."
+   },
+   {
+    "condition": "Scope: the sūtra must state a ready-made form (निपात्यते); a time rule or saṃjñā that validates words another way is not a nipātana.",
+    "status": "not taught",
+    "why": "Not said."
+   },
+   {
+    "condition": "Not where the text says the regular form is also used; with an optional nipātana blocking makes no difference.",
+    "status": "not taught",
+    "why": "Not said."
+   }
+  ],
+  "contradicted_texts": [],
+  "proposed_gloss": "a ready-made form (nipātana) blocks the general rule in its own domain — the regular form is not also right there",
+  "proposed_explanation": "A sūtra gives a ready-made form (निपात्यते) only where some general rule would otherwise apply, so in its own domain it blocks that rule: the regular form is not also correct. Not where the text says the regular form is used too, or keeps it as an option. (Śekhara: “अबाधकान्यपि निपातनानीति तु भाष्यविरुद्धम्”)",
+  "quote": {
+   "file": "paribhashendushekhar",
+   "id": "119",
+   "quote": "अबाधकान्यपि निपातनानीति तु भाष्यविरुद्धम्"
+  }
+ },
+ "PIS 122": {
+  "gaps": [
+   {
+    "condition": "A suffix taught with no meaning has the meaning of its own base (स्वीयप्रकृत्यर्थ).",
+    "status": "taught",
+    "why": "Gloss and the 4.4.141 card."
+   },
+   {
+    "condition": "Where a sūtra names a meaning (कारके, कर्तरि), the maxim does not apply to that suffix — it is the reason such a sūtra is needed.",
+    "status": "not taught",
+    "why": "Not said."
+   },
+   {
+    "condition": "Bhāṣya examples: गुप्तिज्किद्भ्यः सन्, यावादिभ्यः कन्.",
+    "status": "not taught",
+    "why": "Background."
+   }
+  ],
+  "contradicted_texts": [],
+  "proposed_gloss": "a suffix taught with no meaning has the meaning of its base (स्वार्थे)",
+  "proposed_explanation": "When a sūtra teaches a suffix without stating a meaning for it (यावादिभ्यः कन्), the suffix adds no meaning of its own: it carries the meaning of its base. Where a sūtra names a meaning for the suffix (कर्तरि, कारके), this does not apply. (Śekhara: “स्वार्थ इत्यस्य स्वीयप्रकृत्यर्थ इत्यर्थः”)",
+  "quote": {
+   "file": "paribhashendushekhar",
+   "id": "122",
+   "quote": "स्वार्थ इत्यस्य स्वीयप्रकृत्यर्थ इत्यर्थः"
+  }
+ },
+ "PIS 123": {
+  "gaps": [
+   {
+    "condition": "A commentator's split of one sūtra into two (योगविभाग) may be used only to get desired forms, never wrong ones.",
+    "status": "not taught",
+    "why": "No gloss, explanation or card. The audit reports the engine's wording 'the sūtra is stated separately for a purpose' — which misreads the maxim — check wherever it is shown."
+   },
+   {
+    "condition": "Covers only a split made by commentators of the sūtra being read (कर्तव्यः / क्रियते / योगं विभज्य).",
+    "status": "not taught",
+    "why": "Not said."
+   },
+   {
+    "condition": "Not a remark on why Pāṇini himself wrote two sūtras (उत्तरार्थः, यथासंख्यनिरासार्थः); not a split of ANOTHER sūtra for an example; not a jñāpaka.",
+    "status": "not taught",
+    "why": "Not said."
+   }
+  ],
+  "contradicted_texts": [],
+  "proposed_gloss": "a commentator's split of one sūtra into two (yogavibhāga) may only yield accepted forms, never wrong ones",
+  "proposed_explanation": "When commentators divide one sūtra into two (योगविभाग) to account for a form the whole sūtra does not give, the split may be used only to reach accepted forms, never to produce wrong ones. A remark on why Pāṇini himself wrote two sūtras is not this maxim. (Śekhara: “इष्टसिद्धिरेव न त्वनिष्टापादनं कार्यमित्यर्थः”)",
+  "quote": {
+   "file": "paribhashendushekhar",
+   "id": "123",
+   "quote": "इष्टसिद्धिरेव न त्वनिष्टापादनं कार्यमित्यर्थः"
+  }
+ },
+ "PIS 18": {
+  "gaps": [
+   {
+    "condition": "Sometimes only part of an earlier word runs on by anuvṛtti (Bhāṣya at 4.1.27, 6.1.93; Kāśikā 6.1.131: पद of पदान्तात्).",
+    "status": "partly",
+    "why": "No gloss or explanation; the 6.1.131 card says it."
+   }
+  ],
+  "contradicted_texts": [],
+  "proposed_gloss": "sometimes only PART of an earlier word runs on (e.g. पद from पदान्तात्)",
+  "proposed_explanation": "Occasionally only part of a word in an earlier sūtra continues by anuvṛtti, not the whole word: at 6.1.131 only पद of पदान्तात् (6.1.109) runs on. The commentators say where this happens. (Śekhara: “क्वचिदेकदेशोऽप्यनुवर्तते”)",
+  "quote": {
+   "file": "paribhashendushekhar",
+   "id": "18",
+   "quote": "क्वचिदेकदेशोऽप्यनुवर्तते"
+  }
+ },
+ "PIS 23": {
+  "gaps": [
+   {
+    "condition": "Not in saṃjñā rules (PIS 27; jñāpaka सुप्तिङन्तम्) — where commentators still read tadanta (1.1.23, 1.1.38, 1.2.46) they justify it by sāmarthya or अर्थवत्.",
+    "status": "contradicted",
+    "why": "Not taught; the generic card is printed at 1.1.23 (and the step at 1.1.25) crediting PIS 23 in saṃjñā rules."
+   },
+   {
+    "condition": "When the suffix is the condition (a 7th, ‘when X follows’), only the tadādi part applies.",
+    "status": "not taught",
+    "why": "Not said."
+   },
+   {
+    "condition": "A suffix must be NAMED as a known element: not one being prescribed or changed (luk, ādeśa, its own accent), not part of a nipātana, not a homonym.",
+    "status": "not taught",
+    "why": "Not said."
+   },
+   {
+    "condition": "In the uttarapada heading a suffix means only itself (PIS 25).",
+    "status": "not taught",
+    "why": "Not said."
+   },
+   {
+    "condition": "Only where suffixes alone are named (not a term covering suffix and non-suffix).",
+    "status": "not taught",
+    "why": "Minor."
+   },
+   {
+    "condition": "Definition: a named suffix = the word from its base up to the suffix.",
+    "status": "taught",
+    "why": "Gloss, explanation, cards."
+   },
+   {
+    "condition": "PIS 24, 26, 28; anarthaka अन्/इन्/अस्/मन् go under 1.1.72.",
+    "status": "not taught",
+    "why": "Background."
+   }
+  ],
+  "contradicted_texts": [
+   {
+    "text": "a suffix named in a rule stands for the word that ENDS in that suffix (starting from what it was added to)",
+    "n": "1.1.23 (118 cards of this pattern); step 1.1.25",
+    "why": "Result right, reason contradicted: in a saṃjñā rule PIS 23 does not apply (Śekhara PIS 27: “संज्ञाविधौ प्रत्ययग्रहणे तदन्तग्रहणं नास्ति”); the tadanta there rests on sāmarthya."
+   }
+  ],
+  "proposed_gloss": "a suffix named stands for the word from its base up to that suffix — not in saṃjñā rules, nor for the suffix being taught",
+  "proposed_explanation": "A suffix named as a known element stands for the word from the base it was added to up to that suffix (सन् → सन्नन्त). Not in saṃjñā rules or the uttarapada section, nor when the rule teaches or changes that suffix; as a 7th-case condition it means ‘what begins with it’. (Śekhara: “संज्ञाविधौ … तदन्तग्रहणं नास्ति”)",
+  "quote": {
+   "file": "paribhashendushekhar",
+   "id": "27",
+   "quote": "संज्ञाविधौ प्रत्ययग्रहणे तदन्तग्रहणं नास्ति"
+  }
+ },
+ "PIS 28": {
+  "gaps": [
+   {
+    "condition": "Where a kṛt suffix is named (in general or a particular one), the kṛdanta with a gati or kāraka before it is meant too.",
+    "status": "not taught",
+    "why": "No gloss, explanation or card."
+   },
+   {
+    "condition": "Jñāpaka: अनन्तरः in 6.2.49, where it is set aside.",
+    "status": "not taught",
+    "why": "Background."
+   }
+  ],
+  "contradicted_texts": [],
+  "proposed_gloss": "a kṛt suffix named also covers the kṛdanta with a gati or kāraka before it",
+  "proposed_explanation": "Where a rule names a kṛt suffix — kṛt in general or a particular one — the word with a gati or kāraka before the kṛdanta is meant too. Pāṇini's अनन्तरः in 6.2.49 shows the maxim exists, and there it is set aside. (Śekhara: “कृद्ग्रहणे गतिकारकपूर्वस्यापि ग्रहणम्”)",
+  "quote": {
+   "file": "paribhashendushekhar",
+   "id": "28",
+   "quote": "कृद्ग्रहणे गतिकारकपूर्वस्यापि ग्रहणम्"
+  }
+ },
+ "PIS 8": {
+  "gaps": [
+   {
+    "condition": "Scope: the sarūpa test of 3.1.94 — it only ever DENIES dissimilarity; it says nothing where suffixes differ in real sounds, and needs a real utsarga–apavāda pair in the dhātu section.",
+    "status": "partly",
+    "why": "Gloss says markers do not make suffixes dissimilar, but not that this is for 3.1.94; no explanation."
+   },
+   {
+    "condition": "Suffixes differing only in markers (अण्/क; यत्/ण्यत्; घञ्/अच्/अप्) are sarūpa, so the apavāda blocks outright (jñāpaka: विभाषा in 3.1.139).",
+    "status": "partly",
+    "why": "The 3.1.99 card says 'markers removed before comparing'; the outcome (no option) is not said."
+   },
+   {
+    "condition": "PIS 6/7 share the opening नानुबन्धकृतम्… but are different maxims.",
+    "status": "not taught",
+    "why": "Engine-side."
+   }
+  ],
+  "contradicted_texts": [
+   {
+    "text": "श is an apavāda of तव्यत्, तव्य, अनीयर् (3.1.96; all dhātus) → श (अ) ≠ तव्यत् … → they stay available as options",
+    "n": "3.1.139 (2)",
+    "why": "The audit correction is appended but the wrong claim is still shown: Kāśikā names ण as the utsarga (“णस्यापवादः”), sarūpa with श once markers go — which is why 3.1.139 needs its own विभाषा (Śekhara PIS 8)."
+   }
+  ],
+  "proposed_gloss": "in the sarūpa test of 3.1.94, marker letters are ignored: suffixes differing only in markers count as the same form",
+  "proposed_explanation": "For 3.1.94 (an exception of different form blocks only optionally), suffixes are compared without their it-letters: अण्/क, यत्/ण्यत्, घञ्/अच्/अप् count as the same form, so such an exception blocks the general suffix outright. It never makes suffixes with different real sounds alike. (Śekhara: “नानुबन्धकृतमसारूप्यम्”)",
+  "quote": {
+   "file": "paribhashendushekhar",
+   "id": "8",
+   "quote": "नानुबन्धकृतमसारूप्यम्"
+  }
+ }
+}

@@ -1,0 +1,2037 @@
+{
+ "pid": "1.1.68",
+ "audited": "2026-11-20",
+ "totals": {
+  "firings": 510,
+  "licensed": 464,
+  "not_licensed": 26,
+  "unsure": 20,
+  "not_licensed_by_should_be": {
+   "none": 24,
+   "1.1.68": 2
+  },
+  "groups": {
+   "licensed": 9,
+   "not licensed": 7,
+   "mixed": 9,
+   "unsure": 0
+  }
+ },
+ "reason_codes": {
+  "MEANING_CLASS": "the word names a class/meaning (or takes synonyms), not its own form",
+  "WRONG_TRIGGER": "1.1.68 holds in the sūtra but the credited token/card is a non-own-form word",
+  "NOT_AN_X_SHABDA": "the matched “X-शब्द” is not an own-form mark",
+  "OVERRIDDEN_BY_VARTTIKA": "sit/pit/jit/jhit vārttika on 1.1.68 changes what the word covers",
+  "BLOCKED_BY_SUTRA_WORDING": "plural / पद / नाम in the sūtra blocks svarūpa-vidhi (Kāśikā)",
+  "NAMED_NOT_APPLIED": "commentator mentions 1.1.68 to deny, refute or illustrate",
+  "MISCITED_LINK": "the [[1.1.68]] link in the source data points to the wrong sūtra"
+ },
+ "conditions": [
+  {
+   "text": "C1 (core): in the śāstra a word stands for its own form, not for the thing it means or for its synonyms.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11068",
+     "quote": "शास्त्रे स्वमेव रूपं शब्दस्य ग्राह्यं बोध्यं प्रत्याय्यं भवति, न बाह्योऽर्थः, शब्दसंज्ञां वर्जयित्वा।"
+    },
+    {
+     "file": "kashika",
+     "id": "11068",
+     "quote": "अग्निशब्दोऽग्निशब्दस्यैव ग्राहको भवति, न ज्वलनः पावको धूमकेतुरिति, नातः प्रत्ययो भवति।"
+    },
+    {
+     "file": "kaumudi",
+     "id": "11068",
+     "quote": "शब्दस्य स्वं रूपं संज्ञि शब्दशास्त्रे या संज्ञा तां विना ॥"
+    }
+   ]
+  },
+  {
+   "text": "C2 (aśabdasaṃjñā): a technical term of grammar names its members, not itself (घु, घ …; also artha-saṃjñās such as कर्म, करण).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11068",
+     "quote": "घुग्रहणेषु घग्रहणेषु च संज्ञिनां ग्रहणम्, न संज्ञायाः॥"
+    },
+    {
+     "file": "tattvabodhini",
+     "id": "11068",
+     "quote": "कर्म॑करण॑मित्यादिष्वर्थसंज्ञासु स्वरूपग्रहणापत्तेः"
+    }
+   ]
+  },
+  {
+   "text": "C3 (sit, vārttika 5): marked words take their species — वृक्ष, मृग … in 2.4.12.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11068",
+     "quote": "सित्तद्विशेषाणां वृक्षाद्यर्थम् (म०भा० १.१.६८ वा० ५)॥ सिन्निर्देशः कर्तव्यः। ततो वक्तव्यं तद्विशेषाणां ग्रहणं भवतीति।"
+    }
+   ]
+  },
+  {
+   "text": "C4 (pit, vārttika 6): marked words take own form + synonyms + species — स्व in 3.4.40.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11068",
+     "quote": "पित्पर्यायवचनस्य च स्वाद्यर्थम् (म०भा० १.१.६८ वा० ६)॥ पिन्निर्देशः कर्तव्यः। ततो वक्तव्यं पर्यायवचनस्य ग्रहणं भवति, चकारात् स्वस्य रूपस्य तद्विशेषाणां चेति।"
+    }
+   ]
+  },
+  {
+   "text": "C5 (jit, vārttika 7): marked words take ONLY synonyms — राजन् in 2.4.23.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11068",
+     "quote": "ततो वक्तव्यं पर्यायवचनस्यैव ग्रहणं भवतीति, न स्वरूपस्य, नापि तद्विशेषाणाम्। किं प्रयोजनम्? राजाद्यर्थम्।"
+    }
+   ]
+  },
+  {
+   "text": "C6 (jhit, vārttika 8): marked words take own form + species — पक्षि, मत्स्य, मृग in 4.4.35.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11068",
+     "quote": "झित्तद्विशेषाणां च मत्स्याद्यर्थम् (म०भा० १.१.६८ वा० ८)॥ झिन्निर्देशः कर्तव्यः। ततो वक्तव्यं तस्य च ग्रहणं भवति तद्विशेषाणां चेति।"
+    }
+   ]
+  },
+  {
+   "text": "C7 (meaning-directed mention): where the rule word is meant for its sense (अर्थपरो निर्देशः), not its form, 1.1.68 does not hold; the sūtra itself often signals this — a plural, पद, नाम, आख्या, -अर्थ, -वाचिन्, or शब्द used to mean \"a word for X\".",
+   "quotes": [
+    {
+     "file": "nyaas",
+     "id": "34026",
+     "quote": "शब्दग्रहणं यत्र शब्दपरो निर्देशस्तत्र स्वं रूपं गृह्रते नार्थपरनिर्देश इति ज्ञापनार्थं कृतम्"
+    },
+    {
+     "file": "kashika",
+     "id": "43068",
+     "quote": "बहुवचनं स्वरूपविधिनिरासार्थम्॥"
+    },
+    {
+     "file": "kashika",
+     "id": "43006",
+     "quote": "पदग्रहणं स्वरूपविधिनिवारणार्थम्॥"
+    },
+    {
+     "file": "kashika",
+     "id": "53081",
+     "quote": "नामग्रहणं स्वरूपनिवृत्त्यर्थम्॥"
+    },
+    {
+     "file": "kashika",
+     "id": "62133",
+     "quote": "आख्याग्रहणात् स्वरूपस्य पर्यायाणां विशेषाणां च ग्रहणं भवति।"
+    }
+   ]
+  },
+  {
+   "text": "C8 (scope): the paribhāṣā governs how a word OF THE RULE (own or carried) is read (\"शास्त्रे\"). A word the commentator brings in only to derive a nipātana form is not a rule word.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11068",
+     "quote": "शास्त्रे स्वमेव रूपं शब्दस्य ग्राह्यं"
+    }
+   ]
+  },
+  {
+   "text": "C9 (status): the Mahābhāṣya at one point offers to drop the sūtra (its \"अशब्दसंज्ञा\" carried on to 1.1.69) — a commentator naming 1.1.68 in that discussion is not applying it.",
+   "quotes": [
+    {
+     "file": "bhashya",
+     "id": "12027",
+     "quote": "अथवा स्वं रूपं शब्दस्याशब्दसञ्ज्ञा [[1.1.68]] इत्ययं योगः प्रत्याख्यायते।"
+    },
+    {
+     "file": "balamanorama",
+     "id": "11068",
+     "quote": "इदं सूत्रं भाष्ये प्रत्याख्यातम् ।"
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | vidhi | X",
+   "count": 243,
+   "verdict": "mixed",
+   "counts": {
+    "licensed": 236,
+    "not licensed": 4,
+    "unsure": 3
+   },
+   "how_checked": "All 243 members listed with the X-शब्द tokens the engine regex matched (from genBeforeFix where a hand fix later replaced the vṛtti). Each token was read by hand for meaning-class / saṃjñā / derivation-note use. Script cross-check: token found as X-शब्द or “X इत्येत-” in the Kāśikā or prathamāvṛtti of the same sūtra (all but 71 tokens; those 71 read by hand — hyphenation, carried words, nipātana notes). A second script pulled every Kāśikā/Nyāsa/Padamañjarī/SK passage on these sūtras containing स्वरूपग्रहण / अर्थग्रहण / पर्याय / तद्विशेष / स्वरूपविधि and each hit was read.",
+   "licensed": [
+    "3.1.14",
+    "3.1.15",
+    "3.1.16",
+    "3.1.19",
+    "3.1.20",
+    "3.1.21",
+    "3.2.19",
+    "3.2.22",
+    "3.2.40",
+    "3.2.95",
+    "3.2.96",
+    "3.2.120",
+    "3.2.121",
+    "3.2.122",
+    "3.2.143",
+    "3.3.27",
+    "3.3.31",
+    "3.3.37",
+    "3.3.83",
+    "3.3.84",
+    "3.3.143",
+    "3.4.13",
+    "3.4.44",
+    "3.4.58",
+    "3.4.60",
+    "3.4.63",
+    "3.4.64",
+    "4.1.31",
+    "4.1.68",
+    "4.1.72",
+    "4.1.85",
+    "4.1.87",
+    "4.1.106",
+    "4.1.109",
+    "4.1.115",
+    "4.1.116",
+    "4.1.118",
+    "4.1.119",
+    "4.1.124",
+    "4.1.127",
+    "4.1.128",
+    "4.1.129",
+    "4.1.140",
+    "4.1.144",
+    "4.1.145",
+    "4.1.150",
+    "4.1.152",
+    "4.1.172",
+    "4.1.175",
+    "4.2.8",
+    "4.2.12",
+    "4.2.18",
+    "4.2.22",
+    "4.2.25",
+    "4.2.26",
+    "4.2.30",
+    "4.2.33",
+    "4.2.35",
+    "4.2.40",
+    "4.2.41",
+    "4.2.43",
+    "4.2.83",
+    "4.2.84",
+    "4.2.87",
+    "4.2.88",
+    "4.2.89",
+    "4.2.93",
+    "4.2.94",
+    "4.2.99",
+    "4.2.102",
+    "4.2.108",
+    "4.2.128",
+    "4.2.129",
+    "4.2.130",
+    "4.2.131",
+    "4.2.135",
+    "4.2.136",
+    "4.2.140",
+    "4.2.144",
+    "4.2.145",
+    "4.3.4",
+    "4.3.8",
+    "4.3.9",
+    "4.3.14",
+    "4.3.15",
+    "4.3.21",
+    "4.3.22",
+    "4.3.29",
+    "4.3.30",
+    "4.3.32",
+    "4.3.33",
+    "4.3.35",
+    "4.3.42",
+    "4.3.45",
+    "4.3.46",
+    "4.3.49",
+    "4.3.58",
+    "4.3.65",
+    "4.3.97",
+    "4.3.98",
+    "4.3.107",
+    "4.3.108",
+    "4.3.109",
+    "4.3.111",
+    "4.3.114",
+    "4.3.128",
+    "4.3.132",
+    "4.3.133",
+    "4.3.160",
+    "4.3.162",
+    "4.4.4",
+    "4.4.6",
+    "4.4.7",
+    "4.4.9",
+    "4.4.14",
+    "4.4.17",
+    "4.4.18",
+    "4.4.40",
+    "4.4.42",
+    "4.4.46",
+    "4.4.52",
+    "4.4.54",
+    "4.4.56",
+    "4.4.58",
+    "4.4.67",
+    "4.4.68",
+    "4.4.90",
+    "4.4.96",
+    "4.4.120",
+    "4.4.133",
+    "4.4.137",
+    "4.4.138",
+    "4.4.141",
+    "5.1.11",
+    "5.1.13",
+    "5.1.14",
+    "5.1.26",
+    "5.1.39",
+    "5.1.40",
+    "5.1.43",
+    "5.1.46",
+    "5.1.49",
+    "5.1.51",
+    "5.1.61",
+    "5.1.62",
+    "5.1.65",
+    "5.1.68",
+    "5.1.69",
+    "5.1.81",
+    "5.1.83",
+    "5.1.84",
+    "5.1.85",
+    "5.1.90",
+    "5.1.98",
+    "5.1.100",
+    "5.1.102",
+    "5.1.103",
+    "5.1.104",
+    "5.1.106",
+    "5.1.110",
+    "5.1.136",
+    "5.2.2",
+    "5.2.8",
+    "5.2.25",
+    "5.2.28",
+    "5.2.31",
+    "5.2.33",
+    "5.2.35",
+    "5.2.38",
+    "5.2.39",
+    "5.2.41",
+    "5.2.54",
+    "5.2.75",
+    "5.2.98",
+    "5.2.99",
+    "5.2.102",
+    "5.2.103",
+    "5.2.106",
+    "5.2.108",
+    "5.2.109",
+    "5.2.113",
+    "5.2.120",
+    "5.2.123",
+    "5.2.124",
+    "5.2.133",
+    "5.2.134",
+    "5.3.24",
+    "5.3.25",
+    "5.3.26",
+    "5.3.28",
+    "5.3.34",
+    "5.3.35",
+    "5.3.36",
+    "5.3.52",
+    "5.3.89",
+    "5.3.90",
+    "5.3.93",
+    "5.3.94",
+    "5.3.101",
+    "5.3.102",
+    "5.3.105",
+    "5.3.109",
+    "5.4.6",
+    "5.4.13",
+    "5.4.16",
+    "5.4.20",
+    "5.4.25",
+    "5.4.26",
+    "5.4.27",
+    "5.4.28",
+    "5.4.30",
+    "5.4.31",
+    "5.4.32",
+    "5.4.33",
+    "5.4.35",
+    "5.4.36",
+    "5.4.37",
+    "5.4.60",
+    "5.4.62",
+    "5.4.63",
+    "5.4.64",
+    "5.4.65",
+    "5.4.66",
+    "5.4.67",
+    "5.4.70",
+    "5.4.87",
+    "5.4.89",
+    "5.4.90",
+    "5.4.96",
+    "5.4.100",
+    "5.4.101",
+    "5.4.102",
+    "5.4.130",
+    "5.4.136",
+    "5.4.137",
+    "5.4.139"
+   ],
+   "not_licensed": [
+    {
+     "n": "4.1.168",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "should_be": "none",
+     "reason": "MEANING_CLASS",
+     "why": "“जनपदशब्द” here (the sūtra’s own word) means a word that names a janapada, e.g. पञ्चाल — a class read by meaning. The engine card says “जनपद here means the word जनपद itself”, which is wrong.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41168",
+       "quote": "जनपदशब्दो यः क्षत्रियवाची, तस्मादपत्येऽञ् प्रत्ययो भवति। पाञ्चालः।"
+      },
+      {
+       "file": "kashika",
+       "id": "41168",
+       "quote": "जनपदशब्दादिति किम्? द्रुह्योरपत्यं द्रौह्यवः।"
+      },
+      {
+       "file": "nyaas",
+       "id": "41168",
+       "quote": "जनपदवृत्तिशब्दः पञ्चालादिर्जनपद इत्युक्तः"
+      }
+     ]
+    },
+    {
+     "n": "4.1.173",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "should_be": "1.1.68",
+     "reason": "WRONG_TRIGGER",
+     "why": "The only token caught is “जनपदशब्देभ्यः” (carried 4.1.168 class word — meaning, not form); the card claims “जनपद here means the word जनपद itself”. 1.1.68 is licensed in this sūtra, but by the names प्रत्यग्रथ, कलकूट, अश्मक (Kāśikā “…शब्देभ्यश्च”), which the engine regex missed (token ends in -श्च). Re-attach the credit to those words.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41173",
+       "quote": "साल्वावयवेभ्यः प्रत्यग्रथकलकूटाश्मकशब्देभ्यश्चापत्य इञ् प्रत्ययो भवति।"
+      },
+      {
+       "file": "nyaas",
+       "id": "41168",
+       "quote": "जनपदवृत्तिशब्दः पञ्चालादिर्जनपद इत्युक्तः"
+      }
+     ]
+    },
+    {
+     "n": "4.3.100",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "should_be": "none",
+     "reason": "NOT_AN_X_SHABDA",
+     "why": "“समानशब्दानाम्” is a bahuvrīhi in the sūtra (“janapadins whose word is the same as the janapada’s”), not a mark that a word X stands for itself. No word of the rule is read by 1.1.68 (जनपदिन्, जनपद are classes).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43100",
+       "quote": "जनपदिनो ये बहुवचने जनपदेन समानशब्दाः, तेषां जनपदवत् सर्वं भवति"
+      }
+     ]
+    },
+    {
+     "n": "5.4.18",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "should_be": "1.1.68",
+     "reason": "WRONG_TRIGGER",
+     "why": "Token “सङ्ख्याशब्देभ्यः” is the carried technical term संख्या (1.1.23 saṃjñā) — C2 excludes it; the card claims “सङ्ख्या here means the word सङ्ख्या itself”, wrong. 1.1.68 is licensed by the sūtra’s own द्वि, त्रि, चतुर् (“इत्येतेभ्यः”). Re-attach.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "54018",
+       "quote": "द्वि त्रि चतुर् इत्येतेभ्यः संख्याशब्देभ्यः"
+      },
+      {
+       "file": "kashika",
+       "id": "11068",
+       "quote": "घुग्रहणेषु घग्रहणेषु च संज्ञिनां ग्रहणम्, न संज्ञायाः॥"
+      }
+     ]
+    }
+   ],
+   "unsure": [
+    {
+     "n": "5.1.59",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "why": "Nipātana rule. The only X-शब्द tokens ((पञ्चन्-शब्दस्य) sit in the vṛtti’s derivation of the taught form — a base or part the commentator supplies, not a word of the rule (C8). No commentator applies 1.1.68 to such a base; the nipātana form is fixed, so no reading depends on it. Leans not licensed (should_be none); left unsure because one could argue the taught forms themselves name their own form."
+    },
+    {
+     "n": "5.1.114",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "why": "Nipātana rule. The only X-शब्द tokens ((समानकालशब्दस्य) sit in the vṛtti’s derivation of the taught form — a base or part the commentator supplies, not a word of the rule (C8). No commentator applies 1.1.68 to such a base; the nipātana form is fixed, so no reading depends on it. Leans not licensed (should_be none); left unsure because one could argue the taught forms themselves name their own form."
+    },
+    {
+     "n": "5.2.13",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "why": "Nipātana rule. The only X-शब्द tokens ((अद्यश्वस्-शब्दात्) sit in the vṛtti’s derivation of the taught form — a base or part the commentator supplies, not a word of the rule (C8). No commentator applies 1.1.68 to such a base; the nipātana form is fixed, so no reading depends on it. Leans not licensed (should_be none); left unsure because one could argue the taught forms themselves name their own form."
+    }
+   ],
+   "licensed_with_caveat": [
+    {
+     "n": "3.2.22",
+     "note": "Licensed — explicitly: कर्मणि here is the word कर्मन्, not the kāraka (aśabdasaṃjñā averted by the commentary).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32022",
+       "quote": "कर्मणीति स्वरूपग्रहणम्। कर्मशब्द उपपदे"
+      }
+     ]
+    },
+    {
+     "n": "4.1.87",
+     "note": "Licensed — explicitly own form of स्त्री (contrast 6.3.34).",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "41087",
+       "quote": "अत्र तावत् स्त्रीशब्दस्य स्वरूपग्रहणम्, न टाबादिस्त्रीप्रत्ययन्तस्य शब्दस्य।"
+      }
+     ]
+    },
+    {
+     "n": "4.1.152",
+     "note": "Licensed — explicitly लक्षण own-form (कारिन् is meaning).",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "41152",
+       "quote": "लक्षणशब्दस्य स्वरूपग्रहणम्। अत एवाह - `लक्षणशब्दात्` इति। कारीत्यर्थग्रहणम्।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.108",
+     "note": "Licensed — मद्र own-form, synonyms excluded.",
+     "quotes": [
+      {
+       "file": "padamanjari",
+       "id": "42108",
+       "quote": "तेन मद्रपर्यायो न गृह्यते"
+      }
+     ]
+    },
+    {
+     "n": "4.4.141",
+     "note": "Licensed — the word नक्षत्र itself (नक्षत्रिय).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "44141",
+       "quote": "नक्षत्रशब्दाद् घः प्रत्ययो भवति स्वार्थे।"
+      }
+     ]
+    },
+    {
+     "n": "5.4.33",
+     "note": "Licensed — the colour word काल itself (कालक).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "54033",
+       "quote": "कालशब्दादनित्ये वर्तमानाद् रक्ते च कन् प्रत्ययो भवति। कालकं मुखं वैलक्ष्येण।"
+      }
+     ]
+    },
+    {
+     "n": "5.4.36",
+     "note": "Licensed — explicitly the word कर्मन्, not the kāraka.",
+     "quotes": [
+      {
+       "file": "padamanjari",
+       "id": "54036",
+       "quote": "एतेन'कर्मणः'  इति स्वरूपग्रहणम्, नेप्सिततमादेरिति दर्शयति।"
+      }
+     ]
+    },
+    {
+     "n": "5.4.87",
+     "note": "Licensed (अहन्, सर्व, संख्यात, पुण्य are own-form), but the lumped token/card “अहन्-सर्व-एकदेश-सङ्ख्यात-पुण्य … itself” is partly wrong: एकदेश means a word for a part (पूर्वरात्र, अपररात्र).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "54087",
+       "quote": "एकदेशे — पूर्वं रात्रेः पूर्वरात्रः। अपररात्रः।"
+      },
+      {
+       "file": "kashika",
+       "id": "54087",
+       "quote": "संख्याता रात्रिः संख्यातरात्रः।"
+      }
+     ]
+    }
+   ],
+   "note": "Own-form taddhita/kṛt bases and upapadas — overwhelmingly correct (Kāśikā writes the same X-शब्द). Failures are meaning-class uses (जनपदशब्द, समानशब्द), a saṃjñā (संख्या), and nipātana derivation notes."
+  },
+  {
+   "id": "G2",
+   "group": "carried / not a sūtra word | svara | X",
+   "count": 76,
+   "verdict": "mixed",
+   "counts": {
+    "licensed": 75,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "All 76 members listed with the X-शब्द tokens the engine regex matched (from genBeforeFix where a hand fix later replaced the vṛtti). Each token was read by hand for meaning-class / saṃjñā / derivation-note use. Script cross-check: token found as X-शब्द or “X इत्येत-” in the Kāśikā or prathamāvṛtti of the same sūtra (all but 71 tokens; those 71 read by hand — hyphenation, carried words, nipātana notes). A second script pulled every Kāśikā/Nyāsa/Padamañjarī/SK passage on these sūtras containing स्वरूपग्रहण / अर्थग्रहण / पर्याय / तद्विशेष / स्वरूपविधि and each hit was read.",
+   "licensed": [
+    "2.4.32",
+    "2.4.34",
+    "4.1.38",
+    "5.2.44",
+    "6.1.117",
+    "6.1.118",
+    "6.1.119",
+    "6.1.121",
+    "6.1.124",
+    "6.1.184",
+    "6.1.191",
+    "6.1.201",
+    "6.1.202",
+    "6.1.207",
+    "6.1.208",
+    "6.1.213",
+    "6.2.5",
+    "6.2.7",
+    "6.2.8",
+    "6.2.9",
+    "6.2.13",
+    "6.2.17",
+    "6.2.18",
+    "6.2.19",
+    "6.2.20",
+    "6.2.22",
+    "6.2.26",
+    "6.2.27",
+    "6.2.28",
+    "6.2.30",
+    "6.2.44",
+    "6.2.55",
+    "6.2.56",
+    "6.2.58",
+    "6.2.59",
+    "6.2.60",
+    "6.2.62",
+    "6.2.63",
+    "6.2.67",
+    "6.2.68",
+    "6.2.70",
+    "6.2.78",
+    "6.2.84",
+    "6.2.90",
+    "6.2.91",
+    "6.2.93",
+    "6.2.99",
+    "6.2.100",
+    "6.2.101",
+    "6.2.102",
+    "6.2.103",
+    "6.2.105",
+    "6.2.106",
+    "6.2.112",
+    "6.2.113",
+    "6.2.115",
+    "6.2.124",
+    "6.2.125",
+    "6.2.132",
+    "6.2.133",
+    "6.2.154",
+    "6.2.162",
+    "6.2.163",
+    "6.2.164",
+    "6.2.171",
+    "6.2.175",
+    "6.2.179",
+    "6.2.180",
+    "6.2.181",
+    "6.2.190",
+    "6.2.196",
+    "6.2.198",
+    "6.2.199",
+    "8.2.87",
+    "8.2.93"
+   ],
+   "not_licensed": [
+    {
+     "n": "6.1.204",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "should_be": "none",
+     "reason": "MEANING_CLASS",
+     "why": "उपमानम् = any word used as a standard of comparison that has become a name (चञ्चा, वध्रिका …) — a class by meaning, not the word उपमान.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61204",
+       "quote": "उपमानशब्दा एते उपमेयस्य संज्ञाः।"
+      },
+      {
+       "file": "kashika",
+       "id": "61204",
+       "quote": "उपमानमिति किम् ? दे॒व॒द॒त्तः॥"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "licensed_with_caveat": [
+    {
+     "n": "6.2.68",
+     "note": "Licensed — explicitly पाप own-form (शिल्पिन् is meaning).",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "62068",
+       "quote": "पापमिति स्वरूपग्रहणम्। शिल्पिनीत्यत्रार्थग्रहणम्।"
+      }
+     ]
+    },
+    {
+     "n": "6.2.103",
+     "note": "Licensed by चानराट; दिक्शब्दाः correctly skipped by the engine; ग्राम/जनपद/आख्यान are meaning.",
+     "quotes": [
+      {
+       "file": "padamanjari",
+       "id": "62103",
+       "quote": "चानराटे स्वरुपग्रहणम्, इतरेषु अर्थग्रहणम्।"
+      }
+     ]
+    },
+    {
+     "n": "6.2.132",
+     "note": "Licensed by पुत्र, but the second card “पुं here means the word पुं itself” is wrong: पुंभ्यः = masculine words (कौनटि-, दामक-); गार्गीपुत्र is the counter-example.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "62132",
+       "quote": "पुत्रशब्दः पुंशब्देभ्य उत्तरस्तत्पुरुष आद्युदात्तो भवति। कौ॒न॒टि॒पुत्रः॑।"
+      },
+      {
+       "file": "kashika",
+       "id": "62132",
+       "quote": "पुम्भ्य इति किम्? गा॒र्गी॒पु॒त्रः।"
+      }
+     ]
+    },
+    {
+     "n": "6.2.133",
+     "note": "Licensed by पुत्र (carried); note the sūtra’s आचार्य etc. are NOT own-form (आख्या → synonyms and species).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "62133",
+       "quote": "आख्याग्रहणात् स्वरूपस्य पर्यायाणां विशेषाणां च ग्रहणं भवति।"
+      }
+     ]
+    },
+    {
+     "n": "6.2.162",
+     "note": "Licensed — प्रथम own-form; पूरण is a suffix class.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "62162",
+       "quote": "प्रथमे स्वरूपग्रहणम्।"
+      }
+     ]
+    },
+    {
+     "n": "6.2.198",
+     "note": "Licensed by सक्थ; the token “अक्रान्तशब्दात्” is odd (अक्रान्तात् = “after anything but क्रान्त”), harmless.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "62198",
+       "quote": "सोऽक्रान्तात् परो विभाषान्तोदात्तो भवति।"
+      }
+     ]
+    }
+   ],
+   "note": "Accent rules on named uttarapadas/pūrvapadas — correct except उपमान (6.1.204)."
+  },
+  {
+   "id": "G3",
+   "group": "carried / not a sūtra word | ādeśa | X",
+   "count": 58,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 58,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "All 58 members listed with the X-शब्द tokens the engine regex matched (from genBeforeFix where a hand fix later replaced the vṛtti). Each token was read by hand for meaning-class / saṃjñā / derivation-note use. Script cross-check: token found as X-शब्द or “X इत्येत-” in the Kāśikā or prathamāvṛtti of the same sūtra (all but 71 tokens; those 71 read by hand — hyphenation, carried words, nipātana notes). A second script pulled every Kāśikā/Nyāsa/Padamañjarī/SK passage on these sūtras containing स्वरूपग्रहण / अर्थग्रहण / पर्याय / तद्विशेष / स्वरूपविधि and each hit was read.",
+   "licensed": [
+    "1.2.50",
+    "3.1.60",
+    "3.1.61",
+    "3.1.62",
+    "3.1.63",
+    "3.1.64",
+    "3.1.65",
+    "3.1.66",
+    "3.4.88",
+    "4.1.33",
+    "5.2.32",
+    "5.3.44",
+    "5.3.60",
+    "5.3.61",
+    "5.3.62",
+    "5.4.19",
+    "5.4.88",
+    "5.4.129",
+    "5.4.135",
+    "6.1.61",
+    "6.3.48",
+    "6.3.49",
+    "6.3.54",
+    "6.3.55",
+    "6.3.58",
+    "6.3.59",
+    "6.3.70",
+    "6.3.71",
+    "6.3.72",
+    "6.3.76",
+    "6.3.77",
+    "6.3.78",
+    "6.3.79",
+    "6.3.80",
+    "6.3.81",
+    "6.3.83",
+    "6.3.99",
+    "6.3.103",
+    "6.3.106",
+    "6.3.107",
+    "6.3.108",
+    "6.3.110",
+    "6.4.84",
+    "7.1.26",
+    "7.1.46",
+    "7.1.96",
+    "7.1.97",
+    "7.2.84",
+    "7.3.5",
+    "8.2.22",
+    "8.2.37",
+    "8.2.38",
+    "8.3.10",
+    "8.3.11",
+    "8.3.42",
+    "8.3.47",
+    "8.3.49",
+    "8.3.51"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "licensed_with_caveat": [
+    {
+     "n": "6.3.49",
+     "note": "Licensed; credit came from a pre-hand-fix vṛtti (genBeforeFix “द्व्यष्टन्त्रिशब्दानाम्”); the current vṛtti has “इत्येतेषाम्”, still own-form.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "63049",
+       "quote": "सर्वेषां द्वि अष्टन् त्रि इत्येतेषां यदुक्तं"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G4",
+   "group": "carried / not a sūtra word | operation | X",
+   "count": 31,
+   "verdict": "mixed",
+   "counts": {
+    "licensed": 29,
+    "not licensed": 0,
+    "unsure": 2
+   },
+   "how_checked": "All 31 members listed with the X-शब्द tokens the engine regex matched (from genBeforeFix where a hand fix later replaced the vṛtti). Each token was read by hand for meaning-class / saṃjñā / derivation-note use. Script cross-check: token found as X-शब्द or “X इत्येत-” in the Kāśikā or prathamāvṛtti of the same sūtra (all but 71 tokens; those 71 read by hand — hyphenation, carried words, nipātana notes). A second script pulled every Kāśikā/Nyāsa/Padamañjarī/SK passage on these sūtras containing स्वरूपग्रहण / अर्थग्रहण / पर्याय / तद्विशेष / स्वरूपविधि and each hit was read.",
+   "licensed": [
+    "2.4.65",
+    "5.2.55",
+    "5.4.138",
+    "5.4.148",
+    "5.4.149",
+    "6.1.14",
+    "6.1.151",
+    "6.3.8",
+    "6.3.13",
+    "6.3.19",
+    "6.3.22",
+    "6.3.62",
+    "6.3.115",
+    "6.3.121",
+    "6.3.123",
+    "6.3.127",
+    "6.3.128",
+    "6.3.129",
+    "6.3.132",
+    "6.4.13",
+    "6.4.49",
+    "6.4.133",
+    "6.4.141",
+    "6.4.142",
+    "7.3.15",
+    "7.3.16",
+    "7.3.30",
+    "8.3.21",
+    "8.4.48"
+   ],
+   "not_licensed": [],
+   "unsure": [
+    {
+     "n": "5.4.147",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "why": "Nipātana rule. The only X-शब्द tokens ((ककुदशब्दस्य) sit in the vṛtti’s derivation of the taught form — a base or part the commentator supplies, not a word of the rule (C8). No commentator applies 1.1.68 to such a base; the nipātana form is fixed, so no reading depends on it. Leans not licensed (should_be none); left unsure because one could argue the taught forms themselves name their own form."
+    },
+    {
+     "n": "5.4.150",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "why": "Nipātana rule. The only X-शब्द tokens (सु-दुर्-शब्दात् (हृदयशब्दस्य) sit in the vṛtti’s derivation of the taught form — a base or part the commentator supplies, not a word of the rule (C8). No commentator applies 1.1.68 to such a base; the nipātana form is fixed, so no reading depends on it. Leans not licensed (should_be none); left unsure because one could argue the taught forms themselves name their own form."
+    }
+   ],
+   "licensed_with_caveat": [],
+   "note": ""
+  },
+  {
+   "id": "G5",
+   "group": "carried / not a sūtra word | nipātana | X",
+   "count": 22,
+   "verdict": "mixed",
+   "counts": {
+    "licensed": 7,
+    "not licensed": 0,
+    "unsure": 15
+   },
+   "how_checked": "All 22 members listed with the X-शब्द tokens the engine regex matched (from genBeforeFix where a hand fix later replaced the vṛtti). Each token was read by hand for meaning-class / saṃjñā / derivation-note use. Script cross-check: token found as X-शब्द or “X इत्येत-” in the Kāśikā or prathamāvṛtti of the same sūtra (all but 71 tokens; those 71 read by hand — hyphenation, carried words, nipātana notes). A second script pulled every Kāśikā/Nyāsa/Padamañjarī/SK passage on these sūtras containing स्वरूपग्रहण / अर्थग्रहण / पर्याय / तद्विशेष / स्वरूपविधि and each hit was read.",
+   "licensed": [
+    "2.4.30",
+    "3.1.132",
+    "4.1.35",
+    "5.2.92",
+    "5.2.105",
+    "5.4.40",
+    "6.1.62"
+   ],
+   "not_licensed": [],
+   "unsure": [
+    {
+     "n": "3.1.130",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "why": "Nipātana rule. The only X-शब्द tokens ((कुण्डशब्दे) sit in the vṛtti’s derivation of the taught form — a base or part the commentator supplies, not a word of the rule (C8). No commentator applies 1.1.68 to such a base; the nipātana form is fixed, so no reading depends on it. Leans not licensed (should_be none); left unsure because one could argue the taught forms themselves name their own form."
+    },
+    {
+     "n": "3.2.26",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "why": "Nipātana rule. The only X-शब्द tokens ((फलशब्दस्य (आत्मशब्दस्य) sit in the vṛtti’s derivation of the taught form — a base or part the commentator supplies, not a word of the rule (C8). No commentator applies 1.1.68 to such a base; the nipātana form is fixed, so no reading depends on it. Leans not licensed (should_be none); left unsure because one could argue the taught forms themselves name their own form."
+    },
+    {
+     "n": "5.2.14",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "why": "Nipātana rule. The only X-शब्द tokens (गोशब्दात्) sit in the vṛtti’s derivation of the taught form — a base or part the commentator supplies, not a word of the rule (C8). No commentator applies 1.1.68 to such a base; the nipātana form is fixed, so no reading depends on it. Leans not licensed (should_be none); left unsure because one could argue the taught forms themselves name their own form."
+    },
+    {
+     "n": "5.2.22",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "why": "Nipātana rule. The only X-शब्द tokens ((सप्तपदशब्दात्) sit in the vṛtti’s derivation of the taught form — a base or part the commentator supplies, not a word of the rule (C8). No commentator applies 1.1.68 to such a base; the nipātana form is fixed, so no reading depends on it. Leans not licensed (should_be none); left unsure because one could argue the taught forms themselves name their own form."
+    },
+    {
+     "n": "5.2.23",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "why": "Nipātana rule. The only X-शब्द tokens (ह्योगोदोहशब्दस्य) sit in the vṛtti’s derivation of the taught form — a base or part the commentator supplies, not a word of the rule (C8). No commentator applies 1.1.68 to such a base; the nipātana form is fixed, so no reading depends on it. Leans not licensed (should_be none); left unsure because one could argue the taught forms themselves name their own form."
+    },
+    {
+     "n": "5.2.90",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "why": "Nipātana rule. The only X-शब्द tokens ((अनुपदशब्दात्) sit in the vṛtti’s derivation of the taught form — a base or part the commentator supplies, not a word of the rule (C8). No commentator applies 1.1.68 to such a base; the nipātana form is fixed, so no reading depends on it. Leans not licensed (should_be none); left unsure because one could argue the taught forms themselves name their own form."
+    },
+    {
+     "n": "5.2.93",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "why": "Nipātana rule. The only X-शब्द tokens ((इन्द्रशब्दात्) sit in the vṛtti’s derivation of the taught form — a base or part the commentator supplies, not a word of the rule (C8). No commentator applies 1.1.68 to such a base; the nipātana form is fixed, so no reading depends on it. Leans not licensed (should_be none); left unsure because one could argue the taught forms themselves name their own form."
+    },
+    {
+     "n": "5.2.114",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "why": "Nipātana rule. The only X-शब्द tokens ((मलशब्दात्) sit in the vṛtti’s derivation of the taught form — a base or part the commentator supplies, not a word of the rule (C8). No commentator applies 1.1.68 to such a base; the nipātana form is fixed, so no reading depends on it. Leans not licensed (should_be none); left unsure because one could argue the taught forms themselves name their own form."
+    },
+    {
+     "n": "5.2.126",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "why": "Nipātana rule. The only X-शब्द tokens (स्वशब्दात्) sit in the vṛtti’s derivation of the taught form — a base or part the commentator supplies, not a word of the rule (C8). No commentator applies 1.1.68 to such a base; the nipātana form is fixed, so no reading depends on it. Leans not licensed (should_be none); left unsure because one could argue the taught forms themselves name their own form."
+    },
+    {
+     "n": "5.3.104",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "why": "Nipātana rule. The only X-शब्द tokens ((द्रुशब्दात्) sit in the vṛtti’s derivation of the taught form — a base or part the commentator supplies, not a word of the rule (C8). No commentator applies 1.1.68 to such a base; the nipātana form is fixed, so no reading depends on it. Leans not licensed (should_be none); left unsure because one could argue the taught forms themselves name their own form."
+    },
+    {
+     "n": "6.1.36",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "why": "Nipātana rule. The only X-शब्द tokens (से-शब्दे) sit in the vṛtti’s derivation of the taught form — a base or part the commentator supplies, not a word of the rule (C8). No commentator applies 1.1.68 to such a base; the nipātana form is fixed, so no reading depends on it. Leans not licensed (should_be none); left unsure because one could argue the taught forms themselves name their own form."
+    },
+    {
+     "n": "6.1.154",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "why": "Nipātana rule. The only X-शब्द tokens (मकरशब्दस्य) sit in the vṛtti’s derivation of the taught form — a base or part the commentator supplies, not a word of the rule (C8). No commentator applies 1.1.68 to such a base; the nipātana form is fixed, so no reading depends on it. Leans not licensed (should_be none); left unsure because one could argue the taught forms themselves name their own form."
+    },
+    {
+     "n": "6.3.32",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "why": "Nipātana rule. The only X-शब्द tokens ((मातृशब्दस्य) sit in the vṛtti’s derivation of the taught form — a base or part the commentator supplies, not a word of the rule (C8). No commentator applies 1.1.68 to such a base; the nipātana form is fixed, so no reading depends on it. Leans not licensed (should_be none); left unsure because one could argue the taught forms themselves name their own form."
+    },
+    {
+     "n": "6.4.175",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "why": "Nipātana rule. The only X-शब्द tokens ((ऋतु-वास्तु-शब्दयोः (वस्तुशब्दस्य (मधुशब्दस्य (हिरण्यशब्दात् मशब्दस्य) sit in the vṛtti’s derivation of the taught form — a base or part the commentator supplies, not a word of the rule (C8). No commentator applies 1.1.68 to such a base; the nipātana form is fixed, so no reading depends on it. Leans not licensed (should_be none); left unsure because one could argue the taught forms themselves name their own form."
+    },
+    {
+     "n": "7.4.34",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "why": "Nipātana rule. The only X-शब्द tokens ((अशन-धन-शब्दयोः उदकशब्दस्य) sit in the vṛtti’s derivation of the taught form — a base or part the commentator supplies, not a word of the rule (C8). No commentator applies 1.1.68 to such a base; the nipātana form is fixed, so no reading depends on it. Leans not licensed (should_be none); left unsure because one could argue the taught forms themselves name their own form."
+    }
+   ],
+   "licensed_with_caveat": [],
+   "note": "Nipātana group: credits that rest on a real rule word (अपथ, चित्य, carried पति, परक्षेत्र, सिकता-शर्करा, मृद्, शीर्ष) are licensed; those resting only on a derivation base are unsure (lean not licensed)."
+  },
+  {
+   "id": "G6",
+   "group": "carried / not a sūtra word | saṃjñā | X",
+   "count": 11,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 11,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "All 11 members listed with the X-शब्द tokens the engine regex matched (from genBeforeFix where a hand fix later replaced the vṛtti). Each token was read by hand for meaning-class / saṃjñā / derivation-note use. Script cross-check: token found as X-शब्द or “X इत्येत-” in the Kāśikā or prathamāvṛtti of the same sūtra (all but 71 tokens; those 71 read by hand — hyphenation, carried words, nipātana notes). A second script pulled every Kāśikā/Nyāsa/Padamañjarī/SK passage on these sūtras containing स्वरूपग्रहण / अर्थग्रहण / पर्याय / तद्विशेष / स्वरूपविधि and each hit was read.",
+   "licensed": [
+    "1.1.23",
+    "1.1.35",
+    "1.1.36",
+    "1.4.8",
+    "1.4.9",
+    "1.4.92",
+    "1.4.94",
+    "1.4.95",
+    "1.4.96",
+    "1.4.97",
+    "1.4.98"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "licensed_with_caveat": [],
+   "note": ""
+  },
+  {
+   "id": "G7",
+   "group": "carried / not a sūtra word | samāsa | X",
+   "count": 9,
+   "verdict": "mixed",
+   "counts": {
+    "licensed": 8,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "All 9 members listed with the X-शब्द tokens the engine regex matched (from genBeforeFix where a hand fix later replaced the vṛtti). Each token was read by hand for meaning-class / saṃjñā / derivation-note use. Script cross-check: token found as X-शब्द or “X इत्येत-” in the Kāśikā or prathamāvṛtti of the same sūtra (all but 71 tokens; those 71 read by hand — hyphenation, carried words, nipātana notes). A second script pulled every Kāśikā/Nyāsa/Padamañjarī/SK passage on these sūtras containing स्वरूपग्रहण / अर्थग्रहण / पर्याय / तद्विशेष / स्वरूपविधि and each hit was read.",
+   "licensed": [
+    "2.1.10",
+    "2.1.18",
+    "2.1.26",
+    "2.1.39",
+    "2.1.63",
+    "2.1.67",
+    "2.1.70",
+    "2.2.2"
+   ],
+   "not_licensed": [
+    {
+     "n": "2.1.56",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "should_be": "none",
+     "reason": "MEANING_CLASS",
+     "why": "The token “साधारणधर्मवाचिशब्दस्य” is the vṛtti’s paraphrase of सामान्य = “a word expressing the common property” — a meaning class; the card claims “साधारणधर्मवाचि here means the word साधारणधर्मवाचि itself”. Even व्याघ्रादिभिः is read by sense (उपमानवचनैः).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "21056",
+       "quote": "न चेत् सामान्यवाची शब्दः प्रयुज्यते।"
+      },
+      {
+       "file": "kashika",
+       "id": "21056",
+       "quote": "व्याघ्रादिभिः सामर्थ्याद् उपमानवचनैः सह समस्यते"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "licensed_with_caveat": [
+    {
+     "n": "2.1.39",
+     "note": "Licensed by कृच्छ्र, but the lumped card “स्तोकान्तिकदूरार्थकृच्छ्र … itself” is partly wrong: स्तोक/अन्तिक/दूर + अर्थ = words with those meanings.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "21039",
+       "quote": "स्तोक अन्तिक दूर इत्येवमर्थाः शब्दाः कृच्छ्रशब्दश्च पञ्चम्यन्ताः"
+      }
+     ]
+    }
+   ],
+   "note": "2.1.56 not licensed (meaning class); 2.1.39 licensed by कृच्छ्र only."
+  },
+  {
+   "id": "G8",
+   "group": "carried / not a sūtra word | āgama | X",
+   "count": 9,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 9,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "All 9 members listed with the X-शब्द tokens the engine regex matched (from genBeforeFix where a hand fix later replaced the vṛtti). Each token was read by hand for meaning-class / saṃjñā / derivation-note use. Script cross-check: token found as X-शब्द or “X इत्येत-” in the Kāśikā or prathamāvṛtti of the same sūtra (all but 71 tokens; those 71 read by hand — hyphenation, carried words, nipātana notes). A second script pulled every Kāśikā/Nyāsa/Padamañjarī/SK passage on these sūtras containing स्वरूपग्रहण / अर्थग्रहण / पर्याय / तद्विशेष / स्वरूपविधि and each hit was read.",
+   "licensed": [
+    "4.1.32",
+    "4.3.138",
+    "5.2.129",
+    "6.3.100",
+    "7.1.51",
+    "7.1.55",
+    "7.1.57",
+    "7.2.11",
+    "7.2.25"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "licensed_with_caveat": [],
+   "note": ""
+  },
+  {
+   "id": "G9",
+   "group": "carried / not a sūtra word | ṇatva | X",
+   "count": 8,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 8,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "All 8 members listed with the X-शब्द tokens the engine regex matched (from genBeforeFix where a hand fix later replaced the vṛtti). Each token was read by hand for meaning-class / saṃjñā / derivation-note use. Script cross-check: token found as X-शब्द or “X इत्येत-” in the Kāśikā or prathamāvṛtti of the same sūtra (all but 71 tokens; those 71 read by hand — hyphenation, carried words, nipātana notes). A second script pulled every Kāśikā/Nyāsa/Padamañjarī/SK passage on these sūtras containing स्वरूपग्रहण / अर्थग्रहण / पर्याय / तद्विशेष / स्वरूपविधि and each hit was read.",
+   "licensed": [
+    "8.4.4",
+    "8.4.5",
+    "8.4.6",
+    "8.4.8",
+    "8.4.10",
+    "8.4.24",
+    "8.4.25",
+    "8.4.27"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "licensed_with_caveat": [
+    {
+     "n": "8.4.27",
+     "note": "Licensed — explicitly उरु, षु own-form.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "84027",
+       "quote": "ऊर्विति, ष्विति च स्वरूपग्रहणम्।"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G10",
+   "group": "carried / not a sūtra word | vibhakti | X",
+   "count": 7,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 7,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "All 7 members listed with the X-शब्द tokens the engine regex matched (from genBeforeFix where a hand fix later replaced the vṛtti). Each token was read by hand for meaning-class / saṃjñā / derivation-note use. Script cross-check: token found as X-शब्द or “X इत्येत-” in the Kāśikā or prathamāvṛtti of the same sūtra (all but 71 tokens; those 71 read by hand — hyphenation, carried words, nipātana notes). A second script pulled every Kāśikā/Nyāsa/Padamañjarī/SK passage on these sūtras containing स्वरूपग्रहण / अर्थग्रहण / पर्याय / तद्विशेष / स्वरूपविधि and each hit was read.",
+   "licensed": [
+    "2.3.26",
+    "2.3.27",
+    "2.3.72",
+    "5.3.29",
+    "5.3.37",
+    "5.3.38",
+    "5.3.39"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "licensed_with_caveat": [
+    {
+     "n": "2.3.26",
+     "note": "Licensed — हेतु own-form in the sūtra (synonyms come only from the vārttika).",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "23026",
+       "quote": "हेतुशब्दस्य स्वरूपग्रहणे सति तत्पर्याणां निमित्तकारणादीनां प्रयोगे षष्ठी न भवतीति"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G11",
+   "group": "named by a commentator | vidhi | X (English)",
+   "count": 7,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 7,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: the commentator passage that carries the 1.1.68 mention was located by script (regex on [[1.1.68]] / स्वं रूपं / स्वरूप / \"own form\") and read in full, then checked against Kāśikā on the same sūtra.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "3.4.40",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "OVERRIDDEN_BY_VARTTIKA",
+     "why": "स्व is the textbook pit case: own form + synonyms + species (स्वपोषं, धनपोषं, गोपोषं). Vasu’s “See 1.1.68” points to the vārttika on 1.1.68, which here CANCELS the own-form restriction. Record 1.1.68 as ✖ (not applicable), not ✔.",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "34040",
+       "quote": "See [[1.1.68]]"
+      },
+      {
+       "file": "kashika",
+       "id": "11068",
+       "quote": "पित्पर्यायवचनस्य च स्वाद्यर्थम् (म०भा० १.१.६८ वा० ६)॥"
+      },
+      {
+       "file": "kaumudi",
+       "id": "34040",
+       "quote": "स्व इत्यर्थग्रहणम् । तेन स्वरूपे पर्याये विशेषे च णमुल् ।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.6",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "BLOCKED_BY_SUTRA_WORDING",
+     "why": "Vasu says पद is added so that svarūpa-vidhi does NOT apply (दिक् = any direction word). 1.1.68 is named only as what is being blocked.",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "43006",
+       "quote": "for then स्वरूपविधि would have applied"
+      },
+      {
+       "file": "kashika",
+       "id": "43006",
+       "quote": "पदग्रहणं स्वरूपविधिनिवारणार्थम्॥"
+      }
+     ]
+    },
+    {
+     "n": "4.3.68",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "BLOCKED_BY_SUTRA_WORDING",
+     "why": "Plural is used to prevent own-form reading of क्रतु/यज्ञ (they mean names of sacrifices).",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "43068",
+       "quote": "The <i>sutra</i> is in the plural to prevent the application of the affix to the word-forms"
+      },
+      {
+       "file": "kashika",
+       "id": "43068",
+       "quote": "बहुवचनं स्वरूपविधिनिरासार्थम्॥"
+      }
+     ]
+    },
+    {
+     "n": "4.3.75",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "BLOCKED_BY_SUTRA_WORDING",
+     "why": "Plural prevents own-form reading of आयस्थान (= names of revenue sources).",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "43075",
+       "quote": "The plural in the <i>sutra</i> prevents <i>Svarupavidhi</i> [[1.1.68]]."
+      },
+      {
+       "file": "kashika",
+       "id": "43075",
+       "quote": "बहुवचनं स्वरूपविधिनिरासार्थम्॥"
+      }
+     ]
+    },
+    {
+     "n": "4.3.81",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "BLOCKED_BY_SUTRA_WORDING",
+     "why": "Plural shows हेतु/मनुष्य mean causes / persons (सम, देवदत्त …), not the words.",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "43081",
+       "quote": "indicating that <i>svarupavidhi</i> [[1.1.68]] does not apply here."
+      },
+      {
+       "file": "kashika",
+       "id": "43081",
+       "quote": "बहुवचनं स्वरूपविधिनिरासार्थम्॥"
+      }
+     ]
+    },
+    {
+     "n": "4.4.35",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "OVERRIDDEN_BY_VARTTIKA",
+     "why": "jhit case: own form AND species (शाकुनिक, मैनिक …) — the own-form-only effect the engine states is cancelled by the vārttika. (Kāśikā on 4.4.35 even adds synonyms; Kāśikā on 1.1.68 excludes them — either way not plain 1.1.68.)",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "44035",
+       "quote": "The affix applies not only to the word-forms पक्षि &c, but to words denoting birds &c. (See [[1.1.68]])."
+      },
+      {
+       "file": "kashika",
+       "id": "44035",
+       "quote": "स्वरूपस्य पर्यायाणां तद्विशेषाणां च ग्रहणमिहेष्यते।"
+      },
+      {
+       "file": "kashika",
+       "id": "11068",
+       "quote": "झित्तद्विशेषाणां च मत्स्याद्यर्थम् (म०भा० १.१.६८ वा० ८)॥"
+      }
+     ]
+    },
+    {
+     "n": "5.3.81",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "BLOCKED_BY_SUTRA_WORDING",
+     "why": "नामन् is added precisely to stop the own-form reading of जाति. (The layer-2 rule already excludes 5.3.81|जाति via MEANCLS; the layer-1 credit contradicts it.)",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "53081",
+       "quote": "The word नामन् is used along with जाति, to prevent the affix being added to the word-form जाति (1.1. 68)."
+      },
+      {
+       "file": "kashika",
+       "id": "53081",
+       "quote": "नामग्रहणं स्वरूपनिवृत्त्यर्थम्॥"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "licensed_with_caveat": [],
+   "note": "All seven Vasu “See 1.1.68” notes say 1.1.68 is blocked or overridden (pit/jhit vārttika, plural, पद, नाम) — the parser took a mention as an application."
+  },
+  {
+   "id": "G12",
+   "group": "carried / not a sūtra word | ṣatva | X",
+   "count": 7,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 7,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "All 7 members listed with the X-शब्द tokens the engine regex matched (from genBeforeFix where a hand fix later replaced the vṛtti). Each token was read by hand for meaning-class / saṃjñā / derivation-note use. Script cross-check: token found as X-शब्द or “X इत्येत-” in the Kāśikā or prathamāvṛtti of the same sūtra (all but 71 tokens; those 71 read by hand — hyphenation, carried words, nipātana notes). A second script pulled every Kāśikā/Nyāsa/Padamañjarī/SK passage on these sūtras containing स्वरूपग्रहण / अर्थग्रहण / पर्याय / तद्विशेष / स्वरूपविधि and each hit was read.",
+   "licensed": [
+    "8.3.63",
+    "8.3.80",
+    "8.3.81",
+    "8.3.83",
+    "8.3.84",
+    "8.3.85",
+    "8.3.97"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "licensed_with_caveat": [],
+   "note": ""
+  },
+  {
+   "id": "G13",
+   "group": "carried / not a sūtra word | atideśa | X",
+   "count": 4,
+   "verdict": "mixed",
+   "counts": {
+    "licensed": 2,
+    "not licensed": 2,
+    "unsure": 0
+   },
+   "how_checked": "All 4 members listed with the X-शब्द tokens the engine regex matched (from genBeforeFix where a hand fix later replaced the vṛtti). Each token was read by hand for meaning-class / saṃjñā / derivation-note use. Script cross-check: token found as X-शब्द or “X इत्येत-” in the Kāśikā or prathamāvṛtti of the same sūtra (all but 71 tokens; those 71 read by hand — hyphenation, carried words, nipātana notes). A second script pulled every Kāśikā/Nyāsa/Padamañjarī/SK passage on these sūtras containing स्वरूपग्रहण / अर्थग्रहण / पर्याय / तद्विशेष / स्वरूपविधि and each hit was read.",
+   "licensed": [
+    "7.1.90",
+    "7.1.95"
+   ],
+   "not_licensed": [
+    {
+     "n": "6.3.34",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "should_be": "none",
+     "reason": "MEANING_CLASS",
+     "why": "स्त्रियाः here is a feminine word (any word in the feminine), not the word स्त्री. Nyāsa/Padamañjarī weigh three readings (pratyaya, artha, śabda) and even the “śabda” reading is “a word expressing the feminine”. Card “स्त्री here means the word स्त्री itself” is wrong. Contrast 4.1.87 where Nyāsa does say “स्त्रीशब्दस्य स्वरूपग्रहणम्”.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "63034",
+       "quote": "तस्य भाषितपुंस्कादनूङः स्त्रीशब्दस्य पुंशब्दस्येव रूपं भवति।"
+      },
+      {
+       "file": "nyaas",
+       "id": "63034",
+       "quote": "यदि तु स्त्र्यर्थवाची शब्दः स्त्रीत्यनेनोच्यते, तदा शब्दग्रहणम्।"
+      },
+      {
+       "file": "padamanjari",
+       "id": "63034",
+       "quote": "यदा तु स्त्र्यर्थवाची शब्दः स्रीशब्देनोच्यते तदा शब्दग्रहणम्, स्रियाः - स्रीलिङ्गस्य शब्दस्य पुंवद् रुपं भवतीति"
+      }
+     ]
+    },
+    {
+     "n": "6.3.39",
+     "word": "the vṛtti writes the word as “X-शब्द”",
+     "should_be": "none",
+     "reason": "MEANING_CLASS",
+     "why": "Carries स्त्रियाः of 6.3.34 — “a feminine word ending in such a taddhita”, not the word स्त्री.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "63039",
+       "quote": "तदन्तस्य स्त्रीशब्दस्य न पुंवद् भवति।"
+      },
+      {
+       "file": "nyaas",
+       "id": "63034",
+       "quote": "यदि तु स्त्र्यर्थवाची शब्दः स्त्रीत्यनेनोच्यते, तदा शब्दग्रहणम्।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "licensed_with_caveat": [],
+   "note": "स्त्रियाः in 6.3.34/39 is “a feminine word”, not the word स्त्री."
+  },
+  {
+   "id": "G14",
+   "group": "named by a commentator | saṃjñā | X",
+   "count": 2,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 2,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: the commentator passage that carries the 1.1.68 mention was located by script (regex on [[1.1.68]] / स्वं रूपं / स्वरूप / \"own form\") and read in full, then checked against Kāśikā on the same sūtra.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "1.2.27",
+     "word": "named by महाभाष्यम्",
+     "should_be": "none",
+     "reason": "NAMED_NOT_APPLIED",
+     "why": "The Bhāṣya names 1.1.68 only to propose dropping it and carrying its “अशब्दसंज्ञा” into 1.1.69 — a solution for ऊकाल, not an application of 1.1.68.",
+     "quotes": [
+      {
+       "file": "bhashya",
+       "id": "12027",
+       "quote": "अथवा स्वं रूपं शब्दस्याशब्दसञ्ज्ञा [[1.1.68]] इत्ययं योगः प्रत्याख्यायते। तत्र यदेतद् अशब्दसञ्ज्ञा इति, एतद्यया विभक्त्या निर्दिश्यमानमर्थवद्भवति तया निदिष्टमुत्तरत्रानुवर्तिष्यते।"
+      }
+     ]
+    },
+    {
+     "n": "3.1.1",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "NAMED_NOT_APPLIED",
+     "why": "Nyāsa cites 1.1.68 only as an example of a saṃjñā sūtra whose saṃjñin is in the 6th case.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "31001",
+       "quote": "षष्ठआ संज्ञी निर्दिश्यते, यथा -  <<स्वं रूपं शब्दस्याशब्दसंज्ञा>> [[1.1.68]]  इति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "licensed_with_caveat": [],
+   "note": "Both are mentions, not applications."
+  },
+  {
+   "id": "G15",
+   "group": "carried / not a sūtra word | ekavat | X",
+   "count": 2,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 2,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "All 2 members listed with the X-शब्द tokens the engine regex matched (from genBeforeFix where a hand fix later replaced the vṛtti). Each token was read by hand for meaning-class / saṃjñā / derivation-note use. Script cross-check: token found as X-शब्द or “X इत्येत-” in the Kāśikā or prathamāvṛtti of the same sūtra (all but 71 tokens; those 71 read by hand — hyphenation, carried words, nipātana notes). A second script pulled every Kāśikā/Nyāsa/Padamañjarī/SK passage on these sūtras containing स्वरूपग्रहण / अर्थग्रहण / पर्याय / तद्विशेष / स्वरूपविधि and each hit was read.",
+   "licensed": [
+    "1.2.61",
+    "1.2.62"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "licensed_with_caveat": [],
+   "note": ""
+  },
+  {
+   "id": "G16",
+   "group": "named by a commentator | ādeśa | X",
+   "count": 2,
+   "verdict": "mixed",
+   "counts": {
+    "licensed": 1,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: the commentator passage that carries the 1.1.68 mention was located by script (regex on [[1.1.68]] / स्वं रूपं / स्वरूप / \"own form\") and read in full, then checked against Kāśikā on the same sūtra.",
+   "licensed": [
+    "5.3.62"
+   ],
+   "not_licensed": [
+    {
+     "n": "1.2.63",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "MEANING_CLASS",
+     "why": "नक्षत्र is restated so that synonyms count (पुष्यपुनर्वसू, सिद्ध्यपुनर्वसू); Nyāsa says 1.1.68 would hold only for a word-mention, and here it is a meaning-mention.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "12063",
+       "quote": "पर्यायाणामपि यथा स्यात्। तिष्यपुनर्वसू। पुष्यपुनर्वसू। सिद्ध्यपुनर्वसू"
+      },
+      {
+       "file": "nyaas",
+       "id": "12063",
+       "quote": "नक्षत्रग्रहणे सत्यर्थग्रहणादेतद्भवति। शब्दग्रहणे च <<स्वं रूपं शब्दस्याशब्दसंज्ञा>> [[1.1.68]]  इत्यषा परिभाषा भवतीत्युक्तमेतत्। तदभावे पर्यायाणामपि भवति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "licensed_with_caveat": [
+    {
+     "n": "5.3.62",
+     "note": "Layer-1 credit licensed: Nyāsa answers the aśabdasaṃjñā objection (वृद्ध is a 1.1.73 saṃjñā) and keeps the own-form reading via carried प्रशस्य.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "53062",
+       "quote": "एतेन `वृद्धस्य` इति स्वरूपग्रहणं दर्शयति।"
+      },
+      {
+       "file": "nyaas",
+       "id": "53062",
+       "quote": "नैष दोषः, `प्रशस्यस्य` इत्येतदिहानुवर्तते, तेन वृद्धशब्दो विशेष्यते"
+      }
+     ]
+    }
+   ],
+   "note": "1.2.63 is a denial (synonyms included); 5.3.62 a genuine application."
+  },
+  {
+   "id": "G17",
+   "group": "named by a commentator | vibhakti | X (English)",
+   "count": 2,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 2,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: the commentator passage that carries the 1.1.68 mention was located by script (regex on [[1.1.68]] / स्वं रूपं / स्वरूप / \"own form\") and read in full, then checked against Kāśikā on the same sūtra.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "2.3.12",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "MEANING_CLASS",
+     "why": "अध्वन् here takes its synonyms (पन्थानं, मार्गं गच्छति) — a meaning-mention; Vasu’s note says the same.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "23012",
+       "quote": "अध्वनीत्यर्थग्रहणम्॥ पन्थानं गच्छति। मार्गं गच्छति॥"
+      },
+      {
+       "file": "vasu_english",
+       "id": "23012",
+       "quote": "The word <i>adhvan</i> includes the synonyms of road (1.1. 68)"
+      }
+     ]
+    },
+    {
+     "n": "2.3.27",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "NAMED_NOT_APPLIED",
+     "why": "Vasu names 1.1.68 to say it does NOT hold under the vārttika (निमित्त/कारण/हेतु include synonyms). The sūtra’s own हेतु is own-form, but that is the separate layer-2 credit (G10, licensed); this layer-1 credit cites a denial.",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "23027",
+       "quote": "Here also the word हेतु does not mean the word-form <i>hetu</i> [[1.1.68]] but its synonyms also"
+      },
+      {
+       "file": "kashika",
+       "id": "23027",
+       "quote": "अर्थग्रहणं चैतत्। पर्यायोपादानं तु स्वरूपविधिर्मा विज्ञायीति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "licensed_with_caveat": [],
+   "note": "Both Vasu notes say synonyms are included — denials."
+  },
+  {
+   "id": "G18",
+   "group": "named by a commentator | vidhi | X",
+   "count": 2,
+   "verdict": "mixed",
+   "counts": {
+    "licensed": 1,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: the commentator passage that carries the 1.1.68 mention was located by script (regex on [[1.1.68]] / स्वं रूपं / स्वरूप / \"own form\") and read in full, then checked against Kāśikā on the same sūtra.",
+   "licensed": [
+    "5.2.59"
+   ],
+   "not_licensed": [
+    {
+     "n": "3.4.26",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "MEANING_CLASS",
+     "why": "Nyāsa raises 1.1.68 as an objection and rejects it: स्वादुमि is meaning-directed, so synonyms of स्वादु also count.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "34026",
+       "quote": "`स्वादुमीत्यर्थग्रहणम्` इति। ननु च <<स्वं रूपं शब्दस्याशब्दसंज्ञा>> [[1.1.68]]  इति वचनात् स्वरूपस्यैव ग्रहणेन भवितव्यम्? नैतदस्ति;"
+      },
+      {
+       "file": "nyaas",
+       "id": "34026",
+       "quote": "इह चार्थपरो निर्देशः। तस्मादर्थग्रहणमेव युक्तम्।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "licensed_with_caveat": [
+    {
+     "n": "5.2.59",
+     "note": "Licensed: the Bhāṣya vārttika applies 1.1.68 — the sūkta name अस्यवाम stands for its own form.",
+     "quotes": [
+      {
+       "file": "bhashya",
+       "id": "52059",
+       "quote": "स्वं रूपं शब्दस्याशब्दसंज्ञा भवतीति। एवं योऽसावाम्नाये अस्यवामशब्दः पठ्यते सोऽस्य पदार्थः॥"
+      }
+     ]
+    }
+   ],
+   "note": "3.4.26 a refuted objection; 5.2.59 a genuine application (Bhāṣya vārttika)."
+  },
+  {
+   "id": "G19",
+   "group": "named by a commentator | operation | X",
+   "count": 2,
+   "verdict": "mixed",
+   "counts": {
+    "licensed": 1,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: the commentator passage that carries the 1.1.68 mention was located by script (regex on [[1.1.68]] / स्वं रूपं / स्वरूप / \"own form\") and read in full, then checked against Kāśikā on the same sūtra.",
+   "licensed": [
+    "7.3.24"
+   ],
+   "not_licensed": [
+    {
+     "n": "8.1.1",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "NAMED_NOT_APPLIED",
+     "why": "Nyāsa asks why 1.1.68 does not make द्वे a substitute “the word द्वि” and why सर्व is not own-form — and rejects both. 1.1.68 is refuted here, not applied.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "81001",
+       "quote": "स्वरूपग्रहणाद्द्विशब्दादेश एव कस्मान्न भवति? द्विर्वचनेन निर्देशात्।"
+      },
+      {
+       "file": "nyaas",
+       "id": "81001",
+       "quote": "एतेन सर्वशब्दस्यापि स्वरूपग्रहणं प्रतिक्षिप्तम्।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "licensed_with_caveat": [
+    {
+     "n": "7.3.24",
+     "note": "Licensed: Nyāsa applies it to नगर.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "73024",
+       "quote": "नगरग्रहणेनेह स्वरूपग्रहणम्; <<स्वं रूपं शब्दस्याशब्दसंज्ञा>> [[1.1.68]]  इति वचनात्॥"
+      }
+     ]
+    }
+   ],
+   "note": "7.3.24 genuine; 8.1.1 refuted."
+  },
+  {
+   "id": "G20",
+   "group": "named by a commentator | samāsa | X (English)",
+   "count": 1,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 1,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: the commentator passage that carries the 1.1.68 mention was located by script (regex on [[1.1.68]] / स्वं रूपं / स्वरूप / \"own form\") and read in full, then checked against Kāśikā on the same sūtra.",
+   "licensed": [
+    "2.1.49"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "licensed_with_caveat": [
+    {
+     "n": "2.1.49",
+     "note": "Licensed: own form for एक, सर्व, जरत्, पुराण, नव, केवल; पूर्वकाल is meaning (Kāśikā = Vasu).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "21049",
+       "quote": "पूर्वकाल इत्यर्थनिर्देशः, परिशिष्टानां स्वरूपग्रहणम्।"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G21",
+   "group": "named by a commentator | nipātana | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: the commentator passage that carries the 1.1.68 mention was located by script (regex on [[1.1.68]] / स्वं रूपं / स्वरूप / \"own form\") and read in full, then checked against Kāśikā on the same sūtra.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "2.4.23",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "OVERRIDDEN_BY_VARTTIKA",
+     "why": "jit case: ONLY synonyms of राजन् (इनसभम्, ईश्वरसभम्); राजसभा itself is excluded. Nyāsa names 1.1.68 in the objection that is answered by the vārttika.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "24023",
+       "quote": "इह कस्माद् न भवति — राजसभा? पर्यायवचनस्यैवेष्यते।"
+      },
+      {
+       "file": "nyaas",
+       "id": "24023",
+       "quote": "<<स्वं रूपं शब्दस्याशब्दसंज्ञा>> [[1.1.68]]  इति वचनदिहैव युक्तं भवितुमित्यभिप्रायः।"
+      },
+      {
+       "file": "kashika",
+       "id": "11068",
+       "quote": "ततो वक्तव्यं पर्यायवचनस्यैव ग्रहणं भवतीति, न स्वरूपस्य, नापि तद्विशेषाणाम्।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "licensed_with_caveat": [],
+   "note": ""
+  },
+  {
+   "id": "G22",
+   "group": "named by a commentator | ādeśa | X (English)",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: the commentator passage that carries the 1.1.68 mention was located by script (regex on [[1.1.68]] / स्वं रूपं / स्वरूप / \"own form\") and read in full, then checked against Kāśikā on the same sūtra.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "2.4.49",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "MISCITED_LINK",
+     "why": "Vasu’s “[[1.1.68]]” is attached to “the substitute being like its original” — that is sthānivad-bhāva, 1.1.56 (already in P as 1.1.56 ↪). The data link is a mis-citation.",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "24049",
+       "quote": "The substitute being like its original [[1.1.68]] गाङ् would have been <i>Atmanepadi</i>"
+      },
+      {
+       "file": "kashika",
+       "id": "24049",
+       "quote": "नहि स्थानिवद्भावेन गाङिति रूपं लभ्यते॥"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "licensed_with_caveat": [],
+   "note": "Mis-cited link (means 1.1.56)."
+  },
+  {
+   "id": "G23",
+   "group": "named by a commentator | ekādeśa | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: the commentator passage that carries the 1.1.68 mention was located by script (regex on [[1.1.68]] / स्वं रूपं / स्वरूप / \"own form\") and read in full, then checked against Kāśikā on the same sūtra.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "6.1.84",
+     "word": "named by महाभाष्यम्",
+     "should_be": "none",
+     "reason": "MISCITED_LINK",
+     "why": "The Bhāṣya text quoted with “[[1.1.68]]” is “तस्मिन्निति निर्दिष्टे पूर्वस्य” = 1.1.66 (the link is off by two; the preceding “तस्मादित्युत्तरस्य” is correctly 1.1.67). 1.1.66 is already credited (L1+2).",
+     "quotes": [
+      {
+       "file": "bhashya",
+       "id": "61084",
+       "quote": "अचीत्येषा सप्तमी आदिति पञ्चम्याः षष्ठीं प्रकल्पयिष्यति तस्मिन्निति निर्दिष्टे पूर्वस्य [[1.1.68]] इति"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "licensed_with_caveat": [],
+   "note": "Mis-cited link (means 1.1.66)."
+  },
+  {
+   "id": "G24",
+   "group": "carried / not a sūtra word | ekādeśa | X",
+   "count": 1,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 1,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "All 1 members listed with the X-शब्द tokens the engine regex matched (from genBeforeFix where a hand fix later replaced the vṛtti). Each token was read by hand for meaning-class / saṃjñā / derivation-note use. Script cross-check: token found as X-शब्द or “X इत्येत-” in the Kāśikā or prathamāvṛtti of the same sūtra (all but 71 tokens; those 71 read by hand — hyphenation, carried words, nipātana notes). A second script pulled every Kāśikā/Nyāsa/Padamañjarī/SK passage on these sūtras containing स्वरूपग्रहण / अर्थग्रहण / पर्याय / तद्विशेष / स्वरूपविधि and each hit was read.",
+   "licensed": [
+    "6.1.98"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "licensed_with_caveat": [],
+   "note": ""
+  },
+  {
+   "id": "G25",
+   "group": "named by a commentator | ekādeśa | X (English)",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: the commentator passage that carries the 1.1.68 mention was located by script (regex on [[1.1.68]] / स्वं रूपं / स्वरूप / \"own form\") and read in full, then checked against Kāśikā on the same sūtra.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "6.1.101",
+     "word": "named by Vasu",
+     "should_be": "none",
+     "reason": "MISCITED_LINK",
+     "why": "Vasu’s “ग्रहणकवाक्यं [[1.1.68]]” is the savarṇa-inclusion rule 1.1.69 (named in the same paragraph); 1.1.69 is already credited (L1).",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "61101",
+       "quote": "and then comes the ग्रहणकवाक्यं [[1.1.68]]."
+      },
+      {
+       "file": "vasu_english",
+       "id": "61101",
+       "quote": "the rule of classification and inclusion contained in अणुदित्सवर्णस्य चाप्रत्ययः [[1.1.69]]"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "licensed_with_caveat": [],
+   "note": "Mis-cited link (means 1.1.69)."
+  }
+ ],
+ "missed": [
+  {
+   "n": "1.2.48",
+   "pid": "1.1.68",
+   "why": "Kāśikā: गो is own-form (vṛtti “उपसर्जनगोशब्दान्तस्य”, missed because the regex ignores -शब्दान्त).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "12048",
+     "quote": "गो इति स्वरूपग्रहणम्, स्त्रीति प्रत्ययग्रहणं स्वरितत्वात्।"
+    }
+   ]
+  },
+  {
+   "n": "5.3.114",
+   "pid": "1.1.68",
+   "why": "राजन्य is own-form (ब्राह्मण takes species). Engine vṛtti has no X-शब्द.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "53114",
+     "quote": "ब्राह्मणे तद्विशेषग्रहणम् राजन्ये तु स्वरूपग्रहणमेव।"
+    }
+   ]
+  },
+  {
+   "n": "5.4.116",
+   "pid": "1.1.68",
+   "why": "प्रमाणी is own-form (पूरणी is a class).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "54116",
+     "quote": "प्रमाणीति स्वरूपग्रहणम्।"
+    }
+   ]
+  },
+  {
+   "n": "8.3.88",
+   "pid": "1.1.68",
+   "why": "सूति is own-form (सुपि = स्वप् after samprasāraṇa). Vṛtti uses “इत्येतेषाम्”, no X-शब्द.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "83088",
+     "quote": "सूतीति स्वरूपग्रहणम्।"
+    }
+   ]
+  },
+  {
+   "n": "(52 sūtras)",
+   "pid": "1.1.68",
+   "why": "Systematic: every vṛtti token “X-शब्दान्त-” (tadanta, 1.1.72) is the same own-form mark but the 1.1.68 regex does not match it. 52 uncredited sūtras: 1.2.48, 4.1.23, 4.1.24, 4.1.25, 4.1.26, 4.1.27, 4.1.34, 4.1.139, 4.3.61, 4.3.63, 5.1.32, 5.1.33, 5.1.50, 5.1.55, 5.1.86, 5.1.89, 5.2.45, 5.2.87, 5.2.137, 5.3.82, 5.4.72, 5.4.79, 5.4.81, 5.4.82, 5.4.85, 5.4.86, 5.4.92, 5.4.93, 5.4.95, 5.4.99, 5.4.104, 5.4.105, 5.4.112, 5.4.114, 5.4.115, 5.4.117, 5.4.119, 5.4.121, 5.4.122, 5.4.124, 5.4.131, 5.4.132, 5.4.133, 5.4.134, 5.4.140, 5.4.146, 5.4.157, 5.4.159, 6.1.220, 6.1.221, 6.2.123, 6.4.130. Same Kāśikā wording, e.g. 5.4.134.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "54134",
+     "quote": "जायाशब्दान्तस्य बहुव्रीहेर्निङादेशो भवति।"
+    }
+   ]
+  },
+  {
+   "n": "2.1.28 2.2.11 4.2.107 4.4.43 5.1.135 5.2.1",
+   "pid": "1.1.68",
+   "why": "Not ✔ misses but ✖ records worth adding (“considered, not applicable”): Kāśikā explicitly says the wording blocks svarūpa-vidhi here (same pattern as 4.3.68/75/81).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "42107",
+     "quote": "पदग्रहणं स्वरूपविधिनिरासार्थम्॥"
+    },
+    {
+     "file": "kashika",
+     "id": "52001",
+     "quote": "बहुवचनं स्वरूपविधिनिरासार्थम्॥"
+    },
+    {
+     "file": "kashika",
+     "id": "22011",
+     "quote": "अर्थशब्दः प्रत्येकमभिसंबध्यते, तेन स्वरूपविधिर्न भवति"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1079 @@
+{
+ "table": {
+  "Opus not licensed · Gemini not licensed": 140,
+  "Opus licensed · Gemini licensed": 169,
+  "Opus licensed · Gemini not licensed": 67,
+  "Opus unsure · Gemini licensed": 6,
+  "Opus not licensed · Gemini unsure": 19,
+  "Opus unsure · Gemini not licensed": 7,
+  "Opus licensed · Gemini unsure": 18,
+  "Opus not licensed · Gemini licensed": 1,
+  "Opus unsure · Gemini unsure": 4
+ },
+ "agree": 313,
+ "all": 431,
+ "disagreements": [
+  {
+   "key": "G1|4.1.178|प्राच्य-भर्गादि-यौधेय-आदिभ्यः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "The ablative indicates the source from which the suffix originated ('उत्पन्नस्य') for luk-prohibition, not an operation on what follows under 1.1.67.",
+   "quoteOk": false,
+   "source": "Kāśikā of 4.1.178"
+  },
+  {
+   "key": "G5|6.1.141|प्रतेः",
+   "opus": "unsure",
+   "opusWhy": "सुट् is placed 'कात् पूर्वः' by 6.1.135, and the carried 7th करोतौ/किरतौ ('when kṛ/kṝ follows') stands beside the 5th up",
+   "gemini": "licensed",
+   "geminiWhy": "Sūtra 1.1.67 licenses interpreting the ablative प्रतेः as applying the augment to that which follows.",
+   "quoteOk": true,
+   "source": "Kāśikā of 6.1.141"
+  },
+  {
+   "key": "G11|8.3.69|वेः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Sūtra 1.1.67 requires an ablative specification to govern the following element, but our vṛtti omits उत्तरस्य or परस्य for the credited word वेः.",
+   "quoteOk": true,
+   "source": "Kāśikā of 8.3.69"
+  },
+  {
+   "key": "G11|8.3.73|वेः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Sūtra 1.1.67 requires the ablative to govern what follows, but our vṛtti omits उत्तरस्य or परस्य for वेः.",
+   "quoteOk": true,
+   "source": "Kāśikā of 8.3.73"
+  },
+  {
+   "key": "G11|8.3.99|अगात्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Sūtra 1.1.67 requires the ablative to govern the following element, but our vṛtti fails to attach उत्तरस्य or परस्य to अगकारात्.",
+   "quoteOk": false,
+   "source": "Kāśikā of 8.3.99"
+  },
+  {
+   "key": "G13|5.1.28|अध्यर्धपूर्व-द्विगोः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Sūtra 1.1.67 specifies that an operation applies to what follows an ablative, but does not license the credited word itself.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G12|3.1.8|सुपः",
+   "opus": "not licensed",
+   "opusWhy": "Suffix-introducing rule: the 5th-case word is the base after which a NEW suffix is placed. The suffix's position comes f",
+   "gemini": "unsure",
+   "geminiWhy": "The provided commentaries state the meaning of the sūtra but do not settle whether 1.1.67 licenses the ablative reading here.",
+   "quoteOk": true,
+   "source": "Kāśikā of 3.1.8"
+  },
+  {
+   "key": "G12|3.2.166|यङः",
+   "opus": "not licensed",
+   "opusWhy": "Suffix-introducing rule: the 5th-case word is the base after which a NEW suffix is placed. The suffix's position comes f",
+   "gemini": "unsure",
+   "geminiWhy": "The provided texts do not mention 1.1.67 or settle whether it licenses the ablative term in this rule.",
+   "quoteOk": true,
+   "source": "Kāśikā of 3.2.166"
+  },
+  {
+   "key": "G12|3.3.22|रुवः",
+   "opus": "not licensed",
+   "opusWhy": "Suffix-introducing rule: the 5th-case word is the base after which a NEW suffix is placed. The suffix's position comes f",
+   "gemini": "unsure",
+   "geminiWhy": "The provided texts do not settle whether 1.1.67 licenses the ablative reading of the credited word.",
+   "quoteOk": true,
+   "source": "Kāśikā of 3.3.22"
+  },
+  {
+   "key": "G12|4.1.73|अञः",
+   "opus": "not licensed",
+   "opusWhy": "Suffix-introducing rule: the 5th-case word is the base after which a NEW suffix is placed. The suffix's position comes f",
+   "gemini": "unsure",
+   "geminiWhy": "The provided commentaries do not settle whether 1.1.67 licenses the ablative interpretation of this word.",
+   "quoteOk": true,
+   "source": "Kāśikā of 4.1.73"
+  },
+  {
+   "key": "G12|4.1.100|अञः",
+   "opus": "not licensed",
+   "opusWhy": "Suffix-introducing rule: the 5th-case word is the base after which a NEW suffix is placed. The suffix's position comes f",
+   "gemini": "unsure",
+   "geminiWhy": "The provided texts do not settle whether 1.1.67 licenses the credited ablative reading.",
+   "quoteOk": true,
+   "source": "Kāśikā of 4.1.100"
+  },
+  {
+   "key": "G12|4.2.72|मतोः",
+   "opus": "not licensed",
+   "opusWhy": "Suffix-introducing rule: the 5th-case word is the base after which a NEW suffix is placed. The suffix's position comes f",
+   "gemini": "unsure",
+   "geminiWhy": "The provided texts do not state whether 1.1.67 licenses the ablative specification of the base.",
+   "quoteOk": true,
+   "source": "Kāśikā of 4.2.72"
+  },
+  {
+   "key": "G12|4.4.140|वसोः",
+   "opus": "not licensed",
+   "opusWhy": "Suffix-introducing rule: the 5th-case word is the base after which a NEW suffix is placed. The suffix's position comes f",
+   "gemini": "unsure",
+   "geminiWhy": "The provided texts do not settle whether 1.1.67 licenses the ablative reading of the base.",
+   "quoteOk": true,
+   "source": "Kāśikā of 4.4.140"
+  },
+  {
+   "key": "G12|5.3.48|तीयात्",
+   "opus": "not licensed",
+   "opusWhy": "Suffix-introducing rule: the 5th-case word is the base after which a NEW suffix is placed. The suffix's position comes f",
+   "gemini": "unsure",
+   "geminiWhy": "The provided texts do not settle whether 1.1.67 licenses the ablative interpretation of तीयात्.",
+   "quoteOk": true,
+   "source": "Kāśikā of 5.3.48"
+  },
+  {
+   "key": "G12|5.4.15|इनुणः",
+   "opus": "not licensed",
+   "opusWhy": "Suffix-introducing rule: the 5th-case word is the base after which a NEW suffix is placed. The suffix's position comes f",
+   "gemini": "unsure",
+   "geminiWhy": "The provided commentaries do not settle whether 1.1.67 licenses the ablative specification in this rule.",
+   "quoteOk": true,
+   "source": "Kāśikā of 5.4.15"
+  },
+  {
+   "key": "G15|8.3.90|इण्कोः",
+   "opus": "unsure",
+   "opusWhy": "A nipātana (the sūtra lists a finished form) or a gaṇa of finished forms. Whether the ṣatva/natva in the form 'applies' ",
+   "gemini": "not licensed",
+   "geminiWhy": "This sutra is a nipātana and neither 'इण्कोः' nor 'उत्तरस्य' is read in the vṛtti or commentaries.",
+   "quoteOk": true,
+   "source": "Kāśikā of 8.3.90"
+  },
+  {
+   "key": "G15|8.3.92|इण्कोः",
+   "opus": "unsure",
+   "opusWhy": "A nipātana (the sūtra lists a finished form) or a gaṇa of finished forms. Whether the ṣatva/natva in the form 'applies' ",
+   "gemini": "not licensed",
+   "geminiWhy": "This is a nipātana sutra where neither 'इण्कोः' nor 'उत्तरस्य' is read in the vṛtti or commentaries.",
+   "quoteOk": true,
+   "source": "Kāśikā of 8.3.92"
+  },
+  {
+   "key": "G15|8.3.94|इण्कोः",
+   "opus": "unsure",
+   "opusWhy": "A nipātana (the sūtra lists a finished form) or a gaṇa of finished forms. Whether the ṣatva/natva in the form 'applies' ",
+   "gemini": "not licensed",
+   "geminiWhy": "This is a nipātana sutra where neither 'इण्कोः' nor 'उत्तरस्य' is read in the given texts.",
+   "quoteOk": true,
+   "source": "Kāśikā of 8.3.94"
+  },
+  {
+   "key": "G15|8.3.108|पूर्वपदात्, इण्कोः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Neither 'पूर्वपदात्', 'इण्कोः', nor 'उत्तरस्य' appears in the vṛtti or commentaries for this sutra.",
+   "quoteOk": true,
+   "source": "Kāśikā of 8.3.108"
+  },
+  {
+   "key": "G15|8.3.114|इण्कोः",
+   "opus": "unsure",
+   "opusWhy": "A nipātana (the sūtra lists a finished form) or a gaṇa of finished forms. Whether the ṣatva/natva in the form 'applies' ",
+   "gemini": "not licensed",
+   "geminiWhy": "Neither 'इण्कोः' nor 'उत्तरस्य' is read in the vṛtti or commentaries for this nipātana sutra.",
+   "quoteOk": true,
+   "source": "Kāśikā of 8.3.114"
+  },
+  {
+   "key": "G15|8.3.116|इण्कोः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Neither 'इण्कोः' nor 'उत्तरस्य' is read in the vṛtti or commentaries for this prohibition.",
+   "quoteOk": true,
+   "source": "Kāśikā of 8.3.116"
+  },
+  {
+   "key": "G16|1.3.21|क्रीडः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Sūtra 1.1.67 is a paribhāṣā directing that an operation specified by an ablative applies to what follows, so it does not license the verbal base ‹क्रीडः›.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G16|1.3.32|कृञः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Sūtra 1.1.67 is a paribhāṣā governing operations on subsequent elements and does not license the verbal base ‹कृञः›.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G16|1.3.38|क्रमः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Sūtra 1.1.67 defines that an operation applies to the subsequent element following an ablative term, which does not license the verbal base ‹क्रमः›.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G16|1.3.47|वदः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Sūtra 1.1.67 is a paribhāṣā directing operations to the following element and does not license the verbal base ‹वदः›.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G16|1.3.61|म्रियतेः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Sūtra 1.1.67 is a paribhāṣā governing operations on subsequent elements and does not license the verbal root ‹म्रियतेः›.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G16|1.3.65|क्ष्णुवः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Sūtra 1.1.67 directs operations to the element following an ablative specification rather than licensing the verbal base ‹क्ष्णुवः›.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G16|1.3.67|णेः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Sūtra 1.1.67 governs operations taking place on subsequent elements and does not license the verbal base ‹णेः›.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G16|1.3.73|वदः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Sūtra 1.1.67 directs operations to the subsequent element following an ablative condition, so it does not license the verbal base ‹वदः›.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G16|1.3.75|यमः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Sūtra 1.1.67 governs the operation on what follows the prefixes and does not license the verbal base ‹यमः›.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G16|1.3.78|शेषात्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Sūtra 1.1.67 is a paribhāṣā directing operations to subsequent elements, which does not license the term ‹शेषात्›.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G16|1.3.91|द्युद्भ्यः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Sūtra 1.1.67 regulates that an operation applies to the element following an ablative term, not licensing the root group ‹द्युद्भ्यः›.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G19|8.4.24|रषाभ्याम्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "In 8.4.24, 1.1.67 governs the overt ablative ‹अन्तः शब्दात्› rather than the credited word ‹रषाभ्याम्›, which does not appear in the Kāśikā or vṛtti.",
+   "quoteOk": true,
+   "source": "Kāśikā of 8.4.24"
+  },
+  {
+   "key": "G19|8.4.36|रषाभ्याम्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "This sūtra is a negative prohibition without any ablative interpreted as conditioning an operation on a subsequent element via 1.1.67.",
+   "quoteOk": true,
+   "source": "Kāśikā of 8.4.36"
+  },
+  {
+   "key": "G19|8.4.38|रषाभ्याम्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "This sūtra is a prohibition where no ablative is interpreted as conditioning an operation on what follows via 1.1.67.",
+   "quoteOk": true,
+   "source": "Kāśikā of 8.4.38"
+  },
+  {
+   "key": "G20|6.1.138|सम्-परि-उपेभ्यः",
+   "opus": "unsure",
+   "opusWhy": "सुट् is placed 'कात् पूर्वः' by 6.1.135, and the carried 7th करोतौ/किरतौ ('when kṛ/kṝ follows') stands beside the 5th up",
+   "gemini": "licensed",
+   "geminiWhy": "Sūtra 1.1.67 licenses interpreting the carried ablative samparyupebhyaḥ as requiring the augment to follow immediately after it (संपरिभ्यां परः).",
+   "quoteOk": true,
+   "source": "prathamāvṛtti of 6.1.138"
+  },
+  {
+   "key": "G20|7.2.11|एकाचः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "unsure",
+   "geminiWhy": "While Siddhāntakaumudī carries ekācaḥ in the ablative governing what follows (परयोः), Kāśikā and prathamāvṛtti omit ekācaḥ entirely and use genitives, leaving the reading unsettled by the given texts.",
+   "quoteOk": true,
+   "source": "SK of 7.2.11"
+  },
+  {
+   "key": "G20|7.2.64|अनिटः",
+   "opus": "unsure",
+   "opusWhy": "A nipātana (the sūtra lists a finished form) or a gaṇa of finished forms. Whether the ṣatva/natva in the form 'applies' ",
+   "gemini": "not licensed",
+   "geminiWhy": "The sūtra is a nipātana of forms lacking the augment iṭ, and none of the commentaries carry over or construe aniṭaḥ under 1.1.67.",
+   "quoteOk": true,
+   "source": "Kāśikā of 7.2.64"
+  },
+  {
+   "key": "G20|7.2.66|अनिटः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "The word aniṭaḥ is not carried over in any of the commentaries, and the augment is prescribed directly for the roots named in the sūtra.",
+   "quoteOk": true,
+   "source": "Kāśikā of 7.2.66"
+  },
+  {
+   "key": "G17|2.4.73|अदि-प्रभृतिभ्यः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "The word 'अदि-प्रभृतिभ्यः' is not carried over or read in the commentary for this sūtra, so 1.1.67 cannot license it.",
+   "quoteOk": true,
+   "source": "Kāśikā of 2.4.73"
+  },
+  {
+   "key": "G17|6.3.15|हलदन्तात्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "The word 'हलदन्तात्' is not carried over into this sūtra in the commentary, which instead specifies 'प्रावृट् शरत् काल् दिव् इत्येतेषां'.",
+   "quoteOk": true,
+   "source": "Kāśikā of 6.3.15"
+  },
+  {
+   "key": "G17|6.4.109|प्रत्ययात्, करोतेः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "unsure",
+   "geminiWhy": "The commentary explicitly licenses 'करोतेरुत्तरस्य' via 1.1.67, but it reads 'उकारप्रत्ययस्य' in the genitive rather than an ablative 'प्रत्ययात्', leaving it unsettled whether 1.1.67 can be credited for the combined entry.",
+   "quoteOk": true,
+   "source": "Kāśikā of 6.4.109"
+  },
+  {
+   "key": "G17|7.3.27|अर्धात्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "unsure",
+   "geminiWhy": "Although the commentary reads 'अर्धात् परस्य', the word 'परस्य' is already an explicit element of sūtra 7.3.27, leaving it unsettled from the provided texts whether 1.1.67 licenses this reading.",
+   "quoteOk": true,
+   "source": "Kāśikā of 7.3.27"
+  },
+  {
+   "key": "G18|7.1.11|अतः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "The credited word अतः is not present in the sūtra or the commentaries, so 1.1.67 cannot license it here.",
+   "quoteOk": true,
+   "source": "Kāśikā of 7.1.11"
+  },
+  {
+   "key": "G18|7.3.3|य्वाभ्याम्, पदान्ताभ्याम्, ताभ्याम्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "While 1.1.67 applies to य्वाभ्याम् पदान्ताभ्याम्, it cannot license ताभ्याम् because the operation is explicitly designated to be prior rather than subsequent.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G23|6.1.87|आत्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Sūtra 1.1.67 requires the operation to apply to the following element alone, whereas 6.1.87 prescribes an ekādeśa replacing both preceding and following elements.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G23|6.1.90|आटः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Under 1.1.67 the operation must belong to the following element alone, whereas 6.1.90 is an ekādeśa for both prior and posterior elements.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G23|6.1.91|उपसर्गात्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Sūtra 1.1.67 directs the operation solely to the subsequent element, which contradicts the ekādeśa operation replacing both elements in 6.1.91.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G23|6.1.93|ओतः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "An ekādeśa replaces both preceding and following elements, so it cannot be licensed by 1.1.67 which restricts the operation to the subsequent element alone.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G23|6.1.96|अपदान्तात्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Sūtra 1.1.67 licenses operations applying strictly to the following element, not a single substitution for both prior and posterior elements.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G23|6.1.97|अतः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "The operation in 6.1.97 is an ekādeśa for both preceding and following elements, whereas 1.1.67 mandates that the operation affects the subsequent element only.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G23|6.1.98|अतः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Sūtra 1.1.67 governs operations occurring only on the following element, but 6.1.98 prescribes a single substitute for both elements.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G23|6.1.101|अकः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Operation under 1.1.67 belongs solely to what follows, whereas 6.1.101 prescribes an ekādeśa in place of both prior and posterior elements.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G23|6.1.104|आत्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Sūtra 6.1.104 is a prohibition of an ekādeśa affecting both elements, not an operation directed to the following element alone under 1.1.67.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G23|6.1.105|दीर्घात्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Sūtra 1.1.67 applies where an operation belongs solely to the following element, whereas 6.1.105 negates an ekādeśa of both preceding and following elements.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G23|6.1.108|सम्प्रसारणात्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Sūtra 6.1.108 prescribes a single substitute for both prior and posterior elements, which cannot be governed by 1.1.67 since 1.1.67 applies to the subsequent element alone.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G22|1.3.24|उदः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "unsure",
+   "geminiWhy": "While 1.1.67 prescribes an operation for what is posterior and specifically states 'न पूर्वस्य', the given texts do not explicitly settle whether reading the ablative उदः as the compound उत्पूर्वात् is licensed by 1.1.67.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G22|1.3.25|उपात्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "unsure",
+   "geminiWhy": "The source texts for 1.1.67 state that an ablative licenses an operation on what is posterior rather than preceding, leaving it unsettled whether the compound reading उपपूर्वात् is licensed by 1.1.67.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G22|1.3.29|समः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "unsure",
+   "geminiWhy": "Sūtra 1.1.67 defines operations for the subsequent element, and the provided texts do not explicitly settle whether the bahuvrīhi formulation सम्पूर्वेभ्यः is directly licensed by 1.1.67.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G22|1.3.42|प्र-उपाभ्याम्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Our vṛtti simply glosses the ablative dual as प्र उप इत्येताभ्याम् उपसर्गाभ्याम् समर्थाभ्याम् without expressing the posterior relationship (परस्मात्) that 1.1.67 licenses.",
+   "quoteOk": true,
+   "source": "Kāśikā of 1.3.42"
+  },
+  {
+   "key": "G22|1.3.46|सम्-प्रतिभ्याम्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Our vṛtti renders the ablative dual merely as instrumental/ablative उपसर्गाभ्याम् without expressing any posterior operation (परस्य/उत्तरस्य) governed by 1.1.67.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G22|1.3.54|समः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "unsure",
+   "geminiWhy": "The provided commentaries define 1.1.67 as governing operations of the posterior element without settling whether paraphrasing the ablative समः as सम्पूर्वात् is licensed by 1.1.67.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G22|1.3.58|अनोः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "unsure",
+   "geminiWhy": "Sūtra 1.1.67 licenses the sense of following rather than preceding, and the given texts do not explicitly state whether the bahuvrīhi reading अनुपूर्वात् is licensed by 1.1.67.",
+   "quoteOk": true,
+   "source": "kaumudi 11067"
+  },
+  {
+   "key": "G22|1.3.59|प्रति-आङ्भ्याम्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "unsure",
+   "geminiWhy": "The source texts on 1.1.67 explain only that the operation applies to what is subsequent (परस्य/उत्तरस्य), leaving it unsettled whether the formulation प्रति आङ् इत्येवम्पूर्वात् is licensed by 1.1.67.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G22|1.3.81|प्रात्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "unsure",
+   "geminiWhy": "Sūtra 1.1.67 explicitly rules that an ablative specification applies to what follows and not to what precedes, leaving it unsettled from the given texts whether reading प्रात् as प्रपूर्वात् is licensed by 1.1.67.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G22|1.3.82|परेः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "unsure",
+   "geminiWhy": "Because 1.1.67 explicitly assigns operations to the posterior item and not the prior, the given texts do not settle whether reading the ablative परेः as परिपूर्वात् is licensed by 1.1.67.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G28|3.4.76|ध्रौव्यगतिप्रत्यवसानार्थेभ्यः",
+   "opus": "unsure",
+   "opusWhy": "Assigns a meaning to a kta that the dhātus already take ('यः क्तः, स कर्तरि भवति'). This could be read as an operation o",
+   "gemini": "not licensed",
+   "geminiWhy": "In pratyaya rules, the posteriority of the suffix is governed by 3.1.2 'परश्च', so 1.1.67 does not license the reading of the ablative base.",
+   "quoteOk": true,
+   "source": "nyaas 11067"
+  },
+  {
+   "key": "G29|6.1.88|आत्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "In an ekādeśa rule, the operation applies to both prior and posterior together under 6.1.84, whereas 1.1.67 explicitly ordains an operation for the posterior alone and not the prior.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G29|6.1.89|आत्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "In an ekādeśa rule, the operation applies to both prior and posterior together under 6.1.84, whereas 1.1.67 explicitly ordains an operation for the posterior alone and not the prior.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G29|6.1.92|उपसर्गात्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "In an ekādeśa rule, the operation applies to both prior and posterior together under 6.1.84, whereas 1.1.67 explicitly ordains an operation for the posterior alone and not the prior.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G29|6.1.94|उपसर्गात्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "In an ekādeśa rule, the operation applies to both prior and posterior together under 6.1.84, whereas 1.1.67 explicitly ordains an operation for the posterior alone and not the prior.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G29|6.1.95|आत्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "In an ekādeśa rule, the operation applies to both prior and posterior together under 6.1.84, whereas 1.1.67 explicitly ordains an operation for the posterior alone and not the prior.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G29|6.1.102|अकः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "In an ekādeśa rule, the operation applies to both prior and posterior together under 6.1.84, whereas 1.1.67 explicitly ordains an operation for the posterior alone and not the prior.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G29|6.1.106|दीर्घात्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "In an ekādeśa rule, the operation applies to both prior and posterior together under 6.1.84, whereas 1.1.67 explicitly ordains an operation for the posterior alone and not the prior.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G29|6.1.107|अकः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "In an ekādeśa rule, the operation applies to both prior and posterior together under 6.1.84, whereas 1.1.67 explicitly ordains an operation for the posterior alone and not the prior.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G29|6.1.110|एङः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "In an ekādeśa rule, the operation applies to both prior and posterior together under 6.1.84, whereas 1.1.67 explicitly ordains an operation for the posterior alone and not the prior.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G31|7.1.68|सुदुर्भ्याम्, केवलाभ्याम्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "The ablative dual specifies an upasarga condition qualifying the root (उपसृष्टस्य लभेः) rather than directing an operation to a subsequent element via 1.1.67.",
+   "quoteOk": true,
+   "source": "Kāśikā of 7.1.68"
+  },
+  {
+   "key": "G33|1.2.11|हलन्तात्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "The ablative read and glossed by Kāśikā, Prathamāvṛtti, and Siddhāntakaumudī in 1.2.11 is 'हलः' ('हलः परौ'), not 'हलन्तात्'.",
+   "quoteOk": true,
+   "source": "Kāśikā of 1.2.11"
+  },
+  {
+   "key": "G33|1.2.23|न-उपधात्, थ-फ-अन्तात्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "The words ‹न-उपधात्› and ‹थ-फ-अन्तात्› belong to sūtra 1.2.23 itself and are not licensed by the interpretative rule 1.1.67.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G33|1.2.26|रलः, वि-उपधात्, हल-आदेः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "The credited words are part of sūtra 1.2.26 itself rather than being licensed by paribhāṣā 1.1.67.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G34|1.2.39|named by न्यासः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Nyāsa on 1.1.66–1.1.67 does not name or mention sūtra 1.2.39 in the provided commentary.",
+   "quoteOk": true,
+   "source": "nyaas 11067"
+  },
+  {
+   "key": "G35|3.1.2|named by न्यासः",
+   "opus": "not licensed",
+   "opusWhy": "The commentary NAMES 1.1.67 at this sūtra but does not APPLY it here. It discusses another sūtra, a rejected view, or a ",
+   "gemini": "licensed",
+   "geminiWhy": "Nyāsa on 1.1.67 explicitly names sūtra 3.1.2 (परश्च) when explaining the non-replacement of dhātu by yak.",
+   "quoteOk": true,
+   "source": "nyaas 11067"
+  },
+  {
+   "key": "G35|3.1.91|named by महाभाष्यम्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "The Mahābhāṣya on 1.1.66–1.1.67 does not name or cite sūtra 3.1.91 (धातोः) in the provided text.",
+   "quoteOk": true,
+   "source": "bhashya 11067"
+  },
+  {
+   "key": "G36|5.4.150|सुशब्दात्",
+   "opus": "unsure",
+   "opusWhy": "A nipātana (the sūtra lists a finished form) or a gaṇa of finished forms. Whether the ṣatva/natva in the form 'applies' ",
+   "gemini": "not licensed",
+   "geminiWhy": "Sūtra 1.1.67 is an interpretive rule for operations following an ablative and does not license the word ‹सुशब्दात्› in 5.4.150.",
+   "quoteOk": true,
+   "source": "prathamāvṛtti of 5.4.150"
+  },
+  {
+   "key": "G40|2.3.15|भाववचनात्",
+   "opus": "not licensed",
+   "opusWhy": "The 5th is the target of a case rule ('the 5th case is used for X') or of a definition. It is not a 5th of direction, an",
+   "gemini": "unsure",
+   "geminiWhy": "Neither the commentaries on 1.1.66–1.1.67 nor the texts of 2.3.15 mention 1.1.67, so the source texts do not settle whether it is licensed.",
+   "quoteOk": true,
+   "source": "Kāśikā of 2.3.15"
+  },
+  {
+   "key": "G40|2.3.35|दूर-अन्तिक-अर्थेभ्यः",
+   "opus": "not licensed",
+   "opusWhy": "The 5th is the target of a case rule ('the 5th case is used for X') or of a definition. It is not a 5th of direction, an",
+   "gemini": "unsure",
+   "geminiWhy": "The provided texts for 1.1.66–1.1.67 and 2.3.35 make no mention of 1.1.67 licensing this reading, leaving the matter unsettled.",
+   "quoteOk": true,
+   "source": "Kāśikā of 2.3.35"
+  },
+  {
+   "key": "G40|5.3.38|उत्तरात्",
+   "opus": "not licensed",
+   "opusWhy": "Suffix-introducing rule: the 5th-case word is the base after which a NEW suffix is placed. The suffix's position comes f",
+   "gemini": "unsure",
+   "geminiWhy": "Neither the 1.1.67 commentaries nor the texts of 5.3.38 mention 1.1.67, so the provided texts do not settle the verdict.",
+   "quoteOk": true,
+   "source": "Kāśikā of 5.3.38"
+  },
+  {
+   "key": "G42|3.4.81|named by न्यासः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Nyāsa on 1.1.66–1.1.67 never mentions or names sūtra 3.4.81.",
+   "quoteOk": true,
+   "source": "Kāśikā of 3.4.81"
+  },
+  {
+   "key": "G42|3.4.82|named by न्यासः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Nyāsa on 1.1.66–1.1.67 never mentions or names sūtra 3.4.82.",
+   "quoteOk": true,
+   "source": "Kāśikā of 3.4.82"
+  },
+  {
+   "key": "G37|6.1.2|named by न्यासः",
+   "opus": "not licensed",
+   "opusWhy": "The commentary NAMES 1.1.67 at this sūtra but does not APPLY it here. It discusses another sūtra, a rejected view, or a ",
+   "gemini": "unsure",
+   "geminiWhy": "Nyāsa on 1.1.67 does not name 6.1.2 and Nyāsa on 6.1.2 is not provided in the source texts, so the given texts do not settle whether Nyāsa names 1.1.67 here.",
+   "quoteOk": true,
+   "source": "Kāśikā of 6.1.2"
+  },
+  {
+   "key": "G37|7.2.107|named by न्यासः",
+   "opus": "not licensed",
+   "opusWhy": "The commentary NAMES 1.1.67 at this sūtra but does not APPLY it here. It discusses another sūtra, a rejected view, or a ",
+   "gemini": "unsure",
+   "geminiWhy": "The source texts do not include Nyāsa on 7.2.107 and Nyāsa on 1.1.67 does not cite 7.2.107, so the provided texts do not settle the credit.",
+   "quoteOk": true,
+   "source": "Kāśikā of 7.2.107"
+  },
+  {
+   "key": "G37|8.2.23|named by तत्त्वबोधिनी",
+   "opus": "not licensed",
+   "opusWhy": "The commentary NAMES 1.1.67 at this sūtra but does not APPLY it here. It discusses another sūtra, a rejected view, or a ",
+   "gemini": "unsure",
+   "geminiWhy": "Tattvabodhinī on 8.2.23 is not provided and Tattvabodhinī on 1.1.67 does not name 8.2.23, so the given texts do not settle whether it is named by Tattvabodhinī.",
+   "quoteOk": true,
+   "source": "Kāśikā of 8.2.23"
+  },
+  {
+   "key": "G39|1.1.27|named by महाभाष्यम्",
+   "opus": "not licensed",
+   "opusWhy": "The commentary NAMES 1.1.67 at this sūtra but does not APPLY it here. It discusses another sūtra, a rejected view, or a ",
+   "gemini": "unsure",
+   "geminiWhy": "Mahābhāṣya on 1.1.27 is not provided and the Mahābhāṣya on 1.1.67 only uses the term सर्वनाम generically without citing 1.1.27, leaving the claim unsettled by the given texts.",
+   "quoteOk": true,
+   "source": "bhashya 11066"
+  },
+  {
+   "key": "G39|1.1.61|named by महाभाष्यम्",
+   "opus": "not licensed",
+   "opusWhy": "The commentary NAMES 1.1.67 at this sūtra but does not APPLY it here. It discusses another sūtra, a rejected view, or a ",
+   "gemini": "unsure",
+   "geminiWhy": "Mahābhāṣya on 1.1.61 is absent from the given texts and Mahābhāṣya on 1.1.66–1.1.67 does not name sūtra 1.1.61, so the source texts do not settle it.",
+   "quoteOk": true,
+   "source": "Kāśikā of 1.1.61"
+  },
+  {
+   "key": "G49|6.1.107|named by तत्त्वबोधिनी",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "unsure",
+   "geminiWhy": "The commentary of Tattvabodhinī on 6.1.107 is not provided in the source texts, so it cannot be settled whether 1.1.67 was named to license this reading.",
+   "quoteOk": true,
+   "source": "prathamāvṛtti of 6.1.107"
+  },
+  {
+   "key": "G51|8.2.50|the derivation",
+   "opus": "unsure",
+   "opusWhy": "A nipātana (the sūtra lists a finished form) or a gaṇa of finished forms. Whether the ṣatva/natva in the form 'applies' ",
+   "gemini": "licensed",
+   "geminiWhy": "Sūtra 1.1.67 licenses the derivation's reading where the operation applies to 'उत्तरस्य निष्ठातकारस्य' following the root in the ablative.",
+   "quoteOk": true,
+   "source": "Kāśikā of 8.2.50"
+  },
+  {
+   "key": "G51|8.2.60|the derivation",
+   "opus": "unsure",
+   "opusWhy": "A nipātana (the sūtra lists a finished form) or a gaṇa of finished forms. Whether the ṣatva/natva in the form 'applies' ",
+   "gemini": "licensed",
+   "geminiWhy": "Sūtra 1.1.67 licenses the derivation's formulation where the operation applies to 'उत्तरस्य निष्ठातकारस्य' after the root in the ablative.",
+   "quoteOk": true,
+   "source": "Kāśikā of 8.2.60"
+  },
+  {
+   "key": "G52|8.2.58|the derivation",
+   "opus": "unsure",
+   "opusWhy": "A nipātana (the sūtra lists a finished form) or a gaṇa of finished forms. Whether the ṣatva/natva in the form 'applies' ",
+   "gemini": "licensed",
+   "geminiWhy": "Sūtra 1.1.67 licenses specifying that the operation applies to the suffix following the root in the ablative ('उत्तरस्य क्तस्य').",
+   "quoteOk": true,
+   "source": "Kāśikā of 8.2.58"
+  },
+  {
+   "key": "G52|8.2.59|the derivation",
+   "opus": "unsure",
+   "opusWhy": "A nipātana (the sūtra lists a finished form) or a gaṇa of finished forms. Whether the ṣatva/natva in the form 'applies' ",
+   "gemini": "licensed",
+   "geminiWhy": "Sūtra 1.1.67 licenses the derivation's reading where the operation applies to 'उत्तरस्य क्तस्य' after the root in the ablative.",
+   "quoteOk": true,
+   "source": "prathamāvṛtti of 8.2.59"
+  },
+  {
+   "key": "G55|1.3.35|वेः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Sūtra 1.1.67 governs ablatives directing an operation to a following element, whereas 'वेः' is an upasarga qualifying the root.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G57|1.4.106|मन्यतेः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "In 1.4.106 'मन्यतेः' is a genitive specifying the verb that takes uttama puruṣa rather than an ablative directing an operation to a following element under 1.1.67.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G60|2.4.76|जुहोत्यादिभ्यः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Sūtra 1.1.67 directs an operation to a following element but does not license the anuvṛtti of 'जुहोत्यादिभ्यः', which is omitted in both our vṛtti and Kāśikā.",
+   "quoteOk": true,
+   "source": "Kāśikā of 2.4.76"
+  },
+  {
+   "key": "G66|6.1.109|एङः, पदान्तात्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Sūtra 1.1.67 dictates that an operation applies only to the following element and not the preceding, whereas 6.1.109 prescribes a single replacement for both prior and posterior under 6.1.84.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G2|6.4.63|दीङः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "unsure",
+   "geminiWhy": "While SK reads दीङः as an ablative governing the subsequent affix via 1.1.67, Kāśikā and prathamāvṛtti treat it as a genitive without invoking 1.1.67, so the provided texts do not settle the matter.",
+   "quoteOk": true,
+   "source": "SK of 6.4.63"
+  },
+  {
+   "key": "G6|6.2.173|नञ्सुभ्याम्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Sūtra 1.1.67 explicitly rules that an ablative specification applies an operation only to the subsequent element and never to the preceding ('न पूर्वस्य'), so it cannot license the reading 'नञ्सुभ्याम् पूर्वम्'.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G5|7.2.56|उदितः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "unsure",
+   "geminiWhy": "While Siddhānta Kaumudī construes 'उदितः' as an ablative governing the following ('उदितः परस्य') via 1.1.67, Kāśikā and prathamāvṛtti construe 'परतो' with the locative 'क्त्वाप्रत्यये' under 1.1.66, leaving the texts in conflict.",
+   "quoteOk": true,
+   "source": "SK of 7.2.56"
+  },
+  {
+   "key": "G6|6.1.181|षट्-त्रि-चतुर्भ्यः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Sūtra 1.1.67 restricts an ablative-conditioned operation to the following element ('उत्तरस्यैव कार्यं भवति, न पूर्वस्य'), whereas here the upottama accent applies to the pada rather than to what follows.",
+   "quoteOk": true,
+   "source": "kashika 11067"
+  },
+  {
+   "key": "G6|8.1.29|पदात्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "Sūtra 1.1.67 directs an operation to apply to what follows an ablative term and does not license the word 'पदात्', which is not read in the Kāśikā of 8.1.29.",
+   "quoteOk": true,
+   "source": "Kāśikā of 8.1.29"
+  },
+  {
+   "key": "G25|6.1.68|हल्-ङि-आब्भ्यः, दीर्घात्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "unsure",
+   "geminiWhy": "The provided commentary extracts for 6.1.68 are brief fragmentary comments that do not contain the operational vṛtti, leaving the provided texts insufficient to settle the verdict.",
+   "quoteOk": true,
+   "source": "Kāśikā of 6.1.68"
+  },
+  {
+   "key": "G26|8.4.30|णेः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "The ablative 'णेः' is glossed as 'ण्यन्ताद् यो विहितः' rather than an 'उत्तरस्य' reading, so 1.1.67 does not license it.",
+   "quoteOk": true,
+   "source": "Kāśikā of 8.4.30"
+  },
+  {
+   "key": "G27|1.3.19|विपराभ्याम्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "unsure",
+   "geminiWhy": "Kāśikā glosses 'विपराभ्याम्' as 'विपरापूर्वात्' without using 'उत्तरस्मात्' or 'परस्य', so the provided texts do not settle whether 1.1.67 licenses the reading.",
+   "quoteOk": true,
+   "source": "Kāśikā of 1.3.19"
+  },
+  {
+   "key": "G27|1.3.22|समवप्रविभ्यः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "The ablative 'समवप्रविभ्यः' indicates an upasarga preceding the root as glossed by ‹इत्येवंपूर्वात्›, not an operation on a following element per 1.1.67.",
+   "quoteOk": true,
+   "source": "Kāśikā of 1.3.22"
+  },
+  {
+   "key": "G44|1.3.16|named by न्यासः",
+   "opus": "not licensed",
+   "opusWhy": "The commentary NAMES 1.1.67 at this sūtra but does not APPLY it here. It discusses another sūtra, a rejected view, or a ",
+   "gemini": "unsure",
+   "geminiWhy": "The provided texts omit the Nyāsa on 1.3.16, so they do not settle whether Nyāsa invoked 1.1.67 here.",
+   "quoteOk": true,
+   "source": "Kāśikā of 1.3.16"
+  },
+  {
+   "key": "G44|1.3.55|named by न्यासः",
+   "opus": "not licensed",
+   "opusWhy": "The Nyāsa cites 1.1.67 to show it does NOT apply: if समः were a 5th, प्र in between (सम्प्रयच्छते) would block it by the",
+   "gemini": "unsure",
+   "geminiWhy": "The provided texts omit the Nyāsa on 1.3.55, so they do not settle whether Nyāsa invoked 1.1.67 here.",
+   "quoteOk": true,
+   "source": "Kāśikā of 1.3.55"
+  },
+  {
+   "key": "G45|1.3.72|स्वरितञितः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "The placement of affixes after a verbal root is governed by 3.1.2 ('परश्च') rather than 1.1.67, as explained in Nyāsa.",
+   "quoteOk": true,
+   "source": "nyaas 11067"
+  },
+  {
+   "key": "G45|1.3.87|निगरणचलनार्थेभ्यः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "not licensed",
+   "geminiWhy": "The placement of parasmaipada affixes after a verbal root is governed by 3.1.2 rather than 1.1.67.",
+   "quoteOk": true,
+   "source": "nyaas 11067"
+  },
+  {
+   "key": "G2|7.3.119|घेः",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "unsure",
+   "geminiWhy": "While Kāśikā interprets 'घेः' as pañcamī with 'उत्तरस्य', Prathamāvṛtti and SK treat 'घेः' as genitive and derive 'उत्तरस्य' from 'इदुद्भ्याम्', leaving it unsettled whether 1.1.67 applies to 'घेः'.",
+   "quoteOk": true,
+   "source": "Kāśikā of 7.3.119"
+  },
+  {
+   "key": "G46|1.4.40|प्रत्याङ्भ्याम्",
+   "opus": "licensed",
+   "opusWhy": "",
+   "gemini": "unsure",
+   "geminiWhy": "While SK glosses with 'आभ्यां परस्य', Kāśikā and prathamāvṛtti use 'प्रति आङ्इत्येवंपूर्वस्य', and the provided texts do not settle whether 1.1.67 licenses the phrasing 'परस्य' here.",
+   "quoteOk": true,
+   "source": "Kāśikā of 1.4.40"
+  }
+ ]
+}

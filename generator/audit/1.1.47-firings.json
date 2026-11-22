@@ -1,0 +1,461 @@
+{
+ "pid": "1.1.47",
+ "howGrouped": "case of the triggering word (own sūtra words only) | rule kind | start of the engine trigger text; member = \"<sūtra> <word>  ⟨engine effect⟩\"",
+ "applies": 50,
+ "consideredNotApplicable": 0,
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | āgama | X: mit augment",
+   "count": 22,
+   "sutras": [
+    "7.1.59 नुम्  ⟨it goes right after the last vowel (मिदचोऽन्त्यात्परः)⟩",
+    "7.1.60 नुम्  ⟨it goes right after the last vowel (मिदचोऽन्त्यात्परः)⟩",
+    "7.1.61 नुम्  ⟨it goes right after the last vowel (मिदचोऽन्त्यात्परः)⟩",
+    "7.1.62 नुम्  ⟨it goes right after the last vowel (मिदचोऽन्त्यात्परः)⟩",
+    "7.1.63 नुम्  ⟨it goes right after the last vowel (मिदचोऽन्त्यात्परः)⟩",
+    "7.1.64 नुम्  ⟨it goes right after the last vowel (मिदचोऽन्त्यात्परः)⟩",
+    "7.1.65 नुम्  ⟨it goes right after the last vowel (मिदचोऽन्त्यात्परः)⟩",
+    "7.1.66 नुम्  ⟨it goes right after the last vowel (मिदचोऽन्त्यात्परः)⟩",
+    "7.1.67 नुम्  ⟨it goes right after the last vowel (मिदचोऽन्त्यात्परः)⟩",
+    "7.1.68 नुम्  ⟨it goes right after the last vowel (मिदचोऽन्त्यात्परः)⟩",
+    "7.1.69 नुम्  ⟨it goes right after the last vowel (मिदचोऽन्त्यात्परः)⟩",
+    "7.1.70 नुम्  ⟨it goes right after the last vowel (मिदचोऽन्त्यात्परः)⟩",
+    "7.1.71 नुम्  ⟨it goes right after the last vowel (मिदचोऽन्त्यात्परः)⟩",
+    "7.1.72 नुम्  ⟨it goes right after the last vowel (मिदचोऽन्त्यात्परः)⟩",
+    "7.1.73 नुम्  ⟨it goes right after the last vowel (मिदचोऽन्त्यात्परः)⟩",
+    "7.1.75 नुम्  ⟨it goes right after the last vowel (मिदचोऽन्त्यात्परः)⟩",
+    "7.1.76 नुम्  ⟨it goes right after the last vowel (मिदचोऽन्त्यात्परः)⟩",
+    "7.1.77 नुम्  ⟨it goes right after the last vowel (मिदचोऽन्त्यात्परः)⟩",
+    "7.1.78 नुम्  ⟨it goes right after the last vowel (मिदचोऽन्त्यात्परः)⟩",
+    "7.1.79 नुम्  ⟨it goes right after the last vowel (मिदचोऽन्त्यात्परः)⟩",
+    "7.1.82 नुम्  ⟨it goes right after the last vowel (मिदचोऽन्त्यात्परः)⟩",
+    "7.1.83 नुम्  ⟨it goes right after the last vowel (मिदचोऽन्त्यात्परः)⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.1.59",
+     "word": "नुम्",
+     "trigger": "नुम्: mit augment",
+     "effect": "it goes right after the last vowel (मिदचोऽन्त्यात्परः)",
+     "sutra": "शे मुचादीनाम्",
+     "ourVrtti": "शे प्रत्यये परे अङ्गानाम् मुचादीनाम् अङ्गस्य नुम् आगमः भवति",
+     "kashika": "शे प्रत्यये परतो मुचादीनां नुमागमो भवति।",
+     "prathamavrtti": "शे प्रत्यये परतो मुचादीनामङ्गानां नुमागमो भवति॥"
+    },
+    {
+     "n": "7.1.66",
+     "word": "नुम्",
+     "trigger": "नुम्: mit augment",
+     "effect": "it goes right after the last vowel (मिदचोऽन्त्यात्परः)",
+     "sutra": "उपात् प्रशंसायाम्",
+     "ourVrtti": "यकारादौ प्रत्यये परे उपात् परस्य अङ्गस्य लभेः प्रशंसायाम् अर्थे नुम् आगमः भवति",
+     "kashika": "उपादुत्तरस्य लभेः प्रशंसायां गम्यमानायां यकारादिप्रत्ययविषये नुमागमो भवति।",
+     "prathamavrtti": "- प्रशंसायां गम्यमानायामुपादुत्तरस्य लभेरङ्गस्य यकारादिप्रत्ययविषये नुमागमो भवति ॥"
+    },
+    {
+     "n": "7.1.73",
+     "word": "नुम्",
+     "trigger": "नुम्: mit augment",
+     "effect": "it goes right after the last vowel (मिदचोऽन्त्यात्परः)",
+     "sutra": "इकोऽचि विभक्तौ",
+     "ourVrtti": "अजादौ विभक्तौ परे इगन्तस्य नपुंसकस्य अङ्गस्य नुम् आगमः भवति",
+     "kashika": "इगन्तस्य नपुंसकस्याङ्गस्याजादौ विभक्तौ नुमागमो भवति।",
+     "prathamavrtti": "इगन्तस्य नपुंसकस्याङ्गस्याजादौ विभक्तौ परतो नुमागमो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "group": "own word, data case 6 | ādeśa | X: 1.1.47 … (not 1.1.49 — paribhāṣā audi",
+   "count": 9,
+   "sutras": [
+    "6.1.58 सृजि-दृशोः  ⟨names the place — the thing replaced (“स्थाने”)⟩",
+    "6.1.59 ऋत्-उपधस्य  ⟨names the place — the thing replaced (“स्थाने”)⟩",
+    "6.3.67 अरुस्-द्विषस्-अजन्तस्य  ⟨names the place — the thing replaced (“स्थाने”)⟩",
+    "6.3.70 सत्य-अगदस्य  ⟨names the place — the thing replaced (“स्थाने”)⟩",
+    "6.3.71 श्येनतिलस्य  ⟨names the place — the thing replaced (“स्थाने”)⟩",
+    "6.3.72 रात्रेः  ⟨names the place — the thing replaced (“स्थाने”)⟩",
+    "7.1.81 शप्-श्यनोः  ⟨names the place — the thing replaced (“स्थाने”)⟩",
+    "7.3.92 तृणहः  ⟨names the place — the thing replaced (“स्थाने”)⟩",
+    "7.4.19 पतः  ⟨names the place — the thing replaced (“स्थाने”)⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.58",
+     "word": "सृजि-दृशोः",
+     "trigger": "सृजि-दृशोः: 1.1.47 मिदचोऽन्त्यात्परः (not 1.1.49 — paribhāṣā audit: An augment rule: the 6th names the host the augment attaches to; nothing is replaced. 1.1.46",
+     "effect": "names the place — the thing replaced (“स्थाने”)",
+     "sutra": "सृजिदृशोर्झल्यमकिति",
+     "ourVrtti": "कित्-भिन्ने झलादौ प्रत्यये परे सृज दृशिर् इत्येतयोः धात्वोः अम् आगमः भवति",
+     "kashika": "<<सृज विसर्गे>> <<दृशिर् प्रेक्षणे>> इत्येतयोर्धात्वोर्झलादावकिति प्रत्यये परतोऽमागमो भवति।",
+     "prathamavrtti": "सृज विसर्गे, दृशिर् प्रेक्षणे, इत्येतयोः धात्वोरमागमो भवति झलादावकिति प्रत्यये परतः ॥"
+    },
+    {
+     "n": "6.3.70",
+     "word": "सत्य-अगदस्य",
+     "trigger": "सत्य-अगदस्य: 1.1.47 मिदचोऽन्त्यात्परः (not 1.1.49 — paribhāṣā audit: An augment rule: the 6th names the host the augment attaches to; nothing is replaced. 1.1.4",
+     "effect": "names the place — the thing replaced (“स्थाने”)",
+     "sutra": "कारे सत्यागदस्य",
+     "ourVrtti": "कारशब्दे उत्तरपदे सत्य, अगद इत्येतयोः मुम् आगमः भवति",
+     "kashika": "कारशब्द उत्तरपदे सत्य अगद इत्येतयोर्मुमागमो भवति।",
+     "prathamavrtti": "कारशब्द उत्तरपदे सत्य, अगद इत्येतयोर्मुमागमो भवति॥"
+    },
+    {
+     "n": "7.1.81",
+     "word": "शप्-श्यनोः",
+     "trigger": "शप्-श्यनोः: 1.1.47 मिदचोऽन्त्यात्परः (not 1.1.49 — paribhāṣā audit: An augment rule: the 6th names the host the augment attaches to; nothing is replaced. 1.1.46",
+     "effect": "names the place — the thing replaced (“स्थाने”)",
+     "sutra": "शप्श्यनोर्नित्यम्",
+     "ourVrtti": "शी-नद्योः परे शप् श्यन् इत्येतयोः शतुः अङ्गस्य नित्यम् नुम् आगमः भवति",
+     "kashika": "शप् श्यन् इत्येतयोः शतुः शीनद्योः परतो नित्यं नुमागमो भवति।",
+     "prathamavrtti": "शप् श्यन् इत्येतयोः शतुः शीनद्योः परतो नित्यं नुमागमो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G3",
+   "group": "own word, data case 1 | āgama | X: mit augment",
+   "count": 3,
+   "sutras": [
+    "7.1.58 नुम्  ⟨it goes right after the last vowel (मिदचोऽन्त्यात्परः)⟩",
+    "7.1.80 नुम्  ⟨it goes right after the last vowel (मिदचोऽन्त्यात्परः)⟩",
+    "7.4.20 उम्  ⟨it goes right after the last vowel (मिदचोऽन्त्यात्परः)⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.1.58",
+     "word": "नुम्",
+     "trigger": "नुम्: mit augment",
+     "effect": "it goes right after the last vowel (मिदचोऽन्त्यात्परः)",
+     "sutra": "इदितो नुम् धातोः",
+     "ourVrtti": "इदितः धातोः अङ्गस्य नुम् आगमः भवति",
+     "kashika": "इदितो धातोर्नुमागमो भवति।",
+     "prathamavrtti": "इदितो धातोर्नुमागमो भवति ॥"
+    },
+    {
+     "n": "7.1.80",
+     "word": "नुम्",
+     "trigger": "नुम्: mit augment",
+     "effect": "it goes right after the last vowel (मिदचोऽन्त्यात्परः)",
+     "sutra": "आच्छीनद्योर्नुम्",
+     "ourVrtti": "शीनद्योः परे अवर्णान्तात् अङ्गात् परस्य अङ्गात् शतुः विकल्पेन नुम् आगमः भवति",
+     "kashika": "अवर्णान्तादङ्गादुत्तरस्य शतुर्वा नुमागमो भवति शीनद्योः परतः।",
+     "prathamavrtti": "अवर्णान्तादङ्गादुत्तरस्य शतुर्वा नुमागमो भवति शीनद्योः परतः॥"
+    },
+    {
+     "n": "7.4.20",
+     "word": "उम्",
+     "trigger": "उम्: mit augment",
+     "effect": "it goes right after the last vowel (मिदचोऽन्त्यात्परः)",
+     "sutra": "वच उम्",
+     "ourVrtti": "अङि परे अङ्गस्य वचः उम् आगमः भवति",
+     "kashika": "वचेः अङ्गस्य अङि परतः उमागमो भवति।",
+     "prathamavrtti": "वच इत्येतस्याङ्गस्याङि परतः उम् आगमो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G4",
+   "group": "named by a commentator | vidhi | X",
+   "count": 2,
+   "sutras": [
+    "3.1.35 named by न्यासः  ⟨a mit augment goes after the last vowel⟩",
+    "4.1.122 named by तत्त्वबोधिनी  ⟨a mit augment goes after the last vowel⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.35",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a mit augment goes after the last vowel",
+     "sutra": "कास्प्रत्ययादाममन्त्रे लिटि",
+     "ourVrtti": "अमन्त्रविषये लिटि परे कास्-धातोः प्रत्ययान्तात् च धातोः आम् प्रत्ययः परः च भवति",
+     "kashika": "<<कासृ शब्दकुत्सायाम्>> ततः प्रत्ययान्तेभ्यश्च धातुभ्य आम् प्रत्ययो भवति लिटि परतोऽमन्त्रविषये।",
+     "prathamavrtti": "कासृ शब्दकुत्सायाम् तस्मात् प्रत्ययान्ताच्च धातोः 'आम्' प्रत्ययो भवति लिटि परतः अमन्त्रविषये = लौकिकप्रयोगविषये ॥"
+    },
+    {
+     "n": "4.1.122",
+     "word": "named by तत्त्वबोधिनी",
+     "trigger": "named by तत्त्वबोधिनी",
+     "effect": "a mit augment goes after the last vowel",
+     "sutra": "इतश्चानिञः",
+     "ourVrtti": "अनिञन्तात् द्व्यचः इकारान्तात् प्रातिपदिकात् षष्ठीसमर्थात् अपत्ये अर्थे ढक् प्रत्ययः परः च भवति",
+     "kashika": "इकारान्तात् प्रातिपदिकादनिञन्तादपत्ये ढक्  प्रत्ययो भवति।",
+     "prathamavrtti": "इकारान्ताद् द्व्यचः अनिञन्तात् प्रातिपदिकाद् अपत्येऽर्थे ढक् प्रत्ययो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G5",
+   "group": "named by a commentator | vidhi | X (English)",
+   "count": 2,
+   "sutras": [
+    "3.1.78 named by Vasu  ⟨a mit augment goes after the last vowel⟩",
+    "5.3.71 named by Vasu  ⟨a mit augment goes after the last vowel⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.78",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "a mit augment goes after the last vowel",
+     "sutra": "रुधादिभ्यः श्नम्",
+     "ourVrtti": "सार्वधातुके परे कर्तृवाचिनि धातोः रुधादिभ्यो धातुभ्यः श्नम् प्रत्ययः परः च भवति",
+     "kashika": "<<रुधिर् आवरणे>> इत्येवमादिभ्यो धातुभ्यः श्नम् प्रत्ययो भवति।",
+     "prathamavrtti": "रुधादिभ्यो धातुभ्यः श्नम् प्रत्ययो भवति कर्तृवाचिनि सार्वधातुके परतः ॥"
+    },
+    {
+     "n": "5.3.71",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "a mit augment goes after the last vowel",
+     "sutra": "अव्ययसर्वनाम्नामकच् प्राक् टेः",
+     "ourVrtti": "अव्ययेभ्यः सर्वनामभ्यश्च तिङश्च प्रागिवार्थेषु प्राक् टेः अकच् प्रत्ययः परः च भवति",
+     "kashika": "अव्ययानां सर्वनाम्नां च प्रागिवीयेष्वर्थेष्वकच् प्रत्ययो भवति, स च प्राक् टेः, न परतः।",
+     "prathamavrtti": "अव्ययेभ्यः सर्वनामभ्यस्तिङश्च प्रागिवार्थेऽकच् प्रत्ययो भवति स च टेः प्राग् भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G6",
+   "group": "named by a commentator | atideśa | X (English)",
+   "count": 1,
+   "sutras": [
+    "1.1.58 named by Vasu  ⟨a mit augment goes after the last vowel⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.1.58",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "a mit augment goes after the last vowel",
+     "sutra": "न पदान्तद्विर्वचनवरेयलोपस्वरसवर्णानुस्वारदीर्घजश्चर्विधिषु",
+     "ourVrtti": "पदान्त द्विर्वचन वरे यलोप स्वर सवर्ण अनुस्वार दीर्घ जश् चर् इत्येतेषां विधिषु परनिमित्ते अचः स्थाने स्थानिवत् आदेशः न भवति",
+     "kashika": "पदान्तविधिं प्रत्यजादेशो न स्थानिवद् भवति।",
+     "prathamavrtti": "पदान्त-द्विर्वचन-वरे-यलोप-स्वर-सवर्ण-अनुस्वार-दीर्घ-जश्-चर् इत्येतेषां विधिषु परनिमित्तकोऽजादेशः स्थानिवत् न भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G7",
+   "group": "named by a commentator | saṃjñā | X",
+   "count": 1,
+   "sutras": [
+    "1.3.4 named by महाभाष्यम्  ⟨a mit augment goes after the last vowel⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.3.4",
+     "word": "named by महाभाष्यम्",
+     "trigger": "named by महाभाष्यम्",
+     "effect": "a mit augment goes after the last vowel",
+     "sutra": "न विभक्तौ तुस्माः",
+     "ourVrtti": "विभक्तौ वर्तमानानाम् अन्त्यानाम् तवर्गसकारमकाराणाम् 'इत्' इति संज्ञा न भवति",
+     "kashika": "<<किमोऽत्>> [[५.३.१२]], <<इटोऽत्>> [[३.४.१०६]] इत्यत्र प्रतिषेधो न भवति, अनित्यत्वादस्य प्रतिषेधस्य।",
+     "prathamavrtti": "विभक्तौ वर्तमानानामन्त्यानां तवर्गसकारमकाराणामित्संज्ञा न भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G8",
+   "group": "named by a commentator | nipātana | X (English)",
+   "count": 1,
+   "sutras": [
+    "3.2.169 named by Vasu  ⟨a mit augment goes after the last vowel⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.2.169",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "a mit augment goes after the last vowel",
+     "sutra": "विन्दुरिच्छुः",
+     "ourVrtti": "विन्दुः (विदेः नुम्-आगमः, उकारप्रत्ययः) इच्छुः (इषेः छत्वम्, उकारप्रत्ययः) इति निपात्येते तच्छीलादिषु कर्तृषु वर्तमाने काले",
+     "kashika": "विदेर्नुमागम इषेश्छत्वमुकारश्च प्रत्ययो निपात्यते तच्छीलादिषु कर्तृषु वेदनशीलो विन्दुः।",
+     "prathamavrtti": "विन्दुरित्यत्र 'विद ज्ञाने' इत्यस्माद् धातोः प्रत्ययः तच्छीलादिषु कर्तृषु वर्त्तमाने काले निपात्यते नुमागमश्च । एवम् इच्छुः, इत्यत्र 'इषु इच्छायाम्' (तुदा० प०) इत्येतस्माद् धातोः उकारप्रत्ययः छत्वं च निपात्यते, छत्वे कृते छे च (६।१।७१) इति तुगागमः श्"
+    }
+   ]
+  },
+  {
+   "id": "G9",
+   "group": "named by a commentator | saṃjñā | X (English)",
+   "count": 1,
+   "sutras": [
+    "5.3.1 named by Vasu  ⟨a mit augment goes after the last vowel⟩"
+   ],
+   "samples": [
+    {
+     "n": "5.3.1",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "a mit augment goes after the last vowel",
+     "sutra": "प्राग्दिशो विभक्तिः",
+     "ourVrtti": "प्राक् दिग्शब्देभ्यः इत्यस्मात् विभक्तिसंज्ञा इति अधिकारः",
+     "kashika": "प्रागेतस्माद् दिक्संशब्दनाद् यानित ऊर्ध्वमनुक्रमिष्यामो विभक्तिसंज्ञास्ते वेदितव्याः।",
+     "prathamavrtti": "इतोऽग्रे दिग्शब्देभ्यः० (५।३।२७) इत्यतस्मात् प्राक् वक्ष्यमाणाः प्रत्यया विभक्तिसंज्ञका भवन्तीत्यधिकारो वेदितव्यः॥"
+    }
+   ]
+  },
+  {
+   "id": "G10",
+   "group": "named by a commentator | ekādeśa | X",
+   "count": 1,
+   "sutras": [
+    "6.1.84 named by न्यासः  ⟨a mit augment goes after the last vowel⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.1.84",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "a mit augment goes after the last vowel",
+     "sutra": "एकः पूर्वपरयोः",
+     "ourVrtti": "एकः आदेशः पूर्वपरयोः स्थाने इति अधिकारः",
+     "kashika": "<<ख्यत्यात् परस्य>> [[६.१.११२]] इति प्रागेतस्मात् सूत्रादित उत्तरं यद् वक्ष्यामस्तत्र पूर्वस्य परस्य द्वयोरपि स्थान एकादेशो भवतीत्येतद् वेदितव्यम्।",
+     "prathamavrtti": "अधिकारोऽयम्, ऋत उत् (६।१।१०७) इति यावत् । तत्र पर्यन्तं यद्वक्ष्यति तत्र पूर्वस्य परस्य द्वयोरपि स्थान एकादेशो भवतीति वेदितव्यम् ॥"
+    }
+   ]
+  },
+  {
+   "id": "G11",
+   "group": "named by a commentator | operation | X (English)",
+   "count": 1,
+   "sutras": [
+    "6.4.23 named by Vasu  ⟨a mit augment goes after the last vowel⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.23",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "a mit augment goes after the last vowel",
+     "sutra": "श्नान्नलोपः",
+     "ourVrtti": "श्नादुत्तरस्य नकारस्य अङ्गस्य स्थाने लोपः भवति",
+     "kashika": "तत उत्तरस्य नकारस्य लोपो भवति।",
+     "prathamavrtti": "श्नादुत्तरस्य नकारस्य लोपो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G12",
+   "group": "named by a commentator | operation | X",
+   "count": 1,
+   "sutras": [
+    "6.4.47 named by महाभाष्यम्  ⟨a mit augment goes after the last vowel⟩"
+   ],
+   "samples": [
+    {
+     "n": "6.4.47",
+     "word": "named by महाभाष्यम्",
+     "trigger": "named by महाभाष्यम्",
+     "effect": "a mit augment goes after the last vowel",
+     "sutra": "भ्रस्जो रोपधयोः रमन्यतरस्याम्",
+     "ourVrtti": "आर्धधातुके परे भ्रस्ज्-धातोः रेफस्य उपधायाः च स्थाने अङ्गस्य विकल्पेन रम् आगमः भवति",
+     "kashika": "भ्रस्जो रेफस्योपधायाश्च रमन्यतरस्यां भवति।",
+     "prathamavrtti": "भ्रस्जो रेफस्योपधायाश्च स्थाने रमागमो विकल भवति, आर्धधातुके परतः ॥"
+    }
+   ]
+  },
+  {
+   "id": "G13",
+   "group": "carried / not a sūtra word | ādeśa | X: 1.1.47 … (not 1.1.49 — paribhāṣā audi",
+   "count": 1,
+   "sutras": [
+    "7.1.99 चतुर्-अनडुहोः  ⟨names the place — the thing replaced (“स्थाने”)⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.1.99",
+     "word": "चतुर्-अनडुहोः",
+     "trigger": "चतुर्-अनडुहोः: 1.1.47 मिदचोऽन्त्यात्परः (not 1.1.49 — paribhāṣā audit: An augment rule: the 6th names the host the augment attaches to; nothing is replaced. 1.1",
+     "effect": "names the place — the thing replaced (“स्थाने”)",
+     "sutra": "अम् सम्बुद्धौ",
+     "ourVrtti": "सम्बुद्धौ परे चतुरनडुहोः अङ्गस्य अम् आगमः भवति",
+     "kashika": "संबुद्धौ परतश्चतुरनडुहोरमागमो भवति।",
+     "prathamavrtti": "संबुद्धौ परतश्चतुरनडुहोरमागमो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G14",
+   "group": "named by a commentator | āgama | X (English)",
+   "count": 1,
+   "sutras": [
+    "7.2.10 named by Vasu  ⟨a mit augment goes after the last vowel⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.2.10",
+     "word": "named by Vasu",
+     "trigger": "named by Vasu (English)",
+     "effect": "a mit augment goes after the last vowel",
+     "sutra": "एकाच उपदेशेऽनुदात्तात्",
+     "ourVrtti": "उपदेशे एकाचः धातोः परस्य अनुदात्तात् इट् आगमः न भवति",
+     "kashika": "उपदेशे य एकाच् धातुरनुदात्तश्च तस्मादिडागमो न भवति।",
+     "prathamavrtti": "उपदेशे यो धातुरेकाच् अनुदात्तश्च तस्माद् इडागमो न भवति।"
+    }
+   ]
+  },
+  {
+   "id": "G15",
+   "group": "named by a commentator | āgama | X",
+   "count": 1,
+   "sutras": [
+    "7.3.36 named by तत्त्वबोधिनी  ⟨a mit augment goes after the last vowel⟩"
+   ],
+   "samples": [
+    {
+     "n": "7.3.36",
+     "word": "named by तत्त्वबोधिनी",
+     "trigger": "named by तत्त्वबोधिनी",
+     "effect": "a mit augment goes after the last vowel",
+     "sutra": "अर्तिह्रीव्लीरीक्नूयीक्ष्माय्यातां पुङ्णौ",
+     "ourVrtti": "णौ परे अङ्गानाम् ऋ-ह्री-व्ली-री-क्नूयी-क्ष्मायी इत्येतेषाम् आकारान्तानां च अङ्गस्य पुक् आगमः भवति",
+     "kashika": "अर्ति  ह्री व्ली री क्नूयी क्ष्मायी इत्येतेषामङ्गानामाकारान्तानां च पुगागमो भवति णौ परतः।",
+     "prathamavrtti": "ऋ, ह्री, व्ली, री, क्नूयी, क्ष्मायी इत्येतेषामाकारान्तानाञ्चाङ्गानां पुक् आगमो भवति णौ परतः।"
+    }
+   ]
+  },
+  {
+   "id": "G16",
+   "group": "own word, data case 7 | āgama | X: mit augment",
+   "count": 1,
+   "sutras": [
+    "8.3.58 नुम्-विसर्जनीय-शर्-व्यवाये  ⟨it goes right after the last vowel (मिदचोऽन्त्यात्परः)⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.3.58",
+     "word": "नुम्-विसर्जनीय-शर्-व्यवाये",
+     "trigger": "नुम्-विसर्जनीय-शर्-व्यवाये: mit augment",
+     "effect": "it goes right after the last vowel (मिदचोऽन्त्यात्परः)",
+     "sutra": "नुम्विसर्जनीयशर्व्यवायेऽपि",
+     "ourVrtti": "नुम्व्यवाये विसर्जनीयव्यवाये शर्व्यवाये च सति इण्कोः उत्तरस्य सकारस्य स्थाने अपि मूर्धन्यादेशः भवति",
+     "kashika": "नुम्व्यवायेऽपि विसर्जनीयव्यवायेऽपि शर्व्यवायेऽपि इण्कोरुत्तरस्य सकारस्य मूर्धन्यादेशो भवति।",
+     "prathamavrtti": "नुम्व्यवायेऽपि विसर्जनीयव्यवायेऽपि शर्व्यवायेऽपि इणकोरूत्तरस्य सकारस्य मूर्धन्यादेशो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G17",
+   "group": "named by a commentator | ṣatva | X",
+   "count": 1,
+   "sutras": [
+    "8.3.112 named by तत्त्वबोधिनी  ⟨a mit augment goes after the last vowel⟩"
+   ],
+   "samples": [
+    {
+     "n": "8.3.112",
+     "word": "named by तत्त्वबोधिनी",
+     "trigger": "named by तत्त्वबोधिनी",
+     "effect": "a mit augment goes after the last vowel",
+     "sutra": "सिचो यङि",
+     "ourVrtti": "यङि परे इण्कोः उत्तरस्य सिचः सकारस्य मूर्धन्यादेशः न भवति",
+     "kashika": "सिचः सकारस्य यङि परतो मूर्धन्यादेशो न भवति।",
+     "prathamavrtti": "इण्कोरुत्तरस्य सिचः सकारस्य यङि परतो मूर्धन्यादेशो न भवति॥"
+    }
+   ]
+  }
+ ]
+}

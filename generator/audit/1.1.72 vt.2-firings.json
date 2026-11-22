@@ -1,0 +1,180 @@
+{
+ "pid": "1.1.72 vt.2",
+ "howGrouped": "case of the triggering word (own sūtra words only) | rule kind | start of the engine trigger text; member = \"<sūtra> <word>  ⟨engine effect⟩\"",
+ "applies": 85,
+ "consideredNotApplicable": 0,
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | vidhi | X (varṇa-grahaṇa)",
+   "count": 82,
+   "sutras": [
+    "3.1.21 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "3.1.97 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "3.1.98 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "3.1.124 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "3.1.125 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "3.1.136 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "3.1.141 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "3.1.148 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "3.2.3 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "3.2.74 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "3.2.136 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "3.2.152 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "3.2.157 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "3.2.163 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "3.2.176 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "3.2.181 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "3.2.183 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "3.2.184 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "3.2.185 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "3.3.37 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "3.3.38 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "3.3.56 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "3.3.57 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "3.3.92 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "3.3.103 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "3.3.106 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "3.3.121 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "3.3.128 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "3.4.16 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "3.4.96 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.1.4 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.1.5 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.1.16 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.1.34 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.1.44 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.1.63 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.1.65 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.1.66 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.1.95 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.1.122 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.1.156 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.1.171 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.1.177 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.2.71 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.2.72 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.2.73 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.2.109 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.2.110 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.2.113 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.2.119 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.2.121 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.2.123 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.2.132 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.2.141 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.3.67 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.3.72 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.3.78 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.3.124 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.3.137 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.3.139 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.3.144 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.3.145 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.3.150 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.4.4 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.4.49 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.4.64 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "4.4.81 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "5.1.2 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "5.1.105 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "5.1.132 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "5.2.40 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "5.2.96 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "5.2.115 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "5.3.59 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "5.3.83 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "5.3.118 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "5.4.11 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "5.4.92 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "5.4.105 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "5.4.106 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "5.4.111 the qualifier is a sound  ⟨…so the block is lifted⟩",
+    "5.4.158 the qualifier is a sound  ⟨…so the block is lifted⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.21",
+     "word": "the qualifier is a sound",
+     "trigger": "the qualifier is a sound (varṇa-grahaṇa)",
+     "effect": "…so the block is lifted",
+     "sutra": "मुण्डमिश्रश्लक्ष्णलवणव्रतवस्त्रहलकलकृततूस्तेभ्यो णिच्",
+     "ourVrtti": "मुण्ड-मिश्र-श्लक्ष्ण-लवण-व्रत-वस्त्र-हल-कल-कृत-तूस्त-शब्देभ्यः कर्मभ्यः करोत्यर्थे णिच् प्रत्ययः परः च भवति",
+     "kashika": "मुण्ड मिश्र श्लक्ष्ण लवण व्रत वस्त्र हल कल कृत तूस्त इत्येतेभ्येः करणे णिच् प्रत्ययो भवति।",
+     "prathamavrtti": "मुण्ड, मिश्र, श्लक्ष्ण, लवण, व्रत, वस्त्र, हल, कल, कृत, तूस्त इत्येतेभ्यः कर्मभ्यः करोत्यर्थे णिच् प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "3.3.128",
+     "word": "the qualifier is a sound",
+     "trigger": "the qualifier is a sound (varṇa-grahaṇa)",
+     "effect": "…so the block is lifted",
+     "sutra": "आतो युच्",
+     "ourVrtti": "ईषदादिषु उपपदेषु आकारान्तात् कृच्छ्राकृच्छ्रार्थेषु धातोः युच् प्रत्ययः परः च भवति",
+     "kashika": "कृच्छ्राकृच्छ्रार्थेषु ईषदादिषूपपदेष्वाकारान्तेभ्यो धातुभ्यो युच् प्रत्ययो भवति।",
+     "prathamavrtti": "आकारान्तेभ्यो धातुभ्यः कृच्छ्राकृच्छ्रार्थेष्वीषदादिषूपपदेषु युच् प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "4.3.67",
+     "word": "the qualifier is a sound",
+     "trigger": "the qualifier is a sound (varṇa-grahaṇa)",
+     "effect": "…so the block is lifted",
+     "sutra": "बह्वचोऽन्तोदात्ताट्ठञ्",
+     "ourVrtti": "बह्वचः अन्तोदात्तात् व्याख्यातव्यनाम्नः प्रातिपदिकात् षष्ठीसमर्थात् भवे अर्थे व्याख्याने च अर्थे ठञ् प्रत्ययः परः च भवति",
+     "kashika": "बह्वचो व्याख्यातव्यनाम्नः प्रातिपदिकादन्तोदात्ताद् भवव्याख्यानयोष्ठञ् प्रत्ययो भवति।",
+     "prathamavrtti": "बह्वचोऽन्तोदात्तात् व्याख्यातव्यनाम्नः प्रातिपदिकात् भवव्याख्यानयोरर्थयोः ठञ् प्रत्ययो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "group": "named by a commentator | vidhi | X",
+   "count": 2,
+   "sutras": [
+    "4.2.44 named by न्यासः  ⟨…except an ugit or a SOUND as qualifier⟩",
+    "5.1.1 named by बालमनोरमा  ⟨…except an ugit or a SOUND as qualifier⟩"
+   ],
+   "samples": [
+    {
+     "n": "4.2.44",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "…except an ugit or a SOUND as qualifier",
+     "sutra": "अनुदात्तादेरञ्",
+     "ourVrtti": "अनुदात्तादेः प्रातिपदिकात् षष्ठीसमर्थात् समूहार्थे अञ् प्रत्ययः परः च भवति",
+     "kashika": "अनुदात्तादेः शब्दादञ् प्रत्ययो भवति तस्य समूह इत्येतस्मिन् विषये।",
+     "prathamavrtti": "षष्ठीसमर्थादनुदात्तादेः प्रातिपदिकात् समूहार्थेऽञ् प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "5.1.1",
+     "word": "named by बालमनोरमा",
+     "trigger": "named by बालमनोरमा",
+     "effect": "…except an ugit or a SOUND as qualifier",
+     "sutra": "प्राक् क्रीताच्छः",
+     "ourVrtti": "प्राक् ‹तेन क्रीतम्› इत्यस्मात् छः प्रत्ययः इति अधिकारः",
+     "kashika": "प्रागेतस्मात् क्रीतसंशब्दनाद् यानित ऊर्ध्वमनुक्रमिष्यामः, छप्रत्ययस्तेष्वधिकृतो वेदितव्यः।",
+     "prathamavrtti": "इतोऽग्रे तेन क्रीतमित्येतस्मात् प्राक् येऽर्था वक्ष्यन्ते तेष्वर्थेषु छः प्रत्ययो भवतीत्यधिकारो वेदितव्यः॥"
+    }
+   ]
+  },
+  {
+   "id": "G3",
+   "group": "carried / not a sūtra word | vidhi | X",
+   "count": 1,
+   "sutras": [
+    "4.1.6 the qualifier is an ugit  ⟨…so the block is lifted⟩"
+   ],
+   "samples": [
+    {
+     "n": "4.1.6",
+     "word": "the qualifier is an ugit",
+     "trigger": "the qualifier is an ugit",
+     "effect": "…so the block is lifted",
+     "sutra": "उगितश्च",
+     "ourVrtti": "उगिदन्तात् प्रातिपदिकात् स्त्रियाम् ङीप् प्रत्ययः परः च भवति",
+     "kashika": "उग् इद् यत्र संभवति यथाकथंचित् तदुगिच्छब्दरूपम्, तदन्तात् स्त्रियां ङीप् प्रत्ययो भवति।",
+     "prathamavrtti": "उगिदन्तात् प्रातिपदिकात् स्त्रियां ङीप् प्रत्ययो भवति ॥"
+    }
+   ]
+  }
+ ]
+}

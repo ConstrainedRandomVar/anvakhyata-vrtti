@@ -1,0 +1,28 @@
+{
+ "pid": "1.1.62",
+ "howGrouped": "case of the triggering word (own sūtra words only) | rule kind | start of the engine trigger text; member = \"<sūtra> <word>  ⟨engine effect⟩\"",
+ "applies": 1,
+ "consideredNotApplicable": 0,
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | paribhāṣā | X",
+   "count": 1,
+   "sutras": [
+    "1.1.63 1.1.63  ⟨the rule it limits: प्रत्ययलक्षणम् (1.1.62) does not apply to the aṅga⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.1.63",
+     "word": "1.1.63",
+     "trigger": "1.1.63",
+     "effect": "the rule it limits: प्रत्ययलक्षणम् (1.1.62) does not apply to the aṅga when the elision is by a लु-word",
+     "sutra": "न लुमताङ्गस्य",
+     "ourVrtti": "लुमता शब्देन प्रत्ययस्य लोपे सति तस्मिन् परे यत् अङ्गम् तस्य प्रत्ययलक्षणम् कार्यम् न भवति",
+     "kashika": "लुमता शब्देन लुप्ते प्रत्यये यदङ्गम्, तस्य प्रत्ययलक्षणं कार्यं न भवति।",
+     "prathamavrtti": "लुमता शब्देन प्रत्ययस्य लोपे (अदर्शने) सति तस्मिन् परतो यदङ्गं तस्य यत् प्रत्ययलक्षणं कार्यं तन्न भवति ॥"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,721 @@
+{
+ "_about": "Corrections to the ashtadhyayi.com sūtra data (sutraani/data.txt), found while generating vṛttis. build.js applies the 'an' (anuvṛtti) entries; each entry quotes the evidence. Hand to the ashtadhyayi.com maintainers; the readable list is ASHTADHYAYI-COM-ERRATA.md.",
+ "64120": {
+  "field": "an",
+  "drop": [
+   "हौ$64119"
+  ],
+  "why": "हौ belongs to 6.4.119 only (घ्वसोः … हौ). 6.4.120 applies before a kit/ṅit लिट्, not हि.",
+  "evidence": {
+   "prathamāvṛtti": "… योऽकारस्तस्य एकारादेशो भवति, अभ्यासलोपश्च लिटि किङति परतः",
+   "Kāśikā": "… योऽकारस्तस्यैकारादेशो भवति, अभ्यासलोपश्च लिटि क्ङिति परतः"
+  }
+ },
+ "64121": {
+  "field": "an",
+  "drop": [
+   "हौ$64119"
+  ],
+  "why": "हौ belongs to 6.4.119 only; 6.4.121 applies before सेट् थल्.",
+  "evidence": {
+   "prathamāvṛtti": "थलि च सेटि परतोऽनादेशादेरङ्गस्यासहाययोर्हलोर्मध्ये वर्त्तमानस्याकारस्य स्थाने एकारादेशो भवत्यभ्यासलोपश्च",
+   "Kāśikā": "थलि च सेटि परतोऽनादेशादेरङ्गस्यैकहल्मध्यगतस्यातः स्थान एकारादेशो भवति, अभ्यासलोपश्च"
+  }
+ },
+ "64122": {
+  "field": "an",
+  "add": [
+   "एत्$64119",
+   "लिटि$64120"
+  ],
+  "why": "the replacement एत् (6.4.119) and the condition लिटि (6.4.120) continue into 6.4.122–126; the list carries अभ्यासलोपः, अतः, थलि, सेटि but not these two.",
+  "evidence": {
+   "prathamāvṛtti": "तृ, फल, भज, त्रप इत्येतेषामङ्गानामकारस्य स्थाने एकारादेशो भवति अभ्यासलोपश्च किङति लिटि परतस्थलि च सेटि",
+   "Kāśikā": "तृ फल भज त्रप इत्येतेषामङ्गानामत एकारादेशो भवति, अभ्यासलोपश्च लिटि क्ङिति परतस्थलि च सेटि"
+  }
+ },
+ "64123": {
+  "field": "an",
+  "add": [
+   "एत्$64119",
+   "लिटि$64120"
+  ],
+  "why": "as 6.4.122",
+  "evidence": {
+   "prathamāvṛtti": "हिंसायामर्थे राधोऽङ्गस्यावर्णस्य स्थाने एकार आदेशो भवति, अभ्यासलोपश्च लिटि किङति परतस्थलि च सेटि",
+   "Kāśikā": "राधो हिंसायामर्थेऽवर्णस्यैकार आदेशो भवति, अभ्यासलोपश्च लिटि क्ङिति परतस्थलि च सेटि"
+  }
+ },
+ "64124": {
+  "field": "an",
+  "add": [
+   "एत्$64119",
+   "लिटि$64120"
+  ],
+  "why": "as 6.4.122",
+  "evidence": {
+   "prathamāvṛtti": "जॄ, भ्रमु, त्रस्, इत्येतेषामङ्गानामतः स्थाने एकारादेशो वा भवति, अभ्यासलोपश्च किङिति लिटि परतस्थलि च सेटि",
+   "Kāśikā": "जृ भ्रमु त्रस इत्येतेषामङ्गानामतः स्थाने वा एकार आदेशो भवति, अभ्यासलोपश्च लिटि क्ङिति परतस्थलि च सेटि"
+  }
+ },
+ "64125": {
+  "field": "an",
+  "add": [
+   "एत्$64119",
+   "लिटि$64120"
+  ],
+  "why": "as 6.4.122",
+  "evidence": {
+   "prathamāvṛtti": "फणादीनां सप्तानां धातूनामवर्णस्य स्थाने वा एकार आदेशो भवति, अभ्यासलोपश्च लिटि क्ङिति परतस्थलि च सेटि",
+   "Kāśikā": "फणादीनां सप्तानां धातूनामवर्णस्य स्थाने वैकार आदेशो भवति, अभ्यासलोपश्च लिटि क्ङिति परतस्थलि च सेटि"
+  }
+ },
+ "64126": {
+  "field": "an",
+  "add": [
+   "एत्$64119",
+   "लिटि$64120"
+  ],
+  "why": "as 6.4.122 (here negated)",
+  "evidence": {
+   "prathamāvṛtti": "… योऽकारस्तस्य स्थाने एकारादेशोऽभ्यासलोपश्च न भवति, लिटि किङति थलि च सेटि परतः",
+   "Kāśikā": "… योऽकारस्तस्य स्थान एकारादेशो न भवति, अभ्यासलोपश्च"
+  }
+ },
+ "82066": {
+  "field": "pc",
+  "from": "ससजुषोः",
+  "to": "स-सजुषोः",
+  "why": "a dvandva of the sound स् and the word सजुष् (dual); other compounds in the pc field are hyphenated (ऋ-हलोः, यञ्-इञोः).",
+  "evidence": {
+   "prathamāvṛtti": "सकारान्तस्य पदस्य सजुष् इत्येतस्य च रुर्भवति",
+   "Kāśikā": "सकारान्तस्य पदस्य सजुष् इत्येतस्य च रुर्भवति"
+  },
+  "applied": "in build.js (the place-compound table), not by rewriting the data"
+ },
+ "82072": {
+  "field": "pc",
+  "from": "वसुस्रंसुध्वंस्वनडुहाम्",
+  "to": "वसु-स्रंसु-ध्वंसु-अनडुहाम्",
+  "why": "a dvandva of four members (the suffix वसु and three words), unhyphenated in the pc field.",
+  "evidence": {
+   "prathamāvṛtti": "सकारान्तस्य वस्वन्तस्य पदस्य स्रंसु ध्वंसु, अनडुह् इत्येतेषां च दकारादेशो भवति",
+   "Kāśikā": "वस्वन्तस्य पदस्य सकारान्तस्य, स्रंसु, ध्वंसु, अनडुह् इत्येतेषां च दकारादेशो भवति"
+  },
+  "applied": "in build.js (the place-compound table)"
+ },
+ "83001": {
+  "field": "pc",
+  "from": "मतुवसोः",
+  "to": "मतु-वसोः",
+  "why": "a dvandva of the suffixes मतुप् and वसु, unhyphenated in the pc field.",
+  "evidence": {
+   "prathamāvṛtti": "मत्वन्तस्य वस्वन्तस्य च पदस्य रुरित्ययमादेशो भवति",
+   "Kāśikā": "मत्वन्तस्य वस्वन्तस्य च पदस्य रुरित्ययमादेशो भवति"
+  },
+  "applied": "in build.js (the place-compound table)"
+ },
+ "41020": {
+  "field": "an",
+  "add": [
+   "अतः$41004"
+  ],
+  "why": "अतः (4.1.4 अजाद्यतष्टाप्) continues: the base must end in अ (the prathamāvṛtti and the Siddhānta-kaumudī read “अदन्तात्”; the Kāśikā is silent). Please check.",
+  "evidence": {
+   "prathamāvṛtti": "प्रथमे वयसि वर्त्तमानेभ्योऽनुपसर्जनेभ्यो ऽदन्तेभ्यः प्रातिपदिकेभ्यः स्त्रियां ङीप् प्रत्ययो भवति",
+   "Siddhānta-kaumudī": "प्रथमवयोवाचिनोऽदन्तात् ङीप् स्यात्",
+   "Kāśikā (does not say it)": "प्रथमे वयसि यत् प्रातिपदिकं श्रुत्या वर्तते, ततः स्त्रियां ङीप् प्रत्ययो भवति"
+  }
+ },
+ "41021": {
+  "field": "an",
+  "add": [
+   "अतः$41004"
+  ],
+  "why": "अतः (4.1.4 अजाद्यतष्टाप्) continues: the base must end in अ (the prathamāvṛtti and the Siddhānta-kaumudī read “अदन्तात्”; the Kāśikā is silent). Please check.",
+  "evidence": {
+   "prathamāvṛtti": "द्विगुसंज्ञकादनुपसर्जनाददन्तात् प्रातिपदिकात् स्त्रियां ङीप् प्रत्ययो भवति",
+   "Siddhānta-kaumudī": "अदन्ताद्द्विगोः ङीप् स्यात्",
+   "Kāśikā (does not say it)": "द्विगुसंज्ञकात् प्रातिपदिकात् स्त्रियां ङीप् प्रत्ययो भवति"
+  }
+ },
+ "32066": {
+  "field": "pc",
+  "from": "हव्येः",
+  "to": "हव्ये",
+  "why": "the sūtra is हव्येऽनन्तःपादम् = हव्ये (7th of हव्य, the upapada) + अनन्तःपादम्; the pc field reads हव्येः.",
+  "evidence": {
+   "prathamāvṛtti": "हव्यसुबन्त उपपदे छन्दसि विषयेऽनन्तःपादं वर्त्तमानात् वहधातोर्ण्युट् प्रत्ययो भवति",
+   "Kāśikā": "हव्यशब्द उपपदे छन्दसि विषये वहेर्धातोर्ञ्युट् प्रत्ययो भवति"
+  },
+  "applied": "in build.js (PC_FIX)"
+ },
+ "33144": {
+  "field": "pc",
+  "from": "लिङ्लृटौ",
+  "to": "लिङ्-लृटौ",
+  "why": "a dvandva of the lakāras लिङ् and लृट्; other compounds in the pc field are hyphenated.",
+  "evidence": {
+   "prathamāvṛtti": "किंवृत्त उपपदे धातोः गर्हायां गम्यमानायां लिङ् लुटौ प्रत्ययौ भवतः"
+  },
+  "applied": "in build.js (PC_FIX)"
+ },
+ "14106": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "उत्तम",
+    "to": "उत्तमः",
+    "why": "the pada is written with its final sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself."
+   }
+  ],
+  "evidence": {
+   "sūtra": "प्रहासे च मन्योपपदे मन्यतेरुत्तम एकवच्च",
+   "prathamāvṛtti padaccheda": "प्रहासे ७।१। च अ० ॥ मन्योपपदे ७।१॥ मन्यतेः ५।१॥ उत्तमः १।१॥ एकवत् अ० ॥ च अ० ॥"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "81055": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "आम",
+    "to": "आमः",
+    "why": "the pada is written with its final sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself.",
+    "noBuild": true
+   }
+  ],
+  "evidence": {
+   "sūtra": "आम एकान्तरमामन्त्रितमनन्तिके",
+   "prathamāvṛtti padaccheda": "आमः ५।१। एकान्तरम् १।१। आमन्त्रितम् १।१। अनन्तिके ७।१।"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "31008": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "सुप",
+    "to": "सुपः",
+    "why": "the pada is written with its final sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself."
+   }
+  ],
+  "evidence": {
+   "sūtra": "सुप आत्मनः क्यच्",
+   "prathamāvṛtti padaccheda": "सुपः ५।१॥ आत्मनः ६।१॥ क्यच् १।१॥"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "32134": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "क्वे",
+    "to": "क्वेः",
+    "why": "the pada is written with its final sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself."
+   }
+  ],
+  "evidence": {
+   "sūtra": "आक्वेस्तच्छीलतद्धर्मतत्साधुकारिषु",
+   "prathamāvṛtti padaccheda": "आ अव्य० ॥ क्वेः ५।१॥ तच्छीलतद्धर्मतत्साधुकारिषु ७।३॥"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "32154": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "लष-पत-पद-स्था-भू-वृष-हन-कम-गम-शॄभ्य",
+    "to": "लष-पत-पद-स्था-भू-वृष-हन-कम-गम-शॄभ्यः",
+    "why": "the pada is written with its final sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself."
+   }
+  ],
+  "evidence": {
+   "sūtra": "लषपतपदस्थाभूवृषहनकमगमशॄभ्य उकञ्",
+   "prathamāvṛtti padaccheda": "लषपत ० शॄभ्यः ५।३॥ उकञ् १।१॥"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "42089": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "शिखाया",
+    "to": "शिखायाः",
+    "why": "the pada is written with its final sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself."
+   }
+  ],
+  "evidence": {
+   "sūtra": "शिखाया वलच्",
+   "prathamāvṛtti padaccheda": "शिखायाः ५।१। वलच् १।१॥"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "51022": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "संख्याया",
+    "to": "संख्यायाः",
+    "why": "the pada is written with its final sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself."
+   }
+  ],
+  "evidence": {
+   "sūtra": "संख्याया अतिशदन्तायाः कन्",
+   "prathamāvṛtti padaccheda": "सङ्ख्यायाः ५।१॥ अतिशदन्तायाः ५।१॥ कन् १।१॥"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "53054": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "षष्ठ्या",
+    "to": "षष्ठ्याः",
+    "why": "the pada is written with its final sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself."
+   }
+  ],
+  "evidence": {
+   "sūtra": "षष्ठ्या रूप्य च",
+   "prathamāvṛtti padaccheda": "षष्ठ्याः ५।१। रूप्य लुप्तप्रथमान्तनिर्देशः ॥ च अ० ॥"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "63021": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "षष्ठ्या",
+    "to": "षष्ठ्याः",
+    "why": "the pada is written with its final sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself."
+   }
+  ],
+  "evidence": {
+   "sūtra": "षष्ठ्या आक्रोशे",
+   "prathamāvṛtti padaccheda": "षष्ठ्याः ६।१॥ आक्रोशे ७।१॥"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "71009": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "भिस",
+    "to": "भिसः",
+    "why": "the pada is written with its final sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself."
+   }
+  ],
+  "evidence": {
+   "sūtra": "अतो भिस ऐस्",
+   "prathamāvṛtti padaccheda": "अतः ५।१। भिसः ६।१। ऐस् १।१।"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "72101": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "जराया",
+    "to": "जरायाः",
+    "why": "the pada is written with its final sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself."
+   }
+  ],
+  "evidence": {
+   "sūtra": "जराया जरसन्यतरस्याम्",
+   "prathamāvṛtti padaccheda": "जरायाः ६।१। जरस् १।१। अन्यतरस्याम् ७।१।"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "74034": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "अशनायोदन्यधनाया",
+    "to": "अशनायोदन्यधनायाः",
+    "why": "the pada is written with its final sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself."
+   }
+  ],
+  "evidence": {
+   "sūtra": "अशनायोदन्यधनाया बुभुक्षापिपासागर्द्धेषु",
+   "prathamāvṛtti padaccheda": "अशनायोदन्यधनायाः १।३॥ बुभुक्षापिपासागधेषु ७।३॥"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "81062": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "चाहलोप",
+    "to": "चाहलोपे",
+    "why": "the pada is written with its final sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself."
+   }
+  ],
+  "evidence": {
+   "sūtra": "चाहलोप एवेत्यवधारणम्",
+   "prathamāvṛtti padaccheda": "चाहलोपे ७।१॥ एव अ०॥ इति अ०॥ अवधारणम् १।१॥ स०—चश्च अहश्च चाहौ, तयोर्लोपः चाहलोपस्तस्मिन् द्वन्द्वगर्भषष्ठीतत्पुरुषः॥ अनु०—प्रथमा, तिङ्, न, अनुदात्तं सर्वमपादादौ, पदात्, पदस्य॥"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "82076": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "दीर्घ",
+    "to": "दीर्घः",
+    "why": "the pada is written with its final sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself."
+   }
+  ],
+  "evidence": {
+   "sūtra": "र्वोरुपधाया दीर्घ इकः",
+   "prathamāvṛtti padaccheda": "र्वोः ६।२। उपधायाः ६।१। दीर्घः १।१। इकः ६।१।"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "33160": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "इच्छार्थेभ्यो",
+    "to": "इच्छार्थेभ्यः",
+    "why": "the pada is written with its final sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself."
+   }
+  ],
+  "evidence": {
+   "sūtra": "इच्छार्थेभ्यो विभाषा वर्तमाने",
+   "prathamāvṛtti padaccheda": "इच्छार्थेभ्यः ५।३। विभाषा १।१। वर्त्तमाने ७।१।"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "54130": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "ऊर्ध्वाद्",
+    "to": "ऊर्ध्वात्",
+    "why": "the pada is written with its final sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself."
+   }
+  ],
+  "evidence": {
+   "sūtra": "ऊर्ध्वाद्विभाषा",
+   "prathamāvṛtti padaccheda": "ऊर्ध्वात् ५।१॥ विभाषा १।१॥ अनु०—जानुनः ज्ञुः, बहुव्रीहौ, समासान्ताः, तद्धिताः, ङ्याप्प्रातिपदिकात्, प्रत्ययः, परश्च ॥"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "32083": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "खः",
+    "to": "खश्",
+    "why": "the sūtra is खश्च = the suffix खश् + च; the pc field reads खः."
+   }
+  ],
+  "evidence": {
+   "sūtra": "आत्ममाने खश्च",
+   "prathamāvṛtti padaccheda": "आत्ममाने ७।१॥ खश् १।१॥ च अव्य० ॥"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "22027": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "तेन्",
+    "to": "तेन",
+    "why": "typo: a stray virāma (तेन्) on the pronoun तेन."
+   }
+  ],
+  "evidence": {
+   "sūtra": "तत्र तेनेदमिति सरूपे",
+   "prathamāvṛtti padaccheda": "तत्र अ०॥ तेन ३।१॥ इदम् १।१॥ इति अ०॥ सरूपे १।२॥"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "54081": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "अनु्-अव-तप्तात्",
+    "to": "अनु-अव-तप्तात्",
+    "why": "typo: a stray virāma on अनु."
+   }
+  ],
+  "evidence": {
+   "sūtra": "अन्ववतप्ताद्रहसः",
+   "prathamāvṛtti padaccheda": "अन्ववतप्तात् ५।१। रहसः ५।१।"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "61188": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "स्वपादिः-हिंसाम्",
+    "to": "स्वपादि-हिंसाम्",
+    "why": "a stray visarga inside the compound."
+   }
+  ],
+  "evidence": {
+   "sūtra": "स्वपादिहिंसामच्यनिटि",
+   "prathamāvṛtti padaccheda": "स्वपादिहिंसाम् ६।३। अचि ७।१। अनिटि ७।१।"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "62138": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "नित्य-अबह्वव्च्",
+    "to": "नित्य-अबह्वच्",
+    "why": "typo: अबह्वव्च् for अबह्वच्."
+   }
+  ],
+  "evidence": {
+   "sūtra": "शितेर्नित्याबह्वज्बहुव्रीहावभसत्",
+   "prathamāvṛtti padaccheda": "शितेः ५।१। नित्याबह्वच् १।१। बहुव्रीहौ ७।१। अभसत् १।१।"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "62021": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "आशङ्क-आबाध-नेदियस्सु",
+    "to": "आशङ्का-आबाध-नेदीयस्सु",
+    "why": "the sūtra has आशङ्काबाधनेदीयस्सु (आशङ्का, नेदीयस्)."
+   }
+  ],
+  "evidence": {
+   "sūtra": "आशङ्काबाधनेदीयस्सु संभावने",
+   "prathamāvṛtti padaccheda": "आशङ्काबाधनेदीयस्सु ७।३। संभावने ७।१।"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "33037": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "द्युत-अभ्रेषयोः",
+    "to": "द्यूत-अभ्रेषयोः",
+    "why": "the sūtra has द्यूताभ्रेषयोः (द्यूत)."
+   }
+  ],
+  "evidence": {
+   "sūtra": "परिन्योर्नीणोर्द्यूताभ्रेषयोः",
+   "prathamāvṛtti padaccheda": "परिन्योः ७।२॥ नीणोः ६।२॥ द्यूताभ्रेषयोः ७।२॥"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "33122": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "अध्याय-न्याय-उद्याव-संहार-आधार-आवयाः",
+    "to": "अध्याय-न्याय-उद्याव-संहार-आधार-आवायाः",
+    "why": "the sūtra has …संहाराधारावायाश्च (आवाय)."
+   }
+  ],
+  "evidence": {
+   "sūtra": "अध्यायन्यायोद्यावसंहाराधारावायाश्च",
+   "prathamāvṛtti padaccheda": "अ ॰ ॰ हाराः १।३॥ च अव्य०॥"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "54074": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "ऋक्पूरप्धूःपथाम्",
+    "to": "ऋक्-पुर्-अप्-धुर्-पथाम्",
+    "why": "the sūtra has ऋक्पूरब्धूःपथाम् (ऋच्, पुर्, अप्, धुर्, पथिन्); the pc field joins it with अप् unvoiced.",
+    "noBuild": true
+   }
+  ],
+  "evidence": {
+   "sūtra": "ऋक्पूरब्धूःपथामानक्षे",
+   "prathamāvṛtti padaccheda": "ऋक्पूरब्धूःपथाम् ६।३॥ अ लुप्तप्रथमान्तनिर्देशः॥ अनक्षे ७।१॥"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "63065": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "इष्टका-इषिका-मालानाम्",
+    "to": "इष्टका-इषीका-मालानाम्",
+    "why": "the sūtra has इष्टकेषीकामालानाम् (इषीका)."
+   }
+  ],
+  "evidence": {
+   "sūtra": "इष्टकेषीकामालानां चिततूलभारिषु",
+   "prathamāvṛtti padaccheda": "इष्टकेषीकामालानाम् ६।३। चिततूलभारिषु ७।३।"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "63092": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "अप्रत्यये",
+    "to": "वप्रत्यये",
+    "why": "the sūtra is विष्वग्देवयोश्च टेरद्र्यञ्चतौ वप्रत्यये (अञ्चतौ + वप्रत्यये); the pc field reads अप्रत्यये."
+   }
+  ],
+  "evidence": {
+   "sūtra": "विष्वग्देवयोश्च टेरद्र्यञ्चतावप्रत्यये",
+   "prathamāvṛtti padaccheda": "विष्वग्देवयोः ६।२॥ च अ०॥ टेः ६।१॥ अद्रि लुप्तप्रथमान्तनिर्देशः॥ अञ्चतौ ७।१॥ वप्रत्यये ७।१॥"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "64093": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "चित्-णमुलोः",
+    "to": "चिण्-णमुलोः",
+    "why": "the suffix is चिण् (चिण्णमुलोः = चिण् + णमुलोः), not चित्."
+   }
+  ],
+  "evidence": {
+   "sūtra": "चिण्णमुलोर्दीर्घोऽन्यतरस्याम्",
+   "prathamāvṛtti padaccheda": "चिण्णमुलोः ७।२॥ दीर्घः १।१॥ अन्यतरस्याम् ७।१॥"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "71069": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "चित्-णमुलोः",
+    "to": "चिण्-णमुलोः",
+    "why": "the suffix is चिण् (चिण्णमुलोः), not चित्."
+   }
+  ],
+  "evidence": {
+   "sūtra": "विभाषा चिण्णमुलोः",
+   "prathamāvṛtti padaccheda": "विभाषा १।१। चिण्णमुल्योः ७।२।"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "74046": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "दथ्",
+    "to": "दद्",
+    "why": "the sūtra is दो दद् घोः; the replacement is दद्."
+   }
+  ],
+  "evidence": {
+   "sūtra": "दो दद् घोः",
+   "prathamāvṛtti padaccheda": "दः ६।१॥ दद् १।१॥ घोः ६।१॥ अनु०-ति क्किति, अङ्गस्य ॥"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "81066": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "यद्वृतात्",
+    "to": "यद्वृत्तात्",
+    "why": "the sūtra is यद्वृत्तान्नित्यम् (वृत्त)."
+   }
+  ],
+  "evidence": {
+   "sūtra": "यद्वृत्तान्नित्यम्",
+   "prathamāvṛtti padaccheda": "यद्वृत्तात् ५।१। नित्यम् १।१।"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "81057": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "आगतेः",
+    "to": "अगतेः",
+    "why": "the sūtra ends …आम्रेडितेष्वगतेः = अगतेः (not a gati)."
+   }
+  ],
+  "evidence": {
+   "sūtra": "चनचिदिवगोत्रादितद्धिताम्रेडितेष्वगतेः",
+   "prathamāvṛtti padaccheda": "चन ० ० डितेषु ७।३। अगतेः ५।१।"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "63073": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "लोपः",
+    "to": "नलोपः",
+    "why": "the sūtra is नलोपो नञः; the pc field drops the न of नलोपः."
+   }
+  ],
+  "evidence": {
+   "sūtra": "नलोपो नञः",
+   "prathamāvṛtti padaccheda": "नलोपः १।१। नञः ६।१।"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "13071": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "उपपदात्",
+    "to": "मिथ्या-उपपदात्",
+    "why": "the sūtra is मिथ्योपपदात् कृञोऽभ्यासे; the pc field drops मिथ्या."
+   }
+  ],
+  "evidence": {
+   "sūtra": "मिथ्योपपदात् कृञोऽभ्यासे",
+   "prathamāvṛtti padaccheda": "मिथ्योपपदात् ५।१॥ कृञः ५।१॥ अभ्यासे ७।१॥"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "82094": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "अनुयोगे",
+    "to": "निगृह्य-अनुयोगे",
+    "why": "the sūtra is निगृह्यानुयोगे च; the pc field drops निगृह्य."
+   }
+  ],
+  "evidence": {
+   "sūtra": "निगृह्यानुयोगे च",
+   "prathamāvṛtti padaccheda": "निगृह्यानुयोगे ७।१॥ च अ०॥"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "62144": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "थ-अथ-घञ्-क्त-अचपित्र-काणाम्",
+    "to": "थ-अथ-घञ्-क्त-अच्-अप्-इत्र-काणाम्",
+    "why": "the sūtra is थाथघञ्क्ताजबित्रकाणाम् (थ, अथ, घञ्, क्त, अच्, अप्, इत्र, क); the pc field runs अच्-अप्-इत्र together as अचपित्र."
+   }
+  ],
+  "evidence": {
+   "sūtra": "थाथघञ्क्ताजबित्रकाणाम्",
+   "prathamāvṛtti padaccheda": "थाथघञ्क्ताजबित्रकाणाम् ६।३॥"
+  },
+  "applied": "in build.js (pc errata applied to the words)"
+ },
+ "61062": {
+  "field": "pc",
+  "pc": [
+   {
+    "from": "अचि$S$6$1",
+    "to": "अचि$S$7$1",
+    "why": "अचि is the 7th singular of अच् (a sound in the 7th, read tadādi: “आजादौ”), not 6th.",
+    "noBuild": true
+   }
+  ],
+  "evidence": {
+   "sūtra": "अचि शीर्षः",
+   "Kāśikā": "आजादौ तद्धिते शिरसः शीर्षशब्द आदेशो भवति।"
+  },
+  "applied": "in build.js (PC_FIX)"
+ }
+}

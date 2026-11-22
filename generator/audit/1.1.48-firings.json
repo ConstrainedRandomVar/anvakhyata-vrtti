@@ -1,0 +1,50 @@
+{
+ "pid": "1.1.48",
+ "howGrouped": "case of the triggering word (own sūtra words only) | rule kind | start of the engine trigger text; member = \"<sūtra> <word>  ⟨engine effect⟩\"",
+ "applies": 3,
+ "consideredNotApplicable": 0,
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | operation | X",
+   "count": 3,
+   "sutras": [
+    "1.2.47 ह्रस्व for ए/ऐ/ओ/औ  ⟨the short for ए/ऐ is इ, for ओ/औ is उ⟩",
+    "1.2.48 ह्रस्व for ए/ऐ/ओ/औ  ⟨the short for ए/ऐ is इ, for ओ/औ is उ⟩",
+    "7.4.59 ह्रस्व for ए/ऐ/ओ/औ  ⟨the short for ए/ऐ is इ, for ओ/औ is उ⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.2.47",
+     "word": "ह्रस्व for ए/ऐ/ओ/औ",
+     "trigger": "ह्रस्व for ए/ऐ/ओ/औ",
+     "effect": "the short for ए/ऐ is इ, for ओ/औ is उ",
+     "sutra": "ह्रस्वो नपुंसके प्रातिपदिकस्य",
+     "ourVrtti": "अजन्तस्य प्रातिपदिकस्य स्थाने नपुंसकलिङ्गे अर्थे ह्रस्वादेशः भवति",
+     "kashika": "नपुंसकलिङ्गेऽर्थे यत्प्रातिपदिकं वर्तते, तस्य ह्रस्वो भवत्यादेशोऽलोऽन्त्यस्याचः।",
+     "prathamavrtti": "नपुंसकलिङ्गेऽर्थे वर्त्तमानं यत् प्रातिपदिकं तस्य ह्रस्वो भवति ॥"
+    },
+    {
+     "n": "1.2.48",
+     "word": "ह्रस्व for ए/ऐ/ओ/औ",
+     "trigger": "ह्रस्व for ए/ऐ/ओ/औ",
+     "effect": "the short for ए/ऐ is इ, for ओ/औ is उ",
+     "sutra": "गोस्त्रियोरुपसर्जनस्य",
+     "ourVrtti": "उपसर्जनगोशब्दान्तस्य उपसर्जनस्त्रीप्रत्ययान्तस्य च उपसर्जनस्य प्रातिपदिकस्य स्थाने ह्रस्वः आदेशः भवति",
+     "kashika": "उपसर्जनगोशब्दान्तस्य उपसर्जनस्त्रीप्रत्ययान्तान्तस्य च प्रातिपदिकस्य ह्रस्वो भवति।",
+     "prathamavrtti": "उपसर्जनगोशब्दान्तस्य प्रातिपदिकस्य, उपसर्जनस्त्रीप्रत्ययान्तस्य च प्रातिपदिकस्य ह्रस्वो भवति ॥"
+    },
+    {
+     "n": "7.4.59",
+     "word": "ह्रस्व for ए/ऐ/ओ/औ",
+     "trigger": "ह्रस्व for ए/ऐ/ओ/औ",
+     "effect": "the short for ए/ऐ is इ, for ओ/औ is उ",
+     "sutra": "ह्रस्वः",
+     "ourVrtti": "अङ्गस्य अभ्यासस्य स्थाने ह्रस्वः आदेशः भवति",
+     "kashika": "ह्रस्वो भवति अभ्यासस्य।",
+     "prathamavrtti": "अङ्गस्याभ्यासस्य ह्रस्वो भवति॥"
+    }
+   ]
+  }
+ ]
+}

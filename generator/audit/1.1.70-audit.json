@@ -1,0 +1,1589 @@
+{
+ "_about": "Audit of every ✔ firing of 1.1.70 तपरस्तत्कालस्य in work/vrtti-gen. Input audit/1.1.70-firings.json. Every quote verified by script as a verbatim substring of ~/Projects/ashtadhyayi-data/sutraani/<file>.txt (id = 5-digit sūtra id) or paribhashendushekhar/data.txt (id = paribhāṣā number). \"word\" = member-line text between the sūtra number and ⟨…⟩, trimmed. \"effect_defects\" lists licensed credits whose trigger/effect text is wrong or that carry a caveat — not to be dropped.",
+ "totals": {
+  "firings": 138,
+  "licensed": 96,
+  "not_licensed": 37,
+  "unsure": 5,
+  "not_licensed_by_should_be": {
+   "none": 31,
+   "1.1.69": 5,
+   "1.3.3": 1
+  },
+  "not_licensed_by_reason": {
+   "COMMENTATOR_DENIES": 19,
+   "REAL_T": 4,
+   "NOUN_RTU": 2,
+   "NAMED_NOT_APPLIED": 1,
+   "CONSIDERED_AND_BLOCKED": 1,
+   "NOT_THIS_SUTRA": 3,
+   "ABLATIVE_OF_A": 6,
+   "IT_MARKER": 1
+  }
+ },
+ "conditions": [
+  {
+   "text": "Definition: a vowel with त् after it (and, by \"तादपि परस्तपरः\", a vowel after त्) denotes only the sounds of its own duration (with other guṇas — udātta/anudātta/svarita/nasality — of that duration), and itself. For अत् इत् उत् ऋत् ऌत् that is the hrasva set; for एत् ऐत् ओत् औत् it is the two-mora (dīrgha) set, i.e. pluta is excluded.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11070",
+     "quote": "तः परो यस्मात् सोऽयं तपरः, तादपि परस्तपरः। तपरो वर्णस्तत्कालस्यात्मना तुल्यकालस्य गुणान्तरयुक्तस्य सवर्णस्य ग्राहको भवति, स्वस्य च रूपस्य।"
+    },
+    {
+     "file": "kaumudi",
+     "id": "11070",
+     "quote": "तः परो यस्मात्स च तात्परश्चोच्चार्यमाणः समकालस्यैव संज्ञा स्यात् ।"
+    },
+    {
+     "file": "balamanorama",
+     "id": "11070",
+     "quote": "तत्र अत् इत् उत् ऋत् इत्येतेषां तपराणां ह्रस्वाकारादीनामणां तत्तत्कालास्तत्तद्ध्रस्वप्रपञ्चाः । एत्, ऐत्, ओत्ौत् इत्येतेषां तु तपराणामेकारादीनां तत्तत्कालास्तत्तद्दीर्घप्रपञ्चाः ।"
+    }
+   ]
+  },
+  {
+   "text": "Scope: it is the grahaṇaka-śāstra for every tapara, aṇ or not, and the Kāśikā's own example includes an ādeśa (6.4.41 विड्वनोरनुनासिकस्यात्). So a tapara substitute is in scope by default.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11070",
+     "quote": "अणामन्येषां च तपराणाम् इदमेव ग्रहणकशास्त्रम्।"
+    },
+    {
+     "file": "kashika",
+     "id": "11070",
+     "quote": "<<विड्वनोरनुनासिकस्यात्>> [[६.४.४१]] — अब्जाः। गोजाः।"
+    },
+    {
+     "file": "nyaas",
+     "id": "71085",
+     "quote": "यदि च तपरेणापि भाव्यमानेनाणा सवर्णानां ग्रहणं न भवति, एवं सति `विङ्वनोरनुनासिकस्यात्`  [[6.4.41]]  इत्यत्रापि न स्यात्"
+    }
+   ]
+  },
+  {
+   "text": "Limit (stated per sūtra): where a commentator says the त् of that sūtra is only for ease of pronunciation (मुखसुखार्थ / उच्चारणार्थ) — not for \"that length only\" — the tapara does no 1.1.70 work there; a stated denial is a ✖, not a ✔. Bālamanoramā (after the Śekhara) holds this generally for substitutes, against the Kāśikā's 6.4.41 example; this audit applies it only where it is said of the sūtra itself.",
+   "quotes": [
+    {
+     "file": "balamanorama",
+     "id": "34106",
+     "quote": "'अच्च घे' रित्यत्रेव आदेशे तकार उच्चारणार्थ एव, नत्वित्संज्ञक इति शब्देन्दुशेखरे दिव औदित्यत्र प्रपञ्चितम्"
+    },
+    {
+     "file": "nyaas",
+     "id": "74040",
+     "quote": "तपरकरणं मुखसुखार्थम्, न तु दीर्घनिवृत्त्यर्थम्।"
+    }
+   ]
+  },
+  {
+   "text": "Not a tapara at all: (a) आत् as the 5th case of अ (\"from अ/अवर्ण\") — e.g. 6.1.87 आद्गुणः; (b) a त् that is part of the form (the substitute आत् of ङसि — वृक्षात्; अत् for झ् — ददति; अत् for भ्यस् — युष्मत्); (c) a त् that is an इत् marker of a suffix (5.3.12 अत् — क्व); (d) ऋतोः = ऋतु \"season\".",
+   "quotes": [
+    {
+     "file": "balamanorama",
+     "id": "61087",
+     "quote": "आदिति पञ्चमी नतु तपरकरणम्"
+    },
+    {
+     "file": "balamanorama",
+     "id": "61104",
+     "quote": "आदिति पञ्चमी"
+    },
+    {
+     "file": "nyaas",
+     "id": "71012",
+     "quote": "अत्र हि <<आदेः परस्य>> [[1.1.54]]  इत्यकारस्य तकारे विहिते संयोगान्तलोपे वृक्षादित्येवमादि सिध्यत्येव"
+    },
+    {
+     "file": "padamanjari",
+     "id": "53012",
+     "quote": "तकारस्य'न विभक्तौ तुस्माः'  इतीत्संज्ञाप्रतिषेधो न भवति; अनित्यत्वात्"
+    },
+    {
+     "file": "kashika",
+     "id": "51105",
+     "quote": "ऋतुशब्दात् तदिति प्रथमासमर्थाद् अस्येति षष्ठ्यर्थेऽण् प्रत्ययो भवति"
+    }
+   ]
+  },
+  {
+   "text": "A tapara stated to be \"for clarity\" (विस्पष्टार्थ, स्पष्टार्थ, असन्देहार्थ, लाघवार्थ) is still a tapara read by 1.1.70, only redundant; it is counted licensed (with a note). The exception is where the commentator adds that it is NOT for 1.1.70 (Bālamanoramā on एदैतोः, cited under 1.1.9).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "63046",
+     "quote": "तपरकरणं विस्पष्टार्थम्"
+    },
+    {
+     "file": "balamanorama",
+     "id": "11009",
+     "quote": "तपरकरणमसंदेहार्थम् । नतु 'तपरस्तत्कालस्य' इति तत्कालमात्रग्रहणार्थम् । तेन प्लुतयोरपि संग्रहः ।"
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "G1",
+   "group": "own word, data case 1 | ādeśa | X: … with … after it (…)",
+   "count": 37,
+   "verdict": "mixed",
+   "how_checked": "All 37 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [
+    "1.2.50",
+    "6.1.45",
+    "6.3.46",
+    "6.3.97",
+    "6.4.34",
+    "6.4.70",
+    "6.4.89",
+    "6.4.114",
+    "6.4.139",
+    "6.4.160",
+    "7.1.100",
+    "7.3.44",
+    "7.3.49",
+    "7.3.103",
+    "7.3.118",
+    "7.3.119",
+    "7.4.4",
+    "7.4.5",
+    "7.4.7",
+    "7.4.37",
+    "7.4.56",
+    "7.4.66",
+    "7.4.76",
+    "7.4.95"
+   ],
+   "not_licensed": [
+    {
+     "n": "3.4.106",
+     "word": "अत्",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "a commentator on this sūtra says its त् is only for pronunciation (मुखसुखार्थ / उच्चारणार्थ), not for \"that length only\"; no commentator on it gives the tapara a length function",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "34106",
+       "quote": "नैवायमादेशावयवस्तकारः। किं तर्हि? मुखसुखार्थ उच्चार्यते।"
+      },
+      {
+       "file": "balamanorama",
+       "id": "34106",
+       "quote": "'अच्च घे' रित्यत्रेव आदेशे तकार उच्चारणार्थ एव, नत्वित्संज्ञक इति शब्देन्दुशेखरे दिव औदित्यत्र प्रपञ्चितम्"
+      }
+     ]
+    },
+    {
+     "n": "5.4.135",
+     "word": "इत्",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "a commentator on this sūtra says its त् is only for pronunciation (मुखसुखार्थ / उच्चारणार्थ), not for \"that length only\"; no commentator on it gives the tapara a length function",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "54135",
+       "quote": "तकार उच्चारणार्थः।"
+      },
+      {
+       "file": "tattvabodhini",
+       "id": "54135",
+       "quote": "तकारस्योच्चारणार्थत्वाभ्युपगमात्"
+      }
+     ]
+    },
+    {
+     "n": "6.3.27",
+     "word": "ईत्",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "a commentator on this sūtra says its त् is only for pronunciation (मुखसुखार्थ / उच्चारणार्थ), not for \"that length only\"; no commentator on it gives the tapara a length function",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "63027",
+       "quote": "आनङादेशापवादोऽयमीकारो विधीयते। तकार उच्चारणार्थः॥"
+      }
+     ]
+    },
+    {
+     "n": "6.4.65",
+     "word": "ईत्",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "a commentator on this sūtra says its त् is only for pronunciation (मुखसुखार्थ / उच्चारणार्थ), not for \"that length only\"; no commentator on it gives the tapara a length function",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "64065",
+       "quote": "तकार उच्चारणार्थः; अनण्त्वादेव हि सवर्णग्रहणं न भविष्यति"
+      }
+     ]
+    },
+    {
+     "n": "7.1.4",
+     "word": "अत्",
+     "should_be": "none",
+     "reason": "REAL_T",
+     "why": "अत् replaces the consonant झ् of the ending (दद्+अत्+इ = ददति); its त् is heard, so it is not a tapara.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "71004",
+       "quote": "अभ्यस्तादङ्गादुत्तरस्य झकारस्य अदित्ययमादेशो भवति। ददति।"
+      },
+      {
+       "file": "kaumudi",
+       "id": "71004",
+       "quote": "झस्य अत्स्यात् । अन्तापवादः ।"
+      }
+     ]
+    },
+    {
+     "n": "7.1.31",
+     "word": "अत्",
+     "should_be": "none",
+     "reason": "REAL_T",
+     "why": "अत् replaces भ्यस् and its त् is the final of the result (युष्मद्+अत् → युष्मत्); not a tapara.",
+     "quotes": [
+      {
+       "file": "kaumudi",
+       "id": "71031",
+       "quote": "आभ्यां पञ्चम्या भ्यसोऽत्स्यात् । युष्मत् । अस्मत् ॥"
+      },
+      {
+       "file": "balamanorama",
+       "id": "71031",
+       "quote": "युष्मद् भ्यस्, अस्मद् भ्यसिति स्थिते भ्यसोऽदादेशः । शेषलोपश्च ।"
+      }
+     ]
+    },
+    {
+     "n": "7.1.84",
+     "word": "औत्",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "a commentator on this sūtra says its त् is only for pronunciation (मुखसुखार्थ / उच्चारणार्थ), not for \"that length only\"; no commentator on it gives the tapara a length function",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "71084",
+       "quote": "तकारो मुखसुखार्थः"
+      },
+      {
+       "file": "balamanorama",
+       "id": "71084",
+       "quote": "औदिति तकार उच्चारणार्थो नत्वादेशे तकारः श्रूयते"
+      },
+      {
+       "file": "tattvabodhini",
+       "id": "71084",
+       "quote": "तकार उच्चारणार्थः"
+      }
+     ]
+    },
+    {
+     "n": "7.2.83",
+     "word": "ईत्",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "a commentator on this sūtra says its त् is only for pronunciation (मुखसुखार्थ / उच्चारणार्थ), not for \"that length only\"; no commentator on it gives the tapara a length function",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "72083",
+       "quote": "तपरकरणं मुखसुखार्थम्॥"
+      }
+     ]
+    },
+    {
+     "n": "7.4.40",
+     "word": "इत्",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "a commentator on this sūtra says its त् is only for pronunciation (मुखसुखार्थ / उच्चारणार्थ), not for \"that length only\"; no commentator on it gives the tapara a length function",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "74040",
+       "quote": "तपरकरणं मुखसुखार्थम्, न तु दीर्घनिवृत्त्यर्थम्।"
+      }
+     ]
+    },
+    {
+     "n": "8.2.81",
+     "word": "ईत्",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "a commentator on this sūtra says its त् is only for pronunciation (मुखसुखार्थ / उच्चारणार्थ), not for \"that length only\"; no commentator on it gives the tapara a length function",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82081",
+       "quote": "ईदिति तकारो मुखसुखार्थः॥"
+      }
+     ]
+    }
+   ],
+   "unsure": [
+    {
+     "n": "7.1.85",
+     "word": "आत्",
+     "why": "the commentators split: the Nyāsa raises 1.1.70 and concludes the sound after आ is द् (मुखसुखार्थ), i.e. not a tapara; the Bālamanoramā calls आत् a tapara and uses 1.1.70 to cover the nasal आ.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "71085",
+       "quote": "एवं तर्हि नैवायमाकारस्तपरः, किं तर्हि? दकारः। दकारस्तु मुखसुखार्थः"
+      },
+      {
+       "file": "balamanorama",
+       "id": "71085",
+       "quote": "आदिति तपरकरणम् ।"
+      }
+     ]
+    },
+    {
+     "n": "7.1.86",
+     "word": "अत्",
+     "why": "commentators split on the tapara of the substitute अत्: \"for ease of pronunciation, say some\" vs \"to exclude the long in पथीः, say others\" (Nyāsa); Padamañjarī says मुखसुखार्थ; Bālamanoramā says स्पष्टार्थ.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "71086",
+       "quote": "स्थानिन्यादेशे च तपरकरणं मुखसुखार्थमित्येके। पथीरित्यत्र दीर्घनिवृत्त्यर्थमितयन्ये।"
+      },
+      {
+       "file": "padamanjari",
+       "id": "71086",
+       "quote": "स्थानिन्यादेशे च तपरकरणं मुखसुखार्थम्"
+      },
+      {
+       "file": "balamanorama",
+       "id": "71086",
+       "quote": "भाव्यमानत्वादेव सवर्णाऽग्रहकत्वे सिद्धे अदिति तपरकरणमपि स्पाष्टार्थमेव"
+      }
+     ]
+    },
+    {
+     "n": "7.4.55",
+     "word": "ईत्",
+     "why": "the Nyāsa ends with \"तकारो मुखसुखार्थः\" right after discussing the examples (अर्दिधिषति); it most likely refers to the sūtra's ईत् (which would make this a denial), but the referent is not certain.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "74055",
+       "quote": "अभ्यासस्य जश्त्वम् - जकारः। तकारो मुखसुखार्थः॥"
+      }
+     ]
+    }
+   ],
+   "note": "Taparas in substitutes. In scope per the Kāśikā's own 1.1.70 example (6.4.41). Not licensed: 7.1.4 and 7.1.31, whose त् is part of the substitute (ददति, युष्मत्), and the sūtras where a commentator says the त् is only for pronunciation. 7.1.85, 7.1.86, 7.4.55 are unsure. Effect text says \"short\" for ए/ओ/औ, which have no short form.",
+   "effect_defects": [
+    {
+     "n": "6.3.46",
+     "word": "आत्",
+     "defect": "the commentary calls this tapara redundant (\"for clarity\" / \"for brevity\" / \"small purpose\") — still a tapara read by 1.1.70",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "63046",
+       "quote": "तपरकरणं विस्पष्टार्थम्"
+      }
+     ]
+    },
+    {
+     "n": "7.1.100",
+     "word": "इत्",
+     "defect": "the commentary calls this tapara redundant (\"for clarity\" / \"for brevity\" / \"small purpose\") — still a tapara read by 1.1.70",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "71100",
+       "quote": "तपरकरणमसन्देहार्थम्"
+      }
+     ]
+    },
+    {
+     "n": "7.3.103",
+     "word": "एत्",
+     "defect": "effect says \"only the short ए\"; ए has no short form — तपर एत् means the two-mora ए (pluta excluded)",
+     "quotes": []
+    },
+    {
+     "n": "7.3.118",
+     "word": "औत्",
+     "defect": "effect says \"only the short औ\"; औ has no short form — तपर औत् means the two-mora औ (pluta excluded)",
+     "quotes": []
+    },
+    {
+     "n": "7.4.5",
+     "word": "इत्",
+     "defect": "the commentary calls this tapara redundant (\"for clarity\" / \"for brevity\" / \"small purpose\") — still a tapara read by 1.1.70",
+     "quotes": [
+      {
+       "file": "tattvabodhini",
+       "id": "74005",
+       "quote": "तकारो मन्दप्रयोजनः"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "group": "own word, data case 5 | vidhi | X: … with … after it (…)",
+   "count": 22,
+   "verdict": "mixed",
+   "how_checked": "All 22 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [
+    "3.1.136",
+    "3.1.141",
+    "3.2.3",
+    "3.2.74",
+    "3.3.106",
+    "3.3.128",
+    "4.1.4",
+    "4.1.5",
+    "4.1.44",
+    "4.1.65",
+    "4.1.95",
+    "4.1.122",
+    "4.1.171",
+    "4.3.72",
+    "4.4.49",
+    "5.2.96",
+    "5.2.115",
+    "5.4.11",
+    "5.4.158"
+   ],
+   "not_licensed": [
+    {
+     "n": "4.1.66",
+     "word": "उतः",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "a commentator on this sūtra says its त् is only for pronunciation (मुखसुखार्थ / उच्चारणार्थ), not for \"that length only\"; no commentator on it gives the tapara a length function",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "41066",
+       "quote": "`उतः` इति तपरकरणं मुखसुखार्थम्। न तु दीर्घनिवृत्त्य्रथम्; ऊकारान्तस् मनुष्यजातिवाचिनोऽभावात्।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.78",
+     "word": "ऋतः",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "a commentator on this sūtra says its त् is only for pronunciation (मुखसुखार्थ / उच्चारणार्थ), not for \"that length only\"; no commentator on it gives the tapara a length function",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43078",
+       "quote": "तपरकरणं मुखसुखार्थम्।"
+      },
+      {
+       "file": "nyaas",
+       "id": "43078",
+       "quote": "न हि विद्यायोनिसम्बन्धिषु किञ्चिदृकारान्तं प्रातिपदिकमस्ति यन्निवृत्त्यर्थस्तकारः स्यात्"
+      }
+     ]
+    },
+    {
+     "n": "5.1.105",
+     "word": "ऋतोः",
+     "should_be": "none",
+     "reason": "NOUN_RTU",
+     "why": "ऋतोः is the noun ऋतु \"season\" (आर्तवम्), not ऋत्.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51105",
+       "quote": "ऋतुशब्दात् तदिति प्रथमासमर्थाद् अस्येति षष्ठ्यर्थेऽण् प्रत्ययो भवति"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "Sound qualifiers of the base in suffix rules (आतः, अतः, इतः, उतः, ऋतः …). Genuine taparas except 5.1.105 ऋतोः (= ऋतु). Effect text says \"only the short आ/ए\" for आत्/एत् — wrong wording, right rule. 4.1.66 and 4.3.78: commentators say मुखसुखार्थ.",
+   "effect_defects": [
+    {
+     "n": "3.1.136",
+     "word": "आतः",
+     "defect": "effect says \"only the short आ\" but आ is long — should be \"only the long आ\"",
+     "quotes": []
+    },
+    {
+     "n": "3.1.141",
+     "word": "श्या-आत्-व्यध-आस्रु-संस्रु-अतीण्-अवसा-अवहृ-लिह-श्लिष-श्वसः",
+     "defect": "effect says \"only the short आ\" but आ is long — should be \"only the long आ\"",
+     "quotes": []
+    },
+    {
+     "n": "3.2.3",
+     "word": "आतः",
+     "defect": "effect says \"only the short आ\" but आ is long — should be \"only the long आ\"",
+     "quotes": []
+    },
+    {
+     "n": "3.2.74",
+     "word": "आतः",
+     "defect": "effect says \"only the short आ\" but आ is long — should be \"only the long आ\"",
+     "quotes": []
+    },
+    {
+     "n": "3.3.106",
+     "word": "आतः",
+     "defect": "effect says \"only the short आ\" but आ is long — should be \"only the long आ\"",
+     "quotes": []
+    },
+    {
+     "n": "3.3.128",
+     "word": "आतः",
+     "defect": "effect says \"only the short आ\" but आ is long — should be \"only the long आ\"",
+     "quotes": []
+    },
+    {
+     "n": "5.2.96",
+     "word": "आतः",
+     "defect": "effect says \"only the short आ\" but आ is long — should be \"only the long आ\"",
+     "quotes": []
+    },
+    {
+     "n": "5.4.11",
+     "word": "किम्-एत्-तिङ्-अव्यय-घात्",
+     "defect": "effect says \"only the short ए\"; ए has no short form — तपर एत् means the two-mora ए (pluta excluded)",
+     "quotes": []
+    }
+   ]
+  },
+  {
+   "id": "G3",
+   "group": "own word, data case 6 | operation | X: …",
+   "count": 16,
+   "verdict": "mixed",
+   "how_checked": "All 16 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [
+    "3.4.100",
+    "6.4.48",
+    "6.4.64",
+    "6.4.112",
+    "6.4.140",
+    "7.2.7",
+    "7.2.116",
+    "7.3.27",
+    "7.3.89",
+    "7.3.101",
+    "7.4.10",
+    "7.4.70",
+    "7.4.92"
+   ],
+   "not_licensed": [
+    {
+     "n": "7.3.11",
+     "word": "ऋतोः",
+     "should_be": "none",
+     "reason": "NOUN_RTU",
+     "why": "ऋतोः = a word for a season (पूर्ववार्षिकम्); our vṛtti itself says ऋतुवाचिनः.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73011",
+       "quote": "अवयववाचिन उत्तरस्य ऋतुवाचिन उत्तरपदस्याचामादेरचो वृद्धिर्भवति"
+      }
+     ]
+    },
+    {
+     "n": "7.3.71",
+     "word": "ओतः",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "a commentator on this sūtra says its त् is only for pronunciation (मुखसुखार्थ / उच्चारणार्थ), not for \"that length only\"; no commentator on it gives the tapara a length function",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "73071",
+       "quote": "तपरकरणं मुखसुखार्थम्। न ह्रन्यदस्य निवर्त्त्यं विधेयं वा सम्भवति॥"
+      }
+     ]
+    }
+   ],
+   "unsure": [
+    {
+     "n": "7.3.110",
+     "word": "ऋतः",
+     "why": "Kāśikā, Nyāsa and Padamañjarī say the tapara is मुखसुखार्थ (no long ॠ-final stem exists); the Tattvabodhinī gives it a function (blocking guṇa in anukaraṇas of कॄ, तॄ).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "73110",
+       "quote": "तपरकरणं मुखसुखार्थम्"
+      },
+      {
+       "file": "tattvabodhini",
+       "id": "73110",
+       "quote": "एतयोरनुकरणे ऋकारान्ते गुणवारणाय तपरकरणमिति बोध्यम्"
+      }
+     ]
+    }
+   ],
+   "note": "Sthānin taparas in operations. 7.3.11 ऋतोः is the noun ऋतु. 7.3.71 ओतः: Nyāsa says मुखसुखार्थ. 7.3.110 unsure (commentators split). Effect says \"short आ/ओ\" for आत्/ओत्.",
+   "effect_defects": [
+    {
+     "n": "6.4.64",
+     "word": "आतः",
+     "defect": "effect says \"only the short आ\" but आ is long — should be \"only the long आ\"",
+     "quotes": []
+    },
+    {
+     "n": "6.4.112",
+     "word": "आतः",
+     "defect": "effect says \"only the short आ\" but आ is long — should be \"only the long आ\"",
+     "quotes": []
+    },
+    {
+     "n": "6.4.140",
+     "word": "आतः",
+     "defect": "effect says \"only the short आ\" but आ is long — should be \"only the long आ\"",
+     "quotes": []
+    },
+    {
+     "n": "7.2.7",
+     "word": "अतः",
+     "defect": "the commentary calls this tapara redundant (\"for clarity\" / \"for brevity\" / \"small purpose\") — still a tapara read by 1.1.70",
+     "quotes": [
+      {
+       "file": "tattvabodhini",
+       "id": "72007",
+       "quote": "तपरकरणं स्पष्टार्थम्"
+      }
+     ]
+    },
+    {
+     "n": "7.2.116",
+     "word": "अतः",
+     "defect": "the commentary calls this tapara redundant (\"for clarity\" / \"for brevity\" / \"small purpose\") — still a tapara read by 1.1.70",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "72116",
+       "quote": "तपरकरणं लाघवार्थम्"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G4",
+   "group": "carried / not a sūtra word | operation | X: …",
+   "count": 11,
+   "verdict": "licensed",
+   "how_checked": "All 11 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [
+    "6.4.42",
+    "6.4.43",
+    "6.4.45",
+    "6.4.107",
+    "6.4.108",
+    "6.4.109",
+    "7.3.102",
+    "7.4.29",
+    "7.4.30",
+    "7.4.77",
+    "7.4.78"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "Carried taparas (आत् of 6.4.41 into 6.4.42–45, उतः of 6.4.106, etc.). All genuine. Effect says \"short आ\" for आत्.",
+   "effect_defects": [
+    {
+     "n": "6.4.42",
+     "word": "आत्",
+     "defect": "effect says \"only the short आ\" but आ is long — should be \"only the long आ\"",
+     "quotes": []
+    },
+    {
+     "n": "6.4.43",
+     "word": "आत्",
+     "defect": "effect says \"only the short आ\" but आ is long — should be \"only the long आ\"",
+     "quotes": []
+    },
+    {
+     "n": "6.4.45",
+     "word": "आत्",
+     "defect": "effect says \"only the short आ\" but आ is long — should be \"only the long आ\"",
+     "quotes": []
+    }
+   ]
+  },
+  {
+   "id": "G5",
+   "group": "named by a commentator | saṃjñā | X",
+   "count": 4,
+   "verdict": "mixed",
+   "how_checked": "All 4 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [
+    "1.1.1",
+    "1.1.11"
+   ],
+   "not_licensed": [
+    {
+     "n": "1.1.9",
+     "word": "named by बालमनोरमा",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "the Bālamanoramā names 1.1.70 only to deny it: the tapara in एदैतोः / ओदौतोः is असंदेहार्थ, NOT for that-length-only, so that the pluta forms are included.",
+     "quotes": [
+      {
+       "file": "balamanorama",
+       "id": "11009",
+       "quote": "तपरकरणमसंदेहार्थम् । नतु 'तपरस्तत्कालस्य' इति तत्कालमात्रग्रहणार्थम् । तेन प्लुतयोरपि संग्रहः ।"
+      }
+     ]
+    },
+    {
+     "n": "1.2.27",
+     "word": "named by पदमञ्जरी",
+     "should_be": "none",
+     "reason": "NAMED_NOT_APPLIED",
+     "why": "the Padamañjarī only cites the wording of 1.1.70 (तत्कालस्य) as a model for the compound ऊकालः; no tapara is read in 1.2.27.",
+     "quotes": [
+      {
+       "file": "padamanjari",
+       "id": "12027",
+       "quote": "ऊः कालो यस्य स ऊकालः ऽतपरस्तत्कालस्यऽ इतिवन्निर्देशः समर्थनीयः"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "Commentator-named, saṃjñā rules: 1.1.1 (Nyāsa) and 1.1.11 (Bhāṣya) apply it; 1.1.9 (Bālamanoramā) explicitly denies it; 1.2.27 (Padamañjarī) only compares the wording."
+  },
+  {
+   "id": "G6",
+   "group": "named by a commentator | operation | X",
+   "count": 4,
+   "verdict": "not licensed",
+   "how_checked": "All 4 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "6.3.112",
+     "word": "named by पदमञ्जरी",
+     "should_be": "none",
+     "reason": "CONSIDERED_AND_BLOCKED",
+     "why": "the Padamañjarī raises 1.1.70 (तादपि परस्तपरः would make the अ after ओत् tapara, excluding आ) only to explain why the sūtra says अवर्णस्य — the वर्ण word overrides it. That is a ✖ (considered, not applicable). The sūtra's own ओत् already has a separate engine credit (G12).",
+     "quotes": [
+      {
+       "file": "padamanjari",
+       "id": "63112",
+       "quote": "इदमेव वर्णग्रहणं लिङ्गं तपरस्तत्कालस्य इत्यत्र पञ्चमीसमासोऽप्याश्रीयत इति"
+      }
+     ]
+    },
+    {
+     "n": "6.3.122",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "NOT_THIS_SUTRA",
+     "why": "the quoted Nyāsa passage discusses सहिवहोरोदवर्णस्य (उदवोढाम्, the वर्ण word), i.e. 6.3.112, and there too 1.1.70 is the hypothetical that the वर्ण word blocks; nothing in 6.3.122 उपसर्गस्य घञ्यमनुष्ये बहुलम् is a tapara.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "63122",
+       "quote": "अथेदानीमसति वर्णग्रहणे मात्रिकस्याकारस्योच्यमानमोत्त्वं दीर्घस्य न स्यात्"
+      }
+     ]
+    },
+    {
+     "n": "6.3.137",
+     "word": "named by बालमनोरमा",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "the Bālamanoramā passage (on a hypothetical ओरोत् for ओर्गुणः) names 1.1.70 only to deny it: the त् would be उच्चारणार्थ. Nothing in 6.3.137 अन्येषामपि दृश्यते is a tapara.",
+     "quotes": [
+      {
+       "file": "balamanorama",
+       "id": "63137",
+       "quote": "नचओ॑दिति तपरस्तत्कालस्य संज्ञेति वाच्यं, विधायमानत्वादेव तत्कालत्वसिद्ध्या तकारस्य उच्चारणार्थत्वात्"
+      }
+     ]
+    },
+    {
+     "n": "6.4.146",
+     "word": "named by तत्त्वबोधिनी",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "the Tattvabodhinī discusses a hypothetical wording ओरोत् and says its त् would be उच्चारणार्थ, tapara having no use; the actual sūtra ओर्गुणः has no tapara.",
+     "quotes": [
+      {
+       "file": "tattvabodhini",
+       "id": "64146",
+       "quote": "तथापि इह तकार उच्चारणार्थः, तपरत्वे फलाऽभावात्"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "Commentator-named, operations: none applies it to the sūtra it is filed under — 6.3.112 is a blocked hypothetical, 6.3.122 is a passage about 6.3.112, 6.3.137 / 6.4.146 deny it for a hypothetical ओरोत्."
+  },
+  {
+   "id": "G7",
+   "group": "carried / not a sūtra word | saṃjñā | X: … with … after it (…)",
+   "count": 3,
+   "verdict": "licensed",
+   "how_checked": "All 3 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [
+    "1.1.1",
+    "1.1.2",
+    "1.1.11"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "आत् of 1.1.1, अत् of 1.1.2, ईत् of 1.1.11 — genuine (the Bhāṣya on 1.1.11, the Kāśikā on 1.1.2)."
+  },
+  {
+   "id": "G8",
+   "group": "carried / not a sūtra word | operation | X: … with … after it (…)",
+   "count": 3,
+   "verdict": "mixed",
+   "how_checked": "All 3 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [
+    "2.4.80",
+    "6.4.134"
+   ],
+   "not_licensed": [
+    {
+     "n": "7.1.39",
+     "word": "आत्",
+     "should_be": "none",
+     "reason": "REAL_T",
+     "why": "आत् is one of the Vedic sup-substitutes with an audible त् (न ताद् ब्राह्मणाद् निन्दामि, for तम्); not a tapara.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "71039",
+       "quote": "आत् — न ताद् ब्राह्मणाद् निन्दामि"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "2.4.80 आत् = आकारान्त (genuine); 6.4.134 अत् genuine; 7.1.39 आत् is a sup-substitute with a heard त् (not tapara)."
+  },
+  {
+   "id": "G9",
+   "group": "own word, data case 6 | vidhi | X: … with … after it (…)",
+   "count": 3,
+   "verdict": "licensed",
+   "how_checked": "All 3 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [
+    "3.4.96",
+    "4.1.177",
+    "4.2.123"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "3.4.96 एतः, 4.1.177 अतः (विस्पष्टार्थ), 4.2.123 ईतः — genuine taparas; at 4.2.123 the engine reads short इ but the word is ईतोः.",
+   "effect_defects": [
+    {
+     "n": "3.4.96",
+     "word": "एतः",
+     "defect": "effect says \"only the short ए\"; ए has no short form — तपर एत् means the two-mora ए (pluta excluded)",
+     "quotes": []
+    },
+    {
+     "n": "4.1.177",
+     "word": "अतः",
+     "defect": "the commentary calls this tapara redundant (\"for clarity\" / \"for brevity\" / \"small purpose\") — still a tapara read by 1.1.70",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41177",
+       "quote": "तकारो विस्पष्टार्थः।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.123",
+     "word": "र-उपधा-इतोः",
+     "defect": "the commentary calls this tapara redundant (\"for clarity\" / \"for brevity\" / \"small purpose\") — still a tapara read by 1.1.70; the tapara is ईत् (रोपध + ईतोः; Kāśikā \"ईकारान्तात्\", \"ईतः खल्वपि — काकन्दी\"), so the sound is long ई, not short इ; the member word \"र-उपधा-इतोः\" also mis-splits ईतोः",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42123",
+       "quote": "तपरकरणं विस्पष्टार्थम्॥"
+      },
+      {
+       "file": "kashika",
+       "id": "42123",
+       "quote": "ईतः खल्वपि — काकन्दी — काकन्दकः।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "G10",
+   "group": "carried / not a sūtra word | ādeśa | X: … with … after it (…)",
+   "count": 3,
+   "verdict": "mixed",
+   "how_checked": "All 3 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [
+    "6.1.59",
+    "8.3.41"
+   ],
+   "not_licensed": [
+    {
+     "n": "7.1.12",
+     "word": "आत्",
+     "should_be": "none",
+     "reason": "REAL_T",
+     "why": "आत् here is the substitute for ङसि and its त् is heard (वृक्षात्); it is not a tapara marker. The Nyāsa's argument presupposes the त् is part of the substitute.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "71012",
+       "quote": "ङसीत्येतस्य आत् — वृक्षात्। प्लक्षात्।"
+      },
+      {
+       "file": "nyaas",
+       "id": "71012",
+       "quote": "अत्र हि <<आदेः परस्य>> [[1.1.54]]  इत्यकारस्य तकारे विहिते संयोगान्तलोपे वृक्षादित्येवमादि सिध्यत्येव"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "6.1.59 ऋत्, 8.3.41 इत् genuine; 7.1.12 आत् is the ङसि substitute with a heard त् (वृक्षात्)."
+  },
+  {
+   "id": "G11",
+   "group": "named by a commentator | ādeśa | X",
+   "count": 3,
+   "verdict": "mixed",
+   "how_checked": "All 3 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [
+    "6.1.131"
+   ],
+   "not_licensed": [
+    {
+     "n": "7.1.85",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "the Nyāsa names 1.1.70 as an objection and concludes that आत् is NOT a tapara (the following sound is a मुखसुखार्थ द्). The engine's own tapara credit at 7.1.85 (G1) is left unsure because the Bālamanoramā disagrees.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "71085",
+       "quote": "एवं तर्हि नैवायमाकारस्तपरः, किं तर्हि? दकारः। दकारस्तु मुखसुखार्थः"
+      }
+     ]
+    },
+    {
+     "n": "7.2.84",
+     "word": "named by महाभाष्यम्",
+     "should_be": "none",
+     "reason": "NOT_THIS_SUTRA",
+     "why": "7.2.84 अष्टन आ विभक्तौ has no tapara (plain आ). The Bhāṣya cites 1.1.70 inside an objection about nasal substitutes (अष्टाभिः, जातः, पन्थाः) and settles it by \"सिद्धमनण्त्वादुच्चारणसामर्थ्याद्वा\".",
+     "quotes": [
+      {
+       "file": "bhashya",
+       "id": "72084",
+       "quote": "न ब्रूमोऽण्सर्वान्गृह्णातीति ॥ कथं तर्हि ? ॥ तपरस्तत्कालस्येति ।"
+      },
+      {
+       "file": "bhashya",
+       "id": "72084",
+       "quote": "एकः(1) परिहारोऽयं  - सिद्धमनण्त्वादुच्चारणसार्मत्याद्वेति"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "6.1.131 applied by the Bhāṣya; 7.1.85 named by the Nyāsa only to deny the tapara; 7.2.84 has no tapara."
+  },
+  {
+   "id": "G12",
+   "group": "own word, data case 1 | operation | X: … with … after it (…)",
+   "count": 3,
+   "verdict": "mixed",
+   "how_checked": "All 3 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [
+    "6.3.112",
+    "6.4.119"
+   ],
+   "not_licensed": [
+    {
+     "n": "6.3.28",
+     "word": "इत्",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "a commentator on this sūtra says its त् is only for pronunciation (मुखसुखार्थ / उच्चारणार्थ), not for \"that length only\"; no commentator on it gives the tapara a length function",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "63028",
+       "quote": "अत्रापि तकार उच्चारणार्थः"
+      },
+      {
+       "file": "tattvabodhini",
+       "id": "63028",
+       "quote": "तकार उच्चारणार्थः"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "6.3.28: Nyāsa and Tattvabodhinī say the त् is उच्चारणार्थ. 6.3.112 ओत् and 6.4.119 एत् genuine (effect says \"short ओ/ए\").",
+   "effect_defects": [
+    {
+     "n": "6.3.112",
+     "word": "ओत्",
+     "defect": "effect says \"only the short ओ\"; ओ has no short form — तपर ओत् means the two-mora ओ (pluta excluded)",
+     "quotes": []
+    },
+    {
+     "n": "6.4.119",
+     "word": "एत्",
+     "defect": "effect says \"only the short ए\"; ए has no short form — तपर एत् means the two-mora ए (pluta excluded)",
+     "quotes": []
+    }
+   ]
+  },
+  {
+   "id": "G13",
+   "group": "carried / not a sūtra word | āgama | X: …",
+   "count": 3,
+   "verdict": "mixed",
+   "how_checked": "All 3 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [
+    "7.2.82"
+   ],
+   "not_licensed": [
+    {
+     "n": "7.1.51",
+     "word": "आत्",
+     "should_be": "none",
+     "reason": "ABLATIVE_OF_A",
+     "why": "the आत् running on from 7.1.50 (Kāśikā on 7.1.52: आदिति वर्तते) is the 5th case of अ, not tapara; our vṛtti for 7.1.51 does not use it at all, so nothing needs crediting.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "71052",
+       "quote": "आदिति वर्तते।"
+      }
+     ]
+    },
+    {
+     "n": "7.1.52",
+     "word": "आत्",
+     "should_be": "1.1.69",
+     "reason": "ABLATIVE_OF_A",
+     "why": "the आत् carried from 7.1.50 is a 5th-case अ (अवर्णात्), not tapara; the engine effect even says \"only the short आ\".",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "71052",
+       "quote": "आदिति वर्तते। अवर्णात् सर्वनाम्न उत्तरस्यामः सुडागमो भवति।"
+      },
+      {
+       "file": "balamanorama",
+       "id": "71052",
+       "quote": "'अज्जसेरसुक्' इत्यतोऽनुवृत्तेन आदिति पञ्चम्यन्तेन"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "7.1.51 / 7.1.52 आत् carried from 7.1.50 is the 5th case of अ (अवर्णात्), not a tapara; 7.2.82 अतः genuine (Kāśikā: तपरनिर्देशाद्)."
+  },
+  {
+   "id": "G14",
+   "group": "carried / not a sūtra word | vidhi | X: the sound has … after it (…)",
+   "count": 2,
+   "verdict": "licensed",
+   "how_checked": "All 2 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [
+    "3.1.98",
+    "3.1.110"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "Both genuine (Kāśikā: तपरकरणं तत्कालार्थम् / तपरकरणं किम्?)."
+  },
+  {
+   "id": "G15",
+   "group": "named by a commentator | vidhi | X",
+   "count": 2,
+   "verdict": "not licensed",
+   "how_checked": "All 2 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "3.2.171",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "the Nyāsa names 1.1.70 only to show why आत् must NOT be a tapara: \"the द् is for ease of pronunciation … this is not a tapara\".",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "32171",
+       "quote": "`आदिति दकारो मुखसुखार्थः`इति। तपरत्वनिरासार्थमेतत्। अत एवाह -  `\tन त्वयं तपरः` इति।"
+      }
+     ]
+    },
+    {
+     "n": "3.3.57",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "the Nyāsa raises 1.1.70 as the danger if ॠदोः were read with त् (only मात्रिक उ would be taken: यवः but not लवः) and concludes the sound is द्, so the उ takes all its savarṇas. 1.1.70 is denied here (the Bhāṣya on 6.1.87 says the same: नैष तकारः … दकारः).",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "33057",
+       "quote": "ततश्च <<तपरस्तत्कालस्य>> [[1.1.70]]  इति परिभाषोपस्थानादिहैव स्यात् -  यवः,स्तव इति; लवः,पव इत्यत्र तु न स्यात्।"
+      },
+      {
+       "file": "nyaas",
+       "id": "33057",
+       "quote": "तस्मादुकारोऽयं सवर्णं गृह्णाति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "Both named by the Nyāsa only to deny a tapara (आदृगम… and ॠदोरप् are read with द्)."
+  },
+  {
+   "id": "G16",
+   "group": "own word, data case 1 | vidhi | X: … with … after it (…)",
+   "count": 2,
+   "verdict": "not licensed",
+   "how_checked": "All 2 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "4.2.25",
+     "word": "इत्",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "a commentator on this sūtra says its त् is only for pronunciation (मुखसुखार्थ / उच्चारणार्थ), not for \"that length only\"; no commentator on it gives the tapara a length function",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "42025",
+       "quote": "तकारो मुखसुखार्थः, न दीर्घनिवृत्त्यर्थः"
+      }
+     ]
+    },
+    {
+     "n": "5.3.12",
+     "word": "अत्",
+     "should_be": "1.3.3",
+     "reason": "IT_MARKER",
+     "why": "अत् is a suffix (किम्+अत् → क्व) whose त् is an इत् (हलन्त्यम्), the 1.3.4 bar being anitya; it is not a tapara.",
+     "quotes": [
+      {
+       "file": "padamanjari",
+       "id": "53012",
+       "quote": "तकारस्य'न विभक्तौ तुस्माः'  इतीत्संज्ञाप्रतिषेधो न भवति; अनित्यत्वात्"
+      },
+      {
+       "file": "balamanorama",
+       "id": "53012",
+       "quote": "अत्प्रत्यये तकार इत्"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "4.2.25 इत्: Nyāsa says मुखसुखार्थ. 5.3.12 अत् is a suffix whose त् is an इत्."
+  },
+  {
+   "id": "G17",
+   "group": "own word, data case 5 | ekādeśa | X: … with … after it (…)",
+   "count": 2,
+   "verdict": "not licensed",
+   "how_checked": "All 2 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "6.1.87",
+     "word": "आत्",
+     "should_be": "1.1.69",
+     "reason": "ABLATIVE_OF_A",
+     "why": "आत् is the 5th case of अ (\"after अ-varṇa\"), not the tapara आ; the vṛtti itself says अवर्णात्. That अ covers आ is 1.1.69.",
+     "quotes": [
+      {
+       "file": "balamanorama",
+       "id": "61087",
+       "quote": "आदिति पञ्चमी नतु तपरकरणम्"
+      },
+      {
+       "file": "kashika",
+       "id": "61087",
+       "quote": "अवर्णात् परो योऽच् अचि च पूर्वो योऽवर्णः"
+      }
+     ]
+    },
+    {
+     "n": "6.1.104",
+     "word": "आत्",
+     "should_be": "1.1.69",
+     "reason": "ABLATIVE_OF_A",
+     "why": "आत् is the 5th case of अ (Kāśikā: अवर्णात्; the counter-example is अग्नी), not tapara आ.",
+     "quotes": [
+      {
+       "file": "balamanorama",
+       "id": "61104",
+       "quote": "आदिति पञ्चमी"
+      },
+      {
+       "file": "kashika",
+       "id": "61104",
+       "quote": "अवर्णादिचि पूर्वसवर्णदीर्घो न भवति"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "आत् in आद्गुणः and नादिचि is the 5th case of अ (Bālamanoramā: आदिति पञ्चमी नतु तपरकरणम्)."
+  },
+  {
+   "id": "G18",
+   "group": "own word, data case 5 | operation | X: … with … after it (…)",
+   "count": 2,
+   "verdict": "licensed",
+   "how_checked": "All 2 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [
+    "6.4.41",
+    "7.3.1"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "6.4.41 is the Kāśikā's own 1.1.70 example; 7.3.1 genuine."
+  },
+  {
+   "id": "G19",
+   "group": "own word, data case 5 | āgama | X: … with … after it (…)",
+   "count": 2,
+   "verdict": "not licensed",
+   "how_checked": "All 2 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "7.1.50",
+     "word": "आत्",
+     "should_be": "1.1.69",
+     "reason": "ABLATIVE_OF_A",
+     "why": "आत् = \"after an aṅga ending in अ-varṇa\" (ब्राह्मणासः); the 5th case of अ, not tapara आ — the engine itself writes अवर्णान्तात् in the vṛtti.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "71050",
+       "quote": "अवर्णान्तादङ्गादुत्तरस्य जसेरसुगागमो भवति छन्दसि विषये"
+      }
+     ]
+    },
+    {
+     "n": "7.1.80",
+     "word": "आत्",
+     "should_be": "1.1.69",
+     "reason": "ABLATIVE_OF_A",
+     "why": "आत् = after an aṅga ending in अ-varṇa (तुदन्ती/याती), 5th case of अ, not tapara आ.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "71080",
+       "quote": "अवर्णान्तादङ्गादुत्तरस्य शतुर्वा नुमागमो भवति शीनद्योः परतः"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "आज्जसेरसुक्, आच्छीनद्योर्नुम्: आत् = after an अ-varṇa-final aṅga (5th case of अ)."
+  },
+  {
+   "id": "G20",
+   "group": "own word, data case 1 | saṃjñā | X: … with … after it (…)",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [
+    "1.1.15"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "",
+   "effect_defects": [
+    {
+     "n": "1.1.15",
+     "word": "ओत्",
+     "defect": "effect says \"only the short ओ\"; ओ has no short form — तपर ओत् means the two-mora ओ (pluta excluded)",
+     "quotes": []
+    }
+   ]
+  },
+  {
+   "id": "G21",
+   "group": "own word, data case 1 | atideśa | X: … with … after it (…)",
+   "count": 1,
+   "verdict": "unsure",
+   "how_checked": "All 1 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [],
+   "not_licensed": [],
+   "unsure": [
+    {
+     "n": "1.2.17",
+     "word": "इत्",
+     "why": "the Bhāṣya asks why इत् is tapara and answers \"दीर्घो मा भूत् — ऋतेऽपि सः\" (the long would not come even without it); the Padamañjarī reports that this rejects the tapara, while \"others\" take it as supporting it.",
+     "quotes": [
+      {
+       "file": "bhashya",
+       "id": "12017",
+       "quote": "इच्च कस्य तकारेत्वं दीर्घो मा भूदृतेऽपि सः"
+      },
+      {
+       "file": "padamanjari",
+       "id": "12017",
+       "quote": "अनेन तपरत्वं प्रत्याख्यायते"
+      },
+      {
+       "file": "padamanjari",
+       "id": "12017",
+       "quote": "अन्ये तु तपरत्वमनेन समर्थितं मन्यन्ते"
+      }
+     ]
+    }
+   ],
+   "note": "Unsure: the Bhāṣya rejects the tapara of इत् (दीर्घो मा भूदृतेऽपि सः); the Padamañjarī reports both readings."
+  },
+  {
+   "id": "G22",
+   "group": "named by a commentator | samāsa | X (English)",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [
+    "2.2.33"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G23",
+   "group": "carried / not a sūtra word | samāsa | X: … with … after it (…)",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [
+    "2.2.33"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G24",
+   "group": "named by a commentator | vidhi | X (English)",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [
+    "4.3.151"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G25",
+   "group": "named by a commentator | svara | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "how_checked": "All 1 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "6.1.185",
+     "word": "named by पदमञ्जरी",
+     "should_be": "none",
+     "reason": "NOT_THIS_SUTRA",
+     "why": "the Padamañjarī passage is about whether दिव उत् / ऋत उत् are tapara (it says they are दपर) and about the wording of 1.1.70 itself; 6.1.185 तित्स्वरितम् has no tapara (तित् = with त् as इत्).",
+     "quotes": [
+      {
+       "file": "padamanjari",
+       "id": "61185",
+       "quote": "तावपि तहि न तपरौ, किं तर्हि ? दपरौ।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "6.1.185 तित्स्वरितम्: the passage is about दिव उत्/ऋत उत्."
+  },
+  {
+   "id": "G26",
+   "group": "own word, data case 1 | svara | X: … with … after it (…)",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [
+    "6.1.219"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G27",
+   "group": "own word, data case 1 | nipātana | X: … with … after it (…)",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [
+    "6.3.98"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G28",
+   "group": "named by a commentator | atideśa | X",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [
+    "7.1.90"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G29",
+   "group": "own word, data case 6 | āgama | X: …",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [
+    "7.3.33"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "",
+   "effect_defects": [
+    {
+     "n": "7.3.33",
+     "word": "आतः",
+     "defect": "effect says \"only the short आ\" but आ is long — should be \"only the long आ\"",
+     "quotes": []
+    }
+   ]
+  },
+  {
+   "id": "G30",
+   "group": "carried / not a sūtra word | ṇatva | X: … with … after it (…)",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members read by hand: sūtra text, the triggering word, our vṛtti, the Kāśikā, and every commentary sentence mentioning तपर/तकार/मुखसुख/उच्चारणार्थ/तत्कालस्य for that sūtra (script /tmp/aud/tgrep.js over all eight vendored commentaries); effect wording checked by script (vowel length vs. \"short/long\").",
+   "licensed": [
+    "8.4.26"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  }
+ ],
+ "missed": [
+  {
+   "n": "7.1.9",
+   "pid": "1.1.70",
+   "why": "अतो भिस ऐस् — the Kāśikā's own first example of 1.1.70; the record has no 1.1.70 credit.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11070",
+     "quote": "<<अतो भिस ऐस्>> [[७.१.९]] — वृक्षैः। प्लक्षैः।"
+    },
+    {
+     "file": "kashika",
+     "id": "71009",
+     "quote": "तपरकरणं किम्? खट्वाभिः। मालाभिः"
+    }
+   ]
+  },
+  {
+   "n": "6.1.113",
+   "pid": "1.1.70",
+   "why": "अतो रोरप्लुतादप्लुते — tapara अत्, with a counter-example.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "61113",
+     "quote": "तपरकरणं किम् ? वृक्षा अत्र।"
+    }
+   ]
+  },
+  {
+   "n": "6.4.105",
+   "pid": "1.1.70",
+   "why": "अतो हेः — tapara अत्.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "64105",
+     "quote": "तपरकरणं किम् ? लुनीहि। पुनीहि"
+    }
+   ]
+  },
+  {
+   "n": "7.2.80",
+   "pid": "1.1.70",
+   "why": "अतो येयः — tapara अत्.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "72080",
+     "quote": "तपरकरणं किम्? यायात्।"
+    }
+   ]
+  },
+  {
+   "n": "7.2.81",
+   "pid": "1.1.70",
+   "why": "आतो ङितः — tapara आत्.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "72081",
+     "quote": "तपरकरणं किम्? मिमाते। मिमाथे"
+    }
+   ]
+  },
+  {
+   "n": "7.3.44",
+   "pid": "1.1.70",
+   "why": "the credit at 7.3.44 is triggered by the substitute इत्, but the Kāśikā's tapara is the sthānin अतः (राका is excluded); the right trigger is missed.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "73044",
+     "quote": "तपरकरणं किम्? राका"
+    }
+   ]
+  }
+ ],
+ "missed_note": "Scripted scan: sūtras whose Kāśikā says \"तपरकरणं किम्? / तपरकरणं …\" but which carry no 1.1.70 credit → 22 hits, of which 18 state a function (the 6 above, plus 6.1.91, 6.1.109, 6.4.110, 6.4.120, 7.2.62, 7.2.63, 7.4.27, 7.4.79, 7.4.85, 7.4.88, 8.3.46, 8.4.22; the other 4 say असन्देहार्थ/विस्पष्टार्थ or carry the tapara over: 1.1.19, 7.1.94, 7.2.70, 8.4.24). Taparas without a Kāśikā remark are not counted; the real number of misses is higher. (Script: /tmp/aud/miss70.js.)"
+}

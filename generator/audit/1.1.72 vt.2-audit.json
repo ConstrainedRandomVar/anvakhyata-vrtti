@@ -1,0 +1,973 @@
+{
+ "_about": "Audit of every ✔ firing of 1.1.72 vt.2 उगिद्वर्णग्रहणवर्जम् in work/vrtti-gen. Input audit/1.1.72 vt.2-firings.json. Every quote verified by script as a verbatim substring of ~/Projects/ashtadhyayi-data/sutraani/<file>.txt (id = 5-digit sūtra id) or paribhashendushekhar/data.txt (id = paribhāṣā number). \"word\" = member-line text between the sūtra number and ⟨…⟩, trimmed. \"effect_defects\" lists licensed credits whose trigger/effect text is wrong or that carry a caveat — not to be dropped.",
+ "totals": {
+  "firings": 85,
+  "licensed": 37,
+  "not_licensed": 48,
+  "unsure": 0,
+  "not_licensed_by_should_be": {
+   "none": 44,
+   "PIS 23": 4
+  },
+  "not_licensed_by_reason": {
+   "HOMONYM": 22,
+   "NOT_PRATYAYA_VIDHI": 4,
+   "SUFFIX": 4,
+   "UPADHA": 7,
+   "BAHVAC": 7,
+   "OWN_ANTA": 2,
+   "NAMED_NOT_APPLIED": 1,
+   "NOT_THIS_SUTRA": 1
+  }
+ },
+ "conditions": [
+  {
+   "text": "Vārttika 1 on 1.1.72: in rules prescribing a samāsa or a pratyaya, tadanta-vidhi is barred (नडादिभ्यः फक् does not reach सूत्रनड). Vārttika 2: except where the qualifier is an ugit or a varṇa (sound). The Bhāṣya's examples: उगितश्च (भवती, अतिभवती) and अत इञ् (दाक्षिः).",
+   "quotes": [
+    {
+     "file": "bhashya",
+     "id": "11072",
+     "quote": "समासप्रत्ययविधौ प्रतिषेधः। समासविधौ प्रत्ययविधौ च प्रतिषेधो वक्तव्यः।"
+    },
+    {
+     "file": "bhashya",
+     "id": "11072",
+     "quote": "उगिद्वर्णग्रहणवर्जम्। उगिद्ग्रहणं वर्णग्रहणं च वर्जयित्वा। उगिद्ग्रहणमुगितश्च। भवती। अतिभवतौ।"
+    },
+    {
+     "file": "kashika",
+     "id": "11072",
+     "quote": "उगिद्वर्णग्रहणवर्जमिति वाच्यम् (म०भा० [[१.१.७२]] वा० २)॥ <<उगितश्च>> [[४.१.६]] इति ङीप्प्रत्ययस्तदन्तादपि भवति। भवती। अतिभवती। वर्णग्रहणम् — <<अत इञ्>> [[४.१.९५]] — दाक्षिः। प्लाक्षिः॥"
+    }
+   ]
+  },
+  {
+   "text": "What it requires: (1) a samāsa- or pratyaya-vidhi; (2) the base (prātipadika — or dhātu, see C3) is qualified by a sound or an ugit, so that \"what ends in it\" is read; (3) the sound is really a sound — not a homonymous dhātu/noun/saṃjñā, not a suffix name (that tadanta is PIS 23), not an उपधा or आदि qualifier, not a बह्वच्/द्व्यच् bahuvrīhi, and not already spelt out with अन्त in the sūtra.",
+   "quotes": [
+    {
+     "file": "padamanjari",
+     "id": "11072",
+     "quote": "उगिद्वर्णेति । उगिता वर्णेन च प्रातिपदिकं विशेष्यमित्यर्थः ।"
+    }
+   ]
+  },
+  {
+   "text": "Scope caveat (dhātu suffix rules): the Śekhara restricts vt.1's pratyaya bar to sūtras that name a prātipadika by its form, and the Kāśikā gives एरच् and ओरावश्यके as plain 1.1.72 examples. On that reading vt.1 never arises in kṛt rules with a sound-qualified dhātu, so vt.2 is not strictly needed there. This audit follows the earlier 1.1.72 audit (vt.1 as the Bhāṣya states it is general to pratyaya-vidhi) and counts those credits licensed, flagged for Harsha.",
+   "quotes": [
+    {
+     "file": "paribhashendushekhar",
+     "id": "31",
+     "quote": "सोऽपि निषेधो विशिष्य तत्तद्रूपेण गृहीतप्रातिपदिकसूत्र एव ।"
+    },
+    {
+     "file": "kashika",
+     "id": "11072",
+     "quote": "<<एरच्>> [[३.३.५६]] — इवर्णान्तादच्प्रत्ययो भवति। चयः। जयः। अयः।"
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | vidhi | X (varṇa-grahaṇa)",
+   "count": 82,
+   "verdict": "mixed",
+   "how_checked": "All 82 members read by hand: sūtra, our vṛtti, all paribhāṣā credits of the sūtra (1.1.70/71/72, vt.1, PIS 23), and the Kāśikā gloss of the qualifier; cross-checked against the verdicts of audit/1.1.72-audit.json for the same sūtras (agree everywhere except 5.4.92 and 5.4.105, where the earlier audit licensed 1.1.72 for a named word — which is not a sound, so vt.2 does not apply).",
+   "licensed": [
+    "3.1.97",
+    "3.1.98",
+    "3.1.124",
+    "3.1.125",
+    "3.1.136",
+    "3.1.141",
+    "3.2.3",
+    "3.2.74",
+    "3.2.152",
+    "3.3.56",
+    "3.3.57",
+    "3.3.103",
+    "3.3.106",
+    "3.3.121",
+    "3.3.128",
+    "4.1.4",
+    "4.1.5",
+    "4.1.44",
+    "4.1.65",
+    "4.1.66",
+    "4.1.95",
+    "4.1.122",
+    "4.1.171",
+    "4.2.71",
+    "4.2.119",
+    "4.2.123",
+    "4.3.72",
+    "4.3.78",
+    "4.3.139",
+    "4.4.49",
+    "5.1.2",
+    "5.2.96",
+    "5.2.115",
+    "5.4.11",
+    "5.4.111",
+    "5.4.158"
+   ],
+   "not_licensed": [
+    {
+     "n": "3.1.21",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "हल is the noun \"plough\" (one of ten listed nouns), not the pratyāhāra हल्; a named prātipadika in a suffix rule is exactly what vt.1 bars.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "31021",
+       "quote": "हलिं गृह्णाति, हलयति।"
+      }
+     ]
+    },
+    {
+     "n": "3.1.148",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "हः = the dhātus ओहाक्/ओहाङ् (जहाति, जिहीते), not the sound ह्.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "31148",
+       "quote": "जहातेर्जिहातेश्च धातोर्ण्युट् प्रत्ययो भवति व्रीहौ काले च कर्तरि।"
+      }
+     ]
+    },
+    {
+     "n": "3.2.136",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "the \"sound\" is चर, the dhātu चर (चरिष्णुः); no sound qualifier in the sūtra.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32136",
+       "quote": "चरिष्णुः॥"
+      }
+     ]
+    },
+    {
+     "n": "3.2.157",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "इण् is the dhātu इण् (अत्ययी); the sūtra is a list of roots.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32157",
+       "quote": "जिप्रभृतिभ्यो धातुभ्यः इनिः प्रत्ययो भवति तच्छीलादिषु कर्तृषु।"
+      }
+     ]
+    },
+    {
+     "n": "3.2.163",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "इण् is the dhātu (इत्वरः).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32163",
+       "quote": "इण् नश् जि सर्ति इत्येतेभ्यो धातुभ्यस्तच्छीलादिषु कर्तृषु क्वरप् प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "3.2.176",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "यः is the dhātu या प्रापणे (यायावरः), not the sound य्.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32176",
+       "quote": "<<या प्रापणे>> अस्माद् यङन्तात् तच्छीलादिषु कर्तृषु वरच् प्रत्ययो भवति। यायावरः॥"
+      }
+     ]
+    },
+    {
+     "n": "3.2.181",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "धः = the dhātus धेट् and डुधाञ् (धात्री), not the sound ध्.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32181",
+       "quote": "धयतेर्दधातेश्च कर्मणि कारके ष्ट्रन् प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "3.2.183",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "पुवः = the dhātu पू; हल = \"plough\" (a meaning condition); no sound qualifier.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32183",
+       "quote": "पू इति पूङ्पूञोस्सामान्येन ग्रहणम्। अस्माद् धातोः करणे कारके ष्ट्रन् प्रत्ययो भवति, तच्चेत् करणं हलसूकरयोरवयवो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "3.2.184",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "चर is the dhātu चर गतिभक्षणयोः.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32184",
+       "quote": "<<चर गतिभक्षणयोः>> एतेभ्यो धातुभ्यः करणे कारक इत्रः प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "3.2.185",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "पुवः = the dhātu पू (पवित्रम्).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32185",
+       "quote": "पूङ्पूञोः सामान्येन ग्रहणम्। पवतेर्धातोःकरणे कारक इत्र प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.3.37",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "नी and इण् are dhātus.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33037",
+       "quote": "परिशब्दे निशब्दे चोपपदे यथासंख्यं निय इणश्च धातोर्घञ् प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "3.3.38",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "इणः is the dhātu इण्.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33038",
+       "quote": "परिशब्द उपपद इणो धातोर्घञ् प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "3.3.92",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "घोः = the saṃjñā घु (दा/धा roots, 1.1.20), not a sound.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33092",
+       "quote": "उपसर्ग उपपदे घुसंज्ञकेभ्यो धातुभ्यः किः प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "3.4.16",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "इण् (and the rest) are dhātus.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "34016",
+       "quote": "इण् — पुरा सूर्यस्योदेतोराधेयः"
+      }
+     ]
+    },
+    {
+     "n": "3.4.96",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "NOT_PRATYAYA_VIDHI",
+     "why": "a substitution (the ए of a लेट् ending → ऐ); the sound is the sthānin, not a qualifier of a base in a samāsa/pratyaya rule.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "34096",
+       "quote": "लेट्संबन्धिन एकारस्य वैकारादेशो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.1.16",
+     "word": "the qualifier is a sound",
+     "should_be": "PIS 23",
+     "reason": "SUFFIX",
+     "why": "यञ् is the gotra suffix; यञन्त is PIS 23. (The current build already dropped this vt.2 credit.)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41016",
+       "quote": "यञन्ताच्च प्रातिपदिकात् स्त्रियां ङीप् प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.1.34",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "no sound qualifies the base: the base is a पति-final word (सपूर्व); न् is the substitute.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41034",
+       "quote": "पतिशब्दान्तस्य प्रातिपदिकस्य सपूर्वस्यानुपसर्जनस्य स्त्रियां विभाषा नकारादेशो भवति"
+      }
+     ]
+    },
+    {
+     "n": "4.1.63",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "UPADHA",
+     "why": "the sound qualifies the penultimate (उपधा) of the base, not its end; no \"what ends in it\".",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41063",
+       "quote": "नियतमस्त्रीविषयमयकारोपधं च, तस्मात् स्त्रियां ङीष् प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.1.156",
+     "word": "the qualifier is a sound",
+     "should_be": "PIS 23",
+     "reason": "SUFFIX",
+     "why": "अण् is the taddhita suffix (कार्त्रायणिः); PIS 23. (The current build already dropped this vt.2 credit.)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41156",
+       "quote": "अणन्ताद् द्व्यचः प्रातिपदिकादपत्ये फिञ् प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.1.177",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "NOT_PRATYAYA_VIDHI",
+     "why": "a luk rule on the suffix अ; the Kāśikā explicitly says there is no tadanta-vidhi here.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41177",
+       "quote": "अवन्त्यादिभ्यो लुग्वचनात् तदन्तविधिरत्र नास्ति"
+      }
+     ]
+    },
+    {
+     "n": "4.2.72",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "BAHVAC",
+     "why": "बह्वच् / द्व्यच् is a bahuvrīhi \"having many / two vowels\" qualifying the word as a whole; the sound अच् is not something the base ends in, so there is no tadanta of a sound.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42072",
+       "quote": "बह्वज् अङ्गं यस्यासौ बह्वजङ्गो मतुप्, तदन्तात् प्रातिपदिकादञ् प्रत्ययो भवति चातुरर्थिकः।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.73",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "BAHVAC",
+     "why": "बह्वच् / द्व्यच् is a bahuvrīhi \"having many / two vowels\" qualifying the word as a whole; the sound अच् is not something the base ends in, so there is no tadanta of a sound.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42073",
+       "quote": "बह्वचः प्रातिपदिकादञ् प्रत्ययो भवति चातुरर्थिकः कूपेष्वभिधेयेषु।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.109",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "BAHVAC",
+     "why": "बह्वच् / द्व्यच् is a bahuvrīhi \"having many / two vowels\" qualifying the word as a whole; the sound अच् is not something the base ends in, so there is no tadanta of a sound.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42109",
+       "quote": "उदीच्यग्रामवाचिनः प्रातिपदिकाद् बह्वचोऽन्तोदात्ताद् अञ् प्रत्ययो भवति शैषिकः।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.110",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "UPADHA",
+     "why": "the sound qualifies the penultimate (उपधा) of the base, not its end; no \"what ends in it\".",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42110",
+       "quote": "ककारोपधात् च प्रातिपदिकादण् प्रत्ययो भवति शैषिकः।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.113",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "BAHVAC",
+     "why": "बह्वच् / द्व्यच् is a bahuvrīhi \"having many / two vowels\" qualifying the word as a whole; the sound अच् is not something the base ends in, so there is no tadanta of a sound.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42113",
+       "quote": "द्व्यचः प्रातिपदिकात् प्राच्यभरतगोत्रादिञन्तादण् प्रत्ययो न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.121",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "UPADHA",
+     "why": "the sound qualifies the penultimate (उपधा) of the base, not its end; no \"what ends in it\".",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42121",
+       "quote": "धन्ववाचिनो यकारोपधात् च देशाभिधायिनो वृद्धात् प्रातिपदिकाद् वुञ् प्रत्ययो भवति शैषिकः।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.132",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "UPADHA",
+     "why": "the sound qualifies the penultimate (उपधा) of the base, not its end; no \"what ends in it\".",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42132",
+       "quote": "ककारोपधात् प्रातिपदिकादण् प्रत्ययो भवति शैषिकः।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.141",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "OWN_ANTA",
+     "why": "the sūtra itself says अन्त (अकेकान्त), and अक/इक are stem endings, not sounds; ख-उपध is an upadhā qualifier.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42141",
+       "quote": "वृद्धाद् देशवाचिनोऽक इक इत्येवमन्तात् खकारोपधात् च प्रातिपदिकाच् छः प्रत्ययो भवति शैषिकः।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.67",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "BAHVAC",
+     "why": "बह्वच् / द्व्यच् is a bahuvrīhi \"having many / two vowels\" qualifying the word as a whole; the sound अच् is not something the base ends in, so there is no tadanta of a sound.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43067",
+       "quote": "बह्वचो व्याख्यातव्यनाम्नः प्रातिपदिकादन्तोदात्ताद् भवव्याख्यानयोष्ठञ् प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.124",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "हल = \"plough\" (हालिकम्).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43124",
+       "quote": "हलस्येदं हालिकम्।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.137",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "UPADHA",
+     "why": "the sound qualifies the penultimate (उपधा) of the base, not its end; no \"what ends in it\".",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43137",
+       "quote": "ककारोपधात् प्रातिपदिकादण् प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "4.3.144",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "शर is the gaṇa word (शरादि), not the pratyāhāra शर्; वृद्ध is a saṃjñā.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43144",
+       "quote": "शरादिभ्यः — शरमयम्।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.145",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "गोः is the word गो (गोमयम्).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43145",
+       "quote": "गोशब्दात् पुरीषेऽभिधेये मयट् प्रत्ययो भवति। गोमयम्।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.150",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "BAHVAC",
+     "why": "बह्वच् / द्व्यच् is a bahuvrīhi \"having many / two vowels\" qualifying the word as a whole; the sound अच् is not something the base ends in, so there is no tadanta of a sound.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43150",
+       "quote": "द्व्यचः प्रातिपदिकाच् छन्दसि विषये मयट् प्रत्ययो भवति विकारावयवयोरर्थयोः।"
+      }
+     ]
+    },
+    {
+     "n": "4.4.4",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "UPADHA",
+     "why": "the sound qualifies the penultimate (उपधा) of the base, not its end; no \"what ends in it\".",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "44004",
+       "quote": "कुलत्थशब्दात् ककारोपधाच् छब्दाच् च प्रातिपदिकादण् प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "4.4.64",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "BAHVAC",
+     "why": "बह्वच् / द्व्यच् is a bahuvrīhi \"having many / two vowels\" qualifying the word as a whole; the sound अच् is not something the base ends in, so there is no tadanta of a sound.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "44064",
+       "quote": "बह्वच् पूर्वपदं यस्य तस्माद् बह्वच्पूर्वपदात् प्रातिपदिकात् ठच् प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.4.81",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "हल = \"plough\" (हालिकः).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "44081",
+       "quote": "हलं वहति हालिकः।"
+      }
+     ]
+    },
+    {
+     "n": "5.1.105",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "ऋतोः is the noun ऋतु.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51105",
+       "quote": "ऋतुशब्दात् तदिति प्रथमासमर्थाद् अस्येति षष्ठ्यर्थेऽण् प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "5.1.132",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "UPADHA",
+     "why": "the sound qualifies the penultimate (उपधा) of the base, not its end; no \"what ends in it\".",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "51132",
+       "quote": "यकारोपधाद् गुरूपोत्तमाद् वुञ् प्रत्ययो भवत"
+      }
+     ]
+    },
+    {
+     "n": "5.2.40",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "NOT_PRATYAYA_VIDHI",
+     "why": "व is the व् of वतुप् that is replaced by घ (a substitution); it qualifies no base.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52040",
+       "quote": "किमिदंभ्यामुत्तरस्य वतुपो वकारस्य घकारादेशो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "5.3.59",
+     "word": "the qualifier is a sound",
+     "should_be": "PIS 23",
+     "reason": "SUFFIX",
+     "why": "तुः = the suffixes तृन्/तृच्; त्रन्त is PIS 23, not a sound.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "53059",
+       "quote": "तुरिति तृन्तृचोः सामान्येन ग्रहणम्। त्रन्तात् छन्दसि विषयेऽजादी प्रत्ययौ भवतः।"
+      }
+     ]
+    },
+    {
+     "n": "5.3.83",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "NOT_PRATYAYA_VIDHI",
+     "why": "a lopa rule; अचः gives a position (after the second vowel), not a final sound of a base.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "53083",
+       "quote": "प्रकृतेर्द्वितीयादच ऊर्ध्वं यच्छब्दरूपं तस्य लो"
+      }
+     ]
+    },
+    {
+     "n": "5.3.118",
+     "word": "the qualifier is a sound",
+     "should_be": "PIS 23",
+     "reason": "SUFFIX",
+     "why": "अण् is the gotra suffix अण्.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "53118",
+       "quote": "गोत्रप्रत्ययस्यात्राणो ग्रहणमिष्यते।"
+      }
+     ]
+    },
+    {
+     "n": "5.4.92",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "गो is a word, not a sound; the tadanta (गोशब्दान्तात् तत्पुरुषात्) comes from the compound viśeṣya of a samāsānta (1.1.72, already credited), not from varṇa-grahaṇa.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "54092",
+       "quote": "गोशब्दान्तात् तत्पुरुषात् टच् प्रत्ययो भवति"
+      }
+     ]
+    },
+    {
+     "n": "5.4.105",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "HOMONYM",
+     "why": "कु is the indeclinable word कु (a preceding member, like महत्), not the sound-group कु; the tadanta is of ब्रह्मन् in a tatpuruṣa.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "54105",
+       "quote": "कुमहद्भ्यां परो यो ब्रह्मा तदन्तात् तत्पुरुषात् टच् प्रत्ययो भवत्यन्यतरस्याम्।"
+      }
+     ]
+    },
+    {
+     "n": "5.4.106",
+     "word": "the qualifier is a sound",
+     "should_be": "none",
+     "reason": "OWN_ANTA",
+     "why": "the sūtra spells out अन्त (चुदषहान्तात्); the tadanta is stated, not inferred by 1.1.72, so neither vt.1 nor vt.2 has work to do.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "54106",
+       "quote": "द्वन्द्वात् चवर्गान्ताद् दकारान्तात् षकारान्तात् हकारान्तात् च टच् प्रत्ययो भवति"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "Every suffix-rule sūtra in which the engine tagged any word as a sound got this credit, with or without a real tadanta (several members have no 1.1.72 credit at all). Licensed: real sound qualifiers of the base (आतः, अतः, ओः, एः, हलः, अचः, झयः, ऋतः …) — 36, of which 15 are dhātu rules flagged under C3. Not licensed: homonyms (dhātus इण्/चर/हा/या/धा/पू, the noun हल, घु, गो, ऋतु, कु), suffix names (→ PIS 23), उपधा qualifiers, बह्वच्/द्व्यच्, sūtras that already say अन्त, and non-pratyaya rules.",
+   "effect_defects": [
+    {
+     "n": "3.1.97",
+     "word": "the qualifier is a sound",
+     "defect": "dhātu suffix rule: licensed under the Bhāṣya's general statement of vt.1; on the Śekhara's narrower reading (C3) vt.1 never arises here and the tadanta is plain 1.1.72 — flagged, not counted against",
+     "quotes": []
+    },
+    {
+     "n": "3.1.98",
+     "word": "the qualifier is a sound",
+     "defect": "dhātu suffix rule: licensed under the Bhāṣya's general statement of vt.1; on the Śekhara's narrower reading (C3) vt.1 never arises here and the tadanta is plain 1.1.72 — flagged, not counted against",
+     "quotes": []
+    },
+    {
+     "n": "3.1.124",
+     "word": "the qualifier is a sound",
+     "defect": "dhātu suffix rule: licensed under the Bhāṣya's general statement of vt.1; on the Śekhara's narrower reading (C3) vt.1 never arises here and the tadanta is plain 1.1.72 — flagged, not counted against",
+     "quotes": []
+    },
+    {
+     "n": "3.1.125",
+     "word": "the qualifier is a sound",
+     "defect": "dhātu suffix rule: licensed under the Bhāṣya's general statement of vt.1; on the Śekhara's narrower reading (C3) vt.1 never arises here and the tadanta is plain 1.1.72 — flagged, not counted against",
+     "quotes": []
+    },
+    {
+     "n": "3.1.136",
+     "word": "the qualifier is a sound",
+     "defect": "dhātu suffix rule: licensed under the Bhāṣya's general statement of vt.1; on the Śekhara's narrower reading (C3) vt.1 never arises here and the tadanta is plain 1.1.72 — flagged, not counted against",
+     "quotes": []
+    },
+    {
+     "n": "3.1.141",
+     "word": "the qualifier is a sound",
+     "defect": "dhātu suffix rule: licensed under the Bhāṣya's general statement of vt.1; on the Śekhara's narrower reading (C3) vt.1 never arises here and the tadanta is plain 1.1.72 — flagged, not counted against",
+     "quotes": []
+    },
+    {
+     "n": "3.2.3",
+     "word": "the qualifier is a sound",
+     "defect": "dhātu suffix rule: licensed under the Bhāṣya's general statement of vt.1; on the Śekhara's narrower reading (C3) vt.1 never arises here and the tadanta is plain 1.1.72 — flagged, not counted against",
+     "quotes": []
+    },
+    {
+     "n": "3.2.74",
+     "word": "the qualifier is a sound",
+     "defect": "dhātu suffix rule: licensed under the Bhāṣya's general statement of vt.1; on the Śekhara's narrower reading (C3) vt.1 never arises here and the tadanta is plain 1.1.72 — flagged, not counted against",
+     "quotes": []
+    },
+    {
+     "n": "3.2.152",
+     "word": "the qualifier is a sound",
+     "defect": "dhātu suffix rule: licensed under the Bhāṣya's general statement of vt.1; on the Śekhara's narrower reading (C3) vt.1 never arises here and the tadanta is plain 1.1.72 — flagged, not counted against",
+     "quotes": []
+    },
+    {
+     "n": "3.3.56",
+     "word": "the qualifier is a sound",
+     "defect": "dhātu suffix rule: licensed under the Bhāṣya's general statement of vt.1; on the Śekhara's narrower reading (C3) vt.1 never arises here and the tadanta is plain 1.1.72 — flagged, not counted against",
+     "quotes": []
+    },
+    {
+     "n": "3.3.57",
+     "word": "the qualifier is a sound",
+     "defect": "dhātu suffix rule: licensed under the Bhāṣya's general statement of vt.1; on the Śekhara's narrower reading (C3) vt.1 never arises here and the tadanta is plain 1.1.72 — flagged, not counted against",
+     "quotes": []
+    },
+    {
+     "n": "3.3.103",
+     "word": "the qualifier is a sound",
+     "defect": "dhātu suffix rule: licensed under the Bhāṣya's general statement of vt.1; on the Śekhara's narrower reading (C3) vt.1 never arises here and the tadanta is plain 1.1.72 — flagged, not counted against",
+     "quotes": []
+    },
+    {
+     "n": "3.3.106",
+     "word": "the qualifier is a sound",
+     "defect": "dhātu suffix rule: licensed under the Bhāṣya's general statement of vt.1; on the Śekhara's narrower reading (C3) vt.1 never arises here and the tadanta is plain 1.1.72 — flagged, not counted against",
+     "quotes": []
+    },
+    {
+     "n": "3.3.121",
+     "word": "the qualifier is a sound",
+     "defect": "dhātu suffix rule: licensed under the Bhāṣya's general statement of vt.1; on the Śekhara's narrower reading (C3) vt.1 never arises here and the tadanta is plain 1.1.72 — flagged, not counted against",
+     "quotes": []
+    },
+    {
+     "n": "3.3.128",
+     "word": "the qualifier is a sound",
+     "defect": "dhātu suffix rule: licensed under the Bhāṣya's general statement of vt.1; on the Śekhara's narrower reading (C3) vt.1 never arises here and the tadanta is plain 1.1.72 — flagged, not counted against",
+     "quotes": []
+    },
+    {
+     "n": "4.2.123",
+     "word": "the qualifier is a sound",
+     "defect": "licensed through ईतः (ईकारान्त); the other qualifier रोपध is an upadhā qualifier",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42123",
+       "quote": "ईतः खल्वपि — काकन्दी — काकन्दकः।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.72",
+     "word": "the qualifier is a sound",
+     "defect": "licensed through ऋत् (ऋकारान्त); द्व्यच् is a bahuvrīhi, not a sound qualifier",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43072",
+       "quote": "ऋकारान्तात्"
+      }
+     ]
+    },
+    {
+     "n": "5.4.11",
+     "word": "the qualifier is a sound",
+     "defect": "licensed through एत् (एकारान्त); तिङ्/घ are suffixes (PIS 23)",
+     "quotes": []
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "group": "named by a commentator | vidhi | X",
+   "count": 2,
+   "verdict": "not licensed",
+   "how_checked": "All 2 members read by hand: sūtra, our vṛtti, all paribhāṣā credits of the sūtra (1.1.70/71/72, vt.1, PIS 23), and the Kāśikā gloss of the qualifier; cross-checked against the verdicts of audit/1.1.72-audit.json for the same sūtras (agree everywhere except 5.4.92 and 5.4.105, where the earlier audit licensed 1.1.72 for a named word — which is not a sound, so vt.2 does not apply).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "4.2.44",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "NAMED_NOT_APPLIED",
+     "why": "the Nyāsa quotes vt.1 + vt.2 together to argue that a named word (क्षुद्रकमालवक, 4.2.45) gets NO tadanta in this suffix rule — it is vt.1 that is used; vt.2 is only quoted along with it. Nothing in 4.2.44 is a sound/ugit qualifier.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "42044",
+       "quote": "न हि सर्वस्तदन्तविधिर्भवतीति। तथा हि - <<येन विधिस्तदन्तस्य>> [[1.1.72]]  इत्यत्रोक्तम् -`समासप्रत्ययविधौ प्रतिषेधः`, `उगिद्वर्णग्रहणवर्जम्` (वा।12,13) इति। प्रत्ययविधिश्चायम्।"
+      }
+     ]
+    },
+    {
+     "n": "5.1.1",
+     "word": "named by बालमनोरमा",
+     "should_be": "none",
+     "reason": "NOT_THIS_SUTRA",
+     "why": "the Bālamanoramā applies vt.2 to 5.1.2 उगवादिभ्यो यत् (उवर्णान्त), which it glosses under the same heading; 5.1.1 प्राक् क्रीताच्छः is an adhikāra with no qualifier. 5.1.2 already has its own vt.2 credit.",
+     "quotes": [
+      {
+       "file": "balamanorama",
+       "id": "51001",
+       "quote": "उवर्णान्तादिति । प्रातिपदिकविशेषणत्वात्तदन्तविदिः ।उगिद्वर्णग्रहणवर्ज॑मित्युक्तेः प्रत्ययविधावपि तदन्तविधिरिति भावः ।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "Both commentator-named credits are filed under the wrong sūtra or quote vt.2 only alongside vt.1."
+  },
+  {
+   "id": "G3",
+   "group": "carried / not a sūtra word | vidhi | X",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members read by hand: sūtra, our vṛtti, all paribhāṣā credits of the sūtra (1.1.70/71/72, vt.1, PIS 23), and the Kāśikā gloss of the qualifier; cross-checked against the verdicts of audit/1.1.72-audit.json for the same sūtras (agree everywhere except 5.4.92 and 5.4.105, where the earlier audit licensed 1.1.72 for a named word — which is not a sound, so vt.2 does not apply).",
+   "licensed": [
+    "4.1.6"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "उगितश्च is the Bhāṣya's and the Kāśikā's own example for the ugit half."
+  }
+ ],
+ "missed": [
+  {
+   "n": "3.2.171",
+   "pid": "1.1.72 vt.2",
+   "why": "आदृगमहनजनः किकिनौ लिट् च — आकारान्त and ऋवर्णान्त dhātus (sound qualifiers in a suffix rule), like the licensed 3.1.136/3.3.57; no vt.2 credit (subject to the C3 caveat for dhātu rules).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "32171",
+     "quote": "आकारान्तेभ्य"
+    }
+   ]
+  },
+  {
+   "n": "4.1.20",
+   "pid": "1.1.72 vt.2",
+   "why": "वयसि प्रथमे — अतः carried from 4.1.4 qualifies the prātipadika (अदन्त) in a strī-suffix rule, exactly as at 4.1.4 (licensed); the engine credits 1.1.72 for it but not vt.2. Same at 4.1.21 द्विगोः.",
+   "quotes": []
+  },
+  {
+   "n": "5.4.153",
+   "pid": "1.1.72 vt.2",
+   "why": "नद्यृतश्च — ऋत् qualifies the bahuvrīhi (ऋकारान्तात्) in a samāsānta suffix rule, parallel to the licensed 5.4.158.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "54153",
+     "quote": "बहुव्रीहेर्ऋकारान्तात्"
+    }
+   ]
+  }
+ ],
+ "missed_note": "Scripted scan of 2.1–5.4 sūtras with no vt.2 credit for a Kāśikā \"-कारान्त/-वर्णान्त/-अन्त\" gloss or a 1.1.72 credit by a sound: 109 hits, almost all noise (निपात्यन्ते, सप्तम्यन्त, named-word tadanta). Real misses are few (the 3 above + 4.1.21). (Script: /tmp/aud/missvt2.js.)"
+}

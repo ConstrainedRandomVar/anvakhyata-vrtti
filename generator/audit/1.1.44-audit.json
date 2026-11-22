@@ -1,0 +1,2223 @@
+{
+ "pid": "1.1.44",
+ "method_note": "वा / अन्यतरस्याम् / विभाषा credits are judged on the Bālamanoramā/Tattvabodhinī reading (all option words fall under 1.1.44), which the Bhāṣya's own survey supports; on the strict Kāśikā/Nyāsa wording (saṃjñā = the word विभाषा only) every non-विभाषा credit would instead be 'licensed only by the word's ordinary meaning'. Each verdict then asks: is an option really in force in this sūtra?",
+ "totals": {
+  "firings": 633,
+  "licensed": 582,
+  "not_licensed": 43,
+  "unsure": 8,
+  "not_licensed_by_should_be": {
+   "none": 43
+  },
+  "groups": {
+   "licensed": 52,
+   "mixed": 10,
+   "not_licensed": 3,
+   "unsure": 0
+  }
+ },
+ "conditions": [
+  {
+   "text": "What the saṃjñā names: 'vibhāṣā' is a name for the two MEANINGS 'not' (pratiṣedha) and 'optionally' (vikalpa); the इति makes the meanings, not the words न/वा, the saṃjñin. So 1.1.44 itself is a definition — it applies wherever a rule is a vibhāṣā, not inside 1.1.44.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11044",
+     "quote": "नेति प्रतिषेधो वेति विकल्पः, तयोः प्रतिषेधविकल्पयोर्विभाषेति संज्ञा भवति। इतिकरणोऽर्थनिर्देशार्थः।"
+    },
+    {
+     "file": "nyaas",
+     "id": "11044",
+     "quote": "नवेति यावर्थौ प्रतीयेते प्रतिषेधविकल्पौ, तयोरेवेयं संज्ञा भवति; न नवाशब्द-योः।"
+    }
+   ]
+  },
+  {
+   "text": "How it operates: in a vibhāṣā rule both 'not' and 'optionally' are present; the 'not' first levels the domain, then the option operates. The tradition (Kāśikā, TB) says the saṃjñā is needed only for ubhayatra-vibhāṣā (both prāpta and aprāpta sub-domains); in a pure prāpta- or aprāpta-vibhāṣā the word's ordinary sense already suffices. The Bhāṣya classifies vibhāṣā rules as prāpte / aprāpte / ubhayatra.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11044",
+     "quote": "विभाषाप्रदेशेषु प्रतिषेधविकल्पावुपतिष्ठेते। तत्र प्रतिषेधेन समीकृते विषये पश्चाद् विकल्पः प्रवर्तते। उभयत्रविभाषाः प्रयोजयन्ति।"
+    },
+    {
+     "file": "tattvabodhini",
+     "id": "11044",
+     "quote": "उभयत्रविभाषार्थं चेदं सूत्रम् । प्राप्तविभाषायामप्राप्तविभाषायां च नास्योपयोगः ।"
+    },
+    {
+     "file": "bhashya",
+     "id": "11044",
+     "quote": "अप्राप्ते त्रिसंशयाः "
+    }
+   ]
+  },
+  {
+   "text": "Scope beyond the word विभाषा (view-dependent — the basis on which वा / अन्यतरस्याम् credits are accepted here): the Bhāṣya itself treats अन्यतरस्याम्- and वा-sūtras (हृक्रोरन्यतरस्याम्, अनुपसर्गाद्वा, उषविदजागृभ्योऽन्यतरस्याम्) in its prāpta/aprāpta/ubhayatra survey under 1.1.44 and says Pāṇini mostly conveys this sense with other words (बहुलम्, अन्यतरस्याम्, उभयथा, वा, एकेषाम्). Bālamanoramā makes it explicit: विभाषा in the sūtra stands for every option-word; Tattvabodhinī: making the MEANING the saṃjñin is what covers हृक्रोरन्यतरस्याम्.",
+   "quotes": [
+    {
+     "file": "bhashya",
+     "id": "11044",
+     "quote": "आचार्यः खल्वपि सञ्ज्ञामारभमाणो भूयिष्ठमन्यैरपि शब्दैरेतमर्थं सम्प्रत्याययति -  बहुलमन्यतरस्यामुभयथा वा एकेषामिति।"
+    },
+    {
+     "file": "bhashya",
+     "id": "11044",
+     "quote": "॥ हृक्रोरन्यतरस्याम् । प्राप्ते अप्राप्ते उभयत्र वेति सन्देहः।"
+    },
+    {
+     "file": "balamanorama",
+     "id": "11044",
+     "quote": "विभाषाशब्दस्याऽत्र सूत्रे विकल्पवाचकशब्दोपलक्षणत्वात्। एवं च लोके ये विकल्पपर्यायाः शब्दास्ते सर्वे अस्मिन् शास्त्रे निषेधविकल्पयोः प्रत्यायका इति सूत्रार्थपर्यवसानं बोध्यम्।"
+    },
+    {
+     "file": "tattvabodhini",
+     "id": "11044",
+     "quote": "संज्ञात्वमर्थस्यैव नतु विभाषाशब्दस्येति व्याख्यानस्यह्मक्रोरन्यतरस्या॑-मित्यादौ वैरूप्योद्धारः फलम् ।"
+    }
+   ]
+  },
+  {
+   "text": "Dissent to record (not used to reject credits, since it rejects the sūtra wholesale): Bhāṣya/Nāgeśa hold the option words work as in ordinary usage and the sūtra is rejected (pratyākhyāta); Padamañjarī: on the per-instance view, अन्यतरस्याम् / वा get the right result without the saṃjñā. Nāgeśa rejects TB's 'meaning is the saṃjñā' move.",
+   "quotes": [
+    {
+     "file": "balamanorama",
+     "id": "11044",
+     "quote": "भाष्ये तु विभाषादिशब्दानां लोकवद् एव केवलविकल्पपरत्वेऽपि लक्ष्यानुरोधेनैव क्वचिद् विधिमुखेन क्वचिन्निषेधमुखेन विकल्पस्य प्रवृत्युपपत्तेरेतत्सूत्रं प्रत्याख्यातम्"
+    },
+    {
+     "file": "padamanjari",
+     "id": "11044",
+     "quote": "तता च 'हृक्रोरन्यतरस्याम्' इत्यादावन्यतरस्यांग्रहणे वा ग्रहणे चोभयत्रविभाषास्विष्टसिद्धः ।"
+    },
+    {
+     "file": "laghushabdendushekhar",
+     "id": "11044",
+     "quote": "भाष्यकृतस्तु- एवं हि <<हृक्रोरन्यतरस्याम्>> [[1.4.53]] इत्यादावनुपपत्तिर्विभाषापदाभावात् ।"
+    }
+   ]
+  },
+  {
+   "text": "Ācārya names and बहुलम्: they count as option words only where the commentary says so (Kāśikā: उदीचाम्/प्राचाम्/अन्यतरस्याम्/बहुलम् are all vikalpārtha; the ācārya word may be merely honorific where an option is already carried) — but an ācārya/region word is NOT an option when it only restricts (Kāśikā 2.4.60). बहुलम् is wider than option (always/never/optional/otherwise).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "41160",
+     "quote": "उदीचां प्राचामन्यतरस्यां बहुलमिति सर्व एते विकल्पार्थास्तेषामेकेनैव सिध्यति। तत्राचार्यग्रहणं पूजार्थम्। बहुलग्रहणं वैचित्र्यार्थम्।"
+    },
+    {
+     "file": "kashika",
+     "id": "24060",
+     "quote": "गोत्रविशेषणं प्राग्ग्रहणम् ,न विकल्पार्थम्"
+    },
+    {
+     "file": "kashika",
+     "id": "21057",
+     "quote": "बहुलवचनं व्यवस्थार्थम्। क्वचिन्नित्यसमास एव।"
+    }
+   ]
+  },
+  {
+   "text": "Limit: a carried option word licenses the credit only where it is actually in force in that sūtra — the Kāśikā can say a rule is nitya inside a vibhāṣā adhikāra, or a new word (नित्यम्) / a prohibition / an obligatory placement rule overrides it. A vyavasthita-vibhāṣā is still a vibhāṣā.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "21021",
+     "quote": "विभाषाधिकारेऽपि नित्यसमास एवायम्। नहि वाक्येन संज्ञा गम्यते।"
+    },
+    {
+     "file": "kashika",
+     "id": "31143",
+     "quote": "व्यवस्थितविभाषा चेयम्।"
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | vidhi | X",
+   "count": 121,
+   "verdict": "mixed",
+   "how_checked": "All 121 members classified by the real option source from data.txt padaccheda/anuvṛtti (the engine's trigger 'विभाषा / अन्यतरस्याम्' is generic): 22+4 own वा, 34 own अन्यतरस्याम्, 34 own विभाषा accepted by script (own option word present; Kāśikā/SK/prathamāvṛtti checked for an option word, all flagged नित्य/निवृत्त hits read); all 25 बहुलम् / ācārya-name / no-option-word members read in full (Kāśikā, SK).",
+   "licensed": [
+    "3.1.7",
+    "3.1.34",
+    "3.1.38",
+    "3.1.41",
+    "3.1.70",
+    "3.1.75",
+    "3.1.90",
+    "3.1.113",
+    "3.1.120",
+    "3.1.139",
+    "3.1.143",
+    "3.2.81",
+    "3.2.114",
+    "3.2.121",
+    "3.3.5",
+    "3.3.50",
+    "3.3.62",
+    "3.3.110",
+    "3.3.138",
+    "3.3.141",
+    "3.3.143",
+    "3.3.155",
+    "3.3.160",
+    "3.4.3",
+    "3.4.18",
+    "3.4.19",
+    "3.4.24",
+    "3.4.96",
+    "4.1.8",
+    "4.1.13",
+    "4.1.17",
+    "4.1.24",
+    "4.1.28",
+    "4.1.34",
+    "4.1.43",
+    "4.1.44",
+    "4.1.81",
+    "4.1.91",
+    "4.1.103",
+    "4.1.118",
+    "4.1.127",
+    "4.1.131",
+    "4.1.140",
+    "4.1.148",
+    "4.1.157",
+    "4.1.159",
+    "4.1.160",
+    "4.2.19",
+    "4.2.23",
+    "4.2.48",
+    "4.2.83",
+    "4.2.105",
+    "4.2.118",
+    "4.2.130",
+    "4.2.144",
+    "4.3.1",
+    "4.3.13",
+    "4.3.24",
+    "4.3.30",
+    "4.3.36",
+    "4.3.37",
+    "4.3.46",
+    "4.3.64",
+    "4.3.81",
+    "4.3.99",
+    "4.3.128",
+    "4.3.141",
+    "4.3.143",
+    "4.3.158",
+    "4.3.165",
+    "4.4.17",
+    "4.4.45",
+    "4.4.54",
+    "4.4.56",
+    "4.4.68",
+    "4.4.113",
+    "5.1.4",
+    "5.1.26",
+    "5.1.29",
+    "5.1.35",
+    "5.1.53",
+    "5.1.60",
+    "5.1.86",
+    "5.1.122",
+    "5.2.4",
+    "5.2.96",
+    "5.2.109",
+    "5.2.122",
+    "5.2.136",
+    "5.3.13",
+    "5.3.21",
+    "5.3.35",
+    "5.3.68",
+    "5.3.78",
+    "5.3.80",
+    "5.3.93",
+    "5.3.94",
+    "5.3.109",
+    "5.4.8",
+    "5.4.10",
+    "5.4.20",
+    "5.4.42",
+    "5.4.52",
+    "5.4.56",
+    "5.4.72",
+    "5.4.101",
+    "5.4.105",
+    "5.4.109",
+    "5.4.112",
+    "5.4.121",
+    "5.4.130",
+    "5.4.133",
+    "5.4.154"
+   ],
+   "not_licensed": [
+    {
+     "n": "4.1.124",
+     "word": "विभाषा / अन्यतरस्याम्",
+     "should_be": "none",
+     "reason": "no option word in force",
+     "why": "काश्यपे is a semantic condition (the descendant must be a Kāśyapa), not an ācārya's view; the engine apparently read काश्यप as the ācārya name.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41124",
+       "quote": "विकर्णशब्दात् कुषीतकशब्दात् च काश्यपेऽपत्यविशेषे ढक्  प्रत्ययो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "4.1.130",
+     "word": "विभाषा / अन्यतरस्याम्",
+     "should_be": "none",
+     "reason": "ācārya word is honorific; alternation comes from vacana-sāmarthya, not an option word",
+     "why": "Kāśikā: the ācārya word is for respect; the coexistence with the general suffix follows from the rule being stated at all.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41130",
+       "quote": "आचार्यग्रहणं पूजार्थम्, वचनसामर्थ्यादेव पूर्वेण समावेशो भविष्यति।"
+      }
+     ]
+    },
+    {
+     "n": "4.1.153",
+     "word": "विभाषा / अन्यतरस्याम्",
+     "should_be": "none",
+     "reason": "ācārya word is for variety; alternation comes from vacana-sāmarthya, not an option word",
+     "why": "Same as 4.1.130.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "41153",
+       "quote": "वचनसामर्थ्यादेव प्रत्ययसमावेशे लब्ध आचार्यग्रहणं वैचित्र्यार्थम्।"
+      }
+     ]
+    },
+    {
+     "n": "4.2.145",
+     "word": "विभाषा / अन्यतरस्याम्",
+     "should_be": "none",
+     "reason": "no option word in force",
+     "why": "भारद्वाज here names a region (Kāśikā), not the ācārya Bhāradvāja; the rule is not optional.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "42145",
+       "quote": "भारद्वाजशब्दोऽपि देशवचन एव, न गोत्रशब्दः। प्रकृतिविशेषणं चैतत्, न प्रत्ययार्थः।"
+      }
+     ]
+    },
+    {
+     "n": "4.3.103",
+     "word": "विभाषा / अन्यतरस्याम्",
+     "should_be": "none",
+     "reason": "no option word in force",
+     "why": "काश्यप/कौशिक are the bases (sages who taught), not an ācārya's opinion; nothing is optional.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "43103",
+       "quote": "काश्यपकौशिकशब्दाभ्यामृषिवाचिभ्यां णिनिः प्रत्ययो भवति तेन प्रोक्तमित्येतस्मिन् विषये।"
+      }
+     ]
+    }
+   ],
+   "unsure": [
+    {
+     "n": "3.2.88",
+     "word": "विभाषा / अन्यतरस्याम्",
+     "why": "बहुलम् here mainly extends the rule to other upapadas ('उपपदान्तरेष्वपि') and also shows non-application; 'optional' captures only part. Bhāṣya on 1.1.44 lists बहुलम् among option words, so not clearly wrong."
+    },
+    {
+     "n": "3.3.1",
+     "word": "विभाषा / अन्यतरस्याम्",
+     "why": "उणादयो बहुलम्: Kāśikā gives 'यतो विहितास्ततोऽन्यत्रापि भवन्ति' (extension, not option), but Bālamanoramā on 1.1.44 explicitly names उणादयो बहुलम् as an option-rule its reading covers — sources disagree."
+    },
+    {
+     "n": "3.3.108",
+     "word": "विभाषा / अन्यतरस्याम्",
+     "why": "Kāśikā: बहुलग्रहणं व्यभिचारार्थम् (and gives a non-application example) — partly option-like; the fourfold बहुलम् is wider than vibhāṣā."
+    }
+   ],
+   "note": "Engine trigger is the generic 'विभाषा / अन्यतरस्याम्' even where the real source is own वा, बहुलम्, प्राचाम्/उदीचाम्/सेनकस्य, or a carried वा (5.3.80, 5.3.94, 5.4.112: Kāśikā says the ācārya word is honorific and 'वेत्येव हि वर्तते' / 'विकल्पोऽनुवर्तत एव' — credit right, trigger wrong). वा/अन्यतरस्याम् credits rest on the BM/TB reading (conditions[2])."
+  },
+  {
+   "id": "G2",
+   "group": "carried / not a sūtra word | samāsa | X (carried)",
+   "count": 94,
+   "verdict": "mixed",
+   "how_checked": "All 94 read: Kāśikā of each checked for an option and for 'नित्य' / prohibition; SK where Kāśikā silent.",
+   "licensed": [
+    "2.1.12",
+    "2.1.13",
+    "2.1.14",
+    "2.1.15",
+    "2.1.16",
+    "2.1.18",
+    "2.1.19",
+    "2.1.20",
+    "2.1.24",
+    "2.1.25",
+    "2.1.27",
+    "2.1.28",
+    "2.1.29",
+    "2.1.30",
+    "2.1.31",
+    "2.1.32",
+    "2.1.33",
+    "2.1.34",
+    "2.1.35",
+    "2.1.36",
+    "2.1.37",
+    "2.1.38",
+    "2.1.39",
+    "2.1.40",
+    "2.1.41",
+    "2.1.42",
+    "2.1.43",
+    "2.1.45",
+    "2.1.46",
+    "2.1.47",
+    "2.1.49",
+    "2.1.51",
+    "2.1.53",
+    "2.1.54",
+    "2.1.55",
+    "2.1.56",
+    "2.1.57",
+    "2.1.58",
+    "2.1.59",
+    "2.1.60",
+    "2.1.61",
+    "2.1.62",
+    "2.1.63",
+    "2.1.64",
+    "2.1.65",
+    "2.1.66",
+    "2.1.67",
+    "2.1.68",
+    "2.1.69",
+    "2.1.70",
+    "2.1.71",
+    "2.2.1",
+    "2.2.2",
+    "2.2.3",
+    "2.2.4",
+    "2.2.5",
+    "2.2.6",
+    "2.2.7",
+    "2.2.8",
+    "2.2.9",
+    "2.2.11",
+    "2.2.21",
+    "2.2.22",
+    "2.2.24",
+    "2.2.25",
+    "2.2.26",
+    "2.2.28",
+    "2.2.37",
+    "2.2.38"
+   ],
+   "not_licensed": [
+    {
+     "n": "2.1.21",
+     "word": "विभाषा",
+     "should_be": "none",
+     "reason": "carried विभाषा not in force: Kāśikā says the compound is obligatory",
+     "why": "A name is not conveyed by a phrase, so the compound is nitya.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "21021",
+       "quote": "विभाषाधिकारेऽपि नित्यसमास एवायम्। नहि वाक्येन संज्ञा गम्यते।"
+      }
+     ]
+    },
+    {
+     "n": "2.1.26",
+     "word": "विभाषा",
+     "should_be": "none",
+     "reason": "carried विभाषा not in force: Kāśikā says the compound is obligatory",
+     "why": "Censure is conveyed only by the compound.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "21026",
+       "quote": "तेन विभाषाधिकारेऽपि नित्यसमास एवायम्, नहि वाक्येन क्षेपो गम्यते।"
+      }
+     ]
+    },
+    {
+     "n": "2.1.44",
+     "word": "विभाषा",
+     "should_be": "none",
+     "reason": "carried विभाषा not in force: Kāśikā says the compound is obligatory",
+     "why": "A name is not conveyed by a phrase.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "21044",
+       "quote": "तेन नित्यसमास एवायम्, नहि वाक्येन संज्ञा गम्यते।"
+      }
+     ]
+    },
+    {
+     "n": "2.1.52",
+     "word": "विभाषा",
+     "should_be": "none",
+     "reason": "saṃjñā definition, nothing optional",
+     "why": "Names the samāsa of 2.1.51 'dvigu'; the engine's own gloss has no option.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "21052",
+       "quote": "तद्धितार्थोत्तरपदसमाहारे चेत्यत्र यः संख्यापूर्वः समासः स द्विगुसंज्ञो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "2.2.10",
+     "word": "विभाषा",
+     "should_be": "none",
+     "reason": "prohibition: the compound is simply barred, no option",
+     "why": "A pratiṣedha of the optional ṣaṣṭhī-samāsa is absolute; the engine's own gloss renders no option.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "22010",
+       "quote": "निर्धारणे या षष्ठी सा न समस्यते।"
+      }
+     ]
+    },
+    {
+     "n": "2.2.12",
+     "word": "विभाषा",
+     "should_be": "none",
+     "reason": "prohibition: the compound is simply barred, no option",
+     "why": "A pratiṣedha of the optional ṣaṣṭhī-samāsa is absolute; the engine's own gloss renders no option.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "22012",
+       "quote": "क्तो यः पूजायां विहितस्तेन षष्ठी न समस्यते।"
+      }
+     ]
+    },
+    {
+     "n": "2.2.13",
+     "word": "विभाषा",
+     "should_be": "none",
+     "reason": "prohibition: the compound is simply barred, no option",
+     "why": "A pratiṣedha of the optional ṣaṣṭhī-samāsa is absolute; the engine's own gloss renders no option.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "22013",
+       "quote": "अधिकरणवाचिना क्तेन षष्ठी न समस्यते।"
+      }
+     ]
+    },
+    {
+     "n": "2.2.14",
+     "word": "विभाषा",
+     "should_be": "none",
+     "reason": "prohibition: the compound is simply barred, no option",
+     "why": "A pratiṣedha of the optional ṣaṣṭhī-samāsa is absolute; the engine's own gloss renders no option.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "22014",
+       "quote": "कर्मणि च या षष्ठी सा न समस्यते।"
+      }
+     ]
+    },
+    {
+     "n": "2.2.15",
+     "word": "विभाषा",
+     "should_be": "none",
+     "reason": "prohibition: the compound is simply barred, no option",
+     "why": "A pratiṣedha of the optional ṣaṣṭhī-samāsa is absolute; the engine's own gloss renders no option.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "22015",
+       "quote": "कर्तरि या षष्ठी सा तृचाकेन च सह न समस्यते।"
+      }
+     ]
+    },
+    {
+     "n": "2.2.16",
+     "word": "विभाषा",
+     "should_be": "none",
+     "reason": "prohibition: the compound is simply barred, no option",
+     "why": "A pratiṣedha of the optional ṣaṣṭhī-samāsa is absolute; the engine's own gloss renders no option.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "22016",
+       "quote": "कर्तरि च यौ तृजकौ ताभ्यां सह षष्ठी न समस्यते।"
+      }
+     ]
+    },
+    {
+     "n": "2.2.17",
+     "word": "विभाषा",
+     "should_be": "none",
+     "reason": "own word नित्यम् overrides the carried विभाषा",
+     "why": "Kāśikā: the compound is obligatory.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "22017",
+       "quote": "नेति निवृत्तम्, न तृजकौ। नित्यं समासो विधीयते।"
+      }
+     ]
+    },
+    {
+     "n": "2.2.18",
+     "word": "विभाषा",
+     "should_be": "none",
+     "reason": "नित्यम् carried from 2.2.17 overrides विभाषा",
+     "why": "Kāśikā: compounded obligatorily.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "22018",
+       "quote": "कुगतिप्रादयः समर्थेन शब्दान्तरेण सह नित्यं समस्यन्ते"
+      }
+     ]
+    },
+    {
+     "n": "2.2.19",
+     "word": "विभाषा",
+     "should_be": "none",
+     "reason": "नित्यम् carried from 2.2.17 overrides विभाषा",
+     "why": "Kāśikā: compounded obligatorily.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "22019",
+       "quote": "उपपदमतिङन्तं समर्थेन शब्दान्तरेण सह समस्यते नित्यम्"
+      }
+     ]
+    },
+    {
+     "n": "2.2.20",
+     "word": "विभाषा",
+     "should_be": "none",
+     "reason": "restriction (niyama) on the nitya upapada compound, no option",
+     "why": "Kāśikā: a niyama rule.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "22020",
+       "quote": "पूर्वेणैव समासे सिद्धे नियमार्थं वचनम्।"
+      }
+     ]
+    },
+    {
+     "n": "2.2.30",
+     "word": "विभाषा",
+     "should_be": "none",
+     "reason": "word-order rule, obligatory — the samāsa विभाषा does not make the placement optional",
+     "why": "These rules fix which member comes first; Kāśikā states the order as obligatory (2.2.38 is the one that is optional, by its own carried वा).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "22030",
+       "quote": "उपसर्जनसंज्ञकं समासे पूर्वं प्रयोक्तव्यम्। पूर्ववचनं परप्रयोगनिवृत्त्यर्थम्।"
+      }
+     ]
+    },
+    {
+     "n": "2.2.32",
+     "word": "विभाषा",
+     "should_be": "none",
+     "reason": "word-order rule, obligatory — the samāsa विभाषा does not make the placement optional",
+     "why": "These rules fix which member comes first; Kāśikā states the order as obligatory (2.2.38 is the one that is optional, by its own carried वा).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "22032",
+       "quote": "द्वन्द्वे समासे घ्यन्तं पूर्वं प्रयोक्तव्यम्।"
+      }
+     ]
+    },
+    {
+     "n": "2.2.33",
+     "word": "विभाषा",
+     "should_be": "none",
+     "reason": "word-order rule, obligatory — the samāsa विभाषा does not make the placement optional",
+     "why": "These rules fix which member comes first; Kāśikā states the order as obligatory (2.2.38 is the one that is optional, by its own carried वा).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "22033",
+       "quote": "अजाद्यदन्तं शब्दरूपं द्वन्द्वे समासे पूर्वं प्रयोक्तव्यम्।"
+      }
+     ]
+    },
+    {
+     "n": "2.2.34",
+     "word": "विभाषा",
+     "should_be": "none",
+     "reason": "word-order rule, obligatory — the samāsa विभाषा does not make the placement optional",
+     "why": "These rules fix which member comes first; Kāśikā states the order as obligatory (2.2.38 is the one that is optional, by its own carried वा).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "22034",
+       "quote": "अल्पाच्तरं शब्दरूपं द्वन्द्वे समासे पूर्वं प्रयोक्तव्यम्।"
+      }
+     ]
+    },
+    {
+     "n": "2.2.35",
+     "word": "विभाषा",
+     "should_be": "none",
+     "reason": "word-order rule, obligatory — the samāsa विभाषा does not make the placement optional",
+     "why": "These rules fix which member comes first; Kāśikā states the order as obligatory (2.2.38 is the one that is optional, by its own carried वा).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "22035",
+       "quote": "सर्वोपसर्जनत्वाद् बहुव्रीहेरनियमे प्राप्ते नियमार्थं वचनम्।"
+      }
+     ]
+    },
+    {
+     "n": "2.2.36",
+     "word": "विभाषा",
+     "should_be": "none",
+     "reason": "word-order rule, obligatory — the samāsa विभाषा does not make the placement optional",
+     "why": "These rules fix which member comes first; Kāśikā states the order as obligatory (2.2.38 is the one that is optional, by its own carried वा).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "22036",
+       "quote": "निष्ठान्तं च बहुव्रीहिसमासे पूर्वं प्रयोक्तव्यम्।"
+      }
+     ]
+    }
+   ],
+   "unsure": [
+    {
+     "n": "2.1.17",
+     "word": "विभाषा",
+     "why": "nipātana of fixed compounds (तिष्ठद्गु etc.); Kāśikā neither confirms nor denies the option; many of these have no phrase equivalent."
+    },
+    {
+     "n": "2.1.48",
+     "word": "विभाषा",
+     "why": "nipātana of fixed compounds expressing censure (like 2.1.26, which Kāśikā calls nitya), but Kāśikā does not say so here."
+    },
+    {
+     "n": "2.1.50",
+     "word": "विभाषा",
+     "why": "संज्ञायाम् — the same reasoning that makes 2.1.21/2.1.44 nitya ('नहि वाक्येन संज्ञा गम्यते') would apply, but Kāśikā/SK 2.1.50 do not say it."
+    },
+    {
+     "n": "2.1.72",
+     "word": "विभाषा",
+     "why": "nipātana of fixed compounds (मयूरव्यंसक etc.); no statement on option."
+    },
+    {
+     "n": "2.2.27",
+     "word": "विभाषा",
+     "why": "केशाकेशि-type compounds whose sense (a fight) the phrase may not convey; no source states nitya or option."
+    }
+   ],
+   "note": "The vibhāṣā adhikāra (2.1.11) is carried by the engine through 2.2.38, into prohibitions (2.2.10–16), nitya rules (2.2.17–19) and the word-order rules (2.2.30–36). Its range is not stated in Kāśikā/SK, but these members are excluded by their own content. 2.1.32/2.1.57 बहुलम् accepted: the adhikāra's विभाषा is in force and Kāśikā 2.1.57 includes 'क्वचिद् विकल्पः'."
+  },
+  {
+   "id": "G3",
+   "group": "carried / not a sūtra word | vidhi | X (carried)",
+   "count": 58,
+   "verdict": "mixed",
+   "how_checked": "All 58 members: scripted check that the carried option word (data.txt anuvṛtti) is in force — Kāśikā/SK/prathamāvṛtti restate the option or give paired forms; every member with no option word in Kāśikā, or a 'नित्य'/'निवृत्त' hit, read in full.",
+   "licensed": [
+    "3.1.8",
+    "3.1.9",
+    "3.1.10",
+    "3.1.11",
+    "3.1.13",
+    "3.1.14",
+    "3.1.15",
+    "3.1.16",
+    "3.1.17",
+    "3.1.18",
+    "3.1.19",
+    "3.1.20",
+    "3.1.21",
+    "3.1.22",
+    "3.1.39",
+    "3.1.71",
+    "3.1.72",
+    "3.1.76",
+    "3.1.140",
+    "3.2.108",
+    "3.2.122",
+    "3.3.6",
+    "3.3.7",
+    "3.3.8",
+    "3.3.9",
+    "3.3.51",
+    "3.3.52",
+    "3.3.53",
+    "3.3.54",
+    "3.3.55",
+    "3.3.63",
+    "3.3.64",
+    "3.3.65",
+    "3.3.132",
+    "3.3.156",
+    "4.1.45",
+    "4.1.54",
+    "4.1.55",
+    "4.1.141",
+    "4.1.142",
+    "4.3.14",
+    "4.3.15",
+    "4.3.166",
+    "5.1.30",
+    "5.1.31",
+    "5.1.87",
+    "5.1.88",
+    "5.2.97",
+    "5.2.99",
+    "5.4.43",
+    "5.4.44",
+    "5.4.45",
+    "5.4.46",
+    "5.4.47",
+    "5.4.48",
+    "5.4.49",
+    "5.4.53"
+   ],
+   "not_licensed": [
+    {
+     "n": "5.2.98",
+     "word": "अन्यतरस्याम्",
+     "should_be": "none",
+     "reason": "carried अन्यतरस्याम् not in force",
+     "why": "Kāśikā: only लच् is possible here (the sense cannot be expressed by मतुप्).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52098",
+       "quote": "न चायमर्थो मतुपि संभवतीति नित्यं लजेव भवति"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "3.1.12–3.1.22 (denominatives, yaṅ): Kāśikā restates वा only to 3.1.11 (and 3.1.19), but the anuvṛtti data carries 3.1.7's वा, whose purpose is 'वावचनाद् वाक्यमपि भवति' (Kāśikā 3.1.7) — accepted."
+  },
+  {
+   "id": "G4",
+   "group": "carried / not a sūtra word | ādeśa | X (carried)",
+   "count": 37,
+   "verdict": "mixed",
+   "how_checked": "All 37 members: scripted check that the carried option word (data.txt anuvṛtti) is in force — Kāśikā/SK/prathamāvṛtti restate the option or give paired forms; every member with no option word in Kāśikā, or a 'नित्य'/'निवृत्त' hit, read in full.",
+   "licensed": [
+    "1.2.59",
+    "1.2.60",
+    "2.4.41",
+    "2.4.51",
+    "3.1.50",
+    "3.1.58",
+    "3.1.62",
+    "3.1.63",
+    "3.2.107",
+    "3.4.97",
+    "4.1.39",
+    "5.3.45",
+    "5.4.145",
+    "6.1.52",
+    "6.1.53",
+    "6.1.54",
+    "6.1.55",
+    "6.1.56",
+    "6.1.123",
+    "6.3.60",
+    "6.3.107",
+    "6.3.108",
+    "6.4.116",
+    "6.4.117",
+    "6.4.125",
+    "7.1.36",
+    "7.3.95",
+    "7.4.7",
+    "8.2.22",
+    "8.2.75",
+    "8.3.27",
+    "8.3.28",
+    "8.3.43",
+    "8.3.44",
+    "8.4.57",
+    "8.4.63"
+   ],
+   "not_licensed": [
+    {
+     "n": "7.1.37",
+     "word": "अन्यतरस्याम्",
+     "should_be": "none",
+     "reason": "carried अन्यतरस्याम् not in force — ल्यप् is obligatory",
+     "why": "Kāśikā gives no optional form (कृत्वा only outside a compound).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "71037",
+       "quote": "समासेऽनञ्पूर्वे क्त्वा इत्येतस्य ल्यबित्ययमादेशो भवति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "7.1.36: Kāśikā reports the carried अन्यतरस्याम् as a 'केचित्' view; SK has 'वा स्यात्' — accepted."
+  },
+  {
+   "id": "G5",
+   "group": "own word, data case 0 | ādeśa | X",
+   "count": 30,
+   "verdict": "licensed",
+   "how_checked": "All 30 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "2.4.55",
+    "2.4.57",
+    "3.1.57",
+    "3.3.14",
+    "3.4.2",
+    "3.4.83",
+    "3.4.88",
+    "5.2.43",
+    "6.3.51",
+    "6.3.56",
+    "6.3.82",
+    "6.4.68",
+    "6.4.91",
+    "6.4.124",
+    "7.1.16",
+    "7.3.94",
+    "7.4.6",
+    "7.4.81",
+    "8.2.33",
+    "8.2.63",
+    "8.2.74",
+    "8.3.2",
+    "8.3.26",
+    "8.3.33",
+    "8.3.36",
+    "8.3.49",
+    "8.3.54",
+    "8.4.45",
+    "8.4.56",
+    "8.4.59"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G6",
+   "group": "carried / not a sūtra word | svara | X (carried)",
+   "count": 28,
+   "verdict": "mixed",
+   "how_checked": "All 28 members: scripted check that the carried option word (data.txt anuvṛtti) is in force — Kāśikā/SK/prathamāvṛtti restate the option or give paired forms; every member with no option word in Kāśikā, or a 'नित्य'/'निवृत्त' hit, read in full.",
+   "licensed": [
+    "6.1.178",
+    "6.1.188",
+    "6.1.195",
+    "6.1.209",
+    "6.1.216",
+    "6.2.31",
+    "6.2.55",
+    "6.2.56",
+    "6.2.57",
+    "6.2.58",
+    "6.2.59",
+    "6.2.60",
+    "6.2.61",
+    "6.2.62",
+    "6.2.63",
+    "6.2.68",
+    "6.2.197",
+    "6.2.198",
+    "8.1.64",
+    "8.1.65",
+    "8.2.94"
+   ],
+   "not_licensed": [
+    {
+     "n": "5.2.44",
+     "word": "वा",
+     "should_be": "none",
+     "reason": "own word नित्यम् overrides the carried वा",
+     "why": "",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52044",
+       "quote": "उभशब्दात् परस्य तयपो नित्यमयजादेशो भवति, स चोदात्तः।"
+      }
+     ]
+    },
+    {
+     "n": "6.1.179",
+     "word": "अन्यतरस्याम्",
+     "should_be": "none",
+     "reason": "carried अन्यतरस्याम् (6.1.177) not in force",
+     "why": "Kāśikā and SK state the accent without any option and give single forms only.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61179",
+       "quote": "षट्संज्ञकेभ्यस्त्रि चतुर् इत्येताभ्यां च परा हलादिर्विभक्तिरुदात्ता भवति।"
+      }
+     ]
+    },
+    {
+     "n": "6.1.180",
+     "word": "अन्यतरस्याम्",
+     "should_be": "none",
+     "reason": "carried अन्यतरस्याम् (6.1.177) not in force",
+     "why": "Kāśikā and SK state the accent without any option and give single forms only.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61180",
+       "quote": "षट्त्रिचतुर्भ्यो या झलादिर्विभक्तिस्तदन्ते पद उपोत्तममुदात्तं भवति।"
+      }
+     ]
+    },
+    {
+     "n": "6.1.182",
+     "word": "अन्यतरस्याम्",
+     "should_be": "none",
+     "reason": "prohibition; carried अन्यतरस्याम् not in force",
+     "why": "The rule cancels the accents taught before it; a prohibition is not optional.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61182",
+       "quote": "इत्येतेभ्यो यदुक्तं  तद् न भवति।"
+      }
+     ]
+    },
+    {
+     "n": "6.1.183",
+     "word": "अन्यतरस्याम्",
+     "should_be": "none",
+     "reason": "prohibition of an (elsewhere optional) accent; the prohibition itself is not optional",
+     "why": "Kāśikā: it blocks the optional accent of 6.1.171 — the option belongs to 6.1.171, not to this rule.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61183",
+       "quote": "इति वा प्राप्तिः प्रतिषिध्यते।"
+      }
+     ]
+    },
+    {
+     "n": "6.1.185",
+     "word": "अन्यतरस्याम्",
+     "should_be": "none",
+     "reason": "carried अन्यतरस्याम् (6.1.177) not in force",
+     "why": "Kāśikā and SK state the accent without any option and give single forms only.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61185",
+       "quote": "तित् स्वरितं भवति।"
+      }
+     ]
+    },
+    {
+     "n": "6.1.186",
+     "word": "अन्यतरस्याम्",
+     "should_be": "none",
+     "reason": "carried अन्यतरस्याम् (6.1.177) not in force",
+     "why": "Kāśikā and SK state the accent without any option and give single forms only.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61186",
+       "quote": "शब्दात् परं लसार्वधातुकमनुदात्तं भवति"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "6.1.177's अन्यतरस्याम् is carried by the data into 6.1.179–186, but Kāśikā shows it in force only where it restates it."
+  },
+  {
+   "id": "G7",
+   "group": "own word, data case 7 | ādeśa | X",
+   "count": 24,
+   "verdict": "licensed",
+   "how_checked": "All 24 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "1.2.58",
+    "2.4.40",
+    "2.4.44",
+    "3.1.54",
+    "3.1.61",
+    "5.3.6",
+    "5.3.44",
+    "5.3.64",
+    "6.1.59",
+    "6.3.59",
+    "6.3.77",
+    "6.3.110",
+    "6.4.70",
+    "6.4.115",
+    "7.1.35",
+    "7.2.101",
+    "7.3.9",
+    "7.3.39",
+    "7.3.43",
+    "7.4.41",
+    "8.2.54",
+    "8.2.56",
+    "8.3.42",
+    "8.4.62"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G8",
+   "group": "own word, data case 1 | ādeśa | X",
+   "count": 18,
+   "verdict": "licensed",
+   "how_checked": "All 18 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "2.4.25",
+    "2.4.50",
+    "3.1.49",
+    "3.2.106",
+    "5.4.144",
+    "6.1.51",
+    "6.1.122",
+    "6.3.49",
+    "6.3.72",
+    "6.3.88",
+    "6.3.106",
+    "6.4.57",
+    "6.4.162",
+    "7.1.97",
+    "7.3.58",
+    "7.4.44",
+    "7.4.96",
+    "8.2.21"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G9",
+   "group": "carried / not a sūtra word | operation | X (carried)",
+   "count": 18,
+   "verdict": "licensed",
+   "how_checked": "All 18 members: scripted check that the carried option word (data.txt anuvṛtti) is in force — Kāśikā/SK/prathamāvṛtti restate the option or give paired forms; every member with no option word in Kāśikā, or a 'नित्य'/'निवृत्त' hit, read in full.",
+   "licensed": [
+    "2.4.79",
+    "3.1.12",
+    "3.4.98",
+    "6.1.28",
+    "6.1.31",
+    "6.3.17",
+    "6.3.18",
+    "6.3.45",
+    "6.3.61",
+    "6.4.18",
+    "6.4.44",
+    "7.2.7",
+    "7.3.27",
+    "7.3.28",
+    "7.3.29",
+    "7.3.30",
+    "8.4.64",
+    "8.4.65"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G10",
+   "group": "carried / not a sūtra word | āgama | X (carried)",
+   "count": 17,
+   "verdict": "mixed",
+   "how_checked": "All 17 members: scripted check that the carried option word (data.txt anuvṛtti) is in force — Kāśikā/SK/prathamāvṛtti restate the option or give paired forms; every member with no option word in Kāśikā, or a 'नित्य'/'निवृत्त' hit, read in full.",
+   "licensed": [
+    "7.1.80",
+    "7.2.28",
+    "7.2.29",
+    "7.2.42",
+    "7.2.43",
+    "7.2.45",
+    "7.2.46",
+    "7.2.48",
+    "7.2.49",
+    "7.2.50",
+    "7.2.51",
+    "7.2.57",
+    "8.3.29",
+    "8.3.30",
+    "8.3.31",
+    "8.4.11"
+   ],
+   "not_licensed": [
+    {
+     "n": "7.2.47",
+     "word": "वा",
+     "should_be": "none",
+     "reason": "carried वा not in force — the इट् is obligatory",
+     "why": "Kāśikā: इड्ग्रहणं नित्यार्थम्.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "72047",
+       "quote": "इड्ग्रहणं नित्यार्थम्।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G11",
+   "group": "own word, data case 1 | operation | X",
+   "count": 15,
+   "verdict": "licensed",
+   "how_checked": "All 15 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "5.4.149",
+    "6.1.26",
+    "6.1.30",
+    "6.1.44",
+    "6.3.13",
+    "6.3.16",
+    "6.3.24",
+    "6.4.17",
+    "6.4.32",
+    "6.4.43",
+    "6.4.50",
+    "6.4.136",
+    "7.2.6",
+    "7.3.90",
+    "7.3.115"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G12",
+   "group": "own word, data case 1 | svara | X",
+   "count": 13,
+   "verdict": "licensed",
+   "how_checked": "All 13 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "1.2.36",
+    "6.1.181",
+    "6.1.208",
+    "6.1.215",
+    "6.2.161",
+    "6.2.164",
+    "6.2.196",
+    "8.1.26",
+    "8.1.41",
+    "8.1.45",
+    "8.1.50",
+    "8.1.63",
+    "8.2.93"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G13",
+   "group": "own word, data case 7 | svara | X",
+   "count": 12,
+   "verdict": "licensed",
+   "how_checked": "All 12 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "6.1.169",
+    "6.1.177",
+    "6.1.184",
+    "6.1.187",
+    "6.1.194",
+    "6.1.218",
+    "6.2.28",
+    "6.2.30",
+    "6.2.54",
+    "6.2.67",
+    "6.2.110",
+    "6.2.169"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G14",
+   "group": "own word, data case 7 | operation | X",
+   "count": 11,
+   "verdict": "licensed",
+   "how_checked": "All 11 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "2.4.69",
+    "6.1.39",
+    "6.3.22",
+    "6.3.44",
+    "6.4.45",
+    "6.4.47",
+    "6.4.93",
+    "6.4.107",
+    "7.4.3",
+    "7.4.15",
+    "8.1.13"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G15",
+   "group": "carried / not a sūtra word | saṃjñā | X (carried)",
+   "count": 9,
+   "verdict": "licensed",
+   "how_checked": "All 9 members: scripted check that the carried option word (data.txt anuvṛtti) is in force — Kāśikā/SK/prathamāvṛtti restate the option or give paired forms; every member with no option word in Kāśikā, or a 'नित्य'/'निवृत्त' hit, read in full.",
+   "licensed": [
+    "1.1.33",
+    "1.1.34",
+    "1.1.35",
+    "1.1.36",
+    "1.4.6",
+    "1.4.73",
+    "1.4.74",
+    "1.4.75",
+    "1.4.76"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G16",
+   "group": "own word, data case 0 | operation | X",
+   "count": 9,
+   "verdict": "licensed",
+   "how_checked": "All 9 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "6.4.9",
+    "6.4.38",
+    "6.4.61",
+    "7.2.38",
+    "7.3.26",
+    "7.3.70",
+    "7.3.73",
+    "7.4.12",
+    "7.4.57"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G17",
+   "group": "own word, data case 0 | āgama | X",
+   "count": 7,
+   "verdict": "licensed",
+   "how_checked": "All 7 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "5.1.23",
+    "6.1.76",
+    "6.4.80",
+    "7.1.79",
+    "7.2.41",
+    "7.2.44",
+    "7.2.56"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G18",
+   "group": "own word, data case 1 | āgama | X",
+   "count": 7,
+   "verdict": "licensed",
+   "how_checked": "All 7 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "6.3.100",
+    "7.1.7",
+    "7.1.69",
+    "7.2.15",
+    "7.2.17",
+    "7.2.65",
+    "7.2.68"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G19",
+   "group": "own word, data case 0 | svara | X",
+   "count": 6,
+   "verdict": "licensed",
+   "how_checked": "All 6 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "1.2.35",
+    "4.1.53",
+    "6.1.196",
+    "6.2.20",
+    "6.2.171",
+    "8.2.6"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G20",
+   "group": "carried / not a sūtra word | ṣatva | X (carried)",
+   "count": 6,
+   "verdict": "mixed",
+   "how_checked": "All 6 members: scripted check that the carried option word (data.txt anuvṛtti) is in force — Kāśikā/SK/prathamāvṛtti restate the option or give paired forms; every member with no option word in Kāśikā, or a 'नित्य'/'निवृत्त' hit, read in full.",
+   "licensed": [
+    "8.3.72",
+    "8.3.73",
+    "8.3.74",
+    "8.3.76",
+    "8.3.86"
+   ],
+   "not_licensed": [
+    {
+     "n": "8.3.75",
+     "word": "वा",
+     "should_be": "none",
+     "reason": "carried वा not in force: a nipātana fixed for one region",
+     "why": "In the eastern Bharata usage only परिस्कन्दः; elsewhere both forms come from 8.3.74's option (SK), not from this rule.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "83075",
+       "quote": "परिस्कन्द इति मूर्धन्याभावो निपात्यते प्राच्यभरतेषु प्रयोगविषयेषु।"
+      },
+      {
+       "file": "kaumudi",
+       "id": "83075",
+       "quote": "परेश्च <{SK2399}> इति विकल्पः ।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G21",
+   "group": "own word, data case 0 | atideśa | X",
+   "count": 5,
+   "verdict": "licensed",
+   "how_checked": "All 5 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "1.2.13",
+    "1.2.23",
+    "3.3.131",
+    "6.4.62",
+    "7.1.91"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G22",
+   "group": "own word, data case 1 | vibhakti | X",
+   "count": 5,
+   "verdict": "licensed",
+   "how_checked": "All 5 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "2.3.17",
+    "2.3.25",
+    "2.3.59",
+    "5.3.29",
+    "5.3.41"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G23",
+   "group": "own word, data case 0 | nipātana | X",
+   "count": 5,
+   "verdict": "mixed",
+   "how_checked": "All 5 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "3.1.31",
+    "3.4.68",
+    "6.1.150",
+    "7.2.27"
+   ],
+   "not_licensed": [
+    {
+     "n": "5.2.93",
+     "word": "वा",
+     "should_be": "none",
+     "reason": "वा here means 'or' between alternative derivations, not an optional operation",
+     "why": "Kāśikā: the वा shows that each derivation stands on its own; the form इन्द्रियम् is not optional.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "52093",
+       "quote": "वाशब्दः प्रत्येकमभिसंबध्यमानो विकल्पानां स्वातन्त्र्यं दर्शयति॥"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G24",
+   "group": "own word, data case 1 | saṃjñā | X",
+   "count": 4,
+   "verdict": "licensed",
+   "how_checked": "All 4 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "1.1.28",
+    "1.1.32",
+    "1.4.72",
+    "1.4.98"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G25",
+   "group": "own word, data case 0 | saṃjñā | X",
+   "count": 4,
+   "verdict": "mixed",
+   "how_checked": "All 4 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "1.4.5",
+    "1.4.9",
+    "4.1.165"
+   ],
+   "not_licensed": [
+    {
+     "n": "1.1.44",
+     "word": "वा",
+     "should_be": "none",
+     "reason": "self-credit: 1.1.44 is the definition; its वा is the saṃjñin (the meaning 'optionally'), not an option of the rule",
+     "why": "The engine renders the saṃjñā sūtra's own वा as 'विकल्पेन'; nothing in 1.1.44 is optional.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "11044",
+       "quote": "नेति प्रतिषेधो वेति विकल्पः, तयोः प्रतिषेधविकल्पयोर्विभाषेति संज्ञा भवति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "1.4.5, 1.4.9, 4.1.165 fine; 1.1.44 is a self-credit."
+  },
+  {
+   "id": "G26",
+   "group": "own word, data case 1 | pada | X",
+   "count": 4,
+   "verdict": "licensed",
+   "how_checked": "All 4 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "1.3.50",
+    "1.3.77",
+    "1.3.85",
+    "2.4.78"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G27",
+   "group": "own word, data case 7 | vibhakti | X",
+   "count": 4,
+   "verdict": "licensed",
+   "how_checked": "All 4 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "2.3.22",
+    "2.3.32",
+    "2.3.34",
+    "2.3.72"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G28",
+   "group": "carried / not a sūtra word | nipātana | X (carried)",
+   "count": 4,
+   "verdict": "licensed",
+   "how_checked": "All 4 members: scripted check that the carried option word (data.txt anuvṛtti) is in force — Kāśikā/SK/prathamāvṛtti restate the option or give paired forms; every member with no option word in Kāśikā, or a 'नित्य'/'निवृत्त' hit, read in full.",
+   "licensed": [
+    "3.1.42",
+    "3.2.109",
+    "5.3.46",
+    "6.1.27"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G29",
+   "group": "carried / not a sūtra word | ekavat | X (carried)",
+   "count": 3,
+   "verdict": "licensed",
+   "how_checked": "All 3 members: scripted check that the carried option word (data.txt anuvṛtti) is in force — Kāśikā/SK/prathamāvṛtti restate the option or give paired forms; every member with no option word in Kāśikā, or a 'नित्य'/'निवृत्त' hit, read in full.",
+   "licensed": [
+    "1.2.61",
+    "1.2.62",
+    "2.4.13"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G30",
+   "group": "carried / not a sūtra word | pada | X (carried)",
+   "count": 3,
+   "verdict": "licensed",
+   "how_checked": "All 3 members: scripted check that the carried option word (data.txt anuvṛtti) is in force — Kāśikā/SK/prathamāvṛtti restate the option or give paired forms; every member with no option word in Kāśikā, or a 'नित्य'/'निवृत्त' hit, read in full.",
+   "licensed": [
+    "1.3.91",
+    "1.3.92",
+    "1.3.93"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G31",
+   "group": "own word, data case 0 | ekādeśa | X",
+   "count": 3,
+   "verdict": "licensed",
+   "how_checked": "All 3 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "6.1.92",
+    "6.1.99",
+    "6.1.106"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G32",
+   "group": "own word, data case 0 | ṣatva | X",
+   "count": 3,
+   "verdict": "licensed",
+   "how_checked": "All 3 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "8.3.71",
+    "8.3.100",
+    "8.3.119"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G33",
+   "group": "own word, data case 1 | ṇatva | X",
+   "count": 3,
+   "verdict": "licensed",
+   "how_checked": "All 3 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "8.4.6",
+    "8.4.18",
+    "8.4.30"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G34",
+   "group": "own word, data case 0 | ṇatva | X",
+   "count": 3,
+   "verdict": "licensed",
+   "how_checked": "All 3 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "8.4.10",
+    "8.4.23",
+    "8.4.33"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G35",
+   "group": "named by a commentator | saṃjñā | X",
+   "count": 2,
+   "verdict": "not licensed",
+   "how_checked": "All 2 read: the commentator's passage that names 1.1.44 located and read; Kāśikā of the sūtra checked for an option.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "1.1.45",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "commentator names 1.1.44 only as a parallel (meaning-saṃjñā), not as applying",
+     "why": "Nyāsa raises 'न वेति विभाषा' as an analogy for a saṃjñā of a meaning and rejects it; nothing in 1.1.45 is optional.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "11045",
+       "quote": "यथा `नवेति विभाषा` (1॥44) इति सूत्र इति चेत्? न युक्तम्; तत्रेतिकरण-स्यार्थनिर्देशार्थस्य प्रयोगात्, इह तु स नास्तीत्ययुक्तम्।"
+      }
+     ]
+    },
+    {
+     "n": "1.1.60",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "what is carried is 1.1.44's इति (arthanirdeśa), not the saṃjñā 'vibhāṣā'",
+     "why": "Nyāsa carries the इतिकरण of 1.1.44 so that लोप names the meaning; nothing optional is involved, so the credit 'विभाषा = option' is wrong.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "11060",
+       "quote": "<<न वेति विभाषा>> [[1.1.44]]  इत्यत इतिकरणोऽर्थनिर्दशार्थोऽनुवर्तते।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "Both are commentator NAMINGS of 1.1.44 (analogy / its इति), not applications of the saṃjñā."
+  },
+  {
+   "id": "G36",
+   "group": "own word, data case 1 | atideśa | X",
+   "count": 2,
+   "verdict": "licensed",
+   "how_checked": "All 2 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "1.2.3",
+    "1.2.16"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G37",
+   "group": "carried / not a sūtra word | atideśa | X (carried)",
+   "count": 2,
+   "verdict": "licensed",
+   "how_checked": "All 2 members: scripted check that the carried option word (data.txt anuvṛtti) is in force — Kāśikā/SK/prathamāvṛtti restate the option or give paired forms; every member with no option word in Kāśikā, or a 'नित्य'/'निवृत्त' hit, read in full.",
+   "licensed": [
+    "1.2.24",
+    "1.2.25"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G38",
+   "group": "named by a commentator | ādeśa | X",
+   "count": 2,
+   "verdict": "mixed",
+   "how_checked": "All 2 read: the commentator's passage that names 1.1.44 located and read; Kāśikā of the sūtra checked for an option.",
+   "licensed": [
+    "7.3.46"
+   ],
+   "not_licensed": [
+    {
+     "n": "1.2.56",
+     "word": "named by तत्त्वबोधिनी",
+     "should_be": "none",
+     "reason": "commentator names the Bhāṣya on 1.1.44 as the place a pūrvavipratiṣedha is discussed — naming, not applying",
+     "why": "",
+     "quotes": [
+      {
+       "file": "tattvabodhini",
+       "id": "12056",
+       "quote": "पूर्वविप्रतिषेधश्चनवेति विभाषा॑ सूत्रे भाष्ये उक्तः ।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "7.3.46: BM ties the option to the Bhāṣya on 1.1.44 and Kāśikā says 'उदीचांग्रहणं विकल्पार्थम्' — licensed."
+  },
+  {
+   "id": "G39",
+   "group": "carried / not a sūtra word | ekaśeṣa | X (carried)",
+   "count": 2,
+   "verdict": "licensed",
+   "how_checked": "All 2 members: scripted check that the carried option word (data.txt anuvṛtti) is in force — Kāśikā/SK/prathamāvṛtti restate the option or give paired forms; every member with no option word in Kāśikā, or a 'नित्य'/'निवृत्त' hit, read in full.",
+   "licensed": [
+    "1.2.70",
+    "1.2.71"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G40",
+   "group": "own word, data case 0 | pada | X",
+   "count": 2,
+   "verdict": "licensed",
+   "how_checked": "All 2 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "1.3.43",
+    "1.3.90"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G41",
+   "group": "own word, data case 7 | saṃjñā | X",
+   "count": 2,
+   "verdict": "licensed",
+   "how_checked": "All 2 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "1.4.44",
+    "1.4.53"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G42",
+   "group": "own word, data case 1 | ekavat | X",
+   "count": 2,
+   "verdict": "licensed",
+   "how_checked": "All 2 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "2.4.12",
+    "2.4.16"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G43",
+   "group": "carried / not a sūtra word | paribhāṣā | X",
+   "count": 2,
+   "verdict": "licensed",
+   "how_checked": "All 2 members: scripted check that the carried option word (data.txt anuvṛtti) is in force — Kāśikā/SK/prathamāvṛtti restate the option or give paired forms; every member with no option word in Kāśikā, or a 'नित्य'/'निवृत्त' hit, read in full.",
+   "licensed": [
+    "3.1.94",
+    "4.1.82"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "Own वा in both; 4.1.82 is the mahāvibhāṣā."
+  },
+  {
+   "id": "G44",
+   "group": "own word, data case 7 | atideśa | X",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "1.2.21"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G45",
+   "group": "carried / not a sūtra word | atideśa | X: the not-kit of 1.2.18 becomes optiona",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members: scripted check that the carried option word (data.txt anuvṛtti) is in force — Kāśikā/SK/prathamāvṛtti restate the option or give paired forms; every member with no option word in Kāśikā, or a 'नित्य'/'निवृत्त' hit, read in full.",
+   "licensed": [
+    "1.2.26"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G46",
+   "group": "own word, data case 7 | ekaśeṣa | X",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "1.2.69"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G47",
+   "group": "own word, data case 1 | samāsa | X (carried)",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members: scripted check that the carried option word (data.txt anuvṛtti) is in force — Kāśikā/SK/prathamāvṛtti restate the option or give paired forms; every member with no option word in Kāśikā, or a 'नित्य'/'निवृत्त' hit, read in full.",
+   "licensed": [
+    "2.1.11"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G48",
+   "group": "carried / not a sūtra word | saṃjñā | X: option",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members: scripted check that the carried option word (data.txt anuvṛtti) is in force — Kāśikā/SK/prathamāvṛtti restate the option or give paired forms; every member with no option word in Kāśikā, or a 'नित्य'/'निवृत्त' hit, read in full.",
+   "licensed": [
+    "2.2.29"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G49",
+   "group": "own word, data case 0 | vibhakti | X",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "2.3.71"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G50",
+   "group": "carried / not a sūtra word | vibhakti | X (carried)",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members: scripted check that the carried option word (data.txt anuvṛtti) is in force — Kāśikā/SK/prathamāvṛtti restate the option or give paired forms; every member with no option word in Kāśikā, or a 'नित्य'/'निवृत्त' hit, read in full.",
+   "licensed": [
+    "2.3.73"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G51",
+   "group": "own word, data case 7 | nipātana | X",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "3.1.122"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G52",
+   "group": "carried / not a sūtra word | vidhi | X: option",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members: scripted check that the carried option word (data.txt anuvṛtti) is in force — Kāśikā/SK/prathamāvṛtti restate the option or give paired forms; every member with no option word in Kāśikā, or a 'नित्य'/'निवृत्त' hit, read in full.",
+   "licensed": [
+    "3.3.111"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G53",
+   "group": "own word, data case 1 | nipātana | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "how_checked": "All 1 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "3.3.113",
+     "word": "बहुलम्",
+     "should_be": "none",
+     "reason": "बहुलम् here extends the suffixes to other senses; nothing is made optional",
+     "why": "Kāśikā: the kṛtya and ल्युट् suffixes also occur in senses other than those taught. (The engine's effect 'the nipātana is optional' is also wrong: 3.3.113 is not a nipātana.)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "33113",
+       "quote": "कृत्यसंज्ञकाः प्रत्यया ल्युट् च बहुलमर्थेषु भवन्ति। यत्र विहितास्ततोऽन्यत्रापि भवन्ति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G54",
+   "group": "carried / not a sūtra word | operation | X",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members: scripted check that the carried option word (data.txt anuvṛtti) is in force — Kāśikā/SK/prathamāvṛtti restate the option or give paired forms; every member with no option word in Kāśikā, or a 'नित्य'/'निवृत्त' hit, read in full.",
+   "licensed": [
+    "3.4.32"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G55",
+   "group": "carried / not a sūtra word | svara | X (4.1.37) goes with …",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members: scripted check that the carried option word (data.txt anuvṛtti) is in force — Kāśikā/SK/prathamāvṛtti restate the option or give paired forms; every member with no option word in Kāśikā, or a 'नित्य'/'निवृत्त' hit, read in full.",
+   "licensed": [
+    "4.1.38"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G56",
+   "group": "own word, data case 7 | āgama | X",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "5.2.56"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G57",
+   "group": "carried / not a sūtra word | vidhi | X: the … is not optional, the elision of",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members: scripted check that the carried option word (data.txt anuvṛtti) is in force — Kāśikā/SK/prathamāvṛtti restate the option or give paired forms; every member with no option word in Kāśikā, or a 'नित्य'/'निवृत्त' hit, read in full.",
+   "licensed": [
+    "5.2.77"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G58",
+   "group": "named by a commentator | operation | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "how_checked": "All 1 read: the commentator's passage that names 1.1.44 located and read; Kāśikā of the sūtra checked for an option.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "6.1.13",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "the option the Nyāsa discusses belongs to 6.3.61 (गालवस्य) and is set aside as vyavasthita; 6.1.13's samprasāraṇa is obligatory",
+     "why": "Nyāsa mentions a vibhāṣā only to exclude the optional short vowel of another rule here.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "61013",
+       "quote": "पाक्षिकं ह्रस्वम#आशङ्क्याह -व्यवस्थितविभाषया ह्रस्वो नेति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G59",
+   "group": "named by a commentator | svara | X",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 read: the commentator's passage that names 1.1.44 located and read; Kāśikā of the sūtra checked for an option.",
+   "licensed": [
+    "6.1.130"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "Kāśikā: 'चाक्रवर्मणग्रहणं विकल्पार्थम् ... उभयत्रविभाषेयम्'."
+  },
+  {
+   "id": "G60",
+   "group": "own word, data case 6 | nipātana | X",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "6.3.32"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "'उदीचामिति किम्? मातापितरौ' — option."
+  },
+  {
+   "id": "G61",
+   "group": "carried / not a sūtra word | operation | X: option",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members: scripted check that the carried option word (data.txt anuvṛtti) is in force — Kāśikā/SK/prathamāvṛtti restate the option or give paired forms; every member with no option word in Kāśikā, or a 'नित्य'/'निवृत्त' hit, read in full.",
+   "licensed": [
+    "6.4.33"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G62",
+   "group": "carried / not a sūtra word | svara | X: option",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members: scripted check that the carried option word (data.txt anuvṛtti) is in force — Kāśikā/SK/prathamāvṛtti restate the option or give paired forms; every member with no option word in Kāśikā, or a 'नित्य'/'निवृत्त' hit, read in full.",
+   "licensed": [
+    "8.1.42"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G63",
+   "group": "own word, data case 1 | ṣatva | X",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "8.3.79"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G64",
+   "group": "own word, data case 7 | ṣatva | X",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members: own option word confirmed in the padaccheda by script; Kāśikā/SK/prathamāvṛtti checked for the option; every 'नित्य'/'निवृत्त' hit read (all were vyavasthita-vibhāṣā or 'नित्ये प्राप्ते' statements).",
+   "licensed": [
+    "8.3.85"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G65",
+   "group": "carried / not a sūtra word | ṇatva | X (carried)",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 members: scripted check that the carried option word (data.txt anuvṛtti) is in force — Kāśikā/SK/prathamāvṛtti restate the option or give paired forms; every member with no option word in Kāśikā, or a 'नित्य'/'निवृत्त' hit, read in full.",
+   "licensed": [
+    "8.4.31"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  }
+ ],
+ "missed": [
+  {
+   "n": "1.1.17",
+   "pid": "1.1.44",
+   "why": "Carried शाकल्यस्य is an option word by Kāśikā's own statement; the engine credits 1.1.44 for ācārya-word options elsewhere (3.1.90, 3.4.18, 6.1.130, 7.3.46) but not here.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11017",
+     "quote": "शाकल्यस्येति विभाषार्थम्"
+    }
+   ]
+  },
+  {
+   "n": "1.1.18",
+   "pid": "1.1.44",
+   "why": "Same: three forms by the carried option.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11018",
+     "quote": "शाकल्यस्य ग्रहणं विभाषार्थमिहाप्यनुवर्तते, तेन त्रीणि रूपाणि भवन्ति"
+    }
+   ]
+  },
+  {
+   "n": "1.1.16",
+   "pid": "1.1.44",
+   "why": "Own शाकल्यस्य, said to be for option.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11016",
+     "quote": "शाकल्यग्रहणं विभाषार्थम्"
+    }
+   ]
+  },
+  {
+   "n": "8.3.19",
+   "pid": "1.1.44",
+   "why": "Own शाकल्यस्य, said to be for option.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "83019",
+     "quote": "शाकल्यग्रहणं विभाषार्थम्"
+    }
+   ]
+  },
+  {
+   "n": "8.2.86",
+   "pid": "1.1.44",
+   "why": "Own प्राचाम्, said to be for option.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "82086",
+     "quote": "प्राचामिति ग्रहणं विकल्पार्थम्"
+    }
+   ]
+  }
+ ],
+ "missed_note": "No own or carried वा/विभाषा/अन्यतरस्याम् lacks a ✔ credit (script over all 3,983 records). Uncredited option-like words: ~25 ācārya-name sūtras (only the five above have an explicit Kāśikā 'विभाषार्थम्/विकल्पार्थम्'; many others are regional or honorific, e.g. 2.4.60 'न विकल्पार्थम्', 4.2.123/6.2.99 'प्राचामिति किम्?' = region) and ~35 बहुलम्/उभयथा/एकेषाम् sūtras (e.g. 2.4.39, 6.1.34, 7.1.8 बहुलं छन्दसि; 8.3.104 यजुष्येकेषाम्) — the engine credits some बहुलम् (3.1.34, 5.2.122) but not these; whether to credit 1.1.44 for बहुलम् at all is a policy choice (see unsure items).",
+ "side_note": "The 34 '?' entries for 1.1.44 (trigger 'न', e.g. 3.1.89, 4.1.10, 5.4.69) are plain negations, not vibhāṣā; 1.1.44 should not be considered there at all."
+}

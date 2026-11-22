@@ -1,0 +1,1866 @@
+{
+ "pid": "1.1.52",
+ "items": {
+  "G1|8.3.42|ष्": {
+   "key": "G1|8.3.42|ष्",
+   "verdict": "not licensed",
+   "reason": "Sūtra 8.3.42 prescribes the substitute s (सकार) rather than ṣ (ष्), so 1.1.52 cannot license the reading of ष्.",
+   "quote": "तिरसो विसर्जनीयस्यान्यतरस्यां सकारादेशो भवति",
+   "source": "Kāśikā on 8.3.42",
+   "quoteOk": true
+  },
+  "G1|8.3.44|ष्": {
+   "key": "G1|8.3.44|ष्",
+   "verdict": "not licensed",
+   "reason": "Sūtra 1.1.52 is a paribhāṣā directing an ādeśa to replace the final sound of a genitive-specified sthānin and does not license the reading of the substitute ष्.",
+   "quote": "षष्ठीनिर्दिष्टस्यान्त्यस्याल आदेशः स्यात्",
+   "source": "kaumudi 11052",
+   "quoteOk": true
+  },
+  "G1|8.3.45|ष्": {
+   "key": "G1|8.3.45|ष्",
+   "verdict": "not licensed",
+   "reason": "Sūtra 1.1.52 is an interpretive paribhāṣā regarding sthāna and does not license the reading of the substitute ष्.",
+   "quote": "षष्ठीनिर्दिष्टस्यान्त्यस्याल आदेशः स्यात्",
+   "source": "kaumudi 11052",
+   "quoteOk": true
+  },
+  "G1|8.3.46|ष्": {
+   "key": "G1|8.3.46|ष्",
+   "verdict": "not licensed",
+   "reason": "Sūtra 8.3.46 prescribes the substitute s (सकार) rather than ṣ (ष्), so 1.1.52 cannot license the reading of ष्.",
+   "quote": "नित्यं सकारादेशो भवति",
+   "source": "Kāśikā on 8.3.46",
+   "quoteOk": true
+  },
+  "G1|8.3.48|ष्": {
+   "key": "G1|8.3.48|ष्",
+   "verdict": "not licensed",
+   "reason": "The substitute ष् is carried from sūtra 8.3.39 (इणः षः) as stated in Tattvabodhinī, not licensed by 1.1.52.",
+   "quote": "इणः षः॑ इति सूत्रं चानुवर्तते",
+   "source": "tattvabodhini on 8.3.48",
+   "quoteOk": true
+  },
+  "G1|8.3.49|स्": {
+   "key": "G1|8.3.49|स्",
+   "verdict": "not licensed",
+   "reason": "Sūtra 1.1.52 specifies that an ādeśa replaces the final al of a genitive-specified sthānin and does not license the reading of the substitute स्.",
+   "quote": "षष्ठीनिर्दिष्टस्यान्त्यस्याल आदेशः स्यात्",
+   "source": "kaumudi 11052",
+   "quoteOk": true
+  },
+  "G1|8.3.50|स्": {
+   "key": "G1|8.3.50|स्",
+   "verdict": "not licensed",
+   "reason": "Sūtra 1.1.52 is a paribhāṣā governing that an ādeśa replaces the final al and does not license the reading of the substitute स्.",
+   "quote": "षष्ठीनिर्दिष्टस्यान्त्यस्याल आदेशः स्यात्",
+   "source": "kaumudi 11052",
+   "quoteOk": true
+  },
+  "G1|8.3.51|स्": {
+   "key": "G1|8.3.51|स्",
+   "verdict": "not licensed",
+   "reason": "Sūtra 1.1.52 governs the replacement of the final sound of a base and does not license the reading of the substitute स्.",
+   "quote": "षष्ठीनिर्दिष्टस्यान्त्यस्याल आदेशः स्यात्",
+   "source": "kaumudi 11052",
+   "quoteOk": true
+  },
+  "G1|8.3.26|म्": {
+   "key": "G1|8.3.26|म्",
+   "verdict": "not licensed",
+   "reason": "Sūtra 1.1.52 governs the replacement of the final sound of a genitive sthānin and does not license the substitute m-kāra itself.",
+   "quote": "मकार आदेशो भवति",
+   "source": "Kāśikā on 8.3.26",
+   "quoteOk": true
+  },
+  "G1|8.3.27|न्": {
+   "key": "G1|8.3.27|न्",
+   "verdict": "not licensed",
+   "reason": "The substitute n-kāra is taught directly by the sūtra itself in the word ‹नः› rather than being licensed by 1.1.52.",
+   "quote": "नकारादेशो भवति",
+   "source": "Kāśikā on 8.3.27",
+   "quoteOk": true
+  },
+  "G1|8.3.33|व्": {
+   "key": "G1|8.3.33|व्",
+   "verdict": "not licensed",
+   "reason": "The substitute v-kāra is taught directly by the sūtra itself in the word ‹वो› rather than being licensed by 1.1.52.",
+   "quote": "वकारादेशो भवत्यचि",
+   "source": "Kāśikā on 8.3.33",
+   "quoteOk": true
+  },
+  "G1|8.3.34|स्": {
+   "key": "G1|8.3.34|स्",
+   "verdict": "not licensed",
+   "reason": "The substitute s-kāra is taught directly by the sūtra itself in the word ‹सः› rather than being licensed by 1.1.52.",
+   "quote": "सकार आदेशो भवति",
+   "source": "Kāśikā on 8.3.34",
+   "quoteOk": true
+  },
+  "G1|8.3.38|स्": {
+   "key": "G1|8.3.38|स्",
+   "verdict": "not licensed",
+   "reason": "The substitute s-kāra is taught directly by the sūtra itself in the word ‹सो› rather than being licensed by 1.1.52.",
+   "quote": "सकार आदेशो भवति",
+   "source": "Kāśikā on 8.3.38",
+   "quoteOk": true
+  },
+  "G1|8.3.39|ष्": {
+   "key": "G1|8.3.39|ष्",
+   "verdict": "not licensed",
+   "reason": "The substitute ṣ-kāra is taught directly by the sūtra itself in the word ‹षः› rather than being licensed by 1.1.52.",
+   "quote": "षकारादेशो भवति",
+   "source": "Kāśikā on 8.3.39",
+   "quoteOk": true
+  },
+  "G1|8.3.40|ष्": {
+   "key": "G1|8.3.40|ष्",
+   "verdict": "not licensed",
+   "reason": "The substitute taught for this sūtra is s-kāra rather than ṣ-kāra, so 1.1.52 does not license ṣ-kāra here.",
+   "quote": "सकारादेशो भवति",
+   "source": "Kāśikā on 8.3.40",
+   "quoteOk": true
+  },
+  "G1|8.3.41|ष्": {
+   "key": "G1|8.3.41|ष्",
+   "verdict": "not licensed",
+   "reason": "The substitute ṣ-kāra is carried by anuvṛtti from 8.3.39 rather than being licensed by 1.1.52.",
+   "quote": "षकार आदेशो भवति",
+   "source": "Kāśikā on 8.3.41",
+   "quoteOk": true
+  },
+  "G1|8.2.69|र्": {
+   "key": "G1|8.2.69|र्",
+   "verdict": "not licensed",
+   "reason": "Tattvabodhini explains that repha replaces nakāra because it is an exception to rutva, not by virtue of 1.1.52.",
+   "quote": "रुत्वपवादस्यापि रेफादेशस्य नकारस्थानिकत्वलाभात्",
+   "source": "tattvabodhini on 8.2.69",
+   "quoteOk": true
+  },
+  "G1|8.2.70|र्": {
+   "key": "G1|8.2.70|र्",
+   "verdict": "not licensed",
+   "reason": "Prathamāvṛtti clarifies that repha is ordained as an optional substitute for the rutva of s-kāra, not as a replacement licensed by 1.1.52.",
+   "quote": "ससजुषो रुः इत्यनेन नित्यं रुत्वे प्राप्ते पक्षे रेफादेशार्थमिदम्",
+   "source": "prathamāvṛtti on 8.2.70",
+   "quoteOk": true
+  },
+  "G1|8.2.72|द्": {
+   "key": "G1|8.2.72|द्",
+   "verdict": "licensed",
+   "reason": "Bālamanoramā explicitly applies 1.1.52 to state that the d-kāra substitution replaces the final sound of the pada.",
+   "quote": "अलोऽन्त्यस्ये॑ति तदन्तस्य भवति",
+   "source": "balamanorama on 8.2.72",
+   "quoteOk": true
+  },
+  "G1|8.2.73|द्": {
+   "key": "G1|8.2.73|द्",
+   "verdict": "unsure",
+   "reason": "The provided commentaries are for 8.2.76, and the remaining source texts describe the sthānin differently without settling whether 1.1.52 is applied.",
+   "quote": "पदान्तस्य सस्य दः स्यात्तिपि न त्वस्तेः",
+   "source": "SK on 8.2.73",
+   "quoteOk": true
+  },
+  "G1|8.2.80|म्": {
+   "key": "G1|8.2.80|म्",
+   "verdict": "not licensed",
+   "reason": "The commentaries explicitly note that 1.1.52 is blocked by दात्, while the substitution of म् is prescribed directly for d-kāra.",
+   "quote": "अलोऽन्त्यपरिभाषाया अप्रवृत्त्या",
+   "source": "balamanorama on 8.2.80",
+   "quoteOk": true
+  },
+  "G1|8.2.81|ई": {
+   "key": "G1|8.2.81|ई",
+   "verdict": "not licensed",
+   "reason": "Nyāsa explains that the sūtra specifies the single sound e-kāra itself as the sthānin, leaving no scope for 1.1.52.",
+   "quote": "एकारस्य स्थानिवत्त्वं यथा विज्ञायेत",
+   "source": "nyaas on 8.2.81",
+   "quoteOk": true
+  },
+  "G1|8.3.17|य्": {
+   "key": "G1|8.3.17|य्",
+   "verdict": "not licensed",
+   "reason": "Tattvabodhini mentions 1.1.52 only within a hypothetical alternative view, whereas the accepted rule ordains ya-kāra directly for repha.",
+   "quote": "अलोऽन्त्यस्ये॑त्यन्त्यस्य यः स्यात्",
+   "source": "tattvabodhini on 8.3.17",
+   "quoteOk": true
+  },
+  "G1|8.3.25|म्": {
+   "key": "G1|8.3.25|म्",
+   "verdict": "not licensed",
+   "reason": "Bālamanoramā specifies that समः is an avayava-ṣaṣṭhī and the sthānin is the carried मः, so 1.1.52 does not apply.",
+   "quote": "सम इत्यवयवषष्ठी",
+   "source": "balamanorama on 8.3.25",
+   "quoteOk": true
+  },
+  "G1|8.2.52|व्": {
+   "key": "G1|8.2.52|व्",
+   "verdict": "not licensed",
+   "reason": "The substitute v-kāra is ordained directly by sūtra 8.2.52 itself for niṣṭhā-takāra, which is already a single al, so 1.1.52 does not license it.",
+   "quote": "पचेर्धातोरुत्तरस्य निष्ठातकारस्य वकारादेशो भवति",
+   "source": "Kāśikā of 8.2.52",
+   "quoteOk": true
+  },
+  "G1|8.2.53|म्": {
+   "key": "G1|8.2.53|म्",
+   "verdict": "not licensed",
+   "reason": "The substitute m-kāra is taught directly by sūtra 8.2.53 itself replacing niṣṭhā-takāra, so 1.1.52 does not license it.",
+   "quote": "क्षैधातोरुत्तरस्य निष्ठातकारस्य मकारादेशो भवति",
+   "source": "Kāśikā of 8.2.53",
+   "quoteOk": true
+  },
+  "G1|8.2.54|म्": {
+   "key": "G1|8.2.54|म्",
+   "verdict": "not licensed",
+   "reason": "The substitute m-kāra is carried from sūtra 8.2.53 to replace niṣṭhā-takāra, and is not licensed by 1.1.52.",
+   "quote": "‹निष्ठातस्य म› इति शेषः",
+   "source": "balamanorama on 8.2.54",
+   "quoteOk": false
+  },
+  "G1|8.2.56|न्": {
+   "key": "G1|8.2.56|न्",
+   "verdict": "not licensed",
+   "reason": "The substitute na-kāra replacing niṣṭhā-takāra is carried from 8.2.42 as confirmed by the Bhāṣya, not licensed by 1.1.52.",
+   "quote": "रदाभ्यां निष्ठातो नः पूर्वस्य च द इति",
+   "source": "bhashya on 8.2.56",
+   "quoteOk": true
+  },
+  "G1|8.2.57|न्": {
+   "key": "G1|8.2.57|न्",
+   "verdict": "not licensed",
+   "reason": "The prohibition applies to niṣṭhā-takāra carrying na-tva from 8.2.42, so 1.1.52 plays no licensing role.",
+   "quote": "निष्ठातकारस्य नकारादेशो न भवति",
+   "source": "Kāśikā of 8.2.57",
+   "quoteOk": true
+  },
+  "G1|8.2.64|न्": {
+   "key": "G1|8.2.64|न्",
+   "verdict": "licensed",
+   "reason": "Bālamanoramā explicitly applies 1.1.52 to state that the substitution of na-kāra takes place in the position of the final al makāra of the root.",
+   "quote": "अलो ।ञन्त्यस्ये॑ति मकारस्य भवति",
+   "source": "balamanorama on 8.2.64",
+   "quoteOk": true
+  },
+  "G1|8.2.65|न्": {
+   "key": "G1|8.2.65|न्",
+   "verdict": "unsure",
+   "reason": "The provided texts do not mention or settle whether 1.1.52 is invoked to license the substitution of the final al.",
+   "quote": "मकारवकारयोश्च परतः मकारान्तस्य धातोर्नकारादेशो भवति",
+   "source": "Kāśikā of 8.2.65",
+   "quoteOk": true
+  },
+  "G1|8.2.68|?": {
+   "key": "G1|8.2.68|?",
+   "verdict": "unsure",
+   "reason": "The provided commentary texts on 8.2.68 do not mention 1.1.52, leaving it unsettled from the given sources whether it is credited here.",
+   "quote": "अहन्नित्येतस्य पदस्य रुर्भवति",
+   "source": "Kāśikā of 8.2.68",
+   "quoteOk": true
+  },
+  "G2|6.4.43|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.43|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "licensed",
+   "reason": "The sthānin is specified as the roots jan, san, and khan, and the replacement āt is a single sound, so 1.1.52 licenses replacing their final al nakāra.",
+   "quote": "नकारस्य आत्वे सवर्णदीर्घः",
+   "source": "balamanorama on 6.4.43",
+   "quoteOk": true
+  },
+  "G2|6.4.44|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.44|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "licensed",
+   "reason": "The root tan is a whole aṅga and the replacement ākāra is a single sound, so 1.1.52 licenses it as replacing the final al.",
+   "quote": "आकारोऽन्तादेशो वा स्यात्",
+   "source": "SK on 6.4.44",
+   "quoteOk": true
+  },
+  "G2|6.4.45|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.45|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "licensed",
+   "reason": "The root san is a whole aṅga and the replacements āt and lopa are single-sound operations replacing the final al nakāra by 1.1.52.",
+   "quote": "व्यवहितस्यापि नलोपो यथा स्यादित्येवमर्थम्",
+   "source": "nyaas on 6.4.45",
+   "quoteOk": true
+  },
+  "G2|6.4.47|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.47|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The sthānin is explicitly specified as the repha and upadhā rather than the whole aṅga, and ram is a mit-āgama rather than an ekāl ādeśa.",
+   "quote": "रेफस्योपधायाश्च स्थाने रमागमो वा स्यादार्धधातुके",
+   "source": "SK on 6.4.47",
+   "quoteOk": true
+  },
+  "G2|6.4.48|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.48|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The sthānin is explicitly specified in the sūtra as the vowel akāra itself, not a whole aṅga or dhātu.",
+   "quote": "तस्याकारस्य लोपः स्यादार्धधातुके परे",
+   "source": "SK on 6.4.48",
+   "quoteOk": true
+  },
+  "G2|6.4.55|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.55|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The replacement ay consists of two sounds, so 1.1.55 supersedes 1.1.52 and makes it replace the entire ṇi.",
+   "quote": "अनेकाल् य आदेशः शिच् च, स सर्वस्य षष्ठीनिर्दिष्टस्य स्थाने भवति।",
+   "source": "kashika 11055",
+   "quoteOk": true
+  },
+  "G2|6.4.58|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.58|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "licensed",
+   "reason": "The roots yu and plu are whole aṅgas and the replacement dīrgha is a single sound, so 1.1.52 licenses replacing their final al.",
+   "quote": "यु प्लु इत्येतयोर्ल्यपि परतश्छन्दसि विषये दीर्घो भवति।",
+   "source": "Kāśikā on 6.4.58",
+   "quoteOk": true
+  },
+  "G2|6.4.59|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.59|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "licensed",
+   "reason": "The root kṣi is a whole aṅga and the replacement dīrgha is a single sound, so 1.1.52 licenses replacing its final al.",
+   "quote": "क्षियश्च दीर्घो भवति ल्यपि परतः।",
+   "source": "Kāśikā on 6.4.59",
+   "quoteOk": true
+  },
+  "G2|6.4.5|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.5|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "unsure",
+   "reason": "The provided commentaries do not mention 1.1.52 or settle whether it licenses the reading.",
+   "quote": "छन्दसि विषये तिसृचतस्रोर्नामि परत उभयथा दृश्यते",
+   "source": "Kāśikā on 6.4.5",
+   "quoteOk": true
+  },
+  "G2|6.4.6|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.6|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "unsure",
+   "reason": "None of the given texts mention 1.1.52 or discuss its applicability to this sūtra.",
+   "quote": "नृ इत्येतस्य नामि पर उभयथा भवति",
+   "source": "Kāśikā on 6.4.6",
+   "quoteOk": true
+  },
+  "G2|6.4.23|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.23|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "unsure",
+   "reason": "The given texts do not mention sūtra 1.1.52 or address whether it licenses this rule.",
+   "quote": "तत उत्तरस्य नकारस्य लोपो भवति",
+   "source": "Kāśikā on 6.4.23",
+   "quoteOk": true
+  },
+  "G2|6.4.35|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.35|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "Nyāsa names 1.1.52 only in a rejected counterfactual and affirms that 'शा' is actually a sarvādeśa replacing the entire stem.",
+   "quote": "सर्वादेशश्चेष्यत इति मनसि कृत्वाह",
+   "source": "nyaas on 6.4.35",
+   "quoteOk": true
+  },
+  "G2|6.4.39|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.39|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "unsure",
+   "reason": "The provided texts do not mention 1.1.52 or settle whether it licenses this prohibition.",
+   "quote": "दीर्घानुनासिकलोपौ न स्तः क्तिचि परे",
+   "source": "SK on 6.4.39",
+   "quoteOk": true
+  },
+  "G2|6.4.40|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.40|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "Nyāsa mentions the alonantya-paribhāṣā only to explain a variant of the vārtika 'ūṅ ca', not to license the sūtra itself.",
+   "quote": "तत्र ङकारस्य प्रयोजनं चिन्त्यम्। अलोऽन्त्यपरिभाषयैवात्र भविष्यति।",
+   "source": "nyaas on 6.4.40",
+   "quoteOk": true
+  },
+  "G2|6.4.41|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.41|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "unsure",
+   "reason": "The given commentaries do not mention 1.1.52 or discuss its role in this rule.",
+   "quote": "अनुनासिकस्य आत्स्यात्",
+   "source": "SK on 6.4.41",
+   "quoteOk": true
+  },
+  "G2|6.4.42|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.42|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "unsure",
+   "reason": "The provided texts describe the replacement as an antyādeśa but do not cite or mention 1.1.52 to settle its licensing.",
+   "quote": "एषामाकारोऽन्तादेशः स्याज्झलादौ",
+   "source": "SK on 6.4.42",
+   "quoteOk": true
+  },
+  "G1|8.3.52|स्": {
+   "key": "G1|8.3.52|स्",
+   "verdict": "not licensed",
+   "reason": "Sūtra 1.1.52 only designates the final sound as the locus of substitution and does not license the substitute ‹स्› carried from an earlier rule.",
+   "quote": "पञ्चमीविसर्जनीयस्य बहुलं सकार आदेशो भवति",
+   "source": "Kāśikā on 8.3.52",
+   "quoteOk": true
+  },
+  "G1|8.3.53|स्": {
+   "key": "G1|8.3.53|स्",
+   "verdict": "not licensed",
+   "reason": "The substitute ‹स्› is carried from an earlier rule and is not licensed by 1.1.52, which only regulates the sthāna of an ādeśa.",
+   "quote": "षष्ठीविसर्जनीयस्य सकारादेशो भवति",
+   "source": "Kāśikā on 8.3.53",
+   "quoteOk": true
+  },
+  "G1|8.3.54|स्": {
+   "key": "G1|8.3.54|स्",
+   "verdict": "not licensed",
+   "reason": "Sūtra 1.1.52 specifies that a substitute replaces the final sound and does not license the optional substitute ‹स्› itself.",
+   "quote": "इडायाः षष्ठीविसर्जनीयस्य वा सकार आदेशो भवति",
+   "source": "Kāśikā on 8.3.54",
+   "quoteOk": true
+  },
+  "G1|8.4.1|ण्": {
+   "key": "G1|8.4.1|ण्",
+   "verdict": "not licensed",
+   "reason": "The substitute ‹ण्› is directly prescribed by the word ‹णः› in sūtra 8.4.1 itself, so 1.1.52 does not license it.",
+   "quote": "रेफषकाराभ्यामुत्तस्य नकारस्य णकारादेशो भवति",
+   "source": "Kāśikā on 8.4.1",
+   "quoteOk": true
+  },
+  "G1|8.4.63|छ्": {
+   "key": "G1|8.4.63|छ्",
+   "verdict": "not licensed",
+   "reason": "The substitute ‹छ्› is explicitly provided by the wording ‹छः› in sūtra 8.4.63 itself rather than licensed by 1.1.52.",
+   "quote": "झय उत्तरस्य शकारस्याटि परतश्छकारादेशो भवत्यन्यतरस्याम्",
+   "source": "Kāśikā on 8.4.63",
+   "quoteOk": true
+  },
+  "G2|6.4.2|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.2|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "Sūtra 1.1.52 assigns the replacement to the final al and explicitly excludes the whole entity from being the place of substitution.",
+   "quote": "न तस्य कृत्स्नस्य",
+   "source": "padamanjari 11052",
+   "quoteOk": true
+  },
+  "G2|6.4.3|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.3|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "Sūtra 1.1.52 directs the substitute to the final sound of what is specified by a genitive, rather than licensing the whole aṅga as the sthānin.",
+   "quote": "न तस्य कृत्स्नस्य",
+   "source": "padamanjari 11052",
+   "quoteOk": true
+  },
+  "G2|6.4.4|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.4|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "This rule is a negation of dīrgha which applies to an ajanta by 1.2.28, so 1.1.52 does not license the whole aṅga as the sthānin.",
+   "quote": "अजन्तस्य दीर्घत्वेन भवितव्यम्",
+   "source": "nyaas on 6.4.4",
+   "quoteOk": true
+  },
+  "G2|6.4.134|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.134|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "In 6.4.134, the elision applies to the penultimate vowel akāra of an rather than the final sound, and Padamañjarī notes that 'अत्' is a distinct word in the sūtra.",
+   "quote": "अदिति पृथक् पदं लुप्तविभक्तिकम्",
+   "source": "padamanjari on 6.4.134",
+   "quoteOk": true
+  },
+  "G2|6.4.135|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.135|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "Sūtra 6.4.135 carries over the akāra-lopa of an from 6.4.134 to the penultimate sound rather than replacing the final sound via 1.1.52.",
+   "quote": "तस्याकारलोपो भवत्यणि परतः",
+   "source": "Kāśikā on 6.4.135",
+   "quoteOk": true
+  },
+  "G2|6.4.136|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.136|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "Sūtra 6.4.136 optionally applies akāra-lopa carried from 6.4.134 to the penultimate sound of an, which is not licensed by 1.1.52.",
+   "quote": "ङौ परतः शीशब्दे चानो विभाषाकारलोपो भवति",
+   "source": "Kāśikā on 6.4.136",
+   "quoteOk": true
+  },
+  "G2|6.4.137|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.137|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "Sūtra 6.4.137 is a negative rule prohibiting the akāra-lopa carried from 6.4.134 and does not apply 1.1.52.",
+   "quote": "वकारमकारान्तात् संयोगादुत्तरस्यानोऽकारस्य लोपो न भवति",
+   "source": "Kāśikā on 6.4.137",
+   "quoteOk": true
+  },
+  "G2|6.4.138|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.138|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "Sūtra 6.4.138 deletes the initial akāra of añc carried from 6.4.134 rather than the final consonant via 1.1.52.",
+   "quote": "तदन्तस्य भस्याकारस्य लोपो भवति",
+   "source": "Kāśikā on 6.4.138",
+   "quoteOk": true
+  },
+  "G2|6.4.140|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.140|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "licensed",
+   "reason": "Bālamanoramā explicitly applies 1.1.52 to determine that the elision prescribed for the aṅga ending in a root in ā replaces the final sound.",
+   "quote": "अलोऽन्त्यस्येति । अन्त्यस्याऽकारस्य लोप इति शेषः",
+   "source": "balamanorama on 6.4.140",
+   "quoteOk": true
+  },
+  "G2|6.4.142|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.142|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "Padamañjarī explains that due to the explicit mention of ti, 1.1.52 does not apply and the entire ti is elided.",
+   "quote": "अलोऽन्त्यस्य इत्यस्यानुपस्थानात्सर्वस्य तिशब्दस्य भवति",
+   "source": "padamanjari on 6.4.142",
+   "quoteOk": true
+  },
+  "G2|6.4.144|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.144|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "Sūtra 6.4.144 carries forward 'टेः' from 6.4.143 to specify the ṭi portion as the sthānin, so 1.1.52 is not applied.",
+   "quote": "टेरिति सूत्रमनुवर्तते",
+   "source": "balamanorama on 6.4.144",
+   "quoteOk": true
+  },
+  "G2|6.4.109|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.109|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "Kāśikā specifies that the elision applies to the affix u following kṛ, not to the final sound of an aṅga by sūtra 1.1.52.",
+   "quote": "करोतेरुत्तरस्योकारप्रत्ययस्य नित्यं लोपो भवति",
+   "source": "Kāśikā of 6.4.109",
+   "quoteOk": true
+  },
+  "G2|6.4.111|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.111|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The elision of akāra is directly prescribed by the term at in the sūtra itself, not licensed by sūtra 1.1.52.",
+   "quote": "श्नस्यास्तेश्चाकारस्य लोपो भवति",
+   "source": "Kāśikā of 6.4.111",
+   "quoteOk": true
+  },
+  "G2|6.4.112|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.112|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "Although Padamañjarī notes 1.1.52 as a possible rationale for Kāśikā, it rejects that interpretation and states that ātaḥ should be understood as ākārāntānām.",
+   "quote": "आकारान्तानाम् इति तु व्याख्येयम्",
+   "source": "padamanjari on 6.4.112",
+   "quoteOk": true
+  },
+  "G2|6.4.118|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.118|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The Siddhāntakaumudī explains that the elision is specifically of ākāra carried from sūtra 6.4.112, rather than an application of 1.1.52 to the entire stem.",
+   "quote": "जहातेरालोपः स्याद्यादौ सार्वधातुके",
+   "source": "SK of 6.4.118",
+   "quoteOk": true
+  },
+  "G2|6.4.119|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.119|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "licensed",
+   "reason": "Tattvabodhini explicitly confirms that the substitution of e applies to the final sound by sūtra 1.1.52.",
+   "quote": "एत्वमलोन्त्यस्य",
+   "source": "tattvabodhini on 6.4.119",
+   "quoteOk": true
+  },
+  "G2|6.4.131|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.131|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "Bālamanoramā specifies that the samprasāraṇa substitution of u applies to the semivowel vakāra, not to the final sound of vasu by 1.1.52.",
+   "quote": "शसि वकारस्य उत्वे",
+   "source": "balamanorama on 6.4.131",
+   "quoteOk": true
+  },
+  "G2|6.4.132|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.132|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "Padamañjarī explains that ūṭh replaces vakāra as a samprasāraṇa, noting that 1.1.52 is avoided and would otherwise have replaced the final sound.",
+   "quote": "तेन वकारस्य स्थाने भवति, अन्यथान्त्यस्य स्यात्",
+   "source": "padamanjari on 6.4.132",
+   "quoteOk": true
+  },
+  "G2|6.4.133|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.133|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "Bālamanoramā shows that the samprasāraṇa replaces the semivowel vakāra by 1.1.45 rather than the stem-final nakāra by 1.1.52.",
+   "quote": "इग्यणः संप्रसारणम् इति वकारस्य संप्रसारणमुकारः",
+   "source": "balamanorama on 6.4.133",
+   "quoteOk": true
+  },
+  "G2|7.1.23|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.1.23|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The sthānī is the case affixes su and am following a neuter stem, not a whole aṅga or dhātu.",
+   "quote": "सु अम् इत्येतयोर्नपुंसकादुत्तरयोर्लुग् भवति",
+   "source": "Kāśikā of 7.1.23",
+   "quoteOk": true
+  },
+  "G2|7.1.39|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.1.39|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The replacements are taught in place of the case affixes (sup), not in place of an aṅga or dhātu.",
+   "quote": "छन्दसि विषये सुपां स्थाने",
+   "source": "Kāśikā of 7.1.39",
+   "quoteOk": true
+  },
+  "G2|7.1.41|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.1.41|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The elision is taught specifically for the consonant ta of ātmanepada affixes, not for an aṅga or dhātu.",
+   "quote": "आत्मनेपदेषु यस्तकारस्तस्य",
+   "source": "Kāśikā of 7.1.41",
+   "quoteOk": true
+  },
+  "G2|7.2.1|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.2.1|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The replacement vṛddhi applies to the final ik of the base by 1.1.3 (इको गुणवृद्धी), not to the base as a whole via 1.1.52.",
+   "quote": "परस्मैपदपरे सिचि परत इगन्तस्याङ्गस्य वृद्धिर्भवति",
+   "source": "Kāśikā of 7.2.1",
+   "quoteOk": true
+  },
+  "G2|7.2.4|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.2.4|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "This rule is a negative prohibition of vṛddhi, not a substitution where 1.1.52 could apply.",
+   "quote": "इडादौ सिचि हलन्तस्याङ्गस्य वृद्धिर्न भवति",
+   "source": "Kāśikā of 7.2.4",
+   "quoteOk": true
+  },
+  "G2|7.2.5|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.2.5|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "This rule is a prohibition of vṛddhi for specified stems before iṭ-initial sic, not a substitution governed by 1.1.52.",
+   "quote": "इडादौ सिचि परस्मैपदे परतो वृद्धिर्न भवति",
+   "source": "Kāśikā of 7.2.5",
+   "quoteOk": true
+  },
+  "G2|7.2.7|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.2.7|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The operation applies optionally to a short 'a' (अतः), not to the entire aṅga or dhātu.",
+   "quote": "हलादेरङ्गस्य लघोरकारस्येडादौ",
+   "source": "Kāśikā of 7.2.7",
+   "quoteOk": true
+  },
+  "G2|7.2.37|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.2.37|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The lengthener applies to the augment iṭ following grah, not to the root or aṅga itself.",
+   "quote": "ग्रह उत्तरस्येटोऽलिटि दीर्घो भवति",
+   "source": "Kāśikā of 7.2.37",
+   "quoteOk": true
+  },
+  "G2|7.3.71|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.3.71|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "unsure",
+   "reason": "The given texts state the rule without mentioning or settling whether 1.1.52 licenses this reading.",
+   "quote": "ओकारान्तस्याङ्गस्य श्यनि परतो लोपो भवति",
+   "source": "Kāśikā on 7.3.71",
+   "quoteOk": true
+  },
+  "G2|7.3.73|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.3.73|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "Nyaas explains that luk was prescribed instead of lopa precisely so that the entire ksa is elided rather than just the final sound under 1.1.52.",
+   "quote": "सर्वस्य क्सस्य लोपो यथा स्यादित्येवमर्थं लुग्ग्रहणं कृतम्",
+   "source": "nyaas on 7.3.73",
+   "quoteOk": true
+  },
+  "G2|7.3.74|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.3.74|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "unsure",
+   "reason": "The provided texts state the lengthening for the eight roots without mentioning or settling whether 1.1.52 applies.",
+   "quote": "शमादीनामष्टानां दीर्घो भवति श्यनि परतः",
+   "source": "Kāśikā on 7.3.74",
+   "quoteOk": true
+  },
+  "G2|7.3.75|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.3.75|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "unsure",
+   "reason": "The provided texts do not mention or settle whether 1.1.52 licenses the reading.",
+   "quote": "ष्ठिवु क्लमि आचम् इत्येतेषां दीर्घो भवति शिति परतः",
+   "source": "Kāśikā on 7.3.75",
+   "quoteOk": true
+  },
+  "G2|7.3.76|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.3.76|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "unsure",
+   "reason": "The given commentaries discuss conditions for the parasmaipada ending without settling whether 1.1.52 applies.",
+   "quote": "क्रमः परस्मैपदपरे शिति परतो दीर्घो भवति",
+   "source": "Kāśikā on 7.3.76",
+   "quoteOk": true
+  },
+  "G2|7.3.80|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.3.80|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "unsure",
+   "reason": "The given texts discuss which roots are included in the class without mentioning or settling whether 1.1.52 applies.",
+   "quote": "पू इत्येवमादीनां ह्रस्वो भवति शिति परतः",
+   "source": "Kāśikā on 7.3.80",
+   "quoteOk": true
+  },
+  "G2|7.3.81|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.3.81|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "unsure",
+   "reason": "The provided texts explain the Vedic domain and root selection without mentioning or settling whether 1.1.52 applies.",
+   "quote": "मीनातेरङ्गस्य शिति प्रत्यये परतो ह्रस्वो भवति",
+   "source": "Kāśikā on 7.3.81",
+   "quoteOk": true
+  },
+  "G2|7.3.83|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.3.83|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "unsure",
+   "reason": "The given texts discuss guṇa before jusi without settling whether 1.1.52 licenses this reading.",
+   "quote": "जुसि च प्रत्यये परत इगन्तस्याङ्गस्य गुणो भवति",
+   "source": "Kāśikā on 7.3.83",
+   "quoteOk": true
+  },
+  "G2|6.4.145|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.145|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The commentaries explicitly specify that the operation is elision of the ṭi portion by anuvṛtti of 'टेः', not an elision of the final sound under 1.1.52.",
+   "quote": "टिलोपः स्यान्नान्यत्र",
+   "source": "SK of 6.4.145",
+   "quoteOk": true
+  },
+  "G2|6.4.146|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.146|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "unsure",
+   "reason": "The provided texts state that guṇa replaces the u-ending bha base, but do not mention 1.1.52 or explicitly settle whether it is invoked to restrict guṇa to the final sound.",
+   "quote": "उवर्णान्तस्य भस्य गुणः स्यात्तद्धिते",
+   "source": "SK of 6.4.146",
+   "quoteOk": true
+  },
+  "G2|6.4.147|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.147|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "licensed",
+   "reason": "Balamanorama explicitly applies sūtra 1.1.52 to establish that the elision applies to the final sound of the u-ending base.",
+   "quote": "अलोऽन्त्यस्ये॑त्यन्त्यलोपः",
+   "source": "balamanorama on 6.4.147",
+   "quoteOk": true
+  },
+  "G2|6.4.151|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.151|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "Balamanorama explains that the sthānin is specifically the y-kāra carried over from 6.4.148, so 1.1.52 does not license the operation as an antya-al elision of a whole aṅga.",
+   "quote": "अपत्यार्थकयकारस्येत्यर्थः",
+   "source": "balamanorama on 6.4.151",
+   "quoteOk": true
+  },
+  "G2|6.4.152|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.152|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The sthānin is explicitly the sound y carried over from 6.4.148 rather than a whole aṅga whose final sound is elided via 1.1.52.",
+   "quote": "यञन्ताच्च्वौ यकारस्य लोपः",
+   "source": "balamanorama on 6.4.152",
+   "quoteOk": true
+  },
+  "G2|6.4.153|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.153|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The commentaries state that the term luk is explicitly used to elide the entire affix rather than an elision of a single sound under 1.1.52.",
+   "quote": "लुग्ग्रहणं सर्वलोपार्थमिति",
+   "source": "balamanorama on 6.4.153",
+   "quoteOk": true
+  },
+  "G2|6.4.154|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|6.4.154|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The commentators raise 1.1.52 only to reject it, explaining that the elision must apply to the entire tṛ morpheme because an antya elision would be vacuous.",
+   "quote": "सर्वलोपविज्ञानमन्त्यस्य वचनानर्थक्यात्",
+   "source": "bhashya on 6.4.154",
+   "quoteOk": true
+  },
+  "G2|7.1.22|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.1.22|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The sūtra prescribes luk elision of the case affixes jas and śas, which elides the whole affix rather than replacing the final sound of an aṅga under 1.1.52.",
+   "quote": "षड्भ्यः परयोर्जश्शसोर्लुक्स्यात्",
+   "source": "SK of 7.1.22",
+   "quoteOk": true
+  },
+  "G2|7.2.38|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.2.38|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "Sūtra 1.1.52 is inapplicable because 'वॄतः' is in the ablative and the sthānī is the augment 'इट्', not an aṅga or dhātu.",
+   "quote": "तस्मादुत्तरस्य ॠकारान्तेभ्यश्चेटो वा दीर्घो भवति",
+   "source": "Kāśikā of 7.2.38",
+   "quoteOk": true
+  },
+  "G2|7.2.39|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.2.39|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "Sūtra 1.1.52 does not apply because this rule merely prohibits lengthening of the augment iṭ, rather than replacing an aṅga or dhātu.",
+   "quote": "वॄतो लिङ इटो दीर्घो न स्यात्",
+   "source": "SK of 7.2.39",
+   "quoteOk": true
+  },
+  "G2|7.2.40|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.2.40|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "Sūtra 1.1.52 does not apply because this rule is a prohibition of lengthening of the augment iṭ, not a replacement of an aṅga or dhātu.",
+   "quote": "अत्र वॄत इटो दीर्घो न",
+   "source": "SK of 7.2.40",
+   "quoteOk": true
+  },
+  "G2|7.2.79|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.2.79|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "Sūtra 1.1.52 is inapplicable because the rule explicitly prescribes elision of the non-final s-kāra of liṅ rather than replacing the final sound.",
+   "quote": "सार्वधातुकलिङोऽनन्त्यस्य सस्य लोपः स्यात्",
+   "source": "SK of 7.2.79",
+   "quoteOk": true
+  },
+  "G2|7.2.107|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.2.107|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "licensed",
+   "reason": "Sūtra 1.1.52 licenses the single-sound replacement 'औ' applying to the final sound of the aṅga 'अदस्', as explicitly confirmed by Bālamanoramā.",
+   "quote": "इत्यलोन्त्यपरिभाषालभ्यम्",
+   "source": "balamanorama on 7.2.107",
+   "quoteOk": true
+  },
+  "G2|7.2.115|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.2.115|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "unsure",
+   "reason": "The commentaries explain that 'अचः' qualifies 'अङ्गस्य' by tadantavidhi without settling whether 1.1.52 is the rule that applies the vṛddhi to the final vowel.",
+   "quote": "अजन्तस्याङ्गस्य ञिति णिति च प्रत्यये वृद्धिर्भवति",
+   "source": "Kāśikā of 7.2.115",
+   "quoteOk": true
+  },
+  "G2|7.3.35|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.3.35|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "Sūtra 1.1.52 is inapplicable because the rule explicitly prohibits vṛddhi of the penultimate sound (उपधा), which is carried over from 7.2.116.",
+   "quote": "अनयोरुपधायावृद्धिर्न स्याच्चिणि ञ्णिति कृति च",
+   "source": "SK of 7.3.35",
+   "quoteOk": true
+  },
+  "G2|7.3.70|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.3.70|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "unsure",
+   "reason": "Although the forms show elision of the final vowel of the ghu root, the provided texts do not mention or settle whether 1.1.52 is the licensing rule.",
+   "quote": "घुसंज्ञकानां लेटि परतो वा लोपो भवति",
+   "source": "Kāśikā of 7.3.70",
+   "quoteOk": true
+  },
+  "G2|7.3.84|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.3.84|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The commentary explicitly states that the sthānī ik is supplied by the paribhāṣā 'इको गुणवृद्धी' (1.1.3), so 1.1.52 does not govern this substitution.",
+   "quote": "इति परिभाषया 'इक' इत्युपस्थितेन",
+   "source": "balamanorama on 7.3.84",
+   "quoteOk": true
+  },
+  "G2|7.3.85|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.3.85|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "unsure",
+   "reason": "The provided commentaries state that guṇa applies to the aṅga जागृ without mentioning or settling whether 1.1.52 licenses it.",
+   "quote": "जागर्तेर्गुणः स्याद्विचिण्णल्ङिद्भ्योऽन्यस्मिन्",
+   "source": "SK on 7.3.85",
+   "quoteOk": true
+  },
+  "G2|7.3.87|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.3.87|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The rule is explicitly a prohibition of guṇa for the penultimate vowel (laghūpadha), which is not the final sound governed by 1.1.52.",
+   "quote": "लघूपधगुणो न स्यात",
+   "source": "SK on 7.3.87",
+   "quoteOk": true
+  },
+  "G2|7.3.89|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.3.89|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The commentary explains that the sthānī is explicitly specified as the sound u itself, so 1.1.52 does not apply to a whole aṅga.",
+   "quote": "निर्दिष्टस्थानिकत्वादिक्परिभाषा नोपतिष्ठते",
+   "source": "padamanjari on 7.3.89",
+   "quoteOk": true
+  },
+  "G2|7.3.101|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.3.101|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "unsure",
+   "reason": "The provided texts explain the tadanta-vidhi for अदन्त aṅga but do not mention or settle whether 1.1.52 licenses the substitution.",
+   "quote": "अतोऽङ्गस्य दीर्घः स्याद्",
+   "source": "SK on 7.3.101",
+   "quoteOk": true
+  },
+  "G2|7.3.102|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.3.102|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The Bālamanoramā passage names the alontya-paribhāṣā while commenting on 7.3.109 (जसि च) rather than applying it to 7.3.102 (सुपि च).",
+   "quote": "अलोऽन्त्यपरिभाषयाऽन्त्यस्य गुणः",
+   "source": "balamanorama on 7.3.102",
+   "quoteOk": true
+  },
+  "G2|7.3.107|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.3.107|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "unsure",
+   "reason": "The provided texts state that hrasva applies to ambārtha and nadyanta aṅgas without mentioning or settling the application of 1.1.52.",
+   "quote": "अम्बार्थानां नद्यन्तानां च ह्रस्वः स्यात्संबुद्धौ",
+   "source": "SK on 7.3.107",
+   "quoteOk": true
+  },
+  "G2|7.3.108|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.3.108|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "licensed",
+   "reason": "The commentary explicitly applies the alontya-paribhāṣā to 'ह्रस्वस्य गुणः' to establish that guṇa replaces the final sound of the ह्रस्वान्त aṅga.",
+   "quote": "अलोऽन्त्यपरिभाषयाऽन्त्यस्य गुणः",
+   "source": "balamanorama on 7.3.102",
+   "quoteOk": false
+  },
+  "G2|7.4.29|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.4.29|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "unsure",
+   "reason": "The provided texts for 7.4.29 do not mention sūtra 1.1.52 or settle whether it licenses the operation.",
+   "quote": "गुणो भवति अर्तेः संयोगादीनाम् ऋकारान्तानां",
+   "source": "Kāśikā of 7.4.29",
+   "quoteOk": true
+  },
+  "G2|7.4.30|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.4.30|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "unsure",
+   "reason": "The provided commentaries on 7.4.30 do not mention sūtra 1.1.52 or settle its application.",
+   "quote": "यगि च परतः अर्तेः संयोगादेश्च ऋतः गुणो भवति",
+   "source": "Kāśikā of 7.4.30",
+   "quoteOk": true
+  },
+  "G2|7.4.50|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.4.50|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "unsure",
+   "reason": "The provided texts for 7.4.50 do not mention sūtra 1.1.52 or settle whether it licenses the elision of sakāra.",
+   "quote": "तासेः अस्तेश्च सकारस्य सकारादौ प्रत्यये परतः लोपो भवति",
+   "source": "Kāśikā of 7.4.50",
+   "quoteOk": true
+  },
+  "G2|7.4.51|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.4.51|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "unsure",
+   "reason": "The provided texts for 7.4.51 do not mention or settle the application of sūtra 1.1.52.",
+   "quote": "रेफादौ च प्रत्यये परतः तासस्त्योः सकारास्य लोपो भवति",
+   "source": "Kāśikā of 7.4.51",
+   "quoteOk": true
+  },
+  "G2|7.4.53|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.4.53|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "licensed",
+   "reason": "Nyāsa explicitly applies sūtra 1.1.52 to establish that the elision replaces only the final sound of dīdhī and vevī.",
+   "quote": "स च <<अलोऽन्त्यस्य>> [[1.1.52]]  इत्यन्त्यस्य",
+   "source": "nyaas on 7.4.53",
+   "quoteOk": true
+  },
+  "G2|7.4.59|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.4.59|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "Bālamanoramā explicitly states that the shortening replaces the vowel by the paribhāṣā 'अचश्च' (1.2.28) rather than by 1.1.52.",
+   "quote": "ह्रस्वश्रवणादचश्चेति परिभाषया अच इत्युपस्थितम्",
+   "source": "balamanorama on 7.4.59",
+   "quoteOk": true
+  },
+  "G2|7.4.67|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.4.67|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "Nyāsa explains that saṁprasāraṇa is an exception to halādiḥ śeṣa affecting the semivowel rather than replacing the final sound under 1.1.52.",
+   "quote": "हलादिशेषे प्राप्ते तस्यापवादौ द्युतिस्वाप्योः सम्प्रसारणमारभ्यते",
+   "source": "nyaas on 7.4.67",
+   "quoteOk": true
+  },
+  "G2|7.4.68|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.4.68|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "Tattvabodhinī clarifies that saṁprasāraṇa is an exception targeting the medial yakāra rather than eliding the final thakāra under 1.1.52.",
+   "quote": "संप्रसारणस्याऽभ्यासान्तर्गतयकारनिवृत्तेरपवादत्वं न तु थकारनिवृत्तेरिति भावः",
+   "source": "tattvabodhini on 7.4.68",
+   "quoteOk": true
+  },
+  "G2|7.4.13|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.4.13|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The sthānī specified by the genitive is the vowel pratyāhāra aṇ rather than a whole aṅga or dhātu, so 1.1.52 does not apply.",
+   "quote": "के प्रत्यये परतोऽणो ह्रस्वो भवति।",
+   "source": "Kāśikā of 7.4.13",
+   "quoteOk": true
+  },
+  "G2|7.4.14|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.4.14|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "This rule is a negative prohibition of the shortening of aṇ rather than an ādeśa replacing an aṅga or dhātu with a single sound, so 1.1.52 is not licensed.",
+   "quote": "कपि प्रत्यये परतोऽणो ह्रस्वो न भवति।",
+   "source": "Kāśikā of 7.4.14",
+   "quoteOk": true
+  },
+  "G2|7.4.15|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.4.15|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "unsure",
+   "reason": "The provided texts do not settle whether 1.1.52 applies, as Kāśikā treats the rule as an optional prohibition while Siddhāntakaumudī treats it as an optional shortening without stating whether 1.1.52 governs the replacement.",
+   "quote": "आबन्तस्याङ्गस्य कपि ह्रस्वः न भवत्यन्तरस्याम्।",
+   "source": "Kāśikā of 7.4.15",
+   "quoteOk": true
+  },
+  "G2|7.4.16|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.4.16|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The commentators explain that 1.1.52 does not apply because the word guṇa invokes 1.1.3 to replace the ik vowel instead of the final consonant of dṛś.",
+   "quote": "गुणग्रहणे तु सति संज्ञाविधाने नियम इतीक एव स्थाने भवति",
+   "source": "nyaas on 7.4.16",
+   "quoteOk": true
+  },
+  "G2|7.4.23|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.4.23|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The shortening replaces the initial vowel ū due to the anuvṛtti of aṇ rather than replacing the final consonant of ūh under 1.1.52.",
+   "quote": "केऽणः इत्यतोऽण्ग्रहणमनुवर्तते",
+   "source": "nyaas on 7.4.23",
+   "quoteOk": false
+  },
+  "G2|7.4.24|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.4.24|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The operation applies specifically to the aṇ vowel of iṇ carried over from 7.4.13 rather than replacing the final al of a whole dhātu under 1.1.52.",
+   "quote": "केऽणः इत्यतोऽण इति",
+   "source": "balamanorama on 7.4.24",
+   "quoteOk": false
+  },
+  "G2|7.4.25|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.4.25|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The rule is governed by the paribhāṣā acaś ca (1.2.28) brought in by the mention of dīrgha rather than by 1.1.52.",
+   "quote": "दीर्घग्रहणेन अचश्च इति परिभाषोपस्थानादाह",
+   "source": "tattvabodhini on 7.4.25",
+   "quoteOk": false
+  },
+  "G2|7.4.26|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.4.26|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The lengthening of an ajanta base is carried over directly from 7.4.25 rather than being licensed by 1.1.52.",
+   "quote": "अकृत्सार्वधातुकयो इत्यतस्तदनुवृत्तेरिति भावः",
+   "source": "balamanorama on 7.4.26",
+   "quoteOk": false
+  },
+  "G2|7.3.109|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.3.109|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "unsure",
+   "reason": "The provided commentaries on 7.3.109 do not mention or apply sūtra 1.1.52, so the given texts do not settle whether 1.1.52 licenses this reading.",
+   "quote": "जसि परतो ह्रस्वान्तस्याङ्गस्य गुणो भवति",
+   "source": "Kāśikā of 7.3.109",
+   "quoteOk": true
+  },
+  "G2|7.3.110|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.3.110|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "Although Nyāsa on 1.1.53 names 7.3.110, it merely cites it for a subsequent guṇa step in hotāpotārau rather than applying 1.1.52 or 1.1.53 to it, so the reading is not licensed.",
+   "quote": "आनङ्, औप्रत्यये परतः",
+   "source": "nyaas 11053",
+   "quoteOk": true
+  },
+  "G2|7.3.111|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.3.111|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "unsure",
+   "reason": "The provided commentaries for 7.3.111 do not mention or apply sūtra 1.1.52, so the given texts do not settle whether 1.1.52 licenses this reading.",
+   "quote": "घ्यन्तस्याङ्गस्य ङिति प्रत्यये परतो गुणो भवति",
+   "source": "Kāśikā of 7.3.111",
+   "quoteOk": true
+  },
+  "G2|7.3.114|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.3.114|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "In 7.3.114, syāṭ is an augment to the suffix and hrasva replaces āp rather than a whole aṅga or dhātu, so 1.1.52 does not license this operation.",
+   "quote": "टित्त्वादाद्यवयवः",
+   "source": "balamanorama on 7.3.114",
+   "quoteOk": true
+  },
+  "G2|7.3.115|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.3.115|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "In 7.3.115, syāṭ is an augment and hrasva applies to āp rather than a whole aṅga or dhātu, so 1.1.52 does not apply.",
+   "quote": "आभ्यां ङितः स्याड्वा स्यादापश्च ह्रस्वः",
+   "source": "SK on 7.3.115",
+   "quoteOk": true
+  },
+  "G2|7.4.10|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.4.10|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "unsure",
+   "reason": "Sūtra 1.1.52 is not mentioned or applied in the provided texts for 7.4.10, so the texts do not settle whether it licenses this reading.",
+   "quote": "ऋकारान्तस्य अङ्गस्य संयोगादेः गुणो भवति लिटि परतः",
+   "source": "Kāśikā of 7.4.10",
+   "quoteOk": true
+  },
+  "G2|7.4.11|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.4.11|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "unsure",
+   "reason": "None of the provided texts for 7.4.11 mention or apply sūtra 1.1.52, so the texts do not settle whether 1.1.52 licenses this reading.",
+   "quote": "ऋच्छतेरङ्गस्य, ऋ इत्येतस्य, ॠकारान्तानां च",
+   "source": "Kāśikā of 7.4.11",
+   "quoteOk": true
+  },
+  "G2|7.4.12|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.4.12|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "unsure",
+   "reason": "The given commentaries for 7.4.12 discuss the optional hrasva without mentioning 1.1.52, so the texts do not settle whether 1.1.52 licenses it.",
+   "quote": "शॄ पॄ दॄ इत्येतेषां अङ्गानां लिटि परतो वा ह्रस्वो भवति",
+   "source": "Kāśikā of 7.4.12",
+   "quoteOk": true
+  },
+  "G2|8.2.79|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|8.2.79|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The prohibition targets the penultimate sound (upadhā) via explicit anuvṛtti rather than the final sound licensed by 1.1.52.",
+   "quote": "भस्य कुर्च्छुरोश्चोपधाया दीर्घो न स्यात्",
+   "source": "SK on 8.2.79",
+   "quoteOk": true
+  },
+  "G2|8.3.9|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|8.3.9|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The replacement ruḥ applies directly to the specific single sound nakāra rather than replacing the final sound of an entire base via 1.1.52.",
+   "quote": "दीर्घादुत्तरस्य पदान्तस्य नकारस्य रुर्भवत्यटि परतः",
+   "source": "Kāśikā on 8.3.9",
+   "quoteOk": true
+  },
+  "G3|1.2.47|named by न्यासः": {
+   "key": "G3|1.2.47|named by न्यासः",
+   "verdict": "licensed",
+   "reason": "Sūtra 1.1.52 is applied to restrict the hrasva substitution of the prātipadika to its final sound, as stated in Kāśikā and confirmed by Nyāsa.",
+   "quote": "तस्य ह्रस्वो भवत्यादेशोऽलोऽन्त्यस्याचः",
+   "source": "Kāśikā on 1.2.47",
+   "quoteOk": true
+  },
+  "G3|1.3.9|named by काशिका": {
+   "key": "G3|1.3.9|named by काशिका",
+   "verdict": "not licensed",
+   "reason": "Kāśikā does not name 1.1.52, and Nyāsa explains that the word 'tasya' specifically prevents 1.1.52 from applying so that the entire it-marker is elided.",
+   "quote": "तस्यग्रहणेन तु प्रकृत इत्संज्ञके सन्निधापिते सर्वस्य लोपो भवति, नान्त्यस्य",
+   "source": "nyaas on 1.3.9",
+   "quoteOk": true
+  },
+  "G3|3.1.12|named by न्यासः": {
+   "key": "G3|3.1.12|named by न्यासः",
+   "verdict": "licensed",
+   "reason": "Nyāsa applies 1.1.52 as a restrictive rule (niyama) to ensure that consonant elision affects only the final sound, preventing elision in vowel-ending stems.",
+   "quote": "इति नियमे सति भृशायत इत्यादावहलन्त्यस्य हलो लोपो न भवति",
+   "source": "nyaas on 3.1.12",
+   "quoteOk": true
+  },
+  "G3|5.1.125|named by तत्त्वबोधिनी": {
+   "key": "G3|5.1.125|named by तत्त्वबोधिनी",
+   "verdict": "not licensed",
+   "reason": "Tattvabodhinī explicitly rejects the application of 1.1.52, stating that the entire cluster 'na' is elided due to ārambha-sāmarthya.",
+   "quote": "स्यान्न तु सङ्घातस्येति चेत् । मैवम् । आरम्भसामर्थ्यात्",
+   "source": "tattvabodhini on 5.1.125",
+   "quoteOk": true
+  },
+  "G3|6.1.2|named by न्यासः": {
+   "key": "G3|6.1.2|named by न्यासः",
+   "verdict": "not licensed",
+   "reason": "Nyāsa merely mentions 1.1.52 as an illustrative analogy for rule supersession rather than applying it to reduplication in 6.1.2.",
+   "quote": "तत्र यथा सत्यपि सम्भवेऽनन्त्यविकारोन्त्यविकारं बाधते, तथा द्वितीयद्विर्वचनं प्रथमद्विर्वचनं बाधिष्यते",
+   "source": "nyaas on 6.1.2",
+   "quoteOk": true
+  },
+  "G3|6.1.37|named by महाभाष्यम्": {
+   "key": "G3|6.1.37|named by महाभाष्यम्",
+   "verdict": "not licensed",
+   "reason": "The Mahābhāṣya explicitly rejects the application of 1.1.52 because the roots undergoing samprasāraṇa do not end in a yaṇ sound.",
+   "quote": "नेत्याह । न हि वचिस्वपियजादीनां ग्रहादीनां चान्त्यो यणस्ति",
+   "source": "bhashya on 6.1.37",
+   "quoteOk": true
+  },
+  "G2|7.4.69|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.4.69|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The commentaries do not apply 1.1.52 because the abhyāsa of iṇ is a single vowel directly replaced by dīrgha rather than an antādeśa.",
+   "quote": "इणोऽभ्यासस्य दीर्घः स्यात्किति लिटि",
+   "source": "SK of 7.4.69",
+   "quoteOk": true
+  },
+  "G2|7.4.77|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.4.77|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "licensed",
+   "reason": "Siddhānta Kaumudī directly applies 1.1.52 by specifying that the single-sound ikāra replacement of the abhyāsa is an antādeśa.",
+   "quote": "अभ्यासस्य इकारोऽन्तादेशः स्यात्",
+   "source": "SK of 7.4.77",
+   "quoteOk": true
+  },
+  "G2|7.4.78|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.4.78|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The commentaries do not apply 1.1.52 and state simply that the abhyāsa takes ikāra in Vedic usage without treating it as an antādeśa.",
+   "quote": "अभ्यासस्य इकारः स्याच्छन्दसि",
+   "source": "SK of 7.4.78",
+   "quoteOk": true
+  },
+  "G2|7.4.82|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.4.82|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "1.1.52 is not applied because guṇa of the abhyāsa is specifically governed by 1.1.3 (iko guṇavṛddhī) applying to an iganta abhyāsa.",
+   "quote": "इगन्तस्य अभ्यासस्य गुणो भवति",
+   "source": "Kāśikā of 7.4.82",
+   "quoteOk": true
+  },
+  "G2|7.4.83|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.4.83|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "Although the Mahābhāṣya names alo'ntya-vidhi in an objection, it rejects that akitaḥ is intended for alo'ntya-nivṛtti and does not apply 1.1.52.",
+   "quote": "अकिद्वचनमन्यत्र किदन्तस्याऽलोऽन्त्यनिवृत्त्यर्थम्",
+   "source": "bhashya on 7.4.83",
+   "quoteOk": true
+  },
+  "G2|7.4.92|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.4.92|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "1.1.52 applies strictly to replacements (ādeśas), whereas ruk, rik, and rīk are kit augments (āgamas) and thus outside the scope of 1.1.52.",
+   "quote": "रुग्रिकौ आगमौ भवतः रीक् च",
+   "source": "Kāśikā of 7.4.92",
+   "quoteOk": true
+  },
+  "G2|7.4.94|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|7.4.94|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "1.1.52 does not apply because the sthānī is specifically the laghu vowel segment of the abhyāsa rather than the abhyāsa as a whole.",
+   "quote": "अभ्यासावयवस्य लघोरित्यर्थः",
+   "source": "balamanorama on 7.4.94",
+   "quoteOk": true
+  },
+  "G2|8.2.46|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G2|8.2.46|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "1.1.52 is not applied because the sthānī is the single sound niṣṭhā-takāra carried from 8.2.42, while kṣiyo dīrghāt is an ablative condition.",
+   "quote": "निष्ठातकारस्य नकारादेशो भवति",
+   "source": "Kāśikā of 8.2.46",
+   "quoteOk": true
+  },
+  "G3|8.3.14|named by न्यासः": {
+   "key": "G3|8.3.14|named by न्यासः",
+   "verdict": "not licensed",
+   "reason": "Nyāsa mentions 1.1.52 only as a hypothetical consequence if 'padasya' were a sthāna-ṣaṣṭhī, but rejects that view in favor of viśeṣaṇa-ṣaṣṭhī where 1.1.52 does not apply.",
+   "quote": "इह यदि पदस्येति स्थानषष्ठी स्यात्, ततः",
+   "source": "nyaas on 8.3.14",
+   "quoteOk": true
+  },
+  "G4|2.4.85|named by महाभाष्यम्": {
+   "key": "G4|2.4.85|named by महाभाष्यम्",
+   "verdict": "not licensed",
+   "reason": "The Mahābhāṣya establishes that the substitute 'ḍā' replaces the entire tiṅ affix as a sarvādeśa under 1.1.55, so 1.1.52 does not apply.",
+   "quote": "अक्रियमाणे हि शकारे अलोन्त्यस्य विधयो भवन्ति",
+   "source": "bhashya on 2.4.85",
+   "quoteOk": true
+  },
+  "G4|3.4.99|named by सिद्धान्तकौमुदी": {
+   "key": "G4|3.4.99|named by सिद्धान्तकौमुदी",
+   "verdict": "licensed",
+   "reason": "Under the Siddhāntakaumudī's reading where the sakārānta uttama is the sthānī, 1.1.52 applies to restrict the elision to the final phoneme.",
+   "quote": "अलोऽन्त्यस्येत्यन्त्यलोपः",
+   "source": "balamanorama on 3.4.99",
+   "quoteOk": true
+  },
+  "G4|4.1.78|named by न्यासः": {
+   "key": "G4|4.1.78|named by न्यासः",
+   "verdict": "not licensed",
+   "reason": "Nyāsa discusses 1.1.53 (ङिच्च, misreferenced as 1.1.52), but rejects antyādeśa in favor of the paribhāṣā 'nirdiśyamānasya', so 1.1.52 does not apply.",
+   "quote": "यथा पाच्छब्दस्य पदित्ययमादेशो विज्ञायते",
+   "source": "nyaas on 4.1.78",
+   "quoteOk": true
+  },
+  "G4|5.3.3|named by न्यासः": {
+   "key": "G4|5.3.3|named by न्यासः",
+   "verdict": "not licensed",
+   "reason": "Nyāsa explains that 'iś' is a sarvādeśa by 1.1.55 because of its śakāra, whereas 1.1.52 is named only as the undesirable rule that would have applied in the absence of śakāra.",
+   "quote": "एहेत्यनिष्टं रूपं स्यात्",
+   "source": "nyaas on 5.3.3",
+   "quoteOk": true
+  },
+  "G4|5.3.5|named by महाभाष्यम्": {
+   "key": "G4|5.3.5|named by महाभाष्यम्",
+   "verdict": "not licensed",
+   "reason": "The Mahābhāṣya establishes that the substitute replaces the entire stem as a sarvādeśa under 1.1.55, so 1.1.52 does not apply.",
+   "quote": "सः अनेकाल्शित्सर्वस्य इति सर्वादेशो भविष्यति",
+   "source": "bhashya on 5.3.5",
+   "quoteOk": true
+  },
+  "G4|6.4.19|named by न्यासः": {
+   "key": "G4|6.4.19|named by न्यासः",
+   "verdict": "not licensed",
+   "reason": "Nyāsa expressly rejects the application of 1.1.52, stating that the substitute replaces the entire cluster with tuk by virtue of its explicit formulation.",
+   "quote": "नैतदस्ति; सतुक्कस्य ग्रहणसामथ्र्यान्न भविष्यति",
+   "source": "nyaas on 6.4.19",
+   "quoteOk": true
+  },
+  "G4|6.4.103|named by तत्त्वबोधिनी": {
+   "key": "G4|6.4.103|named by तत्त्वबोधिनी",
+   "verdict": "not licensed",
+   "reason": "Tattvabodhinī mentions 1.1.52 only in an unrelated discussion of the 'nirdiśyamānasya' paribhāṣā and does not apply it to 6.4.103.",
+   "quote": "त्वारम्भसामर्थ्यान्निर्दिश्यमानपरिभाषाया बाधकौ",
+   "source": "tattvabodhini on 6.4.103",
+   "quoteOk": true
+  },
+  "G3|7.3.72|named by न्यासः": {
+   "key": "G3|7.3.72|named by न्यासः",
+   "verdict": "licensed",
+   "reason": "Nyāsa explicitly applies 1.1.52 to ensure that the elision replaces only the final sound of the affix ksa.",
+   "quote": "तस्यानेन <<अलोऽन्त्यस्य>> [[1.1.52]]  लोपः",
+   "source": "nyaas on 7.3.72",
+   "quoteOk": true
+  },
+  "G3|7.4.1|named by न्यासः": {
+   "key": "G3|7.4.1|named by न्यासः",
+   "verdict": "not licensed",
+   "reason": "Nyāsa mentions 1.1.52 only as a rejected prima facie rationale for the term 'upadhāyāḥ', showing that 1.1.52 does not govern the operation.",
+   "quote": "अलोऽन्त्यस्य मा भूदित्येवमर्थमुपधाग्रहणं क्रियते, एतच्चाप्रयोजनम्",
+   "source": "nyaas on 7.4.1",
+   "quoteOk": true
+  },
+  "G3|7.4.39|named by न्यासः": {
+   "key": "G3|7.4.39|named by न्यासः",
+   "verdict": "licensed",
+   "reason": "Nyāsa explicitly applies 1.1.52 to elide only the final sound of the stems before kyac in a sacred verse.",
+   "quote": "<<अलोऽन्त्यस्य>> [[1.1.52]]  लोपः",
+   "source": "nyaas on 7.4.39",
+   "quoteOk": true
+  },
+  "G3|7.4.57|named by न्यासः": {
+   "key": "G3|7.4.57|named by न्यासः",
+   "verdict": "not licensed",
+   "reason": "Nyāsa explains that 1.1.52 does not apply because the rule specifies 'guṇa', which replaces an ik vowel rather than the final sound.",
+   "quote": "गुणग्रहणादिक एव भवति",
+   "source": "nyaas on 7.4.57",
+   "quoteOk": true
+  },
+  "G3|7.4.58|named by न्यासः": {
+   "key": "G3|7.4.58|named by न्यासः",
+   "verdict": "not licensed",
+   "reason": "Nyāsa explicitly rejects the application of 1.1.52 as a delusion, confirming that the elision applies to the entire abhyāsa.",
+   "quote": "इहालोन्त्यपरिभाषया <<अलोऽन्त्यस्य>> [[1.1.52]]  लोपेन भवितव्यमिति कस्यचिद्भ्रान्तिः स्यात्",
+   "source": "nyaas on 7.4.58",
+   "quoteOk": true
+  },
+  "G3|8.1.1|named by न्यासः": {
+   "key": "G3|8.1.1|named by न्यासः",
+   "verdict": "not licensed",
+   "reason": "Nyāsa explains that 1.1.52 cannot apply here because the substitute is anekāl and thus replaces the entire word by 1.1.55.",
+   "quote": "तत्र त्वलोऽन्त्यनिवृत्त्यर्थं तावन्नोपपद्यते",
+   "source": "nyaas on 8.1.1",
+   "quoteOk": true
+  },
+  "G3|8.2.23|named by तत्त्वबोधिनी": {
+   "key": "G3|8.2.23|named by तत्त्वबोधिनी",
+   "verdict": "licensed",
+   "reason": "Tattvabodhinī explicitly cites 1.1.52 as the paribhāṣā that restricts the elision of a saṁyogānta pada to its final sound.",
+   "quote": "तदन्तस्येति । अलोऽन्त्यस्ये॑ति परिभाषयेति भावः",
+   "source": "tattvabodhini on 8.2.23",
+   "quoteOk": true
+  },
+  "G3|8.2.82|named by न्यासः": {
+   "key": "G3|8.2.82|named by न्यासः",
+   "verdict": "not licensed",
+   "reason": "Nyāsa explains that 1.1.52 does not govern the rule because 'ṭeḥ' is specifically stated to allow pluta for consonant-ending words.",
+   "quote": "तस्माद्व्यञ्जनान्तस्यापि टेरचः प्लुतो यथा स्यादित्येवमर्थं टिग्रहणं कृतम्",
+   "source": "nyaas on 8.2.82",
+   "quoteOk": true
+  },
+  "G4|6.4.123|named by महाभाष्यम्": {
+   "key": "G4|6.4.123|named by महाभाष्यम्",
+   "verdict": "not licensed",
+   "reason": "The Mahābhāṣya merely mentions 1.1.52 in a tentative argument for identifying the sthānī, which is then abandoned in favor of obtaining it via anuvṛtti.",
+   "quote": "‹अलोऽन्त्यस्य विधयो भवन्तीति अकारस्य भविष्यति›",
+   "source": "bhashya on 6.4.123",
+   "quoteOk": false
+  },
+  "G4|6.4.127|named by बालमनोरमा": {
+   "key": "G4|6.4.127|named by बालमनोरमा",
+   "verdict": "licensed",
+   "reason": "Bālamanoramā directly applies 1.1.52 to establish that the substitute तृ replaces the final al of अर्वन्, namely nakāra.",
+   "quote": "‹अलोऽन्त्यस्ये॑ति नस्य तः›",
+   "source": "balamanorama on 6.4.127",
+   "quoteOk": false
+  },
+  "G4|6.4.128|named by बालमनोरमा": {
+   "key": "G4|6.4.128|named by बालमनोरमा",
+   "verdict": "licensed",
+   "reason": "Bālamanoramā directly applies 1.1.52 to state that the substitute तृ replaces the final sound nakāra of मघवन् with takāra.",
+   "quote": "‹अलोऽन्त्यस्येति नकारस्य तकारः›",
+   "source": "balamanorama on 6.4.128",
+   "quoteOk": false
+  },
+  "G4|7.1.9|named by बालमनोरमा": {
+   "key": "G4|7.1.9|named by बालमनोरमा",
+   "verdict": "not licensed",
+   "reason": "Bālamanoramā cites 1.1.52 only as a prima facie objection that is rejected because the substitute ऐस् is anekāl and thus a sarvādeśa by 1.1.55.",
+   "quote": "‹अलोऽन्त्यस्येत्यन्तादेशमाशङ्क्याह›",
+   "source": "balamanorama on 7.1.9",
+   "quoteOk": false
+  },
+  "G4|7.1.27|named by पदमञ्जरी": {
+   "key": "G4|7.1.27|named by पदमञ्जरी",
+   "verdict": "not licensed",
+   "reason": "Padamanjarī mentions 1.1.52 only in an objection questioning the need for śit-karaṇa, whereas in the siddhānta the substitute अश् is a sarvādeśa by 1.1.55.",
+   "quote": "‹शित्करणं सर्वादेशार्थमिति›",
+   "source": "padamanjari on 7.1.27",
+   "quoteOk": false
+  },
+  "G4|7.1.35|named by न्यासः": {
+   "key": "G4|7.1.35|named by न्यासः",
+   "verdict": "not licensed",
+   "reason": "Nyāsa explicitly concludes that तातङ् is a sarvādeśa under 1.1.55, rejecting the proposal that it is an antādeśa under 1.1.52/1.1.53.",
+   "quote": "‹तस्मात्सर्वादेशस्तातङ् भवति›",
+   "source": "nyaas on 7.1.35",
+   "quoteOk": false
+  },
+  "G4|7.1.40|named by न्यासः": {
+   "key": "G4|7.1.40|named by न्यासः",
+   "verdict": "not licensed",
+   "reason": "Nyāsa notes that 1.1.52 would only apply in the absence of śit-karaṇa, but here the substitute मश् is śit and therefore replaces the whole under 1.1.55.",
+   "quote": "‹सर्वादेशार्थः शकारः कर्तव्यः›",
+   "source": "nyaas on 7.1.40",
+   "quoteOk": false
+  },
+  "G4|7.2.2|named by न्यासः": {
+   "key": "G4|7.2.2|named by न्यासः",
+   "verdict": "not licensed",
+   "reason": "Nyāsa mentions 1.1.52 only as an undesirable consequence if the sthānī were unspecified, and explains that vṛddhi is specified for akāra itself.",
+   "quote": "‹अकारस्यैव स्थाने वृद्धिर्विज्ञायत इति›",
+   "source": "nyaas on 7.2.2",
+   "quoteOk": false
+  },
+  "G6|6.4.77|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G6|6.4.77|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The substitutes iyaṅ and uvaṅ are anekāl, so their replacement of the final sound is licensed by 1.1.53 (ङिच्च) rather than 1.1.52.",
+   "quote": "ङिच्चेत्यन्तादेश इति",
+   "source": "balamanorama on 6.4.77",
+   "quoteOk": true
+  },
+  "G6|6.4.78|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G6|6.4.78|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The substitutes iyaṅ and uvaṅ are anekāl, so their assignment to the final sound is governed by ṅittva under 1.1.53 rather than 1.1.52.",
+   "quote": "ङित्त्वादन्तादेशौ",
+   "source": "balamanorama on 6.4.78",
+   "quoteOk": true
+  },
+  "G6|7.1.6|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G6|7.1.6|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The element ruṭ is an augment (āgama) marked with ṭakāra and placed at the beginning via 1.1.46, not a substitute governed by 1.1.52.",
+   "quote": "टित्त्वादाद्यवयवः",
+   "source": "balamanorama on 7.1.6",
+   "quoteOk": true
+  },
+  "G6|7.1.7|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G6|7.1.7|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The element ruṭ is an optional augment rather than a substitute, so 1.1.52 does not apply to it.",
+   "quote": "झादेशस्यातो विभाषा रुडागमो भवति",
+   "source": "Kāśikā on 7.1.7",
+   "quoteOk": true
+  },
+  "G6|7.1.51|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G6|7.1.51|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The element asuk is a kit augment attached to the end via 1.1.46, not an ādeśa governed by 1.1.52.",
+   "quote": "कित्त्वादन्त्यावयवः",
+   "source": "balamanorama on 7.1.51",
+   "quoteOk": true
+  },
+  "G6|7.1.52|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G6|7.1.52|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The element suṭ is an augment (āgama) added to the case affix ām, not a substitute governed by 1.1.52.",
+   "quote": "उत्तरस्यामः सुडागमो भवति",
+   "source": "Kāśikā on 7.1.52",
+   "quoteOk": true
+  },
+  "G6|7.1.73|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G6|7.1.73|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The element num is an augment governed by 1.1.47 rather than a substitute governed by 1.1.52.",
+   "quote": "विभक्तौ नुमागमो भवति",
+   "source": "Kāśikā on 7.1.73",
+   "quoteOk": true
+  },
+  "G6|7.2.82|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G6|7.2.82|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "The element muk is a kit augment added to the base via 1.1.46, not a substitute governed by 1.1.52.",
+   "quote": "कित्त्वादन्तावयवः",
+   "source": "balamanorama on 7.2.82",
+   "quoteOk": true
+  },
+  "G3|6.1.69|named by महाभाष्यम्": {
+   "key": "G3|6.1.69|named by महाभाष्यम्",
+   "verdict": "not licensed",
+   "reason": "The Mahābhāṣya introduces 1.1.52 only in an objection and explicitly rejects it with ‹तत्तु न लभ्यम्›, adopting the anuvṛtti of hal instead.",
+   "quote": "यद्येतल्लभ्येत कृतं स्यात् । तत्तु न लभ्यम् ।",
+   "source": "bhashya on 6.1.69",
+   "quoteOk": true
+  },
+  "G3|6.3.62|named by पदमञ्जरी": {
+   "key": "G3|6.3.62|named by पदमञ्जरी",
+   "verdict": "licensed",
+   "reason": "Padamañjarī explicitly applies 1.1.52 to establish that the shortening replacement must occur in place of the final al of ekashabda.",
+   "quote": "तत्र अलोन्त्यस्य इत्यन्त्यस्य ह्रस्वेन भाव्यम्",
+   "source": "padamanjari on 6.3.62",
+   "quoteOk": true
+  },
+  "G3|6.3.124|named by पदमञ्जरी": {
+   "key": "G3|6.3.124|named by पदमञ्जरी",
+   "verdict": "not licensed",
+   "reason": "Padamañjarī mentions 1.1.52 not as applying to 6.3.124, but as governing the takārādeśa under sūtra 7.4.47.",
+   "quote": "यस्तावद् अच उपसर्गातः इति तकारः स अलोऽन्त्यस्य इत्यन्तस्य क्रियते",
+   "source": "padamanjari on 6.3.124",
+   "quoteOk": true
+  },
+  "G3|6.3.134|named by न्यासः": {
+   "key": "G3|6.3.134|named by न्यासः",
+   "verdict": "not licensed",
+   "reason": "Nyāsa refers to 1.1.52 as applying to the substitution in 7.4.47, not as an operating rule for 6.3.134.",
+   "quote": "<<अलोऽन्त्यस्य>> [[1.1.52]]  इति वचनादन्त्यस्य क्रियते",
+   "source": "nyaas on 6.3.134",
+   "quoteOk": true
+  },
+  "G3|6.4.16|named by न्यासः": {
+   "key": "G3|6.4.16|named by न्यासः",
+   "verdict": "not licensed",
+   "reason": "Nyāsa raises 1.1.52 only as a hypothetical objection regarding the lengthening of consonants and rejects it with ‹नैतदस्ति›.",
+   "quote": "<<अलोऽन्त्यस्य>> [[1.1.52]]  इत्यन्त्यस्य? नैतदस्ति;",
+   "source": "nyaas on 6.4.16",
+   "quoteOk": true
+  },
+  "G3|6.4.49|named by काशिका": {
+   "key": "G3|6.4.49|named by काशिका",
+   "verdict": "not licensed",
+   "reason": "Kāśikā and Nyāsa reject the application of 1.1.52 because deletion of the final al is already accomplished by the preceding rule 6.4.48.",
+   "quote": "पूर्वेणाप्यलोऽन्त्यस्य लोपः सिद्धः",
+   "source": "nyaas on 6.4.49",
+   "quoteOk": true
+  },
+  "G3|7.2.90|named by न्यासः": {
+   "key": "G3|7.2.90|named by न्यासः",
+   "verdict": "licensed",
+   "reason": "Nyāsa confirms that under the primary reading where śeṣe is a vibhakti qualifier, 1.1.52 applies to delete the final al of yuṣmad and asmad.",
+   "quote": "<<अलोऽन्त्यस्य>> [[1.1.52]]  इति परिभाषयाऽन्त्यस्यैव प्राप्नोतीति",
+   "source": "nyaas on 7.2.90",
+   "quoteOk": true
+  },
+  "G3|7.2.113|named by न्यासः": {
+   "key": "G3|7.2.113|named by न्यासः",
+   "verdict": "not licensed",
+   "reason": "Nyāsa raises 1.1.52 only to explain that deletion of the final al is blocked here by the paribhāṣā ‹नानर्थकेऽलोऽन्त्यविधिरनभ्यासविकारेषु›.",
+   "quote": "अथालोऽन्त्यपरिभाषया [[1.1.52]] न्त्यस्यायं लोपः कस्मान्न भवति?",
+   "source": "nyaas on 7.2.113",
+   "quoteOk": true
+  },
+  "G4|7.3.54|named by काशिका": {
+   "key": "G4|7.3.54|named by काशिका",
+   "verdict": "not licensed",
+   "reason": "The Kāśikā on 7.3.54 does not name 1.1.52, and the sthānin is explicitly specified as the initial sound 'h' by 'हः'.",
+   "quote": "हन्तेर्हकारस्य कवर्गादेशो भवति",
+   "source": "Kāśikā on 7.3.54",
+   "quoteOk": true
+  },
+  "G4|7.4.88|named by काशिका": {
+   "key": "G4|7.4.88|named by काशिका",
+   "verdict": "not licensed",
+   "reason": "1.1.52 is named only to explain that the sūtra's explicit word 'अतः' prevents 1.1.52 from applying to the final consonant.",
+   "quote": "अलोऽन्त्यस्य मा भूत्",
+   "source": "nyaas on 7.4.88",
+   "quoteOk": true
+  },
+  "G4|8.3.1|named by सिद्धान्तकौमुदी": {
+   "key": "G4|8.3.1|named by सिद्धान्तकौमुदी",
+   "verdict": "not licensed",
+   "reason": "Siddhānta Kaumudī does not name 1.1.52, and the commentaries note that 1.1.52 does not apply in this context.",
+   "quote": "अनर्थकेऽलोन्त्यपरिभाषाया अभावात्",
+   "source": "padamanjari on 8.3.1",
+   "quoteOk": true
+  },
+  "G4|8.3.5|named by न्यासः": {
+   "key": "G4|8.3.5|named by न्यासः",
+   "verdict": "licensed",
+   "reason": "Nyāsa explicitly names and applies 1.1.52 to substitute 'ru' in place of the final sound 'm' of 'sam'.",
+   "quote": "समो मकारस्य <<अलोऽन्त्यस्य>>",
+   "source": "nyaas on 8.3.5",
+   "quoteOk": true
+  },
+  "G4|8.3.10|named by बालमनोरमा": {
+   "key": "G4|8.3.10|named by बालमनोरमा",
+   "verdict": "licensed",
+   "reason": "Bālamanoramā explicitly applies 1.1.52 to replace the final sound 'n' of 'nṝn' with 'ru'.",
+   "quote": "अलोऽन्त्यस्य॑ । नृन्-पाहीति स्थिते नस्य रुत्वम्",
+   "source": "balamanorama on 8.3.10",
+   "quoteOk": true
+  },
+  "G4|8.3.15|named by बालमनोरमा": {
+   "key": "G4|8.3.15|named by बालमनोरमा",
+   "verdict": "licensed",
+   "reason": "Bālamanoramā explicitly cites 1.1.52 to state that the visarjanīya substitute replaces the final sound of the pada.",
+   "quote": "अलोऽन्त्यस्येत्यन्त्यस्य भवति",
+   "source": "balamanorama on 8.3.15",
+   "quoteOk": true
+  },
+  "G4|8.3.23|named by सिद्धान्तकौमुदी": {
+   "key": "G4|8.3.23|named by सिद्धान्तकौमुदी",
+   "verdict": "licensed",
+   "reason": "Bālamanoramā confirms that 1.1.52 is supplied in the Siddhānta Kaumudī to direct anusvāra to replace the final sound of the pada.",
+   "quote": "अलोन्त्यस्येति । उपतिष्ठत इति शेषः",
+   "source": "balamanorama on 8.3.23",
+   "quoteOk": true
+  },
+  "G8|1.1.55|1.1.55": {
+   "key": "G8|1.1.55|1.1.55",
+   "verdict": "not licensed",
+   "reason": "Sūtra 1.1.55 is an exception that sets aside 1.1.52, and Bālamanoramā explicitly states that no words are carried over into it.",
+   "quote": "अनुवर्तनीयपदान्तराऽभावादिति भावः",
+   "source": "balamanorama on 1.1.55",
+   "quoteOk": true
+  },
+  "G9|1.1.61|named by पदमञ्जरी": {
+   "key": "G9|1.1.61|named by पदमञ्जरी",
+   "verdict": "not licensed",
+   "reason": "Padamañjarī only names 1.1.52 in a rejected counterfactual objection concerning whether luk would otherwise replace only the final sound.",
+   "quote": "तत्रालोऽन्त्यस्य स्यात्",
+   "source": "padamanjari on 1.1.61",
+   "quoteOk": true
+  },
+  "G9|1.1.65|named by महाभाष्यम्": {
+   "key": "G9|1.1.65|named by महाभाष्यम्",
+   "verdict": "not licensed",
+   "reason": "The Mahābhāṣya merely mentions 1.1.52 in a tentative argument that is subsequently rejected, and sūtra 1.1.65 is a definition rather than an operational replacement rule.",
+   "quote": "अन्त्यविज्ञानात् सिद्धमिति चेत् तन्न",
+   "source": "bhashya on 1.1.65",
+   "quoteOk": true
+  },
+  "G10|3.1.91|named by महाभाष्यम्": {
+   "key": "G10|3.1.91|named by महाभाष्यम्",
+   "verdict": "not licensed",
+   "reason": "Sūtra 1.1.52 is named in the Mahābhāṣya only while discussing a hypothetical alternative scope for the adhikāra of 'धातोः' rather than applying to it.",
+   "quote": "अलोन्त्यस्य विधयो भवन्ति",
+   "source": "bhashya on 3.1.91",
+   "quoteOk": false
+  },
+  "G10|6.4.1|named by न्यासः": {
+   "key": "G10|6.4.1|named by न्यासः",
+   "verdict": "not licensed",
+   "reason": "Nyāsa mentions 1.1.52 only to raise a potential objection that is resolved by taking 'अङ्गस्य' as sambandha-sāmānye ṣaṣṭhī rather than sthāna-ṣaṣṭhī.",
+   "quote": "अङ्गस्येति सम्बन्धसामान्य एषा षष्ठी",
+   "source": "nyaas on 6.4.1",
+   "quoteOk": true
+  },
+  "G11|3.1.108|त": {
+   "key": "G11|3.1.108|त",
+   "verdict": "licensed",
+   "reason": "Because 'त' is a single-sound replacement for the genitive-specified base 'हन्', 1.1.52 directs that it replaces the final sound as an antādeśa.",
+   "quote": "तकारश्चान्तादेशः",
+   "source": "Kāśikā of 3.1.108",
+   "quoteOk": true
+  },
+  "G11|3.1.111|ई": {
+   "key": "G11|3.1.111|ई",
+   "verdict": "licensed",
+   "reason": "Sūtra 1.1.52 licenses the reading of 'ई' as an antādeśa replacing the final sound of the genitive-specified base 'खन्'.",
+   "quote": "ईकारश्चान्तादेशः",
+   "source": "Kāśikā of 3.1.111",
+   "quoteOk": true
+  },
+  "G12|4.3.22|त-लोपः": {
+   "key": "G12|4.3.22|त-लोपः",
+   "verdict": "not licensed",
+   "reason": "The elision of 'त' is explicitly ordained by the sūtra itself as 'तलोपः' rather than being licensed by 1.1.52, which would have targeted the final sound of the base.",
+   "quote": "तत्सन्नियोगेन चास्य तकारलोपः",
+   "source": "Kāśikā of 4.3.22",
+   "quoteOk": true
+  },
+  "G5|3.4.95|ऐ": {
+   "key": "G5|3.4.95|ऐ",
+   "verdict": "not licensed",
+   "reason": "The substitute ऐ replaces the specified vowel आकार itself rather than the final sound of a base under 1.1.52.",
+   "quote": "लेट्संबन्धिन आकारस्य ऐकारादेशो भवति",
+   "source": "Kāśikā of 3.4.95",
+   "quoteOk": true
+  },
+  "G5|6.3.91|आ": {
+   "key": "G5|6.3.91|आ",
+   "verdict": "licensed",
+   "reason": "Bālamanoramā explicitly states that आकार is an अन्तादेश licensed by the paribhāṣā अलोऽन्त्यस्य.",
+   "quote": "अन्तादेश इति । अलोऽन्त्यपरिभाषालभ्यमिदम् ।",
+   "source": "balamanorama on 6.3.91",
+   "quoteOk": true
+  },
+  "G5|6.4.113|ई": {
+   "key": "G5|6.4.113|ई",
+   "verdict": "not licensed",
+   "reason": "The substitute ई directly replaces the specified vowel आकार rather than replacing the final sound of a base under 1.1.52.",
+   "quote": "घुवर्जितानामात ईकारादेशो भवति",
+   "source": "Kāśikā of 6.4.113",
+   "quoteOk": true
+  },
+  "G5|6.4.117|आ": {
+   "key": "G5|6.4.117|आ",
+   "verdict": "licensed",
+   "reason": "Kāśikā explicitly specifies that आकार is an अन्तादेश replacing the final sound of the base jahāti.",
+   "quote": "जहातेराकारश्चान्तादेशो भवतीकारश्चान्यतरस्यां हौ परतः",
+   "source": "Kāśikā of 6.4.117",
+   "quoteOk": true
+  },
+  "G5|7.1.34|औ": {
+   "key": "G5|7.1.34|औ",
+   "verdict": "not licensed",
+   "reason": "The substitute औ replaces the entire affix णल् rather than just its final sound under 1.1.52.",
+   "quote": "आकारान्तादङ्गादुत्तरस्य णल औकारादेशो भवति",
+   "source": "Kāśikā of 7.1.34",
+   "quoteOk": true
+  },
+  "G5|7.4.31|ई": {
+   "key": "G5|7.4.31|ई",
+   "verdict": "unsure",
+   "reason": "The provided texts do not mention 1.1.52 or designate ई as an अन्तादेश, leaving the licensing unsettled without relying on remembered grammar.",
+   "quote": "घ्रा ध्मा इत्येतयोः यङि परतः ईकारादेशो भवति",
+   "source": "Kāśikā of 7.4.31",
+   "quoteOk": true
+  },
+  "G5|7.4.97|ई": {
+   "key": "G5|7.4.97|ई",
+   "verdict": "unsure",
+   "reason": "The provided texts do not mention 1.1.52 or specify that ई is an अन्तादेश, so the texts do not settle the verdict.",
+   "quote": "गणेः अभ्यासस्य ईकारादेशो भवति चङ्परे णौ परतः",
+   "source": "Kāśikā of 7.4.97",
+   "quoteOk": true
+  },
+  "G5|8.4.68|अ": {
+   "key": "G5|8.4.68|अ",
+   "verdict": "not licensed",
+   "reason": "Sūtra 1.1.52 is inapplicable because the open vowel अ itself is replaced in its entirety by the closed vowel अ.",
+   "quote": "इति विवृतमनूद्य संवृतोऽनेन विधीयते",
+   "source": "SK on 8.4.68",
+   "quoteOk": true
+  },
+  "G18|8.2.89|named by Vasu": {
+   "key": "G18|8.2.89|named by Vasu",
+   "verdict": "not licensed",
+   "reason": "Sūtra 1.1.52 is merely mentioned as a counterfactual that would apply without the explicit term 'ṭeḥ', which is taught precisely so that the praṇava replaces the entire ṭi rather than only the final al.",
+   "quote": "सर्वस्यैव टेर्यथा स्यादिति",
+   "source": "nyaas on 8.2.89",
+   "quoteOk": true
+  },
+  "G6|7.3.33|the place is a whole aṅga/dhātu and the replacement is one sound": {
+   "key": "G6|7.3.33|the place is a whole aṅga/dhātu and the replacement is one sound",
+   "verdict": "not licensed",
+   "reason": "Sūtra 7.3.33 prescribes the augment yuk rather than a replacement, and 1.1.52 applies only to replacements of the final sound of a sthānī specified by genitive.",
+   "quote": "युगागमो भवति",
+   "source": "Kāśikā on 7.3.33",
+   "quoteOk": true
+  },
+  "G7|3.1.11|named by न्यासः": {
+   "key": "G7|3.1.11|named by न्यासः",
+   "verdict": "licensed",
+   "reason": "Nyāsa confirms that 1.1.52 applies to restrict the elision of 's' to the final sound only, preventing elision in non-final cases like 'haṁsāyate'.",
+   "quote": "अन्त्यस्यैव लोपेन भवितव्यम्",
+   "source": "nyaas on 3.1.11",
+   "quoteOk": false
+  },
+  "G7|3.1.80|named by न्यासः": {
+   "key": "G7|3.1.80|named by न्यासः",
+   "verdict": "licensed",
+   "reason": "Nyāsa explicitly states that the substitution of 'a' in place of the final sound of dhinvi and kṛṇvi is licensed by 1.1.52.",
+   "quote": "अकारश्चान्तादेशः",
+   "source": "Kāśikā on 3.1.80",
+   "quoteOk": true
+  },
+  "G7|3.2.48|named by न्यासः": {
+   "key": "G7|3.2.48|named by न्यासः",
+   "verdict": "not licensed",
+   "reason": "Sūtra 3.2.48 prescribes the suffix ḍa, and Nyāsa mentions 1.1.52 only while commenting on a separate vārttika regarding 'uras'.",
+   "quote": "गमेर्डप्रत्ययो भवति",
+   "source": "Kāśikā on 3.2.48",
+   "quoteOk": true
+  },
+  "G7|3.2.49|named by न्यासः": {
+   "key": "G7|3.2.49|named by न्यासः",
+   "verdict": "not licensed",
+   "reason": "Sūtra 3.2.49 prescribes the suffix ḍa rather than a replacement, and Nyāsa names 1.1.52 only regarding a separate vārttika where the mention of 'anta' is already explicit.",
+   "quote": "कर्मण्युपपदे डप्रत्ययो भवति",
+   "source": "Kāśikā on 3.2.49",
+   "quoteOk": true
+  },
+  "G7|4.1.73|named by तत्त्वबोधिनी": {
+   "key": "G7|4.1.73|named by तत्त्वबोधिनी",
+   "verdict": "not licensed",
+   "reason": "Tattvabodhinī names 1.1.52 only in an objection concerning a gaṇasūtra, which is rejected by stating that vṛddhi applies to the non-final vowel.",
+   "quote": "अनन्त्य्स्याप्यकारस्य वृद्धिर्भवतीति",
+   "source": "tattvabodhini on 4.1.73",
+   "quoteOk": false
+  },
+  "G7|4.2.138|named by तत्त्वबोधिनी": {
+   "key": "G7|4.2.138|named by तत्त्वबोधिनी",
+   "verdict": "not licensed",
+   "reason": "Sūtra 4.2.138 prescribes the suffix cha, and Tattvabodhinī names 1.1.52 only for a gaṇasūtra eliding the 's' of the tasi suffix.",
+   "quote": "प्रातिपदिकेभ्यश्छः प्रत्ययो भवति",
+   "source": "Kāśikā on 4.2.138",
+   "quoteOk": true
+  },
+  "G8|1.1.53|1.1.53": {
+   "key": "G8|1.1.53|1.1.53",
+   "verdict": "licensed",
+   "reason": "Sūtra 1.1.53 carries 'alo 'ntyasya' from 1.1.52 so that even a multiple-sound replacement that is ṅit replaces only the final sound.",
+   "quote": "सोऽनेकालपि अलोऽन्त्यस्य स्थाने भवति",
+   "source": "kashika 11053",
+   "quoteOk": true
+  },
+  "G12|5.2.138|ब-भ-युस्-ति-तु-त-यसः": {
+   "key": "G12|5.2.138|ब-भ-युस्-ति-तु-त-यसः",
+   "verdict": "not licensed",
+   "reason": "Sūtra 5.2.138 prescribes affixes (pratyayas) in matvartha after 'kam' and 'śam' rather than a replacement (ādeśa), so 1.1.52 does not apply.",
+   "quote": "इत्येते सप्त प्रत्यया भवन्ति मत्वर्थे",
+   "source": "Kāśikā of 5.2.138",
+   "quoteOk": true
+  },
+  "G13|7.2.10|named by Vasu": {
+   "key": "G13|7.2.10|named by Vasu",
+   "verdict": "not licensed",
+   "reason": "Sūtra 7.2.10 prohibits the augment it rather than prescribing a replacement (ādeśa), and core commentary establishes that 1.1.52 applies strictly to ādeśas.",
+   "quote": "तस्मादिडागमो न भवति",
+   "source": "Kāśikā of 7.2.10",
+   "quoteOk": true
+  },
+  "G13|7.2.67|named by Vasu": {
+   "key": "G13|7.2.67|named by Vasu",
+   "verdict": "not licensed",
+   "reason": "Sūtra 7.2.67 prescribes the augment it to kvasu rather than an ādeśa, so 1.1.52 does not license it.",
+   "quote": "वसाविडागमो भवति",
+   "source": "Kāśikā of 7.2.67",
+   "quoteOk": true
+  },
+  "G14|8.1.3|named by न्यासः": {
+   "key": "G14|8.1.3|named by न्यासः",
+   "verdict": "not licensed",
+   "reason": "Nyāsa considers 1.1.52 only as an undesirable consequence of a technical reading of anudātta, which it rejects in favor of an anvartha interpretation.",
+   "quote": "तस्मादन्वर्थस्यैव ग्रहणं युक्तम्",
+   "source": "nyaas on 8.1.3",
+   "quoteOk": true
+  },
+  "G14|8.1.18|named by पदमञ्जरी": {
+   "key": "G14|8.1.18|named by पदमञ्जरी",
+   "verdict": "not licensed",
+   "reason": "Padamañjarī explicitly states that 1.1.52 does not operate here because there is no sthāna-ṣaṣṭhī.",
+   "quote": "स्थानषष्ठ।ल्भावाद् ठलोऽन्त्यस्यऽ इति न प्रवर्तते",
+   "source": "padamanjari on 8.1.18",
+   "quoteOk": true
+  },
+  "G15|4.1.37|अन्तादेशः": {
+   "key": "G15|4.1.37|अन्तादेशः",
+   "verdict": "licensed",
+   "reason": "Sūtra 1.1.52 licenses the substitute aikāra being an anta-ādeśa, replacing only the final sound of the genitive-specified base.",
+   "quote": "प्रकृतेरुदात्त ऐकारोऽन्तादेशः",
+   "source": "balamanorama on 4.1.37",
+   "quoteOk": true
+  },
+  "G16|6.1.108|named by बालमनोरमा": {
+   "key": "G16|6.1.108|named by बालमनोरमा",
+   "verdict": "not licensed",
+   "reason": "Bālamanoramā explicitly notes that 1.1.52 does not apply because the substitute replaces the yan sound due to the anuvṛtti of samprasāraṇa.",
+   "quote": "नालोऽन्त्यस्येति भवति",
+   "source": "balamanorama on 6.1.108",
+   "quoteOk": true
+  },
+  "G17|6.1.157|named by तत्त्वबोधिनी": {
+   "key": "G17|6.1.157|named by तत्त्वबोधिनी",
+   "verdict": "not licensed",
+   "reason": "Sūtra 6.1.157 is a nipātana rule for forms with the augment suṭ, and Tattvabodhinī merely mentions 1.1.52 by name in an unrelated introductory passage.",
+   "quote": "पारस्करप्रभृतीनि च शब्दरूपाणि निपात्यन्ते",
+   "source": "Kāśikā of 6.1.157",
+   "quoteOk": true
+  }
+ },
+ "spent": 2.416185,
+ "tokens": {
+  "in": 848175,
+  "out": 1118997
+ }
+}

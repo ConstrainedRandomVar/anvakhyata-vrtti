@@ -1,0 +1,75 @@
+{
+ "pid": "1.1.62",
+ "generated": "2026-11-20",
+ "input": "audit/1.1.62-firings.json",
+ "totals": {
+  "firings": 1,
+  "licensed": 0,
+  "not_licensed": 1,
+  "unsure": 0,
+  "groups": {
+   "licensed": 0,
+   "not licensed": 1,
+   "mixed": 0,
+   "unsure": 0
+  },
+  "not_licensed_by_should_be": {
+   "none": 1
+  },
+  "not_licensed_by_reason": {
+   "RULE_IT_LIMITS": 1
+  },
+  "quotes": 4
+ },
+ "conditions": [
+  {
+   "text": "C1 — 1.1.62: when a suffix has been elided, operations conditioned by it still take place. 1.1.63 न लुमताङ्गस्य is a PROHIBITION of it (no aṅga operation when the elision is by a लु-word).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11062",
+     "quote": "प्रत्ययलोपे कृते प्रत्ययलक्षणं प्रत्ययहेतुकं कार्यं भवति।"
+    },
+    {
+     "file": "kashika",
+     "id": "11063",
+     "quote": "पूर्वेणातिप्रसक्तं प्रत्ययलक्षणमिति विशेषे प्रतिषेध उच्यते।"
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | paribhāṣā | X",
+   "verdict": "not licensed",
+   "how_checked": "Kāśikā on 1.1.62/1.1.63; compared with the 1.1.55 audit's ruling on 1.1.53 (an apavāda credited ✔ for the rule it blocks).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "1.1.63",
+     "word": "1.1.63",
+     "line": "1.1.63 1.1.63  ⟨the rule it limits: प्रत्ययलक्षणम् (1.1.62) does not apply to the aṅga⟩",
+     "should_be": "none",
+     "reason": "RULE_IT_LIMITS",
+     "why": "1.1.63 blocks 1.1.62 for the aṅga; 1.1.62 is the rule it prohibits, not one it applies. The engine's own effect says so (\"does not apply to the aṅga\"). The words प्रत्ययलक्षणम् are carried from 1.1.62 (an anuvṛtti, already shown in the carried list), so at most a \"related\"/✖ note, not ✔.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "11063",
+       "quote": "पूर्वेणातिप्रसक्तं प्रत्ययलक्षणमिति विशेषे प्रतिषेध उच्यते।"
+      },
+      {
+       "file": "kashika",
+       "id": "11063",
+       "quote": "लुमता शब्देन लुप्ते प्रत्यये यदङ्गम्, तस्य प्रत्ययलक्षणं कार्यं न भवति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 0 · not licensed 1 · unsure 0"
+  }
+ ],
+ "missed": []
+}

@@ -1,0 +1,4378 @@
+{
+ "1.2.65": {
+  "roles": [
+   {
+    "word": "वृद्धः",
+    "replaces": "वृद्धः",
+    "role": "adesha",
+    "render": "वृद्धः (गोत्रप्रत्ययान्तः) शिष्यते",
+    "source": "own",
+    "ref": "PV",
+    "quote": "वृद्धशब्देनात्र गोत्रमुच्यते"
+   }
+  ],
+  "note": ""
+ },
+ "1.2.69": {
+  "roles": [
+   {
+    "word": "अन्यतरस्याम्",
+    "replaces": "अन्यतरस्याम्",
+    "role": "qualifier",
+    "render": "अन्यतरस्याम्",
+    "source": "own",
+    "ref": "KV",
+    "quote": "एकवच्चास्य कार्यं भवत्यन्यतरस्याम्"
+   }
+  ],
+  "note": ""
+ },
+ "1.4.38": {
+  "roles": [
+   {
+    "word": "कारके",
+    "replaces": "कारके",
+    "role": "samjni",
+    "render": "तत् कारकम्",
+    "source": "carried:1.4.23",
+    "ref": "KV",
+    "quote": "तत् कारकं कर्मसंज्ञं भवति"
+   }
+  ],
+  "note": ""
+ },
+ "1.4.81": {
+  "roles": [
+   {
+    "word": "धातोः",
+    "replaces": "धातोः",
+    "role": "purva",
+    "render": "धातोः",
+    "source": "carried:1.4.80",
+    "ref": "PV",
+    "quote": "धातोः परेऽपि भवन्ति"
+   },
+   {
+    "word": "अपि",
+    "replaces": "",
+    "role": "other",
+    "render": "अपि",
+    "source": "own",
+    "ref": "PV",
+    "quote": "धातोः परेऽपि भवन्ति"
+   }
+  ],
+  "note": "Removed the spurious word परस्य from धातोः and added the missing sūtra word अपि per PV."
+ },
+ "1.4.106": {
+  "roles": [
+   {
+    "word": "मध्यमः",
+    "replaces": "मध्यमः",
+    "role": "pratyaya",
+    "render": "मध्यमपुरुषः भवति",
+    "source": "carried:1.4.105",
+    "ref": "KV",
+    "quote": "धातोर्मध्यमपुरुषो भवति"
+   },
+   {
+    "word": "मन्यतेः",
+    "replaces": "मन्यतेः",
+    "role": "prakriti",
+    "render": "मन्यतेः च",
+    "source": "own",
+    "ref": "KV",
+    "quote": "मन्यतेश्चोत्तमः"
+   },
+   {
+    "word": "एकवत्",
+    "replaces": "एकवत्",
+    "role": "atidesha",
+    "render": "स च एकवद् भवति",
+    "source": "own",
+    "ref": "KV",
+    "quote": "स चैकवद्भवति"
+   }
+  ],
+  "note": "Separated the two distinct clauses: मध्यमपुरुष occurs with मन्योपपद धातोः, while उत्तमपुरुष (एकवत्) occurs with मन्यतेः, per KV and PV."
+ },
+ "2.2.10": {
+  "roles": [
+   {
+    "word": "समासः",
+    "replaces": "",
+    "role": "samjna",
+    "render": "समासः",
+    "source": "carried:2.1.3",
+    "ref": "KV",
+    "quote": "समासे प्राप्ते"
+   }
+  ],
+  "note": "Restored the carried adhikāra word समासः (2.1.3), so that the prohibition applies to compound formation (समासो न भवति) rather than the genitive subanta itself."
+ },
+ "2.4.17": {
+  "roles": [
+   {
+    "word": "नपुंसकम्",
+    "replaces": "नपुंसकम्",
+    "role": "other",
+    "render": "नपुंसकलिङ्गो भवति",
+    "source": "own",
+    "ref": "KV",
+    "quote": "स नपुंसकलिङ्गो भवति"
+   }
+  ],
+  "note": ""
+ },
+ "2.4.18": {
+  "roles": [
+   {
+    "word": "नपुंसकम्",
+    "replaces": "नपुंसकम्",
+    "role": "other",
+    "render": "नपुंसकलिङ्गो भवति",
+    "source": "carried:2.4.17",
+    "ref": "KV",
+    "quote": "समासो नपुंसकलिङ्गो भवति"
+   }
+  ],
+  "note": ""
+ },
+ "2.4.19": {
+  "roles": [
+   {
+    "word": "नपुंसकम्",
+    "replaces": "नपुंसकम्",
+    "role": "other",
+    "render": "नपुंसकलिङ्गो भवति",
+    "source": "carried:2.4.17",
+    "ref": "PV",
+    "quote": "स नपुंसकलिङ्गो भवति"
+   }
+  ],
+  "note": ""
+ },
+ "2.2.14": {
+  "roles": [
+   {
+    "word": "कर्मणि",
+    "replaces": "कर्मणि",
+    "role": "qualifier",
+    "render": "कर्मणि या",
+    "source": "own",
+    "ref": "PV",
+    "quote": "कर्मणि या"
+   },
+   {
+    "word": "षष्ठी",
+    "replaces": "षष्ठी",
+    "role": "prakriti",
+    "render": "षष्ठी सा समर्थेन सुबन्तेन सह",
+    "source": "carried:2.2.8",
+    "ref": "PV",
+    "quote": "षष्ठी सा समर्थेन सुबन्तेन सह"
+   },
+   {
+    "word": "न",
+    "replaces": "न",
+    "role": "negation",
+    "render": "न समस्यते",
+    "source": "carried:2.2.10",
+    "ref": "PV",
+    "quote": "न समस्यते"
+   }
+  ],
+  "note": ""
+ },
+ "2.2.15": {
+  "roles": [
+   {
+    "word": "कर्तरि",
+    "replaces": "कर्तरि",
+    "role": "qualifier",
+    "render": "कर्तरि",
+    "source": "own",
+    "ref": "PV",
+    "quote": "कर्त्तरि यौ तृच्-अकौ"
+   },
+   {
+    "word": "तृजकाभ्याम्",
+    "replaces": "तृजकाभ्याम्",
+    "role": "prakriti",
+    "render": "यौ तृच्-अकौ ताभ्यां सह",
+    "source": "own",
+    "ref": "PV",
+    "quote": "यौ तृच्-अकौ ताभ्यां सह"
+   },
+   {
+    "word": "कर्मणि",
+    "replaces": "",
+    "role": "qualifier",
+    "render": "कर्मणि या",
+    "source": "carried:2.2.14",
+    "ref": "PV",
+    "quote": "कर्मणि या"
+   },
+   {
+    "word": "षष्ठी",
+    "replaces": "षष्ठी",
+    "role": "prakriti",
+    "render": "षष्ठी सा",
+    "source": "carried:2.2.8",
+    "ref": "PV",
+    "quote": "षष्ठी सा"
+   },
+   {
+    "word": "न",
+    "replaces": "न",
+    "role": "negation",
+    "render": "न समस्यते",
+    "source": "carried:2.2.10",
+    "ref": "PV",
+    "quote": "न समस्यते"
+   }
+  ],
+  "note": ""
+ },
+ "2.2.20": {
+  "roles": [
+   {
+    "word": "अव्ययेन",
+    "replaces": "अव्ययेन",
+    "role": "prakriti",
+    "render": "अव्ययेन",
+    "source": "own",
+    "ref": "PV",
+    "quote": "अव्ययेन उपपदस्य"
+   },
+   {
+    "word": "समासः",
+    "replaces": "",
+    "role": "samjna",
+    "render": "यः समासः स",
+    "source": "carried:2.1.3",
+    "ref": "PV",
+    "quote": "यः समासः"
+   },
+   {
+    "word": "एव",
+    "replaces": "",
+    "role": "other",
+    "render": "अव्ययेनैव सह भवति",
+    "source": "own",
+    "ref": "PV",
+    "quote": "अव्ययेनैव सह भवति"
+   }
+  ],
+  "note": ""
+ },
+ "3.1.65": {
+  "roles": [
+   {
+    "word": "च",
+    "replaces": "",
+    "role": "other",
+    "render": "च",
+    "source": "own",
+    "ref": "KV",
+    "quote": "कर्मकर्तरि अनुतापे च।"
+   }
+  ],
+  "note": ""
+ },
+ "3.1.141": {
+  "roles": [
+   {
+    "word": "श्याद्व्यधास्रुसंस्र्वतीणवसाऽवहृलिहश्लिषश्वसः",
+    "replaces": "श्याद्व्यधास्रुसंस्र्वतीणवसाऽवहृलिहश्लिषश्वसः",
+    "role": "prakriti",
+    "render": "श्यैङ्-आकारान्तेभ्यः व्यध-आस्रु-संस्रु-अतीण्-अवसा-अवहृ-लिह-श्लिष-श्वस्-धातुभ्यः",
+    "source": "own",
+    "ref": "KV",
+    "quote": "व्यध, आस्रु, संस्रु, अतीण्, अवसा, अवहृ, लिह, श्लिष, श्वस्"
+   }
+  ],
+  "note": ""
+ },
+ "3.1.88": {
+  "roles": [
+   {
+    "word": "एव",
+    "replaces": "",
+    "role": "other",
+    "render": "एव",
+    "source": "own",
+    "ref": "KV",
+    "quote": "तपः कर्मकस्यैव नान्यकर्मकस्य।"
+   }
+  ],
+  "note": ""
+ },
+ "3.1.134": {
+  "roles": [
+   {
+    "word": "नन्दिग्रहिपचादिभ्यः",
+    "replaces": "नन्दि-ग्रहि-पचादिभ्यः",
+    "role": "prakriti",
+    "render": "नन्द्यादिभ्यो ग्रहादिभ्यः पचादिभ्यश्च",
+    "source": "own",
+    "ref": "PV",
+    "quote": "नन्द्यादिभ्यो ग्रहादिभ्यः पचादिभ्यश्च"
+   }
+  ],
+  "note": ""
+ },
+ "3.2.13": {
+  "roles": [
+   {
+    "word": "रमिजपोः",
+    "replaces": "रमिजपोः",
+    "role": "prakriti",
+    "render": "रमि-जपोः धात्वोः",
+    "source": "own",
+    "ref": "KV",
+    "quote": "रमिजपोर्धात्वोरच्"
+   }
+  ],
+  "note": ""
+ },
+ "3.2.53": {
+  "roles": [
+   {
+    "word": "अमनुष्यकर्तृके",
+    "replaces": "अमनुष्यकर्तृके",
+    "role": "qualifier",
+    "render": "अमनुष्यकर्तृके वर्तमानात्",
+    "source": "own",
+    "ref": "KV",
+    "quote": "अमनुष्यकर्तृके वर्तमानाद्"
+   },
+   {
+    "word": "कर्मणि",
+    "replaces": "जाया-पत्योः",
+    "role": "qualifier",
+    "render": "कर्मण्युपपदे",
+    "source": "carried:3.2.1",
+    "ref": "KV",
+    "quote": "कर्मण्युपपदे"
+   }
+  ],
+  "note": ""
+ },
+ "3.2.186": {
+  "roles": [
+   {
+    "word": "करणे",
+    "replaces": "करणे",
+    "role": "artha",
+    "render": "ऋषौ करणे कारके",
+    "source": "carried:3.2.182",
+    "ref": "SK",
+    "quote": "ऋषौ करणे"
+   },
+   {
+    "word": "कर्तरि",
+    "replaces": "कर्तरि",
+    "role": "artha",
+    "render": "देवतायां च कर्तरि कारके",
+    "source": "own",
+    "ref": "PV",
+    "quote": "देवतायाञ्च कर्त्तरि"
+   }
+  ],
+  "note": ""
+ },
+ "3.2.182": {
+  "roles": [
+   {
+    "word": "दाम्नीशसयुयुजस्तुतुदसिसिचमिहपतदशनहः",
+    "replaces": "दाम्नीशसयुयुजस्तुतुदसिसिचमिहपतदशनहः",
+    "role": "prakriti",
+    "render": "दाप्-णी-शस्-यु-युज्-स्तु-तुद्-सि-सिच्-मिह्-पत्-दंश्-णह्-धातुभ्यः",
+    "source": "own",
+    "ref": "PV",
+    "quote": "दाप् लवने, णीञ् प्रापणे, शसु हिंसायाम्"
+   }
+  ],
+  "note": ""
+ },
+ "3.3.13": {
+  "roles": [
+   {
+    "word": "च",
+    "replaces": "",
+    "role": "other",
+    "render": "चकारात्",
+    "source": "own",
+    "ref": "PV",
+    "quote": "चकारात् क्रियार्थायां क्रियायामुपपदे"
+   },
+   {
+    "word": "क्रियार्थायाम्",
+    "replaces": "क्रियार्थायाम्",
+    "role": "qualifier",
+    "render": "क्रियार्थायां",
+    "source": "carried:3.3.10",
+    "ref": "PV",
+    "quote": "क्रियार्थायां क्रियायामुपपदे"
+   },
+   {
+    "word": "क्रियायाम्",
+    "replaces": "क्रियायाम्",
+    "role": "upapada",
+    "render": "क्रियायाम् उपपदे च",
+    "source": "carried:3.3.10",
+    "ref": "PV",
+    "quote": "क्रियायामुपपदे भविष्यति काले च"
+   }
+  ],
+  "note": ""
+ },
+ "4.1.13": {
+  "roles": [
+   {
+    "word": "उभाभ्याम्",
+    "replaces": "उभाभ्याम्",
+    "role": "prakriti",
+    "render": "मन्नन्तात् प्रातिपदिकात् अन्नन्ताच्च बहुव्रीहेः",
+    "source": "own",
+    "ref": "PV",
+    "quote": "मन्नन्तात् प्रातिपदिकादन्नन्ताच्च बहुव्रीहेः"
+   }
+  ],
+  "note": ""
+ },
+ "4.1.73": {
+  "roles": [
+   {
+    "word": "अञः",
+    "replaces": "अञः",
+    "role": "prakriti",
+    "render": "अञन्तेभ्यश्च",
+    "source": "own",
+    "ref": "KV",
+    "quote": "शार्ङ्गरवादिभ्योऽञन्तेभ्यश्च"
+   }
+  ],
+  "note": ""
+ },
+ "4.1.37": {
+  "roles": [],
+  "note": ""
+ },
+ "4.2.41": {
+  "roles": [],
+  "note": "The reviewer is wrong; our vṛtti is supported by the references. SA explicitly includes both bases: ‹'तस्य समूहः' अस्मिन् अर्थे केदार-शब्दात् कवचिन्-शब्दात् च 'ठञ्' प्रत्ययः भवति›, and SK notes ‹चाक्तेदारादपि›, confirming that by the sūtra's चकार, ठञ् applies to केदार as well as कवचिन्."
+ },
+ "4.1.89": {
+  "roles": [
+   {
+    "word": "अलुक्",
+    "replaces": "अलुक्",
+    "role": "negation",
+    "render": "लुक् न भवति",
+    "source": "own",
+    "ref": "PV",
+    "quote": "लुङ् न भवति"
+   }
+  ],
+  "note": ""
+ },
+ "4.2.58": {
+  "roles": [],
+  "note": "The reviewer's suggestion to add ‹क्रीडायाम्› is unsupported by the references (KV, SK, PV); the sūtra's condition is क्रिया, not क्रीडा. Only the missing sūtra word अस्याम् in the artha gloss is fixed, as supported by KV (‹अस्यामिति सप्तम्यर्थे›)."
+ },
+ "5.1.91": {
+  "roles": [
+   {
+    "word": "तमधीष्टो भृतो भूतो भावी",
+    "replaces": "",
+    "role": "artha",
+    "render": "अधीष्टादिषु अर्थेषु",
+    "source": "carried:5.1.80",
+    "ref": "PV",
+    "quote": "अधीष्टादिष्वर्थेषु"
+   }
+  ],
+  "note": ""
+ },
+ "5.1.52": {
+  "roles": [
+   {
+    "word": "प्रत्ययः",
+    "replaces": "",
+    "role": "pratyaya",
+    "render": "प्रत्ययः",
+    "source": "carried:3.1.1",
+    "ref": "PV",
+    "quote": "यथाविहितं प्रत्ययो भवति"
+   }
+  ],
+  "note": ""
+ },
+ "5.1.55": {
+  "roles": [
+   {
+    "word": "ठञ्",
+    "replaces": "",
+    "role": "sthani",
+    "render": "ठञः",
+    "source": "carried:5.1.18",
+    "ref": "PV",
+    "quote": "औत्सर्गिकष्ठञ् तस्यैव लुक्"
+   },
+   {
+    "word": "लुक्",
+    "replaces": "लुक्-खौ",
+    "role": "adesha",
+    "render": "लुक्",
+    "source": "own",
+    "ref": "PV",
+    "quote": "तस्यैव लुक्"
+   },
+   {
+    "word": "ख",
+    "replaces": "",
+    "role": "pratyaya",
+    "render": "खः",
+    "source": "own",
+    "ref": "PV",
+    "quote": "लुक्खौ प्रत्ययौ भवतः"
+   }
+  ],
+  "note": ""
+ },
+ "5.1.56": {
+  "roles": [
+   {
+    "word": "प्रत्ययः",
+    "replaces": "",
+    "role": "pratyaya",
+    "render": "प्रत्ययः",
+    "source": "carried:3.1.1",
+    "ref": "KV",
+    "quote": "प्रत्ययो भवति"
+   }
+  ],
+  "note": ""
+ },
+ "5.1.16": {
+  "roles": [
+   {
+    "word": "तत्",
+    "replaces": "तत्",
+    "role": "prakriti",
+    "render": "तद् इति प्रथमासमर्थात् प्रातिपदिकात्",
+    "source": "own",
+    "ref": "PV",
+    "quote": "तदिति प्रथमासमर्थात् प्रातिपदिकात्"
+   },
+   {
+    "word": "स्यात्",
+    "replaces": "स्यात्",
+    "role": "artha",
+    "render": "स्यात्",
+    "source": "own",
+    "ref": "KV",
+    "quote": "स्यात् चेत् तद् भवति"
+   },
+   {
+    "word": "इति",
+    "replaces": "इति",
+    "role": "other",
+    "render": "इति षष्ठ्यर्थे सप्तम्यर्थे च",
+    "source": "own",
+    "ref": "PV",
+    "quote": "षष्ठ्यर्थे सप्तम्यर्थे च"
+   }
+  ],
+  "note": "Combined the duplicated samartha into a single 'तद् इति प्रथमासमर्थात् प्रातिपदिकात्' as found in PV, removed the unclosed parenthesis in स्यात्, and moved the case-meanings into 'इति षष्ठ्यर्थे सप्तम्यर्थे च' per PV/KV."
+ },
+ "5.2.77": {
+  "roles": [
+   {
+    "word": "लुक्",
+    "replaces": "लुक्",
+    "role": "adesha",
+    "render": "पूरणप्रत्ययस्य च विकल्पेन लुक् भवति",
+    "source": "own",
+    "ref": "SA",
+    "quote": "पूरणप्रत्ययस्य विकल्पेन लुक् भवति"
+   }
+  ],
+  "note": "वा belongs to the elision (लुक्) clause, not कन्. Emptying the general option 'वा' ensures कन् is mandatory, while rendering लुक् with विकल्पेन applies optionality to the pūraṇa-elision as required by PV/SA/SK."
+ },
+ "5.3.72": {
+  "roles": [
+   {
+    "word": "अकच्",
+    "replaces": "अकच्",
+    "role": "nimitta",
+    "render": "अकच्सन्नियोगेन",
+    "source": "carried:5.3.71",
+    "ref": "KV",
+    "quote": "ककारान्तस्य प्रातिपदिकस्याकच्सन्नियोगेन"
+   }
+  ],
+  "note": ""
+ },
+ "5.3.58": {
+  "roles": [
+   {
+    "word": "एव",
+    "replaces": "",
+    "role": "other",
+    "render": "एव",
+    "source": "own",
+    "ref": "KV",
+    "quote": "गुणवचनादेव भवतस्तौ"
+   }
+  ],
+  "note": ""
+ },
+ "5.3.109": {
+  "roles": [
+   {
+    "word": "ठच्",
+    "replaces": "ठञ्",
+    "role": "pratyaya",
+    "render": "ठच् प्रत्ययः",
+    "source": "own",
+    "ref": "KV",
+    "quote": "ठच् प्रत्ययो भवति"
+   }
+  ],
+  "note": ""
+ },
+ "5.3.94": {
+  "roles": [
+   {
+    "word": "निर्धारणे",
+    "replaces": "",
+    "role": "vishaya",
+    "render": "स्वस्मिन् विषये",
+    "source": "carried:5.3.92",
+    "ref": "KV",
+    "quote": "स्वस्मिन् विषये।"
+   }
+  ],
+  "note": ""
+ },
+ "5.4.22": {
+  "roles": [
+   {
+    "word": "समूहवत्",
+    "replaces": "समूहवत्",
+    "role": "atidesha",
+    "render": "समूहवत् प्रत्ययाः भवन्ति",
+    "source": "own",
+    "ref": "PV",
+    "quote": "समूहवत् प्रत्यया भवन्ति"
+   },
+   {
+    "word": "च",
+    "replaces": "मयट्",
+    "role": "pratyaya",
+    "render": "चकारात् मयट् च भवति",
+    "source": "own",
+    "ref": "PV",
+    "quote": "चकारात् मयट् च ॥"
+   }
+  ],
+  "note": ""
+ },
+ "5.4.101": {
+  "roles": [],
+  "note": ""
+ },
+ "6.1.99": {
+  "roles": [
+   {
+    "word": "तु",
+    "replaces": "",
+    "role": "other",
+    "render": "तु",
+    "source": "own",
+    "ref": "SK",
+    "quote": "स्यादन्त्यस्य तु"
+   },
+   {
+    "word": "अव्यक्तानुकरणस्य",
+    "replaces": "",
+    "role": "qualifier",
+    "render": "अव्यक्तानुकरणस्य",
+    "source": "carried:6.1.98",
+    "ref": "SA",
+    "quote": "अव्यक्तानुकरणस्यात इतौ"
+   },
+   {
+    "word": "अतः",
+    "replaces": "",
+    "role": "sthani",
+    "render": "अतः",
+    "source": "carried:6.1.98",
+    "ref": "SA",
+    "quote": "अव्यक्तानुकरणस्यात इतौ"
+   }
+  ],
+  "note": ""
+ },
+ "6.1.119": {
+  "roles": [
+   {
+    "word": "इत्यादौ",
+    "replaces": "इत्यादौ",
+    "role": "qualifier",
+    "render": "तदादौ चाति परे",
+    "source": "own",
+    "ref": "PV",
+    "quote": "तदादौ चाति परतो"
+   }
+  ],
+  "note": ""
+ },
+ "6.1.168": {
+  "roles": [
+   {
+    "word": "सौ",
+    "replaces": "सौ",
+    "role": "qualifier",
+    "render": "सौ",
+    "source": "own",
+    "ref": "KV",
+    "quote": "सौ य एकाच्"
+   },
+   {
+    "word": "एकाचः",
+    "replaces": "एकाचः",
+    "role": "prakriti",
+    "render": "यः एकाच् तस्मात् परा",
+    "source": "own",
+    "ref": "KV",
+    "quote": "य एकाच् तस्मात् परा"
+   }
+  ],
+  "note": ""
+ },
+ "6.1.134": {
+  "roles": [
+   {
+    "word": "चेत्",
+    "replaces": "चेत्",
+    "role": "qualifier",
+    "render": "चेत्",
+    "source": "own",
+    "ref": "KV",
+    "quote": "लोपे सति चेत् पादः पूर्यते"
+   },
+   {
+    "word": "पादपूरणम्",
+    "replaces": "पादपूरणम्",
+    "role": "qualifier",
+    "render": "पादः पूर्यते",
+    "source": "own",
+    "ref": "KV",
+    "quote": "लोपे सति चेत् पादः पूर्यते"
+   }
+  ],
+  "note": ""
+ },
+ "6.1.136": {
+  "roles": [
+   {
+    "word": "अपि",
+    "replaces": "",
+    "role": "other",
+    "render": "अपि",
+    "source": "own",
+    "ref": "KV",
+    "quote": "अड्व्यवायेऽभ्यासव्यवायेऽपि"
+   },
+   {
+    "word": "कात्",
+    "replaces": "कात्",
+    "role": "nimitta",
+    "render": "कात्",
+    "source": "carried:6.1.135",
+    "ref": "KV",
+    "quote": "सुट् कात्"
+   },
+   {
+    "word": "पूर्वः",
+    "replaces": "पूर्वः",
+    "role": "qualifier",
+    "render": "पूर्वो भवति",
+    "source": "carried:6.1.135",
+    "ref": "KV",
+    "quote": "पूर्वो भवति"
+   }
+  ],
+  "note": ""
+ },
+ "6.1.186": {
+  "roles": [
+   {
+    "word": "अहन्विङोः",
+    "replaces": "अहन्विङोः",
+    "role": "qualifier",
+    "render": "ह्नुङ् इङ् इत्येताभ्यां परं वर्जयित्वा",
+    "source": "own",
+    "ref": "KV",
+    "quote": "ह्नुङ् इङ् इत्येताभ्यां परं वर्जयित्वा"
+   }
+  ],
+  "note": ""
+ },
+ "6.3.7": {
+  "roles": [
+   {
+    "word": "अलुक्",
+    "replaces": "अलुग्",
+    "role": "adesha",
+    "render": "अलुग् भवति",
+    "source": "carried:6.3.1",
+    "ref": "KV",
+    "quote": "चतुर्थ्या अलुग् भवति"
+   }
+  ],
+  "note": ""
+ },
+ "6.3.8": {
+  "roles": [
+   {
+    "word": "अलुक्",
+    "replaces": "अलुग्",
+    "role": "adesha",
+    "render": "अलुग् भवति",
+    "source": "carried:6.3.1",
+    "ref": "KV",
+    "quote": "तस्या वैयाकरणाख्यायामलुग् भवति"
+   }
+  ],
+  "note": ""
+ },
+ "6.3.10": {
+  "roles": [
+   {
+    "word": "अलुक्",
+    "replaces": "अलुक्",
+    "role": "adesha",
+    "render": "अलुग् भवति",
+    "source": "carried:6.3.1",
+    "ref": "KV",
+    "quote": "सप्तम्या अलुग् भवति"
+   }
+  ],
+  "note": ""
+ },
+ "6.3.83": {
+  "roles": [
+   {
+    "word": "सहस्य",
+    "replaces": "सहस्य",
+    "role": "other",
+    "render": "सहशब्दः",
+    "source": "carried:6.3.78",
+    "ref": "PV",
+    "quote": "सहशब्दः प्रकृत्या भवति"
+   },
+   {
+    "word": "प्रकृत्या",
+    "replaces": "प्रकृत्या",
+    "role": "other",
+    "render": "प्रकृत्या भवति",
+    "source": "own",
+    "ref": "PV",
+    "quote": "सहशब्दः प्रकृत्या भवति"
+   }
+  ],
+  "note": ""
+ },
+ "6.3.76": {
+  "roles": [
+   {
+    "word": "नञः",
+    "replaces": "नञः",
+    "role": "other",
+    "render": "नञ्",
+    "source": "carried:6.3.73",
+    "ref": "KV",
+    "quote": "नञ् प्रकृत्या भवति"
+   },
+   {
+    "word": "प्रकृत्या",
+    "replaces": "प्रकृत्या",
+    "role": "other",
+    "render": "प्रकृत्या भवति,",
+    "source": "carried:6.2.1",
+    "ref": "PV",
+    "quote": "प्रकृत्या भवति,"
+   },
+   {
+    "word": "एकस्य",
+    "replaces": "एकस्य",
+    "role": "sthani",
+    "render": "एकशब्दस्य च",
+    "source": "own",
+    "ref": "PV",
+    "quote": "एकशब्दस्य च"
+   },
+   {
+    "word": "आदुक्",
+    "replaces": "आदुक्",
+    "role": "agama",
+    "render": "आदुक् आगमः भवति",
+    "source": "own",
+    "ref": "PV",
+    "quote": "आदुक् आगमो भवति"
+   }
+  ],
+  "note": ""
+ },
+ "6.3.115": {
+  "roles": [
+   {
+    "word": "अविष्टाष्टपञ्चमणिभिन्नछिन्नछिद्रस्रुवस्वस्तिकस्य",
+    "replaces": "अविष्टाष्टपञ्चमणिभिन्नछिन्नछिद्रस्रुवस्वस्तिकस्य",
+    "role": "qualifier",
+    "render": "विष्ट-अष्टन्-पञ्चन्-मणि-भिन्न-छिन्न-छिद्र-स्रुव-स्वस्तिक-वर्जितानां",
+    "source": "own",
+    "ref": "KV",
+    "quote": "विष्ट अष्टन् पञ्चन् मणि भिन्न छिन्न छिद्र स्रुव स्वस्तिक"
+   }
+  ],
+  "note": ""
+ },
+ "6.4.110": {
+  "roles": [
+   {
+    "word": "करोतेः",
+    "replaces": "प्रत्ययात्",
+    "role": "qualifier",
+    "render": "उकारप्रत्ययान्तस्य करोतेः",
+    "source": "carried:6.4.108",
+    "ref": "KV",
+    "quote": "उकारप्रत्ययान्तस्य करोतेरकारस्य"
+   }
+  ],
+  "note": "उतः qualifies करोतेः via tadanta-vidhi ('उकारप्रत्ययान्तस्य करोतेः'); प्रत्ययात् does not carry separately into this sūtra. Replacing the spurious प्रत्ययात् entry ensures उकारप्रत्ययान्तस्य directly qualifies करोतेः as shown in KV and PV."
+ },
+ "6.4.127": {
+  "roles": [
+   {
+    "word": "असौ",
+    "replaces": "असौ",
+    "role": "nimitta",
+    "render": "सु-प्रत्यये अपरे (सु-वर्जिते प्रत्यये परे)",
+    "source": "own",
+    "ref": "PV",
+    "quote": "सुश्चेत्ततः परो न भवति"
+   }
+  ],
+  "note": "असौ is the prasajya-pratiṣedha of su (न सौ = असौ, i.e. when su does not follow). The existing render ‹सौ परतः न› was mistakenly assembled into ‹सौ परे न›, stating the exact opposite condition."
+ },
+ "6.4.156": {
+  "roles": [
+   {
+    "word": "यणादिपरम्",
+    "replaces": "यणादिपरम्",
+    "role": "sthani",
+    "render": "यणादिपरस्य लोपः",
+    "source": "own",
+    "ref": "KV",
+    "quote": "यणादिपरं लुप्यत"
+   },
+   {
+    "word": "पूर्वस्य",
+    "replaces": "पूर्वस्य",
+    "role": "sthani",
+    "render": "पूर्वस्य च गुणः",
+    "source": "own",
+    "ref": "KV",
+    "quote": "पूर्वस्य च गुणो भवति"
+   }
+  ],
+  "note": "The two distinct operations (lopa of the portion following yaṇ-ādi, and guṇa of the preceding portion) must be stated as separate predications rather than conflated into a single compound sthānī-ādeśa phrase."
+ },
+ "6.4.62": {
+  "roles": [
+   {
+    "word": "च",
+    "replaces": "उपदेशे",
+    "role": "other",
+    "render": "च",
+    "source": "own",
+    "ref": "PV",
+    "quote": "इडागमश्च"
+   }
+  ],
+  "note": ""
+ },
+ "6.4.63": {
+  "roles": [
+   {
+    "word": "आर्धधातुके",
+    "replaces": "आर्धधातुके",
+    "role": "nimitta",
+    "render": "आर्धधातुके प्रत्यये परे",
+    "source": "carried:6.4.46",
+    "ref": "PV",
+    "quote": "प्रत्यये परतो"
+   }
+  ],
+  "note": ""
+ },
+ "6.4.45": {
+  "roles": [
+   {
+    "word": "लोपः",
+    "replaces": "लोपः",
+    "role": "adesha",
+    "render": "लोपश्च",
+    "source": "own",
+    "ref": "PV",
+    "quote": "लोपश्च विकल्पेन"
+   },
+   {
+    "word": "आत्",
+    "replaces": "आत्",
+    "role": "adesha",
+    "render": "आकारादेशः भवति",
+    "source": "carried:6.4.42",
+    "ref": "PV",
+    "quote": "आकारादेशो भवति"
+   }
+  ],
+  "note": ""
+ },
+ "6.4.158": {
+  "roles": [
+   {
+    "word": "बहोः",
+    "replaces": "बहोः",
+    "role": "purva",
+    "render": "बहोः परेषाम्",
+    "source": "own",
+    "ref": "KV",
+    "quote": "बहोरुत्तरेषामिष्ठेमेयसां"
+   },
+   {
+    "word": "लोपः",
+    "replaces": "लोपः",
+    "role": "adesha",
+    "render": "लोपो भवति",
+    "source": "own",
+    "ref": "KV",
+    "quote": "लोपो भवति"
+   },
+   {
+    "word": "च",
+    "replaces": "",
+    "role": "other",
+    "render": "च",
+    "source": "own",
+    "ref": "KV",
+    "quote": "तस्य च बहोः स्थाने"
+   }
+  ],
+  "note": ""
+ },
+ "6.4.159": {
+  "roles": [
+   {
+    "word": "यिट्",
+    "replaces": "यिट्",
+    "role": "agama",
+    "render": "यिट् आगमो भवति",
+    "source": "own",
+    "ref": "PV",
+    "quote": "यिट् आगमो भवति"
+   },
+   {
+    "word": "च",
+    "replaces": "",
+    "role": "other",
+    "render": "च",
+    "source": "own",
+    "ref": "KV",
+    "quote": "बहोश्च भूरादेशो भवति"
+   },
+   {
+    "word": "भू",
+    "replaces": "भू",
+    "role": "adesha",
+    "render": "भू इत्यादेशः",
+    "source": "carried:6.4.158",
+    "ref": "KV",
+    "quote": "भूरादेशो भवति"
+   }
+  ],
+  "note": ""
+ },
+ "6.4.163": {
+  "roles": [
+   {
+    "word": "एकाच्",
+    "replaces": "एकाच्",
+    "role": "prakriti",
+    "render": "एकाच् भसंज्ञकम् अङ्गं",
+    "source": "own",
+    "ref": "PV",
+    "quote": "एकाच् यद् भसंज्ञकमङ्गं"
+   },
+   {
+    "word": "प्रकृत्या",
+    "replaces": "प्रकृत्या",
+    "role": "atidesha",
+    "render": "प्रकृत्या भवति",
+    "source": "own",
+    "ref": "KV",
+    "quote": "प्रकृत्या भवति"
+   }
+  ],
+  "note": ""
+ },
+ "7.1.46": {
+  "roles": [
+   {
+    "word": "मसि",
+    "replaces": "मसि",
+    "role": "pratyaya",
+    "render": "मस्-प्रत्ययः",
+    "source": "own",
+    "ref": "KV",
+    "quote": "मसीत्ययं शब्द इकारान्तो भवति"
+   },
+   {
+    "word": "इदन्तः",
+    "replaces": "इदन्तः",
+    "role": "qualifier",
+    "render": "इकारान्तः",
+    "source": "own",
+    "ref": "KV",
+    "quote": "इकारान्तो भवति"
+   }
+  ],
+  "note": ""
+ },
+ "7.1.76": {
+  "roles": [
+   {
+    "word": "अपि",
+    "replaces": "",
+    "role": "other",
+    "render": "अन्यत्रापि",
+    "source": "own",
+    "ref": "PV",
+    "quote": "यत्र विहितस्ततोऽन्यत्रापि दृश्यत इत्यर्थः"
+   }
+  ],
+  "note": ""
+ },
+ "7.2.15": {
+  "roles": [
+   {
+    "word": "विभाषा",
+    "replaces": "विभाषा",
+    "role": "qualifier",
+    "render": "क्वचिद् विभाषया इट् विहितः",
+    "source": "own",
+    "ref": "SK",
+    "quote": "यस्य क्वचिद्विभाषयेड्विहितस्ततो"
+   },
+   {
+    "word": "निष्ठायाम्",
+    "replaces": "निष्ठायाम्",
+    "role": "nimitta",
+    "render": "तस्य निष्ठायां परे",
+    "source": "carried:7.2.14",
+    "ref": "KV",
+    "quote": "तस्य निष्ठायां परत इडागमो न भवति"
+   }
+  ],
+  "note": ""
+ },
+ "7.2.60": {
+  "roles": [
+   {
+    "word": "च",
+    "replaces": "",
+    "role": "other",
+    "render": "च",
+    "source": "own",
+    "ref": "KV",
+    "quote": "सकारादेश्चार्धधातुकस्य"
+   }
+  ],
+  "note": ""
+ },
+ "7.2.43": {
+  "roles": [
+   {
+    "word": "ऋतः",
+    "replaces": "ऋतः",
+    "role": "qualifier",
+    "render": "ऋदन्तात् धातोः",
+    "source": "own",
+    "ref": "KV",
+    "quote": "ऋदन्ताद् धातोः"
+   }
+  ],
+  "note": ""
+ },
+ "7.2.52": {
+  "roles": [
+   {
+    "word": "वसतिक्षुधोः",
+    "replaces": "वसतिक्षुधोः",
+    "role": "purva",
+    "render": "वसतेः क्षुधेश्च उत्तरयोः",
+    "source": "own",
+    "ref": "KV",
+    "quote": "वसतेः क्षुधेश्च"
+   }
+  ],
+  "note": ""
+ },
+ "7.3.28": {
+  "roles": [
+   {
+    "word": "उत्तरपदस्य",
+    "replaces": "उत्तरपदस्य",
+    "role": "sthani",
+    "render": "उत्तरपदस्य अचः स्थाने नित्यं वृद्धिः भवति",
+    "source": "carried:7.3.10",
+    "ref": "PV",
+    "quote": "उत्तरपदस्याचामादेरचो नित्यं वृद्धिर्भवति"
+   },
+   {
+    "word": "पूर्वस्य",
+    "replaces": "पूर्वस्य",
+    "role": "other",
+    "render": "पूर्वपदस्य तु विकल्पेन भवति",
+    "source": "carried:7.3.26",
+    "ref": "PV",
+    "quote": "पूर्वपदस्य तु वा भवति"
+   }
+  ],
+  "note": "Disentangle obligatory vṛddhi for uttarapada from optional vṛddhi for pūrvapada per PV and KV."
+ },
+ "7.3.29": {
+  "roles": [
+   {
+    "word": "पूर्वस्य",
+    "replaces": "पूर्वस्य",
+    "role": "other",
+    "render": "पूर्वपदस्य तु विकल्पेन भवति",
+    "source": "carried:7.3.26",
+    "ref": "PV",
+    "quote": "पूर्वपदस्य तु वा भवति"
+   }
+  ],
+  "note": "Disentangle obligatory vṛddhi for uttarapada from optional vṛddhi for pūrvapada per PV and KV."
+ },
+ "7.3.30": {
+  "roles": [
+   {
+    "word": "उत्तरपदस्य",
+    "replaces": "",
+    "role": "sthani",
+    "render": "उत्तरपदस्य अचः स्थाने नित्यं वृद्धिः भवति",
+    "source": "carried:7.3.10",
+    "ref": "PV",
+    "quote": "इत्येतेषामचामादेरचः स्थाने वृद्धिर्भवति"
+   },
+   {
+    "word": "पूर्वस्य",
+    "replaces": "पूर्वस्य",
+    "role": "other",
+    "render": "पूर्वपदस्य तु विकल्पेन भवति",
+    "source": "carried:7.3.26",
+    "ref": "PV",
+    "quote": "पूर्वपदस्य तु वा भवति"
+   }
+  ],
+  "note": "Add missing uttarapada with obligatory vṛddhi and fix pūrvapada as an optional clause per PV and KV."
+ },
+ "7.3.49": {
+  "roles": [
+   {
+    "word": "मपूर्वायाः",
+    "replaces": "",
+    "role": "qualifier",
+    "render": "मपूर्वायाः",
+    "source": "carried:7.3.48",
+    "ref": "SK",
+    "quote": "पूर्वसूत्रविषये"
+   },
+   {
+    "word": "आतः",
+    "replaces": "अतः",
+    "role": "qualifier",
+    "render": "आतः",
+    "source": "carried:7.3.46",
+    "ref": "KV",
+    "quote": "दातः स्थाने"
+   },
+   {
+    "word": "स्थाने",
+    "replaces": "स्थाने",
+    "role": "sthani",
+    "render": "स्थाने योऽकारः तस्य",
+    "source": "carried:7.3.46",
+    "ref": "KV",
+    "quote": "स्थाने योऽकारस्तस्य"
+   }
+  ],
+  "note": ""
+ },
+ "7.4.36": {
+  "roles": [
+   {
+    "word": "दुरस्युः",
+    "replaces": "दुरस्युः",
+    "role": "nipatana",
+    "render": "दुरस्युः",
+    "source": "own",
+    "ref": "KV",
+    "quote": "दुरस्युः द्रविणस्युः वृषण्यति रिषण्यति"
+   },
+   {
+    "word": "द्रविणस्युः",
+    "replaces": "द्रविणस्युः",
+    "role": "nipatana",
+    "render": "द्रविणस्युः",
+    "source": "own",
+    "ref": "KV",
+    "quote": "दुरस्युः द्रविणस्युः वृषण्यति रिषण्यति"
+   },
+   {
+    "word": "क्यचि",
+    "replaces": "क्यचि",
+    "role": "nimitta",
+    "render": "क्यचि",
+    "source": "own",
+    "ref": "SK",
+    "quote": "एते क्यचि निपात्यन्ते"
+   }
+  ],
+  "note": ""
+ },
+ "8.1.37": {
+  "roles": [
+   {
+    "word": "न",
+    "replaces": "न",
+    "role": "negation",
+    "render": "नानुदात्तं न",
+    "source": "own",
+    "ref": "KV",
+    "quote": "नानुदात्तं न भवति"
+   }
+  ],
+  "note": ""
+ },
+ "8.1.38": {
+  "roles": [
+   {
+    "word": "अनुदात्तम्",
+    "replaces": "अनुदात्तम्",
+    "role": "accent",
+    "render": "नानुदात्तम्",
+    "source": "carried:8.1.18",
+    "ref": "KV",
+    "quote": "नानुदात्तं न भवति"
+   }
+  ],
+  "note": ""
+ },
+ "8.1.26": {
+  "roles": [
+   {
+    "word": "सपूर्वायाः",
+    "replaces": "सपूर्वायाः",
+    "role": "qualifier",
+    "render": "विद्यमानपूर्वात्",
+    "source": "own",
+    "ref": "KV",
+    "quote": "विद्यमानपूर्वात् प्रथमान्तात् पदादुत्तरयोर्युष्मदस्मदोर्विभाषा"
+   },
+   {
+    "word": "प्रथमायाः",
+    "replaces": "प्रथमायाः",
+    "role": "purva",
+    "render": "प्रथमान्तात् पदात् परयोः",
+    "source": "own",
+    "ref": "KV",
+    "quote": "विद्यमानपूर्वात् प्रथमान्तात् पदादुत्तरयोर्युष्मदस्मदोर्विभाषा"
+   }
+  ],
+  "note": ""
+ },
+ "8.1.30": {
+  "roles": [
+   {
+    "word": "यद्यदिहन्तकुविन्नेच्चेच्चण्कच्चिद्यत्रयुक्तम्",
+    "replaces": "यद्यदिहन्तकुविन्नेच्चेच्चण्कच्चिद्यत्रयुक्तम्",
+    "role": "qualifier",
+    "render": "यत् यदि हन्त कुवित् नेत् चेत् चण् कच्चित् यत्र इत्येतैः युक्तम्",
+    "source": "own",
+    "ref": "KV",
+    "quote": "यत् यदि हन्त कुवित् नेत् चेत् चण् कच्चित् यत्र इत्येतैर्निपातैर्युक्तं"
+   }
+  ],
+  "note": ""
+ },
+ "8.1.51": {
+  "roles": [
+   {
+    "word": "न",
+    "replaces": "न",
+    "role": "other",
+    "render": "न भवति",
+    "source": "own",
+    "ref": "KV",
+    "quote": "न चेत् कारकं सर्वान्यद् भवति"
+   }
+  ],
+  "note": "In 8.1.51, the sūtra's own particle 'न' belongs to the condition 'न चेत् कारकं सर्वान्यत्', not to the main vidhi-pratiṣedha (which is carried from 8.1.34). Tagged as 'negation', it collided with the carried negation and was omitted from the condition clause, reversing the meaning to 'यदि कारकम्'. Changing its role to 'other' and rendering as 'न भवति' restores 'चेत् कारकं सर्वम् अन्यत् न भवति' as attested in KV/PV."
+ },
+ "8.1.52": {
+  "roles": [
+   {
+    "word": "न",
+    "replaces": "न",
+    "role": "other",
+    "render": "न भवति",
+    "source": "carried:8.1.51",
+    "ref": "KV",
+    "quote": "न चेत् कारकं सर्वान्यद् भवति"
+   }
+  ],
+  "note": "Carried condition 'न' from 8.1.51 must have role 'other' and render 'न भवति' so that the condition clause 'चेत् कारकं सर्वम् अन्यत् न भवति' is properly included rather than omitted/reversed."
+ },
+ "8.1.53": {
+  "roles": [
+   {
+    "word": "न",
+    "replaces": "न",
+    "role": "other",
+    "render": "न भवति",
+    "source": "carried:8.1.51",
+    "ref": "KV",
+    "quote": "न चेत् कारकं सर्वान्यद् भवति"
+   }
+  ],
+  "note": "Carried condition 'न' from 8.1.51 must have role 'other' and render 'न भवति' so that the condition clause 'चेत् कारकं सर्वम् अन्यत् न भवति' is properly included rather than omitted/reversed."
+ },
+ "7.4.81": {
+  "roles": [
+   {
+    "word": "अभ्यासस्य",
+    "replaces": "अभ्यासस्य",
+    "role": "qualifier",
+    "render": "अभ्यासस्य",
+    "source": "carried:7.4.58",
+    "ref": "KV",
+    "quote": "इत्येतेषामभ्यासस्य ओः"
+   },
+   {
+    "word": "ओः",
+    "replaces": "ओः",
+    "role": "sthani",
+    "render": "उवर्णस्य स्थाने",
+    "source": "carried:7.4.80",
+    "ref": "KV",
+    "quote": "इत्येतेषामभ्यासस्य ओः"
+   },
+   {
+    "word": "पुयण्जि",
+    "replaces": "अपरे",
+    "role": "nimitta",
+    "render": "यणि परे",
+    "source": "carried:7.4.80",
+    "ref": "PV",
+    "quote": "यणि परतो विकल्पेनेत्त्वं"
+   },
+   {
+    "word": "सनि",
+    "replaces": "सनि",
+    "role": "nimitta",
+    "render": "सनि परे",
+    "source": "carried:7.4.79",
+    "ref": "KV",
+    "quote": "सनि परतः"
+   }
+  ],
+  "note": ""
+ },
+ "8.1.47": {
+  "roles": [
+   {
+    "word": "अपूर्वम्",
+    "replaces": "अपूर्वम्",
+    "role": "qualifier",
+    "render": "अविद्यमानपूर्वेण",
+    "source": "own",
+    "ref": "PV",
+    "quote": "अविद्यमानपूर्वेण जातु"
+   }
+  ],
+  "note": ""
+ },
+ "8.1.48": {
+  "roles": [
+   {
+    "word": "अपूर्वम्",
+    "replaces": "अपूर्वम्",
+    "role": "qualifier",
+    "render": "अविद्यमानपूर्वेण",
+    "source": "carried:8.1.47",
+    "ref": "PV",
+    "quote": "अविद्यमानपूर्वचिदुत्तरं यत् किंवृत्तं"
+   },
+   {
+    "word": "चिदुत्तरम्",
+    "replaces": "चिदुत्तरम्",
+    "role": "qualifier",
+    "render": "चिदुत्तरेण",
+    "source": "own",
+    "ref": "PV",
+    "quote": "अविद्यमानपूर्वचिदुत्तरं यत् किंवृत्तं"
+   },
+   {
+    "word": "किम्वृत्तम्",
+    "replaces": "किम्वृत्तम्",
+    "role": "nimitta",
+    "render": "किंवृत्तेन युक्तं",
+    "source": "own",
+    "ref": "PV",
+    "quote": "किंवृत्तं तेन युक्तं तिङन्तं नानुदात्तं"
+   },
+   {
+    "word": "तिङ्",
+    "replaces": "तिङ्",
+    "role": "sthani",
+    "render": "तिङन्तं",
+    "source": "carried:8.1.28",
+    "ref": "PV",
+    "quote": "तेन युक्तं तिङन्तं नानुदात्तं भवति"
+   },
+   {
+    "word": "अनुदात्तम्",
+    "replaces": "अनुदात्तम्",
+    "role": "accent",
+    "render": "अनुदात्तं",
+    "source": "carried:8.1.28",
+    "ref": "PV",
+    "quote": "तेन युक्तं तिङन्तं नानुदात्तं भवति"
+   }
+  ],
+  "note": ""
+ },
+ "8.2.42": {
+  "roles": [
+   {
+    "word": "पूर्वस्य",
+    "replaces": "पूर्वस्य",
+    "role": "sthani",
+    "render": "तकारात् पूर्वस्य",
+    "source": "own",
+    "ref": "PV",
+    "quote": "तकारात् पूर्वस्य"
+   },
+   {
+    "word": "च",
+    "replaces": "",
+    "role": "other",
+    "render": "च",
+    "source": "own",
+    "ref": "KV",
+    "quote": "पूर्वस्य च दकारस्य"
+   }
+  ],
+  "note": ""
+ },
+ "8.2.13": {
+  "roles": [
+   {
+    "word": "च",
+    "replaces": "",
+    "role": "other",
+    "render": "च",
+    "source": "own",
+    "ref": "PV",
+    "quote": "संज्ञायां विषये च"
+   }
+  ],
+  "note": ""
+ },
+ "8.2.80": {
+  "roles": [
+   {
+    "word": "दात्",
+    "replaces": "दात्",
+    "role": "sthani",
+    "render": "दादुत्तरस्य वर्णस्य",
+    "source": "own",
+    "ref": "PV",
+    "quote": "दादुत्तरस्य वर्णस्य"
+   },
+   {
+    "word": "दः",
+    "replaces": "दः",
+    "role": "sthani",
+    "render": "दकारस्य च",
+    "source": "own",
+    "ref": "PV",
+    "quote": "दकारस्य च"
+   },
+   {
+    "word": "मः",
+    "replaces": "मः",
+    "role": "adesha",
+    "render": "मकारादेशः",
+    "source": "own",
+    "ref": "PV",
+    "quote": "मकारादेशो भवति"
+   }
+  ],
+  "note": ""
+ },
+ "2.4.30": {
+  "roles": [
+   {
+    "word": "नपुंसकम्",
+    "replaces": "नपुंसकम्",
+    "role": "other",
+    "render": "नपुंसकलिङ्गो भवति",
+    "source": "own",
+    "ref": "KV",
+    "quote": "अपथशब्दो नपुंसकलिङ्गो भवति।"
+   }
+  ],
+  "note": "2.4.30 is a liṅga-vidhi rule assigning neuter gender, not a saṃjñā rule creating a name. The role of नपुंसकम् is changed from samjna to other with render 'नपुंसकलिङ्गो भवति' per KV/PV."
+ },
+ "2.4.33": {
+  "roles": [
+   {
+    "word": "त्र-तसौ",
+    "replaces": "त्र-तसौ",
+    "role": "pratyaya",
+    "render": "त्रतसौ प्रत्ययौ",
+    "source": "own",
+    "ref": "PV",
+    "quote": "तौ चापि त्रतसावनुदात्तौ भवतः ॥"
+   },
+   {
+    "word": "च",
+    "replaces": "",
+    "role": "other",
+    "render": "च",
+    "source": "own",
+    "ref": "SK",
+    "quote": "तौ चानुदात्तौ स्तः"
+   }
+  ],
+  "note": "The affixes 'त्र-तसौ' are not sthānin receiving ādeśa; they are pratyayas that receive anudātta accent alongside the adesha of etad. Replacing sthani with pratyaya removes the spurious 'स्थाने', and adding the conjunction 'च' from the sūtra connects the two operations."
+ },
+ "2.4.83": {
+  "roles": [
+   {
+    "word": "अतः",
+    "replaces": "अतः",
+    "role": "qualifier",
+    "render": "अदन्तात् अव्ययीभावसमासात् परस्य",
+    "source": "own",
+    "ref": "KV",
+    "quote": "अदन्तादव्ययीभावादुत्तरस्य सुपो न लुग् भवति"
+   },
+   {
+    "word": "तु",
+    "replaces": "",
+    "role": "other",
+    "render": "तु",
+    "source": "own",
+    "ref": "KV",
+    "quote": "अमादेशस्तु तस्य सुपो भवत्यपञ्चम्याः।"
+   }
+  ],
+  "note": "अतः qualifies अव्ययीभावात् ('अदन्तात् अव्ययीभावात्'). The sūtra contains two distinct operations: the prohibition of luk (सुपो न लुग् भवति) and the substitution of am with 'तु' indicating the contrast (अमादेशस्तु भवत्यपञ्चम्याः) per KV and PV."
+ },
+ "4.3.135": {
+  "roles": [
+   {
+    "word": "प्रत्ययः",
+    "replaces": "",
+    "role": "pratyaya",
+    "render": "यथाविहितं प्रत्ययः",
+    "source": "carried:3.1.1",
+    "ref": "KV",
+    "quote": "यथाविहितं प्रत्ययो भवति"
+   }
+  ],
+  "note": ""
+ },
+ "4.3.66": {
+  "roles": [
+   {
+    "word": "प्रत्ययः",
+    "replaces": "",
+    "role": "pratyaya",
+    "render": "यथाविहितं प्रत्ययः",
+    "source": "carried:3.1.1",
+    "ref": "KV",
+    "quote": "यथाविहितं प्रत्ययो भवति"
+   }
+  ],
+  "note": ""
+ },
+ "4.3.89": {
+  "roles": [
+   {
+    "word": "निवासः",
+    "replaces": "निवासः",
+    "role": "qualifier",
+    "render": "निवासवाचिनः",
+    "source": "own",
+    "ref": "KV",
+    "quote": "यत् प्रथमासमर्थं निवासश्चेत् स भवति"
+   }
+  ],
+  "note": ""
+ },
+ "4.3.92": {
+  "roles": [
+   {
+    "word": "अभिजनः",
+    "replaces": "अस्य",
+    "role": "artha",
+    "render": "सोऽस्याभिजनः इत्यर्थे",
+    "source": "carried:4.3.90",
+    "ref": "KV",
+    "quote": "सोऽस्याभिजन इत्येतस्मिन् विषये"
+   }
+  ],
+  "note": ""
+ },
+ "4.3.93": {
+  "roles": [
+   {
+    "word": "अभिजनः",
+    "replaces": "अस्य",
+    "role": "artha",
+    "render": "सोऽस्याभिजनः इत्यर्थे",
+    "source": "carried:4.3.90",
+    "ref": "KV",
+    "quote": "सोऽस्याभिजन इत्येतस्मिन् विषये"
+   }
+  ],
+  "note": ""
+ },
+ "4.3.168": {
+  "roles": [
+   {
+    "word": "कंसीय-परशव्ययोः",
+    "replaces": "कंसीय-परशव्ययोः",
+    "role": "sthani",
+    "render": "तत्संनियोगेन च कंसीय-परशव्ययोः",
+    "source": "own",
+    "ref": "KV",
+    "quote": "तत्संनियोगेन च कंसीयपरशव्ययोर्लुग् भवति"
+   }
+  ],
+  "note": ""
+ },
+ "4.4.129": {
+  "roles": [
+   {
+    "word": "मासतन्वोः",
+    "replaces": "",
+    "role": "artha",
+    "render": "मासतन्वोः प्रत्ययार्थयोः",
+    "source": "own",
+    "ref": "PV",
+    "quote": "मासतन्वोः प्रत्ययार्थयोर्"
+   }
+  ],
+  "note": ""
+ },
+ "4.4.133": {
+  "roles": [
+   {
+    "word": "ख",
+    "replaces": "ख",
+    "role": "pratyaya",
+    "render": "ख-प्रत्ययः च",
+    "source": "own",
+    "ref": "PV",
+    "quote": "भवतः ख च"
+   }
+  ],
+  "note": ""
+ },
+ "5.1.64": {
+  "roles": [
+   {
+    "word": "प्रत्ययः",
+    "replaces": "",
+    "role": "pratyaya",
+    "render": "यथाविहितं प्रत्ययः",
+    "source": "carried:3.1.1",
+    "ref": "PV",
+    "quote": "यथाविहितं प्रत्ययो भवति"
+   }
+  ],
+  "note": ""
+ },
+ "5.1.77": {
+  "roles": [
+   {
+    "word": "उत्तरपथेन",
+    "replaces": "उत्तरपथेन",
+    "role": "prakriti",
+    "render": "तृतीयासमर्थात् उत्तरपथ-प्रातिपदिकात्",
+    "source": "own",
+    "ref": "PV",
+    "quote": "तृतीयासमर्थात्, उत्तरपथप्रातिपदिकाद्"
+   }
+  ],
+  "note": ""
+ },
+ "5.1.87": {
+  "roles": [
+   {
+    "word": "तदधीष्टो भृतो भूतो भावी",
+    "replaces": "",
+    "role": "artha",
+    "render": "अधीष्टादिषु अर्थेषु",
+    "source": "carried:5.1.80",
+    "ref": "PV",
+    "quote": "अधीष्टादिष्वर्थेषु"
+   }
+  ],
+  "note": ""
+ },
+ "5.1.88": {
+  "roles": [
+   {
+    "word": "तदधीष्टो भृतो भूतो भावी",
+    "replaces": "",
+    "role": "artha",
+    "render": "अधीष्टादिषु अर्थेषु",
+    "source": "carried:5.1.80",
+    "ref": "PV",
+    "quote": "अधीष्टादिष्वर्थेषु"
+   },
+   {
+    "word": "लुक्",
+    "replaces": "लुक्",
+    "role": "adesha",
+    "render": "प्रत्ययस्य लुक्",
+    "source": "own",
+    "ref": "SA",
+    "quote": "प्रत्ययस्य लुक्"
+   }
+  ],
+  "note": ""
+ },
+ "5.4.160": {
+  "roles": [
+   {
+    "word": "न",
+    "replaces": "न",
+    "role": "other",
+    "render": "प्रतिषेधः",
+    "source": "carried:5.4.155",
+    "ref": "KV",
+    "quote": "कपः प्रतिषेधो निपात्यते"
+   }
+  ],
+  "note": ""
+ },
+ "6.1.2": {
+  "roles": [
+   {
+    "word": "एकाचः",
+    "replaces": "एकाचः",
+    "role": "qualifier",
+    "render": "एकाचः",
+    "source": "carried:6.1.1",
+    "ref": "PV",
+    "quote": "एकाचो द्वे भवत"
+   },
+   {
+    "word": "द्वे",
+    "replaces": "द्वे",
+    "role": "other",
+    "render": "द्वे भवतः",
+    "source": "carried:6.1.1",
+    "ref": "PV",
+    "quote": "एकाचो द्वे भवत"
+   }
+  ],
+  "note": ""
+ },
+ "6.1.3": {
+  "roles": [
+   {
+    "word": "न्द्राः",
+    "replaces": "न्द्राः",
+    "role": "sthani",
+    "render": "न्द्राः",
+    "source": "own",
+    "ref": "KV",
+    "quote": "न्द्राणां"
+   },
+   {
+    "word": "द्वे",
+    "replaces": "द्वे",
+    "role": "other",
+    "render": "द्वे",
+    "source": "carried:6.1.1",
+    "ref": "PV",
+    "quote": "द्वित्वं प्रतिषिध्यते"
+   }
+  ],
+  "note": ""
+ },
+ "6.2.42": {
+  "roles": [
+   {
+    "word": "कुरुगार्हपतरिक्तगुर्वसूतजरत्यश्लीलदृढरूपापारेवडवातैतिलकद्रूःपण्यकम्बलः",
+    "replaces": "कुरुगार्हपतरिक्तगुर्वसूतजरत्यश्लीलदृढरूपापारेवडवातैतिलकद्रूःपण्यकम्बलः",
+    "role": "qualifier",
+    "render": "कुरुगार्हपत-रिक्तगुरु-असूतजरती-अश्लीलदृढरूपा-पारेवडवा-तैतिलकद्रू-पण्यकम्बल इत्येतेषां सप्तानां समासानाम्",
+    "source": "own",
+    "ref": "PV",
+    "quote": "कुरुगार्हपत, रिक्तगुरु, असूतजरती, अश्लीलदृढरूपा"
+   }
+  ],
+  "note": ""
+ },
+ "6.3.14": {
+  "roles": [
+   {
+    "word": "अलुक्",
+    "replaces": "अलुक्",
+    "role": "adesha",
+    "render": "अलुग् भवति",
+    "source": "carried:6.3.1",
+    "ref": "KV",
+    "quote": "बहुलमलुग् भवति"
+   }
+  ],
+  "note": ""
+ },
+ "6.2.175": {
+  "roles": [
+   {
+    "word": "स्वरः",
+    "replaces": "",
+    "role": "accent",
+    "render": "स्वरः",
+    "source": "carried:6.2.1",
+    "ref": "KV",
+    "quote": "नञ इव स्वरो भवति"
+   }
+  ],
+  "note": ""
+ },
+ "6.2.156": {
+  "roles": [
+   {
+    "word": "तद्धिताः",
+    "replaces": "",
+    "role": "qualifier",
+    "render": "तद्धितयोः",
+    "source": "carried:6.2.155",
+    "ref": "KV",
+    "quote": "यौ तद्धितावतदर्थे वर्तेते"
+   }
+  ],
+  "note": ""
+ },
+ "6.3.49": {
+  "roles": [
+   {
+    "word": "अबहुव्रीहि-अशीत्योः",
+    "replaces": "अबहुव्रीहि-अशीत्योः",
+    "role": "qualifier",
+    "render": "अबहुव्रीहौ अशीतिवर्जिते च",
+    "source": "carried:6.3.46",
+    "ref": "PV",
+    "quote": "ऽबहुव्रीह्यशीत्योः"
+   }
+  ],
+  "note": ""
+ },
+ "6.3.62": {
+  "roles": [
+   {
+    "word": "च",
+    "replaces": "",
+    "role": "other",
+    "render": "च",
+    "source": "own",
+    "ref": "PV",
+    "quote": "तद्धिते उत्तरपदे च परतः"
+   }
+  ],
+  "note": ""
+ },
+ "6.4.39": {
+  "roles": [
+   {
+    "word": "च",
+    "replaces": "",
+    "role": "other",
+    "render": "च",
+    "source": "own",
+    "ref": "KV",
+    "quote": "दीर्घश्च न भवति"
+   }
+  ],
+  "note": ""
+ },
+ "6.4.73": {
+  "roles": [
+   {
+    "word": "लुङ्लङ्लृङ्क्षु",
+    "replaces": "",
+    "role": "nimitta",
+    "render": "लुङ्लङ्लृङ्क्षु परतः",
+    "source": "carried:6.4.71",
+    "ref": "SA",
+    "quote": "लुङ्लकारे, लङ्लकारे, लृङ्लकारे"
+   }
+  ],
+  "note": ""
+ },
+ "6.4.75": {
+  "roles": [
+   {
+    "word": "माङ्योगे",
+    "replaces": "",
+    "role": "nimitta",
+    "render": "माङ्योगे",
+    "source": "carried:6.4.74",
+    "ref": "KV",
+    "quote": "माङ्योगेऽपि बहुलमडाटौ भवतः"
+   },
+   {
+    "word": "अपि",
+    "replaces": "",
+    "role": "other",
+    "render": "अपि",
+    "source": "own",
+    "ref": "KV",
+    "quote": "माङ्योगेऽपि बहुलमडाटौ भवतः"
+   },
+   {
+    "word": "न",
+    "replaces": "",
+    "role": "negation",
+    "render": "न",
+    "source": "carried:6.4.74",
+    "ref": "KV",
+    "quote": "अमाङ्योगेऽपि न भवतः"
+   }
+  ],
+  "note": ""
+ },
+ "8.3.61": {
+  "roles": [
+   {
+    "word": "अभ्यासात्",
+    "replaces": "अभ्यासात्",
+    "role": "purva",
+    "render": "अभ्यासाद्",
+    "source": "own",
+    "ref": "PV",
+    "quote": "अभ्यासादिण उत्तरस्य"
+   },
+   {
+    "word": "इण्",
+    "replaces": "इण्",
+    "role": "qualifier",
+    "render": "इण उत्तरस्य",
+    "source": "carried:8.3.57",
+    "ref": "PV",
+    "quote": "अभ्यासादिण उत्तरस्य"
+   }
+  ],
+  "note": ""
+ },
+ "8.2.107": {
+  "roles": [],
+  "note": ""
+ },
+ "8.3.63": {
+  "roles": [
+   {
+    "word": "प्राक्",
+    "replaces": "प्राक्",
+    "role": "adhikara",
+    "render": "प्राक्",
+    "source": "own",
+    "ref": "PV",
+    "quote": "प्राक् सितशब्दाद्"
+   },
+   {
+    "word": "सितात्",
+    "replaces": "सितात्",
+    "role": "qualifier",
+    "render": "सितशब्दात्",
+    "source": "own",
+    "ref": "PV",
+    "quote": "प्राक् सितशब्दाद्"
+   },
+   {
+    "word": "मूर्धन्यः",
+    "replaces": "मूर्धन्यः",
+    "role": "adesha",
+    "render": "मूर्धन्यो भवति इत्यधिकारः",
+    "source": "carried:8.3.55",
+    "ref": "PV",
+    "quote": "मूर्धन्यो भवति"
+   }
+  ],
+  "note": ""
+ },
+ "8.2.81": {
+  "roles": [
+   {
+    "word": "च",
+    "replaces": "",
+    "role": "other",
+    "render": "च",
+    "source": "carried:8.2.80",
+    "ref": "KV",
+    "quote": "दकारस्य च मकारः"
+   }
+  ],
+  "note": ""
+ },
+ "8.2.71": {
+  "roles": [
+   {
+    "word": "उभयथा",
+    "replaces": "",
+    "role": "option",
+    "render": "उभयथा",
+    "source": "carried:8.2.70",
+    "ref": "KV",
+    "quote": "उभयथा भवति, रुर्वा रेफो वा"
+   },
+   {
+    "word": "रुः",
+    "replaces": "रुः",
+    "role": "adesha",
+    "render": "रुर्वा",
+    "source": "carried:8.2.66",
+    "ref": "KV",
+    "quote": "रुर्वा रेफो वा"
+   },
+   {
+    "word": "रः",
+    "replaces": "रः",
+    "role": "adesha",
+    "render": "रेफो वा",
+    "source": "carried:8.2.69",
+    "ref": "KV",
+    "quote": "रुर्वा रेफो वा"
+   }
+  ],
+  "note": ""
+ },
+ "7.3.119": {
+  "roles": [
+   {
+    "word": "घेः",
+    "replaces": "इदुद्भ्याम्",
+    "role": "purva",
+    "render": "घिसंज्ञकात् परस्य",
+    "source": "own",
+    "ref": "KV",
+    "quote": "घिसंज्ञकादुत्तरस्य ङेरौकारादेशो भवति"
+   },
+   {
+    "word": "घेः",
+    "replaces": "घेः",
+    "role": "sthani",
+    "render": "घेरङ्गस्य",
+    "source": "own",
+    "ref": "KV",
+    "quote": "तस्य च घेरकारादेशो भवति"
+   },
+   {
+    "word": "च",
+    "replaces": "",
+    "role": "other",
+    "render": "च",
+    "source": "own",
+    "ref": "KV",
+    "quote": "तस्य च घेरकारादेशो भवति"
+   }
+  ],
+  "note": ""
+ },
+ "8.3.104": {
+  "roles": [
+   {
+    "word": "तादौ",
+    "replaces": "तादौ",
+    "role": "nimitta",
+    "render": "तादौ",
+    "source": "carried:8.3.101",
+    "ref": "PV",
+    "quote": "तादौ युष्मत्तत्ततक्षुःषु परतः"
+   }
+  ],
+  "note": ""
+ },
+ "8.3.114": {
+  "roles": [
+   {
+    "word": "प्रतिस्तब्धनिस्तब्धौ",
+    "replaces": "प्रतिस्तब्धनिस्तब्धौ",
+    "role": "other",
+    "render": "प्रतिस्तब्ध-निस्तब्धौ इत्यत्र",
+    "source": "own",
+    "ref": "PV",
+    "quote": "प्रतिस्तब्ध निस्तब्ध इत्यत्र मूर्धन्याभावो निपात्यते"
+   },
+   {
+    "word": "मूर्धन्यः",
+    "replaces": "मूर्धन्यः",
+    "role": "adesha",
+    "render": "मूर्धन्यादेशस्य अभावः निपात्यते",
+    "source": "carried:8.3.55",
+    "ref": "PV",
+    "quote": "मूर्धन्याभावो निपात्यते"
+   }
+  ],
+  "note": ""
+ },
+ "8.3.78": {
+  "roles": [
+   {
+    "word": "इणः",
+    "replaces": "इणः",
+    "role": "purva",
+    "render": "इणन्तात्",
+    "source": "own",
+    "ref": "PV",
+    "quote": "इणन्तादङ्गादुत्तरेषां"
+   },
+   {
+    "word": "अङ्गात्",
+    "replaces": "अङ्गात्",
+    "role": "purva",
+    "render": "अङ्गात् उत्तरेषां",
+    "source": "own",
+    "ref": "PV",
+    "quote": "इणन्तादङ्गादुत्तरेषां"
+   }
+  ],
+  "note": ""
+ },
+ "6.4.16": {
+  "roles": [
+   {
+    "word": "अज्झनगमाम्",
+    "replaces": "अज्झनगमाम्",
+    "role": "qualifier",
+    "render": "अजन्तानाम् हन्तेः गमेश्च",
+    "source": "own",
+    "ref": "KV",
+    "quote": "अजन्तानामङ्गानां हनिगम्योश्च"
+   }
+  ],
+  "note": ""
+ },
+ "7.1.102": {
+  "roles": [
+   {
+    "word": "ओष्ठ्यपूर्वस्य",
+    "replaces": "ओष्ठ्यपूर्वस्य",
+    "role": "qualifier",
+    "render": "ओष्ठ्यः पूर्वो यस्मात्",
+    "source": "own",
+    "ref": "PV",
+    "quote": "ओष्ठ्यः पूर्वो यस्मात्"
+   }
+  ],
+  "note": ""
+ },
+ "1.3.9": {
+  "roles": [
+   {
+    "word": "तस्य",
+    "replaces": "तस्य",
+    "role": "sthani",
+    "render": "तस्य इत्संज्ञकस्य",
+    "source": "own",
+    "ref": "KV",
+    "quote": "तस्य इत्संज्ञकस्य"
+   }
+  ],
+  "note": ""
+ },
+ "1.3.90": {
+  "roles": [
+   {
+    "word": "परस्मैपदम्",
+    "replaces": "परस्मैपदम्",
+    "role": "pratyaya",
+    "render": "परस्मैपदम्",
+    "source": "carried:1.3.78",
+    "ref": "KV",
+    "quote": "परस्मैपदं भवति"
+   }
+  ],
+  "note": ""
+ },
+ "1.3.91": {
+  "roles": [
+   {
+    "word": "परस्मैपदम्",
+    "replaces": "परस्मैपदम्",
+    "role": "pratyaya",
+    "render": "परस्मैपदम्",
+    "source": "carried:1.3.78",
+    "ref": "KV",
+    "quote": "परस्मैपदं भवति"
+   }
+  ],
+  "note": ""
+ },
+ "1.3.92": {
+  "roles": [
+   {
+    "word": "परस्मैपदम्",
+    "replaces": "परस्मैपदम्",
+    "role": "pratyaya",
+    "render": "परस्मैपदम्",
+    "source": "carried:1.3.78",
+    "ref": "KV",
+    "quote": "परस्मैपदं भवति"
+   }
+  ],
+  "note": ""
+ },
+ "2.3.37": {
+  "roles": [
+   {
+    "word": "यस्य",
+    "replaces": "यस्य",
+    "role": "prakriti",
+    "render": "ततो भाववतः",
+    "source": "own",
+    "ref": "KV",
+    "quote": "ततो भाववतः सप्तमी विभक्तिर्भवति।"
+   },
+   {
+    "word": "भावेन",
+    "replaces": "भावेन",
+    "role": "qualifier",
+    "render": "यस्य क्रियया",
+    "source": "own",
+    "ref": "KV",
+    "quote": "यस्य च क्रियया क्रियान्तरं लक्ष्यते"
+   },
+   {
+    "word": "भाव-लक्षणम्",
+    "replaces": "भाव-लक्षणम्",
+    "role": "nimitta",
+    "render": "क्रियान्तरं लक्ष्यते",
+    "source": "own",
+    "ref": "KV",
+    "quote": "यस्य च क्रियया क्रियान्तरं लक्ष्यते"
+   }
+  ],
+  "note": ""
+ },
+ "1.1.75": {
+  "roles": [
+   {
+    "word": "एङ्",
+    "replaces": "एङ्",
+    "role": "qualifier",
+    "render": "एङ्",
+    "source": "own",
+    "ref": "KV",
+    "quote": "एङ् यस्याचामादिस्तत्"
+   },
+   {
+    "word": "यस्याचामादिः",
+    "replaces": "",
+    "role": "samjni",
+    "render": "यस्याचामादिः तत् शब्दरूपम्",
+    "source": "carried:1.1.73",
+    "ref": "KV",
+    "quote": "एङ् यस्याचामादिस्तत्"
+   },
+   {
+    "word": "देशे",
+    "replaces": "देशे",
+    "role": "artha",
+    "render": "प्राचां देशाभिधाने",
+    "source": "own",
+    "ref": "KV",
+    "quote": "प्राचां देशाभिधाने वृद्धसंज्ञं भवति"
+   }
+  ],
+  "note": ""
+ },
+ "4.1.97": {
+  "roles": [
+   {
+    "word": "सुधातुरकङ् च",
+    "replaces": "सुधातुः",
+    "role": "prakriti",
+    "render": "सुधातृप्रातिपदिकात्",
+    "source": "own",
+    "ref": "KV",
+    "quote": "सुधातृशब्दादपत्य इञ् प्रत्ययो भवति"
+   },
+   {
+    "word": "सुधातुरकङ् च",
+    "replaces": "अकङ्",
+    "role": "adesha",
+    "render": "तस्य अकङ् आदेशः",
+    "source": "own",
+    "ref": "KV",
+    "quote": "तत्सन्नियोगेन च तस्याकङादेशो भवति"
+   }
+  ],
+  "note": ""
+ },
+ "1.3.93": {
+  "roles": [
+   {
+    "word": "परस्मैपदम्",
+    "replaces": "परस्मैपदम्",
+    "role": "pratyaya",
+    "render": "परस्मैपदम्",
+    "source": "carried:1.3.78",
+    "ref": "KV",
+    "quote": "परस्मैपदं वा भवति"
+   }
+  ],
+  "note": ""
+ },
+ "1.4.28": {
+  "roles": [
+   {
+    "word": "येन",
+    "replaces": "येन",
+    "role": "qualifier",
+    "render": "येन",
+    "source": "own",
+    "ref": "KV",
+    "quote": "येनादर्शनमात्मन इच्छति"
+   }
+  ],
+  "note": ""
+ },
+ "1.4.37": {
+  "roles": [
+   {
+    "word": "यम्",
+    "replaces": "यम्",
+    "role": "qualifier",
+    "render": "यं",
+    "source": "own",
+    "ref": "PV",
+    "quote": "यं प्रति कोपस्तत् कारकं"
+   },
+   {
+    "word": "कारके",
+    "replaces": "कारके",
+    "role": "samjni",
+    "render": "तत् कारकं",
+    "source": "carried:1.4.23",
+    "ref": "KV",
+    "quote": "तत् कारकं संप्रदानसंज्ञे"
+   }
+  ],
+  "note": ""
+ },
+ "2.1.32": {
+  "roles": [
+   {
+    "word": "कर्तृकरणे",
+    "replaces": "कर्तृकरणे",
+    "role": "qualifier",
+    "render": "कर्तरि करणे च",
+    "source": "own",
+    "ref": "KV",
+    "quote": "कर्तरि करणे च या तृतीया"
+   }
+  ],
+  "note": ""
+ },
+ "2.3.36": {
+  "roles": [
+   {
+    "word": "च",
+    "replaces": "दूरान्तिकार्थेभ्यः",
+    "role": "other",
+    "render": "चकाराद् दूरान्तिकार्थेभ्यश्च",
+    "source": "own",
+    "ref": "KV",
+    "quote": "चकाराद् दूरान्तिकार्थेभ्यश्च"
+   }
+  ],
+  "note": ""
+ },
+ "2.3.43": {
+  "roles": [
+   {
+    "word": "अप्रतेः",
+    "replaces": "अप्रतेः",
+    "role": "negation",
+    "render": "न चेत् प्रतिः प्रयुज्यते",
+    "source": "own",
+    "ref": "KV",
+    "quote": "न चेत् प्रतिः प्रयुज्यते"
+   }
+  ],
+  "note": ""
+ },
+ "3.4.42": {
+  "roles": [],
+  "note": "The reviewer is wrong. The condition अधिकरणे from 3.4.41 does not carry into 3.4.42 (अधिकरणे इति निवृत्तम्, as noted in Bālamanoramā and Tattvabodhinī). All major references (KV, PV, SK) omit अधिकरणे and gloss simply: संज्ञायां विषये बध्नातेर्धातोर्णमुल् प्रत्ययो भवति."
+ },
+ "4.1.92": {
+  "roles": [],
+  "note": "The reviewer is wrong. Sūtra 4.1.92 is an adhikāra-sūtra (अधिकारोऽयम् — KV, Mahābhāṣya), not a vidhi-sūtra prescribing अण्. KV explicitly states ‹अधिकारोऽयम्। प्राग् दिशोऽभिधेयादित्येवमर्थः› and along with PV/SK indicates that all relevant suffixes occur in this meaning (यथाविहितं प्रत्ययो भवति / उक्ता वक्ष्यमाणाश्च प्रत्यया वा स्युः), so designating it as an अधिकार is correct."
+ },
+ "4.2.84": {
+  "roles": [
+   {
+    "word": "चातुरर्थिकेषु अर्थेषु",
+    "replaces": "",
+    "role": "artha",
+    "render": "चातुरर्थिकेषु अर्थेषु",
+    "source": "carried:4.2.67",
+    "ref": "KV",
+    "quote": "प्रत्ययौ भवतश्चातुरर्थिकौ"
+   }
+  ],
+  "note": ""
+ },
+ "3.2.44": {
+  "roles": [
+   {
+    "word": "कर्मणि",
+    "replaces": "कर्मणि",
+    "role": "qualifier",
+    "render": "कर्मसु",
+    "source": "carried:3.2.1",
+    "ref": "KV",
+    "quote": "कर्मसूपपदेषु"
+   }
+  ],
+  "note": ""
+ },
+ "3.2.62": {
+  "roles": [
+   {
+    "word": "उपसर्गे",
+    "replaces": "उपसर्गे",
+    "role": "upapada",
+    "render": "उपसर्गेऽपि",
+    "source": "carried:3.2.60",
+    "ref": "KV",
+    "quote": "उपसर्गऽप्यनुपसर्गेऽपि"
+   },
+   {
+    "word": "अपि",
+    "replaces": "",
+    "role": "other",
+    "render": "अनुपसर्गेऽपि",
+    "source": "carried:3.2.60",
+    "ref": "KV",
+    "quote": "उपसर्गऽप्यनुपसर्गेऽपि"
+   }
+  ],
+  "note": ""
+ },
+ "3.3.61": {
+  "roles": [
+   {
+    "word": "अनुपसर्गे",
+    "replaces": "अनुपसर्गे",
+    "role": "qualifier",
+    "render": "अनुपसर्गयोः",
+    "source": "own",
+    "ref": "KV",
+    "quote": "व्यध जप इत्येतयोरनुपसर्गयोरप्"
+   }
+  ],
+  "note": ""
+ },
+ "5.1.65": {
+  "roles": [
+   {
+    "word": "च",
+    "replaces": "",
+    "role": "pratyaya",
+    "render": "चकाराद् यथाविहितं ठक् च",
+    "source": "own",
+    "ref": "PV",
+    "quote": "चकाराद् यथाविहितं ठक् च"
+   }
+  ],
+  "note": ""
+ },
+ "5.2.18": {
+  "roles": [
+   {
+    "word": "भूतपूर्वे",
+    "replaces": "भूतपूर्वे",
+    "role": "qualifier",
+    "render": "भूतपूर्वेऽर्थे वर्तमानात्",
+    "source": "own",
+    "ref": "PV",
+    "quote": "भूतपूर्वेऽर्थे वर्त्तमानात्"
+   },
+   {
+    "word": "स्वार्थे",
+    "replaces": "",
+    "role": "artha",
+    "render": "स्वार्थे",
+    "source": "own",
+    "ref": "KV",
+    "quote": "स्वार्थे खञ् प्रत्ययो भवति"
+   }
+  ],
+  "note": ""
+ },
+ "5.2.53": {
+  "roles": [
+   {
+    "word": "वतोः",
+    "replaces": "वतोः",
+    "role": "sthani",
+    "render": "वत्वन्तस्य प्रातिपदिकस्य",
+    "source": "own",
+    "ref": "PV",
+    "quote": "वत्वन्तस्य प्रातिपदिकस्य"
+   }
+  ],
+  "note": ""
+ },
+ "5.3.86": {
+  "roles": [
+   {
+    "word": "प्रत्ययः",
+    "replaces": "प्रत्ययः",
+    "role": "pratyaya",
+    "render": "यथाविहितं प्रत्ययः",
+    "source": "carried:3.1.1",
+    "ref": "KV",
+    "quote": "यथाविहितं प्रत्ययो भवति"
+   }
+  ],
+  "note": ""
+ },
+ "5.4.7": {
+  "roles": [
+   {
+    "word": "अषडक्षाशितङ्ग्वलंकर्मालम्पुरुषाध्युत्तरपदात्",
+    "replaces": "अषडक्षाशितङ्ग्वलंकर्मालम्पुरुषाध्युत्तरपदात्",
+    "role": "prakriti",
+    "render": "अषडक्ष-आशितङ्गु-अलंकर्मन्-अलंपुरुष-इत्येतेभ्यः अध्युत्तरपदाच्च प्रातिपदिकात्",
+    "source": "own",
+    "ref": "PV",
+    "quote": "अषडक्ष, आशितंगु, अलंकर्मन्, अलंपुरुष इत्येतेभ्यः"
+   }
+  ],
+  "note": ""
+ },
+ "5.4.144": {
+  "roles": [],
+  "note": ""
+ },
+ "6.1.137": {
+  "roles": [],
+  "note": "The reviewer is mistaken. The gloss does not state ‹सम् परि उप इत्येतेभ्यः पूर्वः›; 'पूर्वः' qualifies 'कात्' (कात् पूर्वः, meaning before the letter 'k'), and 'सम् परि उपेभ्यः उत्तरस्य' correctly specifies that the augment follows the prefixes. Both KV (‹सम् परि उप इत्येतेभ्यो भूषणार्थे करोतौ परतः सुट् कात् पूर्वो भवति›) and PV (‹सम्, परि, इत्येताभ्यां भूषणेऽर्थे करोतौ परतः सुट् कात् पूर्वो भवति संहितायाम्›) support our vṛtti."
+ },
+ "6.1.216": {
+  "roles": [
+   {
+    "word": "त्याग-राग-हास-कुह-श्वठ-क्रथानाम्",
+    "replaces": "त्याग-राग-हास-कुह-श्वठ-क्रथानाम्",
+    "role": "prakriti",
+    "render": "त्याग-राग-हास-कुह-श्वठ-क्रथ इत्येतेषां शब्दानाम्",
+    "source": "own",
+    "ref": "KV",
+    "quote": "त्याग राग हास कुह श्वठ क्रथ इत्येतेषां"
+   }
+  ],
+  "note": ""
+ },
+ "6.1.214": {
+  "roles": [
+   {
+    "word": "ईड-वन्द-वृ-शंस-दुहाम्",
+    "replaces": "ईड-वन्द-वृ-शंस-दुहाम्",
+    "role": "prakriti",
+    "render": "ईड-वन्द-वृ-शंस-दुह् इत्येतेषां धातूनां",
+    "source": "own",
+    "ref": "KV",
+    "quote": "ईड वन्द वृ शंस दुह् इत्येतेषां"
+   }
+  ],
+  "note": ""
+ },
+ "5.2.89": {
+  "roles": [
+   {
+    "word": "परिपन्थिपरिपरिणौ",
+    "replaces": "परिपन्थिपरिपरिणौ",
+    "role": "other",
+    "render": "परिपन्थिन् परिपरिन् इति शब्दौ निपात्येते",
+    "source": "own",
+    "ref": "KV",
+    "quote": "परिपन्थिन् परिपरिन् इत्येतौ शब्दौ"
+   }
+  ],
+  "note": ""
+ },
+ "5.2.127": {
+  "roles": [
+   {
+    "word": "मत्वर्थे",
+    "replaces": "",
+    "role": "artha",
+    "render": "मत्वर्थे",
+    "source": "carried:5.2.94",
+    "ref": "KV",
+    "quote": "भवति मत्वर्थे।"
+   }
+  ],
+  "note": ""
+ },
+ "5.2.130": {
+  "roles": [
+   {
+    "word": "मत्वर्थे",
+    "replaces": "",
+    "role": "artha",
+    "render": "मत्वर्थे",
+    "source": "carried:5.2.94",
+    "ref": "KV",
+    "quote": "भवति मत्वर्थे वयसि द्योत्ये।"
+   }
+  ],
+  "note": ""
+ },
+ "6.3.4": {
+  "roles": [],
+  "note": "The reviewer is wrong. The references (KV, PV) use ‹अलुग् भवति› directly (KV: ‹मनस उत्तरस्यास्तृतीयायाः संज्ञायामलुग् भवति›), not a separate ‹लुक्› with ‹न भवति›. The role table already includes ‹अलुग् भवति›, so there is no stranded ‹न भवति›."
+ },
+ "6.3.5": {
+  "roles": [],
+  "note": "The reviewer is wrong. The references (KV, PV) use ‹अलुग् भवति› directly (KV: ‹आज्ञायिन्युत्तरपदे मनस उत्तरस्यास्तृतीयाया अलुग् भवति›). The role table already provides ‹अलुग् भवति›, so ‹लुक्› is not missing and there is no stranded ‹न भवति›."
+ },
+ "6.3.6": {
+  "roles": [],
+  "note": "The reviewer is wrong. The references (KV, PV) use ‹अलुग् भवति› directly (KV: ‹पूरणप्रत्ययान्त उत्तरपदेऽलुग् भवति›). The role table already provides ‹अलुग् भवति›, so ‹लुक्› is not missing and there is no stranded ‹न भवति›."
+ },
+ "6.3.9": {
+  "roles": [],
+  "note": "The reviewer claims that carried terms ‹अलुक्› and ‹उत्तरपदे› are missing. However, ‹अलुक्› is already present in the role table as 'अलुग् भवति', and none of the references (KV, PV, SK) voice 'उत्तरपदे' in their vṛtti for 6.3.9 (KV: 'हलन्ताददन्तात् चोत्तरस्याः सप्तम्याः संज्ञायामलुग् भवति।')."
+ },
+ "6.3.11": {
+  "roles": [],
+  "note": "The reviewer claims that ‹लुक्› is missing leaving ‹न भवति› without a subject. However, the role table does not contain ‹न भवति›; it already has ‹अलुक्› rendering as 'अलुग् भवति', which exactly matches KV ('मध्यादुत्तरस्याः सप्तम्या गुरावुत्तरपदेऽलुग् भवति') and PV."
+ },
+ "6.4.64": {
+  "roles": [
+   {
+    "word": "च",
+    "replaces": "",
+    "role": "other",
+    "render": "च",
+    "source": "own",
+    "ref": "KV",
+    "quote": "क्ङिति चाकारान्तस्याङ्गस्य"
+   }
+  ],
+  "note": ""
+ },
+ "6.4.174": {
+  "roles": [
+   {
+    "word": "दाण्डिनायनहास्तिनायनाथर्वणिकजैह्माशिनेयवाशिनायनिभ्रौणहत्यधैवत्यसारवैक्ष्वाकमैत्रेयहिरण्मयानि",
+    "replaces": "दाण्डिनायनहास्तिनायनाथर्वणिकजैह्माशिनेयवाशिनायनिभ्रौणहत्यधैवत्यसारवैक्ष्वाकमैत्रेयहिरण्मयानि",
+    "role": "nipatana",
+    "render": "दाण्डिनायन हास्तिनायन आथर्वणिक जैह्माशिनेय वाशिनायनि भ्रौणहत्य धैवत्य सारव ऐक्ष्वाक मैत्रेय हिरण्मय इत्येतानि रूपाणि",
+    "source": "own",
+    "ref": "PV",
+    "quote": "हिरण्मय इत्येतानि शब्दरूपाणि निपात्यन्ते"
+   }
+  ],
+  "note": ""
+ },
+ "7.2.49": {
+  "roles": [
+   {
+    "word": "इवन्तर्धभ्रस्जदम्भुश्रिस्वृयूर्णुभरज्ञपिसनाम्",
+    "replaces": "इवन्तर्धभ्रस्जदम्भुश्रिस्वृयूर्णुभरज्ञपिसनाम्",
+    "role": "purva",
+    "render": "इवन्तानां धातूनाम् ऋधु भ्रस्ज दम्भु श्रि स्वृ यु ऊर्णु भर ज्ञपि सन् इत्येतेषां च",
+    "source": "own",
+    "ref": "KV",
+    "quote": "ऋधु भ्रस्ज दम्भु श्रि स्वृ यु ऊर्णु भर ज्ञपि सन्"
+   }
+  ],
+  "note": ""
+ },
+ "7.2.51": {
+  "roles": [
+   {
+    "word": "क्त्वानिष्ठयोः",
+    "replaces": "क्त्वानिष्ठयोः",
+    "role": "sthani",
+    "render": "क्त्वानिष्ठयोः",
+    "source": "carried:7.2.50",
+    "ref": "KV",
+    "quote": "पूङश्च क्त्वानिष्ठयोर्वेडागमो भवति"
+   }
+  ],
+  "note": ""
+ },
+ "8.3.25": {
+  "roles": [
+   {
+    "word": "समः",
+    "replaces": "समः",
+    "role": "qualifier",
+    "render": "सम्-इत्यस्य",
+    "source": "own",
+    "ref": "KV",
+    "quote": "समो मकारस्य"
+   },
+   {
+    "word": "मः",
+    "replaces": "",
+    "role": "sthani",
+    "render": "मकारस्य",
+    "source": "carried:8.3.23",
+    "ref": "KV",
+    "quote": "समो मकारस्य"
+   }
+  ],
+  "note": ""
+ },
+ "8.3.110": {
+  "roles": [
+   {
+    "word": "रपरसृपिसृजिस्पृशिस्पृहिसवनादीनाम्",
+    "replaces": "रपरसृपिसृजिस्पृशिस्पृहिसवनादीनाम्",
+    "role": "qualifier",
+    "render": "रेफपरस्य सकारस्य सृपि-सृजि-स्पृशि-स्पृहि इत्येतेषां सवनादीनां च",
+    "source": "own",
+    "ref": "PV",
+    "quote": "सृपि सृजि, स्पृशि, स्पृहि इत्येतेषां सवनादीनाञ्च"
+   }
+  ],
+  "note": ""
+ },
+ "8.3.97": {
+  "roles": [
+   {
+    "word": "अम्बाम्बगोभूमिसव्यापद्वित्रिकुशेकुशङ्क्वङ्गुमञ्जिपुञ्जिपरमेबर्हिर्दिव्यग्निभ्यः",
+    "replaces": "अम्बाम्बगोभूमिसव्यापद्वित्रिकुशेकुशङ्क्वङ्गुमञ्जिपुञ्जिपरमेबर्हिर्दिव्यग्निभ्यः",
+    "role": "purva",
+    "render": "अम्ब, आम्ब, गो, भूमि, सव्य, अप, द्वि, त्रि, कु, शेकु, शङ्कु, अङ्गु, मञ्जि, पुञ्जि, परमे, बर्हिस्, दिवि, अग्नि इत्येतेभ्यः उत्तरस्य",
+    "source": "own",
+    "ref": "PV",
+    "quote": "परमे, बर्हिस्, दिवि, अग्नि इत्येतेभ्य उत्तरस्य"
+   }
+  ],
+  "note": ""
+ },
+ "2.1.18": {
+  "roles": [],
+  "note": "The reviewer is mistaken. All references (KV, PV, SK) gloss the sūtra with ‹पारमध्यशब्दौ› (पार and मध्य) rather than ‹पारे मध्ये›, because the base words are पार and मध्य, and the e-kāra ending is a nipātana resulting from the compounding process itself (as PV explains: तत्सन्नियोगेन चैतयोरेकारान्तत्वं निपात्यते). Hence our roles correctly identify the prakṛtis as पारशब्दः and मध्यशब्दः, which the references fully support."
+ },
+ "6.2.121": {
+  "roles": [
+   {
+    "word": "आद्युदात्तम्",
+    "replaces": "उदात्तः",
+    "role": "accent",
+    "render": "आद्युदात्तानि भवन्ति",
+    "source": "carried:6.2.118",
+    "ref": "PV",
+    "quote": "आद्युदात्तानि भवन्ति"
+   }
+  ],
+  "note": ""
+ },
+ "6.2.122": {
+  "roles": [
+   {
+    "word": "आद्युदात्तम्",
+    "replaces": "उदात्तः",
+    "role": "accent",
+    "render": "आद्युदात्तानि भवन्ति",
+    "source": "carried:6.2.118",
+    "ref": "PV",
+    "quote": "आद्युदात्तानि भवन्ति"
+   }
+  ],
+  "note": ""
+ },
+ "2.4.70": {
+  "roles": [
+   {
+    "word": "आगस्त्यकौण्डिन्ययोः",
+    "replaces": "आगस्त्यकौण्डिन्ययोः",
+    "role": "qualifier",
+    "render": "आगस्त्य-कौण्डिन्ययोः",
+    "source": "own",
+    "ref": "KV",
+    "quote": "आगस्त्यकौण्डिन्ययोर्गोत्रप्रत्यययोरणो यञश्च बहुषु लुग् भवति"
+   },
+   {
+    "word": "अगस्तिकुण्डिनच्",
+    "replaces": "अगस्तिकुण्डिनच्",
+    "role": "other",
+    "render": "प्रकृतिभागस्य च यथासङ्ख्यम् अगस्ति कुण्डिनच् एतौ आदेशौ भवतः",
+    "source": "own",
+    "ref": "KV",
+    "quote": "प्रकृतिभागस्य यथासंख्यमगस्ति कुण्डिनच् इत्येतावादेशौ भवतः"
+   }
+  ],
+  "note": ""
+ },
+ "2.4.60": {
+  "roles": [
+   {
+    "word": "इञः",
+    "replaces": "इञः",
+    "role": "purva",
+    "render": "प्राचां गोत्रे विहिताद् इञन्तात् परस्य",
+    "source": "own",
+    "ref": "PV",
+    "quote": "प्राचां गोत्रे विहितो य इञ् तदन्तात्"
+   }
+  ],
+  "note": ""
+ },
+ "3.1.39": {
+  "roles": [
+   {
+    "word": "श्लुवत्",
+    "replaces": "श्लुवत्",
+    "role": "atidesha",
+    "render": "श्लौ इव च एषां कार्यं भवति",
+    "source": "own",
+    "ref": "PV",
+    "quote": "श्लुवच्च एषां कार्यं भवति"
+   }
+  ],
+  "note": ""
+ },
+ "3.2.59": {
+  "roles": [
+   {
+    "word": "ऋत्विग्-दधृक्-स्रग्-दिग्-उष्णिग्-अञ्चु-युजि-क्रुञ्चाम्",
+    "replaces": "ऋत्विग्-दधृक्-स्रग्-दिग्-उष्णिग्-अञ्चु-युजि-क्रुञ्चाम्",
+    "role": "prakriti",
+    "render": "ऋत्विगादयः पञ्च शब्दाः क्विन्प्रत्ययान्ताः निपात्यन्ते, अञ्चु-युजि-क्रुञ्च्-धातुभ्यः च",
+    "source": "own",
+    "ref": "KV",
+    "quote": "ऋत्विगादयः पञ्चशब्दाः क्विन्प्रत्ययान्ता निपात्यन्ते।"
+   }
+  ],
+  "note": ""
+ },
+ "3.2.61": {
+  "roles": [
+   {
+    "word": "उपसर्गे",
+    "replaces": "उपसर्गे",
+    "role": "upapada",
+    "render": "उपसर्गेऽपि",
+    "source": "own",
+    "ref": "KV",
+    "quote": "उपसर्गेऽप्यनुपसर्गेऽपि"
+   },
+   {
+    "word": "अपि",
+    "replaces": "",
+    "role": "other",
+    "render": "अनुपसर्गेऽपि",
+    "source": "own",
+    "ref": "KV",
+    "quote": "उपसर्गेऽप्यनुपसर्गेऽपि"
+   }
+  ],
+  "note": ""
+ },
+ "3.2.71": {
+  "roles": [
+   {
+    "word": "श्वेतवह-उक्थशस्-पुरोडाशः",
+    "replaces": "श्वेतवह-उक्थशस्-पुरोडाशः",
+    "role": "other",
+    "render": "श्वेतवह, उक्थशस्, पुरोडाश् इत्येते शब्दाः",
+    "source": "own",
+    "ref": "PV",
+    "quote": "श्वेतवह, उक्थशस्, पुरोडाश् इत्येते शब्दाः"
+   },
+   {
+    "word": "ण्विन्",
+    "replaces": "ण्विन्",
+    "role": "pratyaya",
+    "render": "ण्विन्-प्रत्ययान्ताः निपात्यन्ते",
+    "source": "own",
+    "ref": "PV",
+    "quote": "ण्विन्प्रत्ययान्ता निपात्यन्ते"
+   }
+  ],
+  "note": ""
+ },
+ "3.3.74": {
+  "roles": [
+   {
+    "word": "वृद्धिः",
+    "replaces": "",
+    "role": "adesha",
+    "render": "वृद्धिश्च",
+    "source": "own",
+    "ref": "KV",
+    "quote": "वृद्धिश्च निपात्यते"
+   }
+  ],
+  "note": ""
+ },
+ "3.3.113": {
+  "roles": [
+   {
+    "word": "अर्थेषु",
+    "replaces": "",
+    "role": "artha",
+    "render": "अर्थेषु",
+    "source": "own",
+    "ref": "KV",
+    "quote": "बहुलमर्थेषु भवन्ति"
+   }
+  ],
+  "note": ""
+ },
+ "3.3.141": {
+  "roles": [
+   {
+    "word": "भूते",
+    "replaces": "भूते",
+    "role": "artha",
+    "render": "भूते काले",
+    "source": "carried:3.3.139",
+    "ref": "KV",
+    "quote": "भूते लिङ्निमित्ते क्रियातिपत्तौ"
+   },
+   {
+    "word": "लिङ्निमित्ते",
+    "replaces": "लिङ्निमित्ते",
+    "role": "nimitta",
+    "render": "लिङ्निमित्ते",
+    "source": "carried:3.3.139",
+    "ref": "KV",
+    "quote": "भूते लिङ्निमित्ते क्रियातिपत्तौ"
+   },
+   {
+    "word": "क्रियातिपत्तौ",
+    "replaces": "क्रियातिपत्तौ",
+    "role": "artha",
+    "render": "क्रियातिपत्तौ सत्याम्",
+    "source": "carried:3.3.139",
+    "ref": "KV",
+    "quote": "भूते लिङ्निमित्ते क्रियातिपत्तौ"
+   },
+   {
+    "word": "लृङ्",
+    "replaces": "लृङ्",
+    "role": "pratyaya",
+    "render": "लृङ् भवति",
+    "source": "carried:3.3.139",
+    "ref": "KV",
+    "quote": "लृङ् वा भवतीत्येतदधिकृतं"
+   }
+  ],
+  "note": ""
+ },
+ "3.4.92": {
+  "roles": [
+   {
+    "word": "पित्",
+    "replaces": "पित्",
+    "role": "atidesha",
+    "render": "स च उत्तमपुरुषः पित् भवति",
+    "source": "own",
+    "ref": "PV",
+    "quote": "स चोत्तमपुरुषः पित् भवति"
+   }
+  ],
+  "note": ""
+ },
+ "3.4.82": {
+  "roles": [
+   {
+    "word": "णल्-अतुस्-उस्-थल्-अथुस्-अ-णल्-व-माः",
+    "replaces": "णल्-अतुस्-उस्-थल्-अथुस्-अ-णल्-व-माः",
+    "role": "adesha",
+    "render": "यथासङ्ख्यम् णल् अतुस् उस् थल् अथुस् अ णल् व म इत्येते नव आदेशाः",
+    "source": "own",
+    "ref": "PV",
+    "quote": "यथासंख्यं णल्, अतुस्, उस्, थल्, अथुस्, अ, णल्, व, म इत्येते नव आदेशा भवन्ति"
+   }
+  ],
+  "note": ""
+ },
+ "3.4.84": {
+  "roles": [
+   {
+    "word": "ब्रुवः",
+    "replaces": "ब्रुवः",
+    "role": "sthani",
+    "render": "तत्सन्नियोगेन च ब्रुवः स्थाने",
+    "source": "own",
+    "ref": "KV",
+    "quote": "तत्सन्नियोगेन च ब्रुव"
+   }
+  ],
+  "note": ""
+ },
+ "4.1.38": {
+  "roles": [
+   {
+    "word": "औ",
+    "replaces": "औ",
+    "role": "adesha",
+    "render": "औकारः वा",
+    "source": "own",
+    "ref": "SK",
+    "quote": "मनुशब्दस्यौकारादेशः स्यादुदात्त ऐकारश्च वा"
+   },
+   {
+    "word": "उदात्तः",
+    "replaces": "उदात्तः",
+    "role": "qualifier",
+    "render": "उदात्तः",
+    "source": "carried:4.1.36",
+    "ref": "SA",
+    "quote": "उदात्तः ऐकारादेशः"
+   }
+  ],
+  "note": ""
+ },
+ "4.1.78": {
+  "roles": [
+   {
+    "word": "गोत्रे",
+    "replaces": "गोत्रे",
+    "role": "qualifier",
+    "render": "गोत्रे विहितयोः",
+    "source": "own",
+    "ref": "KV",
+    "quote": "गोत्रे यावणिञौ विहितावनार्षौ"
+   }
+  ],
+  "note": ""
+ },
+ "4.1.104": {
+  "roles": [
+   {
+    "word": "अनृषि",
+    "replaces": "अनृषि",
+    "role": "qualifier",
+    "render": "अनृषिवाचिभ्यः तु",
+    "source": "own",
+    "ref": "PV",
+    "quote": "अनृषिवाचिभ्यस्त्वनन्तरापत्ये"
+   },
+   {
+    "word": "आनन्तर्ये",
+    "replaces": "आनन्तर्ये",
+    "role": "artha",
+    "render": "अनन्तरापत्ये एव",
+    "source": "own",
+    "ref": "SA",
+    "quote": "अनन्तरापत्ये एव"
+   }
+  ],
+  "note": ""
+ },
+ "3.3.130": {
+  "roles": [],
+  "note": ""
+ },
+ "3.4.32": {
+  "roles": [
+   {
+    "word": "अन्यतरस्याम्",
+    "replaces": "अन्यतरस्याम्",
+    "role": "qualifier",
+    "render": "अन्यतरस्याम्",
+    "source": "own",
+    "ref": "KV",
+    "quote": "ऊलोपश्चास्य पूरयतेरन्यतरस्यां भवति"
+   }
+  ],
+  "note": ""
+ },
+ "3.4.69": {
+  "roles": [
+   {
+    "word": "सकर्मकेभ्यः",
+    "replaces": "धातोः",
+    "role": "prakriti",
+    "render": "सकर्मकेभ्यो धातुभ्यः",
+    "source": "own",
+    "ref": "PV",
+    "quote": "सकर्मकेभ्यो धातुभ्यः कर्मणि कारके भवन्ति"
+   }
+  ],
+  "note": ""
+ },
+ "3.4.1": {
+  "roles": [
+   {
+    "word": "प्रत्ययाः",
+    "replaces": "प्रत्ययाः",
+    "role": "pratyaya",
+    "render": "अयथाकालोक्ताः अपि प्रत्ययाः साधवः भवन्ति",
+    "source": "own",
+    "ref": "PV",
+    "quote": "अयथाकालोक्ताः अपि प्रत्ययाः साधवो भवन्ति"
+   }
+  ],
+  "note": ""
+ },
+ "3.4.2": {
+  "roles": [
+   {
+    "word": "लोट्",
+    "replaces": "लोट्",
+    "role": "pratyaya",
+    "render": "लोट् प्रत्ययः भवति",
+    "source": "own",
+    "ref": "PV",
+    "quote": "लोट् प्रत्ययो भवति"
+   },
+   {
+    "word": "लोटः",
+    "replaces": "लोटः",
+    "role": "sthani",
+    "render": "तस्य लोटः स्थाने",
+    "source": "own",
+    "ref": "PV",
+    "quote": "तस्य च लोटः स्थाने"
+   },
+   {
+    "word": "हिस्वौ",
+    "replaces": "हिस्वौ",
+    "role": "adesha",
+    "render": "हिस्वौ आदेशौ भवतः",
+    "source": "own",
+    "ref": "PV",
+    "quote": "हिस्वौ आदेशौ भवतः"
+   },
+   {
+    "word": "तध्वमोः",
+    "replaces": "तध्वमोः",
+    "role": "qualifier",
+    "render": "तध्वम्भाविनस्तु लोटः स्थाने",
+    "source": "own",
+    "ref": "PV",
+    "quote": "तध्वम्भाविनस्तु लोटः स्थाने"
+   },
+   {
+    "word": "वा",
+    "replaces": "वा",
+    "role": "option",
+    "render": "वा हिस्वौ भवतः",
+    "source": "own",
+    "ref": "PV",
+    "quote": "वा हिस्वावादेशौ भवतः"
+   }
+  ],
+  "note": ""
+ },
+ "3.4.3": {
+  "roles": [
+   {
+    "word": "लोट्",
+    "replaces": "लोट्",
+    "role": "pratyaya",
+    "render": "लोट् प्रत्ययः भवति",
+    "source": "carried:3.4.2",
+    "ref": "KV",
+    "quote": "लोट् प्रत्ययो भवति"
+   },
+   {
+    "word": "लोटः",
+    "replaces": "",
+    "role": "sthani",
+    "render": "तस्य च लोटः स्थाने",
+    "source": "carried:3.4.2",
+    "ref": "PV",
+    "quote": "तस्य च लोटः स्थाने"
+   },
+   {
+    "word": "हिस्वौ",
+    "replaces": "",
+    "role": "adesha",
+    "render": "हिस्वौ आदेशौ भवतः",
+    "source": "carried:3.4.2",
+    "ref": "KV",
+    "quote": "हिस्वावादेशौ भवतः"
+   },
+   {
+    "word": "तध्वमोः",
+    "replaces": "",
+    "role": "qualifier",
+    "render": "तध्वम्भाविनस्तु",
+    "source": "carried:3.4.2",
+    "ref": "KV",
+    "quote": "तध्वंभाविनस्तु"
+   },
+   {
+    "word": "वा",
+    "replaces": "",
+    "role": "option",
+    "render": "वा हिस्वौ भवतः",
+    "source": "carried:3.4.2",
+    "ref": "PV",
+    "quote": "वा हिस्वौ भवतः"
+   }
+  ],
+  "note": ""
+ },
+ "4.2.80": {
+  "roles": [
+   {
+    "word": "अरीहण-कृशाश्व-ऋश्य-कुमुद-काश-तृण-प्रेक्षा-अश्म-सखि-संकाश-बल-पक्ष-कर्ण-सुतङ्गम-प्रगदिन्-वराह-कुमुदादिभ्यः",
+    "replaces": "अरीहण-कृशाश्व-ऋश्य-कुमुद-काश-तृण-प्रेक्षा-अश्म-सखि-संकाश-बल-पक्ष-कर्ण-सुतङ्गम-प्रगदिन्-वराह-कुमुदादिभ्यः",
+    "role": "prakriti",
+    "render": "अरीहणादिभ्यः कृशाश्वादिभ्यः ऋष्यादिभ्यः कुमुदादिभ्यः काशादिभ्यः तृणादिभ्यः प्रेक्षादिभ्यः अश्मादिभ्यः सख्यादिभ्यः संकाशादिभ्यः बलादिभ्यः पक्षादिभ्यः कर्णादिभ्यः सुतङ्गमादिभ्यः प्रगदिन्नादिभ्यः वराहादिभ्यः कुमुदादिभ्यः सप्तदशभ्यः गणेभ्यः",
+    "source": "own",
+    "ref": "PV",
+    "quote": "इत्येतेभ्यः सप्तदशगणेभ्यः प्रातिपदिकेभ्यो"
+   }
+  ],
+  "note": ""
+ },
+ "4.3.22": {
+  "roles": [
+   {
+    "word": "च",
+    "replaces": "",
+    "role": "pratyaya",
+    "render": "ठञ् च",
+    "source": "own",
+    "ref": "PV",
+    "quote": "हेमन्तशब्दाद् अण्ठञौ प्रत्ययौ भवतः"
+   }
+  ],
+  "note": ""
+ },
+ "4.3.94": {
+  "roles": [
+   {
+    "word": "अस्य",
+    "replaces": "अस्य",
+    "role": "artha",
+    "render": "अस्य",
+    "source": "carried:4.3.89",
+    "ref": "KV",
+    "quote": "सोऽस्याभिजन इत्येतस्मिन् विषये"
+   },
+   {
+    "word": "अभिजनः",
+    "replaces": "",
+    "role": "artha",
+    "render": "अभिजनः इत्यर्थे",
+    "source": "carried:4.3.90",
+    "ref": "KV",
+    "quote": "सोऽस्याभिजन इत्येतस्मिन् विषये"
+   }
+  ],
+  "note": ""
+ },
+ "4.1.134": {
+  "roles": [
+   {
+    "word": "अपत्यम्",
+    "replaces": "",
+    "role": "artha",
+    "render": "अपत्ये अर्थे",
+    "source": "carried:4.1.92",
+    "ref": "SA",
+    "quote": "'तस्य अपत्यम्' अस्मिन् अर्थे"
+   }
+  ],
+  "note": ""
+ },
+ "4.1.62": {
+  "roles": [
+   {
+    "word": "सखी",
+    "replaces": "सखी",
+    "role": "nipatana",
+    "render": "सखी",
+    "source": "own",
+    "ref": "KV",
+    "quote": "सखी अशिश्वी इत्येतौ शब्दौ"
+   },
+   {
+    "word": "अशिश्वी",
+    "replaces": "अशिश्वी",
+    "role": "nipatana",
+    "render": "अशिश्वी",
+    "source": "own",
+    "ref": "KV",
+    "quote": "सखी अशिश्वी इत्येतौ शब्दौ"
+   },
+   {
+    "word": "इति",
+    "replaces": "इति",
+    "role": "other",
+    "render": "इत्येतौ शब्दौ",
+    "source": "own",
+    "ref": "KV",
+    "quote": "सखी अशिश्वी इत्येतौ शब्दौ"
+   }
+  ],
+  "note": ""
+ },
+ "4.1.127": {
+  "roles": [
+   {
+    "word": "वा",
+    "replaces": "वा",
+    "role": "qualifier",
+    "render": "विकल्पेन",
+    "source": "own",
+    "ref": "SK",
+    "quote": "इनङ्मात्रं विकल्प्यते"
+   }
+  ],
+  "note": ""
+ },
+ "5.1.92": {
+  "roles": [
+   {
+    "word": "तम्",
+    "replaces": "",
+    "role": "qualifier",
+    "render": "द्वितीयासमर्थात्",
+    "source": "carried:5.1.79",
+    "ref": "PV",
+    "quote": "द्वितीयासमर्थात्"
+   },
+   {
+    "word": "अधीष्टः",
+    "replaces": "",
+    "role": "artha",
+    "render": "अधीष्टादिषु अर्थेषु",
+    "source": "carried:5.1.79",
+    "ref": "PV",
+    "quote": "विषयेऽधीष्टादिष्वर्थेषु"
+   }
+  ],
+  "note": ""
+ },
+ "5.1.104": {
+  "roles": [
+   {
+    "word": "अस्य",
+    "replaces": "अस्य",
+    "role": "artha",
+    "render": "अस्य इति षष्ठ्यर्थे",
+    "source": "own",
+    "ref": "KV",
+    "quote": "अस्येति षष्ठ्यर्थे"
+   },
+   {
+    "word": "प्राप्तम्",
+    "replaces": "प्राप्तम्",
+    "role": "artha",
+    "render": "प्राप्तम् इत्यर्थे",
+    "source": "own",
+    "ref": "SA",
+    "quote": "प्राप्तम्' अस्मिन् अर्थे"
+   }
+  ],
+  "note": ""
+ },
+ "5.1.120": {
+  "roles": [
+   {
+    "word": "त्वतलौ",
+    "replaces": "त्वतलौ",
+    "role": "pratyaya",
+    "render": "त्वतलौ प्रत्ययौ अधिक्रियेते",
+    "source": "carried:5.1.119",
+    "ref": "KV",
+    "quote": "त्वतलौ प्रत्ययावधिकृतौ"
+   }
+  ],
+  "note": ""
+ },
+ "4.3.155": {
+  "roles": [
+   {
+    "word": "ञितः",
+    "replaces": "ञितः",
+    "role": "qualifier",
+    "render": "ञितः",
+    "source": "own",
+    "ref": "KV",
+    "quote": "ञिद् यो विकारावयवप्रत्ययः"
+   }
+  ],
+  "note": ""
+ },
+ "4.4.108": {
+  "roles": [
+   {
+    "word": "ओ",
+    "replaces": "ओ",
+    "role": "other",
+    "render": "ओकारः च",
+    "source": "own",
+    "ref": "KV",
+    "quote": "ओकारश्चोदात्तः"
+   },
+   {
+    "word": "उदात्तः",
+    "replaces": "उदात्तः",
+    "role": "other",
+    "render": "उदात्तः भवति",
+    "source": "own",
+    "ref": "KV",
+    "quote": "ओकारश्चोदात्तः"
+   }
+  ],
+  "note": ""
+ },
+ "4.4.66": {
+  "roles": [
+   {
+    "word": "नियुक्तम्",
+    "replaces": "नियुक्तम्",
+    "role": "artha",
+    "render": "नियुक्तम्",
+    "source": "own",
+    "ref": "PV",
+    "quote": "नियुक्तमस्मै दीयते"
+   }
+  ],
+  "note": ""
+ },
+ "5.2.125": {
+  "roles": [
+   {
+    "word": "मत्वर्थे",
+    "replaces": "",
+    "role": "artha",
+    "render": "मत्वर्थे",
+    "source": "carried:5.2.94",
+    "ref": "KV",
+    "quote": "मत्वर्थे बहुभाषिण्यभिधेये"
+   }
+  ],
+  "note": ""
+ },
+ "5.3.25": {
+  "roles": [],
+  "note": "The reviewer is mistaken; both KV (‹किंशब्दात् प्रकारवचने थमुः प्रत्ययो भवति›) and PV (‹प्रकारवचने वर्त्तमानात् किमशब्दात् थमुः प्रत्ययो भवति स्वार्थे›) support our vṛtti by stating only थमुः."
+ },
+ "5.3.51": {
+  "roles": [
+   {
+    "word": "च",
+    "replaces": "",
+    "role": "other",
+    "render": "चकारात् अञ्ञौ च",
+    "source": "own",
+    "ref": "PV",
+    "quote": "चकारात् यथाप्राप्तं अञ्ञौ च"
+   }
+  ],
+  "note": ""
+ },
+ "5.2.105": {
+  "roles": [],
+  "note": "The reviewer is wrong. PV explicitly glosses: ‹सिकताशर्कराशब्दाभ्यां देशेऽभिधेये लुप्, इलच् इत्येतौ प्रत्ययौ विकल्पेन भवतोऽण् च›, and KV states: ‹सिकताशर्कराभ्यां देशेऽभिधेये लुबिलचौ भवतः, चकारादण् च, मतुप् च›. The references directly present लुबिलचौ as affixes/vidheya without rephrasing to मतुपो लुब् भवति in the primary vṛtti."
+ },
+ "5.2.128": {
+  "roles": [
+   {
+    "word": "अतः",
+    "replaces": "",
+    "role": "qualifier",
+    "render": "अदन्तेभ्यः",
+    "source": "carried:5.2.115",
+    "ref": "PV",
+    "quote": "ये अदन्तास्तेभ्यो"
+   },
+   {
+    "word": "मत्वर्थे",
+    "replaces": "",
+    "role": "artha",
+    "render": "मत्वर्थे",
+    "source": "carried:5.2.94",
+    "ref": "PV",
+    "quote": "मत्वर्थे इनिः प्रत्ययो भवति"
+   }
+  ],
+  "note": ""
+ },
+ "5.2.129": {
+  "roles": [
+   {
+    "word": "मत्वर्थे",
+    "replaces": "",
+    "role": "artha",
+    "render": "मत्वर्थे",
+    "source": "carried:5.2.94",
+    "ref": "PV",
+    "quote": "मत्वर्थे इनिः प्रत्ययो भवति"
+   },
+   {
+    "word": "कुक्",
+    "replaces": "कुक्",
+    "role": "agama",
+    "render": "तत्संनियोगेन च तयोः कुक् आगमः",
+    "source": "own",
+    "ref": "KV",
+    "quote": "तत्संनियोगेन च तयोः कुगागमो भवति"
+   }
+  ],
+  "note": ""
+ },
+ "6.1.177": {
+  "roles": [],
+  "note": ""
+ },
+ "6.2.51": {
+  "roles": [
+   {
+    "word": "उदात्तः",
+    "replaces": "उदात्तः",
+    "role": "accent",
+    "render": "उदात्तो भवति",
+    "source": "carried:6.2.144",
+    "ref": "KV",
+    "quote": "तवैप्रत्ययस्यान्त उदात्तो भवति"
+   },
+   {
+    "word": "प्रकृत्या",
+    "replaces": "प्रकृत्या",
+    "role": "accent",
+    "render": "प्रकृतिस्वरं भवति",
+    "source": "carried:6.2.1",
+    "ref": "PV",
+    "quote": "पूर्वपदं प्रकृतिस्वरं भवति"
+   },
+   {
+    "word": "युगपत्",
+    "replaces": "युगपत्",
+    "role": "other",
+    "render": "एतदुभयं युगपद् भवति",
+    "source": "own",
+    "ref": "KV",
+    "quote": "एतदुभयं युगपद् भवति"
+   }
+  ],
+  "note": ""
+ },
+ "6.1.196": {
+  "roles": [
+   {
+    "word": "वा",
+    "replaces": "वा",
+    "role": "option",
+    "render": "वा",
+    "source": "own",
+    "ref": "KV",
+    "quote": "सेटि थलि इट् वा उदात्तो भवति"
+   },
+   {
+    "word": "अन्तः",
+    "replaces": "अन्तः",
+    "role": "sthani",
+    "render": "अन्तो वा",
+    "source": "own",
+    "ref": "KV",
+    "quote": "अन्तो वा आदिर्वान्यतरस्याम्"
+   },
+   {
+    "word": "आदिः",
+    "replaces": "आदिः",
+    "role": "sthani",
+    "render": "आदिर्वा",
+    "source": "carried:6.1.194",
+    "ref": "KV",
+    "quote": "अन्तो वा आदिर्वान्यतरस्याम्"
+   },
+   {
+    "word": "अन्यतरस्याम्",
+    "replaces": "अन्यतरस्याम्",
+    "role": "option",
+    "render": "अन्यतरस्याम्",
+    "source": "carried:6.1.194",
+    "ref": "KV",
+    "quote": "अन्तो वा आदिर्वान्यतरस्याम्"
+   }
+  ],
+  "note": ""
+ },
+ "6.4.164": {
+  "roles": [
+   {
+    "word": "इन्",
+    "replaces": "इन्",
+    "role": "prakriti",
+    "render": "इन्नन्तं भसंज्ञकम् अङ्गम्",
+    "source": "own",
+    "ref": "PV",
+    "quote": "इन्नन्तं भसंज्ञकाङ्गं प्रकृत्या भवति"
+   },
+   {
+    "word": "प्रकृत्या",
+    "replaces": "प्रकृत्या",
+    "role": "other",
+    "render": "प्रकृत्या भवति",
+    "source": "carried:6.4.163",
+    "ref": "PV",
+    "quote": "प्रकृत्या भवति"
+   }
+  ],
+  "note": ""
+ },
+ "6.4.144": {
+  "roles": [
+   {
+    "word": "अङ्गस्य",
+    "replaces": "अङ्गस्य",
+    "role": "qualifier",
+    "render": "अङ्गस्य",
+    "source": "carried:6.4.1",
+    "ref": "PV",
+    "quote": "भसंज्ञकस्याङ्गस्य"
+   },
+   {
+    "word": "टेः",
+    "replaces": "टेः",
+    "role": "sthani",
+    "render": "टेः",
+    "source": "carried:6.4.143",
+    "ref": "PV",
+    "quote": "टेर्लोपो भवति"
+   }
+  ],
+  "note": ""
+ },
+ "6.4.145": {
+  "roles": [
+   {
+    "word": "एव",
+    "replaces": "एव",
+    "role": "nimitta",
+    "render": "एव",
+    "source": "own",
+    "ref": "PV",
+    "quote": "टखोरेव परतः"
+   }
+  ],
+  "note": ""
+ },
+ "6.3.39": {
+  "roles": [
+   {
+    "word": "अ-रक्तविकारे",
+    "replaces": "अ-रक्तविकारे",
+    "role": "qualifier",
+    "render": "रक्ते विकारे चार्थे अविहितस्य",
+    "source": "own",
+    "ref": "KV",
+    "quote": "रक्ते ऽर्थे विकारे च न विहितः"
+   }
+  ],
+  "note": ""
+ },
+ "6.3.124": {
+  "roles": [
+   {
+    "word": "दः",
+    "replaces": "दः",
+    "role": "qualifier",
+    "render": "दा इत्येतस्य",
+    "source": "own",
+    "ref": "KV",
+    "quote": "दा इत्येतस्य"
+   },
+   {
+    "word": "ति",
+    "replaces": "ति",
+    "role": "nimitta",
+    "render": "तकारादौ आदेशे",
+    "source": "own",
+    "ref": "KV",
+    "quote": "यस्तकारादिरादेशस्तस्मिन् परत"
+   }
+  ],
+  "note": ""
+ },
+ "6.4.10": {
+  "roles": [
+   {
+    "word": "महतः",
+    "replaces": "महतः",
+    "role": "qualifier",
+    "render": "महतश्च",
+    "source": "own",
+    "ref": "PV",
+    "quote": "महतश्च यो नकारस्तस्योपधाया"
+   },
+   {
+    "word": "नः",
+    "replaces": "नः",
+    "role": "qualifier",
+    "render": "यो नकारः तस्य",
+    "source": "carried:6.4.7",
+    "ref": "PV",
+    "quote": "यो नकारस्तस्योपधाया"
+   },
+   {
+    "word": "असम्बुद्धौ",
+    "replaces": "असम्बुद्धौ",
+    "role": "nimitta",
+    "render": "असम्बुद्धौ",
+    "source": "carried:6.4.8",
+    "ref": "PV",
+    "quote": "असंबुद्धौ सर्वनामस्थाने परतः"
+   }
+  ],
+  "note": ""
+ },
+ "7.2.73": {
+  "roles": [
+   {
+    "word": "सिचि",
+    "replaces": "सिचि",
+    "role": "nimitta",
+    "render": "सिचि परे",
+    "source": "carried:7.2.42",
+    "ref": "KV",
+    "quote": "परस्मैपदे सिचि"
+   },
+   {
+    "word": "च",
+    "replaces": "",
+    "role": "other",
+    "render": "सिचः च",
+    "source": "own",
+    "ref": "PV",
+    "quote": "सिच इडागमश्च"
+   }
+  ],
+  "note": ""
+ },
+ "7.2.79": {
+  "roles": [
+   {
+    "word": "लिङः",
+    "replaces": "लिङः",
+    "role": "qualifier",
+    "render": "लिङः अवयवस्य",
+    "source": "own",
+    "ref": "KV",
+    "quote": "सार्वधातुके यो लिङ् तस्यानन्त्यस्य"
+   }
+  ],
+  "note": ""
+ },
+ "7.2.64": {
+  "roles": [
+   {
+    "word": "इति",
+    "replaces": "",
+    "role": "other",
+    "render": "इत्येतानि पदानि",
+    "source": "own",
+    "ref": "PV",
+    "quote": "इत्येतानि पदानि थलि परतो निपात्यन्ते, निगमविषये"
+   },
+   {
+    "word": "थलि",
+    "replaces": "थलि",
+    "role": "nimitta",
+    "render": "थलि परतो",
+    "source": "carried:7.2.61",
+    "ref": "PV",
+    "quote": "थलि परतो निपात्यन्ते"
+   }
+  ],
+  "note": ""
+ },
+ "7.3.17": {
+  "roles": [
+   {
+    "word": "असंज्ञाशाणयोः",
+    "replaces": "असंज्ञाशाणयोः",
+    "role": "vishaya",
+    "render": "संज्ञायां विषये शाणे चोत्तरपदे न भवति",
+    "source": "own",
+    "ref": "KV",
+    "quote": "संज्ञायां विषये शाणे चोत्तरपदे न भवति"
+   }
+  ],
+  "note": ""
+ },
+ "7.3.25": {
+  "roles": [
+   {
+    "word": "उत्तरम्",
+    "replaces": "उत्तरम्",
+    "role": "other",
+    "render": "उत्तरपदस्य",
+    "source": "own",
+    "ref": "KV",
+    "quote": "उत्तरपदस्य विभाषा भवति"
+   },
+   {
+    "word": "विभाषितम्",
+    "replaces": "विभाषितम्",
+    "role": "option",
+    "render": "विभाषा भवति",
+    "source": "own",
+    "ref": "KV",
+    "quote": "उत्तरपदस्य विभाषा भवति"
+   }
+  ],
+  "note": ""
+ },
+ "7.3.26": {
+  "roles": [
+   {
+    "word": "पूर्वस्य",
+    "replaces": "पूर्वस्य",
+    "role": "other",
+    "render": "पूर्वपदस्य",
+    "source": "own",
+    "ref": "PV",
+    "quote": "पूर्वपदस्य तु विकल्पेन भवति"
+   },
+   {
+    "word": "तु",
+    "replaces": "",
+    "role": "other",
+    "render": "तु",
+    "source": "own",
+    "ref": "PV",
+    "quote": "पूर्वपदस्य तु विकल्पेन भवति"
+   },
+   {
+    "word": "वा",
+    "replaces": "वा",
+    "role": "option",
+    "render": "विकल्पेन भवति",
+    "source": "own",
+    "ref": "PV",
+    "quote": "पूर्वपदस्य तु विकल्पेन भवति"
+   }
+  ],
+  "note": ""
+ },
+ "7.2.38": {
+  "roles": [
+   {
+    "word": "वॄतः",
+    "replaces": "वॄतः",
+    "role": "purva",
+    "render": "वृ-धातोः ऋकारान्तेभ्यश्च धातुभ्यः उत्तरस्य",
+    "source": "own",
+    "ref": "PV",
+    "quote": "वृ इत्येतस्मात् ऋकारान्तेभ्यश्च"
+   }
+  ],
+  "note": ""
+ },
+ "7.3.3": {
+  "roles": [
+   {
+    "word": "तु",
+    "replaces": "",
+    "role": "other",
+    "render": "तु",
+    "source": "own",
+    "ref": "PV",
+    "quote": "पूर्वौ तु क्रमादैजागमौ"
+   },
+   {
+    "word": "ऐच्",
+    "replaces": "ऐच्",
+    "role": "agama",
+    "render": "ऐचौ आगमौ भवतः",
+    "source": "own",
+    "ref": "PV",
+    "quote": "क्रमादैजागमौ भवतः"
+   }
+  ],
+  "note": ""
+ },
+ "7.3.4": {
+  "roles": [
+   {
+    "word": "ऐच्",
+    "replaces": "ऐच्",
+    "role": "agama",
+    "render": "ऐचौ आगमौ भवतः",
+    "source": "carried:7.3.3",
+    "ref": "KV",
+    "quote": "पूर्वौ तु ताभ्यामैजागमौ भवतः"
+   }
+  ],
+  "note": ""
+ },
+ "7.3.8": {
+  "roles": [
+   {
+    "word": "यदुक्तम्",
+    "replaces": "ऐच्",
+    "role": "other",
+    "render": "यदुक्तं तत्",
+    "source": "carried:7.3.1",
+    "ref": "PV",
+    "quote": "यदुक्तं तत् प्रतिषिद्धं भवति"
+   }
+  ],
+  "note": ""
+ },
+ "7.3.9": {
+  "roles": [
+   {
+    "word": "यदुक्तम्",
+    "replaces": "ऐच्",
+    "role": "other",
+    "render": "यदुक्तं तत्",
+    "source": "carried:7.3.1",
+    "ref": "PV",
+    "quote": "यदुक्तं तत् विकल्पेन न भवति"
+   }
+  ],
+  "note": ""
+ },
+ "7.3.27": {
+  "roles": [
+   {
+    "word": "पूर्वस्य",
+    "replaces": "पूर्वस्य",
+    "role": "other",
+    "render": "पूर्वस्य तु",
+    "source": "carried:7.3.14",
+    "ref": "KV",
+    "quote": "पूर्वस्य तु वा भवति"
+   },
+   {
+    "word": "वा",
+    "replaces": "वा",
+    "role": "other",
+    "render": "वा भवति",
+    "source": "carried:7.3.21",
+    "ref": "KV",
+    "quote": "पूर्वस्य तु वा भवति"
+   }
+  ],
+  "note": ""
+ },
+ "7.3.5": {
+  "roles": [
+   {
+    "word": "ऐच्",
+    "replaces": "ऐच्",
+    "role": "agama",
+    "render": "तस्मात् च पूर्वम् ऐकारः आगमो भवति",
+    "source": "carried:7.3.3",
+    "ref": "KV",
+    "quote": "तस्मात् च पूर्वमैकार आगमो भवति"
+   }
+  ],
+  "note": ""
+ },
+ "7.3.6": {
+  "roles": [],
+  "note": "The reviewer is wrong; our vṛtti is directly supported by SK (‹अत्र ऐच् न स्यात्›), which negates only the aic augment in karmavyatihāra."
+ },
+ "7.3.7": {
+  "roles": [],
+  "note": "The reviewer is wrong; our vṛtti is directly supported by SK (‹ऐच् न स्यात्›), which negates only the aic augment for the svāgatādi group."
+ },
+ "8.1.62": {
+  "roles": [
+   {
+    "word": "एव",
+    "replaces": "एव",
+    "role": "nimitta",
+    "render": "एवशब्दश्चेत्",
+    "source": "own",
+    "ref": "PV",
+    "quote": "एवशब्दश्चेदवधारणार्थं"
+   }
+  ],
+  "note": ""
+ },
+ "8.2.4": {
+  "roles": [
+   {
+    "word": "उदात्तस्वरितयोः",
+    "replaces": "उदात्तस्वरितयोः",
+    "role": "purva",
+    "render": "उदात्तस्य स्वरितस्य च स्थाने जातस्य",
+    "source": "own",
+    "ref": "PV",
+    "quote": "उदात्तस्य स्थाने यो यण् स्वरितस्य च स्थाने यो यण्"
+   }
+  ],
+  "note": ""
+ },
+ "8.2.29": {
+  "roles": [
+   {
+    "word": "च",
+    "replaces": "",
+    "role": "other",
+    "render": "च",
+    "source": "own",
+    "ref": "SK",
+    "quote": "पदान्ते झलि च परे"
+   }
+  ],
+  "note": ""
+ },
+ "8.3.64": {
+  "roles": [
+   {
+    "word": "मूर्धन्यः",
+    "replaces": "मूर्धन्यः",
+    "role": "adesha",
+    "render": "मूर्धन्यादेशः भवति",
+    "source": "carried:8.3.55",
+    "ref": "PV",
+    "quote": "मूर्धन्यादेशो भवति"
+   }
+  ],
+  "note": ""
+ },
+ "8.3.65": {
+  "roles": [
+   {
+    "word": "सुनोतिसुवतिस्यतिस्तौतिस्तोभतिस्थासेनयसेधसिचसञ्जस्वञ्जाम्",
+    "replaces": "सुनोतिसुवतिस्यतिस्तौतिस्तोभतिस्थासेनयसेधसिचसञ्जस्वञ्जाम्",
+    "role": "sthani",
+    "render": "सुनोति-सुवति-स्यति-स्तौति-स्तोभति-स्था-सेनय-सेध-सिच-सञ्ज-स्वञ्जां",
+    "source": "own",
+    "ref": "KV",
+    "quote": "सुनोति सुवति स्यति स्तौति स्तोभति स्था सेनय सेध सिच"
+   }
+  ],
+  "note": ""
+ },
+ "8.3.103": {
+  "roles": [
+   {
+    "word": "तादौ",
+    "replaces": "तादौ",
+    "role": "qualifier",
+    "render": "तकारादिषु",
+    "source": "carried:8.3.94",
+    "ref": "KV",
+    "quote": "तकारादिषु परतः"
+   }
+  ],
+  "note": ""
+ },
+ "7.4.4": {
+  "roles": [
+   {
+    "word": "उपधायाः",
+    "replaces": "उपधायाः",
+    "role": "sthani",
+    "render": "उपधायाः",
+    "source": "carried:1.1.65",
+    "ref": "KV",
+    "quote": "उपधायाः लोपो भवति"
+   },
+   {
+    "word": "लोपः",
+    "replaces": "लोपः",
+    "role": "adesha",
+    "render": "लोपो भवति",
+    "source": "own",
+    "ref": "KV",
+    "quote": "उपधायाः लोपो भवति"
+   },
+   {
+    "word": "अभ्यासस्य",
+    "replaces": "अभ्यासस्य",
+    "role": "sthani",
+    "render": "अभ्यासस्य",
+    "source": "own",
+    "ref": "PV",
+    "quote": "अभ्यासस्य च ईकारादेशो भवति"
+   },
+   {
+    "word": "च",
+    "replaces": "",
+    "role": "other",
+    "render": "च",
+    "source": "own",
+    "ref": "PV",
+    "quote": "अभ्यासस्य च ईकारादेशो भवति"
+   },
+   {
+    "word": "ईत्",
+    "replaces": "ईत्",
+    "role": "adesha",
+    "render": "ईकारादेशो भवति",
+    "source": "own",
+    "ref": "PV",
+    "quote": "अभ्यासस्य च ईकारादेशो भवति"
+   }
+  ],
+  "note": ""
+ },
+ "8.2.92": {
+  "roles": [
+   {
+    "word": "आदेः",
+    "replaces": "आदेः",
+    "role": "sthani",
+    "render": "आदेः",
+    "source": "carried:8.2.86",
+    "ref": "PV",
+    "quote": "अग्नीधः प्रेषणे आदेः प्लुतोदात्तो भवति"
+   },
+   {
+    "word": "परस्य",
+    "replaces": "परस्य",
+    "role": "sthani",
+    "render": "तस्मात् परस्य च",
+    "source": "own",
+    "ref": "PV",
+    "quote": "तस्मात् परस्य च"
+   }
+  ],
+  "note": ""
+ },
+ "8.3.21": {
+  "roles": [],
+  "note": "The reviewer is mistaken. In our vṛtti, ‹पदसंज्ञके› (locative sg.) qualifies ‹उञ्-शब्दे परे› (representing the nimitta ‹उञि पदे›), not the sthānī ‹पदान्तयोः› (genitive dual, from carried ‹पदस्य› 8.1.16). Both KV ('अवर्णपूर्वयोर्व्योः पदान्तयोर्लोपो भवत्युञि च पदे परतः') and PV confirm that ‹पदे› qualifies ‹उञि› while carried ‹पदस्य› qualifies the sthānī ‹व्योः›. Our vṛtti correctly reflects this."
+ },
+ "8.4.4": {
+  "roles": [
+   {
+    "word": "पुरगामिश्रकासिध्रकाशारिकाकोटराऽग्रेभ्यः",
+    "replaces": "पुरगामिश्रकासिध्रकाशारिकाकोटराऽग्रेभ्यः",
+    "role": "purva",
+    "render": "पुरगा, मिश्रका, सिध्रका, शारिका, कोटरा, अग्रे इत्येतेभ्यः",
+    "source": "own",
+    "ref": "PV",
+    "quote": "पुरगा, मिश्रका, सिध्रका, शारिका, कोटरा, अग्रे इत्येतेभ्यः"
+   }
+  ],
+  "note": ""
+ },
+ "8.4.5": {
+  "roles": [
+   {
+    "word": "प्रनिरन्तःशरेक्षुप्लक्षाम्रकार्ष्यखदिरपीयूक्षाभ्यः",
+    "replaces": "प्रनिरन्तःशरेक्षुप्लक्षाम्रकार्ष्यखदिरपीयूक्षाभ्यः",
+    "role": "purva",
+    "render": "प्र, निर्, अन्तर्, शर, इक्षु, प्लक्ष, आम्र, कार्ष्य, खदिर, पीयूक्षा इत्येतेभ्यः",
+    "source": "own",
+    "ref": "KV",
+    "quote": "प्र निर् अन्तर् शर इक्षु प्लक्ष आम्र कार्ष्य खदिर पीयूक्षा"
+   }
+  ],
+  "note": ""
+ },
+ "8.4.61": {
+  "roles": [
+   {
+    "word": "पूर्वस्य",
+    "replaces": "पूर्वस्य",
+    "role": "qualifier",
+    "render": "पूर्व-",
+    "source": "own",
+    "ref": "KV",
+    "quote": "पूर्वसवर्णादेशो भवति"
+   }
+  ],
+  "note": ""
+ },
+ "8.4.62": {
+  "roles": [
+   {
+    "word": "पूर्वस्य",
+    "replaces": "पूर्वस्य",
+    "role": "adesha",
+    "render": "पूर्वसवर्णादेशः",
+    "source": "carried:8.4.61",
+    "ref": "KV",
+    "quote": "पूर्वसवर्णादेशो भवत्यन्यतरस्याम्"
+   }
+  ],
+  "note": ""
+ },
+ "8.4.17": {
+  "roles": [
+   {
+    "word": "गदनदपतपदघुमास्यतिहन्तियातिवातिद्रातिप्सातिवपतिवहतिशाम्यतिचिनोतिदेग्धिषु",
+    "replaces": "गदनदपतपदघुमास्यतिहन्तियातिवातिद्रातिप्सातिवपतिवहतिशाम्यतिचिनोतिदेग्धिषु",
+    "role": "nimitta",
+    "render": "गद-नद-पत-पद-घु-मा-स्यति-हन्ति-याति-वाति-द्राति-प्साति-वपति-वहति-शाम्यति-चिनोति-देग्धि इत्येतेषु परतः",
+    "source": "own",
+    "ref": "KV",
+    "quote": "इत्येतेषु परतः"
+   }
+  ],
+  "note": ""
+ },
+ "3.4.117": {
+  "roles": [
+   {
+    "word": "उभयथा",
+    "replaces": "उभयथा",
+    "role": "other",
+    "render": "उभयथा",
+    "source": "own",
+    "ref": "KV",
+    "quote": "उभयथा भवति"
+   },
+   {
+    "word": "आर्धधातुकम्",
+    "replaces": "आर्धधातुकम्",
+    "role": "samjna",
+    "render": "आर्धधातुकसंज्ञकः च",
+    "source": "carried:3.4.114",
+    "ref": "PV",
+    "quote": "सार्वधातुकम् आर्धधातुकं च भवति"
+   }
+  ],
+  "note": ""
+ }
+}

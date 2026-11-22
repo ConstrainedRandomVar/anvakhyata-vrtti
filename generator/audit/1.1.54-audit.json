@@ -1,0 +1,821 @@
+{
+ "pid": "1.1.54",
+ "generated": "2026-11-20",
+ "input": "audit/1.1.54-firings.json",
+ "totals": {
+  "firings": 55,
+  "licensed": 22,
+  "not_licensed": 32,
+  "unsure": 1,
+  "groups": {
+   "licensed": 4,
+   "not licensed": 8,
+   "mixed": 3,
+   "unsure": 1
+  },
+  "not_licensed_by_should_be": {
+   "none": 28,
+   "1.1.55": 2,
+   "1.1.61": 2
+  },
+  "not_licensed_by_reason": {
+   "COMMENTATOR_DENIES": 10,
+   "MISFILED": 2,
+   "COUNTERFACTUAL": 12,
+   "DERIVATION_ONLY": 3,
+   "NAMED_NOT_APPLIED": 3,
+   "FALSE_MATCH": 2
+  },
+  "quotes": 47
+ },
+ "conditions": [
+  {
+   "text": "C1 — 1.1.54: an operation taught for what FOLLOWS (a 5th-case condition, via 1.1.67) applies to its FIRST sound. Apavāda of 1.1.52.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11054",
+     "quote": "परस्य कार्यं शिष्यमाणमादेरलः प्रत्येतव्यम् ।"
+    },
+    {
+     "file": "kashika",
+     "id": "11054",
+     "quote": "क्व च परस्य कार्यं शिष्यते? यत्र पञ्चमीनिर्देशः।"
+    },
+    {
+     "file": "kaumudi",
+     "id": "11054",
+     "quote": "अलोऽन्त्यस्य <{SK42}> इत्यस्यापवादः ॥"
+    }
+   ]
+  },
+  {
+   "text": "C2 — 1.1.55 overrides it by paratva: a multi-sound or śit substitute replaces the whole even after a 5th-case word (अतो भिस ऐस्, अष्टाभ्य औश्, ङसोऽश्). A लुक् removes the whole suffix (1.1.61), and a samāsānta lopa takes the final, so 1.1.54 has no say there.",
+   "quotes": [
+    {
+     "file": "bhashya",
+     "id": "11054",
+     "quote": "अतो भिस ऐस्। अनेकाल्शित्सर्वस्येत्येतद् भवति विप्रतिषेधेन।"
+    },
+    {
+     "file": "kaumudi",
+     "id": "11055",
+     "quote": "अष्टाभ्य औश् <{SK372}> इत्यादौ आदेः परस्य इत्येतदपि परत्वादनेन बाध्यते"
+    },
+    {
+     "file": "balamanorama",
+     "id": "71023",
+     "quote": "प्रत्ययस्य लोप एव हि लुगित्युच्यते ।"
+    }
+   ]
+  },
+  {
+   "text": "C3 — Method: commentators very often name 1.1.54 in a counterfactual (\"if the sūtra were worded otherwise, 1.1.54 would give the wrong form\"), i.e. to explain why the sūtra is worded as it is. That is a reason the rule does NOT operate, not an application.",
+   "quotes": [
+    {
+     "file": "padamanjari",
+     "id": "71027",
+     "quote": "शित्करणं सर्वादेशार्थमिति । अन्यथा आदेः परस्य इत्यादेः स्यात् ।"
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "G1",
+   "group": "named by a commentator | ādeśa | X",
+   "verdict": "mixed",
+   "how_checked": "All 19 passages located in the vendored files at the member sūtra and read in context; classified as applied / denied / counterfactual / misfiled.",
+   "licensed": [
+    "3.4.82",
+    "6.3.97",
+    "6.4.159",
+    "6.4.160",
+    "7.1.29",
+    "7.2.83",
+    "7.3.57",
+    "8.4.61"
+   ],
+   "not_licensed": [
+    {
+     "n": "5.4.135",
+     "word": "named by बालमनोरमा",
+     "line": "5.4.135 named by बालमनोरमा  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "BM and TB: the इ replaces the final of गन्ध; 1.1.54 does not apply because this is a samāsānta.",
+     "quotes": [
+      {
+       "file": "balamanorama",
+       "id": "54135",
+       "quote": "समासान्ताधिकारात्आदेः परस्ये"
+      }
+     ]
+    },
+    {
+     "n": "6.4.103",
+     "word": "named by तत्त्वबोधिनी",
+     "line": "6.4.103 named by तत्त्वबोधिनी  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "none",
+     "reason": "MISFILED",
+     "why": "The TB passage is a general remark closing the dānta section of the halanta chapter (1.1.52/1.1.54 override the निर्दिश्यमान maxim, e.g. पुमः खय्यम्परे, उदः स्थास्तम्भोः); it is not about 6.4.103 अङितश्च.",
+     "quotes": [
+      {
+       "file": "tattvabodhini",
+       "id": "64103",
+       "quote": "योगौ त्वारम्भसामर्थ्यान्निर्दिश्यमानपरिभाषाया बाधकौ"
+      },
+      {
+       "file": "tattvabodhini",
+       "id": "64103",
+       "quote": "इति दान्ताः"
+      }
+     ]
+    },
+    {
+     "n": "7.1.12",
+     "word": "named by न्यासः",
+     "line": "7.1.12 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "none",
+     "reason": "COUNTERFACTUAL",
+     "why": "Nyāsa: \"had a bare त् been taught, 1.1.54 would put it on the अ of ङसि\" — the counterfactual explains why आत् (with अ) is taught.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "71012",
+       "quote": "अकारोच्चारणसामर्थ्यान्न भविष्यति पररूपम्, अन्यथा तकारमेव विदध्यात्।"
+      }
+     ]
+    },
+    {
+     "n": "7.1.21",
+     "word": "named by बालमनोरमा",
+     "line": "7.1.21 named by बालमनोरमा  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "1.1.55",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "BM: औश् is śit → sarvādeśa; 1.1.54 is overridden by the later 1.1.55.",
+     "quotes": [
+      {
+       "file": "balamanorama",
+       "id": "71021",
+       "quote": "शित्त्वात्सर्वादेशः ।"
+      },
+      {
+       "file": "kaumudi",
+       "id": "11055",
+       "quote": "अष्टाभ्य औश् <{SK372}> इत्यादौ आदेः परस्य इत्येतदपि परत्वादनेन बाध्यते"
+      }
+     ]
+    },
+    {
+     "n": "7.1.24",
+     "word": "named by न्यासः",
+     "line": "7.1.24 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "none",
+     "reason": "COUNTERFACTUAL",
+     "why": "Nyāsa/PM/BM/TB: \"why not teach just म्? — by 1.1.54 it would replace the अ of अम्…\" — explains the wording अम्.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "71024",
+       "quote": "अथ किमर्थमम्भाव उच्यते, न मकारादेश एवोच्येत?"
+      }
+     ]
+    },
+    {
+     "n": "7.1.25",
+     "word": "named by पदमञ्जरी",
+     "line": "7.1.25 named by पदमञ्जरी  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "none",
+     "reason": "COUNTERFACTUAL",
+     "why": "Padamañjarī in an objection-and-reply about an alternative analysis (द् for the अ of अम्); अद्ड् is taught as a whole substitute.",
+     "quotes": [
+      {
+       "file": "padamanjari",
+       "id": "71025",
+       "quote": "इह च आदेः परस्य इत्यमोऽकारस्य दकारे कृते मकारस्य संयोगान्तलोपः"
+      }
+     ]
+    },
+    {
+     "n": "7.1.27",
+     "word": "named by न्यासः",
+     "line": "7.1.27 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "1.1.55",
+     "reason": "COUNTERFACTUAL",
+     "why": "Nyāsa/PM/TB: the श् of अश् is there for sarvādeśa — \"otherwise 1.1.54 would apply\". So 1.1.55 applies, 1.1.54 does not.",
+     "quotes": [
+      {
+       "file": "tattvabodhini",
+       "id": "71027",
+       "quote": "शित्त्वं सर्वादेशार्थम् ।"
+      },
+      {
+       "file": "padamanjari",
+       "id": "71027",
+       "quote": "शित्करणं सर्वादेशार्थमिति । अन्यथा आदेः परस्य इत्यादेः स्यात् ।"
+      }
+     ]
+    },
+    {
+     "n": "7.1.40",
+     "word": "named by पदमञ्जरी",
+     "line": "7.1.40 named by पदमञ्जरी  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "Padamañjarī: no 5th-case word here, so 1.1.54 does not apply (मश् is śit for sarvādeśa).",
+     "quotes": [
+      {
+       "file": "padamanjari",
+       "id": "71040",
+       "quote": "पञ्चमीनिर्द्देशाभावातु आदेः परस्य इत्येतन्न भवति ।"
+      }
+     ]
+    },
+    {
+     "n": "7.4.47",
+     "word": "named by न्यासः",
+     "line": "7.4.47 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "none",
+     "reason": "COUNTERFACTUAL",
+     "why": "Nyāsa/TB: 1.1.54 would wrongly put त on the first sound; the sūtra is read with अचः repeated (6th) or as a two-t substitute so that it does not apply.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "74047",
+       "quote": "`आदेरलः प्राप्नोति` इति।"
+      }
+     ]
+    },
+    {
+     "n": "8.2.3",
+     "word": "named by न्यासः",
+     "line": "8.2.3 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "none",
+     "reason": "DERIVATION_ONLY",
+     "why": "Nyāsa invokes 1.1.54 for the accent of the आट् augment inside an example derivation (कुमार्यै); not for reading 8.2.3 (न मु ने).",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82003",
+       "quote": "इति विभक्तिभक्तस्याट एव भवति"
+      },
+      {
+       "file": "kashika",
+       "id": "82003",
+       "quote": "मुभावो नाभावे कर्तव्ये नासिद्धो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "8.2.42",
+     "word": "named by न्यासः",
+     "line": "8.2.42 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "none",
+     "reason": "COUNTERFACTUAL",
+     "why": "Nyāsa: without the त of निष्ठातः, 1.1.54 would put न on the इट् (चरितम्) — the word त is there to prevent it.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82042",
+       "quote": "इति इट एव नत्वं स्यात्; तस्य निष्ठाभक्तत्वात्।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 8 · not licensed 11 · unsure 0 — Licensed: 3.4.82 (Nyāsa/TB: थ्→अ of थ by 1.1.67+1.1.54, an alternative also offered), 6.3.97, 6.4.159, 6.4.160, 7.1.29, 7.2.83, 7.3.57 (कुत्व of the ज् of जि after the abhyāsa), 8.4.61 — each commentator states the first-sound reading."
+  },
+  {
+   "id": "G2",
+   "group": "named by a commentator | operation | X",
+   "verdict": "mixed",
+   "how_checked": "All 10 passages located and read in context.",
+   "licensed": [
+    "6.4.49",
+    "6.4.50",
+    "6.4.158"
+   ],
+   "not_licensed": [
+    {
+     "n": "5.4.138",
+     "word": "named by न्यासः",
+     "line": "5.4.138 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "Nyāsa/BM/TB: the lopa is a samāsānta, so it takes the final; otherwise 1.1.54 would take the first sound.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "54138",
+       "quote": "समासान्तत्वे सत्यन्तशब्दोऽयं नियतदेशमेवावयवमाचष्ट इत्यन्तस्यैव भवति।"
+      }
+     ]
+    },
+    {
+     "n": "5.4.148",
+     "word": "named by न्यासः",
+     "line": "5.4.148 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "Nyāsa: the lopa of काकुद is of the final (samāsānta), not 1.1.54.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "54148",
+       "quote": "अन्त्यवचनो ह्रवयववचनोऽपि, स नियतदेशावयवमाचष्ट इत्युक्तम्।"
+      }
+     ]
+    },
+    {
+     "n": "6.1.2",
+     "word": "named by न्यासः",
+     "line": "6.1.2 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "none",
+     "reason": "NAMED_NOT_APPLIED",
+     "why": "Nyāsa uses 6.3.97 (where 1.1.54 overrides 1.1.52) as an analogy for how second-reduplication blocks first; 6.1.2 itself is not read through 1.1.54.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "61002",
+       "quote": "तत्र यथा सत्यपि सम्भवेऽनन्त्यविकारोन्त्यविकारं बाधते, तथा द्वितीयद्विर्वचनं प्रथमद्विर्वचनं बाधिष्यते।"
+      }
+     ]
+    },
+    {
+     "n": "6.1.69",
+     "word": "named by न्यासः",
+     "line": "6.1.69 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "none",
+     "reason": "COUNTERFACTUAL",
+     "why": "Nyāsa/Bhāṣya: if हल् were not carried, 1.1.54 would elide the अ of अम् and give हे कुण्डाम् — explains the anuvṛtti, not an application.",
+     "quotes": [
+      {
+       "file": "bhashya",
+       "id": "61069",
+       "quote": "अत्र हि तस्मादित्युत्तरस्य आदेः परस्य (1-1-67,54) इत्यकारस्य लोपः प्राप्नोति ।"
+      }
+     ]
+    },
+    {
+     "n": "6.4.153",
+     "word": "named by न्यासः",
+     "line": "6.4.153 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "1.1.61",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "Nyāsa/PM/BM: लुक् is taught (not lopa) precisely so that the whole छ (ईय) goes; with lopa, 1.1.54 would take only ई. The whole-suffix reading is 1.1.61's (credited at 6.4.153 in the current build).",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "64153",
+       "quote": "लुगिति प्रत्ययादर्शनस्यैषा संज्ञा, न तु प्रत्ययस्यैकदेशस्यादर्शनस्येति।"
+      }
+     ]
+    },
+    {
+     "n": "6.4.156",
+     "word": "named by तत्त्वबोधिनी",
+     "line": "6.4.156 named by तत्त्वबोधिनी  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "none",
+     "reason": "MISFILED",
+     "why": "The TB remark \"इमेयसोर्लोप … आदेः परस्य\" concerns the elision of the इ/ई of इमन्/ईयस् after बहु (6.4.158, credited there); 6.4.156 elides the यणादि part of स्थूल etc.",
+     "quotes": [
+      {
+       "file": "tattvabodhini",
+       "id": "64156",
+       "quote": "इमेयसोर्लोप इति ।"
+      },
+      {
+       "file": "kashika",
+       "id": "64156",
+       "quote": "स्थूल दूर युव ह्रस्व क्षिप्र क्षुद्र इत्येतेषां यणादिपरं लुप्यत इष्ठेमेयस्सु परतः, पूर्वस्य च गुणो भवति।"
+      }
+     ]
+    },
+    {
+     "n": "7.1.23",
+     "word": "named by बालमनोरमा",
+     "line": "7.1.23 named by बालमनोरमा  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "1.1.61",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "BM raises 1.1.54 (only the अ of अम्) and rejects it: लुक् is the disappearance of the whole suffix. 1.1.61 (credited here in the current build).",
+     "quotes": [
+      {
+       "file": "balamanorama",
+       "id": "71023",
+       "quote": "प्रत्ययस्य लोप एव हि लुगित्युच्यते ।"
+      },
+      {
+       "file": "balamanorama",
+       "id": "71023",
+       "quote": "अतो लुगमः सर्वादेश एव भवति ।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 3 · not licensed 7 · unsure 0 — Licensed: 6.4.49 (Kāśikā/Bhāṣya/SK read हलः as 5th → only the य् of य goes), 6.4.50 (SK/BM), 6.4.158 (Nyāsa/PM/BM/Vasu: the इ of इमन्/ईयस् after बहु)."
+  },
+  {
+   "id": "G3",
+   "group": "carried / not a sūtra word | ādeśa | X",
+   "verdict": "licensed",
+   "how_checked": "Engine trigger + SK/BM quotations it cites; Kāśikā on 1.1.54 itself gives 7.2.83 and 6.3.97 as examples.",
+   "licensed": [
+    "6.3.97",
+    "6.4.159",
+    "6.4.160",
+    "7.1.29",
+    "7.2.83"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "licensed 5 · not licensed 0 · unsure 0"
+  },
+  {
+   "id": "G4",
+   "group": "named by a commentator | āgama | X",
+   "verdict": "not licensed",
+   "how_checked": "Passages read.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "4.2.91",
+     "word": "named by तत्त्वबोधिनी",
+     "line": "4.2.91 named by तत्त्वबोधिनी  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "TB raises \"the ई by 1.1.54?\" and rejects it: the lopa carried is the one tied to य; the sūtra teaches लुक् for the whole.",
+     "quotes": [
+      {
+       "file": "tattvabodhini",
+       "id": "42091",
+       "quote": "यकारसंबद्धस्यैव लोपस्याऽनुवर्ततनादिति भावः"
+      }
+     ]
+    },
+    {
+     "n": "5.2.58",
+     "word": "named by बालमनोरमा",
+     "line": "5.2.58 named by बालमनोरमा  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "none",
+     "reason": "FALSE_MATCH",
+     "why": "The matched string is \"षष्ट्यादेः परस्य\" (after षष्टि etc.) in BM's gloss of the augment तमट् — not the rule आदेः परस्य.",
+     "quotes": [
+      {
+       "file": "balamanorama",
+       "id": "52058",
+       "quote": "सङ्ख्यापूर्वपदात्पष्टआदेः परस्य डटो नित्यं तमडागमः स्यादित्यर्थः ।"
+      }
+     ]
+    },
+    {
+     "n": "7.1.6",
+     "word": "named by न्यासः",
+     "line": "7.1.6 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "none",
+     "reason": "NAMED_NOT_APPLIED",
+     "why": "Nyāsa/PM report an \"other view\" in which 1.1.54 would make अत् replace the रुट्; PM rejects it (\"तच्चिन्त्यम्\"). 7.1.6 itself (रुट् augment) is not read through 1.1.54.",
+     "quotes": [
+      {
+       "file": "padamanjari",
+       "id": "71006",
+       "quote": "इति रुट एव स्यात् । न च रुटेः वैयर्थ्यं स्यात्, झकारस्य श्रवणार्थत्वात् इति, तच्चिन्त्यमनेकाल्त्वात्सर्वादेशः प्राप्नोति ।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 0 · not licensed 3 · unsure 0"
+  },
+  {
+   "id": "G5",
+   "group": "carried / not a sūtra word | operation | X",
+   "verdict": "licensed",
+   "how_checked": "Engine trigger + Kāśikā/SK/BM quotations.",
+   "licensed": [
+    "6.4.49",
+    "6.4.50",
+    "6.4.158"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "licensed 3 · not licensed 0 · unsure 0"
+  },
+  {
+   "id": "G6",
+   "group": "named by a commentator | atideśa | X",
+   "verdict": "not licensed",
+   "how_checked": "Passages read.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "1.2.1",
+     "word": "named by न्यासः",
+     "line": "1.2.1 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "none",
+     "reason": "COUNTERFACTUAL",
+     "why": "Nyāsa/PM: on one rejected analysis (5th + 6th), 1.1.54 would make ङ् a substitute for the first sound — an argument against that analysis.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "12001",
+       "quote": "इति वचनादादेरलः स्थान आदेश एव ङकारः प्राप्नोति।"
+      }
+     ]
+    },
+    {
+     "n": "1.2.6",
+     "word": "named by प्रक्रियासर्वस्वम्",
+     "line": "1.2.6 named by प्रक्रियासर्वस्वम्  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "none",
+     "reason": "DERIVATION_ONLY",
+     "why": "Prakriyāsarvasva applies 1.1.54 inside the derivation of बभूव (थ → अ by 3.4.82); 1.2.6 (लिट् is kit after इन्ध्, भू) is not read through it.",
+     "quotes": [
+      {
+       "file": "prakriyasarvasvam",
+       "id": "12006",
+       "quote": "धातोः परेषामादेशोक्तेः 'आदेः परस्य' इति थकारमात्रस्य अ ।"
+      },
+      {
+       "file": "kashika",
+       "id": "12006",
+       "quote": "इन्धि-भवति इत्येताभ्यां परो लिट् प्रत्ययः किद् भवति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 0 · not licensed 2 · unsure 0"
+  },
+  {
+   "id": "G7",
+   "group": "named by a commentator | vidhi | X",
+   "verdict": "not licensed",
+   "how_checked": "Passages read.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "5.2.40",
+     "word": "named by न्यासः",
+     "line": "5.2.40 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "none",
+     "reason": "NAMED_NOT_APPLIED",
+     "why": "The sthānin is named outright (वः — the व् of वतुप्); Nyāsa/TB mention 1.1.54 only to ask why व is stated at all.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "52040",
+       "quote": "इति वकारस्यैव घो विधीयते"
+      }
+     ]
+    },
+    {
+     "n": "5.3.83",
+     "word": "named by न्यासः",
+     "line": "5.3.83 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "none",
+     "reason": "COUNTERFACTUAL",
+     "why": "Nyāsa/BM/TB/Vasu: ऊर्ध्वम् is there so that everything after the second vowel goes; otherwise 1.1.54 would take only the first sound.",
+     "quotes": [
+      {
+       "file": "tattvabodhini",
+       "id": "53083",
+       "quote": "ऊध्र्वग्रहणिह सर्वलोपार्थम् ।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 0 · not licensed 2 · unsure 0"
+  },
+  {
+   "id": "G8",
+   "group": "named by a commentator | nipātana | X",
+   "verdict": "mixed",
+   "how_checked": "Passages read.",
+   "licensed": [
+    "6.3.98"
+   ],
+   "not_licensed": [
+    {
+     "n": "5.3.17",
+     "word": "named by तत्त्वबोधिनी",
+     "line": "5.3.17 named by तत्त्वबोधिनी  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "none",
+     "reason": "DERIVATION_ONLY",
+     "why": "TB reports Haradatta on the accent of the case ending in अधुना (Kāśikā's analysis); not a reading of the nipātana 5.3.17.",
+     "quotes": [
+      {
+       "file": "tattvabodhini",
+       "id": "53017",
+       "quote": "त्यादेर्भवतीति हरदत्तः"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 1 · not licensed 1 · unsure 0"
+  },
+  {
+   "id": "G9",
+   "group": "named by a commentator | āgama | X (English)",
+   "verdict": "not licensed",
+   "how_checked": "Vasu passages read.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "7.2.10",
+     "word": "named by Vasu",
+     "line": "7.2.10 named by Vasu  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "none",
+     "reason": "FALSE_MATCH",
+     "why": "\"[[1.1.54]]\" is a dhātupāṭha number (वस् I.1054) tagged as a sūtra link.",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "72010",
+       "quote": "वस् 'to dwell' [[1.1.54]], as वस्ता"
+      }
+     ]
+    },
+    {
+     "n": "8.2.16",
+     "word": "named by Vasu",
+     "line": "8.2.16 named by Vasu  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "none",
+     "reason": "COUNTERFACTUAL",
+     "why": "Vasu: if नुट् were added to मतुप्, 8.3.9 with 1.1.54 would change the wrong म् — an argument for the other analysis.",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "82016",
+       "quote": "this म् would be changed to व by [[8.3.9]] read with [[1.1.54]]"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 0 · not licensed 2 · unsure 0"
+  },
+  {
+   "id": "G10",
+   "group": "named by a commentator | saṃjñā | X",
+   "verdict": "not licensed",
+   "how_checked": "Passage read.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "2.3.49",
+     "word": "named by न्यासः",
+     "line": "2.3.49 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "none",
+     "reason": "COUNTERFACTUAL",
+     "why": "Nyāsa: without एकवचनम्, 6.1.69's lopa would by 1.1.54 take only the first sound — explains the wording of 2.3.49.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "23049",
+       "quote": "इत्यादेरेव स्यात्; प्रत्ययमात्रस्य न स्यात्।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 0 · not licensed 1 · unsure 0"
+  },
+  {
+   "id": "G11",
+   "group": "named by a commentator | adhikāra | X",
+   "verdict": "not licensed",
+   "how_checked": "Passage read.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "3.1.91",
+     "word": "named by महाभाष्यम्",
+     "line": "3.1.91 named by महाभाष्यम्  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "none",
+     "reason": "COUNTERFACTUAL",
+     "why": "Bhāṣya: in a debate on the extent of the धातोः heading, 1.1.54 is used to show what would follow on one view (थ → अ). Not a reading of 3.1.91.",
+     "quotes": [
+      {
+       "file": "bhashya",
+       "id": "31091",
+       "quote": "अनुवर्तमाने पुनर्लादेशे धात्वधिकारे"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 0 · not licensed 1 · unsure 0"
+  },
+  {
+   "id": "G12",
+   "group": "named by a commentator | ekādeśa | X",
+   "verdict": "unsure",
+   "how_checked": "Passage read (TB on why Kāśikā says अमि, not अम्यचि).",
+   "licensed": [],
+   "not_licensed": [],
+   "unsure": [
+    {
+     "n": "6.1.107",
+     "word": "named by तत्त्वबोधिनी",
+     "line": "6.1.107 named by तत्त्वबोधिनी  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "why": "TB argues that because 1.1.67/1.1.54 already fix the operation on the first sound of अम्, the ekādeśa touches only its अ — which would be a genuine use in reading अमि; but it is TB's justification of Kāśikā's silence (\"अत्राहुः\"), 6.1.107 has no 5th-case word of its own (अकः is carried), and no other commentator says it."
+    }
+   ],
+   "note": "licensed 0 · not licensed 0 · unsure 1"
+  },
+  {
+   "id": "G13",
+   "group": "carried / not a sūtra word | nipātana | X",
+   "verdict": "licensed",
+   "how_checked": "Engine trigger (BM).",
+   "licensed": [
+    "6.3.98"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "licensed 1 · not licensed 0 · unsure 0"
+  },
+  {
+   "id": "G14",
+   "group": "named by a commentator | svara | X (English)",
+   "verdict": "not licensed",
+   "how_checked": "Vasu passage read.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "8.1.18",
+     "word": "named by Vasu",
+     "line": "8.1.18 named by Vasu  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "Vasu: सर्वम् is in the sūtra precisely so that the whole word (not only its first syllable, as 1.1.54 after पदात् would give) becomes anudātta — 1.1.54 is overridden.",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "81018",
+       "quote": "The word <i>sarvam</i> is used in the <i>sutra</i>, in order to indicate that a word, which has not acute accent on the first syllable, should also become <i>anudatta</i>."
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 0 · not licensed 1 · unsure 0"
+  },
+  {
+   "id": "G15",
+   "group": "named by a commentator | svara | X",
+   "verdict": "not licensed",
+   "how_checked": "Passage read.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "8.2.92",
+     "word": "named by न्यासः",
+     "line": "8.2.92 named by न्यासः  ⟨after a 5th-case condition the replacement replaces the FIRST sound⟩",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "Nyāsa states outright that the pluta here is neither of the first nor by 1.1.54.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82092",
+       "quote": "न चायमादेः, नापि"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 0 · not licensed 1 · unsure 0"
+  },
+  {
+   "id": "G16",
+   "group": "carried / not a sūtra word | ādeśa | X (…)",
+   "verdict": "licensed",
+   "how_checked": "Engine trigger; SK/BM/Nyāsa on 8.4.61.",
+   "licensed": [
+    "8.4.61"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "licensed 1 · not licensed 0 · unsure 0"
+  }
+ ],
+ "missed": [
+  {
+   "n": "6.1.112",
+   "pid": "1.1.54",
+   "why": "ख्यत्यात् परस्य: उ replaces the अ (first sound) of ङसि/ङस् after the 5th-case ख्य/त्य; the engine has 1.1.67 but no 1.1.54 (nor 1.1.52). Few such cases remain: 8.2.9–8.2.15 (म् of मतुप्) were re-pointed to 1.1.54 in the current build (licensed).",
+   "quotes": [
+    {
+     "file": "kaumudi",
+     "id": "61112",
+     "quote": "परस्य ङसिङसोरत उत्स्यात्"
+    }
+   ]
+  }
+ ]
+}

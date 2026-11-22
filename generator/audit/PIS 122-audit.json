@@ -1,0 +1,424 @@
+{
+ "pid": "PIS 122",
+ "audited": "2026-11-20",
+ "totals": {
+  "firings": 42,
+  "licensed": 36,
+  "not licensed": 6,
+  "unsure": 0,
+  "not_licensed_by_should_be": {
+   "none": 6
+  },
+  "not_licensed_by_reason": {
+   "MEANING_TAUGHT": 3,
+   "SUPPORTING_ARGUMENT": 3
+  }
+ },
+ "reason_codes": {
+  "MEANING_TAUGHT": "the sūtra teaches the meaning; PIS 122 is cited only as why the sūtra is needed",
+  "SUPPORTING_ARGUMENT": "cited to support another point, not to read this sūtra"
+ },
+ "conditions": [
+  {
+   "text": "C1 — PIS 122: a suffix for which no meaning is taught is in its own sense, i.e. the sense of its base.",
+   "quotes": [
+    {
+     "file": "paribhashendushekhar",
+     "id": "122",
+     "quote": "अनिर्दिष्टार्थाः प्रत्ययाः स्वार्थे"
+    },
+    {
+     "file": "paribhashendushekhar",
+     "id": "122",
+     "quote": "स्वार्थ इत्यस्य स्वीयप्रकृत्यर्थ इत्यर्थः ।"
+    }
+   ]
+  },
+  {
+   "text": "C2 — The Bhāṣya states it under 3.2.4 etc.; its standard examples are गुप्तिज्किद्भ्यः सन् (3.1.5) and यावादिभ्यः कन् (5.4.29).",
+   "quotes": [
+    {
+     "file": "paribhashendushekhar",
+     "id": "122",
+     "quote": "<<सुपि स्थः>> [[3.2.4]] इत्यादिसूत्रेषु भाष्ये स्पष्टैषा ॥"
+    },
+    {
+     "file": "bhashya",
+     "id": "32004",
+     "quote": "तद्यथा गुप्तिज्किद्भ्यः सन् यावादिभ्यः कन् इति।"
+    }
+   ]
+  },
+  {
+   "text": "C3 — Where a sūtra teaches a meaning (कारके, कर्तरि, बहुषु), the paribhāṣā is the reason that sūtra is needed — it does not apply to that suffix.",
+   "quotes": [
+    {
+     "file": "bhashya",
+     "id": "33019",
+     "quote": "स्वार्थे मा भूवन्कारके यथा स्युरित्येवमर्थमिदमुच्यते॥"
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | vidhi | X (…)",
+   "count": 29,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 29,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "All 29 read; each vṛtti and Kāśikā read “स्वार्थे” (the locative in 5.1.118, 5.2.18, 5.2.77, 5.4.6, 5.4.30–33 qualifies the base, the Kāśikā still writes स्वार्थे).",
+   "licensed": [
+    "4.4.141",
+    "4.4.142",
+    "5.1.118",
+    "5.2.18",
+    "5.2.77",
+    "5.3.112",
+    "5.3.113",
+    "5.3.114",
+    "5.3.115",
+    "5.3.116",
+    "5.3.117",
+    "5.3.118",
+    "5.4.6",
+    "5.4.13",
+    "5.4.14",
+    "5.4.23",
+    "5.4.27",
+    "5.4.28",
+    "5.4.29",
+    "5.4.30",
+    "5.4.31",
+    "5.4.32",
+    "5.4.33",
+    "5.4.34",
+    "5.4.35",
+    "5.4.36",
+    "5.4.37",
+    "5.4.38",
+    "5.4.39"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G2",
+   "group": "named by a commentator | vidhi | X",
+   "count": 8,
+   "verdict": "mixed",
+   "counts": {
+    "licensed": 6,
+    "not licensed": 2,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, generated vṛtti, Kāśikā; commentator passages read in context (search अनिर्दिष्टार्थ).",
+   "licensed": [
+    "3.1.5",
+    "3.1.22",
+    "3.2.4",
+    "5.2.27",
+    "5.2.28",
+    "5.2.77"
+   ],
+   "not_licensed": [
+    {
+     "n": "3.3.19",
+     "word": "named by महाभाष्यम्",
+     "should_be": "none",
+     "reason": "MEANING_TAUGHT",
+     "why": "The vārttika/Bhāṣya say कारक is stated precisely so that the suffixes are not svārthika; the sūtra teaches the meaning.",
+     "quotes": [
+      {
+       "file": "bhashya",
+       "id": "33019",
+       "quote": "स्वार्थे मा भूवन्कारके यथा स्युरित्येवमर्थमिदमुच्यते॥"
+      }
+     ]
+    },
+    {
+     "n": "3.4.67",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "MEANING_TAUGHT",
+     "why": "Same structure: कर्तरि कृत् is taught so that kṛt suffixes are not svārthika.",
+     "quotes": [
+      {
+       "file": "bhashya",
+       "id": "34067",
+       "quote": "स्वार्थे मा भूवन्। कर्तरि यथा स्युः॥ एवमर्थमिदमुच्यते॥"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "licensed_with_caveat": [
+    {
+     "n": "3.1.5",
+     "note": "The Bhāṣya gives this सन् as the standard example. The Nyāsa raises (as an objection) that गोपन etc. are not understood from the san-form; leave licensed on the Bhāṣya.",
+     "quotes": [
+      {
+       "file": "bhashya",
+       "id": "32004",
+       "quote": "तद्यथा गुप्तिज्किद्भ्यः सन् यावादिभ्यः कन् इति।"
+      },
+      {
+       "file": "nyaas",
+       "id": "31005",
+       "quote": "90) इतिस्वार्थ एव सन् भविष्यतीति युक्तं परिकल्पयितुम्; गोपनादेः स्वार्थस्य सन्नन्तादप्रतीतेः।"
+      }
+     ]
+    },
+    {
+     "n": "3.1.22",
+     "note": "Nyāsa: यङ् is in its own sense, i.e. in क्रियासमभिहार as a qualifier of the base.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "31022",
+       "quote": "90) इति तत्रैव क्रियासमभिहारे।"
+      }
+     ]
+    },
+    {
+     "n": "3.2.4",
+     "note": "Bhāṣya (the PIS's own source): the क here is svārthika, hence in bhāva.",
+     "quotes": [
+      {
+       "file": "bhashya",
+       "id": "32004",
+       "quote": "सोऽसौ स्वार्थे भवन्भावे भविष्यति॥"
+      }
+     ]
+    },
+    {
+     "n": "5.2.27",
+     "note": "Nyāsa explains the Kāśikā's “स्वार्थे नानाञौ” by PIS 122 (नसह qualifies the base).",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "52027",
+       "quote": "125) इति कृत्वा। ञकारस्त्वाद्युदात्तार्थः॥"
+      }
+     ]
+    },
+    {
+     "n": "5.2.28",
+     "note": "Nyāsa: no meaning taught, so svārthe.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "52028",
+       "quote": "125) इत्यनिर्दिष्टार्थत्वात्? स्वार्थे भवति।"
+      }
+     ]
+    },
+    {
+     "n": "5.2.77",
+     "note": "Nyāsa: कन् here is svārthika.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "52077",
+       "quote": "कथं प्रत्ययः स्वार्थे भवतीति? अनिर्दिष्टार्थाः प्रत्ययाः स्वार्थे भवन्तीति (पु।"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G3",
+   "group": "named by a commentator | nipātana | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, generated vṛtti, Kāśikā; commentator passages read in context (search अनिर्दिष्टार्थ).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "1.4.21",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "MEANING_TAUGHT",
+     "why": "The Nyāsa: if 1.4.21 were not said, PIS 122 would put bahuvacana in the base's own sense; the sūtra is there to teach the number meaning.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "14021",
+       "quote": "तत्र प्रातिपदिकस्य पूर्वोक्ते त्रिकेऽर्थे सति धातोश्च क्रियात्मकत्वे यदीदं सूत्रं नोच्येत, ततः `अनिर्दिष्टार्थाः प्रत्ययाः स्वार्थे भवन्ति` (सी।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G4",
+   "group": "named by a commentator | operation | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, generated vṛtti, Kāśikā; commentator passages read in context (search अनिर्दिष्टार्थ).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "2.4.81",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "SUPPORTING_ARGUMENT",
+     "why": "The Nyāsa uses PIS 122 only to show the suffix आम् is meaningful (so the meaningless आम् of जगाम is not taken). The vṛtti of 2.4.81 does not need it.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "24081",
+       "quote": "90) इत्यर्थवान्।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G5",
+   "group": "named by a commentator | saṃjñā | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, generated vṛtti, Kāśikā; commentator passages read in context (search अनिर्दिष्टार्थ).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "3.1.1",
+     "word": "named by न्यासः",
+     "should_be": "none",
+     "reason": "SUPPORTING_ARGUMENT",
+     "why": "The Nyāsa answers why svārthika suffixes still count as “pratyaya” (the PIS's own prelude). Related to 3.1.1, but the adhikāra statement in the vṛtti does not need it.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "31001",
+       "quote": "तस्मात् तैरपि स्वार्थं प्रतियन्तीति तेऽपि प्रत्यया इत्लमतिप्रसङ्गेनेति स्थितमेतत् -  प्रकृत्यादीनां प्रत्ययसंज्ञा न भवतीति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G6",
+   "group": "named by a commentator | ādeśa | X",
+   "count": 1,
+   "verdict": "licensed",
+   "counts": {
+    "licensed": 1,
+    "not licensed": 0,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, generated vṛtti, Kāśikā; commentator passages read in context (search अनिर्दिष्टार्थ).",
+   "licensed": [
+    "3.4.9"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "licensed_with_caveat": [
+    {
+     "n": "3.4.9",
+     "note": "The Kāśikā on 3.4.9 itself uses PIS 122 to gloss “तुमर्थे” as bhāva.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "34009",
+       "quote": "स्वार्थश्च धातूनां भाव एव।"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G7",
+   "group": "named by a commentator | svara | X",
+   "count": 1,
+   "verdict": "not licensed",
+   "counts": {
+    "licensed": 0,
+    "not licensed": 1,
+    "unsure": 0
+   },
+   "how_checked": "Every member read: sūtra, generated vṛtti, Kāśikā; commentator passages read in context (search अनिर्दिष्टार्थ).",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "6.1.162",
+     "word": "named by महाभाष्यम्",
+     "should_be": "none",
+     "reason": "SUPPORTING_ARGUMENT",
+     "why": "The Bhāṣya uses PIS 122 to show सन् is meaningful (जुगुप्सते) in a side discussion of the न् in सन्; 6.1.162 (final udātta of a dhātu) does not need it.",
+     "quotes": [
+      {
+       "file": "bhashya",
+       "id": "61162",
+       "quote": "यद्यपि कश्चिदर्थो नादिश्यते, अनिर्दिष्टार्थाः प्रत्ययाः स्वार्थे भवन्ति  -  इति  -  अन्ततः स्वार्थे भविष्यति ।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": ""
+  }
+ ],
+ "missed": [
+  {
+   "n": "5.4.7",
+   "pid": "PIS 122",
+   "why": "अषडक्षा…खः — Kāśikā “स्वार्थे खः”, no meaning in the sūtra.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "54007",
+     "quote": "अषडक्ष आशितङ्गु अलंकर्म अलंपुरुष इत्येतेभ्योऽध्युत्तरपदात् च स्वार्थे खः प्रत्ययो भवति।"
+    }
+   ]
+  },
+  {
+   "n": "5.4.15",
+   "pid": "PIS 122",
+   "why": "अणिनुणः — Kāśikā “स्वार्थेऽण्”.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "54015",
+     "quote": "<<अभिविधौ भाव इनुण्>> [[३.३.४४]] विहितः, तदन्तात् स्वार्थेऽण् प्रत्ययो भवति।"
+    }
+   ]
+  },
+  {
+   "n": "5.4.16",
+   "pid": "PIS 122",
+   "why": "विसारिणो मत्स्ये — Kāśikā “स्वार्थेऽण्”, मत्स्ये only restricts the base.",
+   "quotes": []
+  }
+ ],
+ "missed_note": "24 sūtras whose Kāśikā/vṛtti says स्वार्थे have no credit (recompute: recs with /स्वार्थ/ in kv+genC and no PIS 122). Most name a meaning-qualifier of the base (याप्ये, अतिशायने…), which the engine treats differently. Clear ones with no meaning word at all:"
+}

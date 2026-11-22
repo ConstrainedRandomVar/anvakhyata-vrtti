@@ -1,0 +1,275 @@
+{
+ "pid": "PIS 8",
+ "howGrouped": "case of the triggering word (own sūtra words only) | rule kind | start of the engine trigger text; member = \"<sūtra> <word>  ⟨engine effect⟩\"",
+ "applies": 54,
+ "consideredNotApplicable": 0,
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | vidhi | X: PIS 8 … (not 3.1.94 — paribhāṣā audit",
+   "count": 27,
+   "sutras": [
+    "3.1.139 श is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨श (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availabl⟩",
+    "3.1.143 ण is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨ण (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availabl⟩",
+    "3.3.21 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.23 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.24 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.25 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.27 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.28 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.31 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.35 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.37 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.39 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.40 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.45 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.49 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.58 अप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨अप् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.59 अप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨अप् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.61 अप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨अप् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.62 अप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨अप् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.63 अप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨अप् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.64 अप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨अप् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.65 अप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨अप् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.66 अप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨अप् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.67 अप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨अप् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.69 अप् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨अप् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.120 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩",
+    "3.3.121 घञ् is an apavāda of तव्यत्, तव्य, अनीयर्  ⟨घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay availa⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.139",
+     "word": "श is an apavāda of तव्यत्, तव्य, अनीयर्",
+     "trigger": "श is an apavāda of तव्यत्, तव्य, अनीयर्: PIS 8 नानुबन्धकृतमसारूप्यम् (not 3.1.94 — paribhāṣā audit: The engine names a कृत्य suffix (तव्यत्/तव्य/अनीयर् 3.1.96, ",
+     "effect": "श (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay available as options",
+     "sutra": "ददातिदधात्योर्विभाषा",
+     "ourVrtti": "अनुपसर्गाभ्याम् दाञ्-धाञ् धातुभ्याम् विकल्पेन शः प्रत्ययः परः च भवति",
+     "kashika": "दाञो धाञश्च विभाषा शप्रत्ययो भवति।",
+     "prathamavrtti": "अनुपसर्गाभ्यां डुदाञ् डुधाञ् इत्येताभ्यां धातुभ्यां शः प्रत्ययो विकल्पेन भवति ॥"
+    },
+    {
+     "n": "3.3.35",
+     "word": "घञ् is an apavāda of तव्यत्, तव्य, अनीयर्",
+     "trigger": "घञ् is an apavāda of तव्यत्, तव्य, अनीयर्: PIS 8 नानुबन्धकृतमसारूप्यम् (not 3.1.94 — paribhāṣā audit: The engine names a कृत्य suffix (तव्यत्/तव्य/अनीयर् 3.1.96",
+     "effect": "घञ् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay available as options",
+     "sutra": "उदि ग्रहः",
+     "ourVrtti": "संज्ञायाम् उद् इत्युपपदे ग्रह्-धातोः भावे अकर्तरि कारके घञ् प्रत्ययः परः च भवति",
+     "kashika": "उदि उपपदे ग्रहेर्धातोर्घञ् प्रत्ययो भवति।",
+     "prathamavrtti": "उत्पूर्वाद् ग्रहधातोः कर्तृभिन्ने कारके संज्ञायां विषये भावे च घञ् प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "3.3.62",
+     "word": "अप् is an apavāda of तव्यत्, तव्य, अनीयर्",
+     "trigger": "अप् is an apavāda of तव्यत्, तव्य, अनीयर्: PIS 8 नानुबन्धकृतमसारूप्यम् (not 3.1.94 — paribhāṣā audit: The engine names a कृत्य suffix (तव्यत्/तव्य/अनीयर् 3.1.96",
+     "effect": "अप् (अ) ≠ तव्यत् (तव्य), तव्य (तव्य), अनीयर् (अनीय) → they stay available as options",
+     "sutra": "स्वनहसोर्वा",
+     "ourVrtti": "अनुपसर्गयोः स्वन-हस्-धातुभ्याम् भावे कर्तृभिन्ने कारके संज्ञायाम् विकल्पेन अप् प्रत्ययः परः च भवति",
+     "kashika": "स्वनहसोरनुपसर्गयोर्वा अप् प्रत्ययो भवति।",
+     "prathamavrtti": "उपसर्गरहिताभ्यां स्वन हस इत्येताभ्यां धातुभ्यां वाऽप् प्रत्ययो भवति, कर्तृ भिन्ने कारके संज्ञायां भावे च ॥"
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "group": "carried / not a sūtra word | vidhi | X",
+   "count": 15,
+   "sutras": [
+    "3.1.99 यत् vs ण्यत्  ⟨markers removed before comparing⟩",
+    "3.1.100 यत् vs ण्यत्  ⟨markers removed before comparing⟩",
+    "3.1.106 क्यप् vs ण्यत्  ⟨markers removed before comparing⟩",
+    "3.1.107 क्यप् vs यत्  ⟨markers removed before comparing⟩",
+    "3.1.108 क्यप् vs ण्यत्  ⟨markers removed before comparing⟩",
+    "3.1.109 क्यप् vs यत्  ⟨markers removed before comparing⟩",
+    "3.1.110 क्यप् vs ण्यत्  ⟨markers removed before comparing⟩",
+    "3.1.111 क्यप् vs ण्यत्  ⟨markers removed before comparing⟩",
+    "3.1.112 क्यप् vs ण्यत्  ⟨markers removed before comparing⟩",
+    "3.1.113 क्यप् vs ण्यत्  ⟨markers removed before comparing⟩",
+    "3.1.118 क्यप् vs ण्यत्  ⟨markers removed before comparing⟩",
+    "3.1.120 क्यप् vs ण्यत्  ⟨markers removed before comparing⟩",
+    "3.1.125 ण्यत् vs यत्  ⟨markers removed before comparing⟩",
+    "3.1.126 ण्यत् vs यत्  ⟨markers removed before comparing⟩",
+    "3.3.98 क्यप् vs ण्यत्  ⟨markers removed before comparing⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.99",
+     "word": "यत् vs ण्यत्",
+     "trigger": "यत् vs ण्यत्",
+     "effect": "markers removed before comparing",
+     "sutra": "शकिसहोश्च",
+     "ourVrtti": "शकि सह् इत्येतयोः धात्वोः यत् प्रत्ययः परः च भवति",
+     "kashika": "<<शक्ऌ शक्तौ>>,<<षह मर्षणे>>  अनयोर्धात्वोर्यत् प्रत्ययो भवति।",
+     "prathamavrtti": "‹शक्लृ शक्तौ›, ‹षह मर्षणे› इत्येताभ्यां धातुभ्यां यत् प्रत्ययो भवति॥"
+    },
+    {
+     "n": "3.1.109",
+     "word": "क्यप् vs यत्",
+     "trigger": "क्यप् vs यत्",
+     "effect": "markers removed before comparing",
+     "sutra": "एतिस्तुशास्वृदृजुषः क्यप्",
+     "ourVrtti": "एति स्तु शास् वृ दृ जुष् इत्येतेभ्यः धातुभ्यः क्यप् प्रत्ययः परः च भवति",
+     "kashika": "एति स्तु शास् वृ दृ जुष् इत्येतेभ्यः क्यप् प्रत्ययो भवति।",
+     "prathamavrtti": "इण्, ष्टुञ्, शासु, वृञ्, दृङ्, जुषी इत्येतेभ्यो धातुभ्यः क्यप् प्रत्ययो भवति॥"
+    },
+    {
+     "n": "3.1.118",
+     "word": "क्यप् vs ण्यत्",
+     "trigger": "क्यप् vs ण्यत्",
+     "effect": "markers removed before comparing",
+     "sutra": "प्रत्यपिभ्यां ग्रहेश्छन्दसि",
+     "ourVrtti": "छन्दसि विषये प्रत्यपिभ्याम् पूर्वात् ग्रहेः धातोः क्यप् प्रत्ययः परः च भवति",
+     "kashika": "प्रति अपि इत्येवंपूर्वाद् ग्रहेः क्यप् प्रत्ययो भवति छन्दसि विषये।",
+     "prathamavrtti": "प्रति अपि इत्येवं पूर्वाद् ग्रहेर्धातोः क्यप् प्रत्ययो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G3",
+   "group": "named by a commentator | ādeśa | X",
+   "count": 6,
+   "sutras": [
+    "2.4.85 named by न्यासः  ⟨marker letters do not make suffixes dissimilar⟩",
+    "3.4.82 named by पदमञ्जरी  ⟨marker letters do not make suffixes dissimilar⟩",
+    "6.1.45 named by बालमनोरमा  ⟨marker letters do not make suffixes dissimilar⟩",
+    "6.4.127 named by न्यासः  ⟨marker letters do not make suffixes dissimilar⟩",
+    "6.4.128 named by बालमनोरमा  ⟨marker letters do not make suffixes dissimilar⟩",
+    "7.1.17 named by सिद्धान्तकौमुदी  ⟨marker letters do not make suffixes dissimilar⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.4.85",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "marker letters do not make suffixes dissimilar",
+     "sutra": "लुटः प्रथमस्य डारौरसः",
+     "ourVrtti": "लुट्-आदेशस्य प्रथमपुरुषस्य स्थाने डा रौ रस् आदेशाः यथासङ्ख्यम् भवति",
+     "kashika": "लुडादेशस्य प्रथमपुरुषस्य परस्मैपदस्यात्मनेपदस्य च यथाक्रमं डा रौ रस् इत्येत आदेशा भवन्ति।",
+     "prathamavrtti": "लुट्-आदेशस्य प्रथमपुरुषस्य स्थाने यथासङ्ख्यं डा रौ रस् इति त्रय आदेशा भवन्ति॥"
+    },
+    {
+     "n": "6.1.45",
+     "word": "named by बालमनोरमा",
+     "trigger": "named by बालमनोरमा",
+     "effect": "marker letters do not make suffixes dissimilar",
+     "sutra": "आदेच उपदेशेऽशिति",
+     "ourVrtti": "उपदेशे यः एजन्तः धातुः तस्य आकारादेशः भवति, शिति तु प्रत्यये न भवति",
+     "kashika": "एजन्तो यो धातुरुपदेशे तस्याकारादेशो भवति, शिति तु प्रत्यये न भवति।",
+     "prathamavrtti": "उपदेशावस्थायां य एजन्तो धातुस्तस्याकारादेशो भवति शिति प्रत्यये परतस्तु न भवति ।"
+    },
+    {
+     "n": "6.4.128",
+     "word": "named by बालमनोरमा",
+     "trigger": "named by बालमनोरमा",
+     "effect": "marker letters do not make suffixes dissimilar",
+     "sutra": "मघवा बहुलम्",
+     "ourVrtti": "अङ्गस्य मघवन्-इत्येतस्य स्थाने बहुलम् तृ-आदेशः भवति",
+     "kashika": "मघवन्नित्येतस्याङ्गस्य बहुलं तृ इत्ययमादेशो भवति।",
+     "prathamavrtti": "मघवन् इत्येतस्याङ्गस्य बहुलं तृ इत्ययमादेशो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G4",
+   "group": "named by a commentator | vidhi | X",
+   "count": 3,
+   "sutras": [
+    "3.1.98 named by सिद्धान्तकौमुदी  ⟨marker letters do not make suffixes dissimilar⟩",
+    "3.2.53 named by तत्त्वबोधिनी  ⟨marker letters do not make suffixes dissimilar⟩",
+    "3.4.19 named by काशिका  ⟨marker letters do not make suffixes dissimilar⟩"
+   ],
+   "samples": [
+    {
+     "n": "3.1.98",
+     "word": "named by सिद्धान्तकौमुदी",
+     "trigger": "named by सिद्धान्तकौमुदी",
+     "effect": "marker letters do not make suffixes dissimilar",
+     "sutra": "पोरदुपधात्",
+     "ourVrtti": "पवर्गान्तात् अदुपधात् धातोः यत् प्रत्ययः परः च भवति",
+     "kashika": "पवर्गान्ताद् धातोरकारोपधाद् यत् प्रत्ययो भवति।",
+     "prathamavrtti": "अदुपधात् पवर्गान्ताद्धातोर्यत् प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "3.2.53",
+     "word": "named by तत्त्वबोधिनी",
+     "trigger": "named by तत्त्वबोधिनी",
+     "effect": "marker letters do not make suffixes dissimilar",
+     "sutra": "अमनुष्यकर्तृके च",
+     "ourVrtti": "अमनुष्यकर्तृके वर्तमानात् कर्मण्युपपदे हन्धातोः टक् प्रत्ययः परः च भवति",
+     "kashika": "अमनुष्यकर्तृके वर्तमानाद् हन्तेर्धातोः कर्मण्युपपदे टक् प्रत्ययो भवति।",
+     "prathamavrtti": "मनुष्यभिन्नकर्तृके वर्त्तमानाद् हन् धातोः कर्म्मण्युपपदे टक् प्रत्ययो भवति ॥"
+    },
+    {
+     "n": "3.4.19",
+     "word": "named by काशिका",
+     "trigger": "named by काशिका",
+     "effect": "marker letters do not make suffixes dissimilar",
+     "sutra": "उदीचां माङो व्यतीहारे",
+     "ourVrtti": "धातोः माङ् व्यतीहारे अर्थे उदीचाम् आचार्याणाम् मतेन क्त्वा प्रत्ययः परः च भवति",
+     "kashika": "माङो धातोर्व्यतीहारे वर्तमानादुदीचामाचार्याणां मतेन क्त्वा प्रत्ययो भवति।",
+     "prathamavrtti": "व्यतीहारेऽर्थे वर्त्तमानाद् मेङ् धातोः उदीचामाचार्याणां मतेन क्त्वा प्रत्ययो भवति॥"
+    }
+   ]
+  },
+  {
+   "id": "G5",
+   "group": "named by a commentator | saṃjñā | X",
+   "count": 1,
+   "sutras": [
+    "1.1.20 named by न्यासः  ⟨marker letters do not make suffixes dissimilar⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.1.20",
+     "word": "named by न्यासः",
+     "trigger": "named by न्यासः",
+     "effect": "marker letters do not make suffixes dissimilar",
+     "sutra": "दाधा घ्वदाप्",
+     "ourVrtti": "दाप्-दैप्-वर्जिताः दारूपाः धारूपाः च धातवः 'घुसंज्ञकाः' इति संज्ञा भवति",
+     "kashika": "दारूपाश्चत्वारो धातवो धारूपौ च  द्वौ दाब्दैपौ वर्जयित्वा घुसंज्ञका भवन्ति।",
+     "prathamavrtti": "दारूपाः धारूपा च धातवो घुसंज्ञका भवन्ति, दापदैपौ वर्जयित्वा ॥"
+    }
+   ]
+  },
+  {
+   "id": "G6",
+   "group": "named by a commentator | operation | X",
+   "count": 1,
+   "sutras": [
+    "1.3.9 named by महाभाष्यम्  ⟨marker letters do not make suffixes dissimilar⟩"
+   ],
+   "samples": [
+    {
+     "n": "1.3.9",
+     "word": "named by महाभाष्यम्",
+     "trigger": "named by महाभाष्यम्",
+     "effect": "marker letters do not make suffixes dissimilar",
+     "sutra": "तस्य लोपः",
+     "ourVrtti": "तस्य इत्संज्ञकस्य स्थाने लोपः आदेशः भवति",
+     "kashika": "तस्य इत्संज्ञकस्य लोपो भवति।",
+     "prathamavrtti": "तस्येत्संज्ञकस्य लोपो भवति ॥"
+    }
+   ]
+  },
+  {
+   "id": "G7",
+   "group": "named by a commentator | pada | X",
+   "count": 1,
+   "sutras": [
+    "2.4.78 named by पदमञ्जरी  ⟨marker letters do not make suffixes dissimilar⟩"
+   ],
+   "samples": [
+    {
+     "n": "2.4.78",
+     "word": "named by पदमञ्जरी",
+     "trigger": "named by पदमञ्जरी",
+     "effect": "marker letters do not make suffixes dissimilar",
+     "sutra": "विभाषा घ्राधेट्शाच्छासः",
+     "ourVrtti": "परस्मैपदेषु परे घ्रा-धेट्-शा-छा-सा इत्येतेभ्यः धातुभ्यः परस्य सिचः स्थाने विकल्पेन लुक् भवति",
+     "kashika": "घ्रा धेट् शा छा सा इत्येतेभ्य उत्तरस्य सिचः परस्मैपदेषु विभाषा लुग् भवति।",
+     "prathamavrtti": "घ्रा धेट् शा छा सा इत्येतेभ्यो धातुभ्य उत्तरस्य सिचः परस्मैपदेषु परतो विकल्पेन लुग् भवति॥"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,898 @@
+{
+ "2.1.51": {
+  "roles": [
+   {
+    "word": "तद्धितार्थोत्तरपदसमाहारे",
+    "replaces": "तद्धितार्थोत्तरपदसमाहारे",
+    "role": "nimitta",
+    "render": "तद्धितार्थे विषये उत्तरपदे परतः समाहारे चाभिधेये",
+    "pb": "1.1.66",
+    "ref": "KV",
+    "quote": "उत्तरपदे च परतः"
+   }
+  ],
+  "note": ""
+ },
+ "2.2.36": {
+  "roles": [],
+  "note": "The word ‹परे› appears only inside a cited vārttika (प्रहरणार्थेभ्यश्च परे...), not in the sūtra rule itself; 1.1.66 does not apply."
+ },
+ "2.4.76": {
+  "roles": [],
+  "note": "There is no pañcamī word in the rule; Kāśikā explicitly notes that जुहोत्यादिभ्यः does not recur (‹न तु जुहोत्यादिभ्य इति›). PV's use of ‹परस्य› is based on a non-standard continuation, and neither KV nor SK applies 1.1.67."
+ },
+ "3.1.4": {
+  "roles": [],
+  "note": "SK's ‹पूर्वस्य अपवादः› refers to the preceding sūtra 3.1.3 (आद्युदात्तश्च), not to paribhāṣā 1.1.66."
+ },
+ "1.1.17": {
+  "roles": [],
+  "note": "1.1.17 is a saṃjñā sūtra that assigns pragṛhya-saṃjñā to the nipāta 'uñ'; no substitution takes place here. The occurrence of ‹स्थाने› in PV refers to the ādeśa 'ūm̐' prescribed in the subsequent sūtra 1.1.18, not to this sūtra's rule."
+ },
+ "1.1.23": {
+  "roles": [
+   {
+    "word": "बहु-गण-वतु-डति",
+    "replaces": "बहु-गण-वतु-डति",
+    "role": "samjni",
+    "render": "बहु-गण-शब्दौ वतु-डति-प्रत्ययान्तौ च शब्दौ",
+    "pb": "PIS 23",
+    "ref": "PV",
+    "quote": "वतुडतिप्रत्ययान्तौ च शब्दौ"
+   }
+  ],
+  "note": ""
+ },
+ "1.1.59": {
+  "roles": [],
+  "note": "The classical vṛttis (KV, PV, SK) all gloss 'अचि' directly as ‹द्विर्वचननिमित्तेऽचि› / ‹द्वित्वनिमित्तेऽचिपरे› (the vowel that causes reduplication) and do not phrase the rule with ‹अजादौ› using PIS 33. The mention in commentary discussions is merely a śaṅkā-samādhāna for examples like पपतुः."
+ },
+ "1.1.61": {
+  "roles": [],
+  "note": "REJECTED by review 2026-11-17: put क्रमेण inside the quoted saṃjñā",
+  "rejected": true
+ },
+ "3.1.14": {
+  "roles": [],
+  "note": "सूत्रस्थः 'कष्टाय' इति शब्दः समर्थविभक्तेः निर्देशः, न तु प्रत्ययग्रहणम्। अतः प्रत्ययग्रहणे तदन्तग्रहणम् (PIS 23) इत्यास्या अत्र साक्षात् प्रवृत्तिर्नास्ति। काशिकायां प्रथमावृत्तौ चापि 'चतुर्थीसमर्थात् कष्टशब्दात्' इत्येवोक्तम् यदस्मद्वृत्तौ पूर्वमेव विद्यते।"
+ },
+ "3.1.42": {
+  "roles": [],
+  "note": "अस्मिन् निपातनसूत्रे छन्दसि विषये बहवः शब्दाः निपात्यन्ते। प्रथमावृत्तौ 'ण्यन्तानां' तथा 'परतः' इति पदे निपात्यमानशब्दानां व्युत्पत्तिविवरणे प्रयुक्ते, न तु सूत्रे विधाने वा 1.1.66 अथवा 1.1.72 इत्यनयोः साक्षात् प्रवृत्तिरस्ति। सूत्रे 'छन्दसि' इति विषयसप्तमी, न तु परसप्तमी।"
+ },
+ "3.1.51": {
+  "roles": [],
+  "note": "सूत्रे 'ऊनयति' इत्यादयः तिपा निर्दिष्टाः ण्यन्ता धातवः। काशिकायां 'ण्यन्तेभ्यः' इति पदं तिप-निर्देशस्य 3.1.48-सूत्रात् प्राप्तस्य चङः प्रसङ्गं स्पष्टीकर्तुं प्रयुक्तम्, न तु 1.1.72 इत्यस्य प्रवृत्त्या। अपि चास्मद्वृत्तौ 'इत्येतेभ्यो धातुभ्यो ण्यन्तेभ्य उत्तरस्य' इति पूर्वमेव वर्तते।"
+ },
+ "3.1.80": {
+  "roles": [],
+  "note": "काशिका-लघुसिद्धान्तकौमुदी-प्रथमावृत्तिषु 'अकारश्चान्तादेशः' (1.1.52 अलोऽन्त्यस्य) इत्येवोक्तम्। अयं विधिः तृतीयाध्याये वर्तते, नाङ्गाधिकारे। अतः 1.4.13 इति अङ्गसंज्ञापरिभाषाया अस्मिन् सूत्रे साक्षात् प्रवृत्तिर्नास्ति।"
+ },
+ "3.1.101": {
+  "roles": [],
+  "note": "3.1.92 (तत्रोपपदं सप्तमीस्थम्) does not apply to this sūtra. The locative term गर्ह्यपणितव्यानिरोधेषु specifies meanings (arthas), not upapadas. SK mentions ‹उपपदे› only while citing another sūtra (3.1.98 वदः सुप्यनुपसर्गे) to explain the prāpti of yat/kyap in the derivation of अवद्य."
+ },
+ "3.1.122": {
+  "roles": [],
+  "note": "Neither 1.1.66 nor 3.1.92 applies to this sūtra. The sūtra contains no saptamī-designated nimitta (1.1.66) nor any saptamī-designated upapada (3.1.92); अन्यतरस्याम् is an avyaya indicating option. KV's ‹तस्मिन्नुपपदे› and SK's ‹अमोपपदात्› describe the semantic analysis of the compound अमावस्यत्, and PV's ‹ण्यति परतो› refers to the general trigger of vṛddhi (7.2.115), not an operation commanded by a locative term in 3.1.122."
+ },
+ "3.1.130": {
+  "roles": [],
+  "note": "3.1.92 (तत्रोपपदं सप्तमीस्थम्) does not apply to this sūtra. The saptamī word क्रतौ denotes the meaning/abhidheya (क्रतावभिधेये), not an upapada. PV's use of ‹उपपदे› occurs in the analytical derivation of the compound कुण्डपाय्य (कुण्डशब्दे तृतीयान्ते उपपदे), not as an application of 3.1.92 to a sūtra-stha saptamī."
+ },
+ "3.1.140": {
+  "roles": [],
+  "note": "PIS 33 (यस्मिन्विधिस्तदादावल्ग्रहणे) does not apply. The reading ‹ज्वलादिभ्यः› is established by the explicit word इति in the sūtra (इतिशब्दोऽद्याद्यर्थवाची, per KV and PV), not by tadādi-vidhi on an al-grahaṇa. The substring match on ‹वलादि› in SK is coincidental."
+ },
+ "3.2.39": {
+  "roles": [],
+  "note": "1.1.72 is not applied. The reference text uses ‹ण्यन्ताद्› merely as a morphological description of the causally formed stem तापि (from तपँ + णिच्), which is explicitly uttered in the sūtra as तापेः, not by applying tadanta-vidhi to an abstract pratyaya."
+ },
+ "3.2.55": {
+  "roles": [
+   {
+    "word": "कर्मणि",
+    "replaces": "कर्मणि",
+    "role": "upapada",
+    "render": "पाणि ताड इत्येतयोः कर्मणोः उपपदयोः",
+    "pb": "3.1.92",
+    "ref": "PV",
+    "quote": "पाणि ताड इत्येतयोः कर्मणोरुपपदयोः"
+   }
+  ],
+  "note": "3.1.92 applies to designate the compounded karma elements पाणि and ताड as upapadas, which our vṛtti lacked. 1.1.66 is not applied; PV's ‹तस्मिंश्च परतो› is merely descriptive phrasing explaining the internal derivation of the nipātana before the suffix, not an application of 1.1.66 to interpret a saptamī in the sūtra."
+ },
+ "3.2.150": {
+  "roles": [],
+  "note": "1.1.72 is not applied. The roots चङ्क्रम्य and दन्द्रम्य are explicitly read in the sūtra text itself; PV's note ‹चङ्क्रम्य दन्द्रम्य इति द्वौ यङन्तौ› simply identifies their derivational nature (yaṅ-anta) rather than invoking tadanta-vidhi."
+ },
+ "3.2.158": {
+  "roles": [],
+  "note": "1.1.72 is not applied. SK's phrase ‹आद्यास्त्रयश्चुरादावदन्ताः› simply refers to the citation form of the first three roots as ending in short 'a' in the Curādi Dhātupāṭha (curādayo 'dantāḥ); it does not invoke the paribhāṣā 1.1.72."
+ },
+ "3.3.82": {
+  "roles": [
+   {
+    "word": "घनः",
+    "replaces": "घनः",
+    "role": "adesha",
+    "render": "हन्-धातोः स्थाने घनादेशः",
+    "pb": "1.1.49",
+    "ref": "PV",
+    "quote": "हनः स्थाने घनादेशश्च"
+   }
+  ],
+  "note": "1.1.49 (षष्ठी स्थानेयोगा) applies to the genitive anuvṛtta word हनः specifying the sthānin of the substitute घनादेश. PV explicitly states 'हनः स्थाने घनादेशश्च भवति'."
+ },
+ "3.3.86": {
+  "roles": [
+   {
+    "word": "सम्-उद्",
+    "replaces": "",
+    "role": "upapada",
+    "render": "सम्-उद् इत्येतयोः उपपदयोः",
+    "pb": "3.1.92",
+    "ref": "PV",
+    "quote": "सम् उद् उपपदयोः"
+   }
+  ],
+  "note": "In the derivation of the nipātanas संघः and उद्घः, the prefixes सम् and उद् function as upapadas to हन्-धातु. PV explicitly specifies 'सम् उद् उपपदयोः' (and KV 'समुदोरुपपदयोः')."
+ },
+ "3.3.130": {
+  "roles": [],
+  "note": "3.1.92 applies to ईषददुःसुषु (carried from 3.3.126), which are saptamī-stha words in the dhātvadhikāra and designate the upapadas for युच्. PV explicitly glosses this with 'कृच्छ्राकृच्छ्रार्थेष्वीषदादिषूपपदेषु'."
+ },
+ "3.3.138": {
+  "roles": [],
+  "note": "परस्मिन् in this sūtra is an artha/nimitta qualifier meaning 'in the later division of time' ('कालस्य परस्मिन् प्रविभागे सति'), contrasting with अवरस्मिन्. It does not invoke paribhāṣā 1.1.66 (तस्मिन्निति निर्दिष्टे पूर्वस्य). The reference wording is merely the sūtra's own locative word construed with प्रविभागे."
+ },
+ "3.4.3": {
+  "roles": [],
+  "note": "Paribhāṣā 1.1.49 does not apply to this sūtra. The sūtra समुच्चयेऽन्यतरस्याम् prescribes the suffix लोट् optionally in the sense of समुच्चय; the phrase ‹तस्य च लोटः स्थाने हिस्वावादेशौ भवतः› in PV merely refers to the operation already enjoined by the preceding sūtra 3.4.2 (लोटो हिस्वौ वा च तध्वमोः), not a new replacement rule in 3.4.3 itself."
+ },
+ "3.4.20": {
+  "roles": [],
+  "note": "Paribhāṣā 1.1.66 does not apply here. The word पूर्वस्य in the references (KV: ‹परेण पूर्वस्य योगे›, PV: ‹परेणावरस्य (=पूर्वस्य) योगे›) is a semantic gloss of अवर (अवर = पूर्व 'prior'), explaining the compound परावरयोगे, not the technical operational term पूर्वस्य from 1.1.66."
+ },
+ "3.4.31": {
+  "roles": [],
+  "note": "Paribhāṣā 1.1.72 does not apply. The word ण्यन्तात् in PV is morphological clarification that पूरेः refers to the causative form of पूरी (‹पूरेः› = पूरयतेः / णिजन्तस्य), not an application of tadanta-vidhi by 1.1.72. The scanner falsely matched the substring -न्तात्."
+ },
+ "3.4.32": {
+  "roles": [],
+  "note": "Paribhāṣā 1.1.72 does not apply. The word ण्यन्तात् in PV simply identifies the root पूरेः as the causative form (णिजन्त / पूरयतेः), not an expansion to a tadanta base via 1.1.72. The scanner falsely matched the substring -न्तात्."
+ },
+ "1.2.47": {
+  "roles": [
+   {
+    "word": "प्रातिपदिकस्य",
+    "replaces": "प्रातिपदिकस्य",
+    "role": "sthani",
+    "render": "अजन्तस्य प्रातिपदिकस्य",
+    "pb": "1.1.72",
+    "ref": "SK",
+    "quote": "प्रातिपदिकस्याऽजन्तस्य"
+   }
+  ],
+  "note": ""
+ },
+ "1.3.12": {
+  "roles": [],
+  "note": "1.1.49 (षष्ठी स्थानेयोगा) does not apply to this sūtra. Sūtra 1.3.12 contains no genitive term (अनुदात्तङितः and धातोः are ablative/पञ्चमी). The word 'स्थाने' in SK belongs to 'लस्य' imported from 3.4.77 for tiṅanta-prakriyā, not to 1.3.12. KV, PV, and SA do not use 'स्थाने'."
+ },
+ "1.4.7": {
+  "roles": [
+   {
+    "word": "ह्रस्वः",
+    "replaces": "ह्रस्वः",
+    "role": "qualifier",
+    "render": "ह्रस्व-इकारान्ताः ह्रस्व-उकारान्ताः च",
+    "pb": "1.1.72",
+    "ref": "SA",
+    "quote": "ह्रस्व-इकारान्ताः ह्रस्व-उकारान्ताः च"
+   }
+  ],
+  "note": ""
+ },
+ "1.4.52": {
+  "roles": [
+   {
+    "word": "अणि",
+    "replaces": "अणि",
+    "role": "vishaya",
+    "render": "अण्यन्तानाम्",
+    "pb": "1.1.72",
+    "ref": "KV",
+    "quote": "चाण्यन्तानां यः कर्ता"
+   },
+   {
+    "word": "णौ",
+    "replaces": "णौ",
+    "role": "vishaya",
+    "render": "ण्यन्तानाम्",
+    "pb": "1.1.72",
+    "ref": "KV",
+    "quote": "स ण्यन्तानां कर्मसंज्ञो"
+   }
+  ],
+  "note": ""
+ },
+ "4.2.92": {
+  "roles": [],
+  "note": "The reference phrasing 'अपत्यादिचतुरर्थ्यन्तात्' uses 'अन्त' in the sense of boundary/terminus (पर्यन्त), defining the scope of 'शेष', not as an application of tadanta-vidhi (1.1.72)."
+ },
+ "4.3.22": {
+  "roles": [
+   {
+    "word": "अण्",
+    "replaces": "तलोपः",
+    "role": "adesha",
+    "render": "अणि परे तकारस्य लोपः",
+    "pb": "1.1.66",
+    "ref": "PV",
+    "quote": "अणि परतो",
+    "edited": "2026-11-17 review: Gemini gave a bare nimitta “अणि परे” that the renderer put on the suffix clause; PV ties it to the त-lopa (“अणि परतो … तकारलोपश्च”)"
+   }
+  ],
+  "note": ""
+ },
+ "4.3.128": {
+  "roles": [],
+  "note": "PV's gloss 'यञन्तात् गोत्रप्रत्ययान्तात् शकलप्रातिपदिकात्' merely explains the etymological formation of the stem 'शाकल', not an application of tadanta-vidhi (1.1.72) to the rule."
+ },
+ "4.4.21": {
+  "roles": [],
+  "note": "The remark 'अपमित्येति ल्यबन्तम्' in SK merely specifies the morphological nature of the base 'अपमित्य' (ending in lyap); it does not invoke tadanta-vidhi (1.1.72)."
+ },
+ "4.1.30": {
+  "roles": [],
+  "note": "The substring ‹वलादि› in Kāśikā is an accidental match within ‹केवलादिभ्यः› (केवल + आदि). The sūtra simply lists nine prātipadikas without any al-grahaṇa, so PIS 33 does not apply."
+ },
+ "4.1.88": {
+  "roles": [
+   {
+    "word": "तद्धिताः",
+    "replaces": "तद्धिताः",
+    "role": "sthani",
+    "render": "अजादेः तद्धितप्रत्ययस्य",
+    "pb": "PIS 33",
+    "ref": "SK",
+    "quote": "तद्धितः अजादिः"
+   }
+  ],
+  "note": ""
+ },
+ "4.1.114": {
+  "roles": [],
+  "note": "The Kāśikā compound ‹ऋष्यादिकुर्वन्तेभ्यः› does not invoke 1.1.72 (तदन्तविधि); it is a dvandva paraphrase meaning 'prātipadikas starting with Ṛṣi and ending with Kuru' (ऋषिरादिः कुरुश्चान्तः). The rule applies to the listed groups, not to forms ending in Kuru."
+ },
+ "4.2.52": {
+  "roles": [],
+  "note": "Paribhāṣā 1.1.66 does not apply here. 'विषयः' is the artha (nominative), and 'देशे' is a semantic condition ('देशे गम्यमाने', not a following sound or word). Nilesh's phrasing 'विषय शब्दे परे' is a grammatical error; standard references (KV, PV, SK) do not use 1.1.66."
+ },
+ "3.4.99": {
+  "roles": [],
+  "note": "REJECTED by review 2026-11-17: “सकारान्तस्य स्थाने लोपः” would drop the whole ending; KV: “ङित उत्तमस्य नित्यं सकारस्य लोपो भवति” (only the स्)",
+  "rejected": true
+ },
+ "4.1.1": {
+  "roles": [
+   {
+    "word": "ङ्याप्प्रातिपदिकात्",
+    "replaces": "ङ्याप्प्रातिपदिकात्",
+    "role": "adhikara",
+    "render": "ङ्यन्तात् आबन्तात् प्रातिपदिकात् च इत्यधिक्रियते",
+    "pb": "1.1.72",
+    "ref": "PV",
+    "quote": "ङ्यन्तात्, आबन्तात्, प्रातिपदिकाच्च"
+   }
+  ],
+  "note": "In 4.1.1, the pratyayas ङी and आप् in the pañcamī-ending compound stand for ङ्यन्त and आबन्त by 1.1.72 (येन विधिस्तदन्तस्य), as voiced in PV (‹ङ्यन्तात्, आबन्तात्, प्रातिपदिकाच्च›) and SA."
+ },
+ "4.1.2": {
+  "roles": [],
+  "note": "In SK ‹परे स्वादयः प्रत्ययाः स्युः›, ‹परे› is prathamā-bahuvacanam qualifying ‹स्वादयः प्रत्ययाः› (from 3.1.2 परश्च), not a saptamī voicing 1.1.66 (तस्मिन्निति निर्दिष्टे पूर्वस्य). There is no saptamī condition in this rule."
+ },
+ "4.1.9": {
+  "roles": [],
+  "note": "PIS 33 (यस्मिन्विधिस्तदादावल्ग्रहणे) applies only to an al-grahaṇa. Sūtra 4.1.9 contains no al-grahaṇa; ‹ऋचि› is the semantic condition (artha), not a sound. The mention of ‹अजादि› in PV is an extraneous anuvṛtti carryover from 4.1.4 and does not apply to this rule."
+ },
+ "3.4.33": {
+  "roles": [],
+  "note": "1.1.72 is not applied to this rule; 'ण्यन्ताद्' in the commentaries is merely the morphological analysis of the base क्नोपि (the causally inflected form of क्नूयी), not an application of the tadanta-atideśa 1.1.72."
+ },
+ "3.4.68": {
+  "roles": [
+   {
+    "word": "भव्य-गेय-प्रवचनीय-उपस्थानीय-जन्य-आप्लाव्य-आपात्याः",
+    "replaces": "भव्य-गेय-प्रवचनीय-उपस्थानीय-जन्य-आप्लाव्य-आपात्याः",
+    "role": "nipatana",
+    "render": "भव्य गेय प्रवचनीय उपस्थानीय जन्य आप्लाव्य आपात्याः कृत्यप्रत्ययान्ताः शब्दाः",
+    "pb": "PIS 23",
+    "ref": "PV",
+    "quote": "भव्यादयः शब्दाः कृत्यप्रत्ययान्ताः",
+    "edited": "2026-11-17 review: keep the list the sūtra spells out (Gemini gave भव्यादयः) + PV’s कृत्यप्रत्ययान्ताः"
+   }
+  ],
+  "note": ""
+ },
+ "3.4.73": {
+  "roles": [
+   {
+    "word": "दाश-गोघ्नौ",
+    "replaces": "दाश-गोघ्नौ",
+    "role": "nipatana",
+    "render": "दाश-गोघ्नौ कृदन्तौ शब्दौ",
+    "pb": "1.1.72",
+    "ref": "PV",
+    "quote": "दाश गोघ्न इत्येतौ कृदन्तौ शब्दौ"
+   }
+  ],
+  "note": ""
+ },
+ "3.4.77": {
+  "roles": [],
+  "note": "1.1.49 does not apply to this adhikāra rule itself; as Padamañjarī explains (‹न तु षष्ठ्या अर्थविशेषः कश्चिदिहाश्रीयते, येन स्थानषष्ठीयमित्युच्येत›), 'लस्य' is merely carried forward as an adhikāra into subsequent vidhi sūtras (e.g. 3.4.78) where substitution actually occurs."
+ },
+ "4.4.96": {
+  "roles": [],
+  "note": "1.1.72 is not applied here. The word षष्ठ्यन्तात् in SK refers to the genitive case inflection of the base (षष्ठीसमर्थात्), not to tadanta-vidhi on the prātipadika हृदय."
+ },
+ "4.4.127": {
+  "roles": [],
+  "note": "1.1.72 is not applied here. The word मतुबन्तात् in PV/SK refers to the mantra base containing the affix matup (मूर्धन्वान्), which is an interpretive/semantic specification of the mantra, not an application of 1.1.72 tadanta-vidhi to the sūtra word मूर्धन्."
+ },
+ "4.4.128": {
+  "roles": [],
+  "note": "1.1.49 is not applied here. This sūtra prescribes the affix यत् in the sense of मतुप् (मत्वर्थे vidhi-pratyaya); it is not a sthāny-ādeśa rule, and there is no genitive sthānī in the sūtra."
+ },
+ "5.2.23": {
+  "roles": [
+   {
+    "word": "हियङ्गु",
+    "replaces": "",
+    "role": "adesha",
+    "render": "हियङ्गु-आदेशः ह्योगोदोहशब्दस्य स्थाने",
+    "pb": "1.1.49",
+    "ref": "PV",
+    "quote": "ह्योगोदोहशब्दस्य स्थाने हियङ्गु आदेशः"
+   },
+   {
+    "word": "खञ्",
+    "replaces": "",
+    "role": "pratyaya",
+    "render": "खञ्-प्रत्ययः",
+    "pb": "",
+    "ref": "PV",
+    "quote": "खञ् प्रत्ययश्च"
+   },
+   {
+    "word": "विकारे",
+    "replaces": "",
+    "role": "artha",
+    "render": "तस्य विकारे अर्थे",
+    "pb": "",
+    "ref": "PV",
+    "quote": "तस्य विकारेऽर्थे"
+   }
+  ],
+  "note": ""
+ },
+ "5.2.44": {
+  "roles": [],
+  "note": "4.1.82 (समर्थानां प्रथमाद्वा) governs pratyaya-vidhi. 5.2.44 is an ādeśa rule replacing tayap with ayac after ubha, not a suffix-operation from a samartha base. KV, SK, and SA do not apply 4.1.82 here; PV's mention of प्रथमासमर्थात् and षष्ठ्यर्थे simply echoes the earlier tayap-vidhi (5.2.29/43) rather than defining the condition of this ādeśa."
+ },
+ "5.2.60": {
+  "roles": [],
+  "note": "4.1.82 governs the prescription of suffixes from a samartha base. 5.2.60 is a luk-vidhi eliding the suffix cha when denoting an adhyāya or anuvāka. Neither KV, PV, nor SK applies 4.1.82; SA's mention of प्रथमासमर्थात् प्रातिपदिकात् छ-प्रत्ययः भवति describes the underlying generation of the suffix cha, not the luk operation ordained by this sūtra."
+ },
+ "5.2.92": {
+  "roles": [
+   {
+    "word": "परक्षेत्रात्",
+    "replaces": "",
+    "role": "prakriti",
+    "render": "सप्तमीसमर्थात् परक्षेत्र-शब्दात्",
+    "pb": "4.1.82",
+    "ref": "KV",
+    "quote": "सप्तमीसमर्थात्"
+   }
+  ],
+  "note": ""
+ },
+ "5.2.129": {
+  "roles": [
+   {
+    "word": "वातातिसाराभ्याम्",
+    "replaces": "वातातिसाराभ्याम्",
+    "role": "prakriti",
+    "render": "प्रथमासमर्थाभ्यां वातातिसार-शब्दाभ्याम्",
+    "pb": "4.1.82",
+    "ref": "SA",
+    "quote": "शब्दाभ्याम् प्रथमासमर्थाभ्याम्"
+   }
+  ],
+  "note": ""
+ },
+ "5.3.33": {
+  "roles": [],
+  "note": "The cited SK text ('तुश्छन्दसि... तृजन्तात्तृन्नन्ताच्च') belongs to sūtra 5.3.59, not 5.3.33. None of the references apply 1.1.72 to 5.3.33."
+ },
+ "5.3.40": {
+  "roles": [],
+  "note": "PIS 23 (प्रत्ययग्रहणे तदन्तग्रहणम्) is not applied to this rule. The suffix 'अस्ताति' is a nimitta ('अस्तातिप्रत्यये परतः') without tadanta extension. The phrase 'सप्तमीपञ्चमीप्रथमान्तानां' is found only in PV as an anuvṛtti from 5.3.27, and is absent in KV, SK, and SA."
+ },
+ "5.3.68": {
+  "roles": [],
+  "note": "1.1.66 is not applied here. The word 'परतः' in SK ('नतु परतः') and KV ('न परतः') merely negates the default position of suffixes prescribed by 3.1.2 (परश्च), contrasting with 'पुरस्तात्'; there is no saptamī-conditioned operation invoking 1.1.66."
+ },
+ "5.3.72": {
+  "roles": [],
+  "note": "1.4.13 is not applied to this rule. 5.3.72 is outside the aṅgādhikāra (6.4.1ff). KV and PV explicitly define the sthānī as 'प्रातिपदिकस्य' and SK as 'अव्ययस्य'. SA's informal phrasing 'अङ्गस्य' does not reflect an application of 1.4.13."
+ },
+ "5.3.83": {
+  "roles": [
+   {
+    "word": "अङ्गस्य",
+    "replaces": "",
+    "role": "prakriti",
+    "render": "अङ्गस्य",
+    "pb": "1.4.13",
+    "ref": "SA",
+    "quote": "अङ्गस्य द्वितीयात्"
+   }
+  ],
+  "note": ""
+ },
+ "5.3.84": {
+  "roles": [
+   {
+    "word": "शेवल-सुपरिविशाल-वरुण-अर्यमा-आदीनाम्",
+    "replaces": "शेवल-सुपरिविशाल-वरुण-अर्यमा-आदीनाम्",
+    "role": "prakriti",
+    "render": "शेवलसुपरिविशालवरुणार्यमादीनाम् अङ्गानाम्",
+    "pb": "1.4.13",
+    "ref": "SA",
+    "quote": "तस्य अङ्गस्य तृतीयात्"
+   }
+  ],
+  "note": ""
+ },
+ "5.4.5": {
+  "roles": [],
+  "note": "1.1.66 does not apply to this rule. 'सामिवचने' is an upapada (by 3.1.92 'तत्रोपपदं सप्तमीस्थम्') which precedes the kta-anta base in compounds like 'सामिकृतम्', rather than following it. KV, PV, and SK all say 'उपपदे' without 'परे'; SA's 'उपपदे परे' is a mechanical gloss error."
+ },
+ "5.4.51": {
+  "roles": [],
+  "note": "1.1.66 does not apply to this rule. 'च्विः' is anuvṛtta from 5.4.50 in the nominative (1/1) as a prescribed suffix ('लोपो भवति च्विश्च प्रत्ययः' - KV), not a nimitta in the locative. There is no saptamī designation governing 1.1.66, and KV, SK, and PV do not use 'परे'."
+ },
+ "5.4.71": {
+  "roles": [],
+  "note": "Paribhāṣā 1.1.66 is not applied. In KV and PV, 'परे' is the nominative plural adjective ('ये शब्दाः / राजादयः परे' = words following nañ) governed by the ablative 'नञः' (1.1.67), not a locative singular nimitta denoting a following condition."
+ },
+ "5.4.88": {
+  "roles": [
+   {
+    "word": "समासान्ताः",
+    "replaces": "समासान्ताः",
+    "role": "nimitta",
+    "render": "समासान्ते परे",
+    "pb": "1.1.66",
+    "ref": "SK",
+    "quote": "समासान्ते परे"
+   }
+  ],
+  "note": ""
+ },
+ "5.4.150": {
+  "roles": [
+   {
+    "word": "सुशब्दात्",
+    "replaces": "",
+    "role": "purva",
+    "render": "सु-दुर्-शब्दात् परस्य",
+    "pb": "1.1.67",
+    "ref": "PV",
+    "quote": "सुशब्दात् परस्य"
+   }
+  ],
+  "note": ""
+ },
+ "6.1.9": {
+  "roles": [],
+  "note": "Paribhāṣā 1.1.66 is not applied. KV, SK, and PV unanimously treat 'सन्यङोः' as a genitive qualifier ('सन्नन्तस्य यङन्तस्य च') via tadanta-vidhi (1.1.72), already correctly captured in our role table, rather than a locative nimitta ('X परे'). The gloss in SA is merely an informal paraphrase."
+ },
+ "5.3.11": {
+  "roles": [],
+  "note": "1.1.49 does not apply here. 'ह' is a pratyaya (an apavāda to त्रल्) ordained after the base 'इदम्', not an ādeśa replacing 'इदम्'. The word 'इदमः' represents the prakṛti (षष्ठी in the sense of पञ्चमी or प्रकृतिषष्ठी), so PV's phrasing 'इदमः स्थाने' is a loose or erroneous expression not supported by KV, SK, or the grammar of the rule."
+ },
+ "5.3.17": {
+  "roles": [
+   {
+    "word": "अश्",
+    "replaces": "",
+    "role": "adesha",
+    "render": "इदमः स्थाने अश्-आदेशः",
+    "pb": "1.1.49",
+    "ref": "PV",
+    "quote": "इदमः स्थानेऽश् आदेशो"
+   }
+  ],
+  "note": ""
+ },
+ "5.3.22": {
+  "roles": [],
+  "note": "1.3.10 (यथासङ्ख्यमनुदेशः समानाम्) does not apply to this rule. The sūtra contains a single list of nipātana words, not two parallel lists of equal count. PV's use of 'क्रमेण' is merely an expository transitional phrase in its commentary explaining the words one after another."
+ },
+ "5.3.29": {
+  "roles": [],
+  "note": "1.1.66 does not apply here. In SK, 'परतः' is simply the example of the rule (पर + अतसुच् = परतः), not the adverbial phrase 'परतः' ('subsequently') voicing 1.1.66."
+ },
+ "6.1.100": {
+  "roles": [],
+  "note": "The word 'परस्य' in Kāśikā ('पूर्वस्य परस्य चाद्यस्य वर्णस्य') is the resolution of the dual sthānī 'पूर्वपरयोः' from 6.1.84 एकः पूर्वपरयोः, not an application of 1.1.67 तस्मादित्युत्तरस्य, as the sūtra contains no pañcamī-nirdeśa."
+ },
+ "6.1.122": {
+  "roles": [
+   {
+    "word": "एङ्",
+    "replaces": "एङ्",
+    "role": "qualifier",
+    "render": "एङन्तस्य",
+    "pb": "1.1.72",
+    "ref": "SK",
+    "quote": "चैङन्तस्य"
+   }
+  ],
+  "note": ""
+ },
+ "6.1.123": {
+  "roles": [],
+  "note": "None of the provided references (PV, KV, SA, SK) apply 1.1.72 to this rule or mention 'एङन्तस्य' (SK says 'अचि परे पदान्ते गोरवङ् वा स्यात्'; the cited wording is from Laghukaumudī, which is not an authorized reference text here)."
+ },
+ "6.1.132": {
+  "roles": [],
+  "note": "1.1.67 तस्मादित्युत्तरस्य requires a pañcamī-nirdeśa, but 'एतत्तदोः' is morphologically a genitive dual (षष्ठी), as confirmed by KV ('तयोर्यः सुशब्दः') and SK ('तयोर्यः सुः'). SA's wording 'शब्दात् परस्य सुँ-प्रत्ययस्य' describes the inherent suffix-follows-base relation (3.1.2 परश्च), not 1.1.67."
+ },
+ "6.1.199": {
+  "roles": [],
+  "note": "The phrase ‹औणादिकाविनिप्रत्ययान्तौ› in Kāśikā merely explains the Uṇādi etymology and the resulting oxytone accent (प्रत्ययस्वर) of पथिन् and मथिन्. It does not apply PIS 23 (प्रत्ययग्रहणे तदन्तग्रहणम्) to the operation of this sūtra."
+ },
+ "6.2.34": {
+  "roles": [
+   {
+    "word": "राजन्यबहुवचनद्वन्द्वे",
+    "replaces": "राजन्यबहुवचनद्वन्द्वे",
+    "role": "vishaya",
+    "render": "राजन्यवाचिनां बहुवचनान्तानां द्वन्द्वे",
+    "pb": "1.1.72",
+    "ref": "KV",
+    "quote": "बहुवचनान्तानां"
+   }
+  ],
+  "note": ""
+ },
+ "6.2.118": {
+  "roles": [],
+  "note": "The sūtra has ‹सोः› in the ablative (5th case), which invokes 1.1.67 (तस्मादित्युत्तरस्य) and is correctly rendered as ‹सोः उत्तरस्य›. SK's ‹सोः परे› uses ‹परे› as a nominative plural adjective ('following elements'), not the locative marker of 1.1.66 (तस्मिन्निति निर्दिष्टे पूर्वस्य)."
+ },
+ "6.2.173": {
+  "roles": [],
+  "note": "SK's phrase ‹यदुत्तरपदं तदन्तस्य समासस्य› uses ‹तदन्तस्य› as a syntactic correlative referring to ‹यदुत्तरपदम्› ('the compound ending in that uttarapada'), not as an application of 1.1.72 (येन विधिस्तदन्तस्य). Neither Kāśikā nor Prathamāvṛtti uses 1.1.72 here."
+ },
+ "6.1.173": {
+  "roles": [],
+  "note": "PIS 33 (यस्मिन्विधिस्तदादावल्ग्रहणे) is not applied here by the references because the word अजादी (अच् आदौ यस्याः) is explicitly stated in the sūtra itself (शतुरनुमो नद्यजादी)."
+ },
+ "6.1.175": {
+  "roles": [],
+  "note": "1.1.66 (तस्मिन्निति निर्दिष्टे पूर्वस्य) is not applied here. The word परे in SK ('अनयोर्यणः परे शसादयः') is प्रथमाबहुवचनम् qualifying शसादयः ('the following case-endings'), not a locative nimitta. The condition is governed by the pañcamī 'उदात्तयणो हल्पूर्वात्' (1.1.67), not 1.1.66."
+ },
+ "6.1.190": {
+  "roles": [
+   {
+    "word": "ल-सार्वधातुकम्",
+    "replaces": "ल-सार्वधातुकम्",
+    "role": "nimitta",
+    "render": "लसार्वधातुके परतः",
+    "pb": "1.1.66",
+    "ref": "KV",
+    "quote": "लसार्वधातुके परतो"
+   }
+  ],
+  "note": ""
+ },
+ "6.1.197": {
+  "roles": [],
+  "note": "1.1.72 is not applied to this rule. The sūtra word ञ्निति is in the locative (7/1), acting as a nimitta (ञिति निति च प्रत्यये परे) for an operation on the preceding aṅga/samudāya (as glossed by KV, PV, and SA). SK's phrasing 'ञिदन्तस्य' is an idiosyncratic summary that ignores नित् and does not represent an application of 1.1.72 to the sūtra rule."
+ },
+ "6.2.176": {
+  "roles": [],
+  "note": "In SK, ‹परे› is the nominative plural masculine of ‹पर› qualifying ‹गुणादयः› (‹बहोः परे गुणादयः› = the guṇa-words following ‹बहु›). It expresses the ablative government of ‹बहोः› via 1.1.67 (तस्मादित्युत्तरस्य), not 1.1.66 (तस्मिन्निति निर्दिष्टे पूर्वस्य)."
+ },
+ "6.3.19": {
+  "roles": [
+   {
+    "word": "इन्-सिद्धबध्नातिषु",
+    "replaces": "इन्-सिद्धबध्नातिषु",
+    "role": "nimitta",
+    "render": "इन्नन्ते सिद्धशब्दे बध्नातौ च परतः",
+    "pb": "1.1.72",
+    "ref": "SK",
+    "quote": "इन्नन्तादिषु"
+   }
+  ],
+  "note": ""
+ },
+ "6.3.44": {
+  "roles": [],
+  "note": "1.1.72 does not apply to this sūtra. The term ‹ङ्यन्त› in SK (‹ङ्यन्तस्यैकाचश्च›) is from the vārttika ‹नद्या ह्रस्वत्वे ङ्यन्ताया एकाच एव...› defining what constitutes the शेष (remainder of nadī); ङी is not a term in the sūtra."
+ },
+ "6.3.65": {
+  "roles": [
+   {
+    "word": "इष्टकेषीकामालानाम्",
+    "replaces": "इष्टकेषीकामालानाम्",
+    "role": "sthani",
+    "render": "इष्टका-इषीका-माला इत्येतेषां तदन्तानां च पूर्वपदानाम्",
+    "pb": "1.1.72",
+    "ref": "SK",
+    "quote": "इष्टकादीनां तदन्तानां च"
+   }
+  ],
+  "note": ""
+ },
+ "6.3.110": {
+  "roles": [],
+  "note": "1.1.67 applies to an ablative term (pañcamī-nirdeśa). In 6.3.110, 'संख्याविसायपूर्वस्य' is in the genitive case as a bahuvrīhi compound. SA's use of 'परस्य' is merely an analytical expansion of the compound ('संख्या पूर्वा यस्मात्'), not an application of 1.1.67 to the sūtra rule. KV, PV, and SK do not use 'परस्य' or 'उत्तरस्य'."
+ },
+ "6.3.113": {
+  "roles": [],
+  "note": "1.1.72 (tadanta-vidhi) does not apply to this nipātana rule. The word 'समन्तात्' in PV is an adverb in an illustrative Vedic example ('साढ्यै समन्तात्'), not a tadanta phrasing."
+ },
+ "6.4.29": {
+  "roles": [],
+  "note": "1.1.66 applies to a locative conditioning term in a sūtra. This sūtra is a nipātana enumeration with no saptamī term. The word 'परतो' in PV occurs only inside the derivation of one item ('मन्प्रत्यये परतो' for 'ओद्म'), not as a paribhāṣā governing the sūtra's rule."
+ },
+ "6.4.37": {
+  "roles": [
+   {
+    "word": "अनुनासिक",
+    "replaces": "",
+    "role": "qualifier",
+    "render": "अनुनासिकान्तानाम्",
+    "pb": "1.1.72",
+    "ref": "KV",
+    "quote": "अनुनासिकान्तानाम्"
+   }
+  ],
+  "note": "By 1.1.72, the specification 'अनुनासिक' qualifies the bases (अनुदात्तोपदेशानाम् अङ्गानाम्), yielding 'अनुनासिकान्तानाम्' across KV, PV, SA, and SK."
+ },
+ "6.4.133": {
+  "roles": [
+   {
+    "word": "श्व-युव-मघोनाम्",
+    "replaces": "श्व-युव-मघोनाम्",
+    "role": "sthani",
+    "render": "अन्नन्तानां श्वन्-युवन्-मघवन्-शब्दानाम्",
+    "pb": "1.1.72",
+    "ref": "SK",
+    "quote": "अन्नन्तानां"
+   }
+  ],
+  "note": ""
+ },
+ "6.4.135": {
+  "roles": [],
+  "note": "REJECTED by review 2026-11-17: garbled render (षकारपूर्वान्तस्य), quote “योऽन्तस्य” does not support it",
+  "rejected": true
+ },
+ "7.1.43": {
+  "roles": [
+   {
+    "word": "एनम्",
+    "replaces": "",
+    "role": "nimitta",
+    "render": "एनम् इत्येतस्मिन् परतः",
+    "pb": "1.1.66",
+    "ref": "KV",
+    "quote": "एनमित्येतस्मिन् परतो"
+   }
+  ],
+  "note": ""
+ },
+ "7.1.79": {
+  "roles": [
+   {
+    "word": "सर्वनामस्थाने",
+    "replaces": "",
+    "role": "nimitta",
+    "render": "सर्वनामस्थाने परे",
+    "pb": "1.1.66",
+    "ref": "SK",
+    "quote": "सर्वनामस्थाने परे"
+   }
+  ],
+  "note": ""
+ },
+ "7.2.12": {
+  "roles": [
+   {
+    "word": "उकः",
+    "replaces": "उकः",
+    "role": "purva",
+    "render": "उगन्ताच्च धातोः परस्य",
+    "pb": "1.1.72",
+    "ref": "SK",
+    "quote": "ग्रहेर्गुहेरुगन्ताच्च"
+   }
+  ],
+  "note": ""
+ },
+ "7.2.38": {
+  "roles": [
+   {
+    "word": "वॄतः",
+    "replaces": "वॄतः",
+    "role": "purva",
+    "render": "वृ-धातोः ऋदन्ताच्च धातोः परस्य",
+    "pb": "1.1.72",
+    "ref": "SK",
+    "quote": "वृङ्वृञ्भ्यामॄदन्ताञ्च"
+   }
+  ],
+  "note": ""
+ },
+ "7.2.41": {
+  "roles": [
+   {
+    "word": "वॄतः",
+    "replaces": "वॄतः",
+    "role": "purva",
+    "render": "वृ-धातोः ऋदन्ताच्च धातोः परस्य",
+    "pb": "1.1.72",
+    "ref": "SK",
+    "quote": "वृङ्वृञ्भ्यामॄदन्ताच्च"
+   }
+  ],
+  "note": ""
+ },
+ "7.2.42": {
+  "roles": [
+   {
+    "word": "वॄतः",
+    "replaces": "वॄतः",
+    "role": "purva",
+    "render": "वृ-धातोः ऋदन्ताच्च धातोः परस्य",
+    "pb": "1.1.72",
+    "ref": "SK",
+    "quote": "वृङ्वृञ्भ्यामॄदन्ताच्च"
+   }
+  ],
+  "note": ""
+ },
+ "7.2.55": {
+  "roles": [
+   {
+    "word": "जॄव्रश्च्योः",
+    "replaces": "जॄव्रश्च्योः",
+    "role": "purva",
+    "render": "जॄ-व्रश्चिभ्याम् परस्य",
+    "pb": "1.1.67",
+    "ref": "SK",
+    "quote": "आभ्यां परस्य"
+   }
+  ],
+  "note": ""
+ },
+ "7.2.67": {
+  "roles": [
+   {
+    "word": "एकाजाद्घसाम्",
+    "replaces": "एकाजाद्घसाम्",
+    "role": "prakriti",
+    "render": "एकाचाम् आकारान्तानां घसेश्च धातूनाम्",
+    "pb": "1.1.72",
+    "ref": "PV",
+    "quote": "आकारान्तानां"
+   }
+  ],
+  "note": "1.1.56 is cited in Kāśikā only to explain the derivation of the example जक्षिवान् (स्थानिवद्भाव), not as part of this sūtra's rule; 1.1.72 applies to आत् (आकारान्तानाम्)."
+ },
+ "7.2.78": {
+  "roles": [
+   {
+    "word": "ईडजनोः",
+    "replaces": "ईडजनोः",
+    "role": "purva",
+    "render": "ईड्-जन् इत्येताभ्यां धातुभ्याम् उत्तरस्य",
+    "pb": "1.1.67",
+    "ref": "KV",
+    "quote": "इत्येताभ्यामुत्तरस्य"
+   }
+  ],
+  "note": ""
+ },
+ "7.2.84": {
+  "roles": [],
+  "note": ""
+ },
+ "7.2.114": {
+  "roles": [],
+  "note": "1.1.66 (तस्मिन्निति निर्दिष्टे पूर्वस्य) is not applied here; the sūtra contains no saptamī term. The phrase धातुप्रत्यये परे in SK arises from the paribhāṣā 'धातोः स्वरूपग्रहणे तत्प्रत्यये कार्यविज्ञानम्' (KV: धातोश्च कार्यमुच्यमानं धातुप्रत्यय एव वेदितव्यम्)."
+ },
+ "7.3.27": {
+  "roles": [],
+  "note": "6.3.39 is an Aṣṭādhyāyī sūtra (वृद्धिनिमित्तस्य च...), not a paribhāṣā, and SK cites it in the context of an objection regarding पुंवद्भाव in an example (आर्धखारीभार्य)."
+ },
+ "7.3.36": {
+  "roles": [
+   {
+    "word": "अर्तिह्रीव्लीरीक्नूयीक्ष्माय्याताम्",
+    "replaces": "अर्तिह्रीव्लीरीक्नूयीक्ष्माय्याताम्",
+    "role": "prakriti",
+    "render": "ऋ-ह्री-व्ली-री-क्नूयी-क्ष्मायी इत्येतेषाम् आकारान्तानां च",
+    "pb": "1.1.72",
+    "ref": "KV",
+    "quote": "इत्येतेषामङ्गानामाकारान्तानां"
+   }
+  ],
+  "note": "1.1.72 (येन विधिस्तदन्तस्य) applies to the varṇa 'आत्' in the dvandva compound, interpreting 'आताम्' as आकारान्तानाम् (अङ्गानाम्)."
+ },
+ "7.3.40": {
+  "roles": [],
+  "note": "In SK, 'ईकारान्तस्य' is an explanatory adjective clarifying that the root भी must end in ई (i.e. not have undergone ātva by बिभ्यतेराङ्), not an application of tadanta-vidhi 1.1.72 (which would yield what ends in the root भी)."
+ },
+ "7.4.70": {
+  "roles": [],
+  "note": "In 7.4.70, 'आदेः' is an explicit sūtra word qualifying अभ्यासस्य/अतः (the initial short 'a' of the reduplication), not an application of paribhāṣā 1.1.54 (आदेः परस्य)."
+ },
+ "8.1.18": {
+  "roles": [],
+  "note": "PIS 23 (प्रत्ययग्रहणे तदन्तग्रहणम्) is not applied to this adhikāra sūtra, as no pratyaya is named in the rule. The word 'सुबन्तस्य' in Kāśikā appears only in an illustrative discussion of the purpose of 'सर्वम्' for subsequent yushmad-asmad substitutions."
+ },
+ "8.2.9": {
+  "roles": [],
+  "note": "Paribhāṣā 1.1.66 (तस्मिन्निति निर्दिष्टे पूर्वस्य) requires a saptamī, but 8.2.9 has pañcamī terms (मात्, अयवादिभ्यः). The word 'परतो' in Kāśikā glosses the ablative 'अयवादिभ्यः', which is governed by 1.1.67 (तस्मादित्युत्तरस्य), not 1.1.66."
+ },
+ "8.2.13": {
+  "roles": [
+   {
+    "word": "मतौ",
+    "replaces": "",
+    "role": "nimitta",
+    "render": "मतौ परतः",
+    "pb": "1.1.66",
+    "ref": "PV",
+    "quote": "मतौ परतः"
+   }
+  ],
+  "note": ""
+ },
+ "7.3.83": {
+  "roles": [],
+  "note": "PIS 33 (यस्मिन्विधिस्तदादावल्ग्रहणे) is not applied here. The word ‹अजादौ› in SK is from the Mahābhāṣya vacana ‹अजादौ जुसीति वक्तव्यम्› to prevent guṇa in forms like अभ्युन्नयेयुः, not an application of PIS 33, as ‹जुस्› is a pratyaya, not an al."
+ },
+ "7.3.85": {
+  "roles": [],
+  "note": "1.1.53 (ङिच्च) is not applied here. The substring ‹ङिद्› in SK's ‹विचिण्णल्ङिद्भ्योऽन्यस्मिन्› is simply the sūtra's own term ङित् from the compound अविचिण्णल्ङित्सु, not the paribhāṣā sūtra 1.1.53."
+ },
+ "7.3.96": {
+  "roles": [
+   {
+    "word": "अस्तिसिचः",
+    "replaces": "अस्तिसिचः",
+    "role": "purva",
+    "render": "अस्तेः अङ्गात् सिजन्ताच्च उत्तरस्य",
+    "pb": "1.1.72",
+    "ref": "PV",
+    "quote": "अस्तेरङ्गात् सिजन्ताच्च उत्तरस्य"
+   }
+  ],
+  "note": ""
+ },
+ "7.4.66": {
+  "roles": [],
+  "note": "1.1.66 (तस्मिन्निति निर्दिष्टे पूर्वस्य) is not applied here. The sūtra 7.4.66 has no saptamī-nirdeśa, nor does one recur (KV explicitly states ‹अभ्यासस्य इति वर्तमाने पुनरङ्गस्य इति न संबध्यते›). SK's ‹प्रत्यये परे› is merely an explanatory phrase indicating the general condition for reduplication."
+ }
+}

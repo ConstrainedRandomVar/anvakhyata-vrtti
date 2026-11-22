@@ -1,0 +1,672 @@
+{
+ "pid": "1.1.53",
+ "generated": "2026-11-20",
+ "input": "audit/1.1.53-firings.json",
+ "totals": {
+  "firings": 48,
+  "licensed": 28,
+  "not_licensed": 20,
+  "unsure": 0,
+  "groups": {
+   "licensed": 8,
+   "not licensed": 5,
+   "mixed": 4,
+   "unsure": 0
+  },
+  "not_licensed_by_should_be": {
+   "none": 17,
+   "1.1.55": 2,
+   "1.1.54": 1
+  },
+  "not_licensed_by_reason": {
+   "FALSE_MATCH": 14,
+   "COMMENTATOR_DENIES": 3,
+   "NAMED_NOT_APPLIED": 1,
+   "MISNUMBERED": 1,
+   "MISFILED": 1
+  },
+  "quotes": 39
+ },
+ "conditions": [
+  {
+   "text": "C1 — 1.1.53 ङिच्च: a ṅit substitute (ādeśa), even one of several sounds, replaces only the LAST sound of the sthānin. It is the apavāda of 1.1.55 (sarvādeśa). Scope = a substitute that carries the anubandha ङ् and replaces a 6th-case sthānin of more than one sound.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11053",
+     "quote": "ङिच्च य आदेशः, सोऽनेकालपि अलोऽन्त्यस्य स्थाने भवति।"
+    },
+    {
+     "file": "kaumudi",
+     "id": "11053",
+     "quote": "अयमप्यन्त्यस्यैव स्यात् ।"
+    },
+    {
+     "file": "kaumudi",
+     "id": "71093",
+     "quote": "ङिच्च <{SK43}> इत्यन्तादेशः ॥"
+    }
+   ]
+  },
+  {
+   "text": "C2 — Where the ङ् has another job (e.g. तातङ् 7.1.35, whose ङ् blocks guṇa/vṛddhi), 1.1.53 is set aside and 1.1.55 makes the substitute replace the whole.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11053",
+     "quote": "तातङि ङित्करणस्य गुणवृद्धिप्रतिषेधार्थत्वात् सर्वादेशस्तातङ् भवति।"
+    },
+    {
+     "file": "padamanjari",
+     "id": "41078",
+     "quote": "यत्र हि ङ्कारस्य प्रयोजनान्तरमपि सम्भाव्यते तत्र'ङ्च्चि'  इत्येतदनन्यार्थङ्त्वेष्विनङदिषु सावकाशं बाधित्वा ठनेकाल्शित्सर्वस्यऽ इत्येतद्भवति, यथा तातङ्"
+    }
+   ]
+  },
+  {
+   "text": "C3 — The string \"ङिच्च\" also occurs in texts that have nothing to do with 1.1.53: the Bhāṣya maxim \"ङिच्च पिन्न\" (a ṅit [sārvadhātuka] is not pit, and vice versa), the words of 3.4.103 यासुट् … ङिच्च (yāsuṭ is ṅit), and the uṇādi sūtra context of सखि. A commentator quoting any of these is not invoking 1.1.53.",
+   "quotes": [
+    {
+     "file": "bhashya",
+     "id": "31083",
+     "quote": "तस्माद्वक्तव्यं पिन्न ङिद्भवति ङिच्च पिन्न भवतीति"
+    },
+    {
+     "file": "kashika",
+     "id": "34103",
+     "quote": "परस्मैपदविषयस्य लिङो यासुडागमो भवति, स चोदात्तो भवति, ङिच्च।"
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "G1",
+   "group": "named by a commentator | ādeśa | X",
+   "verdict": "mixed",
+   "how_checked": "Each member: the commentator passage that triggered the credit located in the vendored file at that sūtra (script, ±200 chars) and read in context; checked whether the word cited is 1.1.53 at all, and whether it is applied, denied, or a different text.",
+   "licensed": [
+    "6.1.123",
+    "6.3.25",
+    "7.1.93",
+    "7.1.94",
+    "7.4.27"
+   ],
+   "not_licensed": [
+    {
+     "n": "2.4.53",
+     "word": "named by सिद्धान्तकौमुदी",
+     "line": "2.4.53 named by सिद्धान्तकौमुदी  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+     "should_be": "none",
+     "reason": "FALSE_MATCH",
+     "why": "The SK/BM text is the maxim \"ङिच्च पिन्न\" (on ब्रूतात्/ब्रवाणि — no īṭ), not 1.1.53. वचि replaces the whole ब्रू (it is not ṅit).",
+     "quotes": [
+      {
+       "file": "kaumudi",
+       "id": "24053",
+       "quote": "ङिच्च पिन्न इत्यपित्त्वादीण्न"
+      },
+      {
+       "file": "kashika",
+       "id": "24053",
+       "quote": "ब्रुवो वचिरादेशो भवत्यार्धधातुकविषये।"
+      }
+     ]
+    },
+    {
+     "n": "3.1.83",
+     "word": "named by महाभाष्यम्",
+     "line": "3.1.83 named by महाभाष्यम्  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+     "should_be": "none",
+     "reason": "FALSE_MATCH",
+     "why": "The Bhāṣya passage is the maxim \"पिन्न ङिद्भवति ङिच्च पिन्न भवति\"; 3.1.83 (शानच्/शायच् for श्ना) has no ṅit substitute.",
+     "quotes": [
+      {
+       "file": "bhashya",
+       "id": "31083",
+       "quote": "तस्माद्वक्तव्यं पिन्न ङिद्भवति ङिच्च पिन्न भवतीति"
+      }
+     ]
+    },
+    {
+     "n": "4.1.78",
+     "word": "named by न्यासः",
+     "line": "4.1.78 named by न्यासः  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "Nyāsa/BM/TB raise 1.1.53 for ष्यङ् and reject it: ष्यङ् replaces exactly the अण्/इञ् that is named (निर्दिश्यमानस्यादेशाः, PIS 12 — not an engine pid); BM says the antādeśa reading is \"not right\", the ङ् being used elsewhere.",
+     "quotes": [
+      {
+       "file": "balamanorama",
+       "id": "41078",
+       "quote": "त्यन्तादेश इति तु न युक्तं"
+      },
+      {
+       "file": "balamanorama",
+       "id": "41078",
+       "quote": "निर्दिश्यमानस्येति । तथा च अणिञोरेवायमादेश इति भावः ।"
+      }
+     ]
+    },
+    {
+     "n": "7.1.18",
+     "word": "named by काशिका",
+     "line": "7.1.18 named by काशिका  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+     "should_be": "none",
+     "reason": "FALSE_MATCH",
+     "why": "The kārikā \"औकारोऽयं शीविधौ ङिद्गृहीतो ङिच्चास्माकं नास्ति\" is about the ङ् of the STHĀNIN औङ् (\"a ṅit au does not exist for us\"); शी replaces the whole औ/औट् (śit). Not 1.1.53.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "71018",
+       "quote": "ङकारः सामान्यग्रहणार्थः, औटोऽपि ग्रहणं यथा स्यात्।"
+      },
+      {
+       "file": "nyaas",
+       "id": "71018",
+       "quote": "औकारोऽयं स्थानी ङिद्गृहीतो ङकारानुवन्ध उपात्त इत्यर्थः।"
+      }
+     ]
+    },
+    {
+     "n": "7.1.35",
+     "word": "named by न्यासः",
+     "line": "7.1.35 named by न्यासः  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+     "should_be": "1.1.55",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "Nyāsa asks why तातङ् is not antādeśa by 1.1.53 and answers: its ङ् serves guṇa/vṛddhi-blocking, so it replaces the whole तु/हि (1.1.55). The current build already has 1.1.55 ✔ here, so both 1.1.53 credits (layer 1 and layer 2) contradict it.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "71035",
+       "quote": "यस्माद्गुणवृद्धिप्रतिषेधार्थं ङित्करणं तस्मात्सर्वादेशस्तातङ् भवति।"
+      },
+      {
+       "file": "kashika",
+       "id": "11053",
+       "quote": "तातङि ङित्करणस्य गुणवृद्धिप्रतिषेधार्थत्वात् सर्वादेशस्तातङ् भवति।"
+      },
+      {
+       "file": "kaumudi",
+       "id": "71035",
+       "quote": "अनेकाल्त्वात्सर्वादेशः ।"
+      }
+     ]
+    },
+    {
+     "n": "7.2.101",
+     "word": "named by तत्त्वबोधिनी",
+     "line": "7.2.101 named by तत्त्वबोधिनी  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+     "should_be": "none",
+     "reason": "NAMED_NOT_APPLIED",
+     "why": "TB names 1.1.53 only to reject a hypothetical alternative (if the sūtra had taught a ṅit असुङ्, 1.1.53 would give a wrong form). जरस् itself is not ṅit and replaces the whole जरा (1.1.55, already ✔ here).",
+     "quotes": [
+      {
+       "file": "tattvabodhini",
+       "id": "72101",
+       "quote": "ङेवाऽस्त्विति वाच्यम्"
+      },
+      {
+       "file": "kashika",
+       "id": "72101",
+       "quote": "जरा इत्येतस्य जरसित्ययमादेशो भवत्यन्यतरस्यामजादौ विभक्तौ परतः।"
+      }
+     ]
+    },
+    {
+     "n": "8.4.61",
+     "word": "named by न्यासः",
+     "line": "8.4.61 named by न्यासः  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+     "should_be": "1.1.54",
+     "reason": "MISNUMBERED",
+     "why": "Nyāsa writes \"`आदेः पदस्य` [[1.1.53]]\" — the rule meant is 1.1.54 आदेः परस्य (the स् of स्था/स्तम्भ, first sound after उदः). There is no ṅit substitute in 8.4.61. 1.1.54 is already credited here.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "84061",
+       "quote": "इति सकारस्य महाप्राणस्याघोषस्य तादृश एव पूर्वसवर्णस्थकारः"
+      },
+      {
+       "file": "kaumudi",
+       "id": "84061",
+       "quote": "उदः परयोः स्थास्तम्भोः पूर्वसवर्णः स्यात्"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 5 · not licensed 7 · unsure 0 — Licensed members: the commentator says \"ङिच्चेत्यन्तादेशः\" (or Bhāṣya \"ङिच्चायं क्रियते\") for अवङ् (6.1.123), आनङ् (6.3.25), अनङ् (7.1.93, 7.1.94), रीङ् (7.4.27)."
+  },
+  {
+   "id": "G2",
+   "group": "own word, data case 1 | ādeśa | X: 1.1.53 … (not 1.1.55 — paribhāṣā audi",
+   "verdict": "licensed",
+   "how_checked": "Read engine trigger, Kāśikā and examples: निङ् (युवजानिः), असुङ् (पुमान्), रीङ्/रिङ् replace only the last sound.",
+   "licensed": [
+    "5.4.134",
+    "7.1.89",
+    "7.4.27",
+    "7.4.28"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "licensed 4 · not licensed 0 · unsure 0 — All licensed, but the engine EFFECT text says \"it replaces the WHOLE of the place\" while the trigger says 1.1.53 (last sound) — the effect wording is wrong for these 4 (left over from the re-pointing from 1.1.55)."
+  },
+  {
+   "id": "G3",
+   "group": "named by a commentator | operation | X",
+   "verdict": "not licensed",
+   "how_checked": "Passages located and read in context.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "6.1.68",
+     "word": "named by तत्त्वबोधिनी",
+     "line": "6.1.68 named by तत्त्वबोधिनी  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+     "should_be": "none",
+     "reason": "FALSE_MATCH",
+     "why": "TB is giving the uṇādi derivation of सखि (\"ङिच्च\" and \"यलोप\" carried in the uṇādi sūtra समाने ख्यः स चोदात्तः), not 1.1.53. 6.1.68 is a lopa rule.",
+     "quotes": [
+      {
+       "file": "tattvabodhini",
+       "id": "61068",
+       "quote": "इति चानुवर्तमानेसमाने ख्यः स चोदात्तः"
+      }
+     ]
+    },
+    {
+     "n": "6.4.23",
+     "word": "named by महाभाष्यम्",
+     "line": "6.4.23 named by महाभाष्यम्  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+     "should_be": "none",
+     "reason": "FALSE_MATCH",
+     "why": "The Bhāṣya string is \"क्ङिच्चेत्\" (\"if kit/ṅit\") about the न of श्न; not 1.1.53.",
+     "quotes": [
+      {
+       "file": "bhashya",
+       "id": "64023",
+       "quote": "एवं तर्हि नशब्द एवात्र क्ङित्त्वेन विशेष्यते"
+      }
+     ]
+    },
+    {
+     "n": "7.3.89",
+     "word": "named by न्यासः",
+     "line": "7.3.89 named by न्यासः  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+     "should_be": "none",
+     "reason": "FALSE_MATCH",
+     "why": "Nyāsa/SK/LK/BM/TB cite the maxim \"ङिच्च पिन्न\" (yāsuṭ makes the ending ṅit, so not pit → no vṛddhi in युयात्). Not 1.1.53.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "73089",
+       "quote": "इति ङित्त्वेन पित्त्वस्य बाधितत्वात्"
+      },
+      {
+       "file": "kaumudi",
+       "id": "73089",
+       "quote": "भाष्ये पिच्च ङिन्न ङिच्च पिन्न इति व्याख्यानात्"
+      }
+     ]
+    },
+    {
+     "n": "7.3.91",
+     "word": "named by सिद्धान्तकौमुदी",
+     "line": "7.3.91 named by सिद्धान्तकौमुदी  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+     "should_be": "none",
+     "reason": "FALSE_MATCH",
+     "why": "SK: \"ङिच्च पिन्न इति भाष्यात्\" — the same maxim, not 1.1.53.",
+     "quotes": [
+      {
+       "file": "kaumudi",
+       "id": "73091",
+       "quote": "इह वृद्धिर्न । ङिच्च पिन्न इति भाष्यात् ।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 0 · not licensed 4 · unsure 0"
+  },
+  {
+   "id": "G4",
+   "group": "own word, data case 1 | ādeśa | X: a … substitute of more than one sound",
+   "verdict": "mixed",
+   "how_checked": "Engine trigger + Kāśikā/SK on 1.1.53 and the member.",
+   "licensed": [
+    "6.1.123",
+    "6.3.25",
+    "7.1.93"
+   ],
+   "not_licensed": [
+    {
+     "n": "7.1.35",
+     "word": "तातङ्",
+     "line": "7.1.35 तातङ्  ⟨it replaces only the last sound⟩",
+     "should_be": "1.1.55",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "तातङ् replaces the whole तु/हि: Kāśikā on 1.1.53 and on 7.1.35, SK, BM and Vasu all say sarvādeśa (C2). Duplicate of the layer-1 credit in G1.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "11053",
+       "quote": "तातङि ङित्करणस्य गुणवृद्धिप्रतिषेधार्थत्वात् सर्वादेशस्तातङ् भवति।"
+      },
+      {
+       "file": "kaumudi",
+       "id": "71035",
+       "quote": "अनेकाल्त्वात्सर्वादेशः ।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 3 · not licensed 1 · unsure 0"
+  },
+  {
+   "id": "G5",
+   "group": "carried / not a sūtra word | āgama | X: a … substitute of more than one sound",
+   "verdict": "licensed",
+   "how_checked": "Carried substitutes (इयङ्/उवङ्, अनङ्) checked against the head sūtra (6.4.77 SK \"ङिच्चेत्यन्तादेशः\"; 7.1.75).",
+   "licensed": [
+    "6.4.78",
+    "6.4.79",
+    "6.4.80",
+    "7.1.76"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "licensed 4 · not licensed 0 · unsure 0"
+  },
+  {
+   "id": "G6",
+   "group": "named by a commentator | vidhi | X",
+   "verdict": "mixed",
+   "how_checked": "Passages located and read in context.",
+   "licensed": [
+    "5.4.131"
+   ],
+   "not_licensed": [
+    {
+     "n": "4.1.15",
+     "word": "named by बालमनोरमा",
+     "line": "4.1.15 named by बालमनोरमा  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+     "should_be": "none",
+     "reason": "FALSE_MATCH",
+     "why": "BM quotes 3.4.103 \"यासुट् परस्मैपदेषूदात्तो ङिच्च\" (yāsuṭ is ṅit) in a jñāpaka argument about वक्ष्यमाणा; 4.1.15 is a ṅīp rule with no substitute.",
+     "quotes": [
+      {
+       "file": "balamanorama",
+       "id": "41015",
+       "quote": "लिङादेशानां-तिप्तस्झीत्यादिपरस्मैपदानां यासुडागमस्य ङित्त्वं विहितम्"
+      }
+     ]
+    },
+    {
+     "n": "4.3.97",
+     "word": "named by न्यासः",
+     "line": "4.3.97 named by न्यासः  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+     "should_be": "none",
+     "reason": "MISFILED",
+     "why": "The passage filed under 4.3.97 in the vendored Nyāsa file is actually Bālamanoramā on सुधातुरकङ् च (4.1.97); 4.3.97 महाराजाट्ठञ् has no substitute. 4.1.97 already carries the credit.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "43097",
+       "quote": "सुधातृशब्दात्षष्ठन्तादपत्येऽर्थे इञ्प्रत्ययः, प्रकृतेरकङादेशश्चेत्यर्थः।"
+      },
+      {
+       "file": "kashika",
+       "id": "43097",
+       "quote": "महाराजशब्दाट् ठञ् प्रत्ययो भवति सोऽस्य भक्तिरित्येतस्मिन् विषये।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 1 · not licensed 2 · unsure 0"
+  },
+  {
+   "id": "G7",
+   "group": "named by a commentator | adhikāra | X",
+   "verdict": "not licensed",
+   "how_checked": "Passages located and read in context.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "3.1.3",
+     "word": "named by महाभाष्यम्",
+     "line": "3.1.3 named by महाभाष्यम्  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+     "should_be": "none",
+     "reason": "FALSE_MATCH",
+     "why": "The Bhāṣya quotes 3.4.103 (yāsuṭ … ङिच्च) as a jñāpaka about the accent of augments; no ṅit substitute in 3.1.3.",
+     "quotes": [
+      {
+       "file": "bhashya",
+       "id": "31003",
+       "quote": "यदयं यासुट् परस्मैपदेषूदात्तो ङिच्चेत्याह"
+      }
+     ]
+    },
+    {
+     "n": "3.1.91",
+     "word": "named by महाभाष्यम्",
+     "line": "3.1.91 named by महाभाष्यम्  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+     "should_be": "none",
+     "reason": "FALSE_MATCH",
+     "why": "The Bhāṣya lists 3.4.103 among lādeśa rules in a discussion of the extent of the धातोः heading; not 1.1.53.",
+     "quotes": [
+      {
+       "file": "bhashya",
+       "id": "31091",
+       "quote": "लिङः सीयुट्। यासुट् परस्मैपदेषूदात्तो ङिच्चेति॥"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 0 · not licensed 2 · unsure 0"
+  },
+  {
+   "id": "G8",
+   "group": "named by a commentator | āgama | X",
+   "verdict": "mixed",
+   "how_checked": "Passages located and read in context.",
+   "licensed": [
+    "6.4.77"
+   ],
+   "not_licensed": [
+    {
+     "n": "3.4.103",
+     "word": "named by काशिका",
+     "line": "3.4.103 named by काशिका  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+     "should_be": "none",
+     "reason": "FALSE_MATCH",
+     "why": "\"ङिच्च\" here is the sūtra's own word (yāsuṭ is ṅit — an augment, not a substitute); 1.1.53 is not involved.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "34103",
+       "quote": "परस्मैपदविषयस्य लिङो यासुडागमो भवति, स चोदात्तो भवति, ङिच्च।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 1 · not licensed 1 · unsure 0"
+  },
+  {
+   "id": "G9",
+   "group": "own word, data case 1 | vidhi | X: a … substitute of more than one sound",
+   "verdict": "licensed",
+   "how_checked": "Engine trigger + Kāśikā.",
+   "licensed": [
+    "4.1.97",
+    "5.4.131"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "licensed 2 · not licensed 0 · unsure 0"
+  },
+  {
+   "id": "G10",
+   "group": "carried / not a sūtra word | vidhi | X: a … substitute of more than one sound",
+   "verdict": "licensed",
+   "how_checked": "Carried अनङ् (धनुस् → धन्वन्).",
+   "licensed": [
+    "5.4.132",
+    "5.4.133"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "licensed 2 · not licensed 0 · unsure 0"
+  },
+  {
+   "id": "G11",
+   "group": "carried / not a sūtra word | ādeśa | X: a … substitute of more than one sound",
+   "verdict": "licensed",
+   "how_checked": "Carried आनङ्/अनङ्.",
+   "licensed": [
+    "6.3.26",
+    "7.1.94"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "licensed 2 · not licensed 0 · unsure 0"
+  },
+  {
+   "id": "G12",
+   "group": "own word, data case 1 | āgama | X: a … substitute of more than one sound",
+   "verdict": "licensed",
+   "how_checked": "Engine trigger + SK \"ङिच्चेत्यन्तादेशः\" (6.4.77); अनङ् for अस्थि etc.",
+   "licensed": [
+    "6.4.77",
+    "7.1.75"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "licensed 2 · not licensed 0 · unsure 0"
+  },
+  {
+   "id": "G13",
+   "group": "named by a commentator | niṣedha | X",
+   "verdict": "not licensed",
+   "how_checked": "Passage located and read.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "1.1.5",
+     "word": "named by न्यासः",
+     "line": "1.1.5 named by न्यासः  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+     "should_be": "none",
+     "reason": "FALSE_MATCH",
+     "why": "Nyāsa cites 3.4.103 (yāsuṭ ङिच्च) in an argument about ṅit lakāras; not 1.1.53.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "11005",
+       "quote": "इति यत् तस्य यासुटो ङ्द्विचनं तन्न कुर्यात्"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 0 · not licensed 1 · unsure 0"
+  },
+  {
+   "id": "G14",
+   "group": "named by a commentator | atideśa | X",
+   "verdict": "not licensed",
+   "how_checked": "Passage located and read.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "3.4.87",
+     "word": "named by न्यासः",
+     "line": "3.4.87 named by न्यासः  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+     "should_be": "none",
+     "reason": "FALSE_MATCH",
+     "why": "Nyāsa discusses a hypothetical wording \"सेर्हि ङिच्च\" (हि is ṅit) — an atideśa of ṅit-ness, not 1.1.53.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "34087",
+       "quote": "इत्येवोच्येत? नैवं शक्यम्; ङित्त्वस्य विधाने स्थानिवद्भावातम् पित्त्वं स्यादेव।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 0 · not licensed 1 · unsure 0"
+  },
+  {
+   "id": "G15",
+   "group": "carried / not a sūtra word | svara | X: a … substitute of more than one sound",
+   "verdict": "licensed",
+   "how_checked": "Carried अवङ् (इन्द्रे च).",
+   "licensed": [
+    "6.1.124"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "licensed 1 · not licensed 0 · unsure 0"
+  },
+  {
+   "id": "G16",
+   "group": "named by a commentator | āgama | X (English)",
+   "verdict": "not licensed",
+   "how_checked": "Passage located and read.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "7.2.10",
+     "word": "named by Vasu",
+     "line": "7.2.10 named by Vasu  ⟨a ङित् replacement replaces only the last sound, even if it has severa⟩",
+     "should_be": "none",
+     "reason": "FALSE_MATCH",
+     "why": "Vasu's \"[[1.1.53]]\" is a dhātupāṭha number tagged as a sūtra link (वह् I.1053); nothing to do with ङिच्च.",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "72010",
+       "quote": "वह् 'to carry' [[1.1.53]] वोढा"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 0 · not licensed 1 · unsure 0"
+  },
+  {
+   "id": "G17",
+   "group": "carried / not a sūtra word | ādeśa | X: 1.1.53 … (not 1.1.55 — paribhāṣā audi",
+   "verdict": "licensed",
+   "how_checked": "Engine trigger + Kāśikā (शी → शय्).",
+   "licensed": [
+    "7.4.22"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "licensed 1 · not licensed 0 · unsure 0"
+  }
+ ],
+ "missed": [
+  {
+   "n": "4.1.126",
+   "pid": "1.1.53",
+   "why": "इनङ् (कल्याण्यादीनामिनङ्) is a ṅit multi-sound substitute that replaces only the final ई/आ of कल्याणी etc. (काल्याणिनेयः); no 1.1.53 credit (no 1.1.52–55 credit at all). The only ṅit substitute I found uncredited (script: every nominative sūtra word ending in ङ् without a 1.1.53 entry; the rest are suffixes, lakāras, augments).",
+   "quotes": [
+    {
+     "file": "kaumudi",
+     "id": "41126",
+     "quote": "एषामिनङादेशः स्यात् ढक् च ।"
+    },
+    {
+     "file": "kashika",
+     "id": "41126",
+     "quote": "तत्सन्नियोगेन चेनङादेशः"
+    }
+   ]
+  }
+ ]
+}

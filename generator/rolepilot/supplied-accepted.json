@@ -1,0 +1,1217 @@
+{
+ "1.4.16|पूर्वम्": {
+  "kind": "paribhasha",
+  "sutra": "1.1.66",
+  "sutraText": "तस्मिन्निति निर्दिष्टे पूर्वस्य",
+  "explain": "a locative condition: the term goes to what precedes it",
+  "ref": "KV",
+  "quote": "सिति प्रत्यये परतः पूर्वं पदसंज्ञं भवति"
+ },
+ "1.4.17|पूर्वम्": {
+  "kind": "paribhasha",
+  "sutra": "1.1.66",
+  "sutraText": "तस्मिन्निति निर्दिष्टे पूर्वस्य",
+  "explain": "a locative condition: the term goes to what precedes it",
+  "ref": "KV",
+  "quote": "पूर्वं पदसंज्ञं भवति"
+ },
+ "1.4.18|पूर्वम्": {
+  "kind": "paribhasha",
+  "sutra": "1.1.66",
+  "sutraText": "तस्मिन्निति निर्दिष्टे पूर्वस्य",
+  "explain": "a locative condition: the term goes to what precedes it",
+  "ref": "KV",
+  "quote": "प्रत्यये परतः पूर्वं भसंज्ञं भवति"
+ },
+ "1.4.109|वर्णानाम्": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The word is supplied by convention because phonological proximity naturally pertains to speech sounds.",
+  "ref": "SK",
+  "quote": "वर्णानामतिशयितः सन्निधिः संहितासंज्ञः स्यात्"
+ },
+ "3.1.102|वह्": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The verbal root वह् is supplied by the commentary by analyzing the nipātana form वह्यम्.",
+  "ref": "KV",
+  "quote": "वहेर्धातोः करणे यत् प्रत्ययो निपात्यते"
+ },
+ "1.2.1|प्रत्ययः": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The word pratyayāḥ is supplied by the commentary as the substantive qualified by añ-ṇit.",
+  "ref": "KV",
+  "quote": "परेऽञ्णितः प्रत्यया ङितो भवन्ति"
+ },
+ "1.2.23|धातोः": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "Commentators supply dhātoḥ from context as the substantive bearing the characteristics nopadha and thaphānta.",
+  "ref": "KV",
+  "quote": "नकारोपधाद् धातोस्थकारान्तात् फकारान्ताच्च"
+ },
+ "1.2.26|धातोः": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "Commentators supply dhātoḥ as the substantive possessing penult u/i and ending in ral.",
+  "ref": "KV",
+  "quote": "उकारोपधादिकारोपधाच्च धातोः रलन्ताद्धलादेः परः"
+ },
+ "1.2.33|वाक्यम्": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The commentary supplies vākyam because calling out from a distance applies to an entire sentence.",
+  "ref": "KV",
+  "quote": "एकश्रुति वाक्यं भवति"
+ },
+ "1.2.34|मन्त्रः": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The commentary supplies mantraḥ as the subject that becomes monotone during a sacrifice.",
+  "ref": "SK",
+  "quote": "यज्ञक्रियायां मन्त्र एकश्रुतिः स्याज्जपादीन्वर्जयित्वा"
+ },
+ "1.3.12|धातोः": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The commentary supplies dhātoḥ because ātmanepada affixes are prescribed after verbal roots.",
+  "ref": "SK",
+  "quote": "धातोर्लस्य स्थाने आत्मनेपदं स्यात्"
+ },
+ "1.3.13|धातोः": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The commentary supplies dhātoḥ from context since ātmanepada endings replace lakāras attached to roots.",
+  "ref": "PV",
+  "quote": "भावे कर्मणि चार्थे धातोरात्मनेपद भवति"
+ },
+ "1.3.14|धातोः": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The commentary supplies dhātoḥ as the substantive expressing action characterized by reciprocal exchange.",
+  "ref": "KV",
+  "quote": "तद्विशिष्टक्रियावचनाद् धातोरात्मनेपदं भवति"
+ },
+ "4.3.11|शेषे": {
+  "kind": "adhikara",
+  "sutra": "4.2.92",
+  "sutraText": "शेषे",
+  "explain": "The governing condition 'शेषे' heads the section from 4.2.92 through 4.3.133.",
+  "ref": "KV",
+  "quote": "प्रातिपदिकाट् ठञ् प्रत्ययो भवति शैषिकः"
+ },
+ "4.3.104|छन्दसि": {
+  "kind": "carried",
+  "sutra": "4.3.106",
+  "sutraText": "शौनकादिभ्यश्छन्दसि",
+  "explain": "The qualification 'छन्दसि' is attracted by apakarṣa from 4.3.106.",
+  "ref": "PV",
+  "quote": "प्रोक्तार्थे णिनिः प्रत्ययो भवति छन्दसि विषये॥"
+ },
+ "4.3.107|छन्दसि": {
+  "kind": "carried",
+  "sutra": "4.3.106",
+  "sutraText": "शौनकादिभ्यश्छन्दसि",
+  "explain": "The word 'छन्दसि' continues by anuvṛtti from the preceding sūtra 4.3.106.",
+  "ref": "KV",
+  "quote": "छन्दसीत्येव — काठाः। चारकाः॥"
+ },
+ "4.4.33|प्रातिपदिकात्": {
+  "kind": "adhikara",
+  "sutra": "4.1.1",
+  "sutraText": "ङ्याप्प्रातिपदिकात्",
+  "explain": "The base term 'प्रातिपदिकात्' is supplied by the governing heading 4.1.1.",
+  "ref": "PV",
+  "quote": "द्वितीयासमर्थात् प्रातिपदिकात्"
+ },
+ "4.4.141|स्वार्थे": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "A taddhita affix ordained without an assigned meaning occurs in the sense of the base itself (svārthe).",
+  "ref": "KV",
+  "quote": "नक्षत्रशब्दाद् घः प्रत्ययो भवति स्वार्थे।"
+ },
+ "4.4.142|स्वार्थे": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "By general rule, an affix with no specific meaning mentioned takes the meaning of the base (svārthe).",
+  "ref": "SK",
+  "quote": "स्वार्थे । सविता नः सुवतुसर्वतातिम्"
+ },
+ "5.1.118|स्वार्थे": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "By convention, a suffix ordained without a specific meaning applies in the meaning of the base itself (स्वार्थे).",
+  "ref": "KV",
+  "quote": "वर्तमानात् स्वार्थे वतिः प्रत्ययो"
+ },
+ "5.2.5|तृतीयासमर्थात्": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The third-case condition is supplied by semantic appropriateness with the word कृतः.",
+  "ref": "BM",
+  "quote": "औचित्यादिह तृतीया समर्थविभक्तिः"
+ },
+ "5.2.14|कर्मकारिन्": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The meaning of working for hire is supplied by commentary convention to explain the nipātana.",
+  "ref": "KV",
+  "quote": "कर्मकारिणि खः प्रत्ययो निपात्यते"
+ },
+ "5.2.23|खञ्": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The suffix खञ् is supplied by commentary convention as part of the analysis of this nipātana.",
+  "ref": "SK",
+  "quote": "विकारार्थे खञ् च निपात्यते"
+ },
+ "5.2.23|हियङ्गु": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The substitute हियङ्गु for ह्योगोदोह is supplied by convention to derive the nipātana.",
+  "ref": "SK",
+  "quote": "ह्योगोदोहस्य हियङ्गुरादेशः"
+ },
+ "3.1.103|ऋ": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The root ऋ is supplied by the commentaries to analyze the nipātana form अर्यः.",
+  "ref": "SK",
+  "quote": "ऋ गतौ । अस्माद्यत् ।"
+ },
+ "3.1.104|उपपूर्वात् सर्तेः": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The root सृ with prefix उप is supplied by the commentaries to analyze the nipātana form उपसर्या.",
+  "ref": "KV",
+  "quote": "उपपूर्वात् सर्तेर्यत् प्रत्ययः।"
+ },
+ "3.1.105|जीर्यतेः": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The root जॄ (जीर्यति) is supplied by the commentaries to analyze the nipātana form अजर्यम्.",
+  "ref": "SK",
+  "quote": "नञ्पूर्वाज्जीर्यतेः कर्तरि यत्"
+ },
+ "3.1.128|ण्यत्": {
+  "kind": "carried",
+  "sutra": "3.1.124",
+  "sutraText": "ऋहलोर्ण्यत्",
+  "explain": "The suffix ण्यत् carries over from 3.1.124 by anuvṛtti.",
+  "ref": "PV",
+  "quote": "प्रपूर्वान्नयतेः ण्यत् प्रत्ययः"
+ },
+ "3.1.128|नयतेः": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The root नी (नयति) is supplied by the commentaries to analyze the nipātana form प्रणाय्यः.",
+  "ref": "PV",
+  "quote": "प्रपूर्वान्नयतेः"
+ },
+ "3.1.144|कर्तरि": {
+  "kind": "paribhasha",
+  "sutra": "3.4.67",
+  "sutraText": "कर्तरि कृत्",
+  "explain": "The general rule 3.4.67 defines that kṛt suffixes are introduced in the sense of the agent (kartṛ).",
+  "ref": "SK",
+  "quote": "गेहे कर्तरि ग्रहेः कः स्यात्"
+ },
+ "3.1.145|कर्तरि": {
+  "kind": "paribhasha",
+  "sutra": "3.4.67",
+  "sutraText": "कर्तरि कृत्",
+  "explain": "The general rule 3.4.67 defines that kṛt suffixes are introduced in the sense of the agent (kartṛ).",
+  "ref": "KV",
+  "quote": "धातोः ष्वुन् प्रत्ययो भवति शिल्पिनि कर्तरि"
+ },
+ "5.2.23|विकारे": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "In this nipātana sūtra, the meaning 'vikāra' is supplied by grammatical convention as part of the derived form.",
+  "ref": "KV",
+  "quote": "तस्य विकारे खञ् प्रत्ययो भवति संज्ञायाम्।"
+ },
+ "5.2.54|पूरणे": {
+  "kind": "carried",
+  "sutra": "5.2.48",
+  "sutraText": "तस्य पूरणे डट्",
+  "explain": "The semantic condition 'पूरणे' is carried down from sūtra 5.2.48.",
+  "ref": "KV",
+  "quote": "तस्य पूरण इत्यस्मिन् विषये।"
+ },
+ "5.2.55|पूरणे": {
+  "kind": "carried",
+  "sutra": "5.2.48",
+  "sutraText": "तस्य पूरणे डट्",
+  "explain": "The semantic condition 'पूरणे' is carried forward from sūtra 5.2.48.",
+  "ref": "KV",
+  "quote": "तस्य पूरण इत्येतद्विषये।"
+ },
+ "5.2.56|डटः": {
+  "kind": "carried",
+  "sutra": "5.2.48",
+  "sutraText": "तस्य पूरणे डट्",
+  "explain": "The affix 'डट्' is carried from 5.2.48 in the genitive as the augment-bearer.",
+  "ref": "SK",
+  "quote": "एभ्यो डटस्तमडागमो वा स्यात् ।"
+ },
+ "5.2.57|डटः": {
+  "kind": "carried",
+  "sutra": "5.2.48",
+  "sutraText": "तस्य पूरणे डट्",
+  "explain": "The affix 'डट्' continues from 5.2.48 as the entity receiving the augment 'तमट्'.",
+  "ref": "KV",
+  "quote": "परस्य डटो नित्यं तमडागमो भवति।"
+ },
+ "3.3.17|कर्तरि": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The commentators supply 'kartari' because the condition 'sthire' (enduring) logically qualifies the agent of the action.",
+  "ref": "KV",
+  "quote": "सर्तेर्धातोः स्थिरे कर्तरि घञ् प्रत्ययो भवति।"
+ },
+ "3.3.70|ग्रह्": {
+  "kind": "carried",
+  "sutra": "3.3.58",
+  "sutraText": "ग्रहवृदृनिश्चिगमश्च",
+  "explain": "The root 'grah' is carried over from 3.3.58 (vibhāṣā graheḥ).",
+  "ref": "KV",
+  "quote": "ग्रहेरप् सिद्ध एव, लत्वार्थं निपातनम्।"
+ },
+ "3.3.86|सम्-उद्": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The upasargas 'sam' and 'ud' are extracted by the commentators from the nipātana forms 'saṅgha' and 'udgha'.",
+  "ref": "KV",
+  "quote": "समुदोरुपपदयोर्हन्तेर्धातोरप् प्रत्ययो भवति"
+ },
+ "3.3.101|इष्": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The root 'iṣ' is identified by the commentators as the base of the irregularly formed word 'icchā'.",
+  "ref": "KV",
+  "quote": "इषेर्धातोः शः प्रत्ययो यगभावश्च निपात्यते।"
+ },
+ "3.4.109|ङितः": {
+  "kind": "carried",
+  "sutra": "3.4.99",
+  "sutraText": "नित्यं ङितः",
+  "explain": "'ṅitaḥ' is carried over from 3.4.99 (nityaṁ ṅitaḥ).",
+  "ref": "KV",
+  "quote": "ङित इति चानुवर्तते।"
+ },
+ "5.2.58|डटः": {
+  "kind": "carried",
+  "sutra": "5.2.48",
+  "sutraText": "तस्य पूरणे डट्",
+  "explain": "The affix ḍaṭ carries down from 5.2.48.",
+  "ref": "KV",
+  "quote": "परस्य डटो नित्यं तमडागमो भवति"
+ },
+ "5.2.77|पूरणप्रत्ययस्य": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "By commentary interpretation, the word tāvatitham represents an ordinal suffix which undergoes elision.",
+  "ref": "KV",
+  "quote": "पूरणप्रत्ययस्य वा लुक्"
+ },
+ "5.2.77|स्वार्थे": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "An affix taught without a specified meaning is understood to be in the sense of the base itself.",
+  "ref": "KV",
+  "quote": "स्वार्थे कन् प्रत्ययो भवति"
+ },
+ "5.2.92|परक्षेत्रात्": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "Through nipātana, the base word parakṣetra is extracted from the sūtra phrase parakṣetre.",
+  "ref": "KV",
+  "quote": "परक्षेत्राद् वा तत्रेति सप्तमीसमर्थात्"
+ },
+ "5.3.14|तसिलादयः": {
+  "kind": "carried",
+  "sutra": "5.3.7",
+  "sutraText": "पञ्चम्यास्तसिल्",
+  "explain": "The affix tasil, taught in 5.3.7, along with subsequent affixes, carries into this sūtra.",
+  "ref": "KV",
+  "quote": "इतराभ्यो विभक्तिभ्यस्तसिलादयो दृश्यन्ते"
+ },
+ "5.3.17|अश्": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The substitution of aś for idam is established by nipātana in this sūtra.",
+  "ref": "KV",
+  "quote": "इदमोऽश्भावो धुना च प्रत्ययः"
+ },
+ "5.3.83|अङ्गस्य": {
+  "kind": "paribhasha",
+  "sutra": "1.4.13",
+  "sutraText": "यस्मात् प्रत्ययविधिस्तदादि प्रत्ययेऽङ्गम्",
+  "explain": "The base preceding an affix is defined as an aṅga by 1.4.13.",
+  "ref": "KV",
+  "quote": "प्रकृतेर्द्वितीयादच ऊर्ध्वं"
+ },
+ "5.3.112|स्वार्थे": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "An affix taught without an assigned meaning is added in the sense of the base itself.",
+  "ref": "SK",
+  "quote": "तद्वाचकात्स्वार्थे ञ्यः स्यात्"
+ },
+ "5.3.113|स्वार्थे": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "When a suffix is prescribed without any meaning specified, by convention it applies in the meaning of the base itself (svārthe).",
+  "ref": "KV",
+  "quote": "स्वार्थे ञ्यः प्रत्ययो भवत्यस्त्रियाम्"
+ },
+ "5.3.114|स्वार्थे": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "An affix ordained without an assigned meaning is understood by convention to denote the meaning of the base itself (svārthe).",
+  "ref": "KV",
+  "quote": "स्वार्थे ञ्यट् प्रत्ययो भवति"
+ },
+ "5.3.115|स्वार्थे": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "Since no specific semantic condition is stated, the affix applies in the sense of the base itself by grammatical convention.",
+  "ref": "KV",
+  "quote": "स्वार्थे टेण्यण् प्रत्ययो भवति"
+ },
+ "5.3.116|स्वार्थे": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "A suffix introduced without a specified meaning is understood by convention to occur in the sense of the stem itself.",
+  "ref": "KV",
+  "quote": "स्वार्थे छः प्रत्ययो भवति"
+ },
+ "5.3.118|स्वार्थे": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "Because no meaning is specified in the sūtra, the suffix is taught in the sense of the stem itself by convention.",
+  "ref": "KV",
+  "quote": "स्वार्थे यञ् प्रत्ययो भवति"
+ },
+ "5.4.13|स्वार्थे": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "In the absence of a stated meaning, the suffix is understood by convention to convey the sense of the base itself.",
+  "ref": "KV",
+  "quote": "स्वार्थे ठक् प्रत्ययो भवति"
+ },
+ "5.4.14|स्वार्थे": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "When an affix is taught without a particular meaning, it is supplied as svārthe by standard convention.",
+  "ref": "KV",
+  "quote": "स्वार्थेऽञ् प्रत्ययो भवति"
+ },
+ "5.4.32|स्वार्थे": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "A suffix taught without an explicit meaning applies in the sense of the base itself by convention.",
+  "ref": "PV",
+  "quote": "लोहितशब्दात् स्वार्थे कन् प्रत्ययो भवति"
+ },
+ "5.4.33|स्वार्थे": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "A suffix taught without an explicit meaning applies in the sense of the base itself by convention.",
+  "ref": "BM",
+  "quote": "वर्तमानात्स्वार्थे कन्निति फलितम्"
+ },
+ "5.4.34|स्वार्थे": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "A suffix taught without an explicit meaning applies in the sense of the base itself by convention.",
+  "ref": "KV",
+  "quote": "विनय इत्येवमादिभ्यः स्वार्थे ठक् प्रत्ययो भवति"
+ },
+ "5.4.35|स्वार्थे": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "A suffix taught without an explicit meaning applies in the sense of the base itself by convention.",
+  "ref": "KV",
+  "quote": "वाच्शब्दात् स्वार्थे ठक् प्रत्ययो भवति"
+ },
+ "5.4.36|स्वार्थे": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "A suffix taught without an explicit meaning applies in the sense of the base itself by convention.",
+  "ref": "KV",
+  "quote": "कर्मशब्दात् स्वार्थेऽण् प्रत्ययो भवति"
+ },
+ "5.4.37|स्वार्थे": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "A suffix taught without an explicit meaning applies in the sense of the base itself by convention.",
+  "ref": "SK",
+  "quote": "स्वार्थेऽण्"
+ },
+ "5.4.38|स्वार्थे": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "A suffix taught without an explicit meaning applies in the sense of the base itself by convention.",
+  "ref": "KV",
+  "quote": "प्रातिपदिकेभ्यः स्वार्थेऽण् प्रत्ययो भवति"
+ },
+ "5.4.39|स्वार्थे": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "A suffix taught without an explicit meaning applies in the sense of the base itself by convention.",
+  "ref": "KV",
+  "quote": "मृच्छब्दात् स्वार्थे तिकन् प्रत्ययो भवति"
+ },
+ "5.4.24|चतुर्थीसमर्थात्": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The dative case-affix is inferred from the meaning tādarthya (purpose).",
+  "ref": "KV",
+  "quote": "चतुर्थीसमर्थात् तादर्थ्ये यत्"
+ },
+ "5.4.25|चतुर्थीसमर्थाभ्याम्": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The dative case-affix is understood because the suffix is taught in the sense of purpose.",
+  "ref": "KV",
+  "quote": "पादार्घशब्दाभ्यां चतुर्थीसमर्थाभ्यां तादर्थ्ये"
+ },
+ "5.4.26|चतुर्थीसमर्थात्": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The dative case is supplied because the suffix conveys the sense of tādarthya (for the sake of).",
+  "ref": "KV",
+  "quote": "अतिथिशब्दात् चतुर्थीसमर्थात् तादर्थ्ये"
+ },
+ "5.4.27|स्वार्थे": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "When no specific meaning is prescribed for an affix, it is added in the sense of the base itself (svārthe).",
+  "ref": "KV",
+  "quote": "देवशब्दात् स्वार्थे तल् प्रत्ययो भवति"
+ },
+ "5.4.28|स्वार्थे": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The affix ka is added in the base's own meaning by convention when no other meaning is specified.",
+  "ref": "KV",
+  "quote": "अविशब्दात् स्वार्थे कः प्रत्ययो भवति"
+ },
+ "5.4.29|स्वार्थे": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "By grammatical convention, an affix taught without a specific sense applies in the sense of the base.",
+  "ref": "KV",
+  "quote": "याव इत्येवमादिभ्यः स्वार्थे कन् प्रत्ययो भवति"
+ },
+ "5.4.30|स्वार्थे": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The affix kan is added in the sense of the base itself by convention.",
+  "ref": "KV",
+  "quote": "लोहितशब्दाद् मणौ वर्तमानात् स्वार्थे कन् प्रत्ययो भवति"
+ },
+ "5.4.31|स्वार्थे": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "By convention, a suffix prescribed without an explicit meaning is taken in the sense of the stem.",
+  "ref": "KV",
+  "quote": "अनित्ये वर्णे वर्तमानात् लोहितशब्दात् स्वार्थे कन् प्रत्ययो भवति"
+ },
+ "5.4.150|सुशब्दात्": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The term su-śabda is supplied by analyzing the compound suhṛd given directly as a nipātana in the sūtra.",
+  "ref": "KV",
+  "quote": "सुशब्दात् परस्य हृदयशब्दस्य हृद्भावो निपात्यते"
+ },
+ "6.1.27|श्रा": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The verbal root śrā is inferred by commentators as the base of the nipātana form śṛtam.",
+  "ref": "KV",
+  "quote": "श्रा पाके इत्येतस्य धातोर्ण्यन्तस्याण्यन्तस्य च"
+ },
+ "6.1.37|यणः": {
+  "kind": "paribhasha",
+  "sutra": "1.1.45",
+  "sutraText": "इग्यणः सम्प्रसारणम्",
+  "explain": "The definition sūtra 1.1.45 defines samprasāraṇa as the substitution of an ik vowel in place of a yaṇ consonant.",
+  "ref": "KV",
+  "quote": "संप्रसारणे परतः पूर्वस्य यणः संप्रसारणं न भवति।"
+ },
+ "6.1.37|पूर्वस्य": {
+  "kind": "paribhasha",
+  "sutra": "1.1.66",
+  "sutraText": "तस्मिन्निति निर्दिष्टे पूर्वस्य",
+  "explain": "By paribhāṣā 1.1.66, the locative 'samprasāraṇe' indicates that the prohibition applies to the preceding element.",
+  "ref": "KV",
+  "quote": "संप्रसारणे परतः पूर्वस्य यणः संप्रसारणं न भवति।"
+ },
+ "6.1.61|शिरस्": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The sthānin śiras is conventionally implied as the suitable original base for the substitute śīrṣan.",
+  "ref": "KV",
+  "quote": "स तदनुरूपां प्रकृतिं शिरःशब्दमाक्षिपति।"
+ },
+ "6.1.62|शिरस्": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The sthānin śiras is understood from the context as the base replaced by śīrṣa before vowel-initial taddhita affixes.",
+  "ref": "KV",
+  "quote": "आजादौ तद्धिते शिरसः शीर्षशब्द आदेशो भवति।"
+ },
+ "6.1.63|पाद-दन्त-नासिका-मास-हृदय-निशा-असृज्-यूष-दोष-यकृत्-शकृत्-उदक-आस्यानाम्": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The original stems (sthānins) are not named in the sūtra but are inferred from their corresponding substitute forms.",
+  "ref": "PV",
+  "quote": "आदेशानुरूपप्रकृत्याक्षेपात् स्थानिनः परिज्ञानं भवति"
+ },
+ "6.1.129|प्लुतः": {
+  "kind": "carried",
+  "sutra": "6.1.125",
+  "sutraText": "प्लुतप्रगृह्या अचि नित्यम्",
+  "explain": "'प्लुतः' is carried forward from 6.1.125 with the vibhakti shifted to the nominative singular.",
+  "ref": "KV",
+  "quote": "तस्मिन् परतः प्लुतोऽप्लुतवद् भवति।"
+ },
+ "6.1.222|पूर्वस्य": {
+  "kind": "paribhasha",
+  "sutra": "1.1.66",
+  "sutraText": "तस्मिन्निति निर्दिष्टे पूर्वस्य",
+  "explain": "a locative condition: the term goes to what precedes it",
+  "ref": "KV",
+  "quote": "तस्मिन् परतः पूर्वस्यान्त उदात्तो भवति।"
+ },
+ "4.2.83|प्रत्ययस्य": {
+  "kind": "paribhasha",
+  "sutra": "1.1.61",
+  "sutraText": "प्रत्ययस्य लुक्श्लुलुपः",
+  "explain": "The definition rule 1.1.61 specifies that elision designated by lup applies to an affix (pratyaya).",
+  "ref": "KV",
+  "quote": "प्रत्ययस्य वा लुब् भवति"
+ },
+ "4.2.126|देशे": {
+  "kind": "carried",
+  "sutra": "4.2.67",
+  "sutraText": "तदस्मिन्नस्तीति देशे तन्नाम्नि",
+  "explain": "The word deśe runs on from 4.2.67 to specify that the base must name a place or country.",
+  "ref": "KV",
+  "quote": "देश इत्येव।"
+ },
+ "4.2.127|देशे": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The condition that the bases denote place names is supplied as an ellipsis by commentary convention.",
+  "ref": "BM",
+  "quote": "देशवाचिभ्यो वु॑ञिति शेषपूरणम्"
+ },
+ "6.4.42|क्ङिति": {
+  "kind": "carried",
+  "sutra": "6.4.37",
+  "sutraText": "अनुदात्तोपदेशवनतितनोत्यादीनामनुनासिक लोपो झलि क्ङिति",
+  "explain": "Carried from sūtra 6.4.37 (अनुदात्तोपदेशवनतितनोत्यादीनामनुनासिकलोपो झलि क्ङिति).",
+  "ref": "KV",
+  "quote": "झलि क्ङिति इति चानुवर्तते"
+ },
+ "6.4.43|क्ङिति": {
+  "kind": "carried",
+  "sutra": "6.4.37",
+  "sutraText": "अनुदात्तोपदेशवनतितनोत्यादीनामनुनासिक लोपो झलि क्ङिति",
+  "explain": "Carried from sūtra 6.4.37 (अनुदात्तोपदेशवनतितनोत्यादीनामनुनासिकलोपो झलि क्ङिति).",
+  "ref": "BM",
+  "quote": "अनुदात्तोपदेशेत्यतः क्ङितीति"
+ },
+ "6.4.53|तृचि": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "Supplied by the commentary to explain the nipātana form जनिता, which is derived with the suffix तृच्.",
+  "ref": "SK",
+  "quote": "इडादौ तृचि णिलोपो निपात्यते"
+ },
+ "6.4.54|तृचि": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "Supplied by the commentary to explain the nipātana form शमिता, which is derived with the suffix तृच्.",
+  "ref": "KV",
+  "quote": "इडादौ तृचि णिलोपो निपात्यते"
+ },
+ "6.2.27|उदात्तः": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The Kāśikā explicitly notes that 'उदात्तः' is understood here through contextual sense (सामर्थ्यात्).",
+  "ref": "KV",
+  "quote": "उदात्त इत्येतदत्र सामर्थ्याद् वेदितव्यम्"
+ },
+ "6.2.143|उदात्तः": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The Kāśikā states that under this adhikāra, the final vowel is to be understood as udātta.",
+  "ref": "KV",
+  "quote": "उदात्तो भवतीत्येवं तद् वेदितव्यम्"
+ },
+ "7.3.31|किति": {
+  "kind": "carried",
+  "sutra": "7.2.118",
+  "sutraText": "किति च",
+  "explain": "The condition 'किति' is carried forward from Pāṇini's rule 'क्ङिति च' (7.2.118).",
+  "ref": "KV",
+  "quote": "तद्धिते ञिति णिति किति च परतः।"
+ },
+ "7.3.117|नद्याः": {
+  "kind": "carried",
+  "sutra": "7.3.116",
+  "sutraText": "ङेराम्नद्याम्नीभ्यः",
+  "explain": "The condition of being नदी-संज्ञक is carried over from 'ङेराम्नद्याम्नीभ्यः' (7.3.116).",
+  "ref": "SK",
+  "quote": "नदीसंज्ञकाभ्यामिदुद्भ्यां परस्य"
+ },
+ "7.3.119|इदुद्भ्याम्": {
+  "kind": "carried",
+  "sutra": "7.3.117",
+  "sutraText": "इदुद्भ्याम्",
+  "explain": "The term 'इदुद्भ्याम्' is carried forward from sūtra 7.3.117.",
+  "ref": "SK",
+  "quote": "इदुद्भ्यामुत्तरस्य ङेरौत्स्याद्"
+ },
+ "7.4.93|णौ": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The term 'णौ' is supplied by semantic implication as the referent of the bahuvrīhi compound 'चङ्परे'.",
+  "ref": "KV",
+  "quote": "चङ्परे इति णिजातेर्निमित्तत्वेन आक्षेपात्"
+ },
+ "7.4.94|णौ": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The word 'णौ' is supplied as the referent of 'चङ्परे' carried over from 7.4.93.",
+  "ref": "KV",
+  "quote": "लघुनि णौ चङ्परे अनग्लोपे"
+ },
+ "7.4.95|णौ": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The term 'णौ' is understood as the external referent of the bahuvrīhi compound 'चङ्परे'.",
+  "ref": "BM",
+  "quote": "चङ् परो यस्मादिति बहुव्रीहिः"
+ },
+ "8.1.4|पदस्य": {
+  "kind": "adhikara",
+  "sutra": "8.1.16",
+  "sutraText": "पदस्य",
+  "explain": "The heading 'पदस्य' is attracted backward (apakarṣa) from sūtra 8.1.16.",
+  "ref": "BM",
+  "quote": "पदस्येत्यधिकरिष्यमाणमिहापकृष्यते"
+ },
+ "8.1.24|आदेशाः": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The word 'आदेशाः' is the commentators' general noun for the substitutes taught in 8.1.20-23.",
+  "ref": "SK",
+  "quote": "चादिपञ्चकयोगे नैते आदेशाः स्युः"
+ },
+ "7.1.43|एनम्": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The following condition एनम् is understood directly from the analysis of the nipātana form यजध्वैनम्.",
+  "ref": "KV",
+  "quote": "यजध्वमित्येतस्य एनमित्येतस्मिन् परतो मकारलोपो निपात्यते"
+ },
+ "7.1.48|यजेः": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The root यज् is supplied by the commentators from analyzing the nipātana form इष्ट्वीनम्.",
+  "ref": "KV",
+  "quote": "यजेः क्त्वाप्रत्ययान्तस्य ईनमादेशोऽन्त्यस्य निपात्यते।"
+ },
+ "7.1.79|सर्वनामस्थाने": {
+  "kind": "carried",
+  "sutra": "7.1.70",
+  "sutraText": "उगिदचां सर्वनामस्थानेऽधातोः",
+  "explain": "The condition सर्वनामस्थाने is carried over from 7.1.70.",
+  "ref": "BM",
+  "quote": "उगिदचा॑मित्यतः 'सर्वनामस्थाने' इति च अनुवर्तते"
+ },
+ "7.2.61|उपदेशे": {
+  "kind": "carried",
+  "sutra": "7.2.62",
+  "sutraText": "उपदेशेऽत्वतः",
+  "explain": "The word उपदेशे is brought back by apakarṣa from the subsequent sūtra 7.2.62.",
+  "ref": "BM",
+  "quote": "'उपदेशेऽत्वत' इत्युत्तरसूत्रादुपदेश इत्यपकृष्यत"
+ },
+ "7.3.30|किति": {
+  "kind": "carried",
+  "sutra": "7.2.118",
+  "sutraText": "किति च",
+  "explain": "The condition किति continues to govern from 7.2.118 into the taddhita vṛddhi section.",
+  "ref": "KV",
+  "quote": "तद्धिते ञिति णिति किति च परतः।"
+ },
+ "8.1.25|आदेशाः": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The term ādeśāḥ is supplied by the commentators to refer to the substitutes vām, nau, etc., taught in 8.1.20–23.",
+  "ref": "SK",
+  "quote": "एते आदेशा न स्युः"
+ },
+ "8.2.13|मतौ": {
+  "kind": "carried",
+  "sutra": "8.2.9",
+  "sutraText": "मादुपधायाश्च मतोर्वोऽयवादिभ्यः",
+  "explain": "The word matoḥ is carried from 8.2.9 and interpreted in the locative case as matau.",
+  "ref": "KV",
+  "quote": "मतावुदन्भावो निपात्यत"
+ },
+ "8.2.67|सम्बुद्धौ": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The commentators supply sambuddhau to specify the domain where this irregular lengthening is valid.",
+  "ref": "SK",
+  "quote": "एते संबुद्धौ कृतदीर्घा निपात्यन्ते"
+ },
+ "8.2.71|रुः": {
+  "kind": "carried",
+  "sutra": "8.2.66",
+  "sutraText": "ससजुषो रुः",
+  "explain": "The term ruḥ is carried over from 8.2.66 as an alternative substitute in Vedic usage.",
+  "ref": "KV",
+  "quote": "रुर्वा रेफो वा"
+ },
+ "8.3.37|विसर्जनीयः": {
+  "kind": "carried",
+  "sutra": "8.3.35",
+  "sutraText": "शर्परे विसर्जनीयः",
+  "explain": "The word visarjanīyaḥ is attracted from 8.3.35 by the particle ca as an alternative option.",
+  "ref": "KV",
+  "quote": "चकाराद् विसर्जनीयश्च"
+ },
+ "8.4.14|धातोः": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The commentators supply dhātoḥ as the head noun qualified by ṇopadeśasya, since roots have ṇ in their citation form.",
+  "ref": "KV",
+  "quote": "णोपदेशस्य धातोर्यो नकारः"
+ },
+ "_about": "Read and accepted by Claude 2026-11-18 from rolepilot/supplied-src.json (Gemini proposals, quotes program-checked). Rejected: ङीप् 4.1.30–39 (source disputed earlier), 6.1.194/6.1.63/6.1.131/6.1.195 (stretched), 5 weak conventions; 1.4.16–18 and 6.1.222 corrected 1.1.67 → 1.1.66; “unclear” and check failures stay “supplied”. 2026-11-18 later: 29 more from a Sonnet helper pass over the 50 left (quotes program-checked, each read; rejected 5.1.121; 20 “unclear” stay). Last 9 settled by Claude from the neighbouring commentary (quotes checked): ङीप् 4.1.31/36/37, 5.1.100, 5.1.121, 6.1.63 (KV: commentators differ), 6.1.194 (SK reads अभ्यस्तानाम्), 6.4.26–27.",
+ "1.3.15|धातुभ्यः": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "गतिहिंसार्थेभ्यः is itself an adjective (roots meaning motion or injury); the commentary simply names the noun it describes, roots (धातुभ्यः), since this whole rule is about verbs.",
+  "ref": "KV",
+  "quote": "धातुभ्यः कर्मव्यतिहारे आत्मनेपदं न भव",
+  "by": "agent"
+ },
+ "1.3.16|धातोः": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "उपपदात् needs a noun to go with it; the commentary supplies धातोः (root) because this rule, like the one before it, is about verbs taking or not taking आत्मनेपद.",
+  "ref": "KV",
+  "quote": "पदाद्धातोः कर्मव्यतिहारे",
+  "by": "agent"
+ },
+ "2.3.35|तृतीया": {
+  "kind": "carried",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The Bālamanoramā says the sūtra's च reaches back and pulls in तृतीया from an earlier, non-adjacent rule, the same way it pulls in पञ्चमी.",
+  "ref": "BM",
+  "quote": "चकारो व्यवहितयोरपि पञ्चमीतृतीययोः समुच्चयार्थः",
+  "by": "agent"
+ },
+ "3.2.164|गमः": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "गत्वर is an irregularly formed (निपातन) word; the commentary just names which root it is built from, गम् (to go) — that is not borrowed from another sūtra.",
+  "ref": "KV",
+  "quote": "गत्वर इति निपात्यते। गमेरनुनासिकलोपः क्वरप्",
+  "by": "agent"
+ },
+ "4.1.30|ङीप्": {
+  "kind": "carried",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The Bālamanoramā states outright that ङीप् continues here by anuवृत्ति from the earlier rule संख्याव्ययादेर्ङीप्.",
+  "ref": "BM",
+  "quote": "देर्ङी॑बित्यतो ङीबित्यनुवर्तते",
+  "by": "agent"
+ },
+ "4.1.32|ङीप्": {
+  "kind": "carried",
+  "sutra": "4.1.5",
+  "sutraText": "ऋन्नेभ्यो ङीप्",
+  "explain": "The Kāśikā says ङीप् is not newly stated here but is 'already accomplished' (सिद्धः) simply because the word ends in न् — exactly the condition of ऋन्नेभ्यो ङीप् (4.1.5).",
+  "ref": "KV",
+  "quote": "ङीप् च प्रत्ययः, स तु नकारान्तत्वादेव सिद्धः",
+  "by": "agent"
+ },
+ "4.1.35|ङीप्": {
+  "kind": "carried",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The Kāśikā says ङीप् 'is obtained anyway' (लभ्यते एव) from an earlier rule — this sūtra only adds that it is obligatory and changes पति to पत्नी.",
+  "ref": "KV",
+  "quote": "ङीप् तु लभ्यत एव। पूर्वेण विकल्पे प्राप्ते वचन",
+  "by": "agent"
+ },
+ "4.1.38|ङीप्": {
+  "kind": "carried",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The Bālamanoramā explicitly lists ङीप् among the words continuing by anuवृत्ति into this rule, along with ऐ च and उदात्तः.",
+  "ref": "BM",
+  "quote": "उदात्त इति, ङीबिति चानुवर्तते",
+  "by": "agent"
+ },
+ "4.1.39|ङीप्": {
+  "kind": "carried",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The Bālamanoramā explicitly says वा and ङीप् both continue here by anuवृत्ति from the earlier rules.",
+  "ref": "BM",
+  "quote": "वेति ङीबिति चानुवर्तते",
+  "by": "agent"
+ },
+ "4.3.102|छन्दसि": {
+  "kind": "carried",
+  "sutra": "4.3.106",
+  "sutraText": "शौनकादिभ्यश्छन्दसि",
+  "explain": "The Kāśikā says छन्दसि is drawn in by anuवृत्ति from the later rule शौनकादिभ्यश्छन्दसि (4.3.106).",
+  "ref": "KV",
+  "quote": "शौनकादिभ्यश्छन्दसि>> [[४.३.१०६]] इत्यत्रास्यानुवृत्तेः",
+  "by": "agent"
+ },
+ "5.1.15|चतुर्थीसमर्थात्": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The Bālamanoramā itself flags this as a filled-in ellipsis ('...न्तात् इति शेषः') — the standard reading that a thing's purpose is expressed by the 4th case, not a word borrowed from a numbered rule shown here.",
+  "ref": "BM",
+  "quote": "न्ता॑दिति शेषः । अञ्स्यादिति ",
+  "by": "agent"
+ },
+ "5.1.99|तृतीयासमर्थात्": {
+  "kind": "carried",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The Kāśikā opens by saying 'तेन इत्येव' — the word तेन (and so the 3rd-case condition) continues here by anuवृत्ति from an earlier rule.",
+  "ref": "KV",
+  "quote": "तेनेत्येव। तृतीयासमर्थात् संपादिन्यभिधेये ठञ्",
+  "by": "agent"
+ },
+ "5.2.41|अस्य": {
+  "kind": "carried",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The Bālamanoramā states outright, 'तदस्य इति अनुवर्तते' — अस्य continues here by anuवृत्ति from an earlier rule.",
+  "ref": "BM",
+  "quote": "तदस्येत्यनुवर्तते",
+  "by": "agent"
+ },
+ "5.2.42|अस्य": {
+  "kind": "carried",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The Kāśikā opens with 'तदस्य इत्येव' — अस्य is carried on here by anuवृत्ति, the same word noted for the previous sūtra.",
+  "ref": "KV",
+  "quote": "तदस्येत्येव। संख्याया अवयवे वर्तमानाया अस्येति",
+  "by": "agent"
+ },
+ "5.2.53|डटि": {
+  "kind": "carried",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The Kāśikā opens 'डट् इति एव' — डट् (hence डटि, its locative) continues here by anuवृत्ति from an earlier rule that taught it.",
+  "ref": "KV",
+  "quote": "डडित्येव। वतोर्डटि परत इथुगागमो भवति",
+  "by": "agent"
+ },
+ "5.3.117|स्वार्थे": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "No special meaning is named for अण्/अञ् here, so by the standard convention the suffix is simply read in the sense of the base word itself (स्वार्थे).",
+  "ref": "KV",
+  "quote": "आयुधजीविसंघवाचिभ्यः स्वार्थेऽणञौ प्रत्ययौ भवतः",
+  "by": "agent"
+ },
+ "6.1.12|छन्दसि भाषायां च": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The sūtra only lists the three words; the Kāśikā adds, on its own reading, that they are निपातन 'अविशेषेण' (without restriction) — i.e. in both Vedic and the classical language.",
+  "ref": "KV",
+  "quote": "येते शब्दाश्छन्दसि भाषायां चाविशेषेण निपात्यन्ते",
+  "by": "agent"
+ },
+ "6.1.131|पदस्य": {
+  "kind": "carried",
+  "sutra": "6.1.109",
+  "sutraText": "एङः पदान्तादति",
+  "explain": "The Kāśikā says explicitly that पद continues by anuवृत्ति from एङः पदान्तादति (6.1.109).",
+  "ref": "KV",
+  "quote": "पदान्तादति>> [[६.१.१०९]] इत्यतः पदग्रहणमनुवर्तते",
+  "by": "agent"
+ },
+ "6.1.161|आदिः": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The Kāśikā explains that this word 'अनुदात्तस्य' is read with आदिः because, on its own, 'अन्त' (not आदि) would already be the default reading from context — a deliberate choice, not a borrowed word.",
+  "ref": "KV",
+  "quote": "तदेतदनुदात्तग्रहणमादेरनुदात्तस्योदात्तार्थम्",
+  "by": "agent"
+ },
+ "6.1.195|धातोः": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "उपदेशे (in the original root-list) inherently concerns roots; the Kāśikā simply names धातवः as what is being talked about, not as a word fetched from a different numbered rule.",
+  "ref": "KV",
+  "quote": "धातवस्तेषां कर्तृयक्यन्यतरस्यामादिरुदात्तो भवति। लूय",
+  "by": "agent"
+ },
+ "6.1.195|उपदेशे": {
+  "kind": "carried",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The Kāśikā opens 'उपदेशः इति वर्तते' — उपदेशे continues here by anuवृत्ति from an earlier rule.",
+  "ref": "KV",
+  "quote": "उपदेश इति वर्तते। अजन्ता ये उपदेशे धातवस्तेषां",
+  "by": "agent"
+ },
+ "6.3.26|पूर्वपदस्य": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "A compound-internal replacement rule like this one targets the first member (पूर्वपद) by default unless told otherwise; the Kāśikā simply states it that way, not as a word fetched from elsewhere.",
+  "ref": "KV",
+  "quote": "द्वन्द्वस्तत्रोत्तरपदे पूर्वपदस्यानङादेशो भवति",
+  "by": "agent"
+ },
+ "6.3.88|यति": {
+  "kind": "carried",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The Bālamanoramā explains the Siddhānta-kaumudī's 'इत्येव' as meaning this condition 'continues by anuवृत्ति alone' (अनुवर्तते एव).",
+  "ref": "BM",
+  "quote": "इत्येवेति । अनुवर्तत एवेत्यर्थः",
+  "by": "agent"
+ },
+ "6.3.116|पूर्वपदस्य": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "A compound-internal lengthening rule like this one targets the first member (पूर्वपद) by default; the Kāśikā simply states it so, not as a word fetched from a numbered rule shown here.",
+  "ref": "KV",
+  "quote": "पूर्वपदस्य दीर्घो भवति",
+  "by": "agent"
+ },
+ "6.4.37|अनुनासिक": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The Siddhānta-kaumudī says outright that 'अनुनासिक' here is read with its 6th-case ending dropped (लुप्तषष्ठीकम्), as a qualifier of वनति and the तनादि roots — the commentary's own construal of the sūtra's own word, not an anuवृत्ति.",
+  "ref": "SK",
+  "quote": "अनुनासिक-इति लुप्तषष्ठीकं वनतीतरेषां विशेषणम्",
+  "by": "agent"
+ },
+ "6.4.82|धातोः": {
+  "kind": "carried",
+  "sutra": "6.4.77",
+  "sutraText": "अचि श्नुधातुभ्रुवां य्वोरियङुवङौ",
+  "explain": "The Bālamanoramā says धातोः continues by anuवृत्ति, picked out separately from the dvandva 'श्नुधातुभ्रुवाम्' in the earlier rule (अचि श्नुधातुभ्रुवां य्वोरियङुवङौ, 6.4.77).",
+  "ref": "BM",
+  "quote": "द्वन्द्वनिर्देशेऽपि धातोरिति पृथक्कृत्य षष्ठन्तमनुवर्तते",
+  "by": "agent"
+ },
+ "6.4.83|धातोः": {
+  "kind": "carried",
+  "sutra": "6.4.82",
+  "sutraText": "एरनेकाचोऽसंयोगपूर्वस्य",
+  "explain": "The Bālamanoramā says the whole previous rule एरनेकाचः (6.4.82) continues here except एः itself — so धातोः carries forward from it too.",
+  "ref": "BM",
+  "quote": "एरनेकाचः' इति सूत्रं, एरितिवर्जमनुवर्तते",
+  "by": "agent"
+ },
+ "7.2.69|छन्दसि": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "The Kāśikā says this निपातन 'is understood to be Vedic' (छन्दसि इदं निपातनं विज्ञायते) because in ordinary language the word would be सेनिवांस instead — the commentary's own inference from usage, not a borrowed word.",
+  "ref": "KV",
+  "quote": "छन्दसीदं निपातनं विज्ञायते। भाषायां सेनिवांसमिति",
+  "by": "agent"
+ },
+ "8.1.26|आदेशाः": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "आदेशाः is simply the commentary's standing name for the class of substitutes (वाम्, नौ, त्वा, मा, ते, मे, etc.) taught a few rules earlier, used here as their collective label rather than a word fetched by anuवृत्ति.",
+  "ref": "BM",
+  "quote": "वां-नावाद्यादेशा अनन्वादेशे पाक्षिकाः",
+  "by": "agent"
+ },
+ "4.1.31|ङीप्": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "ङीप् runs on in this stretch, from 4.1.26 संख्याव्ययादेर्ङीप् — बालमनोरमा on 4.1.30: “ङीबित्यनुवर्तते”",
+  "ref": "",
+  "quote": "",
+  "by": "claude"
+ },
+ "4.1.36|ङीप्": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "ङीप् runs on in this stretch, from 4.1.26 संख्याव्ययादेर्ङीप् — बालमनोरमा on 4.1.38: “ङीबिति चानुवर्तते”",
+  "ref": "",
+  "quote": "",
+  "by": "claude"
+ },
+ "4.1.37|ङीप्": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "ङीप् runs on in this stretch, from 4.1.26 संख्याव्ययादेर्ङीप् — बालमनोरमा on 4.1.38: “ङीबिति चानुवर्तते”",
+  "ref": "",
+  "quote": "",
+  "by": "claude"
+ },
+ "5.1.100|तृतीयासमर्थाभ्याम्": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "the 3rd-case समर्थ (तेन) runs on from the previous sūtra — काशिका on 5.1.99: “तेनेत्येव”",
+  "ref": "",
+  "quote": "",
+  "by": "claude"
+ },
+ "5.1.121|भावप्रत्ययाः": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "the suffixes of the bhāva section opened at 5.1.119 तस्य भावस्त्वतलौ — काशिका on 5.1.121: “इत उत्तरे ये भावप्रत्ययाः”",
+  "ref": "",
+  "quote": "",
+  "by": "claude"
+ },
+ "6.1.63|छन्दसि": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "commentators differ: some carry छन्दसि here, others apply the rule generally, since पद and the rest are used in ordinary language too — काशिका on 6.1.63: “केचिदत्र छन्दसीत्यनुवर्तयन्ति। अपरे पुनरविशेषेणेच्छन्ति”",
+  "ref": "",
+  "quote": "",
+  "by": "claude"
+ },
+ "6.1.194|अभ्यस्तानाम्": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "runs on from 6.1.189 अभ्यस्तानामादिः, as the Kaumudī reads it — SK on 6.1.194: “अभ्यस्तानामादिरुदात्तो वा णमुलि परे”",
+  "ref": "",
+  "quote": "",
+  "by": "claude"
+ },
+ "6.4.26|नकारस्य": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "the न runs on from 6.4.23 श्नान्नलोपः through 6.4.24 — काशिका on 6.4.26: “उपधाया नकारस्य लोपो भवति”",
+  "ref": "",
+  "quote": "",
+  "by": "claude"
+ },
+ "6.4.27|नकारस्य": {
+  "kind": "convention",
+  "sutra": "",
+  "sutraText": "",
+  "explain": "the न runs on from 6.4.23 श्नान्नलोपः through 6.4.24 — SK on 6.4.27: “रञ्जेर्नलोपः स्यात्”",
+  "ref": "",
+  "quote": "",
+  "by": "claude"
+ }
+}

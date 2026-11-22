@@ -1,0 +1,256 @@
+{
+ "for_your_judgement": [
+  {
+   "id": "82066",
+   "sutra_no": "8.2.66",
+   "sutra": "ससजुषो रुः",
+   "field": "pc (pada)",
+   "now": "ससजुषोः$S$6$2$",
+   "suggested": "स-सजुषोः$S$6$2$",
+   "reason": "style, not an error: a compound left unhyphenated, where most compounds in the pc field are hyphenated (ऋ-हलोः, यञ्-इञोः). But the data also leaves many compounds unhyphenated (e.g. 7.2.86 युष्मदस्मदोः, 5.3.71 अव्ययसर्वनाम्नाम्), so this is your call. A dvandva of the sound स् and the word सजुष्.",
+   "citations": [
+    {
+     "source": "Kāśikā",
+     "on": "8.2.66",
+     "quote": "सकारान्तस्य पदस्य सजुष् इत्येतस्य च रुर्भवति"
+    }
+   ],
+   "settled_by": "Kāśikā (reading only).",
+   "status": "still in the data as of 2026-11-22"
+  },
+  {
+   "id": "82072",
+   "sutra_no": "8.2.72",
+   "sutra": "वसुस्रंसुध्वंस्वनडुहां दः",
+   "field": "pc (pada)",
+   "now": "वसुस्रंसुध्वंस्वनडुहाम्$S$6$3$",
+   "suggested": "वसु-स्रंसु-ध्वंसु-अनडुहाम्$S$6$3$",
+   "reason": "style, not an error: a compound left unhyphenated, where most compounds in the pc field are hyphenated (ऋ-हलोः, यञ्-इञोः). But the data also leaves many compounds unhyphenated (e.g. 7.2.86 युष्मदस्मदोः, 5.3.71 अव्ययसर्वनाम्नाम्), so this is your call. Four members (the suffix वसु and three words); the form also keeps the internal sandhi ध्वंस्व-.",
+   "citations": [
+    {
+     "source": "Kāśikā",
+     "on": "8.2.72",
+     "quote": "वस्वन्तस्य पदस्य सकारान्तस्य, स्रंसु, ध्वंसु, अनडुह् इत्येतेषां च दकारादेशो भवति"
+    }
+   ],
+   "settled_by": "Kāśikā (reading only).",
+   "status": "still in the data as of 2026-11-22"
+  },
+  {
+   "id": "83001",
+   "sutra_no": "8.3.1",
+   "sutra": "मतुवसो रु सम्बुद्धौ छन्दसि",
+   "field": "pc (pada)",
+   "now": "मतुवसोः$S$6$2$",
+   "suggested": "मतु-वसोः$S$6$2$",
+   "reason": "style, not an error: a compound left unhyphenated, where most compounds in the pc field are hyphenated (ऋ-हलोः, यञ्-इञोः). But the data also leaves many compounds unhyphenated (e.g. 7.2.86 युष्मदस्मदोः, 5.3.71 अव्ययसर्वनाम्नाम्), so this is your call. A dvandva of the suffixes मतुप् and वसु.",
+   "citations": [
+    {
+     "source": "Kāśikā",
+     "on": "8.3.1",
+     "quote": "मत्वन्तस्य वस्वन्तस्य च पदस्य रुरित्ययमादेशो भवति"
+    }
+   ],
+   "settled_by": "Kāśikā (reading only).",
+   "status": "still in the data as of 2026-11-22"
+  },
+  {
+   "id": "33144",
+   "sutra_no": "3.3.144",
+   "sutra": "किंवृत्ते लिङ्लृटौ",
+   "field": "pc (pada)",
+   "now": "लिङ्लृटौ$S$1$2$",
+   "suggested": "लिङ्-लृटौ$S$1$2$",
+   "reason": "style, not an error: a compound left unhyphenated, where most compounds in the pc field are hyphenated (ऋ-हलोः, यञ्-इञोः). But the data also leaves many compounds unhyphenated (e.g. 7.2.86 युष्मदस्मदोः, 5.3.71 अव्ययसर्वनाम्नाम्), so this is your call. A dvandva of the lakāras लिङ् and लृट्.",
+   "citations": [
+    {
+     "source": "Kāśikā",
+     "on": "3.3.144",
+     "quote": "धातोर्लिङ्लृटौ प्रत्ययौ भवतः"
+    }
+   ],
+   "settled_by": "Kāśikā (reading only).",
+   "status": "still in the data as of 2026-11-22"
+  },
+  {
+   "id": "53073",
+   "sutra_no": "5.3.73",
+   "sutra": "अज्ञाते",
+   "field": "an",
+   "now": "",
+   "suggested": "तिङः$53056   (add तिङः$53056)",
+   "reason": "the data carries तिङः (5.3.56 तिङश्च) only at 5.3.71. The Kāśikā on 5.3.71 says तिङश्च is “in force here”, and the Kāśikā / prathamāvṛtti read “and after a tiṅanta” in 5.3.73 and 5.3.76 (the prathamāvṛtti also in 5.3.74, 5.3.77, 5.3.85). Whether to list it on each of these sūtras is a question of how far you list a section-wide anuvṛtti, so we leave it to you.",
+   "citations": [
+    {
+     "source": "Kāśikā",
+     "on": "5.3.71",
+     "quote": "तिङश्च>> [[५.३.५६]] इति प्रकृतमत्र संबध्यते"
+    },
+    {
+     "source": "Kāśikā",
+     "on": "5.3.73",
+     "quote": "वर्तमानात् प्रातिपदिकात् तिङन्तात् च स्वार्थे यथाविहितं प्रत्ययो भवति"
+    },
+    {
+     "source": "Kāśikā",
+     "on": "5.3.76",
+     "quote": "सुबन्तात् तिङन्तात् च यथाविहितं प्रत्ययो भवति"
+    },
+    {
+     "source": "prathamāvṛtti (Brahmadatta Jijñāsu), artha",
+     "on": "5.3.74",
+     "quote": "कुत्सितेऽर्थे वर्त्तमानात् प्रातिपदिकात् तिङन्ताच्च यथाविहितं प्रत्ययो भवति"
+    },
+    {
+     "source": "prathamāvṛtti (Brahmadatta Jijñāsu), artha",
+     "on": "5.3.85",
+     "quote": "अल्पेऽर्थे वर्त्तमानात् प्रातिपदिकात् तिङन्ताच यथाविहितं प्रत्ययो भवति"
+    }
+   ],
+   "settled_by": "Kāśikā and prathamāvṛtti (vṛtti readings, not an explicit “इत्येव” at each sūtra).",
+   "status": "still in the data as of 2026-11-22"
+  },
+  {
+   "id": "33130",
+   "sutra_no": "3.3.130",
+   "sutra": "अन्येभ्योऽपि दृश्यते",
+   "field": "an",
+   "now": "कृत्$31093##युच्$33128##छन्दसि$33129",
+   "suggested": "कृत्$31093##ईषत्-दुस्-सुषु$33126##कृच्छ्र-अकृच्छ्र-अर्थेषु$33126##युच्$33128##छन्दसि$33129   (add ईषत्-दुस्-सुषु$33126; add कृच्छ्र-अकृच्छ्र-अर्थेषु$33126)",
+   "reason": "as 3.3.129 (main list): the prathamāvṛtti reads both conditions of 3.3.126 into 3.3.130 too; the Kāśikā on 3.3.130 does not repeat them.",
+   "citations": [
+    {
+     "source": "prathamāvṛtti (Brahmadatta Jijñāsu), artha",
+     "on": "3.3.130",
+     "quote": "कृच्छ्राकृच्छ्रार्थेष्वीषदादिषूपपदेषु युच् प्रत्ययो भवति"
+    }
+   ],
+   "settled_by": "prathamāvṛtti only.",
+   "status": "still in the data as of 2026-11-22"
+  },
+  {
+   "id": "64123",
+   "sutra_no": "6.4.123",
+   "sutra": "राधो हिंसायाम्",
+   "field": "an",
+   "now": "क्ङिति$64098##अभ्यासलोपः$64119##अतः$64120##थलि$64121##सेटि$64121",
+   "suggested": "क्ङिति$64098##अभ्यासलोपः$64119##अतः$64120##एकहल्मध्ये$64120##थलि$64121##सेटि$64121   (add एकहल्मध्ये$64120)",
+   "reason": "not found by our tool, noticed while checking 6.4.122–126: the Mahābhāṣya on 6.4.123 says एकहल्मध्ये runs on into 6.4.123 (and, as an alternative, अतः). The prathamāvṛtti stops एकहल्मध्ये at 6.4.121. The Bhāṣya outranks it, but it offers this as one of two answers.",
+   "citations": [
+    {
+     "source": "Mahābhāṣya",
+     "on": "6.4.123",
+     "quote": "एकहल्मध्ये इति वर्तते"
+    },
+    {
+     "source": "Mahābhāṣya",
+     "on": "6.4.123",
+     "quote": "अथवा -  अत इति वर्तते"
+    },
+    {
+     "source": "prathamāvṛtti (Brahmadatta Jijñāsu), anuvṛtti",
+     "on": "6.4.120",
+     "quote": "'एकहल्मध्ये अनादेशादेः' की ६।४।१२१ तक जायेगी"
+    }
+   ],
+   "settled_by": "Mahābhāṣya (as an option).",
+   "status": "still in the data as of 2026-11-22"
+  }
+ ],
+ "withdrawn": [
+  {
+   "id": "74046",
+   "sutra_no": "7.4.46",
+   "sutra": "दो दद् घोः",
+   "field": "pc",
+   "now": "दथ्$S$1$1$",
+   "earlier_claim": "दथ् → दद् (in ashtadhyayi-errata.json)",
+   "why_withdrawn": "the data is right: the Mahābhāṣya asks whether the replacement ends in त्, द्, ध् or थ् and concludes थ् (दथ्); the Kāśikā and the Siddhānta-kaumudī follow it. Only the prathamāvṛtti writes दद्.",
+   "citations": [
+    {
+     "source": "Mahābhāṣya",
+     "on": "7.4.46",
+     "quote": "थान्तेऽदोषस्तस्मात्थान्तः"
+    },
+    {
+     "source": "Kāśikā",
+     "on": "7.4.46",
+     "quote": "अयमादेशः थान्तः इष्यते"
+    },
+    {
+     "source": "Siddhānta-kaumudī",
+     "on": "7.4.46",
+     "quote": "घुसंज्ञकस्य दा इत्यस्य दथ् स्यात्तादौ किति"
+    }
+   ]
+  },
+  {
+   "id": "62021",
+   "sutra_no": "6.2.21",
+   "sutra": "आशङ्काबाधनेदीयस्सु संभावने",
+   "field": "pc",
+   "now": "आशङ्क-आबाध-नेदियस्सु$S$7$3$",
+   "earlier_claim": "आशङ्क → आशङ्का (in ashtadhyayi-errata.json)",
+   "why_withdrawn": "the stem आशङ्क is what the Kāśikā and the prathamāvṛtti read; only the नेदियस्→नेदीयस् typo stands (kept in the main list).",
+   "citations": [
+    {
+     "source": "Kāśikā",
+     "on": "6.2.21",
+     "quote": "आशङ्क आबाध नेदीयस् इत्येतेषूत्तरपदेषु"
+    },
+    {
+     "source": "prathamāvṛtti (Brahmadatta Jijñāsu), artha",
+     "on": "6.2.21",
+     "quote": "आशङ्क, अबाध, नेदीयस् इत्येतेषूत्तरपदेषु"
+    }
+   ]
+  },
+  {
+   "id": "64007",
+   "sutra_no": "6.4.7",
+   "sutra": "नोपधायाः",
+   "field": "pc",
+   "now": "न$S$$$6",
+   "earlier_claim": "न is read as the negation; it should be नः, 6th (build.js PC_FIX)",
+   "why_withdrawn": "the data does not code न as the negation (that would be न$S$0$0$): it uses its convention for a pada written without a case ending, “$S$$$<case>” (166 uses, e.g. 2.4.36 ल्यप्$S$$$7), here with case 6. The prathamāvṛtti also calls न a pada without a case ending; the Nyāsa calls it a 6th singular. Both mean “of a stem ending in न्”, which is what the data says.",
+   "citations": [
+    {
+     "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+     "on": "6.4.7",
+     "quote": "न अविभक्त्यन्तं पदम्"
+    },
+    {
+     "source": "Nyāsa",
+     "on": "6.4.7",
+     "quote": "न इति षष्ठएकवचनान्तम्"
+    },
+    {
+     "source": "Kāśikā",
+     "on": "6.4.7",
+     "quote": "नान्तस्याङ्गस्योपधाया नामि परतो दीर्घो भवति"
+    }
+   ]
+  },
+  {
+   "id": "84048",
+   "sutra_no": "8.4.48",
+   "sutra": "नादिन्याक्रोशे पुत्रस्य",
+   "field": "pc",
+   "now": "आदिनी$S$$$7",
+   "earlier_claim": "the data gives आदिनी no case; it is the 7th (build.js PC_FIX)",
+   "why_withdrawn": "the data codes आदिनी$S$$$7, i.e. a pada without a case ending used as a 7th — exactly what the prathamāvṛtti says (लुप्तसप्तम्यन्तनिर्देशः) and what the Kāśikā reads (आदिनी परतः).",
+   "citations": [
+    {
+     "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+     "on": "8.4.48",
+     "quote": "आदिनि लुप्तसप्तम्यन्तनिर्देशः"
+    },
+    {
+     "source": "Kāśikā",
+     "on": "8.4.48",
+     "quote": "आदिनी परत आक्रोशे गम्यमाने पुत्रशब्दस्य न द्वे भवतः"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,575 @@
+{
+ "pid": "1.1.69",
+ "generated": "2026-11-20",
+ "input": "audit/1.1.69-firings.json",
+ "totals": {
+  "firings": 31,
+  "licensed": 14,
+  "not_licensed": 17,
+  "unsure": 0,
+  "groups": {
+   "licensed": 5,
+   "not licensed": 5,
+   "mixed": 3,
+   "unsure": 0
+  },
+  "not_licensed_by_should_be": {
+   "none": 16,
+   "1.1.70": 1
+  },
+  "not_licensed_by_reason": {
+   "NAMED_NOT_NEEDED": 1,
+   "NAMED_NOT_APPLIED": 4,
+   "COMMENTATOR_DENIES": 5,
+   "WRONG_WORD": 4,
+   "RULE_IT_EXCLUDES": 1,
+   "TAPARA": 1,
+   "MISNUMBERED": 1
+  },
+  "quotes": 33
+ },
+ "conditions": [
+  {
+   "text": "C1 — 1.1.69: an aṇ (with the later ण्) or an udit sound, when it is NOT itself being taught as a suffix, stands for its savarṇas too (उ = उवर्ण; कु = कवर्ग …).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11069",
+     "quote": "अण् गृह्यमाण उदिच्च सवर्णानां ग्राहको भवति, स्वस्य च रूपस्य, प्रत्ययं वर्जयित्वा।"
+    },
+    {
+     "file": "kaumudi",
+     "id": "11069",
+     "quote": "अविधीयमानोऽण् उदिच्च सवर्णस्य संज्ञा स्यात् ।"
+    },
+    {
+     "file": "kaumudi",
+     "id": "11069",
+     "quote": "कु चु टु तु पु एते उदितः ।"
+    }
+   ]
+  },
+  {
+   "text": "C2 — It does not apply to a sound that is being enjoined (भाव्यमानोऽण् सवर्णान् न गृह्णाति), nor to a tapara sound: for tapara sounds 1.1.70 is the only grahaṇaka rule (Kāśikā: aṇ is not carried into 1.1.70; in अतो भिस ऐस् etc. 1.1.69 does not operate).",
+   "quotes": [
+    {
+     "file": "nyaas",
+     "id": "34106",
+     "quote": "इति न भविष्यति। सत्यपि वा सवर्णग्रहणे मात्रिकस्यान्तरतम्यान्मात्रिक एव भविष्यति।"
+    },
+    {
+     "file": "kashika",
+     "id": "11070",
+     "quote": "विध्यर्थमिदम्। अणिति नानुवर्तते।"
+    },
+    {
+     "file": "kashika",
+     "id": "11070",
+     "quote": "<<अतो भिस ऐस्>> [[७.१.९]] इत्येवमादिषु पूर्वग्रहणकशास्त्रं न प्रवर्तत एव।"
+    }
+   ]
+  },
+  {
+   "text": "C3 — It is not yet in force for the अच् of 1.1.10 नाज्झलौ (so ई and श are not barred from being savarṇa).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "61101",
+     "quote": "<<नाज्झलौ>> [[१.१.१०]] इत्यत्र यदजिति प्रत्याहारग्रहणं तत्र ग्रहणकशास्त्रस्यानभिनिर्वृत्तत्वात् सवर्णा न गृह्यन्त"
+    },
+    {
+     "file": "kaumudi",
+     "id": "11010",
+     "quote": "आकारसहितोऽच् आच्"
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "G1",
+   "group": "named by a commentator | saṃjñā | X",
+   "verdict": "mixed",
+   "how_checked": "Passages located and read in context (script ±220 chars).",
+   "licensed": [
+    "1.1.73"
+   ],
+   "not_licensed": [
+    {
+     "n": "1.1.1",
+     "word": "named by न्यासः",
+     "line": "1.1.1 named by न्यासः  ⟨aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)⟩",
+     "should_be": "none",
+     "reason": "NAMED_NOT_NEEDED",
+     "why": "Nyāsa uses 1.1.69 in a side argument (whether आ counts as taught in the akṣarasamāmnāya); the vṛtti of 1.1.1 (आ, ऐ, औ are vṛddhi; आत् is tapara) does not need it.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "11001",
+       "quote": "इत्यकारेण गृह्रमाणेनाकारस्यापि ग्रहणात्।"
+      },
+      {
+       "file": "kashika",
+       "id": "11001",
+       "quote": "वृद्धि-शब्दः संज्ञात्वेन विधीयते प्रत्येकमादैचां वर्णानां सामान्येन तद्भावितानाम्, अतद्भावितानाञ्च।"
+      }
+     ]
+    },
+    {
+     "n": "1.1.9",
+     "word": "named by बालमनोरमा",
+     "line": "1.1.9 named by बालमनोरमा  ⟨aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)⟩",
+     "should_be": "none",
+     "reason": "NAMED_NOT_APPLIED",
+     "why": "BM only says savarṇa is defined first because 1.1.69 will need it — a forward reference.",
+     "quotes": [
+      {
+       "file": "balamanorama",
+       "id": "11009",
+       "quote": "इति अ इ उ इत्यादिसंज्ञां वक्ष्यन्सवर्णसंज्ञामाह"
+      }
+     ]
+    },
+    {
+     "n": "1.1.10",
+     "word": "named by न्यासः",
+     "line": "1.1.10 named by न्यासः  ⟨aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)⟩",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "For the अच् of नाज्झलौ the grahaṇaka rule is NOT in force (C3); Nyāsa raises it in an objection (\"स्यादेतत्\").",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61101",
+       "quote": "<<नाज्झलौ>> [[१.१.१०]] इत्यत्र यदजिति प्रत्याहारग्रहणं तत्र ग्रहणकशास्त्रस्यानभिनिर्वृत्तत्वात् सवर्णा न गृह्यन्त"
+      },
+      {
+       "file": "kaumudi",
+       "id": "11010",
+       "quote": "आकारसहितोऽच् आच्"
+      }
+     ]
+    },
+    {
+     "n": "1.2.27",
+     "word": "named by महाभाष्यम्",
+     "line": "1.2.27 named by महाभाष्यम्  ⟨aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)⟩",
+     "should_be": "none",
+     "reason": "NAMED_NOT_APPLIED",
+     "why": "The Bhāṣya quotes 1.1.69 while discussing how \"अशब्दसंज्ञा\" might be carried on; 1.2.27 (ह्रस्व/दीर्घ/प्लुत names) does not apply 1.1.69.",
+     "quotes": [
+      {
+       "file": "bhashya",
+       "id": "12027",
+       "quote": "अणुदित्सवर्णस्य चाप्रत्ययः [[1.1.69]] अशब्दसञ्ज्ञायाम् इति।"
+      }
+     ]
+    },
+    {
+     "n": "1.3.5",
+     "word": "named by न्यासः",
+     "line": "1.3.5 named by न्यासः  ⟨aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)⟩",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "Nyāsa asks why टु does not stand for the ṭa-varga by 1.1.69 and answers: its उ is not declared anunāsika (not udit) — 1.1.69 does not apply.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "13005",
+       "quote": "उकार्सयानुनासिकत्वाप्रतिज्ञानात्"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 1 · not licensed 5 · unsure 0 — 1.1.73 licensed: Nyāsa resolves that आ counts as an अच् in \"अचाम्\" through 1.1.69 (\"व्याप्तेर्न्यायादाकारस्यापि गौणमच्त्वमाश्रित्य भविष्यति\")."
+  },
+  {
+   "id": "G2",
+   "group": "own word, data case 5 | vidhi | X: … sound",
+   "verdict": "mixed",
+   "how_checked": "Each word checked against Kāśikā: is it really an udit varga name?",
+   "licensed": [
+    "3.1.98",
+    "5.4.106"
+   ],
+   "not_licensed": [
+    {
+     "n": "3.2.183",
+     "word": "पुवः",
+     "line": "3.2.183 पुवः  ⟨पु = the whole पवर्ग⟩",
+     "should_be": "none",
+     "reason": "WRONG_WORD",
+     "why": "पुवः is the dhātu पू (पूङ्/पूञ्) in the ablative, not the udit पु = पवर्ग.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32183",
+       "quote": "पू इति पूङ्पूञोस्सामान्येन ग्रहणम्।"
+      }
+     ]
+    },
+    {
+     "n": "3.2.185",
+     "word": "पुवः",
+     "line": "3.2.185 पुवः  ⟨पु = the whole पवर्ग⟩",
+     "should_be": "none",
+     "reason": "WRONG_WORD",
+     "why": "पुवः is the dhātu पू, not पवर्ग.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "32185",
+       "quote": "पूङ्पूञोः सामान्येन ग्रहणम्।"
+      }
+     ]
+    },
+    {
+     "n": "5.3.59",
+     "word": "तुः",
+     "line": "5.3.59 तुः  ⟨तु = the whole तवर्ग⟩",
+     "should_be": "none",
+     "reason": "WRONG_WORD",
+     "why": "तुः here is तृ (तृन्/तृच्), not the udit तु = तवर्ग.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "53059",
+       "quote": "तुरिति तृन्तृचोः सामान्येन ग्रहणम्।"
+      }
+     ]
+    },
+    {
+     "n": "5.4.105",
+     "word": "कु-महद्भ्याम्",
+     "line": "5.4.105 कु-महद्भ्याम्  ⟨कु = the whole कवर्ग⟩",
+     "should_be": "none",
+     "reason": "WRONG_WORD",
+     "why": "कु is the word कु (\"bad\": कुब्रह्मः), not कवर्ग.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "54105",
+       "quote": "कुमहद्भ्यां परो यो ब्रह्मा तदन्तात् तत्पुरुषात् टच् प्रत्ययो भवत्यन्यतरस्याम्। कुब्रह्मः, कुब्रह्मा।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 2 · not licensed 4 · unsure 0 — 3.1.98 पोः = पवर्ग and 5.4.106 चु = चवर्ग are licensed (Kāśikā \"पवर्गान्ताद्\", \"चवर्गान्ताद्\")."
+  },
+  {
+   "id": "G3",
+   "group": "own word, data case 5 | vidhi | X: … vowel, not …",
+   "verdict": "licensed",
+   "how_checked": "Kāśikā on each: \"उवर्णान्तात्\" / \"इवर्णान्तात्\" with long-vowel examples (लाव्यम्, पाव्यम्; चयः, जयः).",
+   "licensed": [
+    "3.1.125",
+    "3.3.56",
+    "4.2.71",
+    "4.2.119",
+    "4.3.139",
+    "5.1.2"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "licensed 6 · not licensed 0 · unsure 0"
+  },
+  {
+   "id": "G4",
+   "group": "carried / not a sūtra word | paribhāṣā | X",
+   "verdict": "mixed",
+   "how_checked": "Kāśikā on 1.1.51 and 1.1.70.",
+   "licensed": [
+    "1.1.51"
+   ],
+   "not_licensed": [
+    {
+     "n": "1.1.70",
+     "word": "1.1.70",
+     "line": "1.1.70 1.1.70  ⟨a sound with त् after it stands only for savarṇas of the same length (⟩",
+     "should_be": "none",
+     "reason": "RULE_IT_EXCLUDES",
+     "why": "1.1.70 is its own grahaṇaka rule for tapara sounds; Kāśikā says aṇ is not carried into it and 1.1.69 does not operate for tapara sounds. Crediting 1.1.69 ✔ at 1.1.70 is wrong (at most a \"related\" note).",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "11070",
+       "quote": "विध्यर्थमिदम्। अणिति नानुवर्तते।"
+      },
+      {
+       "file": "kashika",
+       "id": "11070",
+       "quote": "अणामन्येषां च तपराणाम् इदमेव ग्रहणकशास्त्रम्।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 1 · not licensed 1 · unsure 0 — 1.1.51 licensed: उः = ऋ stands for ॠ too (Kāśikā examples किरति, गिरति from कॄ, गॄ)."
+  },
+  {
+   "id": "G5",
+   "group": "named by a commentator | ādeśa | X",
+   "verdict": "not licensed",
+   "how_checked": "Passages read in context.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "3.4.106",
+     "word": "named by न्यासः",
+     "line": "3.4.106 named by न्यासः  ⟨aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)⟩",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "Nyāsa: the अ being enjoined (इटोऽत्) does not take savarṇas — भाव्यमानोऽण् सवर्णान् न गृह्णाति.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "34106",
+       "quote": "इति न भविष्यति। सत्यपि वा सवर्णग्रहणे मात्रिकस्यान्तरतम्यान्मात्रिक एव भविष्यति।"
+      }
+     ]
+    },
+    {
+     "n": "8.2.80",
+     "word": "named by न्यासः",
+     "line": "8.2.80 named by न्यासः  ⟨aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)⟩",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "Nyāsa raises 1.1.69 for the enjoined उ/ऊ of अदस् and rejects it by the same prohibition.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82080",
+       "quote": "इति प्रतिषेधादित्यत आह"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 0 · not licensed 2 · unsure 0"
+  },
+  {
+   "id": "G6",
+   "group": "named by a commentator | vidhi | X (English)",
+   "verdict": "not licensed",
+   "how_checked": "Vasu passages read; Kāśikā on 1.1.70.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "4.1.95",
+     "word": "named by Vasu",
+     "line": "4.1.95 named by Vasu  ⟨aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)⟩",
+     "should_be": "1.1.70",
+     "reason": "TAPARA",
+     "why": "अतः is tapara; per Kāśikā 1.1.70 alone decides it (short अ only) and 1.1.69 does not operate. 1.1.70 is already credited here.",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "41095",
+       "quote": "for this is the force of the letter त् added to अ, by [[1.1.69]] and [[1.1.70]]"
+      },
+      {
+       "file": "kashika",
+       "id": "11070",
+       "quote": "<<अतो भिस ऐस्>> [[७.१.९]] इत्येवमादिषु पूर्वग्रहणकशास्त्रं न प्रवर्तत एव।"
+      }
+     ]
+    },
+    {
+     "n": "4.4.43",
+     "word": "named by Vasu",
+     "line": "4.4.43 named by Vasu  ⟨aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)⟩",
+     "should_be": "none",
+     "reason": "MISNUMBERED",
+     "why": "Vasu's \"svarūpa-vidhi (1.1.69)\" is 1.1.68 स्वं रूपं शब्दस्य…, and he says it does NOT apply (synonyms of समवाय are taken).",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "44043",
+       "quote": "indicating that the <i>svarupa</i>-<i>vidhi</i> (1.1. 69) does not apply"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 0 · not licensed 2 · unsure 0"
+  },
+  {
+   "id": "G7",
+   "group": "own word, data case 6 | vidhi | X: … vowel, not …",
+   "verdict": "licensed",
+   "how_checked": "Kāśikā \"ऋवर्णान्ताद्\".",
+   "licensed": [
+    "3.1.124"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "licensed 1 · not licensed 0 · unsure 0"
+  },
+  {
+   "id": "G8",
+   "group": "carried / not a sūtra word | vidhi | X: an … vowel",
+   "verdict": "licensed",
+   "how_checked": "Kāśikā on 3.3.57: the उ is not tapara (दकारो मुखसुखार्थः), so it covers ऊ (लवः, पवः).",
+   "licensed": [
+    "3.3.57"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "licensed 1 · not licensed 0 · unsure 0"
+  },
+  {
+   "id": "G9",
+   "group": "named by a commentator | ekādeśa | X (English)",
+   "verdict": "licensed",
+   "how_checked": "Vasu passage read; Kāśikā/SK on 6.1.101.",
+   "licensed": [
+    "6.1.101"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "licensed 1 · not licensed 0 · unsure 0 — Licensed on the rule, not on the Vasu passage cited: अकः covers long vowels by the grahaṇaka rule (SK examples श्रीशः, विष्णूदयः; \"ग्रहणकशास्त्रस्य … प्रागनिष्पत्तेः\"). The Vasu sentence that triggered the credit is about 1.1.10, not about reading 6.1.101."
+  },
+  {
+   "id": "G10",
+   "group": "named by a commentator | svara | X",
+   "verdict": "not licensed",
+   "how_checked": "Passage read.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "6.1.185",
+     "word": "named by महाभाष्यम्",
+     "line": "6.1.185 named by महाभाष्यम्  ⟨aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)⟩",
+     "should_be": "none",
+     "reason": "NAMED_NOT_APPLIED",
+     "why": "The Bhāṣya is discussing how the text of 1.1.69–70 is written (asaṃhitā) in an argument about a jñāpaka; 6.1.185 (तित् svarita) does not apply 1.1.69.",
+     "quotes": [
+      {
+       "file": "bhashya",
+       "id": "61185",
+       "quote": "असंहितया निर्देशः करिष्यते"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 0 · not licensed 1 · unsure 0"
+  },
+  {
+   "id": "G11",
+   "group": "named by a commentator | operation | X",
+   "verdict": "not licensed",
+   "how_checked": "Passage read.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "6.3.122",
+     "word": "named by न्यासः",
+     "line": "6.3.122 named by न्यासः  ⟨aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)⟩",
+     "should_be": "none",
+     "reason": "NAMED_NOT_APPLIED",
+     "why": "Nyāsa raises \"1.1.69 would make अ cover आ\" and answers it with tapara (तादपि परः); the point is why varṇa-grahaṇa is needed, not an application of 1.1.69.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "63122",
+       "quote": "इत्यकारो गृह्रमाण आकारमपि ग्राहयिष्यति"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 0 · not licensed 1 · unsure 0"
+  },
+  {
+   "id": "G12",
+   "group": "named by a commentator | adhikāra | X",
+   "verdict": "not licensed",
+   "how_checked": "Passage read.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "8.3.57",
+     "word": "named by न्यासः",
+     "line": "8.3.57 named by न्यासः  ⟨aṇ / an udit sound denotes its savarṇas (उदित् = the whole varga)⟩",
+     "should_be": "none",
+     "reason": "COMMENTATOR_DENIES",
+     "why": "Nyāsa raises an objection that ह would cover आ by 1.1.69 and answers it with 1.1.10; nothing in इण्कोः is read through 1.1.69.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "83057",
+       "quote": "सत्यपीण्कोरिति प्राप्नोत्येव मूर्धन्यः"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 0 · not licensed 1 · unsure 0"
+  },
+  {
+   "id": "G13",
+   "group": "named by a commentator | āgama | X",
+   "verdict": "licensed",
+   "how_checked": "Passage read.",
+   "licensed": [
+    "8.4.2"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "licensed 1 · not licensed 0 · unsure 0 — Licensed: Nyāsa accepts that अट् covers आ (the आङ्) by 1.1.69 and explains आङ्-grahaṇa as serving another purpose."
+  }
+ ],
+ "missed": [
+  {
+   "n": "7.4.32",
+   "pid": "1.1.69",
+   "why": "Kāśikā on 1.1.69 gives अस्य च्वौ and यस्येति च (6.4.148) as its own examples (अ/इ covering ā/ī); neither carries a 1.1.69 credit.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11069",
+     "quote": "<<आद् गुणः>> [[६.१.८७]]। <<अस्य च्वौ>> [[७.४.३२]]। <<यस्येति च>> [[६.४.१४८]]।"
+    }
+   ]
+  },
+  {
+   "n": "6.4.148",
+   "pid": "1.1.69",
+   "why": "As above (Kāśikā example). 6.1.87 आद्गुणः now has a 1.1.69 credit in the current build (added after the firings file).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11069",
+     "quote": "<<आद् गुणः>> [[६.१.८७]]। <<अस्य च्वौ>> [[७.४.३२]]। <<यस्येति च>> [[६.४.१४८]]।"
+    }
+   ]
+  },
+  {
+   "n": "1.3.7",
+   "pid": "1.1.69",
+   "why": "चुटू / लशक्वतद्धिते (1.3.8): चु, टु, कु are udit varga names — Kāśikā's udit examples; no credit.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11069",
+     "quote": "उदित् खल्वपि — <<चुटू>> [[१.३.७]], <<लशक्वतद्धिते>> [[१.३.८]] चवर्गटवर्गयोः कवर्गस्य च ग्रहणं भवति।"
+    }
+   ]
+  },
+  {
+   "n": "6.1.77",
+   "pid": "1.1.69",
+   "why": "Systematic: vowels inside pratyāhāras (इक्, अक्, अच् …) cover their long forms by the grahaṇaka rule (SK on 1.1.10), e.g. इको यणचि; the engine credits 1.1.69 for none of these. Common (every vowel pratyāhāra in an operative rule).",
+   "quotes": [
+    {
+     "file": "kaumudi",
+     "id": "11010",
+     "quote": "अन्यथा दीर्घादीनामिव हकारादीनामपि ग्रहणकशास्त्रबलादच्त्वं स्यात्"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,834 @@
+{
+ "pid": "6.1.158",
+ "generated": "2026-11-20",
+ "input": "audit/6.1.158-firings.json",
+ "conditions": [
+  {
+   "text": "A paribhāṣā on accent rules: wherever an udātta or svarita is taught, the pada is anudātta except the one vowel that rule gives its accent to.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "61158",
+     "quote": "परिभाषेयं स्वरविधिविषया। यत्रान्यः स्वर उदात्तः स्वरितो वा विधीयते, तत्रानुदात्तं पदमेकं वर्जयित्वा भवतीत्येतदुपस्थितं द्रष्टव्यम्।"
+    },
+    {
+     "file": "kashika",
+     "id": "61158",
+     "quote": "कः पुनरेको वर्ज्यते ? यस्यासौ स्वरो विधीयते।"
+    },
+    {
+     "file": "kaumudi",
+     "id": "61158",
+     "quote": "यस्मिन्पदे यस्योदात्तः स्वरितो वा विधीयते तमेकमचं वर्जयित्वा शेषं तत्पदमनुदात्ताच्कं स्यात्"
+    }
+   ]
+  },
+  {
+   "text": "It is kāryakāla: it is present at every rule where such an accent is taught, in the whole Saptādhyāyī (not only book 6) — so it is part of reading those rules.",
+   "quotes": [
+    {
+     "file": "bhashya",
+     "id": "61158",
+     "quote": "कार्यकालं संज्ञापरिभाषम् । यत्र कार्यं तत्रोपस्थितमिदं द्रष्टव्यम् ।"
+    },
+    {
+     "file": "nyaas",
+     "id": "61158",
+     "quote": "परिभाषायां त्वस्यां तेऽपि संगृहीता भवन्ति।"
+    }
+   ]
+  },
+  {
+   "text": "Its domain is the pada, not the sentence.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "61158",
+     "quote": "वाक्ये हि प्रतिपदं स्वरः पृथग् भवति"
+    }
+   ]
+  },
+  {
+   "text": "A tripādī accent is asiddha for it (8.2.1) — explicitly for 8.4.66 — except where a vārttika makes it siddha (the ekādeśa-svara of 8.2.5).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "84066",
+     "quote": "अस्य स्वरितस्यासिद्धत्वाद्  <<अनुदात्तं पदमेकवर्जम्>> [[६.१.१५८]] इत्येतद् न प्रवर्तते।"
+    },
+    {
+     "file": "kashika",
+     "id": "82003",
+     "quote": "एकादेशस्वरस्य सिद्धत्वात् तेन <<अनुदात्तं पदमेकवर्जम्>> [[६.१.१५८]] इति वर्ज्यमानता भवति।"
+    }
+   ]
+  },
+  {
+   "text": "Rules that teach two udāttas at once (युगपत्) override it.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "61200",
+     "quote": "युगपद्ग्रहणं पर्यायनिवृत्त्यर्थम्। एकवर्जमिति वचनाद्यौगपद्यं न स्यात्॥"
+    }
+   ]
+  }
+ ],
+ "totals": {
+  "firings": 183,
+  "licensed": 151,
+  "not_licensed": 9,
+  "unsure": 23,
+  "not_licensed_by_should_be": {
+   "none": 9
+  }
+ },
+ "groups": [
+  {
+   "id": "G1",
+   "group": "carried / not a sūtra word | svara | X",
+   "count": 174,
+   "verdict": "mixed",
+   "how_checked": "All 174 member(s) listed with sūtra + our vṛtti and classed by script (teaches udātta/svarita to one vowel? anudātta/ekaśruti? tripādī? adhikāra?); every rule outside 6.1.159–6.2.199 and every tripādī/adhikāra/युगपत् rule read with KV, Nyāsa, PM; the 6.1–6.2 accent vidhis spot-checked.",
+   "licensed": [
+    "3.3.96",
+    "3.3.99",
+    "4.1.37",
+    "4.1.38",
+    "5.2.44",
+    "6.1.159",
+    "6.1.160",
+    "6.1.161",
+    "6.1.162",
+    "6.1.163",
+    "6.1.164",
+    "6.1.165",
+    "6.1.166",
+    "6.1.167",
+    "6.1.168",
+    "6.1.169",
+    "6.1.170",
+    "6.1.171",
+    "6.1.172",
+    "6.1.173",
+    "6.1.174",
+    "6.1.176",
+    "6.1.177",
+    "6.1.178",
+    "6.1.179",
+    "6.1.180",
+    "6.1.181",
+    "6.1.185",
+    "6.1.187",
+    "6.1.188",
+    "6.1.189",
+    "6.1.190",
+    "6.1.191",
+    "6.1.192",
+    "6.1.193",
+    "6.1.194",
+    "6.1.195",
+    "6.1.196",
+    "6.1.197",
+    "6.1.198",
+    "6.1.199",
+    "6.1.201",
+    "6.1.202",
+    "6.1.203",
+    "6.1.204",
+    "6.1.205",
+    "6.1.206",
+    "6.1.207",
+    "6.1.208",
+    "6.1.209",
+    "6.1.210",
+    "6.1.211",
+    "6.1.212",
+    "6.1.213",
+    "6.1.214",
+    "6.1.215",
+    "6.1.216",
+    "6.1.217",
+    "6.1.218",
+    "6.1.219",
+    "6.1.220",
+    "6.1.221",
+    "6.1.222",
+    "6.1.223",
+    "6.2.27",
+    "6.2.28",
+    "6.2.65",
+    "6.2.66",
+    "6.2.67",
+    "6.2.68",
+    "6.2.69",
+    "6.2.70",
+    "6.2.71",
+    "6.2.72",
+    "6.2.73",
+    "6.2.74",
+    "6.2.75",
+    "6.2.76",
+    "6.2.77",
+    "6.2.78",
+    "6.2.79",
+    "6.2.80",
+    "6.2.81",
+    "6.2.82",
+    "6.2.83",
+    "6.2.84",
+    "6.2.85",
+    "6.2.86",
+    "6.2.87",
+    "6.2.88",
+    "6.2.89",
+    "6.2.90",
+    "6.2.93",
+    "6.2.94",
+    "6.2.95",
+    "6.2.96",
+    "6.2.97",
+    "6.2.98",
+    "6.2.99",
+    "6.2.100",
+    "6.2.102",
+    "6.2.103",
+    "6.2.104",
+    "6.2.105",
+    "6.2.106",
+    "6.2.107",
+    "6.2.108",
+    "6.2.109",
+    "6.2.110",
+    "6.2.112",
+    "6.2.113",
+    "6.2.114",
+    "6.2.115",
+    "6.2.116",
+    "6.2.117",
+    "6.2.118",
+    "6.2.120",
+    "6.2.124",
+    "6.2.125",
+    "6.2.126",
+    "6.2.127",
+    "6.2.128",
+    "6.2.129",
+    "6.2.130",
+    "6.2.131",
+    "6.2.132",
+    "6.2.134",
+    "6.2.135",
+    "6.2.144",
+    "6.2.148",
+    "6.2.156",
+    "6.2.160",
+    "6.2.161",
+    "6.2.162",
+    "6.2.163",
+    "6.2.164",
+    "6.2.165",
+    "6.2.174",
+    "6.2.196",
+    "6.2.197",
+    "6.2.198",
+    "6.2.199",
+    "7.1.98",
+    "8.2.5"
+   ],
+   "not_licensed": [
+    {
+     "n": "1.2.32",
+     "word": "an udātta or svarita is taught for one vowel",
+     "should_be": "none",
+     "reason": "NOT_A_PADA_ACCENT_RULE",
+     "why": "not a rule assigning udātta/svarita to one vowel of a pada — describes the inner make-up of a svarita (its first half-mora is high); no udātta/svarita is assigned to one vowel of a pada",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61158",
+       "quote": "यत्रान्यः स्वर उदात्तः स्वरितो वा विधीयते, तत्रानुदात्तं पदमेकं वर्जयित्वा भवतीत्येतदुपस्थितं द्रष्टव्यम्।"
+      }
+     ]
+    },
+    {
+     "n": "1.2.38",
+     "word": "an udātta or svarita is taught for one vowel",
+     "should_be": "none",
+     "reason": "ANUDATTA_OR_EKASHRUTI",
+     "why": "the rule teaches anudātta / ekaśruti / sannatara, not an udātta or svarita — teaches anudātta (instead of ekaśruti) for देवा/ब्रह्माणः — no udātta/svarita is taught; the KV’s शेषनिघात there is in deriving the examples",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61158",
+       "quote": "यत्रान्यः स्वर उदात्तः स्वरितो वा विधीयते"
+      }
+     ]
+    },
+    {
+     "n": "1.2.39",
+     "word": "an udātta or svarita is taught for one vowel",
+     "should_be": "none",
+     "reason": "ANUDATTA_OR_EKASHRUTI",
+     "why": "the rule teaches anudātta / ekaśruti / sannatara, not an udātta or svarita — teaches ekaśruti for anudāttas after a svarita in saṃhitā — no udātta/svarita taught",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61158",
+       "quote": "यत्रान्यः स्वर उदात्तः स्वरितो वा विधीयते"
+      }
+     ]
+    },
+    {
+     "n": "1.2.40",
+     "word": "an udātta or svarita is taught for one vowel",
+     "should_be": "none",
+     "reason": "ANUDATTA_OR_EKASHRUTI",
+     "why": "the rule teaches anudātta / ekaśruti / sannatara, not an udātta or svarita — teaches the lower (सन्नतर) anudātta; no udātta/svarita taught",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61158",
+       "quote": "यत्रान्यः स्वर उदात्तः स्वरितो वा विधीयते"
+      }
+     ]
+    },
+    {
+     "n": "6.1.200",
+     "word": "an udātta or svarita is taught for one vowel",
+     "should_be": "none",
+     "reason": "DENIED_BY_COMMENTATORS",
+     "why": "the commentators say it does not apply here — KV: “युगपत्” is said because 6.1.158 would forbid two udāttas — the rule overrides it (✖, overridden)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61200",
+       "quote": "युगपद्ग्रहणं पर्यायनिवृत्त्यर्थम्। एकवर्जमिति वचनाद्यौगपद्यं न स्यात्॥"
+      }
+     ]
+    },
+    {
+     "n": "6.2.51",
+     "word": "an udātta or svarita is taught for one vowel",
+     "should_be": "none",
+     "reason": "DENIED_BY_COMMENTATORS",
+     "why": "the commentators say it does not apply here — two udāttas at once (युगपत्), the Bhāṣya’s jñāpaka that 6.1.158 does NOT allow simultaneity — this rule overrides it (✖, overridden)",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "61200",
+       "quote": "एकवर्जमिति वचनाद्यौगपद्यं न स्यात्॥"
+      }
+     ]
+    },
+    {
+     "n": "8.1.71",
+     "word": "an udātta or svarita is taught for one vowel",
+     "should_be": "none",
+     "reason": "ANUDATTA_OR_EKASHRUTI",
+     "why": "the rule teaches anudātta / ekaśruti / sannatara, not an udātta or svarita — teaches anudātta for the gati (उदात्तवति is the condition); KV mentions 6.1.158 only for a side-case of deriving प्रपचतितराम्",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "81071",
+       "quote": "एवमपि सतिशिष्टत्वादाम एव स्वरे सति गतेः <<अनुदात्तं पदमेकवर्जम्>>[[६.१.१५८]] इत्येवानुदात्तत्वं सिद्धम्।"
+      }
+     ]
+    },
+    {
+     "n": "8.2.6",
+     "word": "an udātta or svarita is taught for one vowel",
+     "should_be": "none",
+     "reason": "DENIED_BY_COMMENTATORS",
+     "why": "the commentators say it does not apply here — PM: the ekādeśa svarita spans two padas (bahiraṅga) and is asiddha for the one-pada śeṣanighāta (antaraṅga)",
+     "quotes": [
+      {
+       "file": "padamanjari",
+       "id": "82006",
+       "quote": "पदद्वयाश्रयत्वेन एकादेशस्य बहिरङ्गत्वात्स्वरोऽपि तदीयो बहिरङ्गः, शेषनिघातस्तु एकपदाश्रयत्वात् स्वरोऽपि तदीयोऽन्तरङ्गः"
+      }
+     ]
+    },
+    {
+     "n": "8.4.66",
+     "word": "an udātta or svarita is taught for one vowel",
+     "should_be": "none",
+     "reason": "DENIED_BY_COMMENTATORS",
+     "why": "the commentators say it does not apply here — KV and Nyāsa: this svarita is asiddha (8.2.1), so 6.1.158 does not operate — that is why the rule stands in the tripādī. Should be a ✖.",
+     "quotes": [
+      {
+       "file": "kashika",
+       "id": "84066",
+       "quote": "अस्य स्वरितस्यासिद्धत्वाद्  <<अनुदात्तं पदमेकवर्जम्>> [[६.१.१५८]] इत्येतद् न प्रवर्तते।"
+      }
+     ]
+    }
+   ],
+   "unsure": [
+    {
+     "n": "8.2.4",
+     "word": "an udātta or svarita is taught for one vowel",
+     "why": "A tripādī svarita, like 8.4.66 (where KV says 6.1.158 does not operate because the svarita is asiddha); no source states it for 8.2.4 itself.",
+     "quotes": []
+    },
+    {
+     "n": "8.2.83",
+     "word": "an udātta or svarita is taught for one vowel",
+     "why": "Pluta udātta (8.2.82ff). Nyāsa: on the yathoddeśa view 6.1.158 cannot see this udātta (asiddha, 8.2.1); on the other (kāryakāla) view 6.1.158 is present here. The Bhāṣya calls 6.1.158 kāryakāla. Not settled.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "तस्मिन्? कर्तव्ये प्लुतस्यासिद्धत्वात्।"
+      },
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "दर्शनान्तरे <<अनुदात्तं पदमेकवर्जम्>> [[6.1.158]]  इत्यस्योपस्थाने सति न प्लुत"
+      }
+     ]
+    },
+    {
+     "n": "8.2.84",
+     "word": "an udātta or svarita is taught for one vowel",
+     "why": "Pluta udātta (8.2.82ff). Nyāsa: on the yathoddeśa view 6.1.158 cannot see this udātta (asiddha, 8.2.1); on the other (kāryakāla) view 6.1.158 is present here. The Bhāṣya calls 6.1.158 kāryakāla. Not settled.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "तस्मिन्? कर्तव्ये प्लुतस्यासिद्धत्वात्।"
+      },
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "दर्शनान्तरे <<अनुदात्तं पदमेकवर्जम्>> [[6.1.158]]  इत्यस्योपस्थाने सति न प्लुत"
+      }
+     ]
+    },
+    {
+     "n": "8.2.85",
+     "word": "an udātta or svarita is taught for one vowel",
+     "why": "Pluta udātta (8.2.82ff). Nyāsa: on the yathoddeśa view 6.1.158 cannot see this udātta (asiddha, 8.2.1); on the other (kāryakāla) view 6.1.158 is present here. The Bhāṣya calls 6.1.158 kāryakāla. Not settled.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "तस्मिन्? कर्तव्ये प्लुतस्यासिद्धत्वात्।"
+      },
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "दर्शनान्तरे <<अनुदात्तं पदमेकवर्जम्>> [[6.1.158]]  इत्यस्योपस्थाने सति न प्लुत"
+      }
+     ]
+    },
+    {
+     "n": "8.2.86",
+     "word": "an udātta or svarita is taught for one vowel",
+     "why": "Pluta udātta (8.2.82ff). Nyāsa: on the yathoddeśa view 6.1.158 cannot see this udātta (asiddha, 8.2.1); on the other (kāryakāla) view 6.1.158 is present here. The Bhāṣya calls 6.1.158 kāryakāla. Not settled.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "तस्मिन्? कर्तव्ये प्लुतस्यासिद्धत्वात्।"
+      },
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "दर्शनान्तरे <<अनुदात्तं पदमेकवर्जम्>> [[6.1.158]]  इत्यस्योपस्थाने सति न प्लुत"
+      }
+     ]
+    },
+    {
+     "n": "8.2.87",
+     "word": "an udātta or svarita is taught for one vowel",
+     "why": "Pluta udātta (8.2.82ff). Nyāsa: on the yathoddeśa view 6.1.158 cannot see this udātta (asiddha, 8.2.1); on the other (kāryakāla) view 6.1.158 is present here. The Bhāṣya calls 6.1.158 kāryakāla. Not settled.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "तस्मिन्? कर्तव्ये प्लुतस्यासिद्धत्वात्।"
+      },
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "दर्शनान्तरे <<अनुदात्तं पदमेकवर्जम्>> [[6.1.158]]  इत्यस्योपस्थाने सति न प्लुत"
+      }
+     ]
+    },
+    {
+     "n": "8.2.88",
+     "word": "an udātta or svarita is taught for one vowel",
+     "why": "Pluta udātta (8.2.82ff). Nyāsa: on the yathoddeśa view 6.1.158 cannot see this udātta (asiddha, 8.2.1); on the other (kāryakāla) view 6.1.158 is present here. The Bhāṣya calls 6.1.158 kāryakāla. Not settled.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "तस्मिन्? कर्तव्ये प्लुतस्यासिद्धत्वात्।"
+      },
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "दर्शनान्तरे <<अनुदात्तं पदमेकवर्जम्>> [[6.1.158]]  इत्यस्योपस्थाने सति न प्लुत"
+      }
+     ]
+    },
+    {
+     "n": "8.2.89",
+     "word": "an udātta or svarita is taught for one vowel",
+     "why": "Pluta udātta (8.2.82ff). Nyāsa: on the yathoddeśa view 6.1.158 cannot see this udātta (asiddha, 8.2.1); on the other (kāryakāla) view 6.1.158 is present here. The Bhāṣya calls 6.1.158 kāryakāla. Not settled.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "तस्मिन्? कर्तव्ये प्लुतस्यासिद्धत्वात्।"
+      },
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "दर्शनान्तरे <<अनुदात्तं पदमेकवर्जम्>> [[6.1.158]]  इत्यस्योपस्थाने सति न प्लुत"
+      }
+     ]
+    },
+    {
+     "n": "8.2.90",
+     "word": "an udātta or svarita is taught for one vowel",
+     "why": "Pluta udātta (8.2.82ff). Nyāsa: on the yathoddeśa view 6.1.158 cannot see this udātta (asiddha, 8.2.1); on the other (kāryakāla) view 6.1.158 is present here. The Bhāṣya calls 6.1.158 kāryakāla. Not settled.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "तस्मिन्? कर्तव्ये प्लुतस्यासिद्धत्वात्।"
+      },
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "दर्शनान्तरे <<अनुदात्तं पदमेकवर्जम्>> [[6.1.158]]  इत्यस्योपस्थाने सति न प्लुत"
+      }
+     ]
+    },
+    {
+     "n": "8.2.91",
+     "word": "an udātta or svarita is taught for one vowel",
+     "why": "Pluta udātta (8.2.82ff). Nyāsa: on the yathoddeśa view 6.1.158 cannot see this udātta (asiddha, 8.2.1); on the other (kāryakāla) view 6.1.158 is present here. The Bhāṣya calls 6.1.158 kāryakāla. Not settled.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "तस्मिन्? कर्तव्ये प्लुतस्यासिद्धत्वात्।"
+      },
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "दर्शनान्तरे <<अनुदात्तं पदमेकवर्जम्>> [[6.1.158]]  इत्यस्योपस्थाने सति न प्लुत"
+      }
+     ]
+    },
+    {
+     "n": "8.2.92",
+     "word": "an udātta or svarita is taught for one vowel",
+     "why": "Pluta udātta (8.2.82ff). Nyāsa: on the yathoddeśa view 6.1.158 cannot see this udātta (asiddha, 8.2.1); on the other (kāryakāla) view 6.1.158 is present here. The Bhāṣya calls 6.1.158 kāryakāla. Not settled.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "तस्मिन्? कर्तव्ये प्लुतस्यासिद्धत्वात्।"
+      },
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "दर्शनान्तरे <<अनुदात्तं पदमेकवर्जम्>> [[6.1.158]]  इत्यस्योपस्थाने सति न प्लुत"
+      }
+     ]
+    },
+    {
+     "n": "8.2.93",
+     "word": "an udātta or svarita is taught for one vowel",
+     "why": "Pluta udātta (8.2.82ff). Nyāsa: on the yathoddeśa view 6.1.158 cannot see this udātta (asiddha, 8.2.1); on the other (kāryakāla) view 6.1.158 is present here. The Bhāṣya calls 6.1.158 kāryakāla. Not settled.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "तस्मिन्? कर्तव्ये प्लुतस्यासिद्धत्वात्।"
+      },
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "दर्शनान्तरे <<अनुदात्तं पदमेकवर्जम्>> [[6.1.158]]  इत्यस्योपस्थाने सति न प्लुत"
+      }
+     ]
+    },
+    {
+     "n": "8.2.94",
+     "word": "an udātta or svarita is taught for one vowel",
+     "why": "Pluta udātta (8.2.82ff). Nyāsa: on the yathoddeśa view 6.1.158 cannot see this udātta (asiddha, 8.2.1); on the other (kāryakāla) view 6.1.158 is present here. The Bhāṣya calls 6.1.158 kāryakāla. Not settled.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "तस्मिन्? कर्तव्ये प्लुतस्यासिद्धत्वात्।"
+      },
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "दर्शनान्तरे <<अनुदात्तं पदमेकवर्जम्>> [[6.1.158]]  इत्यस्योपस्थाने सति न प्लुत"
+      }
+     ]
+    },
+    {
+     "n": "8.2.95",
+     "word": "an udātta or svarita is taught for one vowel",
+     "why": "Pluta udātta (8.2.82ff). Nyāsa: on the yathoddeśa view 6.1.158 cannot see this udātta (asiddha, 8.2.1); on the other (kāryakāla) view 6.1.158 is present here. The Bhāṣya calls 6.1.158 kāryakāla. Not settled.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "तस्मिन्? कर्तव्ये प्लुतस्यासिद्धत्वात्।"
+      },
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "दर्शनान्तरे <<अनुदात्तं पदमेकवर्जम्>> [[6.1.158]]  इत्यस्योपस्थाने सति न प्लुत"
+      }
+     ]
+    },
+    {
+     "n": "8.2.96",
+     "word": "an udātta or svarita is taught for one vowel",
+     "why": "Pluta udātta (8.2.82ff). Nyāsa: on the yathoddeśa view 6.1.158 cannot see this udātta (asiddha, 8.2.1); on the other (kāryakāla) view 6.1.158 is present here. The Bhāṣya calls 6.1.158 kāryakāla. Not settled.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "तस्मिन्? कर्तव्ये प्लुतस्यासिद्धत्वात्।"
+      },
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "दर्शनान्तरे <<अनुदात्तं पदमेकवर्जम्>> [[6.1.158]]  इत्यस्योपस्थाने सति न प्लुत"
+      }
+     ]
+    },
+    {
+     "n": "8.2.97",
+     "word": "an udātta or svarita is taught for one vowel",
+     "why": "Pluta udātta (8.2.82ff). Nyāsa: on the yathoddeśa view 6.1.158 cannot see this udātta (asiddha, 8.2.1); on the other (kāryakāla) view 6.1.158 is present here. The Bhāṣya calls 6.1.158 kāryakāla. Not settled.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "तस्मिन्? कर्तव्ये प्लुतस्यासिद्धत्वात्।"
+      },
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "दर्शनान्तरे <<अनुदात्तं पदमेकवर्जम्>> [[6.1.158]]  इत्यस्योपस्थाने सति न प्लुत"
+      }
+     ]
+    },
+    {
+     "n": "8.2.98",
+     "word": "an udātta or svarita is taught for one vowel",
+     "why": "Pluta udātta (8.2.82ff). Nyāsa: on the yathoddeśa view 6.1.158 cannot see this udātta (asiddha, 8.2.1); on the other (kāryakāla) view 6.1.158 is present here. The Bhāṣya calls 6.1.158 kāryakāla. Not settled.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "तस्मिन्? कर्तव्ये प्लुतस्यासिद्धत्वात्।"
+      },
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "दर्शनान्तरे <<अनुदात्तं पदमेकवर्जम्>> [[6.1.158]]  इत्यस्योपस्थाने सति न प्लुत"
+      }
+     ]
+    },
+    {
+     "n": "8.2.99",
+     "word": "an udātta or svarita is taught for one vowel",
+     "why": "Pluta udātta (8.2.82ff). Nyāsa: on the yathoddeśa view 6.1.158 cannot see this udātta (asiddha, 8.2.1); on the other (kāryakāla) view 6.1.158 is present here. The Bhāṣya calls 6.1.158 kāryakāla. Not settled.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "तस्मिन्? कर्तव्ये प्लुतस्यासिद्धत्वात्।"
+      },
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "दर्शनान्तरे <<अनुदात्तं पदमेकवर्जम्>> [[6.1.158]]  इत्यस्योपस्थाने सति न प्लुत"
+      }
+     ]
+    },
+    {
+     "n": "8.2.103",
+     "word": "an udātta or svarita is taught for one vowel",
+     "why": "Pluta udātta (8.2.82ff). Nyāsa: on the yathoddeśa view 6.1.158 cannot see this udātta (asiddha, 8.2.1); on the other (kāryakāla) view 6.1.158 is present here. The Bhāṣya calls 6.1.158 kāryakāla. Not settled.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "तस्मिन्? कर्तव्ये प्लुतस्यासिद्धत्वात्।"
+      },
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "दर्शनान्तरे <<अनुदात्तं पदमेकवर्जम्>> [[6.1.158]]  इत्यस्योपस्थाने सति न प्लुत"
+      }
+     ]
+    },
+    {
+     "n": "8.2.104",
+     "word": "an udātta or svarita is taught for one vowel",
+     "why": "Pluta udātta (8.2.82ff). Nyāsa: on the yathoddeśa view 6.1.158 cannot see this udātta (asiddha, 8.2.1); on the other (kāryakāla) view 6.1.158 is present here. The Bhāṣya calls 6.1.158 kāryakāla. Not settled.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "तस्मिन्? कर्तव्ये प्लुतस्यासिद्धत्वात्।"
+      },
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "दर्शनान्तरे <<अनुदात्तं पदमेकवर्जम्>> [[6.1.158]]  इत्यस्योपस्थाने सति न प्लुत"
+      }
+     ]
+    },
+    {
+     "n": "8.2.105",
+     "word": "an udātta or svarita is taught for one vowel",
+     "why": "Pluta udātta (8.2.82ff). Nyāsa: on the yathoddeśa view 6.1.158 cannot see this udātta (asiddha, 8.2.1); on the other (kāryakāla) view 6.1.158 is present here. The Bhāṣya calls 6.1.158 kāryakāla. Not settled.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "तस्मिन्? कर्तव्ये प्लुतस्यासिद्धत्वात्।"
+      },
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "दर्शनान्तरे <<अनुदात्तं पदमेकवर्जम्>> [[6.1.158]]  इत्यस्योपस्थाने सति न प्लुत"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G2",
+   "group": "carried / not a sūtra word | āgama | X",
+   "count": 6,
+   "verdict": "licensed",
+   "how_checked": "All 6 member(s) listed with sūtra + our vṛtti and classed by script (teaches udātta/svarita to one vowel? anudātta/ekaśruti? tripādī? adhikāra?); every rule outside 6.1.159–6.2.199 and every tripādī/adhikāra/युगपत् rule read with KV, Nyāsa, PM; the 6.1–6.2 accent vidhis spot-checked.",
+   "licensed": [
+    "3.4.103",
+    "3.4.104",
+    "6.4.71",
+    "6.4.72",
+    "7.1.75",
+    "7.1.77"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G3",
+   "group": "carried / not a sūtra word | vidhi | X",
+   "count": 1,
+   "verdict": "licensed",
+   "how_checked": "All 1 member(s) listed with sūtra + our vṛtti and classed by script (teaches udātta/svarita to one vowel? anudātta/ekaśruti? tripādī? adhikāra?); every rule outside 6.1.159–6.2.199 and every tripādī/adhikāra/युगपत् rule read with KV, Nyāsa, PM; the 6.1–6.2 accent vidhis spot-checked.",
+   "licensed": [
+    "3.3.98"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": ""
+  },
+  {
+   "id": "G4",
+   "group": "carried / not a sūtra word | adhikāra | X",
+   "count": 1,
+   "verdict": "unsure",
+   "how_checked": "All 1 member(s) listed with sūtra + our vṛtti and classed by script (teaches udātta/svarita to one vowel? anudātta/ekaśruti? tripādī? adhikāra?); every rule outside 6.1.159–6.2.199 and every tripādī/adhikāra/युगपत् rule read with KV, Nyāsa, PM; the 6.1–6.2 accent vidhis spot-checked.",
+   "licensed": [],
+   "not_licensed": [],
+   "unsure": [
+    {
+     "n": "6.2.64",
+     "word": "an udātta or svarita is taught for one vowel",
+     "why": "An adhikāra (“आदिरुदात्तः”): the udātta is taught in the governed rules 6.2.65ff (all credited); the Bhāṣya places 6.1.158 “where the operation is”. Whether the adhikāra entry itself should carry the credit is a policy choice.",
+     "quotes": [
+      {
+       "file": "bhashya",
+       "id": "61158",
+       "quote": "कार्यकालं संज्ञापरिभाषम् । यत्र कार्यं तत्रोपस्थितमिदं द्रष्टव्यम् ।"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "G5",
+   "group": "carried / not a sūtra word | operation | X",
+   "count": 1,
+   "verdict": "unsure",
+   "how_checked": "All 1 member(s) listed with sūtra + our vṛtti and classed by script (teaches udātta/svarita to one vowel? anudātta/ekaśruti? tripādī? adhikāra?); every rule outside 6.1.159–6.2.199 and every tripādī/adhikāra/युगपत् rule read with KV, Nyāsa, PM; the 6.1–6.2 accent vidhis spot-checked.",
+   "licensed": [],
+   "not_licensed": [],
+   "unsure": [
+    {
+     "n": "8.2.82",
+     "word": "an udātta or svarita is taught for one vowel",
+     "why": "Pluta udātta (8.2.82ff). Nyāsa: on the yathoddeśa view 6.1.158 cannot see this udātta (asiddha, 8.2.1); on the other (kāryakāla) view 6.1.158 is present here. The Bhāṣya calls 6.1.158 kāryakāla. Not settled.",
+     "quotes": [
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "तस्मिन्? कर्तव्ये प्लुतस्यासिद्धत्वात्।"
+      },
+      {
+       "file": "nyaas",
+       "id": "82086",
+       "quote": "दर्शनान्तरे <<अनुदात्तं पदमेकवर्जम्>> [[6.1.158]]  इत्यस्योपस्थाने सति न प्लुत"
+      }
+     ]
+    }
+   ],
+   "note": ""
+  }
+ ],
+ "missed": [
+  {
+   "n": "3.1.3 · 6.2.119–123, 6.2.136, 6.2.145–159, 6.2.166–173, 6.2.177–195 (46 sūtras; list in .md)",
+   "pid": "6.1.158",
+   "why": "accent rules that teach an udātta but are written “आद्युदात्तम् / अन्तोदात्तम्” in our vṛtti: the engine’s test looks for the letter उ of उदात्त and misses the sandhi forms -द्युदात्त- / -न्तोदात्त-. KV on 6.1.158 itself uses the suffix accent of 3.1.3 as its example (कर्तव्यम्).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "31003",
+     "quote": "आद्युदात्तश्च स भवति यः प्रत्ययसंज्ञः।"
+    },
+    {
+     "file": "bhashya",
+     "id": "61158",
+     "quote": "प्रत्ययस्य च  -  -कर्तव्यम्, तैत्तिरीयः ।"
+    }
+   ]
+  },
+  {
+   "n": "6.2.1–6.2.63, 6.2.137–6.2.141 (prakṛtisvara rules)",
+   "pid": "6.1.158",
+   "why": "probable: these keep the pūrvapada’s (or uttarapada’s) own udātta, and the commentators apply 6.1.158 to make the rest of the compound anudātta (e.g. Nyāsa on 4.1.53 with 6.2.1). 6.2.140/141 (उभे … युगपत्) are like 6.2.51 — overridden, not credited.",
+   "quotes": [
+    {
+     "file": "nyaas",
+     "id": "41053",
+     "quote": "बहुव्रीहौ प्रकृत्या पूर्वपदम्>> [[6.2.1]]  इति प्रकृतिस्वरे कृते <<अनुदात्तं पदमेकवर्जम्>> [[6.1.158]]  इति शेषस्यानुदात्तत्वादिहान्तोदात्तत्वं"
+    }
+   ]
+  }
+ ],
+ "effect_defects": []
+}

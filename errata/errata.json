@@ -1,0 +1,1678 @@
+[
+ {
+  "id": "64120",
+  "sutra_no": "6.4.120",
+  "sutra": "अत एकहल्मध्येऽनादेशादेर्लिटि",
+  "field": "an",
+  "now": "क्ङिति$64098##एत्$64119##हौ$64119##अभ्यासलोपः$64119",
+  "suggested": "क्ङिति$64098##एत्$64119##अभ्यासलोपः$64119   (drop हौ$64119)",
+  "reason": "हौ (“before the ending हि”) belongs to 6.4.119 only. 6.4.120 applies before a kit/ṅit लिट्, and no source carries हौ into it; the prathamāvṛtti says only एत् and अभ्यासलोपः run on from 6.4.119.",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "6.4.120",
+    "quote": "योऽकारस्तस्यैकारादेशो भवति, अभ्यासलोपश्च लिटि क्ङिति परतः"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), artha",
+    "on": "6.4.120",
+    "quote": "योऽकारस्तस्य एकारादेशो भवति, अभ्यासलोपश्च लिटि किङति परतः"
+   },
+   {
+    "source": "Kāśikā",
+    "on": "6.4.119",
+    "quote": "घुसंज्ञकानामङ्गानामस्तेश्च एकारादेशो भवति हौ परतोऽभ्यासलोपश्च"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), anuvṛtti",
+    "on": "6.4.119",
+    "quote": "यहाँ से ‹एत् अभ्यासलोपश्च› की अनुवृत्ति ६।४।१२६ तक जायेगी"
+   }
+  ],
+  "settled_by": "Kāśikā and prathamāvṛtti agree; the Mahābhāṣya on 6.4.120 does not mention हौ.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "64121",
+  "sutra_no": "6.4.121",
+  "sutra": "थलि च सेटि",
+  "field": "an",
+  "now": "एत्$64119##हौ$64119##अभ्यासलोपः$64119##एकहल्मध्ये$64120##अनादेशादेः$64120##लिटि$64120##अतः$64120",
+  "suggested": "एत्$64119##अभ्यासलोपः$64119##एकहल्मध्ये$64120##अनादेशादेः$64120##लिटि$64120##अतः$64120   (drop हौ$64119)",
+  "reason": "as 6.4.120: हौ belongs to 6.4.119 only; 6.4.121 applies before थल् with इट्.",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "6.4.121",
+    "quote": "थलि च सेटि परतोऽनादेशादेरङ्गस्यैकहल्मध्यगतस्यातः स्थान एकारादेशो भवति, अभ्यासलोपश्च"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), artha",
+    "on": "6.4.121",
+    "quote": "थलि च सेटि परतोऽनादेशादेरङ्गस्यासहाययोर्हलोर्मध्ये वर्त्तमानस्याकारस्य स्थाने एकारादेशो भवत्यभ्यासलोपश्च"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), anuvṛtti",
+    "on": "6.4.119",
+    "quote": "यहाँ से ‹एत् अभ्यासलोपश्च› की अनुवृत्ति ६।४।१२६ तक जायेगी"
+   }
+  ],
+  "settled_by": "Kāśikā and prathamāvṛtti agree; the Mahābhāṣya on 6.4.121 discusses थल्/सेट् only.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "64122",
+  "sutra_no": "6.4.122",
+  "sutra": "तॄफलभजत्रपश्च",
+  "field": "an",
+  "now": "क्ङिति$64098##अभ्यासलोपः$64119##अतः$64120##थलि$64121##सेटि$64121",
+  "suggested": "क्ङिति$64098##अभ्यासलोपः$64119##एत्$64119##अतः$64120##लिटि$64120##थलि$64121##सेटि$64121   (add एत्$64119; add लिटि$64120)",
+  "reason": "the replacement एत् (6.4.119) and the condition लिटि (6.4.120) run on into 6.4.122–126. The list already carries अभ्यासलोपः, अतः, थलि and सेटि, but not these two.",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "6.4.122",
+    "quote": "तृ फल भज त्रप इत्येतेषामङ्गानामत एकारादेशो भवति, अभ्यासलोपश्च लिटि क्ङिति परतस्थलि च सेटि"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), anuvṛtti",
+    "on": "6.4.119",
+    "quote": "यहाँ से ‹एत् अभ्यासलोपश्च› की अनुवृत्ति ६।४।१२६ तक जायेगी"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), anuvṛtti",
+    "on": "6.4.120",
+    "quote": "यहाँ से 'अतः लिटि' की अनुवृत्ति ६।४।१२६ तक"
+   }
+  ],
+  "settled_by": "Kāśikā and prathamāvṛtti agree (the prathamāvṛtti states both ranges, to 6.4.126); the Mahābhāṣya does not speak to these two words.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "64123",
+  "sutra_no": "6.4.123",
+  "sutra": "राधो हिंसायाम्",
+  "field": "an",
+  "now": "क्ङिति$64098##अभ्यासलोपः$64119##अतः$64120##थलि$64121##सेटि$64121",
+  "suggested": "क्ङिति$64098##अभ्यासलोपः$64119##एत्$64119##अतः$64120##लिटि$64120##थलि$64121##सेटि$64121   (add एत्$64119; add लिटि$64120)",
+  "reason": "the replacement एत् (6.4.119) and the condition लिटि (6.4.120) run on into 6.4.122–126. The list already carries अभ्यासलोपः, अतः, थलि and सेटि, but not these two.",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "6.4.123",
+    "quote": "राधो हिंसायामर्थेऽवर्णस्यैकार आदेशो भवति, अभ्यासलोपश्च लिटि क्ङिति परतस्थलि च सेटि"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), anuvṛtti",
+    "on": "6.4.119",
+    "quote": "यहाँ से ‹एत् अभ्यासलोपश्च› की अनुवृत्ति ६।४।१२६ तक जायेगी"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), anuvṛtti",
+    "on": "6.4.120",
+    "quote": "यहाँ से 'अतः लिटि' की अनुवृत्ति ६।४।१२६ तक"
+   }
+  ],
+  "settled_by": "Kāśikā and prathamāvṛtti agree (the prathamāvṛtti states both ranges, to 6.4.126); the Mahābhāṣya does not speak to these two words.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "64124",
+  "sutra_no": "6.4.124",
+  "sutra": "वा जॄभ्रमुत्रसाम्",
+  "field": "an",
+  "now": "क्ङिति$64098##अभ्यासलोपः$64119##अतः$64120##थलि$64121##सेटि$64121",
+  "suggested": "क्ङिति$64098##अभ्यासलोपः$64119##एत्$64119##अतः$64120##लिटि$64120##थलि$64121##सेटि$64121   (add एत्$64119; add लिटि$64120)",
+  "reason": "the replacement एत् (6.4.119) and the condition लिटि (6.4.120) run on into 6.4.122–126. The list already carries अभ्यासलोपः, अतः, थलि and सेटि, but not these two.",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "6.4.124",
+    "quote": "जृ भ्रमु त्रस इत्येतेषामङ्गानामतः स्थाने वा एकार आदेशो भवति, अभ्यासलोपश्च लिटि क्ङिति परतस्थलि च सेटि"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), anuvṛtti",
+    "on": "6.4.119",
+    "quote": "यहाँ से ‹एत् अभ्यासलोपश्च› की अनुवृत्ति ६।४।१२६ तक जायेगी"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), anuvṛtti",
+    "on": "6.4.120",
+    "quote": "यहाँ से 'अतः लिटि' की अनुवृत्ति ६।४।१२६ तक"
+   }
+  ],
+  "settled_by": "Kāśikā and prathamāvṛtti agree (the prathamāvṛtti states both ranges, to 6.4.126); the Mahābhāṣya does not speak to these two words.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "64125",
+  "sutra_no": "6.4.125",
+  "sutra": "फणां च सप्तानाम्",
+  "field": "an",
+  "now": "क्ङिति$64098##अभ्यासलोपः$64119##अतः$64120##थलि$64121##सेटि$64121##वा$64124",
+  "suggested": "क्ङिति$64098##अभ्यासलोपः$64119##एत्$64119##अतः$64120##लिटि$64120##थलि$64121##सेटि$64121##वा$64124   (add एत्$64119; add लिटि$64120)",
+  "reason": "the replacement एत् (6.4.119) and the condition लिटि (6.4.120) run on into 6.4.122–126. The list already carries अभ्यासलोपः, अतः, थलि and सेटि, but not these two.",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "6.4.125",
+    "quote": "फणादीनां सप्तानां धातूनामवर्णस्य स्थाने वैकार आदेशो भवति, अभ्यासलोपश्च लिटि क्ङिति परतस्थलि च सेटि"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), anuvṛtti",
+    "on": "6.4.119",
+    "quote": "यहाँ से ‹एत् अभ्यासलोपश्च› की अनुवृत्ति ६।४।१२६ तक जायेगी"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), anuvṛtti",
+    "on": "6.4.120",
+    "quote": "यहाँ से 'अतः लिटि' की अनुवृत्ति ६।४।१२६ तक"
+   }
+  ],
+  "settled_by": "Kāśikā and prathamāvṛtti agree (the prathamāvṛtti states both ranges, to 6.4.126); the Mahābhāṣya does not speak to these two words.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "64126",
+  "sutra_no": "6.4.126",
+  "sutra": "न शसददवादिगुणानाम्",
+  "field": "an",
+  "now": "क्ङिति$64098##अभ्यासलोपः$64119##अतः$64120##थलि$64121##सेटि$64121",
+  "suggested": "क्ङिति$64098##अभ्यासलोपः$64119##एत्$64119##अतः$64120##लिटि$64120##थलि$64121##सेटि$64121   (add एत्$64119; add लिटि$64120)",
+  "reason": "the replacement एत् (6.4.119) and the condition लिटि (6.4.120) run on into 6.4.122–126. The list already carries अभ्यासलोपः, अतः, थलि and सेटि, but not these two (here the rule denies them).",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "6.4.126",
+    "quote": "योऽकारस्तस्य स्थान एकारादेशो न भवति, अभ्यासलोपश्च"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), artha",
+    "on": "6.4.126",
+    "quote": "एकारादेशोऽभ्यासलोपश्च न भवति, लिटि किङति थलि च सेटि परतः"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), anuvṛtti",
+    "on": "6.4.119",
+    "quote": "यहाँ से ‹एत् अभ्यासलोपश्च› की अनुवृत्ति ६।४।१२६ तक जायेगी"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), anuvṛtti",
+    "on": "6.4.120",
+    "quote": "यहाँ से 'अतः लिटि' की अनुवृत्ति ६।४।१२६ तक"
+   }
+  ],
+  "settled_by": "Kāśikā and prathamāvṛtti agree (the prathamāvṛtti states both ranges, to 6.4.126); the Mahābhāṣya does not speak to these two words.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "41020",
+  "sutra_no": "4.1.20",
+  "sutra": "वयसि प्रथमे",
+  "field": "an",
+  "now": "ङीप्$41005##अनुपसर्जनात्$41014",
+  "suggested": "अतः$41004##ङीप्$41005##अनुपसर्जनात्$41014   (add अतः$41004)",
+  "reason": "अतः (4.1.4 अजाद्यतष्टाप्) runs on: the base must end in अ. The Kāśikā says so in as many words (“अत इत्येव — शिशुः”), and the Siddhānta-kaumudī reads “अदन्तात्”.",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "4.1.20",
+    "quote": "अत इत्येव — शिशुः"
+   },
+   {
+    "source": "Siddhānta-kaumudī",
+    "on": "4.1.20",
+    "quote": "प्रथमवयोवाचिनोऽदन्तात् स्त्रियां ङीप् स्यात्"
+   },
+   {
+    "source": "Siddhānta-kaumudī",
+    "on": "4.1.20",
+    "quote": "अतः किम् ? शिशुः"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), artha",
+    "on": "4.1.20",
+    "quote": "वर्त्तमानेभ्योऽनुपसर्जनेभ्यो ऽदन्तेभ्यः प्रातिपदिकेभ्यः स्त्रियां ङीप् प्रत्ययो भवति"
+   }
+  ],
+  "settled_by": "Kāśikā (“अत इत्येव”); the Mahābhāṣya on 4.1.20 discusses वयस् only.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "41021",
+  "sutra_no": "4.1.21",
+  "sutra": "द्विगोः",
+  "field": "an",
+  "now": "ङीप्$41005##अनुपसर्जनात्$41014",
+  "suggested": "अतः$41004##ङीप्$41005##अनुपसर्जनात्$41014   (add अतः$41004)",
+  "reason": "as 4.1.20 (अतः carried on from 4.1.4 through 4.1.20): the dvigu must end in अ.",
+  "citations": [
+   {
+    "source": "Siddhānta-kaumudī",
+    "on": "4.1.21",
+    "quote": "अदन्तात् द्विगोर्ङीप् स्यात्"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), artha",
+    "on": "4.1.21",
+    "quote": "द्विगुसंज्ञकादनुपसर्जनाददन्तात् प्रातिपदिकात् स्त्रियां ङीप् प्रत्ययो भवति"
+   },
+   {
+    "source": "Kāśikā",
+    "on": "4.1.20",
+    "quote": "अत इत्येव — शिशुः"
+   }
+  ],
+  "settled_by": "Siddhānta-kaumudī and prathamāvṛtti (no muni speaks: the Mahābhāṣya has no comment on 4.1.21; the Kāśikā on 4.1.21 does not mention it either way).",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "72118",
+  "sutra_no": "7.2.118",
+  "sutra": "किति च",
+  "field": "an",
+  "now": "वृद्धिः$72114##अचः$72115##ञ्णिति$72115##तद्धितेषु$72117##आदेः$72117",
+  "suggested": "वृद्धिः$72114##अचः$72115##ञ्णिति$72115##तद्धितेषु$72117##आदेः$72117##अचाम्$72117   (add अचाम्$72117)",
+  "reason": "the list carries आदेः from 7.2.117 but not अचाम् from the same sūtra; the rule is about the first vowel (अचाम् आदेः अचः), and the prathamāvṛtti says the whole of 7.2.117 runs on.",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "7.2.118",
+    "quote": "किति च तद्धिते परतोऽङ्गस्याचामादेरचः स्थाने वृद्धिर्भवति"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), artha",
+    "on": "7.2.118",
+    "quote": "तद्धिते परतोऽङ्गस्याचामादेरचः स्थाने वृद्धिर्भवति"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), anuvṛtti",
+    "on": "7.2.117",
+    "quote": "सम्पूर्ण सूत्र की अनुवृत्ति ७।३।३१ तक जायेगी"
+   }
+  ],
+  "settled_by": "Kāśikā and prathamāvṛtti agree; the Mahābhāṣya has no comment on 7.2.118.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "32094",
+  "sutra_no": "3.2.94",
+  "sutra": "दृशेः क्वनिप्",
+  "field": "an",
+  "now": "कृत्$31093",
+  "suggested": "कृत्$31093##कर्मणि$32093   (add कर्मणि$32093)",
+  "reason": "कर्मणि (the upapada) runs on into 3.2.94: “कर्मणीत्येव” (Kāśikā); मेरुदृश्वा = one who has seen Meru.",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "3.2.94",
+    "quote": "कर्मणीत्येव। दृशेर्धातोःकर्मण्युपपदे क्वनिप् प्रत्ययो भवति"
+   },
+   {
+    "source": "Siddhānta-kaumudī",
+    "on": "3.2.94",
+    "quote": "कर्मणि भूत इत्येव"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), artha",
+    "on": "3.2.94",
+    "quote": "कर्मण्युपपदे दृश्धातोः भूते काले क्वनिप् प्रत्ययो भवति"
+   }
+  ],
+  "settled_by": "Kāśikā (“कर्मणीत्येव”) with the Siddhānta-kaumudī and the prathamāvṛtti; the Mahābhāṣya has no comment on 3.2.94.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "71075",
+  "sutra_no": "7.1.75",
+  "sutra": "अस्थिदधिसक्थ्यक्ष्णामनङुदात्तः",
+  "field": "an",
+  "now": "नुम्$71058##नपुंसकस्य$71072##विभक्तौ$71073##तृतीया-आदिषु$71074",
+  "suggested": "नुम्$71058##नपुंसकस्य$71072##विभक्तौ$71073##अचि$71073##तृतीया-आदिषु$71074   (add अचि$71073)",
+  "reason": "the list carries विभक्तौ from 7.1.73 but not अचि from the same sūtra; the अनङ् comes only before a vowel-initial ending (अस्थ्ना, but अस्थिभ्याम्).",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "7.1.75",
+    "quote": "अचीत्येव — अस्थिभ्याम्"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), anuvṛtti",
+    "on": "7.1.73",
+    "quote": "‹अचि विभक्तौ› की ७।१।७५ तक जायेगी"
+   },
+   {
+    "source": "Siddhānta-kaumudī",
+    "on": "7.1.75",
+    "quote": "एषामनङ् स्याट्टादावचि स चोदात्तः"
+   }
+  ],
+  "settled_by": "Kāśikā (“अचीत्येव”) and prathamāvṛtti; the Mahābhāṣya has no comment on 7.1.75. (7.1.74 already carries अचि$71073 in the data.)",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "72086",
+  "sutra_no": "7.2.86",
+  "sutra": "युष्मदस्मदोरनादेशे",
+  "field": "an",
+  "now": "आः$72084##विभक्तौ$72084",
+  "suggested": "आः$72084##विभक्तौ$72084##हलि$72085   (add हलि$72085)",
+  "reason": "हलि (7.2.85) runs on: the आ replaces only before a consonant-initial ending. The Mahābhāṣya says so in so many words.",
+  "citations": [
+   {
+    "source": "Mahābhāṣya",
+    "on": "7.2.86",
+    "quote": "हलीत्यनुवर्तते"
+   },
+   {
+    "source": "Kāśikā",
+    "on": "7.2.86",
+    "quote": "हलीत्यधिकारादप्यत्र न स्यात्"
+   },
+   {
+    "source": "Siddhānta-kaumudī",
+    "on": "7.2.86",
+    "quote": "अनयोराकारः स्यादनादेशे हलादौ परे"
+   }
+  ],
+  "settled_by": "Mahābhāṣya on 7.2.86 (“हलीत्यनुवर्तते”).",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "74012",
+  "sutra_no": "7.4.12",
+  "sutra": "शॄदॄप्रां ह्रस्वो वा",
+  "field": "an",
+  "now": "गुणः$74010",
+  "suggested": "लिटि$74009##गुणः$74010   (add लिटि$74009)",
+  "reason": "लिटि (7.4.9) runs on (7.4.10 and 7.4.11 carry it in the data; 7.4.12 drops it): the shortening is before लिट् (विशश्रतुः).",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "7.4.12",
+    "quote": "शॄ पॄ दॄ इत्येतेषां अङ्गानां लिटि परतो वा ह्रस्वो भवति"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), artha",
+    "on": "7.4.12",
+    "quote": "इत्येतेषामङ्गानां लिटि परतो वा ह्रस्वो भवति"
+   }
+  ],
+  "settled_by": "Kāśikā and prathamāvṛtti agree; the Mahābhāṣya on 7.4.12 discusses ह्रस्व vs गुण only.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "33128",
+  "sutra_no": "3.3.128",
+  "sutra": "आतो युच्",
+  "field": "an",
+  "now": "कृत्$31093##कृच्छ्र-अकृच्छ्र-अर्थेषु$33126",
+  "suggested": "कृत्$31093##कृच्छ्र-अकृच्छ्र-अर्थेषु$33126##ईषत्-दुस्-सुषु$33126   (add ईषत्-दुस्-सुषु$33126)",
+  "reason": "the upapadas ईषत्/दुस्/सु (3.3.126) run on; the list carries कृच्छ्र-अकृच्छ्र-अर्थेषु from the same sūtra but not them (ईषत्पानः, दुष्पानः, सुपानः).",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "3.3.128",
+    "quote": "ईषदादयोऽनुवर्तन्ते"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), artha",
+    "on": "3.3.128",
+    "quote": "आकारान्तेभ्यो धातुभ्यः कृच्छ्राकृच्छ्रार्थेष्वीषदादिषूपपदेषु युच् प्रत्ययो भवति"
+   }
+  ],
+  "settled_by": "Kāśikā (“ईषदादयोऽनुवर्तन्ते”) and prathamāvṛtti; the Mahābhāṣya has no comment on 3.3.128.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "33129",
+  "sutra_no": "3.3.129",
+  "sutra": "छन्दसि गत्यर्थेभ्यः",
+  "field": "an",
+  "now": "कृत्$31093##युच्$33128",
+  "suggested": "कृत्$31093##ईषत्-दुस्-सुषु$33126##कृच्छ्र-अकृच्छ्र-अर्थेषु$33126##युच्$33128   (add ईषत्-दुस्-सुषु$33126; add कृच्छ्र-अकृच्छ्र-अर्थेषु$33126)",
+  "reason": "both conditions of 3.3.126 run on into 3.3.129 (युच् replaces खल् there: सूपसदनः); the list carries only कृत् and युच्.",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "3.3.129",
+    "quote": "ईषदादिषु कृच्छ्राकृच्छ्रार्थेषूपपदेषु गत्यर्थेभ्यो धातुभ्यश्छन्दसि विषये युच् प्रत्ययो भवति। खलोऽपवादः"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), artha",
+    "on": "3.3.129",
+    "quote": "कृच्छ्राकृच्छ्रार्थेष्वीषदादिषूपपदेषु गत्यर्थेभ्यो धातुभ्यश्छन्दसि विषये युच् प्रत्ययो भवति"
+   }
+  ],
+  "settled_by": "Kāśikā and prathamāvṛtti agree; the Mahābhāṣya has no comment on 3.3.129.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "61062",
+  "sutra_no": "6.1.62",
+  "sutra": "अचि शीर्षः",
+  "field": "pc (case code)",
+  "now": "अचि$S$6$1$",
+  "suggested": "अचि$S$7$1$",
+  "reason": "अचि is the 7th singular of अच् (a vowel), not the 6th (that would be अचः). The Kāśikā reads it as “before a vowel-initial taddhita”.",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "6.1.62",
+    "quote": "आजादौ तद्धिते शिरसः शीर्षशब्द आदेशो भवति"
+   }
+  ],
+  "settled_by": "Kāśikā (the Mahābhāṣya has no comment on 6.1.62).",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "54152",
+  "sutra_no": "5.4.152",
+  "sutra": "इनः स्त्रियाम्",
+  "field": "pc (case code)",
+  "now": "इनः$S$1$1$",
+  "suggested": "इनः$S$5$1$",
+  "reason": "इनः here is the 5th of इन् (“after a bahuvrīhi ending in इन्”), not the 1st.",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "5.4.152",
+    "quote": "इन्नन्ताद् बहुव्रीहेः कप् प्रत्ययो भवति"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "5.4.152",
+    "quote": "इनः ५।१"
+   }
+  ],
+  "settled_by": "Kāśikā and prathamāvṛtti agree.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "31118",
+  "sutra_no": "3.1.118",
+  "sutra": "प्रत्यपिभ्यां ग्रहेश्छन्दसि",
+  "field": "pc (case code)",
+  "now": "ग्रहेः$S$7$1$",
+  "suggested": "ग्रहेः$S$5$1$",
+  "reason": "ग्रहेः is the 5th/6th singular of ग्रहि and cannot be a 7th (that would be ग्रहौ); here it is the 5th (क्यप् after ग्रह्).",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "3.1.118",
+    "quote": "प्रति अपि इत्येवंपूर्वाद् ग्रहेः क्यप् प्रत्ययो भवति"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "3.1.118",
+    "quote": "ग्रहेः ५।१"
+   }
+  ],
+  "settled_by": "Kāśikā and prathamāvṛtti agree; the Mahābhāṣya on 3.1.118 does not discuss the case.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "41064",
+  "sutra_no": "4.1.64",
+  "sutra": "पाककर्णपर्णपुष्पफलमूलवालोत्तरपदाच्च",
+  "field": "pc (case code)",
+  "now": "पाक-कर्ण-पर्ण-पुष्प-फल-मूल-वाल-उत्तरपदात्$S$1$1$",
+  "suggested": "पाक-कर्ण-पर्ण-पुष्प-फल-मूल-वाल-उत्तरपदात्$S$5$1$",
+  "reason": "a word ending in -आत् is a 5th (“from a base whose last member is पाक …”), not a 1st.",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "4.1.64",
+    "quote": "पाकाद्युत्तरपदाज् जातिवाचिनः प्रातिपदिकात् स्त्रियां ङीष् प्रत्ययो भवति"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "4.1.64",
+    "quote": "पदात् ५।१"
+   }
+  ],
+  "settled_by": "Kāśikā and prathamāvṛtti agree.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "51008",
+  "sutra_no": "5.1.8",
+  "sutra": "अजाविभ्यां थ्यन्",
+  "field": "pc (case code)",
+  "now": "अज-अविभ्याम्$S$7$1$",
+  "suggested": "अज-अविभ्याम्$S$5$2$",
+  "reason": "the ending -भ्याम् is dual (3rd/4th/5th) and can never be a 7th singular; as the base of a taddhita it is the 5th dual.",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "5.1.8",
+    "quote": "अज अवि इत्येताभ्यां थ्यन् प्रत्ययो भवति"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "5.1.8",
+    "quote": "अजाविभ्याम् ५।२"
+   }
+  ],
+  "settled_by": "prathamāvṛtti (5th dual); Kāśikā agrees on the reading.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "52137",
+  "sutra_no": "5.2.137",
+  "sutra": "संज्ञायां मन्माभ्याम्",
+  "field": "pc (case code)",
+  "now": "मन्-माभ्याम्$S$7$1$",
+  "suggested": "मन्-माभ्याम्$S$5$2$",
+  "reason": "as 5.1.8: -भ्याम् is dual and cannot be a 7th singular; it is the 5th dual (“after a base ending in मन् or म”).",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "5.2.137",
+    "quote": "मन्नन्तात् प्रातिपदिकाद् मशब्दान्तात् चेनिः प्रत्ययो भवति"
+   },
+   {
+    "source": "Siddhānta-kaumudī",
+    "on": "5.2.137",
+    "quote": "मन्नन्तान्मान्ताच्चेनिर्मत्वर्थे"
+   }
+  ],
+  "settled_by": "Kāśikā and Siddhānta-kaumudī agree.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "61166",
+  "sutra_no": "6.1.166",
+  "sutra": "तिसृभ्यो जसः",
+  "field": "pc (case code)",
+  "now": "तिसृभ्यः$S$6$3$",
+  "suggested": "तिसृभ्यः$S$5$3$",
+  "reason": "the ending -भ्यः is 4th/5th plural and can never be a 6th; here it is the 5th (“the जस् after तिसृ”).",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "6.1.166",
+    "quote": "तिसृभ्य उत्तरस्य जसोऽन्त उदात्तो भवति"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "6.1.166",
+    "quote": "तिसृभ्यः ५।३"
+   }
+  ],
+  "settled_by": "Kāśikā and prathamāvṛtti agree; the Mahābhāṣya on 6.1.166 discusses जस् only.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "14106",
+  "sutra_no": "1.4.106",
+  "sutra": "प्रहासे च मन्योपपदे मन्यतेरुत्तम एकवच्च",
+  "field": "pc (pada)",
+  "now": "उत्तम$S$1$1$",
+  "suggested": "उत्तमः$S$1$1$",
+  "reason": "the pada is written with its last sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself (the case code already says so).",
+  "citations": [
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "1.4.106",
+    "quote": "उत्तमः १।१"
+   },
+   {
+    "source": "ashtadhyayi.com data.txt, field s (the sūtra text)",
+    "on": "1.4.106",
+    "quote": "प्रहासे च मन्योपपदे मन्यतेरुत्तम एकवच्च"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda; no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "81055",
+  "sutra_no": "8.1.55",
+  "sutra": "आम एकान्तरमामन्त्रितमनन्तिके",
+  "field": "pc (pada)",
+  "now": "आम$S$5$1$",
+  "suggested": "आमः$S$5$1$",
+  "reason": "the pada is written with its last sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself (the case code already says so).",
+  "citations": [
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "8.1.55",
+    "quote": "आमः ५।१"
+   },
+   {
+    "source": "ashtadhyayi.com data.txt, field s (the sūtra text)",
+    "on": "8.1.55",
+    "quote": "आम एकान्तरमामन्त्रितमनन्तिके"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda; no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "31008",
+  "sutra_no": "3.1.8",
+  "sutra": "सुप आत्मनः क्यच्",
+  "field": "pc (pada)",
+  "now": "सुप$S$5$1$",
+  "suggested": "सुपः$S$5$1$",
+  "reason": "the pada is written with its last sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself (the case code already says so).",
+  "citations": [
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "3.1.8",
+    "quote": "सुपः ५।१"
+   },
+   {
+    "source": "ashtadhyayi.com data.txt, field s (the sūtra text)",
+    "on": "3.1.8",
+    "quote": "सुप आत्मनः क्यच्"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda; no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "32134",
+  "sutra_no": "3.2.134",
+  "sutra": "आक्वेस्तच्छीलतद्धर्मतत्साधुकारिषु",
+  "field": "pc (pada)",
+  "now": "क्वे$S$5$1$",
+  "suggested": "क्वेः$S$5$1$",
+  "reason": "the pada is written with its last sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself (the case code already says so).",
+  "citations": [
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "3.2.134",
+    "quote": "क्वेः ५।१"
+   },
+   {
+    "source": "ashtadhyayi.com data.txt, field s (the sūtra text)",
+    "on": "3.2.134",
+    "quote": "आक्वेस्तच्छीलतद्धर्मतत्साधुकारिषु"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda; no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "32154",
+  "sutra_no": "3.2.154",
+  "sutra": "लषपतपदस्थाभूवृषहनकमगमशॄभ्य उकञ्",
+  "field": "pc (pada)",
+  "now": "लष-पत-पद-स्था-भू-वृष-हन-कम-गम-शॄभ्य$S$5$3$",
+  "suggested": "लष-पत-पद-स्था-भू-वृष-हन-कम-गम-शॄभ्यः$S$5$3$",
+  "reason": "the pada is written with its last sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself (the case code already says so).",
+  "citations": [
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "3.2.154",
+    "quote": "शॄभ्यः ५।३"
+   },
+   {
+    "source": "ashtadhyayi.com data.txt, field s (the sūtra text)",
+    "on": "3.2.154",
+    "quote": "लषपतपदस्थाभूवृषहनकमगमशॄभ्य उकञ्"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda; no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "42089",
+  "sutra_no": "4.2.89",
+  "sutra": "शिखाया वलच्",
+  "field": "pc (pada)",
+  "now": "शिखाया$S$5$1$",
+  "suggested": "शिखायाः$S$5$1$",
+  "reason": "the pada is written with its last sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself (the case code already says so).",
+  "citations": [
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "4.2.89",
+    "quote": "शिखायाः ५।१"
+   },
+   {
+    "source": "ashtadhyayi.com data.txt, field s (the sūtra text)",
+    "on": "4.2.89",
+    "quote": "शिखाया वलच्"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda; no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "51022",
+  "sutra_no": "5.1.22",
+  "sutra": "संख्याया अतिशदन्तायाः कन्",
+  "field": "pc (pada)",
+  "now": "संख्याया$S$5$1$",
+  "suggested": "संख्यायाः$S$5$1$",
+  "reason": "the pada is written with its last sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself (the case code already says so).",
+  "citations": [
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "5.1.22",
+    "quote": "सङ्ख्यायाः ५।१"
+   },
+   {
+    "source": "ashtadhyayi.com data.txt, field s (the sūtra text)",
+    "on": "5.1.22",
+    "quote": "संख्याया अतिशदन्तायाः कन्"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda; no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "53054",
+  "sutra_no": "5.3.54",
+  "sutra": "षष्ठ्या रूप्य च",
+  "field": "pc (pada)",
+  "now": "षष्ठ्या$S$5$1$",
+  "suggested": "षष्ठ्याः$S$5$1$",
+  "reason": "the pada is written with its last sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself (the case code already says so).",
+  "citations": [
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "5.3.54",
+    "quote": "षष्ठ्याः ५।१"
+   },
+   {
+    "source": "ashtadhyayi.com data.txt, field s (the sūtra text)",
+    "on": "5.3.54",
+    "quote": "षष्ठ्या रूप्य च"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda; no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "63021",
+  "sutra_no": "6.3.21",
+  "sutra": "षष्ठ्या आक्रोशे",
+  "field": "pc (pada)",
+  "now": "षष्ठ्या$S$6$1$",
+  "suggested": "षष्ठ्याः$S$6$1$",
+  "reason": "the pada is written with its last sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself (the case code already says so).",
+  "citations": [
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "6.3.21",
+    "quote": "षष्ठ्याः ६।१"
+   },
+   {
+    "source": "ashtadhyayi.com data.txt, field s (the sūtra text)",
+    "on": "6.3.21",
+    "quote": "षष्ठ्या आक्रोशे"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda; no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "71009",
+  "sutra_no": "7.1.9",
+  "sutra": "अतो भिस ऐस्",
+  "field": "pc (pada)",
+  "now": "भिस$S$6$1$",
+  "suggested": "भिसः$S$6$1$",
+  "reason": "the pada is written with its last sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself (the case code already says so).",
+  "citations": [
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "7.1.9",
+    "quote": "भिसः ६।१"
+   },
+   {
+    "source": "ashtadhyayi.com data.txt, field s (the sūtra text)",
+    "on": "7.1.9",
+    "quote": "अतो भिस ऐस्"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda; no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "72101",
+  "sutra_no": "7.2.101",
+  "sutra": "जराया जरसन्यतरस्याम्",
+  "field": "pc (pada)",
+  "now": "जराया$S$6$1$",
+  "suggested": "जरायाः$S$6$1$",
+  "reason": "the pada is written with its last sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself (the case code already says so).",
+  "citations": [
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "7.2.101",
+    "quote": "जरायाः ६।१"
+   },
+   {
+    "source": "ashtadhyayi.com data.txt, field s (the sūtra text)",
+    "on": "7.2.101",
+    "quote": "जराया जरसन्यतरस्याम्"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda; no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "74034",
+  "sutra_no": "7.4.34",
+  "sutra": "अशनायोदन्यधनाया बुभुक्षापिपासागर्द्धेषु",
+  "field": "pc (pada)",
+  "now": "अशनायोदन्यधनाया$S$1$3$",
+  "suggested": "अशनायोदन्यधनायाः$S$1$3$",
+  "reason": "the pada is written with its last sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself (the case code already says so).",
+  "citations": [
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "7.4.34",
+    "quote": "अशनायोदन्यधनायाः १।३"
+   },
+   {
+    "source": "ashtadhyayi.com data.txt, field s (the sūtra text)",
+    "on": "7.4.34",
+    "quote": "अशनायोदन्यधनाया बुभुक्षापिपासागर्द्धेषु"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda; no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "81062",
+  "sutra_no": "8.1.62",
+  "sutra": "चाहलोप एवेत्यवधारणम्",
+  "field": "pc (pada)",
+  "now": "चाहलोप$S$7$1$",
+  "suggested": "चाहलोपे$S$7$1$",
+  "reason": "the pada is written with its last sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself (the case code already says so).",
+  "citations": [
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "8.1.62",
+    "quote": "चाहलोपे ७।१"
+   },
+   {
+    "source": "ashtadhyayi.com data.txt, field s (the sūtra text)",
+    "on": "8.1.62",
+    "quote": "चाहलोप एवेत्यवधारणम्"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda; no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "82076",
+  "sutra_no": "8.2.76",
+  "sutra": "र्वोरुपधाया दीर्घ इकः",
+  "field": "pc (pada)",
+  "now": "दीर्घ$S$1$1$",
+  "suggested": "दीर्घः$S$1$1$",
+  "reason": "the pada is written with its last sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself (the case code already says so).",
+  "citations": [
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "8.2.76",
+    "quote": "दीर्घः १।१"
+   },
+   {
+    "source": "ashtadhyayi.com data.txt, field s (the sūtra text)",
+    "on": "8.2.76",
+    "quote": "र्वोरुपधाया दीर्घ इकः"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda; no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "33160",
+  "sutra_no": "3.3.160",
+  "sutra": "इच्छार्थेभ्यो विभाषा वर्तमाने",
+  "field": "pc (pada)",
+  "now": "इच्छार्थेभ्यो$S$5$3$",
+  "suggested": "इच्छार्थेभ्यः$S$5$3$",
+  "reason": "the pada is written with its last sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself (the case code already says so).",
+  "citations": [
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "3.3.160",
+    "quote": "इच्छार्थेभ्यः ५।३"
+   },
+   {
+    "source": "ashtadhyayi.com data.txt, field s (the sūtra text)",
+    "on": "3.3.160",
+    "quote": "इच्छार्थेभ्यो विभाषा वर्तमाने"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda; no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "54130",
+  "sutra_no": "5.4.130",
+  "sutra": "ऊर्ध्वाद्विभाषा",
+  "field": "pc (pada)",
+  "now": "ऊर्ध्वाद्$S$5$1$",
+  "suggested": "ऊर्ध्वात्$S$5$1$",
+  "reason": "the pada is written with its last sound as changed by sandhi in the sūtra; the padaccheda should give the pada itself (the case code already says so).",
+  "citations": [
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "5.4.130",
+    "quote": "ऊर्ध्वात् ५।१"
+   },
+   {
+    "source": "ashtadhyayi.com data.txt, field s (the sūtra text)",
+    "on": "5.4.130",
+    "quote": "ऊर्ध्वाद्विभाषा"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda; no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "32066",
+  "sutra_no": "3.2.66",
+  "sutra": "हव्येऽनन्तः पादम्",
+  "field": "pc (pada)",
+  "now": "हव्येः$S$7$1$",
+  "suggested": "हव्ये$S$7$1$",
+  "reason": "the sūtra is हव्येऽनन्तःपादम् = हव्ये (7th singular of हव्य, the upapada) + अनन्तःपादम्; the case code already says 7th, but the form has a stray visarga.",
+  "citations": [
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "3.2.66",
+    "quote": "हव्ये ७।१"
+   },
+   {
+    "source": "Kāśikā",
+    "on": "3.2.66",
+    "quote": "हव्यशब्द उपपदे छन्दसि विषये वहेर्धातोर्ञ्युट् प्रत्ययो भवति"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda (and the Kāśikā where quoted); no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "32083",
+  "sutra_no": "3.2.83",
+  "sutra": "आत्ममाने खश्च",
+  "field": "pc (pada)",
+  "now": "खः$S$1$1$",
+  "suggested": "खश्$S$1$1$",
+  "reason": "the sūtra खश्च is the suffix खश् + च. (खः + च would give the same string by sandhi, but no suffix ख is meant here: the rule teaches खश्, as in पण्डितंमन्यः.)",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "3.2.83",
+    "quote": "सुप्युपपदे खश् प्रत्ययो भवति"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "3.2.83",
+    "quote": "खश् १।१"
+   }
+  ],
+  "settled_by": "Kāśikā and prathamāvṛtti agree; the Mahābhāṣya on 3.2.83 discusses आत्मग्रहण only.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "22027",
+  "sutra_no": "2.2.27",
+  "sutra": "तत्र तेनेदमिति सरूपे",
+  "field": "pc (pada)",
+  "now": "तेन्$S$3$1$",
+  "suggested": "तेन$S$3$1$",
+  "reason": "typo: a stray virāma on the pronoun तेन (3rd singular).",
+  "citations": [
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "2.2.27",
+    "quote": "तेन ३।१"
+   },
+   {
+    "source": "Kāśikā",
+    "on": "2.2.27",
+    "quote": "तेनेति तृतीयान्तम्"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda (and the Kāśikā where quoted); no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "54081",
+  "sutra_no": "5.4.81",
+  "sutra": "अन्ववतप्ताद्रहसः",
+  "field": "pc (pada)",
+  "now": "अनु्-अव-तप्तात्$S$5$1$",
+  "suggested": "अनु-अव-तप्तात्$S$5$1$",
+  "reason": "typo: a stray virāma on अनु.",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "5.4.81",
+    "quote": "अनु अव तप्त इत्येतेभ्यः परो यो रहश्शब्दस्तदन्तात् समासादच् प्रत्ययो भवति"
+   },
+   {
+    "source": "ashtadhyayi.com data.txt, field s (the sūtra text)",
+    "on": "5.4.81",
+    "quote": "अन्ववतप्ताद्रहसः"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda (and the Kāśikā where quoted); no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "61188",
+  "sutra_no": "6.1.188",
+  "sutra": "स्वपादिहिंसामच्यनिटि",
+  "field": "pc (pada)",
+  "now": "स्वपादिः-हिंसाम्$S$6$3$",
+  "suggested": "स्वपादि-हिंसाम्$S$6$3$",
+  "reason": "a stray visarga inside the compound (the member is स्वपादि).",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "6.1.188",
+    "quote": "स्वपादीनां हिंसेश्चाजादावनिटि लसार्वधातुके परतोऽन्यतरस्यामादिरुदात्तो भवति"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "6.1.188",
+    "quote": "स्वपादिहिंसाम् ६।३"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda (and the Kāśikā where quoted); no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "62138",
+  "sutra_no": "6.2.138",
+  "sutra": "शितेर्नित्याबह्वज्बहुव्रीहावभसत्",
+  "field": "pc (pada)",
+  "now": "नित्य-अबह्वव्च्$S$1$1$",
+  "suggested": "नित्य-अबह्वच्$S$1$1$",
+  "reason": "typo: अबह्वव्च् for अबह्वच् (“not having many vowels”).",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "6.2.138",
+    "quote": "शितेरुत्तरपदं नित्यं यदबह्वज्"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "6.2.138",
+    "quote": "नित्याबह्वच् १।१"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda (and the Kāśikā where quoted); no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "62021",
+  "sutra_no": "6.2.21",
+  "sutra": "आशङ्काबाधनेदीयस्सु संभावने",
+  "field": "pc (pada)",
+  "now": "आशङ्क-आबाध-नेदियस्सु$S$7$3$",
+  "suggested": "आशङ्क-आबाध-नेदीयस्सु$S$7$3$",
+  "reason": "typo: नेदियस् for नेदीयस् (comparative of अन्तिक, 5.3.63). (आशङ्क is right as it stands: the Kāśikā and the prathamāvṛtti read आशङ्क.)",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "6.2.21",
+    "quote": "आशङ्क आबाध नेदीयस् इत्येतेषूत्तरपदेषु"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), artha",
+    "on": "6.2.21",
+    "quote": "आशङ्क, अबाध, नेदीयस् इत्येतेषूत्तरपदेषु"
+   },
+   {
+    "source": "ashtadhyayi.com data.txt, field s (the sūtra text)",
+    "on": "6.2.21",
+    "quote": "आशङ्काबाधनेदीयस्सु संभावने"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda (and the Kāśikā where quoted); no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "33037",
+  "sutra_no": "3.3.37",
+  "sutra": "परिन्योर्नीणोर्द्यूताभ्रेषयोः",
+  "field": "pc (pada)",
+  "now": "द्युत-अभ्रेषयोः$S$7$2$",
+  "suggested": "द्यूत-अभ्रेषयोः$S$7$2$",
+  "reason": "the sūtra has द्यूताभ्रेषयोः: the member is द्यूत (“gambling”), with a long ū.",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "3.3.37",
+    "quote": "द्यूतविषयश्चेन्नयतेरर्थः"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "3.3.37",
+    "quote": "द्यूताभ्रेषयोः ७।२"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda (and the Kāśikā where quoted); no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "33122",
+  "sutra_no": "3.3.122",
+  "sutra": "अध्यायन्यायोद्यावसंहाराधारावायाश्च",
+  "field": "pc (pada)",
+  "now": "अध्याय-न्याय-उद्याव-संहार-आधार-आवयाः$S$1$3$",
+  "suggested": "अध्याय-न्याय-उद्याव-संहार-आधार-आवायाः$S$1$3$",
+  "reason": "the last member is आवाय (…संहाराधारावायाश्च), not आवय.",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "3.3.122",
+    "quote": "आवयन्त्यस्मिन्नित्यावायः"
+   },
+   {
+    "source": "ashtadhyayi.com data.txt, field s (the sūtra text)",
+    "on": "3.3.122",
+    "quote": "अध्यायन्यायोद्यावसंहाराधारावायाश्च"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda (and the Kāśikā where quoted); no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "54074",
+  "sutra_no": "5.4.74",
+  "sutra": "ऋक्पूरब्धूःपथामानक्षे",
+  "field": "pc (pada)",
+  "now": "ऋक्पूरप्धूःपथाम्$S$6$3$",
+  "suggested": "ऋक्-पुर्-अप्-धुर्-पथाम्$S$6$3$",
+  "reason": "the sūtra has ऋक्पूरब्धूःपथाम् (members ऋच्, पुर्, अप्, धुर्, पथिन्); the pc form has अप् unvoiced (प् for ब्) and matches neither the sūtra nor a split. If you prefer an unsplit form, at least ऋक्पूरब्धूःपथाम् as the sūtra writes it.",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "5.4.74",
+    "quote": "ऋक्  पुर् अप् धुर् पथिन् इत्येवमन्तानां समासानामकारः प्रत्ययो भवति"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "5.4.74",
+    "quote": "ऋक्पूरब्धूःपथाम् ६।३"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda (and the Kāśikā where quoted); no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "63065",
+  "sutra_no": "6.3.65",
+  "sutra": "इष्टकेषीकामालानां चिततूलभारिषु",
+  "field": "pc (pada)",
+  "now": "इष्टका-इषिका-मालानाम्$S$6$3$",
+  "suggested": "इष्टका-इषीका-मालानाम्$S$6$3$",
+  "reason": "the member is इषीका (long ī), as in the sūtra इष्टकेषीकामालानाम् and the example इषीकतूलम्.",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "6.3.65",
+    "quote": "इष्टकेषीकामालानां चित तूल भारिन् इत्येतेषूत्तरपदेषु यथासंख्यं ह्रस्वो भवति। इष्टकचितम्। इषीकतूलम्"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "6.3.65",
+    "quote": "इष्टकेषीकामालानाम् ६।३"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda (and the Kāśikā where quoted); no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "63092",
+  "sutra_no": "6.3.92",
+  "sutra": "विष्वग्देवयोश्च टेरद्र्यञ्चतावप्रत्यये",
+  "field": "pc (pada)",
+  "now": "अप्रत्यये$S$7$1$",
+  "suggested": "वप्रत्यये$S$7$1$",
+  "reason": "the sūtra is …अञ्चतौ वप्रत्यये (“before अञ्चु ending in the suffix व्”, i.e. क्विन्), not अप्रत्यये. The Mahābhāṣya quotes the sūtra so; the Kāśikā explains वप्रत्यय with a counter-example. (The Siddhānta-kaumudī reads अप्रत्ययान्ते, but the Bhāṣya outranks it.)",
+  "citations": [
+   {
+    "source": "Mahābhāṣya",
+    "on": "6.3.92",
+    "quote": "विष्वग्देवयोश्च टेरद्र्यञ्चतौ वप्रत्यये"
+   },
+   {
+    "source": "Kāśikā",
+    "on": "6.3.92",
+    "quote": "वप्रत्यय इति किम्? विष्वगञ्चनम्"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "6.3.92",
+    "quote": "वप्रत्यये ७।१"
+   },
+   {
+    "source": "Siddhānta-kaumudī",
+    "on": "6.3.92",
+    "quote": "स्यादप्रत्ययान्तेऽञ्चतौ परे"
+   }
+  ],
+  "settled_by": "Mahābhāṣya on 6.3.92 (it reads “वप्रत्यये”); Kāśikā and prathamāvṛtti agree; the Siddhānta-kaumudī differs and is outranked.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "64093",
+  "sutra_no": "6.4.93",
+  "sutra": "चिण्णमुलोर्दीर्घोऽन्यतरस्याम्",
+  "field": "pc (pada)",
+  "now": "चित्-णमुलोः$S$7$2$",
+  "suggested": "चिण्-णमुलोः$S$7$2$",
+  "reason": "the suffix is चिण् (चिण्णमुलोः = चिण् + णमुलोः), not चित्.",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "6.4.93",
+    "quote": "चिण्परे णमुल्परे च णौ परतो"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "6.4.93",
+    "quote": "चिण्णमुलोः ७।२"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda (and the Kāśikā where quoted); no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "71069",
+  "sutra_no": "7.1.69",
+  "sutra": "विभाषा चिण्णमुलोः",
+  "field": "pc (pada)",
+  "now": "चित्-णमुलोः$S$7$2$",
+  "suggested": "चिण्-णमुलोः$S$7$2$",
+  "reason": "as 6.4.93: the suffix is चिण्, not चित्.",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "7.1.69",
+    "quote": "चिण् णमुल् इत्येतयोर्विभाषा लभेर्नुम् भवति"
+   },
+   {
+    "source": "ashtadhyayi.com data.txt, field s (the sūtra text)",
+    "on": "7.1.69",
+    "quote": "विभाषा चिण्णमुलोः"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda (and the Kāśikā where quoted); no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "81066",
+  "sutra_no": "8.1.66",
+  "sutra": "यद्वृत्तान्नित्यम्",
+  "field": "pc (pada)",
+  "now": "यद्वृतात्$S$5$1$",
+  "suggested": "यद्वृत्तात्$S$5$1$",
+  "reason": "the sūtra is यद्वृत्तान्नित्यम्: the word is वृत्त (double त्).",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "8.1.66",
+    "quote": "यदो वृत्तं यद्वृत्तम्"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "8.1.66",
+    "quote": "यद्वृत्तात् ५।१"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda (and the Kāśikā where quoted); no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "81057",
+  "sutra_no": "8.1.57",
+  "sutra": "चनचिदिवगोत्रादितद्धिताम्रेडितेष्वगतेः",
+  "field": "pc (pada)",
+  "now": "आगतेः$S$5$1$",
+  "suggested": "अगतेः$S$5$1$",
+  "reason": "the sūtra ends …आम्रेडितेष्वगतेः = अगतेः (“after a word that is not a gati”), with a short अ.",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "8.1.57",
+    "quote": "परतोऽगतेरुत्तरं तिङन्तं नानुदात्तं भवति"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "8.1.57",
+    "quote": "अगतेः ५।१"
+   }
+  ],
+  "settled_by": "the sūtra text and the prathamāvṛtti padaccheda (and the Kāśikā where quoted); no source differs.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "62144",
+  "sutra_no": "6.2.144",
+  "sutra": "थाथघञ्क्ताजबित्रकाणाम्",
+  "field": "pc (pada)",
+  "now": "थ-अथ-घञ्-क्त-अचपित्र-काणाम्$S$6$3$",
+  "suggested": "थ-अथ-घञ्-क्त-अच्-अप्-इत्र-काणाम्$S$6$3$",
+  "reason": "the sūtra थाथघञ्क्ताजबित्रकाणाम् has eight members (थ, अथ, घञ्, क्त, अच्, अप्, इत्र, क); the pc runs अच्-अप्-इत्र together as अचपित्र.",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "6.2.144",
+    "quote": "थ अथ घञ् क्त  अज् अप् इत्र क इत्येवमन्तानामुत्तरपदानां"
+   }
+  ],
+  "settled_by": "Kāśikā (the Mahābhāṣya has no comment on 6.2.144).",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "13071",
+  "sutra_no": "1.3.71",
+  "sutra": "मिथ्योपपदात् कृञोऽभ्यासे",
+  "field": "pc (pada)",
+  "now": "मिथ्या$S$0$0$##उपपदात्$S$5$1$",
+  "suggested": "मिथ्या-उपपदात्$S$5$1$",
+  "reason": "the sūtra pada is the one compound मिथ्योपपदात् (“having मिथ्या as upapada”). The data splits it into two padas, मिथ्या (an indeclinable) and उपपदात्; it should be one pada with the members hyphenated, as elsewhere in the data.",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "1.3.71",
+    "quote": "मिथ्योपपदादिति किम्? पदं सुष्ठु कारयति"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "1.3.71",
+    "quote": "मिथ्योपपदात् ५।१"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), artha",
+    "on": "1.3.71",
+    "quote": "मिथ्याशब्दोपपदादभ्यासे"
+   }
+  ],
+  "settled_by": "Kāśikā and prathamāvṛtti agree; the Mahābhāṣya has no comment on 1.3.71.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "82094",
+  "sutra_no": "8.2.94",
+  "sutra": "निगृह्यानुयोगे च",
+  "field": "pc (pada)",
+  "now": "निगृह्य$S$0$0$##अनुयोगे$S$7$1$",
+  "suggested": "निगृह्य-अनुयोगे$S$7$1$",
+  "reason": "the sūtra pada is the one compound निगृह्यानुयोगे (“in questioning after refuting”). The data splits it into the gerund निगृह्य and अनुयोगे; it should be one pada.",
+  "citations": [
+   {
+    "source": "Kāśikā",
+    "on": "8.2.94",
+    "quote": "तत्र निगृह्यानुयोगे यद् वाक्यं वर्तते तस्य टेः प्लुतो भवति विभाषा"
+   },
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "8.2.94",
+    "quote": "निगृह्यानुयोगे ७।१"
+   }
+  ],
+  "settled_by": "Kāśikā and prathamāvṛtti agree; the Mahābhāṣya has no comment on 8.2.94.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "63073",
+  "sutra_no": "6.3.73",
+  "sutra": "नलोपो नञः",
+  "field": "pc (pada)",
+  "now": "न$S$$$6##लोपः$S$1$1$",
+  "suggested": "न-लोपः$S$1$1$",
+  "reason": "the sūtra pada is the one compound नलोपः (“deletion of न”). The data splits it into न (coded as a caseless 6th) and लोपः; it should be one pada.",
+  "citations": [
+   {
+    "source": "prathamāvṛtti (Brahmadatta Jijñāsu), padaccheda",
+    "on": "6.3.73",
+    "quote": "नलोपः १।१"
+   },
+   {
+    "source": "Kāśikā",
+    "on": "6.3.73",
+    "quote": "नञो नकारस्य लोपो भवत्युत्तरपदे"
+   },
+   {
+    "source": "Kāśikā",
+    "on": "6.3.73",
+    "quote": "नञो नलोपोऽवक्षेपे तिङ्युपसंख्यानम्"
+   }
+  ],
+  "settled_by": "prathamāvṛtti padaccheda; the Kāśikā (and the vārttika it quotes) use नलोप as one word; the Mahābhāṣya on 6.3.73 discusses नञ्/न only.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "13047",
+  "sutra_no": "1.3.47",
+  "sutra": "भासनोपसम्भाषाज्ञानयत्नविमत्युपमन्त्रणेषु वदः",
+  "field": "commentary file (laghukaumudi.txt)",
+  "now": "laghukaumudi.txt[\"13047\"] = «अजन्तस्येत्येव। श्रीपं ज्ञानवत्॥»",
+  "suggested": "empty string at \"13047\" (1.3.47 is not in the Laghukaumudī: data.txt lskn = 0). The text is the Laghukaumudī on 1.2.47 ह्रस्वो नपुंसके प्रातिपदिकस्य (id 12047, lskn 242), where it already stands.",
+  "reason": "a second, slightly different copy of the Laghukaumudī text on 1.2.47 is filed under 13047 (1.3.47 भासनोपसम्भाषाज्ञानयत्नविमत्युपमन्त्रणेषु वदः); the two ids differ by a digit slip.",
+  "citations": [
+   {
+    "source": "Laghu-kaumudī",
+    "on": "1.3.47",
+    "quote": "अजन्तस्येत्येव। श्रीपं ज्ञानवत्॥"
+   },
+   {
+    "source": "Laghu-kaumudī",
+    "on": "1.2.47",
+    "quote": "अजन्तस्येत्येव । श्रीपं ज्ञानवत्"
+   },
+   {
+    "source": "Siddhānta-kaumudī",
+    "on": "1.2.47",
+    "quote": "श्रीपम् । ज्ञानवत्"
+   }
+  ],
+  "settled_by": "the data itself (lskn) and the Siddhānta-kaumudī on 1.2.47; no muni involved.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "12062",
+  "sutra_no": "1.2.62",
+  "sutra": "विशाखयोश्च",
+  "field": "commentary file (laghukaumudi.txt)",
+  "now": "laghukaumudi.txt[\"12062\"] = «सनः पूर्वो यो धातुस्तेन तुल्यं सन्नन्तादप्यात्मनेपदं स्यात्। एदिधिष्यते॥»",
+  "suggested": "empty string at \"12062\" (1.2.62 is not in the Laghukaumudī: data.txt lskn = 0). The text is the Laghukaumudī on 1.3.62 पूर्ववत् सनः (id 13062, lskn 738), where it already stands. The stray copy also has a typo (एदिधिष्यते for एदिधिषते).",
+  "reason": "a second, slightly different copy of the Laghukaumudī text on 1.3.62 is filed under 12062 (1.2.62 विशाखयोश्च); the two ids differ by a digit slip.",
+  "citations": [
+   {
+    "source": "Laghu-kaumudī",
+    "on": "1.2.62",
+    "quote": "सनः पूर्वो यो धातुस्तेन तुल्यं सन्नन्तादप्यात्मनेपदं स्यात्। एदिधिष्यते॥"
+   },
+   {
+    "source": "Laghu-kaumudī",
+    "on": "1.3.62",
+    "quote": "सनः पूर्वो यो धातुस्तेन तुल्यं सन्नन्तादप्यात्मनेपदं स्यात् । एदिधिषते"
+   },
+   {
+    "source": "Siddhānta-kaumudī",
+    "on": "1.3.62",
+    "quote": "एदिधिषते"
+   }
+  ],
+  "settled_by": "the data itself (lskn) and the Siddhānta-kaumudī on 1.3.62; no muni involved.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "22026",
+  "sutra_no": "2.2.26",
+  "sutra": "दिङ्नामान्यन्तराले",
+  "field": "commentary file (laghukaumudi.txt)",
+  "now": "laghukaumudi.txt[\"22026\"] = «इवर्णोवर्णोपधाद्धलादेः रलन्तात्परौ क्त्वासनौ सेटौ वा कितौ स्तः। द्युतित्वा, द्योतित्वा। लिखित्वा, लेखित्वा। व्युपधात्किम्? वर्तित्वा। रलः किम्? एषित्वा। सेट् किम्? भुक्त्वा॥»",
+  "suggested": "empty string at \"22026\" (2.2.26 is not in the Laghukaumudī: data.txt lskn = 0). The text is the Laghukaumudī on 1.2.26 रलो व्युपधाद्धलादेः संश्च (id 12026, lskn 877), where it already stands. (The stray copy has lost the words “सेवित्वा । हलादेः किम्?”, so it reads “रलः किम्? एषित्वा”.)",
+  "reason": "a second, slightly different copy of the Laghukaumudī text on 1.2.26 is filed under 22026 (2.2.26 दिङ्नामान्यन्तराले); the two ids differ by a digit slip.",
+  "citations": [
+   {
+    "source": "Laghu-kaumudī",
+    "on": "2.2.26",
+    "quote": "इवर्णोवर्णोपधाद्धलादेः रलन्तात्परौ क्त्वासनौ सेटौ वा कितौ स्तः। द्युतित्वा, द्योतित्वा। लिखित्वा, लेखित्वा। व्युपधात्किम्? वर्तित्वा। रलः किम्? एषित्वा। सेट् किम्? भुक्त्वा॥"
+   },
+   {
+    "source": "Laghu-kaumudī",
+    "on": "1.2.26",
+    "quote": "रलः किम् ? सेवित्वा । हलादेः किम् ? एषित्वा"
+   },
+   {
+    "source": "Siddhānta-kaumudī",
+    "on": "1.2.26",
+    "quote": "क्त्वासनौ सेटौ वा कितौ स्तः"
+   }
+  ],
+  "settled_by": "the data itself (lskn) and the Siddhānta-kaumudī on 1.2.26; no muni involved.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "33046",
+  "sutra_no": "3.3.46",
+  "sutra": "प्रे लिप्सायाम्",
+  "field": "commentary file (laghukaumudi.txt)",
+  "now": "laghukaumudi.txt[\"33046\"] = «इवर्णान्तादच्। चयः। जयः॥»",
+  "suggested": "empty string at \"33046\" (3.3.46 is not in the Laghukaumudī: data.txt lskn = 0). The text is the Laghukaumudī on 3.3.56 एरच् (id 33056, lskn 851), where it already stands.",
+  "reason": "a second, slightly different copy of the Laghukaumudī text on 3.3.56 is filed under 33046 (3.3.46 प्रे लिप्सायाम्); the two ids differ by a digit slip.",
+  "citations": [
+   {
+    "source": "Laghu-kaumudī",
+    "on": "3.3.46",
+    "quote": "इवर्णान्तादच्। चयः। जयः॥"
+   },
+   {
+    "source": "Laghu-kaumudī",
+    "on": "3.3.56",
+    "quote": "इवर्णान्तादच् । चयः । जयः"
+   },
+   {
+    "source": "Siddhānta-kaumudī",
+    "on": "3.3.56",
+    "quote": "चयः । जयः"
+   }
+  ],
+  "settled_by": "the data itself (lskn) and the Siddhānta-kaumudī on 3.3.56; no muni involved.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "61133",
+  "sutra_no": "6.1.133",
+  "sutra": "स्यश्छन्दसि बहुलम्",
+  "field": "commentary file (laghukaumudi.txt)",
+  "now": "laghukaumudi.txt[\"61133\"] = «पदान्ते एङन्तस्य गोरवङ् वाचि। गवाग्रम्, गोऽग्रम्। पदान्ते किम्? गवि॥»",
+  "suggested": "empty string at \"61133\" (6.1.133 is not in the Laghukaumudī: data.txt lskn = 0). The text is the Laghukaumudī on 6.1.123 अवङ् स्फोटायनस्य (id 61123, lskn 47), where it already stands.",
+  "reason": "a second, slightly different copy of the Laghukaumudī text on 6.1.123 is filed under 61133 (6.1.133 स्यश्छन्दसि बहुलम्); the two ids differ by a digit slip.",
+  "citations": [
+   {
+    "source": "Laghu-kaumudī",
+    "on": "6.1.133",
+    "quote": "पदान्ते एङन्तस्य गोरवङ् वाचि। गवाग्रम्, गोऽग्रम्। पदान्ते किम्? गवि॥"
+   },
+   {
+    "source": "Laghu-kaumudī",
+    "on": "6.1.123",
+    "quote": "पदान्ते एङन्तस्य गोरवङ् वाऽचि । गवाग्रम्, गोऽग्रम्"
+   },
+   {
+    "source": "Siddhānta-kaumudī",
+    "on": "6.1.123",
+    "quote": "अचि परे पदान्ते गोरवङ् वा स्यात्"
+   }
+  ],
+  "settled_by": "the data itself (lskn) and the Siddhānta-kaumudī on 6.1.123; no muni involved.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "62184",
+  "sutra_no": "6.2.184",
+  "sutra": "निरुदकादीनि च",
+  "field": "commentary file (laghukaumudi.txt)",
+  "now": "laghukaumudi.txt[\"62184\"] = «अरित्रम्। लवित्रम्। धुवित्रम्। सवित्रम्। खनित्रम्। सहित्रम्। चरित्रम्॥»",
+  "suggested": "empty string at \"62184\" (6.2.184 is not in the Laghukaumudī: data.txt lskn = 0). The text is the Laghukaumudī on 3.2.184 अर्तिलूधूसूखनसहचर इत्रः (id 32184, lskn 842), where it already stands.",
+  "reason": "a second, slightly different copy of the Laghukaumudī text on 3.2.184 is filed under 62184 (6.2.184 निरुदकादीनि च); the two ids differ by a digit slip.",
+  "citations": [
+   {
+    "source": "Laghu-kaumudī",
+    "on": "6.2.184",
+    "quote": "अरित्रम्। लवित्रम्। धुवित्रम्। सवित्रम्। खनित्रम्। सहित्रम्। चरित्रम्॥"
+   },
+   {
+    "source": "Laghu-kaumudī",
+    "on": "3.2.184",
+    "quote": "अरित्रम् । लवित्रम् । धुवित्रम्"
+   },
+   {
+    "source": "Siddhānta-kaumudī",
+    "on": "3.2.184",
+    "quote": "अरित्रम् । लवित्रम्"
+   }
+  ],
+  "settled_by": "the data itself (lskn) and the Siddhānta-kaumudī on 3.2.184; no muni involved.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "64070",
+  "sutra_no": "6.4.70",
+  "sutra": "मयतेरिदन्यतरस्याम्",
+  "field": "commentary file (laghukaumudi.txt)",
+  "now": "laghukaumudi.txt[\"64070\"] = «अभ्यासस्यादेरतो दीर्घः स्यात्। आत। आततुः। आतुः। आतिथ। आतथुः। आत। आत। आतिव। आतिम। अतिता। अतिष्यति। अततु॥»",
+  "suggested": "empty string at \"64070\" (6.4.70 is not in the Laghukaumudī: data.txt lskn = 0). The text is the Laghukaumudī on 7.4.70 अत आदेः (id 74070, lskn 441), where it already stands.",
+  "reason": "a second, slightly different copy of the Laghukaumudī text on 7.4.70 is filed under 64070 (6.4.70 मयतेरिदन्यतरस्याम्); the two ids differ by a digit slip.",
+  "citations": [
+   {
+    "source": "Laghu-kaumudī",
+    "on": "6.4.70",
+    "quote": "अभ्यासस्यादेरतो दीर्घः स्यात्। आत। आततुः। आतुः। आतिथ। आतथुः। आत। आत। आतिव। आतिम। अतिता। अतिष्यति। अततु॥"
+   },
+   {
+    "source": "Laghu-kaumudī",
+    "on": "7.4.70",
+    "quote": "अभ्यासस्यादेरतो दीर्घः स्यात्"
+   },
+   {
+    "source": "Siddhānta-kaumudī",
+    "on": "7.4.70",
+    "quote": "अभ्यासस्यादेरतो दीर्घः स्यात्"
+   }
+  ],
+  "settled_by": "the data itself (lskn) and the Siddhānta-kaumudī on 7.4.70; no muni involved.",
+  "status": "still in the data as of 2026-11-22"
+ },
+ {
+  "id": "74057",
+  "sutra_no": "7.4.57",
+  "sutra": "मुचोऽकर्मकस्य गुणो वा",
+  "field": "commentary file (laghukaumudi.txt)",
+  "now": "laghukaumudi.txt[\"74057\"] = «णिज्विज्विषामभ्यासस्य गुणः स्यात् श्लौ। नेनेक्ति। नेनिक्तः। नेनिजति। नेनिक्ते। निनेज, निनिजे। नेक्ता। नेक्ष्यति, नेक्ष्यते। नेनेक्तु। नेनिग्धि॥»",
+  "suggested": "empty string at \"74057\" (7.4.57 is not in the Laghukaumudī: data.txt lskn = 0). The text is the Laghukaumudī on 7.4.75 निजां त्रयाणां गुणः श्लौ (id 74075, lskn 625), where it already stands. Note the other way round: the entry at 74075 lacks the first example नेनेक्ति, which the stray copy and the Siddhānta-kaumudī have — please keep it when you delete the stray copy.",
+  "reason": "a second, slightly different copy of the Laghukaumudī text on 7.4.75 is filed under 74057 (7.4.57 मुचोऽकर्मकस्य गुणो वा); the two ids differ by a digit slip.",
+  "citations": [
+   {
+    "source": "Laghu-kaumudī",
+    "on": "7.4.57",
+    "quote": "णिज्विज्विषामभ्यासस्य गुणः स्यात् श्लौ। नेनेक्ति। नेनिक्तः। नेनिजति। नेनिक्ते। निनेज, निनिजे। नेक्ता। नेक्ष्यति, नेक्ष्यते। नेनेक्तु। नेनिग्धि॥"
+   },
+   {
+    "source": "Laghu-kaumudī",
+    "on": "7.4.75",
+    "quote": "णिज्विज्विषामभ्यासस्य गुणः स्यात् श्लौ । नेनिक्तः"
+   },
+   {
+    "source": "Siddhānta-kaumudī",
+    "on": "7.4.75",
+    "quote": "णिज्विज्विषामभ्यासस्य गुणः स्यात श्लौ । नेनेक्ति । नेनिक्तः"
+   }
+  ],
+  "settled_by": "the data itself (lskn) and the Siddhānta-kaumudī on 7.4.75; no muni involved.",
+  "status": "still in the data as of 2026-11-22"
+ }
+]

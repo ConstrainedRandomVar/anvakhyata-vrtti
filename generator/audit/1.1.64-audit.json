@@ -1,0 +1,218 @@
+{
+ "pid": "1.1.64",
+ "generated": "2026-11-20",
+ "input": "audit/1.1.64-firings.json",
+ "totals": {
+  "firings": 6,
+  "licensed": 3,
+  "not_licensed": 3,
+  "unsure": 0,
+  "groups": {
+   "licensed": 2,
+   "not licensed": 2,
+   "mixed": 0,
+   "unsure": 0
+  },
+  "not_licensed_by_should_be": {
+   "none": 3
+  },
+  "not_licensed_by_reason": {
+   "VARTIKA_ONLY": 2,
+   "DERIVATION_ONLY": 1
+  },
+  "quotes": 14
+ },
+ "conditions": [
+  {
+   "text": "C1 — 1.1.64: the part from the last vowel to the end is called टि; its pradeśas are the rules that name टि (टित आत्मनेपदानां टेरे 3.4.79 …).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "11064",
+     "quote": "अचां संनिविष्टानां योऽन्त्योऽच्, तदादि शब्दरूपं टिसंज्ञं भवति।"
+    },
+    {
+     "file": "kashika",
+     "id": "11064",
+     "quote": "टिप्रदेशाः — <<टित आत्मनेपदानां टेरे>> [[३.४.७९]] इत्येवमादयः॥"
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "G1",
+   "group": "named by a commentator | vidhi | X (English)",
+   "verdict": "not licensed",
+   "how_checked": "Vasu passages read; Kāśikā at both sūtras.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "3.2.15",
+     "word": "named by Vasu",
+     "line": "3.2.15 named by Vasu  ⟨टि = from the last vowel to the end⟩",
+     "should_be": "none",
+     "reason": "VARTIKA_ONLY",
+     "why": "Vasu explains the ड् of डच् in the vārttika गिरौ डश्छन्दसि (गिरिशः); 3.2.15 itself teaches अच् and names no टि.",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "32015",
+       "quote": "The letter ड of डच् is indicatory denoting that there is elision of the final vowel with what follows it [[1.1.64]]"
+      },
+      {
+       "file": "kashika",
+       "id": "32015",
+       "quote": "गिरौ डश्छन्दसि॥"
+      }
+     ]
+    },
+    {
+     "n": "4.1.13",
+     "word": "named by Vasu",
+     "line": "4.1.13 named by Vasu  ⟨टि = from the last vowel to the end⟩",
+     "should_be": "none",
+     "reason": "DERIVATION_ONLY",
+     "why": "The ḍit डाप् makes the टि of पामन् drop — by 6.4.143 टेः, in the derivation; reading 4.1.13 (डाप् after मन्/अन्) needs no टि.",
+     "quotes": [
+      {
+       "file": "vasu_english",
+       "id": "41013",
+       "quote": "the letter ड् indicates that the affix is to be added after the elision of the टि [[1.1.64]] of the base."
+      },
+      {
+       "file": "kashika",
+       "id": "64143",
+       "quote": "टिसंज्ञकस्य डिति प्रत्यये परतो लोपो भवति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 0 · not licensed 2 · unsure 0"
+  },
+  {
+   "id": "G2",
+   "group": "own word, data case 6 | ādeśa | X",
+   "verdict": "licensed",
+   "how_checked": "Own word टेः; Kāśikā.",
+   "licensed": [
+    "3.4.79",
+    "6.3.92"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "licensed 2 · not licensed 0 · unsure 0 — Licensed: टेः is read through 1.1.64 (3.4.79 is Kāśikā's named pradeśa)."
+  },
+  {
+   "id": "G3",
+   "group": "named by a commentator | ekādeśa | X",
+   "verdict": "not licensed",
+   "how_checked": "BM passage read.",
+   "licensed": [],
+   "not_licensed": [
+    {
+     "n": "6.1.94",
+     "word": "named by बालमनोरमा",
+     "line": "6.1.94 named by बालमनोरमा  ⟨टि = from the last vowel to the end⟩",
+     "should_be": "none",
+     "reason": "VARTIKA_ONLY",
+     "why": "BM introduces 1.1.64 here (in SK order) for the vārttika शकन्ध्वादिषु पररूपं वाच्यम्, which needs टि; 6.1.94 itself (पररूप of an upasarga's अ before an एङ्-initial dhātu) names no टि.",
+     "quotes": [
+      {
+       "file": "balamanorama",
+       "id": "61094",
+       "quote": "अथ क्वचिट्टेः पररूपं विधातुं टिसंज्ञामाह-अचोऽन्त्यादि टि ।"
+      },
+      {
+       "file": "kashika",
+       "id": "61094",
+       "quote": "अवर्णान्तादुपसर्गादेङादौ धातौ पूर्वपरयोः पररूपमेकादेशो भवति।"
+      }
+     ]
+    }
+   ],
+   "unsure": [],
+   "note": "licensed 0 · not licensed 1 · unsure 0"
+  },
+  {
+   "id": "G4",
+   "group": "named by a commentator | svara | X",
+   "verdict": "licensed",
+   "how_checked": "Nyāsa passage; our vṛtti carries टेः from 8.2.89.",
+   "licensed": [
+    "8.2.90"
+   ],
+   "not_licensed": [],
+   "unsure": [],
+   "note": "licensed 1 · not licensed 0 · unsure 0 — Licensed: टेः is carried from 8.2.89 into 8.2.90 (our vṛtti: \"याज्यायाः अन्त्यस्य टेः\"), and Nyāsa discusses it via 1.1.64."
+  }
+ ],
+ "missed": [
+  {
+   "n": "6.4.143",
+   "pid": "1.1.64",
+   "why": "टेः (lopa before a ḍit) — the core टि rule; no 1.1.64 credit. Script: every sūtra whose own or carried words include टेः/टि without a 1.1.64 entry → 5.3.71, 6.4.143, 6.4.155, 7.1.88, 8.2.82, 8.2.89 (6 sūtras; 6.4.144/145 were added in the current build).",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "64143",
+     "quote": "टिसंज्ञकस्य डिति प्रत्यये परतो लोपो भवति।"
+    }
+   ]
+  },
+  {
+   "n": "6.4.155",
+   "pid": "1.1.64",
+   "why": "टेः before इष्ठ/इमन्/ईयस्.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "64155",
+     "quote": "भस्य टेर्लोपो भवतीष्ठेमेयस्सु परतः।"
+    }
+   ]
+  },
+  {
+   "n": "7.1.88",
+   "pid": "1.1.64",
+   "why": "भस्य टेर्लोपः.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "71088",
+     "quote": "पथ्यादीनां भसंज्ञकानां टेर्लोपो भवति।"
+    }
+   ]
+  },
+  {
+   "n": "5.3.71",
+   "pid": "1.1.64",
+   "why": "अकच् is placed before the टि.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "53071",
+     "quote": "स च प्राक् टेः, न परतः।"
+    }
+   ]
+  },
+  {
+   "n": "8.2.82",
+   "pid": "1.1.64",
+   "why": "वाक्यस्य टेः प्लुत उदात्तः (adhikāra) — and 8.2.89 प्रणवष्टेः.",
+   "quotes": [
+    {
+     "file": "kashika",
+     "id": "82082",
+     "quote": "वाक्यस्य टेरिति, प्लुत इति च, उदात्त इति च, एतत्त्रयमप्यधिकृतं"
+    },
+    {
+     "file": "kashika",
+     "id": "82089",
+     "quote": "यज्ञकर्मणि टेः प्रणव आदेशो भवति।"
+    }
+   ]
+  }
+ ]
+}
