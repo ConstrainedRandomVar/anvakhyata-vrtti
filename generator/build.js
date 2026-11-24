@@ -216,6 +216,10 @@ const glue = (cons, b) => VOW.includes(b[0]) ? cons.slice(0, -1) + MAT_OF(b[0]) 
 // sandhi via the shared library (searchtool/lib/sanskrit-search.js — the site's sandhi-tolerant search uses the same rules);
 // this wrapper only decides the Kāśikā-style SPACING and restores the avagraha the library leaves out
 const SS = require(path.join(__dirname, 'lib/sanskrit-search.js'));
+// quoted forms that are pragṛhya (1.1.13 शे, 1.1.18 ऊँ): no sandhi with them (6.1.125 प्लुतप्रगृह्या अचि नित्यम्) — Kāśikā «शे इत्येतत्», «ऊँ इत्ययमादेशो»
+// (reader report 2026-11-23: our Kāśikā style had «श इत्यस्य», and 1.1.18 «मतेनोँ इत्यादेशो»)
+const PRAGRHYA_Q = new Set(['शे', 'ऊँ']);
+const pragQ = (a, b) => (PRAGRHYA_Q.has(a) && /^इत/.test(b)) || b.replace(/^['‘]/, '') === 'ऊँ';   // only the quoted form (X इति…); शे = locative of the suffix श (6.3.55 ऋचः शे) is not pragṛhya
 function join(words) {
   if (process.env.OLDJOIN) return joinOld(words);
   const ws = words.filter(Boolean);
@@ -223,7 +227,7 @@ function join(words) {
   for (let i = 1; i < ws.length; i++) {
     const b = ws[i];
     const sp = out.lastIndexOf(' '), head = out.slice(0, sp + 1), a = out.slice(sp + 1);
-    if (a.endsWith('_') || b.startsWith('_') || b.startsWith("'")) { out = out + ' ' + b; continue; }      // protected (lists, quoted forms, a quoted name)
+    if (a.endsWith('_') || b.startsWith('_') || b.startsWith("'") || pragQ(a, b)) { out = out + ' ' + b; continue; }      // protected (lists, quoted forms, a quoted name, a pragṛhya form)
     if (a.includes('_') && /^इत्येत|^इति/.test(b) && /[ािीुूृेैोौ]$|[क-ह]$/.test(a)) { out = out + ' ' + b; continue; }   // a list's last item keeps its hiatus before इत्येते… (Kāśikā: “वर्या इत्येते”)
     let j;
     if (/^[इईउऊऋॠएऐओऔ]ः$/.test(a) && VOW.includes(b[0])) j = glue(a.slice(0, -1) + 'र्', b);   // a sound named in the 6th/5th: एः + अनेकाचः → एरनेकाचः
@@ -241,7 +245,7 @@ function joinFull(words) {    // the Siddhānta-kaumudī writes with full sandhi
   let out = ws.length ? ws[0] : '';
   for (let i = 1; i < ws.length; i++) {
     const b = ws[i], sp = out.lastIndexOf(' '), head = out.slice(0, sp + 1), a = out.slice(sp + 1);
-    if (b.startsWith("'") || a.endsWith("'")) { out = out + ' ' + b; continue; }
+    if (b.startsWith("'") || a.endsWith("'") || pragQ(a, b)) { out = out + ' ' + b; continue; }
     let j;
     if (/^[इईउऊऋॠएऐओऔ]ः$/.test(a) && VOW.includes(b[0])) j = glue(a.slice(0, -1) + 'र्', b);
     else if (/[ेो]$/.test(a) && b[0] === 'अ') j = a + 'ऽ' + b.slice(1);
@@ -1422,6 +1426,10 @@ for (const s of SUTRAS) {
   const guess = w => { if (!w.wcase || /[-]/.test(w.form) && false) return null; const last = w.segs[w.segs.length - 1], r = AEND['' + w.wcase + w.num]; if (!r || !r[0].test(last) || /^(अस्य|तस्य|यस्य|एषाम्|अस्मिन्|तस्मिन्)$/.test(last)) return null;
     const st = [...w.segs.slice(0, -1), last.replace(r[0], r[1])].join('-'); return st.length > 1 && !/्$/.test(st) ? { st, sk: 'प्रातिपदिकम्' } : null; };
   rec.words = words.map((w, i) => Object.assign({ form: w.form, wcase: w.wcase, work: w.work, num: w.num, kinds: w.lex.map(l => l ? l.kind : '?') }, stOf(w, i) || (w.lex.every(l => !l || ['word', 'nominal', '?', 'term'].includes(l.kind)) ? guess(w) : null) || {}));
+  // a pada written without its ending (5th pc slot, PV «लुप्तप्रथमान्तो निर्देशः»): mark it, and drop the lexicon's "no case ending → अव्ययम्"
+  // fallback, which predates reading that slot (1.1.13 शे showed as अव्ययम्; reader report 2026-11-23)
+  rec.words.forEach((o, i) => { const w = words[i]; if (!w.lupta) return; o.lupta = true;
+    const lx = (AUTO[id] && AUTO[id][i]) || []; if (o.sk === 'अव्ययम्' && lx.length && lx[lx.length - 1].src === 'indeclinable (no case ending)') { delete o.st; delete o.sk; } });
   // carried-over items
   const carriedSuffix = [], carriedCond = [];
   for (const c of an.concat(ad)) {
@@ -2525,7 +2533,7 @@ for (const s of SUTRAS) {
     const VIBh = ['अव्ययम्', 'प्रथमा', 'द्वितीया', 'तृतीया', 'चतुर्थी', 'पञ्चमी', 'षष्ठी', 'सप्तमी'], VACh = { 1: 'एकवचनम्', 2: 'द्विवचनम्', 3: 'बहुवचनम्' };
     const pbTextH = pid => /^PIS /.test(pid) ? (PIS[pid.slice(4)] || '') : ((BYID[sid(pid)] || {}).s || '');
     rec.why = { kind: { 'paribhāṣā': 'परिभाषा — tells how to read other rules', 'saṃjñā': 'संज्ञासूत्रम् — gives a technical name', 'adhikāra': 'अधिकारः — a heading', 'atideśa': 'अतिदेशः — extends a property' }[String(rec.kind).replace('*', '')] || String(rec.kind || ''),
-      pc: (rec.words || []).map(w => ({ f: w.form, v: w.wcase ? VIBh[w.wcase] + (VACh[w.num] ? ' ' + VACh[w.num] : '') : 'अव्ययम्' })), hand: true,
+      pc: (rec.words || []).map(w => ({ f: w.form, v: w.wcase ? (w.lupta ? 'लुप्त' : '') + VIBh[w.wcase] + (VACh[w.num] ? ' ' + VACh[w.num] : '') : 'अव्ययम्' })), hand: true,
       cards: H.steps.map(([pid, what, now], i) => ({ q: ['', `step ${i + 1}`], role: 'step', word: '', own: true, vib: '', ans: now,
         why: (pid ? pid.split(',') : []).map(p => ({ t: 'pb', pid: p, txt: what, pt: pbTextH(p) })).concat(pid ? [] : [{ t: 'case', txt: what }]), no: [], ev: null })),
       silent: [], left: [], fin: H.c, note: H.note || 'This vṛtti is hand-written from the prathamāvṛtti and the Kāśikā (a definitional sūtra the generator does not template).' };
@@ -2607,7 +2615,7 @@ const BR_SKIP = new Set(['कृत्', 'कृत्याः', 'तद्ध�
 const CLASSKEY = fs.existsSync(path.join(__dirname, 'class-key.json')) ? JSON.parse(fs.readFileSync(path.join(__dirname, 'class-key.json'), 'utf8')) : {};
 for (const r of RES) {
   for (const sp of r.superseded || []) { const c = r.carried.find(x => x.w === sp.w); if (c) { c.role = 'replaced by the sūtra’s own ' + sp.by; c.spoken = false; c.superseded = true; } }
-  const own = r.words.map(w => `${w.form} (${w.wcase ? '' + w.wcase + (w.num || '') : w.num ? 'लुप्त·' + w.num : 'अव्ययम्'})`).join(' ');
+  const own = r.words.map(w => `${w.form} (${w.lupta ? 'लुप्त·' + w.wcase + (w.num || '') : w.wcase ? '' + w.wcase + (w.num || '') : w.num ? 'लुप्त·' + w.num : 'अव्ययम्'})`).join(' ');   // लुप्त·1 = case 1, ending dropped (no number in the data)
   const car = r.carried.filter(c => !BR_SKIP.has(c.w) && !c.superseded).map(c => (c.w === 'ङ्याप्प्रातिपदिकात्' ? 'प्रातिपदिकात्' : c.w) + (c.code ? ` (${c.code})` : ''));   // carried words with their case·number too: [अपित् (11)]
   r.bracket = own + (car.length ? ' [' + car.join(', ') + ']' : '');
   r.pcLine = own;
@@ -2819,7 +2827,7 @@ for (const r of RES) {
         adhikara: ['अधिकारः', 'heading for the sūtras that follow'], other: ['', 'also said'] };
       const ORD = ['adhikara', 'samjna', 'samjni', 'nipatana', 'pratyaya', 'adesha', 'agama', 'accent', 'atidesha', 'sthani', 'prakriti', 'purva', 'nimitta', 'upapada', 'samartha', 'artha', 'vishaya', 'qualifier', 'acharya', 'option', 'negation', 'other'];
       const KINDN = { 'vidhi-pratyaya': 'प्रत्ययविधिः — introduces a suffix', adesha: 'आदेशविधिः — a substitution', agama: 'आगमविधिः — adds an augment', ekadesha: 'एकादेशः — one substitute for two sounds', svara: 'स्वरविधिः — an accent rule', samjna: 'संज्ञासूत्रम् — gives a technical name', paribhasha: 'परिभाषा — tells how to read other rules', adhikara: 'अधिकारः — a heading', atidesha: 'अतिदेशः — extends a property', nipatana: 'निपातनम् — states a ready-made form', nishedha: 'निषेधः — blocks a rule', niyama: 'नियमः — restricts a rule', samasa: 'समाससूत्रम् — a compound rule', vibhakti: 'विभक्तिसूत्रम् — assigns a case', pada: 'पदव्यवस्था — assigns parasmaipada / ātmanepada' };
-      const wcOf = x => { const w = (r.words || []).find(w => nrm(w.form) === nrm(x.word)); return w ? (w.wcase ? VIB[w.wcase] + (VAC[w.num] ? ' ' + VAC[w.num] : '') : (w.num ? '' : 'अव्ययम्')) : ''; };
+      const wcOf = x => { const w = (r.words || []).find(w => nrm(w.form) === nrm(x.word)); return w ? (w.wcase ? (w.lupta ? 'लुप्त' : '') + VIB[w.wcase] + (VAC[w.num] ? ' ' + VAC[w.num] : '') : (w.num ? '' : 'अव्ययम्')) : ''; };
       const engOnly = engineP.filter(p => !roleP.has(p.pid) && p.pid !== '1.3.11' && p.pid !== '1.1.56');   // 1.1.56: the engine credits sthānivat on every substitution — kept in the detailed steps, not taught here   // 1.3.11 is said once, on each carried word
       const CASEWHY = { nipatana: 'the sūtra states the finished form itself', vishaya: 'a 7th-case word naming the setting — “in X” (not “when X follows”)', artha: 'the case names the meaning — “in the sense of X”',
         option: 'a word meaning “optionally”', negation: 'न — the rule says “not”', samjna: 'the name being given', samjni: 'what receives the name', qualifier: 'it describes another word of the rule', acharya: 'a teacher whose view is reported',
@@ -2871,7 +2879,7 @@ for (const r of RES) {
       const finW = (r.genC || d.neu || '').split(' ').map(t => nrm(t).replace(/[ःंम्]$/, '')), saysIt = w => { const k = nrm(w).replace(/(श्च|ः|म्|ं)$/, ''); return k.length > 1 && finW.some(t => t.startsWith(k) || k.startsWith(t) && t.length > 2); };
       const silent = [...new Set((r.carried || []).filter(c => !voiced.has(nrm(c.w)) && !c.superseded && !saysIt(c.w)).map(c => `${c.w} (${c.from})`))];   // review 2026-11-18: never list a word the vṛtti says (परश्च, विभाषा)
       const left = engOnly.filter(p => !cards.some(c => c.why.some(w => w.pid === p.pid))).map(p => ({ pid: p.pid, txt: (EXP[p.pid] ? EXP[p.pid] + ' — ' : '') + tidyE(p.trigger) + ' → ' + tidyE(p.effect), pt: pbText(p.pid) }));
-      r.why = { kind: KINDN[d.kind] || d.kind, pc: (r.words || []).map(w => ({ f: w.form, v: w.wcase ? VIB[w.wcase] + (VAC[w.num] ? ' ' + VAC[w.num] : '') : 'अव्ययम्' })),
+      r.why = { kind: KINDN[d.kind] || d.kind, pc: (r.words || []).map(w => ({ f: w.form, v: w.wcase ? (w.lupta ? 'लुप्त' : '') + VIB[w.wcase] + (VAC[w.num] ? ' ' + VAC[w.num] : '') : 'अव्ययम्' })),
         p1311: pbText('1.3.11'), cards, silent, left, fin: r.genC || d.neu, note: VNOTE[r.n] || d.handNote || '' };
     }
     if (d.note) r.notes = (r.notes || []).concat('⚑ ' + d.note);

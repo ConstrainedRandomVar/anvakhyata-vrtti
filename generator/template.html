@@ -205,7 +205,7 @@ const unshout = t => String(t).replace(/(?<![\p{L}])\p{Lu}{3,}(?![\p{L}])/gu, m 
 const ROLE_EN = { prakriti: 'the base', artha: 'a meaning', qualifier: 'a description of another word', upapada: 'the word alongside', vishaya: 'the domain', nimitta: 'what follows', samjni: 'what is named', purva: 'what it comes after', adhikara: 'a heading', samjna: 'the name', sthani: 'what is replaced', adesha: 'the substitute', pratyaya: 'the suffix' };
 const whyNot = t => String(t).replace(/not the place \((?:a|an) (\w+)\)/, (m, k) => `the 6th case here marks ${ROLE_EN[k] || k}, not what is replaced`).replace(/not an upapada \((?:a|an) (\w+)\)/, (m, k) => `not the word alongside — it is ${ROLE_EN[k] || k}`);
 const styleName = w => w.replace(/^Kāśikā and Kaumudī style \(the same here\)/, 'With sandhi (the Kaumudī style reads the same)').replace(/^Kāśikā style/, 'With sandhi').replace(/^Kaumudī style/, 'Kaumudī style (स्यात् for भवति)');
-const CASEKEY = '<small class="note">(61) = 6th case, singular: the first digit is the case (1–7), the second the number (1 one, 2 two, 3 many)</small>';
+const CASEKEY = '<small class="note">(61) = 6th case, singular: the first digit is the case (1–7), the second the number (1 one, 2 two, 3 many) · (लुप्त·1) = 1st case, its ending dropped in the sūtra (no number given)</small>';
 function mergedHtml(r) {
   const W = r.why, nk = t => String(t || '').replace(/[-\s]/g, '');
   const tagOf = w => ({ anu: 'carried in', pb: 'paribhāṣā', vy: 'commentary', sup: 'supplied', case: 'from its case', word: 'the word' }[w.t] || '');
@@ -345,8 +345,8 @@ function openingHtml(r) {
   // case·number as the prathamāvṛtti gives it; where ashtadhyayi.com differs, a ⚑ shows its reading on click
   const ND = x => +[...x].map(c => '०१२३४५६७८९'.indexOf(c)).join('');
   const toks = pv && pv.padaccheda ? [...pv.padaccheda.matchAll(/(\S+)\s+([०-९])।([०-९])/g)].map(m => '' + ND(m[2]) + ND(m[3])) : [];
-  const ws = r.words.filter(w => w.wcase), al = toks.length && toks.length === ws.length;
-  const dcode = w => w.wcase ? '' + w.wcase + (w.num || '') : w.num ? 'लुप्त·' + w.num : 'अव्ययम्';
+  const ws0 = r.words.filter(w => w.wcase), ws1 = ws0.filter(w => !w.lupta), ws = toks.length === ws1.length ? ws1 : ws0, al = toks.length && toks.length === ws.length;   // a लुप्त pada may have no code in the PV
+  const dcode = w => w.lupta ? 'लुप्त·' + w.wcase + (w.num || '') : w.wcase ? '' + w.wcase + (w.num || '') : w.num ? 'लुप्त·' + w.num : 'अव्ययम्';   // लुप्त·1 = case 1 with its ending dropped
   const hv = w => w.st ? `<span class="pst" title="${esc(w.sk || 'प्रातिपदिकम्')}: ${esc(w.st)}">${esc(w.form)}</span>` : esc(w.form);   // prātipadika on hover
   const pcl = r.words.map(w => { const d = dcode(w), b = al && w.wcase ? toks[ws.indexOf(w)] : null;
     return b && b !== d ? `${hv(w)} (${b})<button class="flag" title="ashtadhyayi.com reads (${d})" onclick="this.nextElementSibling.hidden=!this.nextElementSibling.hidden">⚑</button><span class="note" hidden> ashtadhyayi.com: (${d})</span>` : `${hv(w)} (${d})`; }).join(' ');

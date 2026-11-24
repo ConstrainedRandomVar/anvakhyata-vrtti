@@ -7,7 +7,7 @@ from ashtadhyayi-data commit `24109f7b`. Machine-built: read them as a draft.
 |---|---|
 | `sutra_no`, `id`, `sutra` | 1.1.1, ashtadhyayi.com id `11001`, the sūtra text. |
 | `kind` | Rule kind the engine assigned: vidhi (suffix), ādeśa, operation (guṇa/vṛddhi/lopa …), svara, saṃjñā, nipātana, āgama, samāsa, pada, vibhakti, atideśa, ṣatva, ṇatva, paribhāṣā, adhikāra, ekādeśa … |
-| `padaccheda` | The sūtra's words with case·number codes (`61` = 6th singular). |
+| `padaccheda` | The sūtra's words with case·number codes (`61` = 6th singular). `लुप्त·1` = a word written without its ending (1st case, no number given — ashtadhyayi.com's 5th pc slot; e.g. 1.1.13 «‹शे› इति लुप्तप्रथमान्तो निर्देशः»). |
 | `with_anuvritti` | The sūtra with what it carries, in brackets. |
 | `carried` | Each carried word: where from, by anuvṛtti or adhikāra, its role, whether the vṛtti voices it, and whether a word of the sūtra itself supersedes it. |
 | `vrtti.kashika_style` | The vṛtti with sandhi, in the Kāśikā's manner (… भवति). |
