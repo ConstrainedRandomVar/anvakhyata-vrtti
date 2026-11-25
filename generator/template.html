@@ -75,7 +75,6 @@ details.pbs{margin-top:10px}details.pbs>summary{font-size:13px;letter-spacing:.0
     <span class="qwrap"><input id="q" placeholder="3.1.97 · 97 · vRRiddhiH At aich · अचो यत्" autocomplete="off" title="a sūtra number, or its words in Devanāgarī or ITRANS — sandhi-tolerant (vRRiddhiH At aich finds वृद्धिरादैच्)"><div id="qs"></div></span>
     <span class="filt" title="filter the list"><svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path d="M3 5h18l-7 8v6l-4 2v-8z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>
     <select id="fs" data-t="show only the sūtras taught in class"><option value="">all sūtras</option><option value="class">taught in class (class notes)</option></select>
-    <select id="fg" data-t="sūtras where a paribhāṣā the reference vṛttis rely on is not yet a step in ours" title="sūtras where a paribhāṣā the reference vṛttis rely on is not yet a step in ours"><option value="">any coverage</option><option value="*">a paribhāṣā is missing (any)</option></select>
     <select id="fp" data-t="sūtras whose steps use this paribhāṣā"><option value="">any paribhāṣā</option></select></span>
     <label class="sum"><input type="checkbox" id="fc"> show commentaries</label>
     <span class="sum" id="sum"></span>
@@ -107,7 +106,6 @@ const cnt = {}; D.LIST.forEach(r => { const v = verdictOf(r); cnt[v] = (cnt[v] |
 const ORDER = ['exact', 'style', 'gap', 'ours', 'unreviewed'];
 $('#sum').innerHTML = '';
 const pbIds = Object.keys(D.IDX).sort((a, b) => D.IDX[b].length - D.IDX[a].length);
-{ const g = {}; D.LIST.forEach(r => (r.gap || []).forEach(p => g[p] = (g[p] || 0) + 1)); $('#fg').innerHTML += Object.entries(g).sort((a, b) => b[1] - a[1]).map(([p, n]) => `<option value="${esc(p)}">missing ${esc(p)} · ${esc((D.PB[p] || {}).text || '')} (${n})</option>`).join(''); }
 // count per paribhāṣā: sūtras where it applies (✔) and where it was considered but is not applicable (✖)
 // our steps only — a commentary naming the paribhāṣā in its discussion (layer 1, e.g. the Nyāsa on 1.3.77) is not an application
 const pbCnt = id => { const ours = D.IDX[id].filter(x => x.layer !== 1), ok = new Set(ours.filter(x => x.status === '✔').map(x => x.n)), no = new Set(ours.filter(x => x.status !== '✔' && !ok.has(x.n)).map(x => x.n)); return { ok: ok.size, no: no.size }; };
@@ -118,19 +116,28 @@ const EQV = { '1.1.72': ['1.1.72', 'PIS 23'], 'PIS 23': ['PIS 23', '1.1.72'] };
 const vCell = (r, id) => { const from = [...new Set((EQV[id] || [id]).flatMap(p => (r.nd || {})[p] || []))]; const ours = r.pa.includes(id);
   if (!from.length) return ''; return `<b>Y</b> <span title="${esc(from.join(', '))}">(${esc(from.join(', '))})</span>${ours ? '' : ' <span class="pill v-gap" title="the vṛttis rely on it, but our steps do not apply it here">ours ✖</span>'}`; };   // also list the sūtras where the chosen paribhāṣā was considered but is not applicable
 let TAB = 's';
-document.querySelectorAll('.tab').forEach(b => b.onclick = () => { TAB = b.dataset.tab; document.querySelectorAll('.tab').forEach(x => x.classList.toggle('on', x === b)); render(); });
-['#q', '#fp', '#fc', '#fs', '#fg'].forEach(s => $(s).addEventListener('input', render));
-$('#q').addEventListener('input', () => suggest());
+const toList = () => { setQ(''); if (location.hash) history.pushState(null, '', location.pathname + location.search); TAB = 's'; document.querySelectorAll('.tab').forEach(x => x.classList.toggle('on', x.dataset.tab === 's')); render(); window.scrollTo(0, 0); };
+document.querySelectorAll('.tab').forEach(b => b.onclick = () => { if (b.dataset.tab === 's' && openN()) return toList(); TAB = b.dataset.tab; QV = $('#q').value; document.querySelectorAll('.tab').forEach(x => x.classList.toggle('on', x === b)); render(); });
+['#fp', '#fc', '#fs'].forEach(s => $(s).addEventListener('input', render));
+let QV = '';   // the query the page shows — see openN()
+const isNum = v => /^\d+\.\d+\.\d+$/.test(v) && D.LIST.some(x => x.n === v);
+const openN = () => TAB === 's' && isNum(QV.trim()) ? QV.trim() : '';   // a single sūtra is open
+const setQ = v => { $('#q').value = v; QV = v; };
+// while a sūtra is open, typing only suggests: the page changes when the reader picks a suggestion, presses Enter or completes a sūtra number
+// (beta tester 2026-11-25: clearing the box to type another number showed all 3,983 sūtras); in the list views the box filters as you type
+$('#q').addEventListener('input', e => { const v = $('#q').value.trim(); suggest(); if (!openN() || isNum(v) && !/^delete/.test(e.inputType || '')) { QV = $('#q').value; render(); } });
 // the address follows a typed sūtra number (Harsha 2026-11-18: "when I subsequently enter a sūtra number, the URL doesn't change — hard to share");
 // replaceState so typing does not fill the history or re-trigger hashchange; a query that is no sūtra number clears the old hash
 $('#q').addEventListener('input', () => { const v = $('#q').value.trim(), cur = decodeURIComponent(location.hash.slice(1)).split('~')[0];
-  if (/^\d+\.\d+\.\d+$/.test(v) && D.LIST.some(x => x.n === v)) { if (cur !== v) history.replaceState(null, '', '#' + v); }
-  else if (cur && cur !== v) history.replaceState(null, '', location.pathname + location.search); });
-$('#q').addEventListener('keydown', e => { const box = $('#qs'); if (box.style.display !== 'block') return; const it = [...box.children], i = it.findIndex(x => x.classList.contains('sel'));
+  if (isNum(v) && QV.trim() === v) { if (cur !== v) history.replaceState(null, '', '#' + v); }
+  else if (cur && cur !== v && QV.trim() !== cur) history.replaceState(null, '', location.pathname + location.search); });
+$('#q').addEventListener('keydown', e => { const box = $('#qs'); if (box.style.display !== 'block' || ![...box.children].some(x => x.classList.contains('sel'))) return; const it = [...box.children], i = it.findIndex(x => x.classList.contains('sel'));
   if (e.key === 'ArrowDown' || e.key === 'ArrowUp') { e.preventDefault(); const j = Math.max(0, Math.min(it.length - 1, i + (e.key === 'ArrowDown' ? 1 : -1))); it.forEach((x, k) => x.classList.toggle('sel', k === j)); }
-  else if (e.key === 'Enter' && it[i]) { e.preventDefault(); box.style.display = 'none'; $('#q').value = it[i].dataset.n; location.hash = it[i].dataset.n; render(); }
+  else if (e.key === 'Enter' && it[i]) { e.preventDefault(); box.style.display = 'none'; setQ(it[i].dataset.n); location.hash = it[i].dataset.n; render(); }
   else if (e.key === 'Escape') box.style.display = 'none'; });
-$('#qs').addEventListener('mousedown', e => { const d = e.target.closest('[data-n]'); if (!d) return; e.preventDefault(); $('#qs').style.display = 'none'; $('#q').value = d.dataset.n; location.hash = d.dataset.n; render(); });
+$('#q').addEventListener('keydown', e => { if (e.key !== 'Enter' || e.defaultPrevented) return; const v = $('#q').value.trim(); $('#qs').style.display = 'none';
+  if (isNum(v)) { location.hash = v; if (QV.trim() !== v) { QV = v; render(); } return; } QV = $('#q').value; if (location.hash) history.replaceState(null, '', location.pathname + location.search); render(); });
+$('#qs').addEventListener('mousedown', e => { const d = e.target.closest('[data-n]'); if (!d) return; e.preventDefault(); $('#qs').style.display = 'none'; setQ(d.dataset.n); location.hash = d.dataset.n; render(); });
 $('#q').addEventListener('blur', () => setTimeout(() => { $('#qs').style.display = 'none'; }, 150));
 const norm = s => s.replace(/\s+/g, '');
 // sandhi-tolerant sūtra search (the site's own engine, lib/sanskrit-search.js): Devanāgarī or ITRANS, pausā or joined.
@@ -149,14 +156,14 @@ function sScores(q) {
   return sc;
 }
 function matchQ(r, q) {
-  if (!q) return true; q = q.trim();
+  if (!q) return true; q = q.trim().replace(/^(\d+(\.\d+){0,1})\.$/, '$1');   // a half-typed number “1.1.” = “1.1”
   if (/^\d+(\.\d+){0,2}$/.test(q)) { if (q.split('.').length === 3) return r.n === q; if (!q.includes('.')) return r.n.endsWith('.' + q) || r.id === q; return r.n.startsWith(q + '.') || r.n === q; }
   return sScores(q).has(r.n) || norm(r.s).includes(norm(q)) || (r.gen && norm(r.gen).includes(norm(q)));
 }
 // the dropdown of candidates under the box: click (or Enter for the first) opens that sūtra
 function suggest() {
   const q = $('#q').value.trim(), box = $('#qs');
-  if (!q || /^\d+(\.\d+){0,2}$/.test(q)) { box.style.display = 'none'; return; }
+  if (!q || /^\d+(\.\d+){0,2}\.?$/.test(q)) { box.style.display = 'none'; return; }
   const sc = sScores(q), top = [...sc.entries()].sort((a, b) => b[1] - a[1]).slice(0, 10);
   if (!top.length) { box.style.display = 'none'; return; }
   const byN = new Map(D.LIST.map(r => [r.n, r]));
@@ -362,7 +369,7 @@ function sutraCard(r, hi) {
   const v = verdictOf(r);
   let h = `<div class="card${hi ? ' hit' : ''}" id="s-${r.n}"><div class="hd">${(() => { const i = D.LIST.findIndex(x => x.n === r.n), pv = D.LIST[i - 1], nx = D.LIST[i + 1]; return pv ? `<a class="snav" href="#${pv.n}" title="previous: ${pv.n} ${esc(pv.s)}">‹</a>` : '<span class="snav off">‹</span>'; })()}<a class="n" href="${link(r.n)}" target="_blank" rel="noopener" title="open on ashtadhyayi.com">${r.n}</a>${(() => { const i = D.LIST.findIndex(x => x.n === r.n), nx = D.LIST[i + 1]; return nx ? `<a class="snav" href="#${nx.n}" title="next: ${nx.n} ${esc(nx.s)}">›</a>` : '<span class="snav off">›</span>'; })()}<span class="s">${esc(r.s)}</span><span class="pill">${esc(r.kind.replace('*', ''))}</span><button class="rep" data-rep="${r.n}" title="Tell us if something on this page is missing or wrong">⚑ report</button>${!SHOW_OLD_LINK || /vrtti-old\.html/.test(location.pathname) ? '' : ` <a class="oldlnk" href="vrtti-old.html#${r.n}" target="_blank" title="this sūtra as the old (heuristic) generator built it — its vṛtti and steps">old page ↗</a>`}${r.hand ? '<span class="pill v-style" title="a definitional sūtra: its vṛtti and steps are written by hand from the prathamāvṛtti and the Kāśikā, not generated">hand-written vṛtti</span>' : r.handFix ? '<span class="pill v-style" title="the vṛtti built from the role table was found wrong in review (often a sūtra that says two things, e.g. “X does not happen, but Y does”), so the final vṛtti is written by hand from the references — the steps and cards are still generated">final vṛtti by hand</span>' : ''}${r.skExact ? '<span class="pill v-exact">Kaumudī: exact</span>' : ''}${r.ck && (r.ck.g.length + r.ck.b.length + r.ck.e.length) ? '<span class="pill">class notes ×' + (r.ck.g.length + r.ck.b.length + r.ck.e.length) + '</span>' : ''}</div>`;
   h += openingHtml(r);
-  if (r.pbNeed && r.pbNeed.length) { const gap = new Set((r.pbGap || []).map(x => x.pid)); h += `<h3>Paribhāṣās the reference vṛttis rely on (${r.pbNeed.length - gap.size} of ${r.pbNeed.length} covered by our steps)</h3><table class="cmp">${r.pbNeed.map(x => `<tr><td>${gap.has(x.pid) ? '<span class="pill v-gap">✗ missing</span>' : '<span class="pill v-exact">✔ covered</span>'}</td><td>${pbLink(x.pid)}</td><td class="note">${esc(x.why.join('; '))}</td><td class="note">${esc(x.from.join(', '))}</td></tr>`).join('')}</table>`; }
+  if (r.pbNeed && r.pbNeed.length) { const gap = new Set((r.pbGap || []).map(x => x.pid)); h += `<h3>Paribhāṣās the reference vṛttis rely on</h3><table class="cmp">${r.pbNeed.map(x => `<tr><td>${pbLink(x.pid)}${gap.has(x.pid) ? ' <span class="pill v-gap" title="not yet a step in ours">not in our steps</span>' : ''}</td><td class="note">${esc(x.why.join('; '))}</td><td class="note">${esc(x.from.join(', '))}</td></tr>`).join('')}</table>`; }
   if (r.pbReviewed && r.pbReviewed.length) h += `<div class="legend">Flagged by the wording check but read and found <b>not</b> to be a use here: ${r.pbReviewed.map(x => `${pbLink(x.pid)} — ${esc(x.why)}`).join('; ')}</div>`;
   // the merged step-by-step layout on every page (Harsha 2026-11-18: “roll it out”); the 31 fully hand-written sūtras keep their own step view
   if (r.why && r.steps && !r.why.hand) h += mergedHtml(r) + `<details class="stepsfold"><summary>Detailed steps (every paribhāṣā the engine applied, in the sūtra’s word order)</summary>${stepsHtml(r)}</details>`;
@@ -397,7 +404,7 @@ function pbCard(id) {
   return `<div class="card pbcard"><div class="hd">${B.link ? `<a class="n" href="${B.link}" target="_blank" rel="noopener">${esc(id)}</a>` : `<span class="n">${esc(id)}</span>`}<span class="ptext">${esc(B.text)}</span><span class="pill">${esc(B.kind)}</span><button class="rep" data-rep-pb="${esc(id)}" title="Tell us if something about this paribhāṣā is missing or wrong">⚑ report</button></div><div class="note">${esc(B.gloss)} · source: ${esc(B.src)}</div>${B.sk ? skHtml(B.sk, B.skh) : ''}<h3>Applies to: ${ok} ✔ · ${no} ✖</h3><div class="applies">${Object.entries(by).map(([n, st]) => `<a href="#${n}" class="${st === '✖' ? 'no' : st === '?' ? 'q' : ''}" title="${st}">${n}</a>`).join('') || '<span class="note">none in the pilot range</span>'}</div></div>`;
 }
 function render() {
-  const q = $('#q').value, fp = $('#fp').value;
+  const q = QV, fp = $('#fp').value;
   if (TAB === 'p') {
     const ids = Object.keys(D.PB).filter(id => (!fp || id === fp) && (!q || norm(((D.PB[id] || {}).text || '') + id + ((D.PB[id] || {}).gloss || '')).includes(norm(q))));
     $('#main').innerHTML = ids.sort((a, b) => (D.IDX[b] || []).length - (D.IDX[a] || []).length).map(pbCard).join('');
@@ -405,21 +412,21 @@ function render() {
   }
   // a full sūtra number in the search box picks that sūtra: the list filters do not apply — they are greyed out and ignored
   const one = /^\s*\d+\.\d+\.\d+\s*$/.test(q);
-  ['#fs', '#fg', '#fp'].forEach(id => { const el = $(id); el.disabled = one; el.title = one ? 'not applicable — a sūtra number is given' : (el.dataset.t || ''); });
-  const fs = one ? '' : $('#fs').value, fg = one ? '' : $('#fg').value, fpS = one ? '' : fp;
-  const rs = D.LIST.filter(r => matchQ(r, q) && (!fs || (fs === 'class' ? r.ck : r.set === fs)) && (!fg || (fg === '*' ? (r.gap || []).length : (r.gap || []).includes(fg))) && (!fpS || (FPNO ? r.pn2 && r.pn2.includes(fpS) || r.pa.includes(fpS) : r.pa.includes(fpS)) || r.n === fpS));
-  if (q.trim() && !/^\d+(\.\d+){0,2}$/.test(q.trim())) { const sc = sScores(q.trim()); rs.sort((a, b) => (sc.get(b.n) || 0) - (sc.get(a.n) || 0)); }   // best match first
+  ['#fs', '#fp'].forEach(id => { const el = $(id); el.disabled = one; el.title = one ? 'not applicable — a sūtra number is given' : (el.dataset.t || ''); });
+  const fs = one ? '' : $('#fs').value, fpS = one ? '' : fp;
+  const rs = D.LIST.filter(r => matchQ(r, q) && (!fs || (fs === 'class' ? r.ck : r.set === fs)) && (!fpS || (FPNO ? r.pn2 && r.pn2.includes(fpS) || r.pa.includes(fpS) : r.pa.includes(fpS)) || r.n === fpS));
+  if (q.trim() && !/^\d+(\.\d+){0,2}\.?$/.test(q.trim())) { const sc = sScores(q.trim()); rs.sort((a, b) => (sc.get(b.n) || 0) - (sc.get(a.n) || 0)); }   // best match first
   const tok = ++RT;
   if (!rs.length) { $('#main').innerHTML = '<div class="note">No sūtra matches.</div>'; return; }
   if (rs.length <= 12) {
     $('#main').innerHTML = '<div class="note">loading…</div>';
-    loadRecs(rs.map(r => r.n)).then(full => { if (tok !== RT) return; $('#main').innerHTML = full.map(r => sutraCard(r, full.length === 1)).join(''); fillComm(); })
+    loadRecs(rs.map(r => r.n)).then(full => { if (tok !== RT) return; $('#main').innerHTML = (openN() ? '<div class="note"><a href="#" class="tolist">← all sūtras</a></div>' : '') + full.map(r => sutraCard(r, full.length === 1)).join(''); fillComm(); })
       .catch(e => { $('#main').innerHTML = `<div class="note">${esc(e.message)} — open this page through the folder that holds data/</div>`; });
     return;
   }
   const shown = rs.slice(0, LIM);
   const fpNote = fpS && D.IDX[fpS] ? (() => { const c = pbCnt(fpS); return c.no ? ` · ${FPNO ? `including the ${c.no} where ${esc(fpS)} was considered but is not applicable (✖) — <a href="#" id="fpno">show only where it applies</a>` : `${esc(fpS)} applies in these; it was also considered and found not applicable in ${c.no} more — <a href="#" id="fpno">show those too</a>`}` : ''; })() : '';
-  $('#main').innerHTML = `<div class="note">${rs.length} sūtras — click one to open it${rs.length > LIM ? ` (showing ${LIM})` : ''}${fpNote}</div><table class="lst"><thead><tr><th>No.</th><th>Sūtra</th><th>Kind</th>${fpS ? `<th title="Y = at least one reference vṛtti relies on ${esc(fpS)} here (its result is in their wording); blank = none does">Confirmed by a vṛtti</th>` : `<th title="of the paribhāṣās the reference vṛttis rely on, how many are steps in ours; — = the references rely on none">Paribhāṣā steps</th>`}<th>Generated vṛtti (Kāśikā style)</th></tr></thead>` + shown.map(r => `<tr><td><a href="#${r.n}">${r.n}</a></td><td class="ls">${esc(r.s)}</td><td><span class="pill">${esc(r.kind.replace('*', ''))}</span></td><td class="note">${fpS ? vCell(r, fpS) : r.gen ? (r.pn ? `${r.pn - r.pg}/${r.pn}${(r.gap || []).length ? ` · missing ${[...new Set(r.gap)].map(esc).join(', ')}` : ''}` : '—') : esc(r.err || '')}</td><td class="lg">${esc(r.gen)}</td></tr>`).join('') + `</table>` + (rs.length > LIM ? `<button id="more">show more</button>` : '');
+  $('#main').innerHTML = `<div class="note">${rs.length} sūtras — click one to open it${rs.length > LIM ? ` (showing ${LIM})` : ''}${fpNote}</div><table class="lst"><thead><tr><th>No.</th><th>Sūtra</th><th>Kind</th>${fpS ? `<th title="Y = at least one reference vṛtti relies on ${esc(fpS)} here (its result is in their wording); blank = none does">Confirmed by a vṛtti</th>` : `<th title="the paribhāṣās our steps apply in this sūtra; — = none">Paribhāṣā steps</th>`}<th>Generated vṛtti (Kāśikā style)</th></tr></thead>` + shown.map(r => `<tr><td><a href="#${r.n}">${r.n}</a></td><td class="ls">${esc(r.s)}</td><td><span class="pill">${esc(r.kind.replace('*', ''))}</span></td><td class="note">${fpS ? vCell(r, fpS) : r.gen ? (r.pa.length ? `${r.pa.slice(0, 3).map(esc).join(' · ')}${r.pa.length > 3 ? ` +${r.pa.length - 3}` : ''}` : '—') : esc(r.err || '')}</td><td class="lg">${esc(r.gen)}</td></tr>`).join('') + `</table>` + (rs.length > LIM ? `<button id="more">show more</button>` : '');
   const mb = $('#more'); if (mb) mb.onclick = () => { LIM += 300; render(); };
   const fn = $('#fpno'); if (fn) fn.onclick = e => { e.preventDefault(); FPNO = !FPNO; render(); };
 }
@@ -437,7 +444,7 @@ async function fillComm() {
     if (d.open) go(); else d.addEventListener('toggle', go, { once: true });
   }
 }
-function fromHash() { const h0 = decodeURIComponent(location.hash.slice(1)); if (!h0) return render(); if (h0.startsWith('pb=')) { TAB = 'p'; document.querySelectorAll('.tab').forEach(x => x.classList.toggle('on', x.dataset.tab === 'p')); $('#q').value = ''; $('#fp').value = h0.slice(3); render(); window.scrollTo(0, 0); return; } const [h, vt] = h0.split('~'); TAB = 's'; document.querySelectorAll('.tab').forEach(x => x.classList.toggle('on', x.dataset.tab === 's')); $('#q').value = h; $('#fp').value = ''; FPNO = false; render(); window.scrollTo(0, 0); if (vt) markVt(vt); }
+function fromHash() { const h0 = decodeURIComponent(location.hash.slice(1)); if (!h0) { setQ(''); return render(); } if (h0.startsWith('pb=')) { TAB = 'p'; document.querySelectorAll('.tab').forEach(x => x.classList.toggle('on', x.dataset.tab === 'p')); setQ(''); $('#fp').value = h0.slice(3); render(); window.scrollTo(0, 0); return; } const [h, vt] = h0.split('~'); TAB = 's'; document.querySelectorAll('.tab').forEach(x => x.classList.toggle('on', x.dataset.tab === 's')); setQ(h); $('#fp').value = ''; FPNO = false; render(); window.scrollTo(0, 0); if (vt) markVt(vt); }
 // a vārttika link (#1.1.72~1.1.72 vt.2): open the sūtra's commentaries and mark the vārttika in the Kāśikā
 function markVt(id) { if (/^q:/.test(id)) return markQuote(id.slice(2)); const B = D.PB[id]; if (!B) return;
   let n = 0; const t = setInterval(() => { if (++n > 80) return clearInterval(t); const d = document.querySelector('details.comm[data-id]'); if (!d) return; if (!d.open) d.open = true; const cts = [...d.querySelectorAll('.ct')]; if (!cts.length) return; clearInterval(t);
@@ -455,7 +462,7 @@ function markQuote(q) { let n = 0; const t = setInterval(() => { if (++n > 80) r
 const mbLink = html => html.replace(/Mahābhāṣya on (\d+\.\d+\.\d+): “([^”]+)”/g, (m, n, q) => `<a href="#${n}~q:${encodeURIComponent(q)}" title="open ${n} with this passage marked in the Mahābhāṣya">Mahābhāṣya on ${n}</a>: “${q}”`);
 window.addEventListener('hashchange', fromHash);
 document.addEventListener('keydown', e => { if (/INPUT|SELECT|TEXTAREA/.test((e.target || {}).tagName || '') || e.altKey || e.ctrlKey || e.metaKey) return; const cards = document.querySelectorAll('.card[id^="s-"]'); if (cards.length !== 1) return; const a = cards[0].querySelectorAll('.snav'); const t = e.key === 'ArrowLeft' ? a[0] : e.key === 'ArrowRight' ? a[1] : null; if (t && t.href) { location.hash = t.getAttribute('href'); e.preventDefault(); } });
-document.addEventListener('click', e => { const t = e.target.closest('[data-pb]'); if (t) { $('#fp').value = t.dataset.pb; $('#q').value = ''; location.hash = ''; render(); } });
+document.addEventListener('click', e => { const t = e.target.closest('[data-pb]'); if (t) { $('#fp').value = t.dataset.pb; setQ(''); location.hash = ''; render(); } const a = e.target.closest('.tolist'); if (a) { e.preventDefault(); toList(); } });
 // ⚑ report (Harsha 2026-11-22: "allowing users to write back if they see something missing"): one form per sūtra / paribhāṣā page,
 // sent to the site's report relay (the same Google Apps Script as vv-reader.js / reporter.js / app.js — keep the URL in step);
 // if the relay does not confirm within 15 s, the reader's mail app opens with the same text. /feedback-triage reads these mails.
