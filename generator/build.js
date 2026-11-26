@@ -234,6 +234,7 @@ function join(words) {
     else if (/[ेो]$/.test(a) && b[0] === 'अ') j = a + 'ऽ' + b.slice(1);                    // pūrvarūpa with avagraha (उपपदेऽनुपसर्गे)
     else if (/[^ािीुूृेैोौ्इईउऊऋॠएऐओऔ]ः$/.test(a) && b[0] === 'अ') j = a.slice(0, -1) + 'ोऽ' + b.slice(1); // अः + अ → ओऽ (प्रत्ययोऽपवादः)
     else j = SS.sandhiJoin(a, b);
+    if (j === a + 'च्' + b && b[0] === 'छ') j = a + b;                                // the तुक् before छ (6.1.73 छे च) is a saṃhitā rule inside a word; the Kāśikā's prose keeps a vowel-final word apart from a following छ with no च् («इत्येतानि छन्दसि», «विकल्पेन छः» — 267 such spaces, never «…नच्छः») — keep the space (round 12)
     if (j === a + b) { out = head + a + ' ' + b; continue; }                         // no sandhi (incl. plain abutment): keep the space
     if (j.endsWith(b)) { const a2 = j.slice(0, j.length - b.length); out = head + (a2 !== a && /(र्|श्|ष्|स्|च्|ज्|ल्|न्|ं)$/.test(a2) && !/ं$/.test(a2) ? a2 + b : a2 + ' ' + b); continue; }
     out = head + j;                                                                    // vowels fused / avagraha
@@ -251,6 +252,7 @@ function joinFull(words) {    // the Siddhānta-kaumudī writes with full sandhi
     else if (/[ेो]$/.test(a) && b[0] === 'अ') j = a + 'ऽ' + b.slice(1);
     else if (/[^ािीुूृेैोौ्इईउऊऋॠएऐओऔ]ः$/.test(a) && b[0] === 'अ') j = a.slice(0, -1) + 'ोऽ' + b.slice(1);
     else j = SS.sandhiJoin(a, b);
+    if (j === a + 'च्' + b && b[0] === 'छ') j = a + b;                                // the Kaumudī's prose too keeps «इति छः», «एतानि छन्दसि» apart, no तुक् च् (6.1.73 is applied inside a word) (round 12)
     if (j === a + b) { out = head + (/्$/.test(a) ? a + b : a + ' ' + b); continue; }
     if (j.endsWith(b)) { const a2 = j.slice(0, j.length - b.length); out = head + (/्$/.test(a2) ? a2 + b : a2 + ' ' + b); continue; }
     out = head + j;
